@@ -2,8 +2,17 @@
 
 {% block content %}
 <h1>مصطلح</h1>
-<form action="/search" method="get">
+
+{# search form #}
+<form action="/terms" method="get">
   <input type="text" name="q">
   <button type="submit">search</button>
 </form>
+
+{# terms list #}
+<ul>
+{% for term in terms %}
+  <li>{{term.en}}: {{term.ar}}</li>
+{% endfor %}
+</ul>
 {% endblock %}

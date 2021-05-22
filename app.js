@@ -6,7 +6,7 @@ var logger = require('morgan')
 var nunjucks = require('nunjucks')
 
 var indexRouter = require('./routes/index')
-var usersRouter = require('./routes/users')
+var searchRouter = require('./routes/search')
 
 var app = express()
 
@@ -15,7 +15,7 @@ app.engine('njk', nunjucks.render)
 app.set('view engine', 'njk')
 
 // view engine setup
-var env = nunjucks.configure('views', {
+nunjucks.configure('views', {
   autoescape: true,
   express: app,
 })
@@ -27,7 +27,7 @@ app.use(cookieParser())
 app.use(express.static(path.join(__dirname, 'public')))
 
 app.use('/', indexRouter)
-app.use('/users', usersRouter)
+app.use('/search', searchRouter)
 
 // catch 404 and forward to error handler
 app.use(function (req, res, next) {
