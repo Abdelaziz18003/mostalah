@@ -1,18 +1,10 @@
 {% extends 'layout.njk' %}
 
 {% block content %}
-<h1>مصطلح</h1>
 
 {# search form #}
-<form action="/terms" method="get">
-  <input type="text" name="q">
-  <button type="submit">search</button>
-</form>
+{% include './partials/search-form.njk' %}
 
 {# terms list #}
-<ul>
-{% for term in terms %}
-  <li>{{term.en}}: {{term.ar}}</li>
-{% endfor %}
-</ul>
+{% include './partials/terms-list.njk' %}
 {% endblock %}

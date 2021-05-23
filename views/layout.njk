@@ -1,10 +1,19 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <title>قاموس تقني لتوحيد المصطلحات العربية | مصطلح</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>قاموس تقني يهدف لتوحيد المصطلحات العربية | مصطلح</title>
+    <link rel="stylesheet" href="/css/style.css">
+    <link rel="stylesheet" href="/css/index.css">
+    <link rel="stylesheet" href="/css/utils.css">
+    {% block css %}
+    {% endblock %}
   </head>
   <body>
+    <div class="container">
+    {% include './partials/header.njk' %}
     {% block content %}
     {% endblock %}
+    </div>
   </body>
 </html>

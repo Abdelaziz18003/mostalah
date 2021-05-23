@@ -1,0 +1,58 @@
+@font-face {
+  font-family: 'Droid Arabic Kufi';
+  src: url('/fonts/Droid-Arabic-Kufi.ttf') format('TrueType');
+}
+
+:root {
+  --color-primary: #0084ff;
+  --color-body: #444444;
+  --border-radius: 0.2rem;
+  --font-primary: 'Droid Arabic Kufi';
+  --spacing-sm: 0.5rem;
+  --spacing-md: 1rem;
+  --spacing-lg: 2rem;
+}
+
+* {
+  box-sizing: border-box;
+  font-family: var(--font-primary);
+}
+
+html,
+body {
+  color: var(--color-body);
+  font-family: var(--font-primary);
+}
+
+a {
+  text-decoration: none;
+}
+
+input {
+  width: 100%;
+  background-color: #efefef;
+  border: none;
+  border-bottom: 2px solid var(--color-body);
+  outline: none;
+  padding: var(--spacing-sm) var(--spacing-md);
+}
+
+input:focus {
+  border-bottom-color: var(--color-primary);
+}
+
+button {
+  border: none;
+  background: var(--color-primary);
+  border-radius: var(--border-radius);
+  color: white;
+  cursor: pointer;
+  outline: none;
+  padding: var(--spacing-sm) var(--spacing-md);
+}
+
+.container {
+  margin: 0 auto;
+  max-width: 960px;
+  padding: var(--spacing-sm);
+}

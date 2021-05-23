@@ -1,9 +1,9 @@
 {% extends 'layout.njk' %}
 
+{% block css %}
+<link rel="stylesheet" href="/css/index.css">
+{% endblock %}
+
 {% block content %}
-<h1>مصطلح</h1>
-<form action="/search" method="get">
-  <input type="text" name="q">
-  <button type="submit">search</button>
-</form>
+{% include './partials/hero.njk'%}
 {% endblock %}
