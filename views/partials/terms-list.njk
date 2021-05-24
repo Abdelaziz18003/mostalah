@@ -1,8 +1,17 @@
-<ul class="terms-list stack">
-{% for term in terms %}
-  <li class="terms-list__item">
-    <strong>{{term.en}}</strong>
-    <span>{{term.ar}}</span>
-  </li>
-{% endfor %}
-</ul>
+{% if terms.length %}
+  <div class="terms-list__empty-hint text-center">
+  نتائج البحث عن "{{ query }}"
+  </div>
+  <ul class="terms-list stack">
+  {% for term in terms %}
+    <li class="terms-list__item">
+      <span>{{term.ar}}</span>
+      <strong class="text-left">{{term.en}}</strong>
+    </li>
+  {% endfor %}
+  </ul>
+{% else %}
+  <div class="terms-list__empty-hint text-center">
+  لا توجد ترجمات ل "{{ query }}"
+  </div>
+{% endif %}

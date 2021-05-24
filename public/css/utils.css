@@ -1,3 +1,13 @@
+/* page direction */
+.ltr {
+  direction: ltr;
+}
+
+.rtl {
+  direction: rtl;
+}
+
+/* flex layout */
 .flex,
 .row {
   display: flex;
@@ -15,10 +25,24 @@
   justify-content: flex-end;
 }
 
+/* layout stack */
 .stack > * {
   margin-bottom: var(--spacing-md);
 }
 
 .stack > *:last-child {
   margin-bottom: 0;
+}
+
+/* text alignment */
+.text-center {
+  text-align: center;
+}
+
+.text-left {
+  text-align: left;
+}
+
+.text-right {
+  text-align: right;
 }

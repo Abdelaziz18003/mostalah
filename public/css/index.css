@@ -24,14 +24,16 @@
 .hero__heading {
   font-size: 4rem;
   font-weight: bold;
-  margin-bottom: 0;
+  margin-bottom: var(--spacing-lg);
   margin-top: 0;
   text-align: center;
 }
 
 .hero__subheading {
-  font-size: 1.5rem;
+  font-size: 1.3rem;
   text-align: center;
+  margin-bottom: var(--spacing-lg);
+  margin-top: 0;
 }
 
 .hero__form {
@@ -47,8 +49,13 @@
 }
 
 .terms-list__item {
-  background-color: lightgray;
+  background-color: #e1e5ea;
   display: flex;
   justify-content: space-between;
   padding: var(--spacing-md);
+}
+
+.terms-list__empty-hint {
+  font-size: 1.5em;
+  padding: 2em 2em;
 }
