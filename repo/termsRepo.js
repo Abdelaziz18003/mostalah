@@ -5,10 +5,11 @@ module.exports.list = function () {
 }
 
 module.exports.search = function (query) {
-  if (String(query).trim()) {
+  const queryString = String(query).trim().toLowerCase()
+  if (queryString) {
     return terms.filter((term) => {
-      const termString = (term.en + term.ar).trim()
-      return termString.includes(query)
+      const termString = (term.en + term.ar).trim().toLowerCase()
+      return termString.includes(queryString)
     })
   } else {
     return []
