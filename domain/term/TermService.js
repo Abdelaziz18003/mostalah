@@ -8,7 +8,7 @@ class TermService {
   }
 
   getTerm(termId) {
-    this.repository.getTerm(termId)
+    return this.repository.getTerm(termId)
   }
 
   updateTerm(term) {
@@ -20,7 +20,7 @@ class TermService {
   }
 
   listTerms() {
-    this.repository.listTerms()
+    return this.repository.listTerms()
   }
 }
 

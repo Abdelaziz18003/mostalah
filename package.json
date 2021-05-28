@@ -5,7 +5,8 @@
   "scripts": {
     "start": "node ./bin/www",
     "dev": "nodemon ./bin/www",
-    "prepare": "husky install"
+    "prepare": "husky install",
+    "test": "node ./tests/*.test.js | tap-spec"
   },
   "dependencies": {
     "cookie-parser": "~1.4.4",
@@ -21,7 +22,9 @@
     "husky": "^6.0.0",
     "lint-staged": "^11.0.0",
     "nodemon": "^2.0.7",
-    "prettier": "2.3.0"
+    "prettier": "2.3.0",
+    "tap-spec": "^5.0.0",
+    "zora": "^5.0.0-alpha.3"
   },
   "lint-staged": {
     "*.js": "eslint --cache --fix",
