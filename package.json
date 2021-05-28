@@ -4,7 +4,8 @@
   "private": true,
   "scripts": {
     "start": "node ./bin/www",
-    "dev": "nodemon ./bin/www"
+    "dev": "nodemon ./bin/www",
+    "prepare": "husky install"
   },
   "dependencies": {
     "cookie-parser": "~1.4.4",
@@ -16,7 +17,14 @@
     "nunjucks": "^3.2.3"
   },
   "devDependencies": {
+    "eslint": "^7.27.0",
+    "husky": "^6.0.0",
+    "lint-staged": "^11.0.0",
     "nodemon": "^2.0.7",
     "prettier": "2.3.0"
+  },
+  "lint-staged": {
+    "*.js": "eslint --cache --fix",
+    "*.prettier": "prettier --write"
   }
 }

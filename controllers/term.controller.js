@@ -7,29 +7,31 @@ const validateBodyMiddleware = require('../middlewares/validateBody.middleware')
 
 const routeName = '/terms'
 
-router.put(`${routeName}`,
-updateTermValidator,
-validateBodyMiddleware,
-(req, res, next) =>  {
-    
-    try{
+router.put(
+  `${routeName}`,
+  updateTermValidator,
+  validateBodyMiddleware,
+  (req, res) => {
+    try {
+      let data = JSON.parse(bytes)
 
-        let data = JSON.parse(bytes);
+      let termIndex = data.findIndex(
+        (item) =>
+          item.en.trim().toLowerCase() == req.body.from.trim().toLowerCase()
+      )
 
-        let termIndex = data.findIndex(item => item.en.trim().toLowerCase() == req.body.from.trim().toLowerCase())
-    
-        if(termIndex === -1) return res.status(404).send({message : "Term not found."})
-    
-        data[termIndex].ar = req.body.to
-    
-        fs.writeFileSync('repo/terms.json', JSON.stringify(data));
-    
-        return res.send(data[termIndex])
+      if (termIndex === -1)
+        return res.status(404).send({ message: 'Term not found.' })
 
-    } catch(err) {
-        return res.status(500).send({message : "Something went wrong"})
+      data[termIndex].ar = req.body.to
+
+      fs.writeFileSync('repo/terms.json', JSON.stringify(data))
+
+      return res.send(data[termIndex])
+    } catch (err) {
+      return res.status(500).send({ message: 'Something went wrong' })
     }
-
-})
+  }
+)
 
 module.exports = router

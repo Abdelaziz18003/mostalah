@@ -3,7 +3,7 @@ var router = express.Router()
 const termsRouter = require('../controllers/term.controller')
 
 /* GET home page. */
-router.get('/', function (req, res, next) {
+router.get('/', function (req, res) {
   res.render('index')
 })
 
