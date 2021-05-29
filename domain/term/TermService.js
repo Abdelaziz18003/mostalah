@@ -1,5 +1,10 @@
+const TermRepository = require('./TermRepository')
+
 class TermService {
   constructor(repository) {
+    if (!(repository instanceof TermRepository)) {
+      throw new Error('repository should be an instance of TermRepository')
+    }
     this.repository = repository
   }
 
