@@ -6,7 +6,7 @@
     "start": "node ./bin/www",
     "dev": "nodemon ./bin/www",
     "prepare": "husky install",
-    "test": "node ./tests/*.test.js | tap-spec"
+    "test": "INDENT=true node ./tests/term.test.js | tap-mocha-reporter spec"
   },
   "dependencies": {
     "cookie-parser": "~1.4.4",
@@ -23,8 +23,8 @@
     "lint-staged": "^11.0.0",
     "nodemon": "^2.0.7",
     "prettier": "2.3.0",
-    "tap-spec": "^5.0.0",
-    "zora": "^5.0.0-alpha.3"
+    "tap-mocha-reporter": "^5.0.1",
+    "zora": "^4.1.0"
   },
   "lint-staged": {
     "*.js": "eslint --cache --fix",
