@@ -8,7 +8,7 @@ class TranslationRepository {
   }
 
   getTranslation(translationId) {
-    this.store.getTranslation(translationId)
+    return this.store.getTranslation(translationId)
   }
 
   updateTranslation(translation) {
@@ -20,7 +20,7 @@ class TranslationRepository {
   }
 
   listTranslations(termId) {
-    this.store.listTranslations(termId)
+    return this.store.listTranslations(termId)
   }
 }
 

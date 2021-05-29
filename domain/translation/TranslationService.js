@@ -8,7 +8,7 @@ class TranslationService {
   }
 
   getTranslation(translationId) {
-    this.repository.getTranslation(translationId)
+    return this.repository.getTranslation(translationId)
   }
 
   updateTranslation(translation) {
@@ -20,7 +20,10 @@ class TranslationService {
   }
 
   listTranslations(termId) {
-    this.repository.listTranslations(termId)
+    if (!termId) {
+      throw new Error('termId is required to list translations')
+    }
+    return this.repository.listTranslations(termId)
   }
 }
 
