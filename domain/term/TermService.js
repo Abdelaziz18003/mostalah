@@ -27,6 +27,10 @@ class TermService {
   listTerms() {
     return this.repository.listTerms()
   }
+
+  searchTerms(query) {
+    return this.repository.searchTerms(query)
+  }
 }
 
 module.exports = TermService

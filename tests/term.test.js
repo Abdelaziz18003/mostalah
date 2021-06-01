@@ -1,5 +1,5 @@
 const { test } = require('zora')
-const Store = require('./store')
+const Store = require('../store/InMemoryStore')
 const TermEntity = require('../domain/term/TermEntity')
 const TermRepository = require('../domain/term/TermRepository')
 const TermService = require('../domain/term/TermService')
@@ -46,6 +46,15 @@ test('Terms Service tests', (t) => {
   t.test('list terms', (t) => {
     const terms = termService.listTerms()
     t.ok(terms.length > 0, 'should return an array of terms')
+  })
+
+  t.test('search terms', (t) => {
+    const query = 'attribute'
+    const terms = termService.searchTerms(query)
+    const isValid = terms.every((t) => t.value.includes(query))
+    t.ok(Array.isArray(terms), 'the result should be an array')
+    t.equal(terms.length, 1, 'should not be empty if given an existing query')
+    t.ok(isValid, 'the returned terms should contain the query')
   })
 })
 

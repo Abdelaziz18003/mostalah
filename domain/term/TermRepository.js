@@ -22,6 +22,10 @@ class TermRepository {
   listTerms() {
     return this.store.listTerms()
   }
+
+  searchTerms(query) {
+    return this.store.searchTerms(query)
+  }
 }
 
 module.exports = TermRepository
