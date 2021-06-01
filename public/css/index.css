@@ -42,20 +42,3 @@
   gap: 1rem;
   text-align: center;
 }
-
-.terms-list {
-  list-style: none;
-  padding: 0;
-}
-
-.terms-list__item {
-  background-color: #e1e5ea;
-  display: flex;
-  justify-content: space-between;
-  padding: var(--spacing-md);
-}
-
-.terms-list__empty-hint {
-  font-size: 1.5em;
-  padding: 2em 2em;
-}

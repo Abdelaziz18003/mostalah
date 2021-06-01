@@ -17,7 +17,7 @@ router.put(
 
       let termIndex = data.findIndex(
         (item) =>
-          item.en.trim().toLowerCase() == req.body.from.trim().toLowerCase()
+          item.value.trim().toLowerCase() == req.body.from.trim().toLowerCase()
       )
 
       if (termIndex === -1)

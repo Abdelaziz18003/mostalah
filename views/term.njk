@@ -1,0 +1,44 @@
+{% extends 'layout.njk' %}
+
+{% block content %}
+
+<div class="section">
+  <h1 class="title is-2 has-text-centered">
+    <div>"{{term.value}}"</div>
+  </h1>
+</div>
+
+<div>
+  <h2 class="title is-4">المقابل العربي</h2>
+
+  {# translations list #}
+  <ul>
+  {% for translation in term.translations %}
+    <li class="p-2 mt-2 has-background-light">{{ translation.value }}</li>
+  {% endfor %}
+  </ul>
+</div>
+
+<div class="p-3 mt-5 has-background-info-light">
+  <h2 class="title is-4">إقتراح مقابل عربي جديد</h2>
+  {# translation form #}
+  <form action="/term/{{ term.id }}" class="mt-4">
+    <div class="field">
+      <label class="label">نص المقابل العربي</label>
+      <div class="control">
+        <input class="input" type="text" placeholder="نص المقابل العربي هنا">
+      </div>
+    </div>
+
+    <div class="field is-grouped">
+      <div class="control">
+        <button type="submit" class="button is-link">إرسال</button>
+      </div>
+      <div class="control">
+        <button type="reset" class="button is-link is-light">إلغاء</button>
+      </div>
+    </div>
+  </form>
+</div>
+
+{% endblock %}

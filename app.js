@@ -7,6 +7,7 @@ var nunjucks = require('nunjucks')
 
 var indexRouter = require('./routes/index')
 var searchRouter = require('./routes/search')
+var termRouter = require('./routes/term')
 
 var app = express()
 
@@ -28,6 +29,7 @@ app.use(express.static(path.join(__dirname, 'public')))
 
 app.use('/', indexRouter)
 app.use('/search', searchRouter)
+app.use('/term', termRouter)
 
 // catch 404 and forward to error handler
 app.use(function (req, res, next) {
