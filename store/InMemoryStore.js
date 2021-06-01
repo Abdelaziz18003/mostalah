@@ -1,7 +1,18 @@
+const testTerms = [
+  { id: 1, value: 'tag' },
+  { id: 2, value: 'attribute' },
+]
+
+const testTranslations = [
+  { id: 1, termId: 1, value: 'وسم' },
+  { id: 2, termId: 2, value: 'خاصية' },
+  { id: 3, termId: 2, value: 'سمة' },
+]
+
 class Store {
   constructor({ terms = [], translations = [] }) {
-    this.terms = terms
-    this.translations = translations
+    this.terms = terms.length ? terms : testTerms
+    this.translations = translations.length ? translations : testTranslations
   }
 
   addTerm(term) {
@@ -9,7 +20,7 @@ class Store {
   }
 
   getTerm(termId) {
-    return this.terms.find((term) => term.id === termId)
+    return this.terms.find((term) => term.id == termId)
   }
 
   updateTerm(term) {
@@ -34,6 +45,22 @@ class Store {
 
   listTerms() {
     return this.terms
+  }
+
+  searchTerms(query) {
+    const queryString = String(query).trim().toLowerCase()
+    if (queryString) {
+      return this.terms.filter((term) => {
+        const termString = (
+          term.value + (term.translations ? term.translations.toString() : '')
+        )
+          .trim()
+          .toLowerCase()
+        return termString.includes(queryString)
+      })
+    } else {
+      return []
+    }
   }
 
   addTranslation(translation) {
@@ -66,8 +93,8 @@ class Store {
     this.translations.splice(index, 1)
   }
 
-  listTranslations() {
-    return this.translations
+  listTranslations(termId) {
+    return this.translations.filter((t) => t.termId == termId)
   }
 }
 

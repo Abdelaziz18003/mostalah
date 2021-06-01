@@ -6,9 +6,11 @@
   {% for term in terms %}
     <li class="p-3 has-background-light is-flex is-justify-content-space-between is-align-items-center">
 
+      <div>
       {% for translation in term.translations %}
         <span>{{ translation.value }}، </span>
       {% endfor %}
+      </div>
 
       <div class="is-flex is-align-items-center">
         <a href="/term/{{term.id}}" class="button is-link is-small ml-2">

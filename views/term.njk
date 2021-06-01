@@ -22,11 +22,16 @@
 <div class="p-3 mt-5 has-background-info-light">
   <h2 class="title is-4">إقتراح مقابل عربي جديد</h2>
   {# translation form #}
-  <form action="/term/{{ term.id }}" class="mt-4">
+  <form action="/term/{{ term.id }}" method="POST" class="mt-4">
     <div class="field">
       <label class="label">نص المقابل العربي</label>
       <div class="control">
-        <input class="input" type="text" placeholder="نص المقابل العربي هنا">
+        <input
+          class="input"
+          type="text"
+          name="translation"
+          placeholder="نص المقابل العربي هنا"
+        >
       </div>
     </div>
 
