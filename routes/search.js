@@ -1,7 +1,7 @@
 const express = require('express')
 const router = express.Router()
 
-const InMemoryStore = require('../store/InMemoryStore')
+const InMemoryStore = require('../infra/store/InMemoryStore')
 const AppService = require('../app/AppService')
 
 const store = new InMemoryStore({

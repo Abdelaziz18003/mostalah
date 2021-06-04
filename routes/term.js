@@ -3,7 +3,7 @@ var router = express.Router()
 
 const TranslationEntity = require('../domain/translation/TranslationEntity')
 
-const InMemoryStore = require('../store/InMemoryStore')
+const InMemoryStore = require('../infra/store/InMemoryStore')
 const AppService = require('../app/AppService')
 
 const store = new InMemoryStore({
