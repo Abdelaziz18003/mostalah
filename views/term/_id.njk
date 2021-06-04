@@ -19,31 +19,6 @@
   </ul>
 </div>
 
-<div class="p-3 mt-5 has-background-info-light">
-  <h2 class="title is-4">إقتراح مقابل عربي جديد</h2>
-  {# translation form #}
-  <form action="/term/{{ term.id }}" method="POST" class="mt-4">
-    <div class="field">
-      <label class="label">نص المقابل العربي</label>
-      <div class="control">
-        <input
-          class="input"
-          type="text"
-          name="translation"
-          placeholder="نص المقابل العربي هنا"
-        >
-      </div>
-    </div>
-
-    <div class="field is-grouped">
-      <div class="control">
-        <button type="submit" class="button is-link">إرسال</button>
-      </div>
-      <div class="control">
-        <button type="reset" class="button is-link is-light">إلغاء</button>
-      </div>
-    </div>
-  </form>
-</div>
+{% include "../partials/new-translation.njk" %}
 
 {% endblock %}

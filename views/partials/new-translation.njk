@@ -1,28 +1,19 @@
 <div class="mt-5">
-  <h2 class="title is-4">إضافة مصطلح جديد</h2>
+  <h2 class="title is-5">إقتراح مقابل عربي جديد</h2>
+  {# translation form #}
   <form
     action="/term/{{ term.id }}"
     method="POST"
     class="p-3 mt-4 has-background-info-light"
   >
     <div class="field">
-      <label class="label">المصطلح بالإنجليزية</label>
+      <label class="label">نص المقابل العربي</label>
       <div class="control">
         <input
           class="input"
           type="text"
-          name="en"
-        >
-      </div>
-    </div>
-
-    <div class="field">
-      <label class="label">المقابل العربي</label>
-      <div class="control">
-        <input
-          class="input"
-          type="text"
-          name="ar"
+          name="translation"
+          placeholder="نص المقابل العربي هنا"
         >
       </div>
     </div>
