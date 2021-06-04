@@ -1,4 +1,4 @@
-const TranslationRepository = require('./TranslationRepository')
+const TranslationRepository = require('../domain/translation/TranslationRepository')
 
 class TranslationService {
   constructor(store) {

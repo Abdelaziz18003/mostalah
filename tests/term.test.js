@@ -1,10 +1,10 @@
 const { test } = require('zora')
 const Store = require('../store/InMemoryStore')
 const TermEntity = require('../domain/term/TermEntity')
-const TermService = require('../domain/term/TermService')
+const TermService = require('../app/TermService')
 
 const TranslationEntity = require('../domain/translation/TranslationEntity')
-const TranslationService = require('../domain/translation/TranslationService')
+const TranslationService = require('../app/TranslationService')
 
 const testTerms = [
   { id: 1, value: 'tag' },

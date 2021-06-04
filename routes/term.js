@@ -4,8 +4,8 @@ var router = express.Router()
 const TranslationEntity = require('../domain/translation/TranslationEntity')
 
 const InMemoryStore = require('../store/InMemoryStore')
-const TermService = require('../domain/term/TermService')
-const TranslationService = require('../domain/translation/TranslationService')
+const TermService = require('../app/TermService')
+const TranslationService = require('../app/TranslationService')
 
 const store = new InMemoryStore({
   terms: [],
@@ -14,6 +14,12 @@ const store = new InMemoryStore({
 
 const termService = new TermService(store)
 const translationService = new TranslationService(store)
+
+router.post('/', function (req, res) {
+  const term = termService.getTerm(req.params.id)
+  const translations = translationService.listTranslations(req.params.id)
+  res.render('term', { term: { ...term, translations } })
+})
 
 router.get('/:id', function (req, res) {
   const term = termService.getTerm(req.params.id)

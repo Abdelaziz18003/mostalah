@@ -1,4 +1,4 @@
-const TermRepository = require('./TermRepository')
+const TermRepository = require('../domain/term/TermRepository')
 
 class TermService {
   constructor(store) {

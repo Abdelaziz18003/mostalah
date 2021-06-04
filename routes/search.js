@@ -2,8 +2,8 @@ const express = require('express')
 const router = express.Router()
 
 const InMemoryStore = require('../store/InMemoryStore')
-const TermService = require('../domain/term/TermService')
-const TranslationService = require('../domain/translation/TranslationService')
+const TermService = require('../app/TermService')
+const TranslationService = require('../app/TranslationService')
 
 const store = new InMemoryStore({
   terms: [],
