@@ -20,7 +20,7 @@ router.get('/', function (req, res) {
     const translations = translationService.listTranslations(term.id)
     term.translations = translations
   })
-  res.render('search', { terms })
+  res.render('search', { terms, query })
 })
 
 module.exports = router
