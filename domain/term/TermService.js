@@ -1,7 +1,8 @@
 const TermRepository = require('./TermRepository')
 
 class TermService {
-  constructor(repository) {
+  constructor(store) {
+    const repository = new TermRepository(store)
     if (!(repository instanceof TermRepository)) {
       throw new Error('repository should be an instance of TermRepository')
     }

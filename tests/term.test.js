@@ -1,11 +1,9 @@
 const { test } = require('zora')
 const Store = require('../store/InMemoryStore')
 const TermEntity = require('../domain/term/TermEntity')
-const TermRepository = require('../domain/term/TermRepository')
 const TermService = require('../domain/term/TermService')
 
 const TranslationEntity = require('../domain/translation/TranslationEntity')
-const TranslationRepository = require('../domain/translation/TranslationRepository')
 const TranslationService = require('../domain/translation/TranslationService')
 
 const testTerms = [
@@ -16,8 +14,7 @@ const testTerms = [
 // Terms Service Tests
 test('Terms Service tests', (t) => {
   const store = new Store({ terms: testTerms })
-  const repository = new TermRepository(store)
-  const termService = new TermService(repository)
+  const termService = new TermService(store)
 
   t.test('add term', (t) => {
     const term = new TermEntity({ id: 3, value: 'Bug' })
@@ -67,8 +64,7 @@ const testTranslations = [
 // Translation Service tests
 test('Translation Service tests', (t) => {
   const store = new Store({ translations: testTranslations })
-  const repository = new TranslationRepository(store)
-  const translationService = new TranslationService(repository)
+  const translationService = new TranslationService(store)
 
   t.test('add translation', (t) => {
     const oldCount = testTranslations.length
@@ -116,7 +112,7 @@ test('Translation Service tests', (t) => {
     t.throws(() => {
       translationService.listTranslations()
     }, 'should throw an error if no termId is provided')
-    const translations = translationService.listTranslations(1)
+    const translations = translationService.listTranslations(2)
     t.ok(
       translations.length > 0,
       'should return a translations array of a given term'

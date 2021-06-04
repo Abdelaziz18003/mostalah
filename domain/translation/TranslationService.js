@@ -1,6 +1,8 @@
+const TranslationRepository = require('./TranslationRepository')
+
 class TranslationService {
-  constructor(repository) {
-    this.repository = repository
+  constructor(store) {
+    this.repository = new TranslationRepository(store)
   }
 
   addTranslation(translation) {

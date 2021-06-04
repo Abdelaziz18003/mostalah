@@ -2,21 +2,16 @@ const express = require('express')
 const router = express.Router()
 
 const InMemoryStore = require('../store/InMemoryStore')
-const TermRepository = require('../domain/term/TermRepository')
 const TermService = require('../domain/term/TermService')
-
-const TranslationRepository = require('../domain/translation/TranslationRepository')
 const TranslationService = require('../domain/translation/TranslationService')
 
 const store = new InMemoryStore({
   terms: [],
   translations: [],
 })
-const termRepository = new TermRepository(store)
-const termService = new TermService(termRepository)
 
-const translationRepository = new TranslationRepository(store)
-const translationService = new TranslationService(translationRepository)
+const termService = new TermService(store)
+const translationService = new TranslationService(store)
 
 router.get('/', function (req, res) {
   const query = req.query.q
