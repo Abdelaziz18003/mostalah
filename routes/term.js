@@ -4,27 +4,29 @@ var router = express.Router()
 const TranslationEntity = require('../domain/translation/TranslationEntity')
 
 const InMemoryStore = require('../store/InMemoryStore')
-const TermService = require('../app/TermService')
-const TranslationService = require('../app/TranslationService')
+const AppService = require('../app/AppService')
 
 const store = new InMemoryStore({
   terms: [],
   translations: [],
 })
 
-const termService = new TermService(store)
-const translationService = new TranslationService(store)
+const appService = new AppService(store)
 
 router.post('/', function (req, res) {
-  const term = termService.getTerm(req.params.id)
-  const translations = translationService.listTranslations(req.params.id)
-  res.render('term', { term: { ...term, translations } })
+  const newTerm = req.body
+  const termId = appService.addTerm(newTerm)
+  res.redirect(`./${termId}`)
+})
+
+router.get('/new', function (req, res) {
+  res.render('./term/new')
 })
 
 router.get('/:id', function (req, res) {
-  const term = termService.getTerm(req.params.id)
-  const translations = translationService.listTranslations(req.params.id)
-  res.render('term', { term: { ...term, translations } })
+  const term = appService.getTerm(req.params.id)
+  const translations = appService.listTranslations(req.params.id)
+  res.render('./term/_id', { term: { ...term, translations } })
 })
 
 router.post('/:id', function (req, res) {
@@ -33,10 +35,10 @@ router.post('/:id', function (req, res) {
     termId: req.params.id,
     value: req.body.translation,
   })
-  translationService.addTranslation(translation)
-  const term = termService.getTerm(req.params.id)
-  const translations = translationService.listTranslations(req.params.id)
-  res.render('term', { term: { ...term, translations } })
+  appService.addTranslation(translation)
+  const term = appService.getTerm(req.params.id)
+  const translations = appService.listTranslations(req.params.id)
+  res.render('./term/_id', { term: { ...term, translations } })
 })
 
 module.exports = router
