@@ -1,5 +1,5 @@
 const { test } = require('zora')
-const Store = require('../infra/store/InMemoryStore')
+const Store = require('../infrastructure/store/InMemoryStore')
 const TermEntity = require('../domain/term/TermEntity')
 const AppService = require('../app/AppService')
 
