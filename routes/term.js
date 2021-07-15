@@ -3,10 +3,10 @@ var router = express.Router()
 
 const TranslationEntity = require('../domain/translation/TranslationEntity')
 
-const InMemoryStore = require('../infrastructure/store/InMemoryStore')
+const FakeStore = require('../infrastructure/store/fake')
 const AppService = require('../app/AppService')
 
-const store = new InMemoryStore({
+const store = new FakeStore({
   terms: [],
   translations: [],
 })

@@ -1,5 +1,5 @@
 const { test } = require('zora')
-const Store = require('../infrastructure/store/InMemoryStore')
+const FakeStore = require('../infrastructure/store/fake')
 const TermEntity = require('../domain/term/TermEntity')
 const AppService = require('../app/AppService')
 
@@ -12,7 +12,7 @@ const testTerms = [
 
 // Terms Service Tests
 test('Terms Service tests', (t) => {
-  const store = new Store({ terms: testTerms })
+  const store = new FakeStore({ terms: testTerms })
   const appService = new AppService(store)
 
   t.test('add term', (t) => {
@@ -62,7 +62,7 @@ const testTranslations = [
 
 // Translation Service tests
 test('Translation Service tests', (t) => {
-  const store = new Store({ translations: testTranslations })
+  const store = new FakeStore({ translations: testTranslations })
   const appService = new AppService(store)
 
   t.test('add translation', (t) => {
