@@ -1,20 +1,16 @@
-const TermRepository = require('../domain/term/TermRepository')
-const TranslationRepository = require('../domain/translation/TranslationRepository')
-
 function getUniqueId() {
   return parseInt(Math.random() * 10 ** 14)
 }
 
 class AppService {
   constructor(store) {
-    this.termRepository = new TermRepository(store)
-    this.translationRepository = new TranslationRepository(store)
+    this.store = store
   }
 
   addTerm(term) {
     const termId = getUniqueId()
-    this.termRepository.addTerm({ id: termId, value: term.en })
-    this.translationRepository.addTranslation({
+    this.store.addTerm({ id: termId, value: term.en })
+    this.store.addTranslation({
       termId: termId,
       id: getUniqueId(),
       value: term.ar,
@@ -23,46 +19,46 @@ class AppService {
   }
 
   getTerm(termId) {
-    return this.termRepository.getTerm(termId)
+    return this.store.getTerm(termId)
   }
 
   updateTerm(term) {
-    this.termRepository.updateTerm(term)
+    this.store.updateTerm(term)
   }
 
   deleteTerm(termId) {
-    this.termRepository.deleteTerm(termId)
+    this.store.deleteTerm(termId)
   }
 
   listTerms() {
-    return this.termRepository.listTerms()
+    return this.store.listTerms()
   }
 
   searchTerms(query) {
-    return this.termRepository.searchTerms(query)
+    return this.store.searchTerms(query)
   }
 
   addTranslation(translation) {
-    this.translationRepository.addTranslation(translation)
+    this.store.addTranslation(translation)
   }
 
   getTranslation(translationId) {
-    return this.translationRepository.getTranslation(translationId)
+    return this.store.getTranslation(translationId)
   }
 
   updateTranslation(translation) {
-    this.translationRepository.updateTranslation(translation)
+    this.store.updateTranslation(translation)
   }
 
   deleteTranslation(translationId) {
-    this.translationRepository.deleteTranslation(translationId)
+    this.store.deleteTranslation(translationId)
   }
 
   listTranslations(termId) {
     if (!termId) {
       throw new Error('termId is required to list translations')
     }
-    return this.translationRepository.listTranslations(termId)
+    return this.store.listTranslations(termId)
   }
 }
 

@@ -1,9 +1,9 @@
 const { test } = require('zora')
 const FakeStore = require('../infrastructure/store/fake')
-const TermEntity = require('../domain/term/TermEntity')
+const Term = require('../domain/Term')
 const AppService = require('../app/AppService')
 
-const TranslationEntity = require('../domain/translation/TranslationEntity')
+const Translation = require('../domain/Translation')
 
 const testTerms = [
   { id: 1, value: 'tag' },
@@ -16,7 +16,7 @@ test('Terms Service tests', (t) => {
   const appService = new AppService(store)
 
   t.test('add term', (t) => {
-    const term = new TermEntity({ id: 3, value: 'Bug' })
+    const term = new Term({ id: 3, value: 'Bug' })
     appService.addTerm(term)
     t.equal(store.terms.length, 3, 'should increment terms number')
   })
@@ -27,7 +27,7 @@ test('Terms Service tests', (t) => {
   })
 
   t.test('update term', (t) => {
-    const newTerm = new TermEntity({ id: 1, value: 'Bug updated' })
+    const newTerm = new Term({ id: 1, value: 'Bug updated' })
     appService.updateTerm(newTerm)
     const updated = appService.getTerm(1)
     t.equal(updated.value, 'Bug updated', 'should update the right term value')
@@ -67,7 +67,7 @@ test('Translation Service tests', (t) => {
 
   t.test('add translation', (t) => {
     const oldCount = testTranslations.length
-    const translation = new TranslationEntity({
+    const translation = new Translation({
       id: 4,
       termId: 2,
       value: 'ميزة',
@@ -87,7 +87,7 @@ test('Translation Service tests', (t) => {
   })
 
   t.test('update translation', (t) => {
-    const newTranslation = new TranslationEntity({
+    const newTranslation = new Translation({
       id: 1,
       termId: 1,
       value: 'Bug updated',

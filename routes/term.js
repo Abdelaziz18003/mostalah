@@ -1,7 +1,7 @@
 var express = require('express')
 var router = express.Router()
 
-const TranslationEntity = require('../domain/translation/TranslationEntity')
+const Translation = require('../domain/Translation')
 
 const FakeStore = require('../infrastructure/store/fake')
 const AppService = require('../app/AppService')
@@ -30,7 +30,7 @@ router.get('/:id', function (req, res) {
 })
 
 router.post('/:id', function (req, res) {
-  const translation = new TranslationEntity({
+  const translation = new Translation({
     id: 2, // should be a UUID
     termId: req.params.id,
     value: req.body.translation,

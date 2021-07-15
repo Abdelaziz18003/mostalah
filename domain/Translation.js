@@ -1,4 +1,4 @@
-class TranslationEntity {
+class Translation {
   constructor({ id, termId, value }) {
     if (!id || !termId || !value) {
       throw new Error(
@@ -11,4 +11,4 @@ class TranslationEntity {
   }
 }
 
-module.exports = TranslationEntity
+module.exports = Translation

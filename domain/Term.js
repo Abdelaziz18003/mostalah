@@ -1,4 +1,4 @@
-class TermEntity {
+class Term {
   constructor({ id, value }) {
     if (!id || !value) {
       throw new Error('Term required fields (id or value) are missing')
@@ -8,4 +8,4 @@ class TermEntity {
   }
 }
 
-module.exports = TermEntity
+module.exports = Term
