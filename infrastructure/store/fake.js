@@ -9,6 +9,8 @@ const testTranslations = [
   { id: 3, termId: 2, value: 'سمة' },
 ]
 
+const latency = 10
+
 class Store {
   constructor({ terms = [], translations = [] }) {
     this.terms = terms.length ? terms : testTerms
@@ -16,85 +18,140 @@ class Store {
   }
 
   addTerm(term) {
-    this.terms.push(term)
+    return new Promise((resolve) => {
+      setTimeout(() => {
+        this.terms.push(term)
+        resolve(term)
+      }, latency)
+    })
   }
 
   getTerm(termId) {
-    return this.terms.find((term) => term.id == termId)
+    return new Promise((resolve) => {
+      setTimeout(() => {
+        const term = this.terms.find((term) => term.id == termId)
+        resolve(term)
+      }, latency)
+    })
   }
 
   updateTerm(term) {
-    let index = null
-    this.terms.forEach((t, i) => {
-      if (t.id == term.id) {
-        index = i
-      }
+    return new Promise((resolve) => {
+      setTimeout(() => {
+        let index = null
+        this.terms.forEach((t, i) => {
+          if (t.id == term.id) {
+            index = i
+          }
+        })
+        this.terms.splice(index, 1, term)
+        resolve(term)
+      }, latency)
     })
-    this.terms.splice(index, 1, term)
   }
 
   deleteTerm(termId) {
-    let index = null
-    this.terms.forEach((t, i) => {
-      if (t.id == termId) {
-        index = i
-      }
+    return new Promise((resolve) => {
+      setTimeout(() => {
+        let index = null
+        this.terms.forEach((t, i) => {
+          if (t.id == termId) {
+            index = i
+          }
+        })
+        const term = this.terms[index]
+        this.terms.splice(index, 1)
+        resolve(term)
+      }, latency)
     })
-    this.terms.splice(index, 1)
   }
 
   listTerms() {
-    return this.terms
+    return new Promise((resolve) => {
+      setTimeout(() => {
+        resolve(this.terms)
+      }, latency)
+    })
   }
 
   searchTerms(query) {
-    const queryString = String(query).trim().toLowerCase()
-    if (queryString) {
-      return this.terms.filter((term) => {
-        const termString = (
-          term.value + (term.translations ? term.translations.toString() : '')
-        )
-          .trim()
-          .toLowerCase()
-        return termString.includes(queryString)
-      })
-    } else {
-      return []
-    }
+    return new Promise((resolve) => {
+      setTimeout(() => {
+        const queryString = String(query).trim().toLowerCase()
+        if (queryString) {
+          const filteredTerms = this.terms.filter((term) => {
+            const termString = (
+              term.value +
+              (term.translations ? term.translations.toString() : '')
+            )
+              .trim()
+              .toLowerCase()
+            return termString.includes(queryString)
+          })
+          resolve(filteredTerms)
+        } else {
+          resolve([])
+        }
+      }, latency)
+    })
   }
 
   addTranslation(translation) {
-    this.translations.push(translation)
+    return new Promise((resolve) => {
+      setTimeout(() => {
+        this.translations.push(translation)
+        resolve(translation)
+      }, latency)
+    })
   }
 
   getTranslation(translationId) {
-    return this.translations.find(
-      (translation) => translation.id == translationId
-    )
+    return new Promise((resolve) => {
+      setTimeout(() => {
+        const translation = this.translations.find((t) => t.id == translationId)
+        resolve(translation)
+      }, latency)
+    })
   }
 
   updateTranslation(translation) {
-    let index = null
-    this.translations.forEach((t, i) => {
-      if (t.id == translation.id) {
-        index = i
-      }
+    return new Promise((resolve) => {
+      setTimeout(() => {
+        let index = null
+        this.translations.forEach((t, i) => {
+          if (t.id == translation.id) {
+            index = i
+          }
+        })
+        this.translations.splice(index, 1, translation)
+        resolve(translation)
+      }, latency)
     })
-    this.translations.splice(index, 1, translation)
   }
 
   deleteTranslation(translationId) {
-    let index = null
-    this.translations.forEach((t, i) => {
-      if (t.id == translationId) {
-        index = i
-      }
+    return new Promise((resolve) => {
+      setTimeout(() => {
+        let index = null
+        this.translations.forEach((t, i) => {
+          if (t.id == translationId) {
+            index = i
+          }
+        })
+        const translation = this.translations[index]
+        this.translations.splice(index, 1)
+        resolve(translation)
+      }, latency)
     })
-    this.translations.splice(index, 1)
   }
 
   listTranslations(termId) {
-    return this.translations.filter((t) => t.termId == termId)
+    return new Promise((resolve) => {
+      setTimeout(() => {
+        const filtered = this.translations.filter((t) => t.termId == termId)
+        resolve(filtered)
+      }, latency)
+    })
   }
 }
 

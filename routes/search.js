@@ -11,13 +11,13 @@ const store = new FakeStore({
 
 const appService = new AppService(store)
 
-router.get('/', function (req, res) {
+router.get('/', async function (req, res) {
   const query = req.query.q
-  const terms = appService.searchTerms(query)
-  terms.forEach((term) => {
-    const translations = appService.listTranslations(term.id)
+  const terms = await appService.searchTerms(query)
+  for (const term of terms) {
+    const translations = await appService.listTranslations(term.id)
     term.translations = translations
-  })
+  }
   res.render('search', { terms, query })
 })
 
