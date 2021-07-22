@@ -10,11 +10,18 @@ class AppService {
     this.store = store
   }
 
-  async addTerm(termInfo) {
+  async addTerm({en, ar}) {
+    if (!en || !ar) {
+      throw new Error('en and ar properties are required')
+    }
     try {
       const termId = getUniqueId()
-      const newTerm = new Term({ id: termId, value: termInfo.value })
+      const newTerm = new Term({ id: termId, value: en })
       await this.store.addTerm(newTerm)
+      await this.store.addTranslation({
+        termId,
+        value: ar
+      })
       return Promise.resolve(termId)
     } catch(e) {
       return Promise.reject(e)

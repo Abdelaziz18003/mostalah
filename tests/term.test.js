@@ -14,7 +14,7 @@ test('Terms Service tests', async (t) => {
   const appService = new AppService(store)
 
   t.test('add term', async (t) => {
-    await appService.addTerm({ value: 'Bug' })
+    await appService.addTerm({ en: 'Bug', ar: 'خطأ' })
     t.equal(store.terms.length, 3, 'should increment terms number')
   })
 

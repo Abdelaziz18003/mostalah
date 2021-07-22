@@ -13,12 +13,7 @@ const appService = new AppService(store)
 
 router.post('/', async (req, res) => {
   const {en, ar} = req.body
-  const termId = await appService.addTerm({value: en})
-  await appService.addTranslation({
-    termId,
-    value: ar
-  })
-
+  const termId = await appService.addTerm({ en, ar})
   res.redirect(`./${termId}`)
 })
 
