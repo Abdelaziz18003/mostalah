@@ -6,7 +6,7 @@
     "start": "node ./index.js",
     "dev": "nodemon ./index.js",
     "prepare": "husky install",
-    "test": "INDENT=true node ./tests/term.test.js | tap-mocha-reporter spec"
+    "test": "./node_modules/.bin/tape ./tests/*.js | tap-mocha-reporter spec"
   },
   "dependencies": {
     "cookie-parser": "~1.4.4",
@@ -15,7 +15,8 @@
     "express-validator": "^6.11.1",
     "http-errors": "~1.6.3",
     "morgan": "~1.9.1",
-    "nunjucks": "^3.2.3"
+    "nunjucks": "^3.2.3",
+    "sequelize": "^6.6.5"
   },
   "devDependencies": {
     "eslint": "^7.27.0",
