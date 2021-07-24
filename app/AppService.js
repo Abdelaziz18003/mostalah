@@ -1,13 +1,49 @@
 const Term = require('../domain/Term')
 const Translation = require('../domain/Translation')
+const User = require('../domain/User')
 
 function getUniqueId() {
   return parseInt(Math.random() * 10 ** 14)
 }
 
+function hashPassword(password) {
+  return password
+}
+
 class AppService {
   constructor(store) {
     this.store = store
+  }
+
+  async signUpUser ({ username, email, password }) {
+    let user = await this.store.getUser({email})
+    if (user) {
+      return Promise.reject(null)
+    } else {
+      user = new User({
+        id: getUniqueId(),
+        username,
+        email,
+        passwordHash: hashPassword(password),
+      })
+      await this.store.addUser(user)
+      return Promise.resolve(user)
+    }
+  }
+
+  signInUser ({email, password}) {
+    console.log(email, password)
+  }
+  
+  async getUser ({id, email}) {
+    if (id && email) throw new Error('Can\'t get user with both id and email')
+    if (!id && !email) throw new Error('id or email are required')
+    try {
+      const user = await this.store.getUser({id, email})
+      return Promise.resolve(user)
+    } catch(e) {
+      return Promise.reject(e)
+    }
   }
 
   async addTerm({en, ar}) {

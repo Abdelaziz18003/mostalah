@@ -15,6 +15,30 @@ class Store {
   constructor({ terms = [], translations = [] }) {
     this.terms = terms.length ? terms : testTerms
     this.translations = translations.length ? translations : testTranslations
+    this.users = []
+  }
+
+  addUser(user) {
+    return new Promise(resolve => {
+      setTimeout(() => {
+        this.users.push(user)
+        resolve(user)
+      }, latency)
+    })
+  }
+
+  getUser({id, email }) {
+    return new Promise((resolve) => {
+      setTimeout(() => {
+        if (id) {
+          const user = this.users.find((user) => user.id == id )
+          resolve(user)
+        } else if (email) {
+          const user = this.users.find((user) => user.email == email )
+          resolve(user)
+        }
+      }, latency)
+    })
   }
 
   addTerm(term) {
