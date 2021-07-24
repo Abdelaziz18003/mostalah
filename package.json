@@ -6,7 +6,7 @@
     "start": "node ./index.js",
     "dev": "nodemon ./index.js",
     "prepare": "husky install",
-    "test": "./node_modules/.bin/tape ./tests/*.js | tap-mocha-reporter spec"
+    "test": "tape ./tests/*.js | tap-spec"
   },
   "dependencies": {
     "cookie-parser": "~1.4.4",
@@ -24,7 +24,7 @@
     "lint-staged": "^11.0.0",
     "nodemon": "^2.0.7",
     "prettier": "2.3.0",
-    "tap-mocha-reporter": "^5.0.1",
+    "tap-spec": "^5.0.0",
     "tape": "^5.2.2"
   },
   "lint-staged": {
