@@ -19,7 +19,7 @@ test('Users Service tests', async (t) => {
     const createdUser = await appService.signUpUser({
       username: 'john_doe',
       email: 'john@doe.com',
-      password: 'hashed_password',
+      password: 'password',
     })
     createdUserId = createdUser.id
     const fetchedUser = await appService.getUser({id: createdUser.id})
@@ -33,7 +33,7 @@ test('Users Service tests', async (t) => {
       await appService.signUpUser({
         username: 'john_doe',
         email: 'john@doe.com',
-        password: 'hashed_password',
+        password: 'password',
       })
       t.fail('don\'t accept two users with the same email')
     } catch {
@@ -48,6 +48,26 @@ test('Users Service tests', async (t) => {
 
     const user2 = await appService.getUser({id: createdUserId})
     t.ok(user2.id, 'A user can be got by id')
+  })
+
+  test('sign in user', async(t) => {
+    const user1 = await appService.signInUser({
+      email: 'john@doe.com',
+      password: 'password'
+    })
+    t.ok(user1, 'sign in if both email and password are correct')
+    
+    const user2 = await appService.signInUser({
+      email: 'john@doe.co',
+      password: 'password'
+    })
+    t.notOk(user2, 'sign in should fail if email is wrong')
+    
+    const user3 = await appService.signInUser({
+      email: 'john@doe.com',
+      password: 'wrong_password'
+    })
+    t.notOk(user3, 'sign in should fail if password is wrong')
   })
 
 })

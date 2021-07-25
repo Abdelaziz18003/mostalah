@@ -31,19 +31,22 @@ class AppService {
     }
   }
 
-  signInUser ({email, password}) {
-    console.log(email, password)
+  async signInUser ({email, password}) {
+    const hashedPassword = hashPassword(password)
+    const user = await this.getUser({email})
+    if (user && user.passwordHash == hashedPassword) {
+      return Promise.resolve(user)
+    } else {
+      return Promise.resolve(null)
+    }
   }
   
   async getUser ({id, email}) {
     if (id && email) throw new Error('Can\'t get user with both id and email')
     if (!id && !email) throw new Error('id or email are required')
-    try {
-      const user = await this.store.getUser({id, email})
-      return Promise.resolve(user)
-    } catch(e) {
-      return Promise.reject(e)
-    }
+    const user = await this.store.getUser({id, email})
+    return Promise.resolve(user || null)
+
   }
 
   async addTerm({en, ar}) {
