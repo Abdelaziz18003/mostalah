@@ -1,13 +1,17 @@
+.navbar {
+  direction: rtl;
+}
+
 .hero {
   align-items: center;
   display: flex;
   justify-content: center;
   flex-direction: column;
-  padding-top: 10rem;
+  padding-top: 7rem;
 }
 
 .hero__heading {
-  font-size: 4rem;
+  font-size: 3rem;
   font-weight: bold;
   margin-bottom: var(--spacing-lg);
   margin-top: 0;
@@ -21,9 +25,17 @@
   margin-top: 0;
 }
 
-.hero__form {
+.search-form {
   display: flex;
   flex-direction: row;
   gap: 1rem;
   text-align: center;
+}
+
+.search-form .button {
+  font-family: var(--font-primary);
+}
+
+.search-form input {
+  font-size: larger;
 }

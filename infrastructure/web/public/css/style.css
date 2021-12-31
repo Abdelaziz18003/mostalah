@@ -22,7 +22,6 @@ html,
 body {
   color: var(--color-body);
   font-family: var(--font-primary);
-  direction: rtl;
 }
 
 a {
@@ -57,4 +56,8 @@ button {
   margin: 0 auto;
   max-width: 960px;
   padding: var(--spacing-sm);
+}
+
+.is-rtl {
+  direction: rtl;
 }

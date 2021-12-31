@@ -1,24 +1,33 @@
-{% if terms.length %}
-  <div class="section is-size-4 text-center">
-  نتائج البحث عن "{{ query }}"
-  </div>
-  <ul class="stack">
-  {% for term in terms %}
-    <li class="p-3 has-background-light">
-      <div class="is-flex is-justify-content-space-between is-align-items-center">
-        <div>{{ term.translation }}</div>
-        <div dir="ltr" class="is-flex is-align-items-center">
-          <strong class="text-left">{{term.original}}</strong>
+<div class="terms-list">
+  {% if terms.length %}
+    <div class="is-rtl section is-size-4 text-center">
+    نتائج البحث عن "{{ query }}"
+    </div>
+    <ul class="stack">
+    {% for term in terms %}
+      <li class="p-3 has-background-light">
+        <div class="columns">
+          {# original term #}
+          <div class="column is-align-items-center">
+            <strong>{{term.original}}</strong>
+          </div>
+
+          {# translation #}
+          <div class="is-rtl column text-right">
+            {{ term.translation }}
+          </div>
         </div>
-      </div>
-      <div dir="ltr" class="is-flex" style="font-size: smaller;">
-        <small>({{term.source}})</small>
-      </div>
-    </li>
-  {% endfor %}
-  </ul>
-{% else %}
-  <div class="section is-size-3 text-center">
-  لا توجد ترجمات ل "{{ query }}"
-  </div>
-{% endif %}
+
+        {# source of the term #}
+        <div class="is-flex" style="font-size: smaller;">
+          <small>({{term.source}})</small>
+        </div>
+      </li>
+    {% endfor %}
+    </ul>
+  {% else %}
+    <div class="section is-size-3 text-center">
+    لا توجد ترجمات ل "{{ query }}"
+    </div>
+  {% endif %}
+</div>
