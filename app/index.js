@@ -1,7 +1,7 @@
-const FakeStore = require('../infrastructure/store/fake')
+const InMemoryStore = require('../infrastructure/store/in-memory')
 const AppService = require('./AppService')
 
-const store = new FakeStore({
+const store = new InMemoryStore({
   terms: [],
   translations: [],
 })

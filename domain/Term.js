@@ -1,10 +1,14 @@
 class Term {
-  constructor({ id, value }) {
-    if (!id || !value) {
-      throw new Error('Term required fields (id or value) are missing')
+  constructor({ id, original, translation, source }) {
+    if (!id || !translation) {
+      throw new Error(
+        'Term one or more required fields (id, original, translation) are missing'
+      )
     }
     this.id = id
-    this.value = value
+    this.original = original
+    this.translation = translation
+    this.source = source || 'community'
   }
 }
 
