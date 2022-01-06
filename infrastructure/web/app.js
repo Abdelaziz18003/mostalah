@@ -5,6 +5,8 @@ var cookieParser = require('cookie-parser')
 var logger = require('morgan')
 var nunjucks = require('nunjucks')
 
+var domainRedirecter = require('./middlewares/domain-redirector')
+
 var indexRouter = require('./routes/index')
 var searchRouter = require('./routes/search')
 var termRouter = require('./routes/term')
@@ -27,6 +29,8 @@ app.use(express.urlencoded({ extended: false }))
 app.use(cookieParser())
 app.use(express.static(path.join(__dirname, 'public')))
 
+// this middleware is used to disable "mostalah.herokuapp.com" url
+app.use(domainRedirecter)
 app.use('/', indexRouter)
 app.use('/search', searchRouter)
 app.use('/term', termRouter)
