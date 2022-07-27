@@ -1,17 +1,5 @@
-# Mostalah
+# مصطلح
 
-قاموس رقمي إنجليزي - عربي يهدف لتوحيد المصطلحات العربية المستعملة في المجال التقني
+[الموقع الإلكتروني](https://mostalah.org)
 
-## Installation
-
-```bash
-npm install
-```
-
-## Contributing
-
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-## License
-
-[MIT](https://github.com/Abdelaziz18003/mostalah/blob/main/LICENSE)
+قاموس رقمي إنجليزي - عربي هدفه المساهمة في لم شتات المصطلحات العربية المستعملة في المجال التقني، وذلك عن طريق جمع المصطلحات العربية من المشاريع مفتوحة المصدر وتسهيل الوصول إليها والبحث فيها على المدونين التقنيين والعاملين على توطين البرامج والمنتجات الرقمية، أملا في توفير بعض الجهود المهدرة في البحث عن المصطلحات وإعادة اختراعها في كل مرة.
