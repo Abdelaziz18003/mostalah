@@ -1,6 +1,6 @@
 const test = require('tape')
 
-const InMemoryStore = require('../infrastructure/store/in-memory')
+const InMemoryStore = require('../store/in-memory')
 const AppService = require('../app/AppService')
 
 const testTerms = [
@@ -35,9 +35,9 @@ test('Users Service tests', async (t) => {
         email: 'john@doe.com',
         password: 'password',
       })
-      t.fail('don\'t accept two users with the same email')
+      t.fail("don't accept two users with the same email")
     } catch {
-      t.pass('don\'t accept two users with the same email')
+      t.pass("don't accept two users with the same email")
     }
   })
 

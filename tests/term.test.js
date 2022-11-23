@@ -1,6 +1,6 @@
 const test = require('tape')
 
-const InMemoryStore = require('../infrastructure/store/in-memory')
+const InMemoryStore = require('../store/in-memory')
 const AppService = require('../app/AppService')
 
 const testTerms = [

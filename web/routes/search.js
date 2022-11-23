@@ -1,7 +1,7 @@
 const express = require('express')
 const router = express.Router()
 
-const appService = require('../../../app/index')
+const appService = require('../../app/index')
 
 router.get('/', async function (req, res) {
   const query = req.query.q

@@ -1,7 +1,7 @@
 var express = require('express')
 var router = express.Router()
 
-const appService = require('../../../app/index')
+const appService = require('../../app/index')
 
 router.post('/', async (req, res) => {
   const { en, ar } = req.body

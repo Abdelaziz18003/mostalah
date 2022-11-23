@@ -9,7 +9,7 @@ parser.parseString(terms, (err, result) => {
     return
   } else {
     fs.writeFileSync(
-      'infrastructure/store/terms-microsoft.json',
+      'store/terms-microsoft.json',
       JSON.stringify(parseMicrosoftTerms(result))
     )
   }
