@@ -2,16 +2,17 @@ const fs = require('fs')
 const xml2js = require('xml2js')
 const parser = new xml2js.Parser()
 
-const terms = fs.readFileSync('lang/microsoft.tbx', { encoding: 'utf-8' })
+const dbFile = 'store/terms-microsoft.json'
+const langFile = 'lang/microsoft.tbx'
+
+const terms = fs.readFileSync(langFile, { encoding: 'utf-8' })
 parser.parseString(terms, (err, result) => {
   if (err) {
     console.error(err)
     return
   } else {
-    fs.writeFileSync(
-      'store/terms-microsoft.json',
-      JSON.stringify(parseMicrosoftTerms(result))
-    )
+    const terms = removeDuplicatedTerms(parseMicrosoftTerms(result))
+    fs.writeFileSync(dbFile, JSON.stringify(terms))
   }
 })
 
@@ -23,4 +24,17 @@ function parseMicrosoftTerms(rawJson) {
     source: 'Microsoft',
     description: term.langSet[0].descripGrp[0].descrip[0]._,
   }))
+}
+
+function removeDuplicatedTerms(terms) {
+  let uniqueTerms = []
+  let addedStrings = []
+  terms.forEach((term) => {
+    const termString = `${term.original}_${term.translation}`
+    if (!addedStrings.includes(termString)) {
+      uniqueTerms.push(term)
+      addedStrings.push(termString)
+    }
+  })
+  return uniqueTerms
 }
