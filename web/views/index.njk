@@ -1,9 +1,19 @@
-{% extends 'layout.njk' %}
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>قاموس رقمي هدفه المساهمة في لم شتات المصطلحات العربية في المجال التقني | مصطلح</title>
+    <link rel="stylesheet" href="/css/bulma.min.css">
+    <link rel="stylesheet" href="/css/style.css">
+    <link rel="stylesheet" href="/css/index.css">
+    <link rel="stylesheet" href="/css/utils.css">
+    <link rel="stylesheet" href="/css/index.css">
+  </head>
+  <body>
+    <div class="container">
+    {% include './partials/hero.njk'%}
+    </div>
 
-{% block css %}
-<link rel="stylesheet" href="/css/index.css">
-{% endblock %}
-
-{% block content %}
-{% include './partials/hero.njk'%}
-{% endblock %}
+    <script src="/js/index.js"></script>
+  </body>
+</html>
