@@ -2,10 +2,18 @@
 
 {% block content %}
 
-{# search form #}
-{% include './partials/search-form.njk' %}
+<div class="search-page">
+  {% include './partials/header.njk' %}
 
-{# terms list #}
-{% include './partials/terms-list.njk' %}
+  <div class="search-page__search-form-wrapper">
+    <div class="container">
+      {% include './partials/search-form.njk' %}
+    </div>
+  </div>
+
+  <div class="container">
+    {% include './partials/terms-list.njk' %}
+  </div>
+</div>
 
 {% endblock %}

@@ -1,12 +1,12 @@
 <div class="terms-list">
   {% if terms.length %}
-    <div class="is-rtl section is-size-4 text-center">
+    <div class="terms-list__hint">
     نتائج البحث عن "{{ query }}"
     </div>
-    <ul class="stack">
+    <ul class="terms-list__items">
     {% for term in terms %}
-      <li class="p-3 has-background-light">
-        <div class="columns">
+      <li class="terms-list__item">
+        <div class="row justify-space-betwen">
           {# original term #}
           <div class="column is-align-items-center">
             <strong>{{term.original}}</strong>
@@ -19,14 +19,14 @@
         </div>
 
         {# source of the term #}
-        <div class="is-flex" style="font-size: smaller;">
+        <div class="row" style="font-size: smaller;">
           <small>({{term.source}})</small>
         </div>
       </li>
     {% endfor %}
     </ul>
   {% else %}
-    <div class="section is-size-3 text-center">
+    <div class="terms-list__hint">
     لا توجد ترجمات ل "{{ query }}"
     </div>
   {% endif %}

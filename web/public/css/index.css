@@ -16,6 +16,12 @@
   z-index: -1;
 }
 
+.header {
+  background-color: white;
+  position: sticky;
+  top: 0;
+}
+
 .navbar {
   direction: rtl;
   height: var(--navbar-height);
@@ -96,4 +102,30 @@
   padding: 5px 0;
   text-align: center;
   flex-grow: 1;
+}
+
+/* search page */
+.search-page__search-form-wrapper {
+  background-color: white;
+  position: sticky;
+  top: var(--navbar-height);
+}
+
+.terms-list__hint {
+  direction: rtl;
+  font-size: 1.3rem;
+  margin: 0.5rem;
+  text-align: center;
+}
+
+.terms-list__items {
+  list-style: none;
+  padding: 0;
+}
+
+.terms-list__item {
+  background-color: var(--color-primary-light);
+  border-radius: 1rem;
+  padding: 0.5rem;
+  margin-bottom: 1rem;
 }
