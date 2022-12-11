@@ -41,7 +41,7 @@ class AppService {
   }
 
   async getUser({ id, email }) {
-    if (id && email) throw new Error('Can\'t get user with both id and email')
+    if (id && email) throw new Error("Can't get user with both id and email")
     if (!id && !email) throw new Error('id or email are required')
     const user = await this.store.getUser({ id, email })
     return Promise.resolve(user || null)
