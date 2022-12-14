@@ -1,6 +1,6 @@
 <div class="terms-list">
   {% if terms.length %}
-    <div class="terms-list__hint">
+    <div class="terms-list__hint is-rtl">
     نتائج البحث عن "{{ query }}"
     </div>
     <ul class="terms-list__items">
@@ -17,12 +17,12 @@
             {{ term.translation }}
           </div>
         </div>
-
-        {# source of the term #}
-        <div class="row" style="font-size: smaller;">
-          <small>({{term.source}})</small>
-        </div>
       </li>
+
+      {# source of the term #}
+      <div dir="rtl" class="row" style="font-size: smaller;">
+        <small dir="rtl">المصدر: ({{term.source}})</small>
+      </div>
     {% endfor %}
     </ul>
   {% else %}

@@ -3,12 +3,24 @@
   src: url('/fonts/Droid-Arabic-Kufi.ttf') format('TrueType');
 }
 
+@font-face {
+  font-family: 'Dubai';
+  src: url('/fonts/DubaiW23-Regular.woff2') format('woff');
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: 'Dubai';
+  src: url('/fonts/DubaiW23-Bold.woff2') format('woff');
+  font-weight: bold;
+}
+
 :root {
   --color-primary: #623b00;
   --color-primary-light: #e0d8cc;
   --color-body: #444444;
   --border-radius: 0.2rem;
-  --font-primary: 'Droid Arabic Kufi';
+  --font-primary: 'Dubai';
   --spacing-sm: 0.5rem;
   --spacing-md: 1rem;
   --spacing-lg: 2rem;
@@ -20,13 +32,12 @@
 
 * {
   box-sizing: border-box;
-  font-family: var(--font-primary);
 }
 
 html,
 body {
   color: var(--color-body);
-  font-family: var(--font-primary);
+  font-family: var(--font-primary), sans-serif;
   margin: 0;
   padding: 0;
 }
@@ -43,4 +54,5 @@ a {
 
 .is-rtl {
   direction: rtl;
+  font-size: 1.2em;
 }

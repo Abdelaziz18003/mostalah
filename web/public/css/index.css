@@ -25,6 +25,7 @@
 .navbar {
   direction: rtl;
   height: var(--navbar-height);
+  font-family: 'Droid Arabic Kufi', 'Dubai', sans-serif;
 }
 
 .hero {
@@ -44,6 +45,7 @@
 
 .hero__heading {
   color: var(--color-primary);
+  font-family: 'Droid Arabic Kufi', 'Dubai', sans-serif;
   font-size: 3rem;
   font-weight: bold;
   margin-bottom: var(--spacing-lg);
@@ -87,6 +89,7 @@
   cursor: pointer;
   outline: none;
   padding: 7px;
+  flex-shrink: 0;
 }
 
 .search-form__button img {
@@ -112,7 +115,6 @@
 }
 
 .terms-list__hint {
-  direction: rtl;
   font-size: 1.3rem;
   margin: 0.5rem;
   text-align: center;
@@ -127,5 +129,6 @@
   background-color: var(--color-primary-light);
   border-radius: 1rem;
   padding: 0.5rem;
-  margin-bottom: 1rem;
+  margin-top: 1rem;
+  font-family: Dubai;
 }
