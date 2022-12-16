@@ -7,7 +7,8 @@
     "dev": "nodemon ./index.js",
     "prepare": "husky install",
     "import": "node importers/index.js",
-    "test": "tape ./tests/*.js | tap-spec"
+    "test": "tape ./tests/*.js | tap-spec",
+    "lint": "eslint ."
   },
   "dependencies": {
     "cookie-parser": "~1.4.4",
