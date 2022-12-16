@@ -29,6 +29,21 @@
   font-family: 'Droid Arabic Kufi', 'Dubai', sans-serif;
 }
 
+.navbar__container {
+  align-items: center;
+  display: flex;
+  justify-content: space-between;
+}
+
+.navbar__brand {
+  align-items: center;
+  display: flex;
+}
+
+.navbar__brand img {
+  height: calc(var(--navbar-height) - 20px);
+}
+
 /* hero section */
 .hero {
   align-items: center;
