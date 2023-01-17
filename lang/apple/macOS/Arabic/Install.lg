@@ -1,0 +1,2703 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Proj>
+  <ProjName>Install</ProjName>
+  <File>
+    <Filepath>Install/System/Library/PrivateFrameworks/Install.framework/Versions/A/Resources/English.lproj/Distribution.strings</Filepath>
+    <TextItem>
+      <Description> Failed minimum RAM check </Description>
+      <Position>RequiredRAMFailed</Position>
+      <TranslationSet>
+        <base loc="en">%@ can’t be installed on this computer because it requires at least %@ of memory.</base>
+        <tran loc="ar">لا يمكن تثبيت %@ على هذا الكمبيوتر لأنه يتطلب %@ على الأقل من الذاكرة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>GENERIC_FAIL_VOLUME</Position>
+      <TranslationSet>
+        <base loc="en">This disk doesn’t meet the requirements for this update.</base>
+        <tran loc="ar">لا يفي هذا القرص بمتطلبات هذا التحديث.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> generic failure on RAM check 
+ args = [ product-name, required-ram ] </Description>
+      <Position>InstallationCheckNotEnoughRAM</Position>
+      <TranslationSet>
+        <base loc="en">%@ can’t be installed on this computer because it requires %@ of memory.</base>
+        <tran loc="ar">لا يمكن تثبيت %@ على هذا الكمبيوتر لأنه يتطلب %@ من الذاكرة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CUSTOMIZATION_ACTION_UPGRADE</Position>
+      <TranslationSet>
+        <base loc="en">Upgrade</base>
+        <tran loc="ar">ترقية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Message displayed if the package is successfully installed </Description>
+      <Position>InstallSuccessMessage</Position>
+      <TranslationSet>
+        <base loc="en">The software was successfully installed.</base>
+        <tran loc="ar">تم تثبيت البرنامج بنجاح.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CUSTOMIZATION_ITEM_REQUIRED_BY_ITEM</Position>
+      <TranslationSet>
+        <base loc="en">This item is required by %@.</base>
+        <tran loc="ar">هذا العنصر مطلوب من قِبل %@.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CUSTOMIZATION_ACTION_INSTALL</Position>
+      <TranslationSet>
+        <base loc="en">Install</base>
+        <tran loc="ar">تثبيت</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>GENERIC_FAIL_LANG</Position>
+      <TranslationSet>
+        <base loc="en">This software doesn’t support your primary system language.</base>
+        <tran loc="ar">لا يدعم هذا البرنامج لغة النظام الأساسية.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>TARGET_VOLUME_NO_OS_SELF_INSTALL</Position>
+      <TranslationSet>
+        <base loc="en">You can’t install macOS on the same disk that contains this installation package.</base>
+        <tran loc="ar">لا يمكن تثبيت macOS على نفس القرص الذي يحتوي على حزمة التثبيت هذه.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> IFInstallController Strings 
+ Time Strings 
+ Estimated time remaining message displayed when there are more than two hours remaining to install </Description>
+      <Position>ManyHoursManyMinutesRemaining</Position>
+      <TranslationSet>
+        <base loc="en">About %@ hours and %@ minutes</base>
+        <tran loc="ar">حوالي %@ من الساعات و%@ من الدقائق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>TARGET_VOLUME_NO_SPACE</Position>
+      <TranslationSet>
+        <base loc="en">There is not enough free space on this disk.</base>
+        <tran loc="ar">لا توجد مساحة خالية كافية على هذا القرص.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CUSTOMIZATION_ITEM_DISABLED</Position>
+      <TranslationSet>
+        <base loc="en">This item can’t be installed.\n%@</base>
+        <tran loc="ar">لا يمكن تثبيت هذا العنصر.\n%@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>JustManyHoursRemaining</Position>
+      <TranslationSet>
+        <base loc="en">About %@ hours</base>
+        <tran loc="ar">حوالي %@ من الساعات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CUSTOMIZATION_ITEM_VERSION_CONFLICT</Position>
+      <TranslationSet>
+        <base loc="en">A newer version of this item is already installed.</base>
+        <tran loc="ar">هناك إصدار أحدث من هذا العنصر مثبت بالفعل.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> OpenGL requirements not met </Description>
+      <Position>RequiredGLRendererFailed</Position>
+      <TranslationSet>
+        <base loc="en">%@ doesn’t support this computer’s graphics hardware.</base>
+        <tran loc="ar">%@ لا يدعم مكونات الرسومات الصلبة لهذا الكمبيوتر.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Failed OS required check </Description>
+      <Position>AllowedOSNone</Position>
+      <TranslationSet>
+        <base loc="en">macOS isn’t installed.</base>
+        <tran loc="ar">‏macOS غير مثبت.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>TARGET_VOLUME_NO_INSTALL_OS_ROOT</Position>
+      <TranslationSet>
+        <base loc="en">%@ can’t be installed on the startup disk.</base>
+        <tran loc="ar">لا يمكن تثبيت %@ على قرص بدء التشغيل.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Messages displayed if the package cannot be installed </Description>
+      <Position>InstallFailureMessage</Position>
+      <TranslationSet>
+        <base loc="en">There were errors installing the software.</base>
+        <tran loc="ar">حدثت أخطاء أثناء تثبيت البرنامج.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>TARGET_VOLUME_NO_BOOT_NEED_GPT</Position>
+      <TranslationSet>
+        <base loc="en">To install on this disk, open Disk Utility by choosing Utilities &gt; Disk Utility, and repartition this disk using “GUID Partition Table.” Important: you will lose all data on this disk by repartitioning it.</base>
+        <tran loc="ar">للتثبيت على هذا القرص، افتح أداة القرص عن طريق اختيار الأدوات المساعدة &gt; أداة القرص، وأعد تقسيم هذا القرص باستخدام \"جدول تقسيم GUID.\" هام: تؤدي إعادة تقسيم القرص إلى فقد كل البيانات الموجودة عليه.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>JavaScriptError</Position>
+      <TranslationSet>
+        <base loc="en">An error occurred while evaluating JavaScript for the package.</base>
+        <tran loc="ar">حدث خطأ أثناء تقييم JavaScript للحزمة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>TARGET_VOLUME_NOT_JOURNALED</Position>
+      <TranslationSet>
+        <base loc="en">%@ can’t be installed because the disk is not journaled. To enable journaling, open Disk Utility by choosing Utilities &gt; Disk Utility, select %@ and then File &gt; Enable Journaling.</base>
+        <tran loc="ar">لا يمكن تثبيت %@ نظرًا لأنه لم يتم تسجيل يوميات القرص. لتمكين تسجيل اليوميات، افتح أداة القرص من خلال اختيار الأدوات المساعدة &gt; أداة القرص وتحديد %@، ثم ملف &gt; تمكين تسجيل اليوميات.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>TARGET_VOLUME_DEFERRED_CHECK_FAILED</Position>
+      <TranslationSet>
+        <base loc="en">%@ couldn’t be installed on this disk.</base>
+        <tran loc="ar">تعذر تثبيت %@ على هذا القرص.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>TARGET_VOLUME_NO_BOOT</Position>
+      <TranslationSet>
+        <base loc="en">%@ cannot start up from this disk.</base>
+        <tran loc="ar">لا يمكن بدء تشغيل %@ من هذا القرص.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>TARGET_VOLUME_NO_BOOT_NEED_APM</Position>
+      <TranslationSet>
+        <base loc="en">To install on this disk, open Disk Utility by choosing Utilities &gt; Disk Utility, and repartition this disk using “Apple Partition Map.” Important: you will lose all data on this disk by repartitioning it.</base>
+        <tran loc="ar">للتثبيت على هذا القرص، افتح أداة القرص عن طريق اختيار الأدوات المساعدة &gt; أداة القرص، وأعد تقسيم هذا القرص باستخدام \"Apple Partition Map.\" هام: تؤدي إعادة تقسيم القرص إلى فقد كل البيانات الموجودة عليه.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> disk requires a later minor version of macOS (but 
+*not
+* a paid upgrade) 
+ args = [ product-name, disk-name, minimum-OS-version ] </Description>
+      <Position>VolumeCheckNeedSoftwareUpdate</Position>
+      <TranslationSet>
+        <base loc="en">%@ can’t be installed on %@ because macOS version %@ or later is required. Choose Software Update from the Apple menu to update macOS.</base>
+        <tran loc="ar">لا يمكن تثبيت %@ على %@ لأن الإصدار %@ أو أحدث من macOS مطلوب. اختر محدث البرامج من قائمة Apple لتحديث macOS.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>The package is damaged and cannot be read.</Position>
+      <TranslationSet>
+        <base loc="en">The package is damaged and can’t be read.</base>
+        <tran loc="ar">الحزمة تالفة ولا يمكن قراءتها.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>OneHourManyMinutesRemaining</Position>
+      <TranslationSet>
+        <base loc="en">About %@ hour and %@ minutes</base>
+        <tran loc="ar">حوالي %@ ساعة و%@ من الدقائق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CUSTOMIZATION_ITEM_REQUIRED</Position>
+      <TranslationSet>
+        <base loc="en">This item is required.</base>
+        <tran loc="ar">هذا العنصر مطلوب.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>TARGET_VOLUME_WRONG_FS</Position>
+      <TranslationSet>
+        <base loc="en">%@ can’t be installed on a disk with the %@ format.</base>
+        <tran loc="ar">لا يمكن تثبيت %@ على قرص بتنسيق %@.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ManySecondsRemaining</Position>
+      <TranslationSet>
+        <base loc="en">Less than a minute</base>
+        <tran loc="ar">أقل من دقيقة واحدة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> very generic installation-check warning (not sure why this is here, but need to keep it in case some distribution uses it) </Description>
+      <Position>InstallationCheckWarning</Position>
+      <TranslationSet>
+        <base loc="en">Warning</base>
+        <tran loc="ar">تحذير</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CUSTOMIZATION_ACTION_SKIP</Position>
+      <TranslationSet>
+        <base loc="en">Skip</base>
+        <tran loc="ar">تخطي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>TARGET_VOLUME_PASSWORD_LOCKED</Position>
+      <TranslationSet>
+        <base loc="en">This disk is locked.</base>
+        <tran loc="ar">هذا القرص مؤمَّن.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>TARGET_VOLUME_VERS_CONFLICT</Position>
+      <TranslationSet>
+        <base loc="en">A newer version of this software already exists on this disk.</base>
+        <tran loc="ar">هناك إصدار أحدث من هذا البرنامج موجود بالفعل على هذا القرص.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>TARGET_VOLUME_EXOTIC_BOOTCAMP</Position>
+      <TranslationSet>
+        <base loc="en">You can’t install macOS on this disk because it shares a physical disk with an unsupported Boot Camp configuration.</base>
+        <tran loc="ar">لا يمكنك تثبيت macOS على هذا القرص لأنه يشترك مع قرص فعلي بتكوين Boot Camp غير مدعوم.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ManyHoursOneMinuteRemaining</Position>
+      <TranslationSet>
+        <base loc="en">About %@ hours and %@ minute</base>
+        <tran loc="ar">حوالي %@ من الساعات و%@ دقيقة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description>**** Distribution Related Strings 
+ IFDocument Strings </Description>
+      <Position>ExceptionWhileReadingTitle</Position>
+      <TranslationSet>
+        <base loc="en">There was an error reading the package.</base>
+        <tran loc="ar">حدث خطأ أثناء قراءة الحزمة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> generic errors useful to distribution authors </Description>
+      <Position>GENERIC_FAIL_NEWER</Position>
+      <TranslationSet>
+        <base loc="en">A newer version is already installed.</base>
+        <tran loc="ar">يوجد إصدار أحدث مثبت بالفعل.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description>**** Distribution Standard Strings (primarily for system.localizedStandardString[WithFormat]) 
+ generic installation-check failure (but distribution should use a more specific one) 
+ args = [ product-name ] </Description>
+      <Position>InstallationCheckError</Position>
+      <TranslationSet>
+        <base loc="en">%@ can’t be installed on this computer.</base>
+        <tran loc="ar">لا يمكن تثبيت %@ على هذا الكمبيوتر.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Other hardware requirements not met </Description>
+      <Position>RequiredHardwarePropertiesFailed</Position>
+      <TranslationSet>
+        <base loc="en">%@ doesn’t support this computer’s hardware.</base>
+        <tran loc="ar">%@ لا يدعم المكوّنات الصلبة لهذا الكمبيوتر.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Failed OS maximum check </Description>
+      <Position>AllowedOSTooNew</Position>
+      <TranslationSet>
+        <base loc="en">The version of macOS is too new.</base>
+        <tran loc="ar">إصدار macOS حديث جدًا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>OneMinuteRemaining</Position>
+      <TranslationSet>
+        <base loc="en">About a minute</base>
+        <tran loc="ar">حوالي دقيقة واحدة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>INSTALL_PREPARATION</Position>
+      <TranslationSet>
+        <base loc="en">Preparing for installation…</base>
+        <tran loc="ar">يتم الآن الإعداد للتثبيت...</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> IFDTarget Strings </Description>
+      <Position>TARGET_VOLUME_READ_ONLY</Position>
+      <TranslationSet>
+        <base loc="en">The contents of this disk can’t be changed.</base>
+        <tran loc="ar">لا يمكن تغيير محتويات هذا القرص.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Failed OS range check </Description>
+      <Position>AllowedOSNeedUpgrade</Position>
+      <TranslationSet>
+        <base loc="en">macOS version %@ or later is required.</base>
+        <tran loc="ar">مطلوب الإصدار %@ من macOS أو أحدث.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>OneHourOneMinuteRemaining</Position>
+      <TranslationSet>
+        <base loc="en">About %@ hour and %@ minute</base>
+        <tran loc="ar">حوالي %@ ساعة و%@ دقيقة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> disk requires a later major version (i.e. paid upgrade) of macOS 
+ args = [ product-name, disk-name, minimum-OS-version ] </Description>
+      <Position>VolumeCheckNeedOSUpgrade</Position>
+      <TranslationSet>
+        <base loc="en">%@ can’t be installed on %@ because macOS version %@ or later is required.</base>
+        <tran loc="ar">لا يمكن تثبيت %@ على %@ لأن الإصدار %@ أو أحدث من macOS مطلوب.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>RootVolumeOnlyInstall</Position>
+      <TranslationSet>
+        <base loc="en">You can only install this software on the disk that is running macOS.</base>
+        <tran loc="ar">يمكنك فقط تثبيت هذا البرنامج على القرص الذي يقوم بتشغيل macOS.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Failed required bundle checks (used only if distribution fails to provide a string) </Description>
+      <Position>RequiredBundlesFailed</Position>
+      <TranslationSet>
+        <base loc="en">The required software is not installed.</base>
+        <tran loc="ar">البرنامج المطلوب غير مثبت.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ManyMinutesRemaining</Position>
+      <TranslationSet>
+        <base loc="en">About %@ minutes</base>
+        <tran loc="ar">حوالي %@ من الدقائق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> generic volume-check failure (but distribution should use a more specific one) 
+ args = [ product-name, disk-name ] </Description>
+      <Position>VolumeCheckError</Position>
+      <TranslationSet>
+        <base loc="en">%@ can’t be installed on %@.</base>
+        <tran loc="ar">لا يمكن تثبيت %@ على %@.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>JustOneHourRemaining</Position>
+      <TranslationSet>
+        <base loc="en">About an hour</base>
+        <tran loc="ar">حوالي ساعة واحدة</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>Install/System/Library/PrivateFrameworks/Install.framework/Frameworks/DistributionKit.framework/Versions/A/Resources/English.lproj/Distribution.strings</Filepath>
+    <TextItem>
+      <Description> Failed minimum RAM check </Description>
+      <Position>RequiredRAMFailed</Position>
+      <TranslationSet>
+        <base loc="en">%@ can’t be installed on this computer because it requires at least %@ of memory.</base>
+        <tran loc="ar">لا يمكن تثبيت %@ على هذا الكمبيوتر لأنه يتطلب %@ على الأقل من الذاكرة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>GENERIC_FAIL_VOLUME</Position>
+      <TranslationSet>
+        <base loc="en">This disk doesn’t meet the requirements for this update.</base>
+        <tran loc="ar">لا يفي هذا القرص بمتطلبات هذا التحديث.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> generic failure on RAM check 
+ args = [ product-name, required-ram ] </Description>
+      <Position>InstallationCheckNotEnoughRAM</Position>
+      <TranslationSet>
+        <base loc="en">%@ can’t be installed on this computer because it requires %@ of memory.</base>
+        <tran loc="ar">لا يمكن تثبيت %@ على هذا الكمبيوتر لأنه يتطلب %@ من الذاكرة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CUSTOMIZATION_ACTION_UPGRADE</Position>
+      <TranslationSet>
+        <base loc="en">Upgrade</base>
+        <tran loc="ar">ترقية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Message displayed if the package is successfully installed </Description>
+      <Position>InstallSuccessMessage</Position>
+      <TranslationSet>
+        <base loc="en">The software was successfully installed.</base>
+        <tran loc="ar">تم تثبيت البرنامج بنجاح.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CUSTOMIZATION_ITEM_REQUIRED_BY_ITEM</Position>
+      <TranslationSet>
+        <base loc="en">This item is required by %@.</base>
+        <tran loc="ar">هذا العنصر مطلوب من قِبل %@.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CUSTOMIZATION_ACTION_INSTALL</Position>
+      <TranslationSet>
+        <base loc="en">Install</base>
+        <tran loc="ar">تثبيت</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>GENERIC_FAIL_LANG</Position>
+      <TranslationSet>
+        <base loc="en">This software doesn’t support your primary system language.</base>
+        <tran loc="ar">لا يدعم هذا البرنامج لغة النظام الأساسية.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>TARGET_VOLUME_NO_OS_SELF_INSTALL</Position>
+      <TranslationSet>
+        <base loc="en">You can’t install macOS on the same disk that contains this installation package.</base>
+        <tran loc="ar">لا يمكن تثبيت macOS على نفس القرص الذي يحتوي على حزمة التثبيت هذه.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> IFInstallController Strings 
+ Time Strings 
+ Estimated time remaining message displayed when there are more than two hours remaining to install </Description>
+      <Position>ManyHoursManyMinutesRemaining</Position>
+      <TranslationSet>
+        <base loc="en">About %@ hours and %@ minutes</base>
+        <tran loc="ar">حوالي %@ من الساعات و%@ من الدقائق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>TARGET_VOLUME_NO_SPACE</Position>
+      <TranslationSet>
+        <base loc="en">There is not enough free space on this disk.</base>
+        <tran loc="ar">لا توجد مساحة خالية كافية على هذا القرص.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CUSTOMIZATION_ITEM_DISABLED</Position>
+      <TranslationSet>
+        <base loc="en">This item can’t be installed.\n%@</base>
+        <tran loc="ar">لا يمكن تثبيت هذا العنصر.\n%@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>JustManyHoursRemaining</Position>
+      <TranslationSet>
+        <base loc="en">About %@ hours</base>
+        <tran loc="ar">حوالي %@ من الساعات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CUSTOMIZATION_ITEM_VERSION_CONFLICT</Position>
+      <TranslationSet>
+        <base loc="en">A newer version of this item is already installed.</base>
+        <tran loc="ar">هناك إصدار أحدث من هذا العنصر مثبت بالفعل.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> OpenGL requirements not met </Description>
+      <Position>RequiredGLRendererFailed</Position>
+      <TranslationSet>
+        <base loc="en">%@ doesn’t support this computer’s graphics hardware.</base>
+        <tran loc="ar">%@ لا يدعم مكونات الرسومات الصلبة لهذا الكمبيوتر.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Failed OS required check </Description>
+      <Position>AllowedOSNone</Position>
+      <TranslationSet>
+        <base loc="en">macOS isn’t installed.</base>
+        <tran loc="ar">‏macOS غير مثبت.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>TARGET_VOLUME_NO_INSTALL_OS_ROOT</Position>
+      <TranslationSet>
+        <base loc="en">%@ can’t be installed on the startup disk.</base>
+        <tran loc="ar">لا يمكن تثبيت %@ على قرص بدء التشغيل.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Messages displayed if the package cannot be installed </Description>
+      <Position>InstallFailureMessage</Position>
+      <TranslationSet>
+        <base loc="en">There were errors installing the software.</base>
+        <tran loc="ar">حدثت أخطاء أثناء تثبيت البرنامج.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>TARGET_VOLUME_NO_BOOT_NEED_GPT</Position>
+      <TranslationSet>
+        <base loc="en">To install on this disk, open Disk Utility by choosing Utilities &gt; Disk Utility, and repartition this disk using “GUID Partition Table.” Important: you will lose all data on this disk by repartitioning it.</base>
+        <tran loc="ar">للتثبيت على هذا القرص، افتح أداة القرص عن طريق اختيار الأدوات المساعدة &gt; أداة القرص، وأعد تقسيم هذا القرص باستخدام \"جدول تقسيم GUID.\" هام: تؤدي إعادة تقسيم القرص إلى فقد كافة البيانات الموجودة عليه.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>JavaScriptError</Position>
+      <TranslationSet>
+        <base loc="en">An error occurred while evaluating JavaScript for the package.</base>
+        <tran loc="ar">حدث خطأ أثناء تقييم JavaScript للحزمة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>TARGET_VOLUME_NOT_JOURNALED</Position>
+      <TranslationSet>
+        <base loc="en">%@ can’t be installed because the disk is not journaled. To enable journaling, open Disk Utility by choosing Utilities &gt; Disk Utility, select %@ and then File &gt; Enable Journaling.</base>
+        <tran loc="ar">لا يمكن تثبيت %@ نظرًا لأنه لم يتم تسجيل يوميات القرص. لتمكين تسجيل اليوميات، افتح أداة القرص من خلال اختيار الأدوات المساعدة &gt; أداة القرص وتحديد %@، ثم ملف &gt; تمكين تسجيل اليوميات.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>TARGET_VOLUME_DEFERRED_CHECK_FAILED</Position>
+      <TranslationSet>
+        <base loc="en">%@ couldn’t be installed on this disk.</base>
+        <tran loc="ar">تعذر تثبيت %@ على هذا القرص.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>TARGET_VOLUME_NO_BOOT</Position>
+      <TranslationSet>
+        <base loc="en">%@ cannot start up from this disk.</base>
+        <tran loc="ar">لا يمكن بدء تشغيل %@ من هذا القرص.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>TARGET_VOLUME_NO_BOOT_NEED_APM</Position>
+      <TranslationSet>
+        <base loc="en">To install on this disk, open Disk Utility by choosing Utilities &gt; Disk Utility, and repartition this disk using “Apple Partition Map.” Important: you will lose all data on this disk by repartitioning it.</base>
+        <tran loc="ar">للتثبيت على هذا القرص، افتح أداة القرص عن طريق اختيار الأدوات المساعدة &gt; أداة القرص، وأعد تقسيم هذا القرص باستخدام \"Apple Partition Map.\" هام: تؤدي إعادة تقسيم القرص إلى فقد كافة البيانات الموجودة عليه.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> disk requires a later minor version of macOS (but 
+*not
+* a paid upgrade) 
+ args = [ product-name, disk-name, minimum-OS-version ] </Description>
+      <Position>VolumeCheckNeedSoftwareUpdate</Position>
+      <TranslationSet>
+        <base loc="en">%@ can’t be installed on %@ because macOS version %@ or later is required. Choose Software Update from the Apple menu to update macOS.</base>
+        <tran loc="ar">لا يمكن تثبيت %@ على %@ لأن الإصدار %@ أو أحدث من macOS مطلوب. اختر محدث البرامج من قائمة Apple لتحديث macOS.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>The package is damaged and cannot be read.</Position>
+      <TranslationSet>
+        <base loc="en">The package is damaged and can’t be read.</base>
+        <tran loc="ar">الحزمة تالفة ولا يمكن قراءتها.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>OneHourManyMinutesRemaining</Position>
+      <TranslationSet>
+        <base loc="en">About %@ hour and %@ minutes</base>
+        <tran loc="ar">حوالي %@ ساعة و%@ من الدقائق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CUSTOMIZATION_ITEM_REQUIRED</Position>
+      <TranslationSet>
+        <base loc="en">This item is required.</base>
+        <tran loc="ar">هذا العنصر مطلوب.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>TARGET_VOLUME_WRONG_FS</Position>
+      <TranslationSet>
+        <base loc="en">%@ can’t be installed on a disk with the %@ format.</base>
+        <tran loc="ar">لا يمكن تثبيت %@ على قرص بتنسيق %@.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ManySecondsRemaining</Position>
+      <TranslationSet>
+        <base loc="en">Less than a minute</base>
+        <tran loc="ar">أقل من دقيقة واحدة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> very generic installation-check warning (not sure why this is here, but need to keep it in case some distribution uses it) </Description>
+      <Position>InstallationCheckWarning</Position>
+      <TranslationSet>
+        <base loc="en">Warning</base>
+        <tran loc="ar">تحذير</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CUSTOMIZATION_ACTION_SKIP</Position>
+      <TranslationSet>
+        <base loc="en">Skip</base>
+        <tran loc="ar">تخطي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>TARGET_VOLUME_PASSWORD_LOCKED</Position>
+      <TranslationSet>
+        <base loc="en">This disk is locked.</base>
+        <tran loc="ar">هذا القرص مؤمَّن.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>TARGET_VOLUME_VERS_CONFLICT</Position>
+      <TranslationSet>
+        <base loc="en">A newer version of this software already exists on this disk.</base>
+        <tran loc="ar">هناك إصدار أحدث من هذا البرنامج موجود بالفعل على هذا القرص.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>TARGET_VOLUME_EXOTIC_BOOTCAMP</Position>
+      <TranslationSet>
+        <base loc="en">You can’t install macOS on this disk because it shares a physical disk with an unsupported Boot Camp configuration.</base>
+        <tran loc="ar">لا يمكنك تثبيت macOS على هذا القرص لأنه يشترك مع قرص فعلي بتكوين Boot Camp غير مدعوم.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ManyHoursOneMinuteRemaining</Position>
+      <TranslationSet>
+        <base loc="en">About %@ hours and %@ minute</base>
+        <tran loc="ar">حوالي %@ من الساعات و%@ دقيقة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description>**** Distribution Related Strings 
+ IFDocument Strings </Description>
+      <Position>ExceptionWhileReadingTitle</Position>
+      <TranslationSet>
+        <base loc="en">There was an error reading the package.</base>
+        <tran loc="ar">حدث خطأ أثناء قراءة الحزمة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> generic errors useful to distribution authors </Description>
+      <Position>GENERIC_FAIL_NEWER</Position>
+      <TranslationSet>
+        <base loc="en">A newer version is already installed.</base>
+        <tran loc="ar">يوجد إصدار أحدث مثبت بالفعل.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description>**** Distribution Standard Strings (primarily for system.localizedStandardString[WithFormat]) 
+ generic installation-check failure (but distribution should use a more specific one) 
+ args = [ product-name ] </Description>
+      <Position>InstallationCheckError</Position>
+      <TranslationSet>
+        <base loc="en">%@ can’t be installed on this computer.</base>
+        <tran loc="ar">لا يمكن تثبيت %@ على هذا الكمبيوتر.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Other hardware requirements not met </Description>
+      <Position>RequiredHardwarePropertiesFailed</Position>
+      <TranslationSet>
+        <base loc="en">%@ doesn’t support this computer’s hardware.</base>
+        <tran loc="ar">%@ لا يدعم المكوّنات الصلبة لهذا الكمبيوتر.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Failed OS maximum check </Description>
+      <Position>AllowedOSTooNew</Position>
+      <TranslationSet>
+        <base loc="en">The version of macOS is too new.</base>
+        <tran loc="ar">إصدار macOS حديث جدًا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>OneMinuteRemaining</Position>
+      <TranslationSet>
+        <base loc="en">About a minute</base>
+        <tran loc="ar">حوالي دقيقة واحدة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>INSTALL_PREPARATION</Position>
+      <TranslationSet>
+        <base loc="en">Preparing for installation…</base>
+        <tran loc="ar">يتم الآن الإعداد للتثبيت...</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> IFDTarget Strings </Description>
+      <Position>TARGET_VOLUME_READ_ONLY</Position>
+      <TranslationSet>
+        <base loc="en">The contents of this disk can’t be changed.</base>
+        <tran loc="ar">لا يمكن تغيير محتويات هذا القرص.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Failed OS range check </Description>
+      <Position>AllowedOSNeedUpgrade</Position>
+      <TranslationSet>
+        <base loc="en">macOS version %@ or later is required.</base>
+        <tran loc="ar">مطلوب الإصدار %@ من macOS أو أحدث.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>OneHourOneMinuteRemaining</Position>
+      <TranslationSet>
+        <base loc="en">About %@ hour and %@ minute</base>
+        <tran loc="ar">حوالي %@ ساعة و%@ دقيقة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> disk requires a later major version (i.e. paid upgrade) of macOS 
+ args = [ product-name, disk-name, minimum-OS-version ] </Description>
+      <Position>VolumeCheckNeedOSUpgrade</Position>
+      <TranslationSet>
+        <base loc="en">%@ can’t be installed on %@ because macOS version %@ or later is required.</base>
+        <tran loc="ar">لا يمكن تثبيت %@ على %@ لأن الإصدار %@ أو أحدث من macOS مطلوب.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>RootVolumeOnlyInstall</Position>
+      <TranslationSet>
+        <base loc="en">You can only install this software on the disk that is running macOS.</base>
+        <tran loc="ar">يمكنك فقط تثبيت هذا البرنامج على القرص الذي يقوم بتشغيل macOS.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Failed required bundle checks (used only if distribution fails to provide a string) </Description>
+      <Position>RequiredBundlesFailed</Position>
+      <TranslationSet>
+        <base loc="en">The required software is not installed.</base>
+        <tran loc="ar">البرنامج المطلوب غير مثبت.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ManyMinutesRemaining</Position>
+      <TranslationSet>
+        <base loc="en">About %@ minutes</base>
+        <tran loc="ar">حوالي %@ من الدقائق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> generic volume-check failure (but distribution should use a more specific one) 
+ args = [ product-name, disk-name ] </Description>
+      <Position>VolumeCheckError</Position>
+      <TranslationSet>
+        <base loc="en">%@ can’t be installed on %@.</base>
+        <tran loc="ar">لا يمكن تثبيت %@ على %@.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>JustOneHourRemaining</Position>
+      <TranslationSet>
+        <base loc="en">About an hour</base>
+        <tran loc="ar">حوالي ساعة واحدة</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>Install/System/Library/PrivateFrameworks/Install.framework/Versions/A/Resources/English.lproj/InfoPlist.strings</Filepath>
+    <TextItem>
+      <Description> Localized versions of Info.plist keys </Description>
+      <Position>CFBundleName</Position>
+      <TranslationSet>
+        <base loc="en">Install</base>
+        <tran loc="ar">تثبيت</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>Install/System/Library/PrivateFrameworks/Install.framework/Versions/A/Resources/English.lproj/Architectures.strings</Filepath>
+    <TextItem>
+      <Description> Map architectures to user friendly strings
+ 
+* The key should either be an architecture name, such as "m68k",
+ 
+* an architecture number, like "12", if the name isn't known, or
+ 
+* the string "Unknown CPU" as a catch-all.  The "Unknown CPU" value
+ 
+* should include a %s to be replaced with the actual architecture's
+ 
+* number.  Here are some examples:
+ 
+*
+ 
+* "i386" = "Intel Processors";
+ 
+* "12" = "ARM";
+ 
+* "Unknown CPU %d" = "Unknown CPU %d";
+ 
+*
+ 
+* There is also an "old" string that is used to describe old
+ 
+* packages where we don't know what kind of contents it has.
+ 
+ To be removed when "any" goes into libc </Description>
+      <Position>-1</Position>
+      <TranslationSet>
+        <base loc="en">All computers</base>
+        <tran loc="ar">كل أجهزة الكمبيوتر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>any</Position>
+      <TranslationSet>
+        <base loc="en">All computers</base>
+        <tran loc="ar">كل أجهزة الكمبيوتر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>hppa</Position>
+      <TranslationSet>
+        <base loc="en">HP-PA RISC</base>
+        <tran loc="ar">HP-PA RISC</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>i386</Position>
+      <TranslationSet>
+        <base loc="en">Intel</base>
+        <tran loc="ar">Intel</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Description for old pre-3.1 packages </Description>
+      <Position>old</Position>
+      <TranslationSet>
+        <base loc="en">(Unknown)</base>
+        <tran loc="ar">(غير معروف)</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>m68k</Position>
+      <TranslationSet>
+        <base loc="en">NeXT</base>
+        <tran loc="ar">NeXT</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>Install/System/Library/PrivateFrameworks/Install.framework/Versions/A/Resources/English.lproj/DiskSizes.strings</Filepath>
+    <TextItem>
+      <Description> Format for file sizes between 1MB and 100MB. Value is an floating point value value in megabytes. </Description>
+      <Position>MB</Position>
+      <TranslationSet>
+        <base loc="en">%@ MB</base>
+        <tran loc="ar">%@ م.ب.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Format for file sizes in the Exabytes </Description>
+      <Position>EB</Position>
+      <TranslationSet>
+        <base loc="en">%@ EB</base>
+        <tran loc="ar">%@ إكسابايت</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Format for file sizes in the Terabytes </Description>
+      <Position>TB</Position>
+      <TranslationSet>
+        <base loc="en">%@ TB</base>
+        <tran loc="ar">%@ ت ب</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Format for file sizes between 1GB and 100GB. Value is floating point value in gigabytes. </Description>
+      <Position>GB</Position>
+      <TranslationSet>
+        <base loc="en">%@ GB</base>
+        <tran loc="ar">%@ غ.ب.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Format for file sizes in the Petabytes </Description>
+      <Position>PB</Position>
+      <TranslationSet>
+        <base loc="en">%@ PB</base>
+        <tran loc="ar">%@ بيتابايت</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Format for file sizes between 100 bytes and 100 kilobytes. Value is a floating point value in kilobytes. </Description>
+      <Position>KB</Position>
+      <TranslationSet>
+        <base loc="en">%@ KB</base>
+        <tran loc="ar">%@ ك.ب.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Format for file sizes less than 100 bytes. Value is an integer in bytes. </Description>
+      <Position>B</Position>
+      <TranslationSet>
+        <base loc="en">%@ bytes</base>
+        <tran loc="ar">%@ بايت</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>Install/System/Library/PrivateFrameworks/Install.framework/Versions/A/Resources/English.lproj/VolumeCheck.strings</Filepath>
+    <TextItem>
+      <Description> for all unhandled indexes </Description>
+      <Position>UNDEFINED_INDEX</Position>
+      <TranslationSet>
+        <base loc="en">The specified message could not be found for the index %@.</base>
+        <tran loc="ar">تعذر العثور على الرسالة المحددة للفهرس %@.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Installed system is too old to upgrade, but gives the option of erasing the target volume. </Description>
+      <Position>2</Position>
+      <TranslationSet>
+        <base loc="en">An error occurred while running the VolumeCheck tool for %@. Try running the installation again.</base>
+        <tran loc="ar">حدث خطأ أثناء تشغيل أداة فحص وحدة التخزين لـ %@. حاول تشغيل التثبيت مرة أخرى.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> This is for those who do not specify a message.  Tsk...Tsk..</Description>
+      <Position>0</Position>
+      <TranslationSet>
+        <base loc="en">You don’t have permission to install the software on this disk.</base>
+        <tran loc="ar">ليس لديك الإذن اللازم لتثبيت البرنامج على هذا القرص.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Installed system is too old to upgrade.  What the heck is this for?</Description>
+      <Position>1</Position>
+      <TranslationSet>
+        <base loc="en">The specified message for index 1 could not be found.</base>
+        <tran loc="ar">تعذر العثور على الرسالة المحددة للفهرس 1.</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>Install/System/Library/PrivateFrameworks/Install.framework/Versions/A/Resources/English.lproj/FileSystemNames.strings</Filepath>
+    <TextItem>
+      <Description> User-readable name for Mac OS extended (HFS+) volumes. </Description>
+      <Position>Mac OS Extended</Position>
+      <TranslationSet>
+        <base loc="en">Mac OS Extended</base>
+        <tran loc="ar">Mac OS Extended</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> User-readable name for Mac OS (HFS) volumes. </Description>
+      <Position>Mac OS Standard</Position>
+      <TranslationSet>
+        <base loc="en">Mac OS Standard</base>
+        <tran loc="ar">Mac OS Standard</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> User-readable name for Mac OS X Server (UFS) volumes </Description>
+      <Position>Mac OS X Server (UFS)</Position>
+      <TranslationSet>
+        <base loc="en">Mac OS X Server (UFS)</base>
+        <tran loc="ar">Mac OS X Server (UFS)</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> User-readable name for Mac OS X (UFS) volumes </Description>
+      <Position>Mac OS X (UFS)</Position>
+      <TranslationSet>
+        <base loc="en">Mac OS X (UFS)</base>
+        <tran loc="ar">Mac OS X (UFS)</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> User-readable name for the root (boot) volume. </Description>
+      <Position>Root Volume</Position>
+      <TranslationSet>
+        <base loc="en">Startup Disk</base>
+        <tran loc="ar">قرص بدء التشغيل</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>Install/System/Library/PrivateFrameworks/Install.framework/Versions/A/Resources/English.lproj/InstallDescriptions.strings</Filepath>
+    <TextItem>
+      <Description> Possible user action for a package: in this case, the given package is to be upgraded. </Description>
+      <Position>Upgrade</Position>
+      <TranslationSet>
+        <base loc="en">Upgrade</base>
+        <tran loc="ar">ترقية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Possible user action for a package: in this case, the given package is to be installed from scratch. </Description>
+      <Position>Install</Position>
+      <TranslationSet>
+        <base loc="en">Install</base>
+        <tran loc="ar">تثبيت</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Package state description, applicable after a package has successfully been installed (or upgraded). </Description>
+      <Position>Installed</Position>
+      <TranslationSet>
+        <base loc="en">Installed</base>
+        <tran loc="ar">مثبت</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Package state description, applicable while the Installer engine is busy processing the given package. </Description>
+      <Position>Busy</Position>
+      <TranslationSet>
+        <base loc="en">Busy</base>
+        <tran loc="ar">مشغول</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Package state description, applicable after an installed package has been successfully removed. </Description>
+      <Position>Deleted</Position>
+      <TranslationSet>
+        <base loc="en">Deleted</base>
+        <tran loc="ar">تم الحذف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Package state description, applicable after a package's contents have been read. </Description>
+      <Position>Uninstalled</Position>
+      <TranslationSet>
+        <base loc="en">Uninstalled</base>
+        <tran loc="ar">لم يتم التثبيت</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description>Package state description, applicable when an installation has been prematurely and intentionally terminated.</Description>
+      <Position>Stopped</Position>
+      <TranslationSet>
+        <base loc="en">Installation Stopped</base>
+        <tran loc="ar">تم إيقاف التثبيت</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Package state description. This applies after a package has been opened, a target disk has been selected, an operation (install, upgrade or delete) has been chosen and the Installer engine has checked that the operation is valid. </Description>
+      <Position>Ready</Position>
+      <TranslationSet>
+        <base loc="en">Ready</base>
+        <tran loc="ar">جاهز</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Possible user action for a package: in this case, the given package is to be ignored. </Description>
+      <Position>Skip</Position>
+      <TranslationSet>
+        <base loc="en">Skip</base>
+        <tran loc="ar">تخطي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Possible user action for a package: in this case, the contents of the given installed package are to be deleted. </Description>
+      <Position>Remove</Position>
+      <TranslationSet>
+        <base loc="en">Remove</base>
+        <tran loc="ar">إزالة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Package state description, applicable when a package has first been opened, but none of its contents have been read. </Description>
+      <Position>Uninitialized</Position>
+      <TranslationSet>
+        <base loc="en">Uninitialized</base>
+        <tran loc="ar">لم تتم التهيئة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Package state description, applicable when an unrecoverable error has occurred while processing the package. </Description>
+      <Position>Failed</Position>
+      <TranslationSet>
+        <base loc="en">Failed</base>
+        <tran loc="ar">فشل</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>Install/System/Library/PrivateFrameworks/Install.framework/Versions/A/Resources/English.lproj/LogEntries.strings</Filepath>
+    <TextItem>
+      <Description> Message displayed if the package cannot be installed </Description>
+      <Position>FailMessage</Position>
+      <TranslationSet>
+        <base loc="en">There were errors installing the software. Try reinstalling the software.</base>
+        <tran loc="ar">حدثت أخطاء أثناء تثبيت البرنامج. جرّب إعادة تثبيت البرنامج.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ErrorBadVolumeCheck</Position>
+      <TranslationSet>
+        <base loc="en">The VolumeCheck tool was either not executable or not readable.</base>
+        <tran loc="ar">إما أن أداة فحص وحدة التخزين غير قابلة للتنفيذ أو غير قابلة للقراءة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> This message is displayed in the front end when the user tries to install a single package</Description>
+      <Position>PackageVersionWarning2</Position>
+      <TranslationSet>
+        <base loc="en">Do you want to choose another disk or install \"%@\" (version %@) anyway?</base>
+        <tran loc="ar">هل ترغب في اختيار قرص آخر أم تثبيت \"%@\" (الإصدار %@) على أي حال؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ErrorBadPreflight</Position>
+      <TranslationSet>
+        <base loc="en">The preflight script was either not executable or not readable.</base>
+        <tran loc="ar">إما أن البرنامج النصي preflight غير قابل للتنفيذ أو غير قابل للقراءة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Message displayed if the package is successfully installed </Description>
+      <Position>SuccessMessage</Position>
+      <TranslationSet>
+        <base loc="en">The software was successfully installed.</base>
+        <tran loc="ar">تم تثبيت البرنامج بنجاح.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ErrorNoInfo</Position>
+      <TranslationSet>
+        <base loc="en">The Info.plist file wasn’t found.</base>
+        <tran loc="ar">لم يتم العثور على ملف Info.plist.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ErrorUnknown</Position>
+      <TranslationSet>
+        <base loc="en">An unknown error occurred with the package (%i).</base>
+        <tran loc="ar">حدث خطأ غير معروف في الحزمة (%i).</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Phase strings for reading a specific package. The argument is the name of the package. </Description>
+      <Position>CompositeReadingPhase</Position>
+      <TranslationSet>
+        <base loc="en">Reading %@…</base>
+        <tran loc="ar">يتم الآن قراءة %@…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Displayed in the log when some languages are included in the package that do not exist on the user's disk. These languages will be removed from the install. </Description>
+      <Position>Some languages were not installed.</Position>
+      <TranslationSet>
+        <base loc="en">Some languages were not installed.</base>
+        <tran loc="ar">لم يتم تثبيت بعض اللغات.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ErrorTopNotDir</Position>
+      <TranslationSet>
+        <base loc="en">This file does not appear to be a package.</base>
+        <tran loc="ar">لا يبدو هذا الملف كحزمة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ErrorNoBom</Position>
+      <TranslationSet>
+        <base loc="en">The bill of materials for this package wasn’t found.</base>
+        <tran loc="ar">لم يتم العثور على بيان المواد الخاص بهذه الحزمة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ErrorRootHasNoAccess</Position>
+      <TranslationSet>
+        <base loc="en">The package can’t be installed from a network volume. Copy the package to a local volume and try again.</base>
+        <tran loc="ar">لا يمكن تثبيت الحزمة من وحدة تخزين شبكة. قم بنسخ الحزمة إلى وحدة تخزين محلية وحاول مرة أخرى.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Suffix used for products that are installed in parts across different volumes or custom locations 
+ Note that the first parameter is deferred, so the double-% is really correct! </Description>
+      <Position>JobTitleSuffix</Position>
+      <TranslationSet>
+        <base loc="en"> (Part %%d of %d)</base>
+        <tran loc="ar"> (الجزء %%d من %d)</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CompositePreparingPhase</Position>
+      <TranslationSet>
+        <base loc="en">Preparing %@…</base>
+        <tran loc="ar">يتم الآن إعداد %@...</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ErrorBadInstallationCheck</Position>
+      <TranslationSet>
+        <base loc="en">The InstallationCheck tool was either not executable or not readable.</base>
+        <tran loc="ar">إما أن أداة التحقق من التثبيت غير قابلة للتنفيذ أو غير قابلة للقراءة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Reading Package Information...</Position>
+      <TranslationSet>
+        <base loc="en">Reading package information…</base>
+        <tran loc="ar">يتم الآن قراءة معلومات الحزمة...</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> The opened package is valid. </Description>
+      <Position>PackageIsValid</Position>
+      <TranslationSet>
+        <base loc="en">The opened Installer package is valid.</base>
+        <tran loc="ar">حزمة المثبّت المفتوحة صالحة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Alert panel title for a broken package. </Description>
+      <Position>PackageIsInvalid</Position>
+      <TranslationSet>
+        <base loc="en">The Installer package \"%@\" cannot be opened.</base>
+        <tran loc="ar">لا يمكن فتح حزمة المثبّت \"%@\"</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ErrorNoResources</Position>
+      <TranslationSet>
+        <base loc="en">The Resources directory wasn’t found.</base>
+        <tran loc="ar">لم يتم العثور على دليل الموارد.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> This message is displayed in the front end when older versions of software absolutely cannot be installed on top of newer versions. </Description>
+      <Position>PackageVersionWarning3</Position>
+      <TranslationSet>
+        <base loc="en">The software you are trying to install is older than the version currently installed. You can’t install an older version of this software over a newer version.</base>
+        <tran loc="ar">البرنامج الذي تحاول تثبيته أقدم من الإصدار المثبت حاليًا. لا يمكن تثبيت إصدار أقدم من هذا البرنامج على إصدار أحدث.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ProcessingPhase</Position>
+      <TranslationSet>
+        <base loc="en">Installing...</base>
+        <tran loc="ar">يتم الآن التثبيت...</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ErrorNoSizes</Position>
+      <TranslationSet>
+        <base loc="en">The %@.sizes file wasn’t found.</base>
+        <tran loc="ar">لم يتم العثور على ملف أحجام %@.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description>	validity check messages</Description>
+      <Position>Error</Position>
+      <TranslationSet>
+        <base loc="en">Error</base>
+        <tran loc="ar">خطأ</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>OptimizingPhase</Position>
+      <TranslationSet>
+        <base loc="en">Optimizing system performance…</base>
+        <tran loc="ar">يتم الآن تحسين أداء النظام...</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ErrorBadPostflight</Position>
+      <TranslationSet>
+        <base loc="en">The postflight script was either not executable or not readable.</base>
+        <tran loc="ar">إما أن البرنامج النصي postflight غير قابل للتنفيذ أو غير قابل للقراءة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ErrorNoFlags</Position>
+      <TranslationSet>
+        <base loc="en">A package flags file wasn’t found.</base>
+        <tran loc="ar">لم يتم العثور على ملف علامات الحزمة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ErrorIsReceipt</Position>
+      <TranslationSet>
+        <base loc="en">The selected package is a receipt.</base>
+        <tran loc="ar">الحزمة المحددة عبارة عن إيصال.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ErrorNoArchive</Position>
+      <TranslationSet>
+        <base loc="en">The archive for this package wasn’t found.</base>
+        <tran loc="ar">لم يتم العثور على الأرشيف الخاص بهذه الحزمة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CompositeOptimizingPhase</Position>
+      <TranslationSet>
+        <base loc="en">Optimizing %@…</base>
+        <tran loc="ar">يتم الآن تحسين %@...</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> General purpose phase strings </Description>
+      <Position>NoPhase</Position>
+      <TranslationSet>
+        <base loc="en">None</base>
+        <tran loc="ar">لا شيء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> This message is displayed in the front end when the user tries to install a single package</Description>
+      <Position>PackageVersionWarning</Position>
+      <TranslationSet>
+        <base loc="en">A newer version of \"%@\" (version %@) already exists on the disk \"%@\".</base>
+        <tran loc="ar">هناك إصدار أحدث من \"%@\" (الإصدار %@) موجود بالفعل على القرص \"%@\".</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ErrorProxyPackage</Position>
+      <TranslationSet>
+        <base loc="en">This package can’t be installed. Open the original package located at %@.</base>
+        <tran loc="ar">لا يمكن تثبيت هذه الحزمة. افتح الحزمة الأصلية الموجودة في %@.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> This message is displayed in the log if a bundle cannot be installed because a newer version already exists on the target volume. The first argument in the string is the path to the bundle, like /Applications/Mail.app. The arguments in parenthesis are the 5 digit versions of the older and newer bundles. The format specifiers MUST remain in the same order. </Description>
+      <Position>OldBundleVersion</Position>
+      <TranslationSet>
+        <base loc="en">%@ (version %@) was not installed because a newer version (%@) already exists.</base>
+        <tran loc="ar">لم يتم تثبيت %@ (الإصدار %@) نظرًا لوجود إصدار أحدث من (%@) بالفعل.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ErrorBadPreinstall</Position>
+      <TranslationSet>
+        <base loc="en">The preinstall script was either not executable or not readable.</base>
+        <tran loc="ar">إما أن البرنامج النصي لما قبل التثبيت غير قابل للتنفيذ أو غير قابل للقراءة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> BOM file is either missing or was created with IndexingKit. Needs to recreated. </Description>
+      <Position>PackageBadBom</Position>
+      <TranslationSet>
+        <base loc="en">Missing or old bill of materials.</base>
+        <tran loc="ar">بيان المواد قديم أو مفقود.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CompositeProcessingPhase</Position>
+      <TranslationSet>
+        <base loc="en">Processing %@…</base>
+        <tran loc="ar">يتم الآن معالجة %@...</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ReadingPhase</Position>
+      <TranslationSet>
+        <base loc="en">Reading...</base>
+        <tran loc="ar">يتم الآن القراءة...</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ErrorBadPostupgrade</Position>
+      <TranslationSet>
+        <base loc="en">The postupgrade script was either not executable or not readable.</base>
+        <tran loc="ar">إما أن البرنامج النصي لما بعد الترقية غير قابل للتنفيذ أو غير قابل للقراءة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ErrorNoMetaPackageList</Position>
+      <TranslationSet>
+        <base loc="en">The package list for the meta-package is missing.</base>
+        <tran loc="ar">قائمة الحزم الخاصة بحزمة التعريف مفقودة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> This message is displayed in the log if a file cannot be installed because a newer version already exists on the target volume. The first argument in the string is the path to the bundle, like /Applications/Mail.app. The arguments in parenthesis are the 5 digit versions of the older and newer bundles. The format specifiers MUST remain in the same order. </Description>
+      <Position>OldFileVersion</Position>
+      <TranslationSet>
+        <base loc="en">%@ (version %@) was not installed because a newer version already exists.</base>
+        <tran loc="ar">لم يتم تثبيت %@ (الإصدار %@) نظرًا لوجود إصدار أحدث بالفعل.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ErrorBadPreupgrade</Position>
+      <TranslationSet>
+        <base loc="en">The preupgrade script was either not executable or not readable.</base>
+        <tran loc="ar">إما أن البرنامج النصي لما قبل الترقية غير قابل للتنفيذ أو غير قابل للقراءة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ErrorNoSize</Position>
+      <TranslationSet>
+        <base loc="en">The size of this package can’t be determined.</base>
+        <tran loc="ar">لا يمكن تحديد حجم هذه الحزمة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ErrorNoContents</Position>
+      <TranslationSet>
+        <base loc="en">The Contents directory wasn’t found.</base>
+        <tran loc="ar">لم يتم العثور على دليل المحتويات.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Preparing...</Position>
+      <TranslationSet>
+        <base loc="en">Preparing...</base>
+        <tran loc="ar">يتم الآن الإعداد...</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PreparingPhase</Position>
+      <TranslationSet>
+        <base loc="en">Preparing...</base>
+        <tran loc="ar">يتم الآن الإعداد...</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> This message is displayed in the front end when a subpackage of a metapackage encounters a newer version already installed.  The format argument for this string is the name of the metapackage. </Description>
+      <Position>MetapackageVersionWarning2</Position>
+      <TranslationSet>
+        <base loc="en">Do you want to select another disk or install \"%@\" anyway?</base>
+        <tran loc="ar">هل ترغب في تحديد قرص آخر أم تثبيت \"%@\" على أي حال؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ErrorBadPostinstall</Position>
+      <TranslationSet>
+        <base loc="en">The postinstall script was either not executable or not readable.</base>
+        <tran loc="ar">إما أن البرنامج النصي لما بعد التثبيت غير قابل للتنفيذ أو غير قابل للقراءة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> This message is displayed in the front end when a subpackage of a metapackage encounters a newer version already installed. The first format agument for this string is the name of the metapackage. The second is the name of the target volume. </Description>
+      <Position>MetapackageVersionWarning</Position>
+      <TranslationSet>
+        <base loc="en">There are newer versions of some of the software packages in \"%@\" already installed on the disk \"%@\".</base>
+        <tran loc="ar">هناك إصدارات أحدث لبعض حزم البرامج الموجودة في \"%@\" مثبتة بالفعل على القرص \"%@\".</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>Install/System/Library/PrivateFrameworks/Install.framework/Versions/A/Resources/English.lproj/Errors.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>ERROR_EXTRACTING_MESSAGE</Position>
+      <TranslationSet>
+        <base loc="en">The Installer can’t extract files from the package for %@. Contact the software manufacturer for assistance.</base>
+        <tran loc="ar">لا يمكن للمثبّت استخراج ملفات من الحزمة لـ %@. اتصل بالشركة المصنّعة للبرنامج للحصول على المساعدة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ERROR_READ_ONLY_SYSTEM_VOLUME_CONTENT_CONTINUE_BUTTON_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Install Anyway</base>
+        <tran loc="ar">تثبيت على أي حال</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>WARNING_PROTECTED_SYSTEM_CONTENT_CONTINUE_BUTTON_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Install Anyway</base>
+        <tran loc="ar">تثبيت على أي حال</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ERROR_GENERIC_MESSAGE</Position>
+      <TranslationSet>
+        <base loc="en">The Installer can’t install some files in “%@”. Contact the software manufacturer for assistance.</base>
+        <tran loc="ar">لا يمكن للمثبّت تثبيت بعض الملفات في \"%@\". اتصل بالشركة المصنّعة للبرنامج للحصول على المساعدة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ERROR_VALIDATING_MESSAGE</Position>
+      <TranslationSet>
+        <base loc="en">The Installer can’t validate the contents of the ‘%@’ package. Contact the software manufacturer for assistance.</base>
+        <tran loc="ar">لا يمكن للمثبّت التحقق من صحة محتويات الحزمة ‘%@’. اتصل بالشركة المصنّعة للبرنامج للحصول على المساعدة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ERROR_PREPARING_ARCHIVE_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">The Installer was unable to archive your previous system.</base>
+        <tran loc="ar">لم يتمكن المثبّت من أرشفة النظام السابق.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ERROR_UNSUPPORTED_INSTALL_VOLUME__MESSAGE</Position>
+      <TranslationSet>
+        <base loc="en">Features such as FileVault and Recovery Mode won't be available if you install Lion on this disk. Visit www.apple.com/support/no-recovery to learn more. To continue with the installation, select the disk again and click Install.</base>
+        <tran loc="ar">لن تتوفر ميزات مثل FileVault و نمط الاسترداد إذا قمت بتثبيت Lion على هذا القرص. قم بزيارة www.apple.com/support/no-recovery لمعرفة المزيد. للاستمرار بالتثبيت، قم بتحديد القرص مرة أخرى ثم انقر \"تثبيت\".</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ERROR_INSTALL_STEP_FAILED_MESSAGE</Position>
+      <TranslationSet>
+        <base loc="en">The following installation step failed: %@. Contact the software manufacturer for assistance.</base>
+        <tran loc="ar">فشلت خطوة التثبيت التالية: %@. اتصل بالشركة المصنّعة للبرنامج للحصول على المساعدة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ERROR_READ_ONLY_SYSTEM_VOLUME_CONTENT_CANCEL_BUTTON_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Quit</base>
+        <tran loc="ar">إنهاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>WARNING_PROTECTED_SYSTEM_CONTENT_CANCEL_BUTTON_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Quit</base>
+        <tran loc="ar">إنهاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>WARNING_PROTECTED_SYSTEM_CONTENT_MESSAGE</Position>
+      <TranslationSet>
+        <base loc="en">Installing this package may damage your system, and the installation may fail. To stop the program and the installation, click “Cancel Installation”.</base>
+        <tran loc="ar">قد يؤدي تثبيت هذه الحزمة إلى إتلاف النظام لديك، وقد يفشل التثبيت. لإيقاف البرنامج والتثبيت، انقر على \"إلغاء التثبيت\".</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ERROR_INSTALL_SCRIPT_MISSING_MESSAGE</Position>
+      <TranslationSet>
+        <base loc="en">The package contents could not be completely extracted. The package may have been corrupted during download.</base>
+        <tran loc="ar">تعذر استخراج محتويات الحزمة بالكامل. ربما تكون الحزمة قد تعرضت للتلف أثناء التنزيل.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UNABLE_TO_START_MESSAGE</Position>
+      <TranslationSet>
+        <base loc="en">The Installer could not install the software because there was no software found to install.</base>
+        <tran loc="ar">تعذر على المثبّت تثبيت البرنامج نظرًا لعدم العثور على أية برامج لتثبيتها.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UNABLE_TO_START_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">The Installer could not install the software.</base>
+        <tran loc="ar">تعذر على المثبّت تثبيت البرنامج.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ERROR_GENERIC_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">macOS could not be installed on this disk.</base>
+        <tran loc="ar">تعذر تثبيت macOS على هذا القرص.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>URL_LOCATING_ERROR_MESSAGE</Position>
+      <TranslationSet>
+        <base loc="en">The Installer can’t locate the data it needs to install the software. Check your install media or Internet connection and try again, or contact the software manufacturer for assistance.</base>
+        <tran loc="ar">لا يمكن للمثبّت تحديد موقع البيانات اللازمة لتثبيت البرنامج. تحقق من وسائط التثبيت أو اتصال الإنترنت ثم حاول مرة أخرى أو اتصل بالشركة المصنّعة للبرنامج للحصول على المساعدة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ERROR_FATAL_RECOVERY_MESSAGE</Position>
+      <TranslationSet>
+        <base loc="en">macOS can’t be installed on the disk %@, because a recovery system can’t be created. Visit www.apple.com/support/no-recovery to learn more.</base>
+        <tran loc="ar">لا يمكن تثبيت macOS على القرص %@، لأنه لا يمكن إنشاء نظام استرداد. قم بزيارة www.apple.com/support/no-recovery لمعرفة المزيد.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ERROR_CANT_UPGRADE_MESSAGE</Position>
+      <TranslationSet>
+        <base loc="en">The Installer can’t perform an upgrade because it can’t find the software to upgrade.</base>
+        <tran loc="ar">لا يمكن للمثبّت إجراء ترقية نظرًا لعدم تمكنه من العثور على البرنامج المطلوب ترقيته.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ERROR_READ_ONLY_SYSTEM_VOLUME_CONTENT_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">This package is incompatible with this version of macOS.</base>
+        <tran loc="ar">هذه الحزمة غير متوافقة مع هذا الإصدار من macOS.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ERROR_BAD_SOURCE_MEDIA</Position>
+      <TranslationSet>
+        <base loc="en">The item you are installing from is damaged. Try installing from a different copy of the item or contact the manufacturer for a replacement.</base>
+        <tran loc="ar">العنصر الذي يتم التثبيت منه تالف. جرّب التثبيت من نسخة مختلفة من العنصر أو اتصل بالشركة المصنّعة للحصول على نسخة بديلة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ERROR_OUT_OF_SPACE_MESSAGE</Position>
+      <TranslationSet>
+        <base loc="en">The disk “%@” ran out of space during the installation. Try making more space available on the disk, and then reinstall the software.</base>
+        <tran loc="ar">نفدت المساحة الخالية على القرص \"%@\" أثناء التثبيت. حاول توفير مساحة إضافية على القرص ثم أعد تثبيت البرنامج.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ERROR_INCOMPATIBLE_PKG_FEATURES</Position>
+      <TranslationSet>
+        <base loc="en">The package you are installing is not compatible with this version of macOS. Contact the software manufacturer for assistance.</base>
+        <tran loc="ar">الحزمة التي تقوم بتثبيتها ليست متوافقة مع هذا الإصدار من macOS. اتصل بالجهة المصنعة للبرنامج للحصول على المساعدة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ERROR_PATCHING_MESSAGE</Position>
+      <TranslationSet>
+        <base loc="en">The Installer can’t install the software. Contact the software manufacturer for assistance.</base>
+        <tran loc="ar">لا يمكن للمثبّت تثبيت البرنامج. اتصل بالشركة المصنّعة للبرنامج للحصول على المساعدة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ERROR_REAPING_MESSAGE</Position>
+      <TranslationSet>
+        <base loc="en">The Installer could not remove old system files on “%@”.</base>
+        <tran loc="ar">تعذر على المثبّت إزالة ملفات النظام القديمة الموجودة في \"%@\".</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ERROR_CREATING_RECEIPT_MESSAGE</Position>
+      <TranslationSet>
+        <base loc="en">The Installer can’t create the receipt for “%@”.</base>
+        <tran loc="ar">لا يمكن للمثبّت إنشاء الإيصال لـ \"%@\".</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description>**** DISTRIBUTION-RETURNED ERRORS 
+  These errors are single strings that can be returned by key from distributions.  
+  The idea being that these strings will get localized and can provide canned      
+  localized messages to users. </Description>
+      <Position>This installer package does not contain support for your system language.</Position>
+      <TranslationSet>
+        <base loc="en">This installer doesn’t support your primary system language.</base>
+        <tran loc="ar">لا يدعم المثبّت هذا لغة النظام الأساسية.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ERROR_LOCATING_PATCH_TOOL_MESSAGE</Position>
+      <TranslationSet>
+        <base loc="en">The Installer could not find its patch tool in “%@”. You may need to reinstall macOS.</base>
+        <tran loc="ar">تعذر على المثبّت العثور على أداة التصحيح الخاصة به في \"%@\". قد يتعين عليك إعادة تثبيت macOS.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>USER_CANCEL_INSTALL_MESSAGE</Position>
+      <TranslationSet>
+        <base loc="en">You have chosen to cancel the installation.</base>
+        <tran loc="ar">لقد اخترت إلغاء التثبيت.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ERROR_WRITING_RECEIPT_MESSAGE</Position>
+      <TranslationSet>
+        <base loc="en">The Installer can’t write the receipt for “%@”.</base>
+        <tran loc="ar">لا يمكن للمثبّت كتابة الإيصال لـ \"%@\".</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ERROR_READ_ONLY_SYSTEM_VOLUME_CONTENT_MESSAGE</Position>
+      <TranslationSet>
+        <base loc="en">The package is trying to install content to the system volume. Contact the software manufacturer for assistance.</base>
+        <tran loc="ar">تحاول الحزمة تثبيت محتوى على وحدة تخزين النظام. اتصل بالجهة المصنعة للبرنامج للحصول على المساعدة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ERROR_DESTINATION_DISK_MESSAGE</Position>
+      <TranslationSet>
+        <base loc="en">The Installer is experiencing errors installing on “%@”. The disk may be damaged. Try installing on another disk.</base>
+        <tran loc="ar">يواجه المثبّت أخطاء أثناء التثبيت على \"%@\". ربما يكون القرص تالفًا. جرِّب التثبيت على قرص آخر.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ERROR_UNSUPPORTED_INSTALL_VOLUME_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Some features of macOS are not supported for the disk “%@”.</base>
+        <tran loc="ar">بعض ميزات macOS غير مدعومة للقرص \"%@\".</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ERROR_PREPARING_DISK_MESSAGE</Position>
+      <TranslationSet>
+        <base loc="en">The Installer can’t prepare the disk for installation. You may need to repair your disk using Disk Utility.</base>
+        <tran loc="ar">لا يمكن للمثبّت إعداد القرص للتثبيت. قد تكون بحاجة إلى إصلاح القرص باستخدام أداة القرص.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ERROR_FINALIZING_DISK_MESSAGE</Position>
+      <TranslationSet>
+        <base loc="en">The Installer could not start up the computer from the disk “%@”. Try selecting your disk using the Startup Disk utility.</base>
+        <tran loc="ar">تعذر على المثبّت بدء تشغيل الكمبيوتر من القرص \"%@\". جرِّب تحديد القرص باستخدام أداة قرص بدء التشغيل.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ERROR_CREATING_DIR_MESSAGE</Position>
+      <TranslationSet>
+        <base loc="en">The Installer can’t create the folder “%@”.</base>
+        <tran loc="ar">لا يمكن للمثبّت إنشاء المجلد \"%@\".</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>NOT_AUTHORIZED_MESSAGE</Position>
+      <TranslationSet>
+        <base loc="en">You do not have the necessary authorization to install this software. Make sure you have administrative privileges before trying again.</base>
+        <tran loc="ar">ليس لديك التخويل اللازم لتثبيت هذا البرنامج. الرجاء التأكد من توفر امتيازات المسؤول لديك قبل إعادة المحاولة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ERROR_UNKNOWN_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">An unknown installation error occurred.</base>
+        <tran loc="ar">حدث خطأ غير معروف في التثبيت.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ERROR_UNKNOWN_MESSAGE</Position>
+      <TranslationSet>
+        <base loc="en">The Installer encountered an error that caused the installation to fail. Contact the software manufacturer for assistance.</base>
+        <tran loc="ar">صادف المثبّت خطأ تسبب في فشل التثبيت. اتصل بالشركة المصنّعة للبرنامج للحصول على المساعدة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>WARNING_PROTECTED_SYSTEM_CONTENT_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">This package is incompatible with this version of macOS and may fail to install.</base>
+        <tran loc="ar">هذه الحزمة غير متوافقة مع هذا الإصدار من macOS وقد يفشل تثبيتها.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description>**** SUMMARY PANEL ERRORS 
+  These errors are single strings that will appear in the Installer's summary panel  </Description>
+      <Position>DOWNLOAD_ERROR_MESSAGE</Position>
+      <TranslationSet>
+        <base loc="en">There was an error obtaining data from the file “%@,” which is needed to install the software. Check your Internet connection and try again, or contact the software manufacturer for assistance.</base>
+        <tran loc="ar">حدث خطأ أثناء الحصول على بيانات من الملف \"%@,\" واللازمة لتثبيت البرنامج. تحقق من اتصال الإنترنت وحاول مرة أخرى أو اتصل بالشركة المصنّعة للبرنامج للحصول على المساعدة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ERROR_NEED_MORE_SPACE</Position>
+      <TranslationSet>
+        <base loc="en">There is not enough space on this disk to install the selected items. Deselect at least %@ and try again.</base>
+        <tran loc="ar">لا تتوفر مساحة كافية على هذا القرص لتثبيت العناصر المحددة. قم بإلغاء تحديد %@ على الأقل، ثم حاول مرة أخرى.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ERROR_NEWER_SOFTWARE_ONDISK_MESSAGE</Position>
+      <TranslationSet>
+        <base loc="en">The Installer didn’t upgrade the software because a newer version of the software is already installed.</base>
+        <tran loc="ar">لم يقم المثبّت بترقية البرنامج حيث إن هناك إصدارًا أحدث من البرنامج المثبّت بالفعل.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ERROR_IMPORTING_MESSAGE</Position>
+      <TranslationSet>
+        <base loc="en">The Installer could not import your user account from the previous system. You must create a new user account in Setup Assistant. Your original account is stored in the “/Previous System” folder.</base>
+        <tran loc="ar">تعذر على مثبّت استيراد حساب المستخدم الخاص بك من النظام السابق. يجب إنشاء حساب مستخدم جديد في مساعد الإعداد. الحساب الأصلي مخزن في مجلد \"/النظام السابق\".</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ERROR_VERIFYING_TARGET_MESSAGE</Position>
+      <TranslationSet>
+        <base loc="en">The macOS upgrade couldn't be started because the disk %@ is damaged and can't be repaired. After your computer restarts, back up your data, erase your disk, and try installing again.</base>
+        <tran loc="ar">تعذر البدء في ترقية macOS لأن القرص %@ تالف ولا يمكن إصلاحه. بعد إعادة تشغيل الكمبيوتر، خذ نسخة احتياطية من بياناتك، وامسح القرص، ثم جرّب التثبيت مرة أخرى.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description>**** Installation Error Strings 
+  These errors are title/message pairs that will appear in an alert dialog  </Description>
+      <Position>NOT_AUTHORIZED_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">You need to have administrative privileges to install this software.</base>
+        <tran loc="ar">يلزم توفر امتيازات المسؤول لديك لتثبيت هذا البرنامج.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>USER_CANCEL_INSTALL_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">The installation was canceled.</base>
+        <tran loc="ar">تم إلغاء التثبيت.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ERROR_DOWNLOAD_FAILED</Position>
+      <TranslationSet>
+        <base loc="en">The Installer could not copy the necessary support files.</base>
+        <tran loc="ar">تعذر على المثبّت نسخ ملفات الدعم الضرورية.</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>Install/System/Library/PrivateFrameworks/Install.framework/Frameworks/DistributionKit.framework/Versions/A/Resources/English.lproj/PKDistributionController.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>OSUPDATE_RECOVERY_SUGGESTION</Position>
+      <TranslationSet>
+        <base loc="en">You can update macOS from the Software Update pane of System Preferences.</base>
+        <tran loc="ar">يمكنك تحديث macOS من جزء \"تحديث البرامج\" في تفضيلات النظام.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>RECOVERY_OPTION_SWU</Position>
+      <TranslationSet>
+        <base loc="en">App Store…</base>
+        <tran loc="ar">‏App Store...</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Failed OS maximum check </Description>
+      <Position>PKDistributionErrorOSMaximumCheckFailed</Position>
+      <TranslationSet>
+        <base loc="en">%@ can’t be installed on \U201C%@\U201D because the version of macOS is too new.</base>
+        <tran loc="ar">لا يمكن تثبيت %@ على \U201C%@\U201D لأن إصدار macOS حديث جدًا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Warning from JavaScript upgrade-check (used only if distribution fails to provide a string) </Description>
+      <Position>PKDistributionErrorUpgradeCheckWarning</Position>
+      <TranslationSet>
+        <base loc="en">%@ may not work correctly on \U201C%@\U201D.</base>
+        <tran loc="ar">قد لا يعمل %@ بشكل صحيح على \U201C%@\U201D.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Warning from JavaScript volume-check (used only if distribution fails to provide a string) </Description>
+      <Position>PKDistributionErrorVolumeCheckWarning</Position>
+      <TranslationSet>
+        <base loc="en">%@ may not work correctly on \U201C%@\U201D.</base>
+        <tran loc="ar">قد لا يعمل %@ بشكل صحيح على \U201C%@\U201D.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ARCH_CHECK_REQUIRES_INTEL_64BIT</Position>
+      <TranslationSet>
+        <base loc="en">%@ can't be installed on this computer, because a 64-bit Intel processor is required.</base>
+        <tran loc="ar">لا يمكن تثبيت %@ على هذا الكمبيوتر، لأنه يتطلب معالج Intel ٦٤-بت.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Buttons used for SoftwareUpdate (now App Store) recovery options </Description>
+      <Position>RECOVERY_OPTION_CANCEL</Position>
+      <TranslationSet>
+        <base loc="en">Cancel</base>
+        <tran loc="ar">إلغاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> OpenGL and/or OpenCL requirements not met </Description>
+      <Position>PKDistributionErrorGraphicsRequirementsNotMet</Position>
+      <TranslationSet>
+        <base loc="en">%@ doesn't support this computer's graphics hardware.</base>
+        <tran loc="ar">%@ لا يدعم أجهزة الرسومات في هذا الكمبيوتر.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Failed JavaScript volume-check (used only if distribution fails to provide a string) </Description>
+      <Position>PKDistributionErrorVolumeCheckFailed</Position>
+      <TranslationSet>
+        <base loc="en">%@ can’t be installed on \U201C%@\U201D.</base>
+        <tran loc="ar">لا يمكن تثبيت %@ على \U201C%@\U201D.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Warning from JavaScript peripheral-check (used only if distribution fails to provide a string) </Description>
+      <Position>PKDistributionErrorPeripheralCheckWarning</Position>
+      <TranslationSet>
+        <base loc="en">%@ may not work correctly for the appropriate peripheral.</base>
+        <tran loc="ar">قد لا يعمل %@ بشكل صحيح للجهاز الطرفي المناسب.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Failed required bundle checks (used only if distribution fails to provide a string) </Description>
+      <Position>PKDistributionErrorRequiredBundleCheckFailed</Position>
+      <TranslationSet>
+        <base loc="en">%@ can’t be installed on \U201C%@\U201D because the required software is not installed.</base>
+        <tran loc="ar">لا يمكن تثبيت %@ على \U201C%@\U201D لأن البرنامج المطلوب غير مثبت.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Warning from JavaScript installation-check (used only if distribution fails to provide a string) </Description>
+      <Position>PKDistributionErrorInstallationCheckWarning</Position>
+      <TranslationSet>
+        <base loc="en">%@ may not work correctly on this computer.</base>
+        <tran loc="ar">قد لا يعمل %@ بشكل صحيح على هذا الكمبيوتر.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 
+   PKDistributionController.strings
+   Install
+
+   Created by Randy Saldinger on 11/16/09.
+   Copyright 2009 Apple Inc.. All rights reserved.
+ 
+ Failed architecture check (generic version used only if more specific scenarios below don't apply) </Description>
+      <Position>PKDistributionErrorArchitectureCheckFailed</Position>
+      <TranslationSet>
+        <base loc="en">%@ can’t be installed on this computer.</base>
+        <tran loc="ar">لا يمكن تثبيت %@ على هذا الكمبيوتر.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Failed JavaScript installation-check (used only if distribution fails to provide a string) </Description>
+      <Position>PKDistributionErrorInstallationCheckFailed</Position>
+      <TranslationSet>
+        <base loc="en">%@ can’t be installed on this computer.</base>
+        <tran loc="ar">لا يمكن تثبيت %@ على هذا الكمبيوتر.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Failed JavaScript peripheral-check (used only if distribution fails to provide a string) </Description>
+      <Position>PKDistributionErrorPeripheralCheckFailed</Position>
+      <TranslationSet>
+        <base loc="en">%@ can’t be installed on the appropriate peripheral.</base>
+        <tran loc="ar">لا يمكن تثبيت %@ على الجهاز الطرفي المناسب.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Failed JavaScript upgrade-check (used only if distribution fails to provide a string) </Description>
+      <Position>PKDistributionErrorUpgradeCheckFailed</Position>
+      <TranslationSet>
+        <base loc="en">%@ can’t be upgraded on \U201C%@\U201D.</base>
+        <tran loc="ar">لا يمكن تحديث %@ على \U201C%@\U201D.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Failed minimum RAM check </Description>
+      <Position>PKDistributionErrorMinimumRAMCheckFailed</Position>
+      <TranslationSet>
+        <base loc="en">%@ can't be installed on this computer because it requires at least %@ of memory.</base>
+        <tran loc="ar">لا يمكن تثبيت %@ على هذا الكمبيوتر لأنه يتطلب على الأقل %@من الذاكرة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Failed OS required check </Description>
+      <Position>PKDistributionErrorOSRequiredCheckFailed</Position>
+      <TranslationSet>
+        <base loc="en">%@ can’t be installed on \U201C%@\U201D because macOS isn’t installed there.</base>
+        <tran loc="ar">لا يمكن تثبيت %@ على \U201C%@\U201D لأن macOS غير مثبت هناك.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Failed OS range check </Description>
+      <Position>PKDistributionErrorOSMinimumCheckFailed</Position>
+      <TranslationSet>
+        <base loc="en">%@ can’t be installed on \U201C%@\U201D because macOS version %@ or later is required.</base>
+        <tran loc="ar">لا يمكن تثبيت %@ على \U201C%@\U201D لأن الإصدار %@ أو أحدث من macOS مطلوب.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ARCH_CHECK_REQUIRES_INTEL</Position>
+      <TranslationSet>
+        <base loc="en">%@ can't be installed on this computer, because an Intel processor is required.</base>
+        <tran loc="ar">لا يمكن تثبيت %@ على هذا الكمبيوتر، لأنه يتطلب معالج Intel.</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>Install/System/Library/PrivateFrameworks/Install.framework/Versions/A/Resources/English.lproj/IFRequirement.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>PkgMetadataFailMessage</Position>
+      <TranslationSet>
+        <base loc="en">This system doesn't meet the file content requirements.</base>
+        <tran loc="ar">لا يفي هذا النظام بمتطلبات محتوى الملف.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PkgMetadataLabel</Position>
+      <TranslationSet>
+        <base loc="en">certain file content criteria</base>
+        <tran loc="ar">معايير معينة لمحتوى الملف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ConflictsLabel</Position>
+      <TranslationSet>
+        <base loc="en">can't be used with %@</base>
+        <tran loc="ar">لا يمكن الاستخدام مع %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>VolumeCheckLabel</Position>
+      <TranslationSet>
+        <base loc="en">certain VolumeCheck criteria</base>
+        <tran loc="ar">معايير معينة لفحص وحدة التخزين</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>InstallationCheckLabel</Position>
+      <TranslationSet>
+        <base loc="en">certain InstallationCheck criteria</base>
+        <tran loc="ar">معايير معينة للتحقق من التثبيت</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>GenericFailMessage</Position>
+      <TranslationSet>
+        <base loc="en">Make sure your system meets the requirements.</base>
+        <tran loc="ar">تأكد من أن نظام التشغيل يفي بالمتطلبات.</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>Install/System/Library/PrivateFrameworks/Install.framework/Versions/A/Resources/English.lproj/StatusStrings.strings</Filepath>
+    <TextItem>
+      <Description> Status message when the installer is cleaning up temporary files. </Description>
+      <Position>Cleaning up</Position>
+      <TranslationSet>
+        <base loc="en">Finishing the Installation…</base>
+        <tran loc="ar">يتم الآن إنهاء التثبيت...</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description>Status message when locationing files for bundle relocation. </Description>
+      <Position>Finding moved files</Position>
+      <TranslationSet>
+        <base loc="en">Locating the software to update…</base>
+        <tran loc="ar">يتم الآن تحديد موقع البرنامج لتحديثه…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Status message when the installer is checking the validity of a package. </Description>
+      <Position>ValidatingPackage</Position>
+      <TranslationSet>
+        <base loc="en">Validating package…</base>
+        <tran loc="ar">يتم الآن التحقق من صحة الحزمة...</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> String used when erase is being run on volume (for SIU 5923781) </Description>
+      <Position>ERASING_DISK</Position>
+      <TranslationSet>
+        <base loc="en">Erasing the destination disk…</base>
+        <tran loc="ar">يتم الآن مسح قرص الوجهة...</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> ARCHIVE AND INSTALL STRINGS 
+ Localized Folder Names for the Previous System.</Description>
+      <Position>ARCHIVE_PREVIOUS_FOLDER_NAME</Position>
+      <TranslationSet>
+        <base loc="en">Previous System</base>
+        <tran loc="ar">النظام السابق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> install pre-size </Description>
+      <Position>PRE_INSTALL_SIZING</Position>
+      <TranslationSet>
+        <base loc="en">Calculating space required to install macOS…</base>
+        <tran loc="ar">يتم الآن حساب المساحة اللازمة لتثبيت macOS…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> String used for setting up target volume </Description>
+      <Position>PREPARING_TARGET</Position>
+      <TranslationSet>
+        <base loc="en">Preparing the target disk…</base>
+        <tran loc="ar">يتم الآن إعداد القرص المستهدف...</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> status message </Description>
+      <Position>VERIFY_DISK.</Position>
+      <TranslationSet>
+        <base loc="en">The macOS Install DVD is being checked.</base>
+        <tran loc="ar">يجري التحقق من قرص DVD الخاص بتثبيت macOS.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> String used for Archive and Installs </Description>
+      <Position>PREPARING_UPGRADE_INSTALL</Position>
+      <TranslationSet>
+        <base loc="en">Preparing Upgrade Install…</base>
+        <tran loc="ar">يتم الآن إعداد تثبيت الترقية...</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Tell the user a package is being installed. The argument is the name of the package. </Description>
+      <Position>InstallingPackage</Position>
+      <TranslationSet>
+        <base loc="en">Installing %@…</base>
+        <tran loc="ar">يتم الآن تثبيت %@...</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Status message when the installer is running the pre-install actions. </Description>
+      <Position>RUNNING_ACTIONS</Position>
+      <TranslationSet>
+        <base loc="en">Running installer actions…</base>
+        <tran loc="ar">يتم الآن تشغيل إجراءات المثبّت...</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> This is the message displayed when the installation check fails and the software cannot be installed at all. </Description>
+      <Position>CannotInstall</Position>
+      <TranslationSet>
+        <base loc="en">This software can’t be installed on this computer. </base>
+        <tran loc="ar">لا يمكن تثبيت هذا البرنامج على هذا الكمبيوتر. </tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Status message when config files are being created for packages. </Description>
+      <Position>Configuring Installation</Position>
+      <TranslationSet>
+        <base loc="en">Configuring the installation…</base>
+        <tran loc="ar">يتم الآن تكوين التثبيت...</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Status message when the installer is running a package script. The argument is the name of the package </Description>
+      <Position>RunPackageScript</Position>
+      <TranslationSet>
+        <base loc="en">Running %@ installer script…</base>
+        <tran loc="ar">يتم الآن تشغيل البرنامج النصي لمثبّت %@...</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> String used when fsck is being run on volume </Description>
+      <Position>FSCKING_DISK</Position>
+      <TranslationSet>
+        <base loc="en">Verifying the destination disk…</base>
+        <tran loc="ar">يتم الآن التحقق من قرص الوجهة...</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Status message when the installer is copying files over to the target disk. </Description>
+      <Position>Extracting files</Position>
+      <TranslationSet>
+        <base loc="en">Writing files…</base>
+        <tran loc="ar">يتم الآن كتابة الملفات...</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Status message when x percent of optimization is completed. This string reads like "Optimizing volume “MyVolume”: 25% complete" </Description>
+      <Position>Optimization Percent Complete</Position>
+      <TranslationSet>
+        <base loc="en">Optimizing disk \"%1$@\": %2$@%% complete</base>
+        <tran loc="ar">يتم الآن تحسين القرص \"%1$@\": %2$@%% مكتمل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Status message when the installer is patching files on the target disk. </Description>
+      <Position>Patching files</Position>
+      <TranslationSet>
+        <base loc="en">Patching files…</base>
+        <tran loc="ar">يتم الآن تصحيح الملفات...</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Percentage complete message with additional message. </Description>
+      <Position>PercentCompleteWithMessage</Position>
+      <TranslationSet>
+        <base loc="en">%1$@: %2$@ complete</base>
+        <tran loc="ar">‏%1$@: %2$@ مكتمل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ARCHIVE_PREVIOUS_FOLDER_NAME_1</Position>
+      <TranslationSet>
+        <base loc="en">Previous System %d</base>
+        <tran loc="ar">%d للنظام السابق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Status message when the installer is running a script which must run after installing/upgrading/removing a package. </Description>
+      <Position>Running post-processing script</Position>
+      <TranslationSet>
+        <base loc="en">Running installer script…</base>
+        <tran loc="ar">يتم الآن تشغيل البرنامج النصي للمثبّت...</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Status message when the installer is running a script which must run before installing/upgrading/removing a package. </Description>
+      <Position>Running pre-processing script</Position>
+      <TranslationSet>
+        <base loc="en">Running installer script…</base>
+        <tran loc="ar">يتم الآن تشغيل البرنامج النصي للمثبّت...</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>REMOVING_OLD_ARCHIVE</Position>
+      <TranslationSet>
+        <base loc="en">Cleaning up…</base>
+        <tran loc="ar">يتم الآن التنظيف...</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> recover failed install </Description>
+      <Position>RECOVER_DISK</Position>
+      <TranslationSet>
+        <base loc="en">Cleaning up incomplete macOS installation…</base>
+        <tran loc="ar">يتم الآن مسح تثبيت macOS غير المكتمل…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Download packages before install </Description>
+      <Position>DOWNLOADING_PACKAGES</Position>
+      <TranslationSet>
+        <base loc="en">Downloading selected packages…</base>
+        <tran loc="ar">جاري تنزيل الحزم المحددة…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>IMPORTING_UPGRADE_INSTALL</Position>
+      <TranslationSet>
+        <base loc="en">Finishing Upgrade Install…</base>
+        <tran loc="ar">يتم الآن إنهاء تثبيت الترقية...</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description>Status message when disk is being formatted. </Description>
+      <Position>Preparing Disk</Position>
+      <TranslationSet>
+        <base loc="en">Preparing the disk…</base>
+        <tran loc="ar">يتم الآن إعداد القرص...</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Status message when the installer is writing a package's receipt (a record of which files were installed, to enable future upgrading of the package). </Description>
+      <Position>Writing package receipt</Position>
+      <TranslationSet>
+        <base loc="en">Writing package receipt…</base>
+        <tran loc="ar">يتم الآن كتابة إيصال الحزمة…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Message displayed when a user tries to install a package when anotherone is already installing. </Description>
+      <Position>OthersAreInstalling</Position>
+      <TranslationSet>
+        <base loc="en">Waiting for other installations to complete.</base>
+        <tran loc="ar">‏في انتظار اكتمال عمليات التثبيت الأخرى.</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>Install/System/Library/PrivateFrameworks/Install.framework/Versions/A/Resources/English.lproj/PaxErrors.strings</Filepath>
+    <TextItem>
+      <Description> User friendly error message </Description>
+      <Position>IFW_MEMERR</Position>
+      <TranslationSet>
+        <base loc="en">Out of memory.</base>
+        <tran loc="ar">لا توجد ذاكرة كافية.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> User friendly error message </Description>
+      <Position>IFW_FLDRREAD</Position>
+      <TranslationSet>
+        <base loc="en">The folder can’t be read.</base>
+        <tran loc="ar">لا يمكن قراءة المجلد.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> User friendly error message </Description>
+      <Position>IFW_ARCHADD</Position>
+      <TranslationSet>
+        <base loc="en">The file can’t be added to the archive.</base>
+        <tran loc="ar">لا يمكن إضافة الملف إلى الأرشيف.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> User friendly error message </Description>
+      <Position>IFW_ARCHUNARCH</Position>
+      <TranslationSet>
+        <base loc="en">The files can’t be unarchived.</base>
+        <tran loc="ar">لا يمكن إلغاء أرشفة الملفات.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> User friendly error message </Description>
+      <Position>IFW_FILEREAD</Position>
+      <TranslationSet>
+        <base loc="en">The file can’t be read.</base>
+        <tran loc="ar">لا يمكن قراءة الملف.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> User friendly error message </Description>
+      <Position>IFW_FILEERRWRITE</Position>
+      <TranslationSet>
+        <base loc="en">There was an error writing the file.</base>
+        <tran loc="ar">حدث خطأ أثناء كتابة الملف.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> User friendly error message </Description>
+      <Position>IFW_FLDRNF</Position>
+      <TranslationSet>
+        <base loc="en">The folder wasn’t found.</base>
+        <tran loc="ar">لم يتم العثور على المجلد.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> User friendly error message </Description>
+      <Position>IFW_FLDRWRITE</Position>
+      <TranslationSet>
+        <base loc="en">The folder can’t be written.</base>
+        <tran loc="ar">لا يمكن كتابة المجلد.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> User friendly error message </Description>
+      <Position>IFW_ARCHOPEN</Position>
+      <TranslationSet>
+        <base loc="en">The archive file can’t be opened.</base>
+        <tran loc="ar">لا يمكن فتح ملف الأرشيف.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> User friendly error message </Description>
+      <Position>IFW_FILEAXS</Position>
+      <TranslationSet>
+        <base loc="en">The file can’t be accessed.</base>
+        <tran loc="ar">لا يمكن الوصول إلى الملف.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> User friendly error message </Description>
+      <Position>IFW_FILEERRAXS</Position>
+      <TranslationSet>
+        <base loc="en">The file can’t be accessed.</base>
+        <tran loc="ar">لا يمكن الوصول إلى الملف.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> User friendly error message </Description>
+      <Position>IFW_FILECLOSE</Position>
+      <TranslationSet>
+        <base loc="en">The file can’t be closed.</base>
+        <tran loc="ar">لا يمكن إغلاق الملف.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> User friendly error message </Description>
+      <Position>IFW_FILEDEL</Position>
+      <TranslationSet>
+        <base loc="en">The file can’t be deleted.</base>
+        <tran loc="ar">لا يمكن حذف الملف.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> User friendly error message </Description>
+      <Position>IFW_ARCHWRITE</Position>
+      <TranslationSet>
+        <base loc="en">The archive file can’t be written.</base>
+        <tran loc="ar">لا يمكن كتابة ملف الأرشيف.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> User friendly error message </Description>
+      <Position>IFW_ARCHREAD</Position>
+      <TranslationSet>
+        <base loc="en">The archive file can’t be read.</base>
+        <tran loc="ar">لا يمكن قراءة ملف الأرشيف.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> User friendly error message </Description>
+      <Position>IFW_FLDRAXS</Position>
+      <TranslationSet>
+        <base loc="en">The folder can’t be accessed.</base>
+        <tran loc="ar">لا يمكن الوصول إلى المجلد.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> User friendly error message </Description>
+      <Position>IFW_FILEWRITE</Position>
+      <TranslationSet>
+        <base loc="en">The file can’t be written.</base>
+        <tran loc="ar">لا يمكن كتابة الملف.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> User friendly error message </Description>
+      <Position>IFW_FLDRDEL</Position>
+      <TranslationSet>
+        <base loc="en">The folder can’t be deleted.</base>
+        <tran loc="ar">لا يمكن حذف المجلد.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> User friendly error message </Description>
+      <Position>IFW_FILEATTR</Position>
+      <TranslationSet>
+        <base loc="en">The file attributes can’t be set.</base>
+        <tran loc="ar">لا يمكن تعيين سمات الملف.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> User friendly error message </Description>
+      <Position>IFW_ARCHFLAWED</Position>
+      <TranslationSet>
+        <base loc="en">The archive file can’t be updated because the archive is flawed.</base>
+        <tran loc="ar">لا يمكن تحديث ملف الأرشيف نظرًا لوجود خلل بالأرشيف.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> User friendly error message </Description>
+      <Position>IFW_ARCHVOLFULL</Position>
+      <TranslationSet>
+        <base loc="en">The archive volume is full.</base>
+        <tran loc="ar">وحدة تخزين الأرشيف ممتلئة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> User friendly error message </Description>
+      <Position>IFW_INDIGESTION</Position>
+      <TranslationSet>
+        <base loc="en">An internal error occurred.</base>
+        <tran loc="ar">حدث خطأ داخلي.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> User friendly error message </Description>
+      <Position>IFW_ARCHNEXT</Position>
+      <TranslationSet>
+        <base loc="en">An error occurred getting the next archive volume.</base>
+        <tran loc="ar">حدث خطأ أثناء الحصول على وحدة تخزين الأرشيف التالية.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> User friendly error message </Description>
+      <Position>IFW_FLDRDEST</Position>
+      <TranslationSet>
+        <base loc="en">The destination folder can’t be accessed.</base>
+        <tran loc="ar">لا يمكن الوصول إلى مجلد الوجهة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> User friendly error message </Description>
+      <Position>IFW_FILELINK</Position>
+      <TranslationSet>
+        <base loc="en">The file can’t be linked.</base>
+        <tran loc="ar">لا يمكن ربط الملف.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> User friendly error message </Description>
+      <Position>IFW_FILEERRCOPY</Position>
+      <TranslationSet>
+        <base loc="en">There was an error copying the file.</base>
+        <tran loc="ar">حدث خطأ أثناء نسخ الملف.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> User friendly error message </Description>
+      <Position>IFW_PARAMERR</Position>
+      <TranslationSet>
+        <base loc="en">The parameter is invalid.</base>
+        <tran loc="ar">المعلمة غير صالحة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> User friendly error message </Description>
+      <Position>IFW_ARCHERR</Position>
+      <TranslationSet>
+        <base loc="en">An internal archive error occurred.</base>
+        <tran loc="ar">حدث خطأ داخلي في الأرشيف.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> User friendly error message </Description>
+      <Position>IFW_FLDRMAKE</Position>
+      <TranslationSet>
+        <base loc="en">The folder can’t be created.</base>
+        <tran loc="ar">لا يمكن إنشاء المجلد.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> User friendly error message </Description>
+      <Position>IFW_FILEERRREAD</Position>
+      <TranslationSet>
+        <base loc="en">There was an error reading the file.</base>
+        <tran loc="ar">حدث خطأ أثناء قراءة الملف.</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>Install/System/Library/PrivateFrameworks/Install.framework/Versions/A/Resources/English.lproj/InstallationCheck.strings</Filepath>
+    <TextItem>
+      <Description> Canned InstallationCheck error message 5 </Description>
+      <Position>5</Position>
+      <TranslationSet>
+        <base loc="en">This installer doesn’t support your system language.</base>
+        <tran loc="ar">لا يدعم المثبّت هذا لغة النظام لديك.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Canned InstallationCheck error message 3 </Description>
+      <Position>3</Position>
+      <TranslationSet>
+        <base loc="en">%@ can’t be installed on this computer.</base>
+        <tran loc="ar">لا يمكن تثبيت %@ على هذا الكمبيوتر.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Canned InstallationCheck error message 1 </Description>
+      <Position>1</Position>
+      <TranslationSet>
+        <base loc="en">This software can’t be installed on this computer.</base>
+        <tran loc="ar">لا يمكن تثبيت هذا البرنامج على هذا الكمبيوتر.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Canned InstallationCheck error message 2 </Description>
+      <Position>2</Position>
+      <TranslationSet>
+        <base loc="en">This software “%@” can’t be installed on this computer. Check to make sure that the software is compatible with your operating system.</base>
+        <tran loc="ar">لا يمكن تثبيت البرنامج \"%@\" على هذا الكمبيوتر. تحقق من البرنامج للتأكد من توافقه مع نظام التشغيل.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Canned InstallationCheck error message 4 </Description>
+      <Position>4</Position>
+      <TranslationSet>
+        <base loc="en">An error occurred while running the InstallationCheck tool for “%@”. Try running the tool again.</base>
+        <tran loc="ar">حدث خطأ أثناء تشغيل أداة التحقق من التثبيت لـ \"%@\". حاول تشغيل الأداة مرة أخرى.</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+</Proj>

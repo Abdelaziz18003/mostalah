@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Proj>
+  <ProjName>AirPlaySender</ProjName>
+  <File>
+    <Filepath>AirPlaySender/System/Library/CoreServices/AirPlayUIAgent.app/Contents/Resources/en.lproj/AirPlayUIAgentUI.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>DEFAULT_PASSWORD</Position>
+      <TranslationSet>
+        <base loc="en">password</base>
+        <tran loc="ar">كلمة السر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>FAILED_TO_GET_CONSOLE_ERROR_MAJOR %@</Position>
+      <TranslationSet>
+        <base loc="en">Unable to pair with Apple TV “%@” since SCDynamicStoreCopyConsoleUser returned NULL.</base>
+        <tran loc="ar">غير قادر على الاقتران بالـ Apple TV‏ \"%@\" نظرًا لأن SCDynamicStoreCopyConsoleUser أرجع قيمة خالية.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PASSWORD_WINDOW_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">AirPlay Device Password</base>
+        <tran loc="ar">كلمة سر جهاز AirPlay</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>NOT_HOME_USER_ERROR_MINOR</Position>
+      <TranslationSet>
+        <base loc="en">To play to this speaker from this Mac, change the Home app setting to allow “Anyone on the Same Network.”</base>
+        <tran loc="ar">للتشغيل إلى هذه السماعة من هذا الـ Mac، غيّر إعداد تطبيق المنزل بحيث يسمح لـ "أي شخص على نفس الشبكة".</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>KEYCHAIN_ACCESS_ERROR_MAJOR %@</Position>
+      <TranslationSet>
+        <base loc="en">Unable to communicate with “%@” because of Keychain Access Error.</base>
+        <tran loc="ar">غير قادر على الاتصال بـ \"%@\" بسبب خطأ في الوصول إلى سلسلة المفاتيح.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>INCOMPATIBLE_DEVICE_MINOR</Position>
+      <TranslationSet>
+        <base loc="en">Please update the AirPlay device to a newer version.</base>
+        <tran loc="ar">الرجاء تحديث جهاز AirPlay للإصدار الأحدث.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>OK_BUTTON</Position>
+      <TranslationSet>
+        <base loc="en">OK</base>
+        <tran loc="ar">موافق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CANNOT_TALK_TO_UIAGENT_ERROR_MAJOR %@</Position>
+      <TranslationSet>
+        <base loc="en">Unable to pair with Apple TV “%@” since SCDynamicStoreCopyConsoleUser returned invalid UID.</base>
+        <tran loc="ar">غير قادر على الاقتران بالـ Apple TV‏ \"%@\" نظرًا لأن SCDynamicStoreCopyConsoleUser أرجع معرّف UID غير صالح.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>BAD_PASSWORD</Position>
+      <TranslationSet>
+        <base loc="en">The password is incorrect.</base>
+        <tran loc="ar">كلمة السر غير صحيحة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>REMEMBER_PASSWORD</Position>
+      <TranslationSet>
+        <base loc="en">Remember Password</base>
+        <tran loc="ar">تذكر كلمة السر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PASSCODE_WINDOW_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">AirPlay Device Code</base>
+        <tran loc="ar">رمز جهاز AirPlay</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CANCEL_BUTTON</Position>
+      <TranslationSet>
+        <base loc="en">Cancel</base>
+        <tran loc="ar">إلغاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>NOT_HOME_USER_ERROR_MAJOR</Position>
+      <TranslationSet>
+        <base loc="en">This speaker is set to allow access to people sharing this home.</base>
+        <tran loc="ar">تم إعداد هذه السماعة بحيث تسمح بوصول الأشخاص المتشاركين في هذا المنزل فقط.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>BAD_PASSCODE</Position>
+      <TranslationSet>
+        <base loc="en">The code is incorrect.</base>
+        <tran loc="ar">الرمز غير صحيح.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AIRPLAY_PASSWORD_DESCRIPTION</Position>
+      <TranslationSet>
+        <base loc="en">AirPlay password</base>
+        <tran loc="ar">كلمة سر AirPlay</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>NEEDS_PASSCODE %@</Position>
+      <TranslationSet>
+        <base loc="en">Enter the AirPlay code for “%@”.</base>
+        <tran loc="ar">قم بإدخال رمز AirPlay لـ \"‪%@‬\".</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>NEEDS_PASSWORD %@</Position>
+      <TranslationSet>
+        <base loc="en">Enter the AirPlay password for “%@”.</base>
+        <tran loc="ar">قم بإدخال كلمة سر AirPlay لـ \"‪%@‬\".</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DEFAULT_PASSCODE</Position>
+      <TranslationSet>
+        <base loc="en">code</base>
+        <tran loc="ar">الرمز</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>BUSY_ERROR_MAJOR %@</Position>
+      <TranslationSet>
+        <base loc="en">“%@” is currently in use.</base>
+        <tran loc="ar">‏\"%@\" قيد الاستخدام حاليًا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Localizable strings.</Description>
+      <Position>INCOMPATIBLE_DEVICE_MAJOR</Position>
+      <TranslationSet>
+        <base loc="en">This AirPlay device is not compatible with this software</base>
+        <tran loc="ar">جهاز AirPlay هذا غير متوافق مع هذا البرنامج</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>START_ERROR_MAJOR %@</Position>
+      <TranslationSet>
+        <base loc="en">Could not connect to “%@”</base>
+        <tran loc="ar">تعذر الاتصال بـ \"‪%@‬\"</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>LOW_SIGNAL_ERROR_MAJOR %@</Position>
+      <TranslationSet>
+        <base loc="en">Unable to connect to “%@” because the wireless signal is too weak.</base>
+        <tran loc="ar">غير قادر على الاتصال بـ \"%@\" لأن إشارة الشبكة اللاسلكية ضعيفة جدًا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SCREEN_POWER_ASSERTION_DESCRIPTION</Position>
+      <TranslationSet>
+        <base loc="en">AirPlay Screen is active. That prevents display sleep.</base>
+        <tran loc="ar">شاشة AirPlay نشطة. يؤدي هذا إلى منع إسبات شاشة العرض.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>POWER_ASSERTION_DESCRIPTION</Position>
+      <TranslationSet>
+        <base loc="en">AirPlay Screen is active. That prevents system sleep.</base>
+        <tran loc="ar">شاشة AirPlay نشطة. يؤدي هذا إلى منع إسبات النظام.</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+</Proj>

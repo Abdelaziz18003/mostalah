@@ -1,0 +1,577 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Proj>
+  <ProjName>EdgeCache</ProjName>
+  <File>
+    <Filepath>EdgeCache/System/Library/PrivateFrameworks/ConfigurationProfiles.framework/XPCServices/AssetCacheProfilePlugin.xpc/Contents/Resources/en.lproj/Localizable.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>EDGECACHE_PROFILE_PLUGIN_ERROR_INVALID_VALUE</Position>
+      <TranslationSet>
+        <base loc="en">The profile payload “${payloadName}” contains an invalid value for the preference ”${preferenceName}”.</base>
+        <tran loc="ar">تحتوي حمولة ملف التعريف \"${payloadName}\" على قيمة غير صالحة للتفضيل \"${preferenceName}\".</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>EDGECACHE_PROFILE_PLUGIN_ERROR_INVALID_SCOPE</Position>
+      <TranslationSet>
+        <base loc="en">The profile is a user profile but contains a “${payloadName}” payload which is only valid in device profiles.</base>
+        <tran loc="ar">ملف التعريف هو ملف تعريف للمستخدم ولكنه يحتوي على حمولة \"${payloadName}\"، والتي تُعد صالحة في ملفات تعريف الأجهزة فقط.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> DenyTetheredCaching </Description>
+      <Position>Allow Internet connection sharing</Position>
+      <TranslationSet>
+        <base loc="en">Allow Internet connection sharing</base>
+        <tran loc="ar">السماح بمشاركة اتصال الإنترنت</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Devices using the same public IP address</Position>
+      <TranslationSet>
+        <base loc="en">Devices using the same public IP address</base>
+        <tran loc="ar">الأجهزة التي تستخدم نفس عنوان IP العام</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> DataPath </Description>
+      <Position>Data path</Position>
+      <TranslationSet>
+        <base loc="en">Data path</base>
+        <tran loc="ar">مسار البيانات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>True</Position>
+      <TranslationSet>
+        <base loc="en">True</base>
+        <tran loc="ar">صواب</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>sticky-available</Position>
+      <TranslationSet>
+        <base loc="en">Sticky available</base>
+        <tran loc="ar">المتوفر حسب ترتيبه</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Unlimited</Position>
+      <TranslationSet>
+        <base loc="en">Unlimited</base>
+        <tran loc="ar">غير محدود</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Public IP address range</Position>
+      <TranslationSet>
+        <base loc="en">Public IP address range</base>
+        <tran loc="ar">نطاق عناوين IP العامة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>False</Position>
+      <TranslationSet>
+        <base loc="en">False</base>
+        <tran loc="ar">خطأ</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Content caches using the same local networks</Position>
+      <TranslationSet>
+        <base loc="en">Content caches using the same local networks</base>
+        <tran loc="ar">ذاكرات تخزين المحتوى المؤقت التي تستخدم نفس الشبكات المحلية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Peer filter IP address range</Position>
+      <TranslationSet>
+        <base loc="en">Peer filter IP address range</base>
+        <tran loc="ar">نطاق عناوين IP لتصفية النظراء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> AllowCacheDelete </Description>
+      <Position>Remove content from the cache when the system needs disk space for other apps</Position>
+      <TranslationSet>
+        <base loc="en">Remove content from the cache when the system needs disk space for other apps</base>
+        <tran loc="ar">إزالة المحتوى من ذاكرة التخزين المؤقت عندما يحتاج النظام مساحة على القرص للتطبيقات الأخرى</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Peer listen IP address</Position>
+      <TranslationSet>
+        <base loc="en">Peer listen IP address</base>
+        <tran loc="ar">عنوان IP للاستماع للنظراء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> CacheLimit </Description>
+      <Position>Maximum cache size</Position>
+      <TranslationSet>
+        <base loc="en">Maximum cache size</base>
+        <tran loc="ar">أقصى حجم للذاكرة المؤقتة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>All content</Position>
+      <TranslationSet>
+        <base loc="en">All content</base>
+        <tran loc="ar">كل المحتوى</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Content caches using custom local networks</Position>
+      <TranslationSet>
+        <base loc="en">Content caches using custom local networks</base>
+        <tran loc="ar">ذاكرات تخزين المحتوى المؤقت التي تستخدم الشبكات المحلية المخصصة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Automatically activate Content Caching</Position>
+      <TranslationSet>
+        <base loc="en">Automatically activate Content Caching</base>
+        <tran loc="ar">تنشيط التخزين المؤقت للمحتوى تلقائيًا</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>round-robin</Position>
+      <TranslationSet>
+        <base loc="en">Round robin</base>
+        <tran loc="ar">ترتيب دوري</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> PublicRanges </Description>
+      <Position>Public IP address</Position>
+      <TranslationSet>
+        <base loc="en">Public IP address</base>
+        <tran loc="ar">عناوين IP العامة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Only shared content</Position>
+      <TranslationSet>
+        <base loc="en">Only shared content</base>
+        <tran loc="ar">المحتوى المشترك فقط</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Parents </Description>
+      <Position>Parent IP address</Position>
+      <TranslationSet>
+        <base loc="en">Parent IP address</base>
+        <tran loc="ar">عناوين IP الأصل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Content caches using the same public IP address</Position>
+      <TranslationSet>
+        <base loc="en">Content caches using the same public IP address</base>
+        <tran loc="ar">ذاكرات تخزين المحتوى المؤقت التي تستخدم نفس عنوان IP العام</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Random</Position>
+      <TranslationSet>
+        <base loc="en">Random</base>
+        <tran loc="ar">عشوائي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>random</Position>
+      <TranslationSet>
+        <base loc="en">Random</base>
+        <tran loc="ar">عشوائي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>EDGECACHE_PROFILE_PLUGIN_ERROR_MISSING_VALUE</Position>
+      <TranslationSet>
+        <base loc="en">The profile payload “${payloadName}” is missing a required value for the preference “${preferenceName}”.</base>
+        <tran loc="ar">حمولة ملف التعريف "${payloadName}" تنقصها قيمة مطلوبة للتفضيل "${preferenceName}".</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> LocalSubnetsOnly + ListenRanges + ListenRangesOnly </Description>
+      <Position>Cache content for</Position>
+      <TranslationSet>
+        <base loc="en">Cache content for</base>
+        <tran loc="ar">تخرين المحتوى مؤقتًا لـ</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Devices using custom local networks</Position>
+      <TranslationSet>
+        <base loc="en">Devices using custom local networks</base>
+        <tran loc="ar">الأجهزة التي تستخدم الشبكات المحلية المخصصة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> KeepAwake </Description>
+      <Position>Prevent the computer from sleeping while caching is on</Position>
+      <TranslationSet>
+        <base loc="en">Prevent the computer from sleeping while caching is on</base>
+        <tran loc="ar">منع الكمبيوتر من الإسبات أثناء تشغيل الذاكرة المؤقتة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> ListenWithPeersAndParents </Description>
+      <Position>Include peers and parents in listen ranges</Position>
+      <TranslationSet>
+        <base loc="en">Include peers and parents in listen ranges</base>
+        <tran loc="ar">تضمين النظراء والشركاء في نطاقات الاستماع</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>IP address</Position>
+      <TranslationSet>
+        <base loc="en">IP address</base>
+        <tran loc="ar">عنوان IP</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> AllowPersonalCaching + AllowSharedCaching </Description>
+      <Position>Cached content type</Position>
+      <TranslationSet>
+        <base loc="en">Cached content type</base>
+        <tran loc="ar">نوع المحتوى المخَزّن مؤقتًا</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>EDGECACHE_PROFILE_PLUGIN_ERROR_INVALID_VALUE_TYPE</Position>
+      <TranslationSet>
+        <base loc="en">The profile payload “${payloadName}” contains an invalid value type for the preference ”${preferenceName}”.</base>
+        <tran loc="ar">تحتوي حمولة ملف التعريف \"${payloadName}\" على نوع قيمة غير صالح للتفضيل \"${preferenceName}\".</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>first-available</Position>
+      <TranslationSet>
+        <base loc="en">First available</base>
+        <tran loc="ar">المتوفر أولاً</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>url-path-hash</Position>
+      <TranslationSet>
+        <base loc="en">Hash</base>
+        <tran loc="ar">تجزئة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> DisplayAlerts </Description>
+      <Position>Display status alerts</Position>
+      <TranslationSet>
+        <base loc="en">Display status alerts</base>
+        <tran loc="ar">تنبيهات حالة العرض</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>IP address range</Position>
+      <TranslationSet>
+        <base loc="en">IP address range</base>
+        <tran loc="ar">نطاق عنوان IP</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Port </Description>
+      <Position>Port</Position>
+      <TranslationSet>
+        <base loc="en">Port</base>
+        <tran loc="ar">المنفذ</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> ParentSelectionPolicy </Description>
+      <Position>Parent selection policy</Position>
+      <TranslationSet>
+        <base loc="en">Parent selection policy</base>
+        <tran loc="ar">سياسة اختيار الأصل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> AutoActivation + DenyActivation </Description>
+      <Position>Allow Content Caching</Position>
+      <TranslationSet>
+        <base loc="en">Allow Content Caching</base>
+        <tran loc="ar">السماح بالتخزين المؤقت للمحتوى</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> PeerLocalSubnetsOnly + PeerFilterRanges + PeerListenRanges </Description>
+      <Position>Share content with</Position>
+      <TranslationSet>
+        <base loc="en">Share content with</base>
+        <tran loc="ar">مشاركة المحتوى مع</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Peer filter IP address</Position>
+      <TranslationSet>
+        <base loc="en">Peer filter IP address</base>
+        <tran loc="ar">عنوان IP لتصفية النظراء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Only iCloud content</Position>
+      <TranslationSet>
+        <base loc="en">Only iCloud content</base>
+        <tran loc="ar">محتوى iCloud فقط</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Peer listen IP address range</Position>
+      <TranslationSet>
+        <base loc="en">Peer listen IP address range</base>
+        <tran loc="ar">نطاق عناوين IP للاستماع للنظراء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Devices using the same local networks</Position>
+      <TranslationSet>
+        <base loc="en">Devices using the same local networks</base>
+        <tran loc="ar">الأجهزة التي تستخدم نفس الشبكات المحلية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> LogClientIdentity </Description>
+      <Position>Log client details</Position>
+      <TranslationSet>
+        <base loc="en">Log client details</base>
+        <tran loc="ar">تسجيل تفاصيل العميل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Devices using custom local networks with fallback</Position>
+      <TranslationSet>
+        <base loc="en">Devices using custom local networks with fallback</base>
+        <tran loc="ar">الأجهزة التي تستخدم الشبكات المحلية المخصصة مع تراجع</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>EdgeCache/System/Library/PrivateFrameworks/ConfigurationProfiles.framework/XPCServices/AssetCacheProfilePlugin.xpc/Contents/Resources/en.lproj/Localizable.stringsdict</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>/CPPayloadCountStringsDictKey_CountFirst:dict/NSStringLocalizedFormatKey:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%#@PayloadType@</base>
+        <tran loc="ar">%#@PayloadType@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/CPPayloadCountStringsDictKey_CountLast:dict/NSStringLocalizedFormatKey:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%#@PayloadType@</base>
+        <tran loc="ar">%#@PayloadType@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/CPPayloadCountStringsDictKey_SingularOnly:dict/NSStringLocalizedFormatKey:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%#@PayloadType@</base>
+        <tran loc="ar">%#@PayloadType@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/CPPayloadCountStringsDictKey_SingularOnly:dict/PayloadType:dict/few:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">__Source_text_is_empty__Translate_Or_Leave_this_text_as_is_if_target_text_is_also_empty__(/CPPayloadCountStringsDictKey_SingularOnly:dict/PayloadType:dict/few:dict/:string)</base>
+        <tran loc="ar">__Source_text_is_empty__Translate_Or_Leave_this_text_as_is_if_target_text_is_also_empty__(/CPPayloadCountStringsDictKey_SingularOnly:dict/PayloadType:dict/few:dict/:string)</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/CPPayloadCountStringsDictKey_SingularOnly:dict/PayloadType:dict/two:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">__Source_text_is_empty__Translate_Or_Leave_this_text_as_is_if_target_text_is_also_empty__(/CPPayloadCountStringsDictKey_SingularOnly:dict/PayloadType:dict/two:dict/:string)</base>
+        <tran loc="ar">__Source_text_is_empty__Translate_Or_Leave_this_text_as_is_if_target_text_is_also_empty__(/CPPayloadCountStringsDictKey_SingularOnly:dict/PayloadType:dict/two:dict/:string)</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/CPPayloadCountStringsDictKey_CountFirst:dict/PayloadType:dict/few:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%lu Content Caching Configurations</base>
+        <tran loc="ar">%lu حمولات من "تكوين التخزين المؤقت للمحتوى"</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/CPPayloadCountStringsDictKey_CountFirst:dict/PayloadType:dict/many:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%lu Content Caching Configurations</base>
+        <tran loc="ar">%lu حمولة من "تكوين التخزين المؤقت للمحتوى"</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/CPPayloadCountStringsDictKey_CountFirst:dict/PayloadType:dict/other:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%lu Content Caching Configurations</base>
+        <tran loc="ar">%lu حمولة من "تكوين التخزين المؤقت للمحتوى"</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/CPPayloadCountStringsDictKey_CountFirst:dict/PayloadType:dict/two:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%lu Content Caching Configurations</base>
+        <tran loc="ar">حمولتان من "تكوين التخزين المؤقت للمحتوى"</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/CPPayloadCountStringsDictKey_CountFirst:dict/PayloadType:dict/zero:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%lu Content Caching Configurations</base>
+        <tran loc="ar">لا توجد حمولات من "تكوين التخزين المؤقت للمحتوى"</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/CPPayloadCountStringsDictKey_CountFirst:dict/PayloadType:dict/one:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Content Caching Configuration</base>
+        <tran loc="ar">حمولة واحدة من "تكوين التخزين المؤقت للمحتوى"</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/CPPayloadCountStringsDictKey_CountLast:dict/PayloadType:dict/one:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Content Caching Configuration</base>
+        <tran loc="ar">حمولة واحدة من "تكوين التخزين المؤقت للمحتوى"</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/CPPayloadCountStringsDictKey_SingularOnly:dict/PayloadType:dict/one:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Content Caching Configuration</base>
+        <tran loc="ar">حمولة واحدة من "تكوين التخزين المؤقت للمحتوى"</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/CPPayloadCountStringsDictKey_CountLast:dict/PayloadType:dict/few:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Content Caching Configurations (%lu)</base>
+        <tran loc="ar">حمولات "تكوين التخزين المؤقت للمحتوى" (%lu)</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/CPPayloadCountStringsDictKey_CountLast:dict/PayloadType:dict/many:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Content Caching Configurations (%lu)</base>
+        <tran loc="ar">حمولات "تكوين التخزين المؤقت للمحتوى" (%lu)</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/CPPayloadCountStringsDictKey_CountLast:dict/PayloadType:dict/other:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Content Caching Configurations (%lu)</base>
+        <tran loc="ar">حمولات "تكوين التخزين المؤقت للمحتوى" (%lu)</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/CPPayloadCountStringsDictKey_CountLast:dict/PayloadType:dict/two:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Content Caching Configurations (%lu)</base>
+        <tran loc="ar">حمولات "تكوين التخزين المؤقت للمحتوى" (%lu)</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/CPPayloadCountStringsDictKey_CountLast:dict/PayloadType:dict/zero:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Content Caching Configurations (%lu)</base>
+        <tran loc="ar">حمولات "تكوين التخزين المؤقت للمحتوى" (%lu)</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/CPPayloadCountStringsDictKey_SingularOnly:dict/PayloadType:dict/many:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">__Source_text_is_empty__Translate_Or_Leave_this_text_as_is_if_target_text_is_also_empty__(/CPPayloadCountStringsDictKey_SingularOnly:dict/PayloadType:dict/many:dict/:string)</base>
+        <tran loc="ar">__Source_text_is_empty__Translate_Or_Leave_this_text_as_is_if_target_text_is_also_empty__(/CPPayloadCountStringsDictKey_SingularOnly:dict/PayloadType:dict/many:dict/:string)</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/CPPayloadCountStringsDictKey_SingularOnly:dict/PayloadType:dict/zero:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">__Source_text_is_empty__Translate_Or_Leave_this_text_as_is_if_target_text_is_also_empty__(/CPPayloadCountStringsDictKey_SingularOnly:dict/PayloadType:dict/zero:dict/:string)</base>
+        <tran loc="ar">__Source_text_is_empty__Translate_Or_Leave_this_text_as_is_if_target_text_is_also_empty__(/CPPayloadCountStringsDictKey_SingularOnly:dict/PayloadType:dict/zero:dict/:string)</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/CPPayloadCountStringsDictKey_SingularOnly:dict/PayloadType:dict/other:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">__Source_text_is_empty__Translate_Or_Leave_this_text_as_is_if_target_text_is_also_empty__(/CPPayloadCountStringsDictKey_SingularOnly:dict/PayloadType:dict/other:dict/:string)</base>
+        <tran loc="ar">__Source_text_is_empty__Translate_Or_Leave_this_text_as_is_if_target_text_is_also_empty__(/CPPayloadCountStringsDictKey_SingularOnly:dict/PayloadType:dict/other:dict/:string)</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>EdgeCache/usr/libexec/AssetCacheAgent/en.lproj/Localizable.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>Dismiss button label</Position>
+      <TranslationSet>
+        <base loc="en">Close</base>
+        <tran loc="ar">إغلاق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 
+  Localizable.strings
+  EdgeCache
+ 
+ Strings for the alert buttons </Description>
+      <Position>Action button label</Position>
+      <TranslationSet>
+        <base loc="en">Manage</base>
+        <tran loc="ar">إدارة</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+</Proj>

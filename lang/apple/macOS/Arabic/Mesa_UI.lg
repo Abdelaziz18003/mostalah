@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Proj>
+  <ProjName>Mesa_UI</ProjName>
+  <File>
+    <Filepath>Mesa_UI/System/Library/ConfigurationProfiles/PlugIns/TouchID.profileDomainPlugin/Contents/Resources/English.lproj/Localizable.strings</Filepath>
+    <TextItem>
+      <Description> Values</Description>
+      <Position>str_TouchIDPolicy_Details_TRUE</Position>
+      <TranslationSet>
+        <base loc="en">True</base>
+        <tran loc="ar">صواب</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>str_TouchIDPolicy_Details_FALSE</Position>
+      <TranslationSet>
+        <base loc="en">False</base>
+        <tran loc="ar">خطأ</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Errors</Description>
+      <Position>str_PasscodePolicyErr_NoRecordFound</Position>
+      <TranslationSet>
+        <base loc="en">The password policy could not be set up because either the account record could not be found, or the policy information could not be saved.</base>
+        <tran loc="ar">تعذر إعداد سياسة كلمة السر إما بسبب تعذر العثور على سجل الحساب، وإما بسبب تعذر حفظ المعلومات.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>str_TouchIDPolicy_AllowTouchIDForUnlock</Position>
+      <TranslationSet>
+        <base loc="en">Allow Touch ID for unlock</base>
+        <tran loc="ar">السماح لـ Touch ID بفتح القفل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description>**
+** Payload details
+**</Description>
+      <Position>str_TouchIDPolicy_AllowTouchID</Position>
+      <TranslationSet>
+        <base loc="en">Allow Touch ID</base>
+        <tran loc="ar">السماح بـ Touch ID</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>Mesa_UI/System/Library/ConfigurationProfiles/PlugIns/TouchID.profileDomainPlugin/Contents/Resources/English.lproj/Localizable.stringsdict</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>/CPPayloadCountStringsDictKey_CountFirst:dict/NSStringLocalizedFormatKey:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%#@PayloadType@</base>
+        <tran loc="ar">%#@PayloadType@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/CPPayloadCountStringsDictKey_CountLast:dict/NSStringLocalizedFormatKey:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%#@PayloadType@</base>
+        <tran loc="ar">%#@PayloadType@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/CPPayloadCountStringsDictKey_SingularOnly:dict/NSStringLocalizedFormatKey:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%#@PayloadType@</base>
+        <tran loc="ar">%#@PayloadType@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/CPPayloadCountStringsDictKey_SingularOnly:dict/PayloadType:dict/few:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">__Source_text_is_empty__Translate_Or_Leave_this_text_as_is_if_target_text_is_also_empty__(/CPPayloadCountStringsDictKey_SingularOnly:dict/PayloadType:dict/few:dict/:string)</base>
+        <tran loc="ar">__Source_text_is_empty__Translate_Or_Leave_this_text_as_is_if_target_text_is_also_empty__(/CPPayloadCountStringsDictKey_SingularOnly:dict/PayloadType:dict/few:dict/:string)</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/CPPayloadCountStringsDictKey_SingularOnly:dict/PayloadType:dict/two:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">__Source_text_is_empty__Translate_Or_Leave_this_text_as_is_if_target_text_is_also_empty__(/CPPayloadCountStringsDictKey_SingularOnly:dict/PayloadType:dict/two:dict/:string)</base>
+        <tran loc="ar">__Source_text_is_empty__Translate_Or_Leave_this_text_as_is_if_target_text_is_also_empty__(/CPPayloadCountStringsDictKey_SingularOnly:dict/PayloadType:dict/two:dict/:string)</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/CPPayloadCountStringsDictKey_CountLast:dict/PayloadType:dict/few:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Touch ID Policies (%lu)</base>
+        <tran loc="ar">سياسات Touch ID ‏(%lu)</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/CPPayloadCountStringsDictKey_CountLast:dict/PayloadType:dict/many:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Touch ID Policies (%lu)</base>
+        <tran loc="ar">سياسات Touch ID ‏(%lu)</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/CPPayloadCountStringsDictKey_CountLast:dict/PayloadType:dict/other:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Touch ID Policies (%lu)</base>
+        <tran loc="ar">سياسات Touch ID ‏(%lu)</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/CPPayloadCountStringsDictKey_CountLast:dict/PayloadType:dict/two:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Touch ID Policies (%lu)</base>
+        <tran loc="ar">سياسات Touch ID ‏(%lu)</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/CPPayloadCountStringsDictKey_CountLast:dict/PayloadType:dict/zero:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Touch ID Policies (%lu)</base>
+        <tran loc="ar">سياسات Touch ID ‏(%lu)</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/CPPayloadCountStringsDictKey_CountFirst:dict/PayloadType:dict/one:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Touch ID Policy</base>
+        <tran loc="ar">سياسة Touch ID</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/CPPayloadCountStringsDictKey_CountLast:dict/PayloadType:dict/one:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Touch ID Policy</base>
+        <tran loc="ar">سياسة Touch ID</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/CPPayloadCountStringsDictKey_SingularOnly:dict/PayloadType:dict/one:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Touch ID Policy</base>
+        <tran loc="ar">سياسة Touch ID</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/CPPayloadCountStringsDictKey_SingularOnly:dict/PayloadType:dict/many:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">__Source_text_is_empty__Translate_Or_Leave_this_text_as_is_if_target_text_is_also_empty__(/CPPayloadCountStringsDictKey_SingularOnly:dict/PayloadType:dict/many:dict/:string)</base>
+        <tran loc="ar">__Source_text_is_empty__Translate_Or_Leave_this_text_as_is_if_target_text_is_also_empty__(/CPPayloadCountStringsDictKey_SingularOnly:dict/PayloadType:dict/many:dict/:string)</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/CPPayloadCountStringsDictKey_SingularOnly:dict/PayloadType:dict/zero:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">__Source_text_is_empty__Translate_Or_Leave_this_text_as_is_if_target_text_is_also_empty__(/CPPayloadCountStringsDictKey_SingularOnly:dict/PayloadType:dict/zero:dict/:string)</base>
+        <tran loc="ar">__Source_text_is_empty__Translate_Or_Leave_this_text_as_is_if_target_text_is_also_empty__(/CPPayloadCountStringsDictKey_SingularOnly:dict/PayloadType:dict/zero:dict/:string)</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/CPPayloadCountStringsDictKey_SingularOnly:dict/PayloadType:dict/other:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">__Source_text_is_empty__Translate_Or_Leave_this_text_as_is_if_target_text_is_also_empty__(/CPPayloadCountStringsDictKey_SingularOnly:dict/PayloadType:dict/other:dict/:string)</base>
+        <tran loc="ar">__Source_text_is_empty__Translate_Or_Leave_this_text_as_is_if_target_text_is_also_empty__(/CPPayloadCountStringsDictKey_SingularOnly:dict/PayloadType:dict/other:dict/:string)</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/CPPayloadCountStringsDictKey_CountFirst:dict/PayloadType:dict/few:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%lu Touch ID Policies</base>
+        <tran loc="ar">‏%lu سياسات لـ Touch ID</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/CPPayloadCountStringsDictKey_CountFirst:dict/PayloadType:dict/many:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%lu Touch ID Policies</base>
+        <tran loc="ar">‏%lu سياسة لـ Touch ID</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/CPPayloadCountStringsDictKey_CountFirst:dict/PayloadType:dict/other:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%lu Touch ID Policies</base>
+        <tran loc="ar">‏%lu سياسة لـ Touch ID</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/CPPayloadCountStringsDictKey_CountFirst:dict/PayloadType:dict/two:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%lu Touch ID Policies</base>
+        <tran loc="ar">سياستان لـ Touch ID</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/CPPayloadCountStringsDictKey_CountFirst:dict/PayloadType:dict/zero:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%lu Touch ID Policies</base>
+        <tran loc="ar">‏%lu سياسة لـ Touch ID</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+</Proj>

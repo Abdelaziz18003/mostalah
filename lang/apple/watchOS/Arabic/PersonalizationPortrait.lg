@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Proj>
+  <ProjName>PersonalizationPortrait</ProjName>
+  <File>
+    <Filepath>PersonalizationPortrait/System/Library/PrivateFrameworks/PersonalizationPortraitInternals.framework/en.lproj/Localizable.strings</Filepath>
+    <TextItem>
+      <Description> The label for the time that you are estimated to arrive somewhere. For example, 'arrival at Yosemite National Park'. </Description>
+      <Position>arrival at %@</Position>
+      <TranslationSet>
+        <base loc="en">arrival at %@</base>
+        <tran loc="ar">الوصول عند %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> The label for the name of the street you are currently traveling on. </Description>
+      <Position>street</Position>
+      <TranslationSet>
+        <base loc="en">street</base>
+        <tran loc="ar">الشارع</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> The label for the amount of time left until you arrive at your destination.For example, 'time to Yosemite National Park'. </Description>
+      <Position>time to %@</Position>
+      <TranslationSet>
+        <base loc="en">time to %@</base>
+        <tran loc="ar">الوقت إلى %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> {label of quicktype item} ({name of app} App)\nThis is the attribution string for labeling of Proactive QuickType items. For example, it might render 'step count (Health App)'. </Description>
+      <Position>%@ (%@ App)</Position>
+      <TranslationSet>
+        <base loc="en">%1$@ (%2$@ App)</base>
+        <tran loc="ar">‏%1$@ ‏(تطبيق %2$@)</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> The label for the name of your destination. </Description>
+      <Position>destination</Position>
+      <TranslationSet>
+        <base loc="en">destination</base>
+        <tran loc="ar">الوجهة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> The label for the distance between you and your destination. For example, 'distance to Yosemite National Park'. </Description>
+      <Position>distance to %@</Position>
+      <TranslationSet>
+        <base loc="en">distance to %@</base>
+        <tran loc="ar">المسافة إلى %@</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+</Proj>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Proj>
+  <ProjName>IMSharedUI</ProjName>
+  <File>
+    <Filepath>IMSharedUI/System/Library/PrivateFrameworks/IMSharedUI.framework/Versions/A/Resources/en.lproj/IMGroupAcknowledgementPollView.strings</Filepath>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "999"; ObjectID = "W1N-0a-bou"; </Description>
+      <Position>W1N-0a-bou.title</Position>
+      <TranslationSet>
+        <base loc="en">999</base>
+        <tran loc="ar">٩٩٩</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>IMSharedUI/System/Library/PrivateFrameworks/IMSharedUI.framework/Versions/A/Resources/en.lproj/IMGroupAcknowledgementPollSectionView.strings</Filepath>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "999"; ObjectID = "dsW-NL-HAr"; </Description>
+      <Position>dsW-NL-HAr.title</Position>
+      <TranslationSet>
+        <base loc="en">999</base>
+        <tran loc="ar">٩٩٩</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>IMSharedUI/System/Library/PrivateFrameworks/IMSharedUI.framework/Versions/A/Resources/en.lproj/IMSharedUILocalizable.strings</Filepath>
+    <TextItem>
+      <Description> Localized identifier for HAHA acknowledgment. Only the following are currently supported: HAHA, AHAH, JAJA, ΧΑΧΑ (greek), ХАХА (cyrillic), هاها, חחחח, हाहा, ฮ่าฮ่า, 하하, 哈哈, 笑. Leave unlocalized if desired identifier not supported. </Description>
+      <Position>ACKNOWLEDGMENT_HAHA_NAME</Position>
+      <TranslationSet>
+        <base loc="en">HAHA</base>
+        <tran loc="ar">هاها</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>IMSharedUI/System/Library/PrivateFrameworks/IMSharedUI.framework/Versions/A/Resources/en.lproj/IMGroupAcknowledgementLabel.strings</Filepath>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Label"; ObjectID = "ydO-hh-pfR"; </Description>
+      <Position>ydO-hh-pfR.title</Position>
+      <TranslationSet>
+        <base loc="en">Label</base>
+        <tran loc="ar">العنوان</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>IMSharedUI/System/Library/PrivateFrameworks/IMSharedUI.framework/Versions/A/Resources/en.lproj/IMSharedUILocalizable.stringsdict</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>/GROUPACK_PEOPLE_COUNT_LABEL:dict/NSStringLocalizedFormatKey:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%#@people@</base>
+        <tran loc="ar">%#@people@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/GROUPACK_PEOPLE_COUNT_LABEL:dict/people:dict/one:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">1 Person</base>
+        <tran loc="ar">شخص واحد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/GROUPACK_PEOPLE_COUNT_LABEL:dict/people:dict/few:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%@ People</base>
+        <tran loc="ar">%@ أشخاص</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/GROUPACK_PEOPLE_COUNT_LABEL:dict/people:dict/many:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%@ People</base>
+        <tran loc="ar">%@ شخصًا</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/GROUPACK_PEOPLE_COUNT_LABEL:dict/people:dict/other:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%@ People</base>
+        <tran loc="ar">%@ شخص</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/GROUPACK_PEOPLE_COUNT_LABEL:dict/people:dict/two:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%@ People</base>
+        <tran loc="ar">شخصان</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/GROUPACK_PEOPLE_COUNT_LABEL:dict/people:dict/zero:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%@ People</base>
+        <tran loc="ar">%@ شخص</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+</Proj>

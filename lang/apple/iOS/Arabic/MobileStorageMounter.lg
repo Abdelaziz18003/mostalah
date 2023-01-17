@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Proj>
+  <ProjName>MobileStorageMounter</ProjName>
+  <File>
+    <Filepath>MobileStorageMounter/System/Library/PrivateFrameworks/MobileStorage.framework/en.lproj/Localization.strings</Filepath>
+    <TextItem>
+      <Description> Default button label for simple user notification. </Description>
+      <Position>BUTTON_LABEL</Position>
+      <TranslationSet>
+        <base loc="en">OK</base>
+        <tran loc="ar">موافق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Message indicating that the filesystem on the attached SD card could not be verified after verification. </Description>
+      <Position>MOUNT_FAILURE_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Contents not Available</base>
+        <tran loc="ar">المحتوى غير متوفر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Message indicating that the filesystem on the attached SD card could not be verified prior to mounting. </Description>
+      <Position>VERIFICATION_FAILURE_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Contents not Available</base>
+        <tran loc="ar">المحتوى غير متوفر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Message indicating that the attached USB device requests too much power. </Description>
+      <Position>POWER_HUNGRY_FAILURE_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Cannot Use Device</base>
+        <tran loc="ar">لا يمكن استخدام الجهاز</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Message indicating that the attached USB device is not supported. </Description>
+      <Position>UNSUPPORTED_FAILURE_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Cannot Use Device</base>
+        <tran loc="ar">لا يمكن استخدام الجهاز</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UNSUPPORTED_FAILURE_BODY</Position>
+      <TranslationSet>
+        <base loc="en">The connected USB device is not supported.</base>
+        <tran loc="ar">جهاز الـ USB المتصل غير مدعوم.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>MOUNT_FAILURE_BODY</Position>
+      <TranslationSet>
+        <base loc="en">Cannot read the connected storage media.</base>
+        <tran loc="ar">لا يمكن قراءة وسائط التخزين المتصلة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>VERIFICATION_FAILURE_BODY</Position>
+      <TranslationSet>
+        <base loc="en">Cannot read the connected storage media.</base>
+        <tran loc="ar">لا يمكن قراءة وسائط التخزين المتصلة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>POWER_HUNGRY_FAILURE_BODY</Position>
+      <TranslationSet>
+        <base loc="en">The connected USB device requires too much power.</base>
+        <tran loc="ar">جهاز الـ USB المتصل يتطلب الكثير من الطاقة.</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+</Proj>

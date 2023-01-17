@@ -1,0 +1,1315 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Proj>
+  <ProjName>PineBoardViewServices</ProjName>
+  <File>
+    <Filepath>PineBoardViewServices/System/Library/TVSystemMenuModules/Audio Routing Module.bundle/en.lproj/Localizable.strings</Filepath>
+    <TextItem>
+      <Description> Alert shown when connecting to an already playing route destination </Description>
+      <Position>RoutingHijackNagTitle</Position>
+      <TranslationSet>
+        <base loc="en">Replace what’s playing on this speaker?</base>
+        <tran loc="ar">استبدال ما هو مشغّل على هذه السماعة؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 
+  Localizable.strings
+  PineBoardViewServices
+
+  Created by Brandon Kieft on 2/22/16.
+
+</Description>
+      <Position>SpeakersTitle</Position>
+      <TranslationSet>
+        <base loc="en">Speakers</base>
+        <tran loc="ar">السماعات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SelectToConnectTitle</Position>
+      <TranslationSet>
+        <base loc="en">Select to Connect</base>
+        <tran loc="ar">حدد للاتصال</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ConnectionFailedAlertButton</Position>
+      <TranslationSet>
+        <base loc="en">OK</base>
+        <tran loc="ar">موافق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> DO NOT LOCALIZE @@MINUS@@ and @@PLUS@@, they get replaced with images</Description>
+      <Position>MasterVolumeText</Position>
+      <TranslationSet>
+        <base loc="en">You can use  @@MINUS@@  and  @@PLUS@@  buttons to change the volume of %@</base>
+        <tran loc="ar">يمكنك استخدام زري @@MINUS@@ و @@PLUS@@ لتغيير مستوى صوت %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PressAndHoldForVolumeText</Position>
+      <TranslationSet>
+        <base loc="en">Press and hold to change volume.</base>
+        <tran loc="ar">اضغط مطولاً لتغيير مستوى الصوت.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ChooseMusicTitle</Position>
+      <TranslationSet>
+        <base loc="en">Not Playing</base>
+        <tran loc="ar">متوقف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>RoutingHijackNagConfirm</Position>
+      <TranslationSet>
+        <base loc="en">Replace</base>
+        <tran loc="ar">استبدال</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>RoutingHijackNagCancel</Position>
+      <TranslationSet>
+        <base loc="en">Not Now</base>
+        <tran loc="ar">ليس الآن</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Alert shown if we are not able to connect to a selected routing destination. </Description>
+      <Position>ConnectionFailedAlertTitle</Position>
+      <TranslationSet>
+        <base loc="en">Couldn’t connect to “%@”</base>
+        <tran loc="ar">تعذر الاتصال بـ "‪%@‬"</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>RoutingHijackNagMessage</Position>
+      <TranslationSet>
+        <base loc="en">Selecting this speaker will replace what’s currently playing.</base>
+        <tran loc="ar">سيؤدي اختيار هذه السماعة إلى استبدال ما هو مشغل حاليًا.</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>PineBoardViewServices/Applications/TVDisplayAssistant.app/en.lproj/Localizable.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>TryUpgradeNoSupportCompatibleHeader</Position>
+      <TranslationSet>
+        <base loc="en">Apple TV switched your TV to a compatible format.</base>
+        <tran loc="ar">أرجع Apple TV تلفازك إلى تنسيق متوافق.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>HDRBuddyNoSupportSubtitle</Position>
+      <TranslationSet>
+        <base loc="en">You may need to choose “Ultra” or “Deep” color settings on your TV, or try a different HDMI input. Check your TV’s user guide for details.</base>
+        <tran loc="ar">ربما يتعين عليك اختيار إعدادات اللون "الفائق" أو "العميق" على تلفازك أو تجربة مدخل HDMI مختلف. راجع دليل المستخدم المرفق بالتلفاز لمزيد من التفاصيل.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>RegionModeSwitchInitialSubtitle</Position>
+      <TranslationSet>
+        <base loc="en">Apple TV will switch your television to match local content. Apple TV will switch back if it doesn’t work.</base>
+        <tran loc="ar">سيبدل Apple TV تلفازك ليتوافق مع المحتوى المحلي، وسسيقوم Apple TV بالإرجاع إذا لم ينجح ذلك.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CableCheckInitialSubtitle</Position>
+      <TranslationSet>
+        <base loc="en">This will take up to 2 minutes, and you may see a black screen for several seconds. Apple TV will switch you back when the test is complete.</base>
+        <tran loc="ar">سيستغرق الأمر حتى دقيقتين، وقد ترى شاشة سوداء لعدة ثوانٍ. سيقوم Apple TV بالإرجاع بعد اكتمال الاختبار.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>TryAgainButton</Position>
+      <TranslationSet>
+        <base loc="en">Try Again</base>
+        <tran loc="ar">المحاولة مرة أخرى</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>RegionModeSwitchCanSeeSubtitle</Position>
+      <TranslationSet>
+        <base loc="en">Select OK if you see a clear picture.</base>
+        <tran loc="ar">حدد "موافق" إذا كانت الصورة واضحة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>TryUpgradeNoSupportPreviousHeader</Position>
+      <TranslationSet>
+        <base loc="en">Apple TV switched your TV to its previous format.</base>
+        <tran loc="ar">أرجع Apple TV تلفازك إلى تنسيقه السابق.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PostVerifyModeSwitchCanSeeHeaderFormat</Position>
+      <TranslationSet>
+        <base loc="en">Your television supports %@.</base>
+        <tran loc="ar">تلفازك يدعم %@.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>HighDefinitionVideo</Position>
+      <TranslationSet>
+        <base loc="en">High-Definition Video</base>
+        <tran loc="ar">فيديو عالي الوضوح</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AppleSupportFooter</Position>
+      <TranslationSet>
+        <base loc="en">For more information, see\nhttps://support.apple.com/appletv/HDR</base>
+        <tran loc="ar">لمزيد من المعلومات، انظر\nhttps://support.apple.com/appletv/HDR</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Try Upgrade</Description>
+      <Position>TryUpgradeDolbyInitialTryButtonTitle</Position>
+      <TranslationSet>
+        <base loc="en">Try Dolby Vision</base>
+        <tran loc="ar">تجربة Dolby Vision</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>InitialHeader</Position>
+      <TranslationSet>
+        <base loc="en">Let’s get you the best picture.</base>
+        <tran loc="ar">سيحظى تلفازك بأفضل صورة ممكنة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PostModeSwitchRevertSubtitle</Position>
+      <TranslationSet>
+        <base loc="en">To choose another format, go to Settings &gt; Video and Audio.</base>
+        <tran loc="ar">لاختيار تنسيق آخر، اذهب إلى الإعدادات &gt; الفيديو والصوت.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PostVerifyModeSwitchCanSeeSubtitle</Position>
+      <TranslationSet>
+        <base loc="en">Apple TV will switch you back to your selected display format.</base>
+        <tran loc="ar">سيُرجع Apple TV تلفازك إلى تنسيق العرض الذي حددته.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Chroma420</Position>
+      <TranslationSet>
+        <base loc="en">4:2:0 Chroma</base>
+        <tran loc="ar">كثافة لون 4:2:0</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>MaybeYouGotGoodCableSubtitle</Position>
+      <TranslationSet>
+        <base loc="en">Apple TV will monitor your connection and let you know if it sees any problems.</base>
+        <tran loc="ar">سيراقب Apple TV الاتصال ويخبرك في حالة عثوره على أي مشاكل.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>YouGotGoodCableSubtitle</Position>
+      <TranslationSet>
+        <base loc="en">Apple TV will monitor your connection and let you know if it sees any problems.</base>
+        <tran loc="ar">سيراقب Apple TV الاتصال ويخبرك في حالة عثوره على أي مشاكل.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>MarketNameResolutionFormat</Position>
+      <TranslationSet>
+        <base loc="en">%zup</base>
+        <tran loc="ar">‏‪%zup‬</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CableCheckNoSupportSameModeHeader</Position>
+      <TranslationSet>
+        <base loc="en">Your HDMI connection is having some trouble.</base>
+        <tran loc="ar">يبدو أن هناك مشاكل في اتصال HDMI.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Resolutions</Description>
+      <Position>UHDResolution</Position>
+      <TranslationSet>
+        <base loc="en">4K</base>
+        <tran loc="ar">‏4K</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>TryUpgradeInitialSubtitleFormat</Position>
+      <TranslationSet>
+        <base loc="en">Switching to %@ will improve video quality. Apple TV will check your HDMI cable to make sure it’s compatible. You’ll see a black screen for several seconds. If it doesn’t work, Apple TV will switch back automatically.</base>
+        <tran loc="ar">عند التبديل إلى %@، ستتحسن جودة الفيديو. سيتحقق Apple TV من كبل HDMI لديك للتأكد من توافقه. سترى شاشة سوداء لعدة ثوانٍ، وإذا لم ينجح ذلك، فسيقوم Apple TV بالإرجاع تلقائيًا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SDRFormat</Position>
+      <TranslationSet>
+        <base loc="en">%@ SDR at %dHz</base>
+        <tran loc="ar">‏‪%@ SDR‬ بمعدل %d هرتز</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>TryUpgradeNoSupportSubtitleFormat</Position>
+      <TranslationSet>
+        <base loc="en">Make sure any HDMI cables and devices you connect support %@.</base>
+        <tran loc="ar">تأكد أن أي كبلات HDMI وأجهزة توصّلها تدعم %@.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Inconclusive cable check</Description>
+      <Position>InconclusiveCableHeader</Position>
+      <TranslationSet>
+        <base loc="en">Apple TV couldn’t fully evaluate your HDMI connection.</base>
+        <tran loc="ar">تعذر على Apple TV تقييم اتصال HDMI بشكل كامل.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>RegionModeSwitchInitialTryButtonTitle</Position>
+      <TranslationSet>
+        <base loc="en">Switch to Match</base>
+        <tran loc="ar">التبديل للمطابقة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Shared</Description>
+      <Position>OKButtonTitle</Position>
+      <TranslationSet>
+        <base loc="en">OK</base>
+        <tran loc="ar">موافق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Failure</Description>
+      <Position>CableNo4KForYouHeader</Position>
+      <TranslationSet>
+        <base loc="en">You may not be able to stream 4K videos.</base>
+        <tran loc="ar">قد لا يمكنك تشغيل الفيديوهات على الإنترنت بدقة 4K.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>NetworkNo4KForYouHeader</Position>
+      <TranslationSet>
+        <base loc="en">You may not be able to stream 4K videos.</base>
+        <tran loc="ar">قد لا يمكنك تشغيل الفيديوهات على الإنترنت بدقة 4K.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Virtual Mode Switch</Description>
+      <Position>VirtualModeSwitchInitialHeader</Position>
+      <TranslationSet>
+        <base loc="en">Let’s make sure your television can use this format.</base>
+        <tran loc="ar">سنتأكد من أن تلفازك يمكنه استخدام هذا التنسيق.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>TryUpgradeCanSeeHeaderFormat</Position>
+      <TranslationSet>
+        <base loc="en">Apple TV switched your TV to %@.</base>
+        <tran loc="ar">بدّل Apple TV تلفازك إلى %@.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>HDR</Position>
+      <TranslationSet>
+        <base loc="en">HDR</base>
+        <tran loc="ar">HDR</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>VerifyModeSwitchInitialSubtitle</Position>
+      <TranslationSet>
+        <base loc="en">You may see a black screen for a few seconds. Apple TV will switch back if it doesn’t work.</base>
+        <tran loc="ar">ربما ترى شاشة سوداء لبضع ثوانٍ، وإذا لم ينجح ذلك، فسيقوم Apple TV بالإرجاع.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>VerifyModeSwitchNoSupportPreviousHeader</Position>
+      <TranslationSet>
+        <base loc="en">It looks like your television doesn’t support %@.</base>
+        <tran loc="ar">يبدو أن تلفازك لا يدعم %@.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CancelButtonTitle</Position>
+      <TranslationSet>
+        <base loc="en">Cancel</base>
+        <tran loc="ar">إلغاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>HDRBuddyInitialTryButtonTitle</Position>
+      <TranslationSet>
+        <base loc="en">Try HDR</base>
+        <tran loc="ar">تجربة HDR</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CableCheckLoadingTitle</Position>
+      <TranslationSet>
+        <base loc="en">Checking HDMI connection…</base>
+        <tran loc="ar">جاري التحقق من اتصال HDMI…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>OtherResolutionFormat</Position>
+      <TranslationSet>
+        <base loc="en">%zu x %zu</base>
+        <tran loc="ar">‏%zu × ‏%zu</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>RGBHigh</Position>
+      <TranslationSet>
+        <base loc="en">RGB High</base>
+        <tran loc="ar">ألوان RGB عالية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>VirtualModeSwitchInitialTryButtonTitle</Position>
+      <TranslationSet>
+        <base loc="en">Continue</base>
+        <tran loc="ar">متابعة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Chroma444</Position>
+      <TranslationSet>
+        <base loc="en">4:4:4 Chroma</base>
+        <tran loc="ar">كثافة لون 4:4:4</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CableNo4KForYouSubtitle_WLAN</Position>
+      <TranslationSet>
+        <base loc="en">It looks like your HDMI cable is interfering with your WLAN connection.\nSwitch to Ethernet or 5GHz WLAN, or try an HDMI cable with high-quality shielding.</base>
+        <tran loc="ar">يبدو أن كبل HDMI الموصل لديك متداخل مع اتصال الـ WLAN.\nقم بالتبديل إلى اتصال إيثرنت أو WLAN بتردد ٥ غيغاهرتز، أو جرب كبل HDMI ذا عزل عالي الجودة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>VerifyModeSwitchNoSupportPreviousSubtitle</Position>
+      <TranslationSet>
+        <base loc="en">Apple TV will use your selected display format instead.</base>
+        <tran loc="ar">سيستخدم Apple TV تنسيق العرض الذي حددته بدلاً من ذلك.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>TryUpgradeInitialTryButtonTitle</Position>
+      <TranslationSet>
+        <base loc="en">Try It Out</base>
+        <tran loc="ar">جرب الآن</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CableCheckNoSupportSameModeSubtitle</Position>
+      <TranslationSet>
+        <base loc="en">If you’re seeing display problems, make sure you’re using an ultra high-speed cable.</base>
+        <tran loc="ar">إذا كنت تواجه مشاكل في الشاشة، فتأكد من أنك تستخدم كبل فائق السرعة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CableNo4KForYouSubtitle_WIFI</Position>
+      <TranslationSet>
+        <base loc="en">It looks like your HDMI cable is interfering with your Wi-Fi connection.\nSwitch to Ethernet or 5GHz Wi-Fi, or try an HDMI cable with high-quality shielding.</base>
+        <tran loc="ar">يبدو أن كبل HDMI الموصل لديك متداخل مع اتصال الـ Wi-Fi.\nقم بالتبديل إلى اتصال إيثرنت أو Wi-Fi بتردد ٥ غيغاهرتز، أو جرب كبل HDMI ذا عزل عالي الجودة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>HDRBuddyCanSeeHDR10Subtitle</Position>
+      <TranslationSet>
+        <base loc="en">Select OK to use this format from now on.</base>
+        <tran loc="ar">حدد "موافق" لاستخدام هذا التنسيق بدءًا من الآن.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>HDRBuddyCanSeeHDR10Header</Position>
+      <TranslationSet>
+        <base loc="en">Your TV has been switched to HDR.</base>
+        <tran loc="ar">تم تبديل تلفازك إلى HDR.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>HDRFormat</Position>
+      <TranslationSet>
+        <base loc="en">%@ HDR at %dHz</base>
+        <tran loc="ar">‏‪%@ HDR‬ بمعدل %d هرتز</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Real Mode Switch</Description>
+      <Position>PostModeSwitchCanSeeHeaderFormat</Position>
+      <TranslationSet>
+        <base loc="en">Apple TV switched your television to use %@.</base>
+        <tran loc="ar">بدّل Apple TV تلفازك لاستخدام %@.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>HDRBuddyNoSupportHeader</Position>
+      <TranslationSet>
+        <base loc="en">Apple TV switched your TV back to its previous format.</base>
+        <tran loc="ar">أرجع Apple TV تلفازك إلى تنسيقه السابق.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>YCbCr</Position>
+      <TranslationSet>
+        <base loc="en">YCbCr</base>
+        <tran loc="ar">‏YCbCr</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Verify Mode</Description>
+      <Position>VerifyModeSwitchInitialHeaderFormat</Position>
+      <TranslationSet>
+        <base loc="en">Apple TV will try to switch your television to %@.</base>
+        <tran loc="ar">سيحاول Apple TV تبديل تلفازك إلى %@.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>NotNowButton</Position>
+      <TranslationSet>
+        <base loc="en">Not Now</base>
+        <tran loc="ar">ليس الآن</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>MaybeYouGotGoodCableHeader</Position>
+      <TranslationSet>
+        <base loc="en">Your HDMI connection is looking better.</base>
+        <tran loc="ar">يبدو أن اتصال HDMI تحسّن.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 
+  Localizable.strings
+  PineBoardViewServices
+
+  Created by Patrick McClaughry on 9/12/17.
+  
+
+ For reference, use smart single and double quotes in all places: ’ “”
+ HDR Buddy</Description>
+      <Position>HDRBuddyInitialSubtitle</Position>
+      <TranslationSet>
+        <base loc="en">Apple TV will check to see if your TV supports High Dynamic Range (HDR). You’ll see a black screen for several seconds. If it doesn’t work, Apple TV will switch back automatically.</base>
+        <tran loc="ar">سيتحقق Apple TV مما إذا كان تلفازك يدعم المدى الديناميكي العالي (HDR). سترى شاشة سوداء لعدة ثوانٍ، وإذا لم ينجح ذلك، فسيقوم Apple TV بالإرجاع تلقائيًا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Cable Check</Description>
+      <Position>CableCheckInitialHeader</Position>
+      <TranslationSet>
+        <base loc="en">Apple TV will send a high-bandwidth signal to your TV to test your HDMI connection.</base>
+        <tran loc="ar">سيرسل Apple TV إشارة ذات نطاق ترددي مرتفع إلى تلفازك لاختبار اتصال HDMI.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>RGBLow</Position>
+      <TranslationSet>
+        <base loc="en">RGB Low</base>
+        <tran loc="ar">ألوان RGB منخفضة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DolbyVisionFormat</Position>
+      <TranslationSet>
+        <base loc="en">%@ Dolby Vision at %dHz</base>
+        <tran loc="ar">‏‪%@ Dolby Vision‬ بمعدل %d هرتز</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>RegionModeSwitchInitialCancelButtonTitle</Position>
+      <TranslationSet>
+        <base loc="en">Keep Current Format</base>
+        <tran loc="ar">الاحتفاظ بالتنسيق الحالي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CancelTimerButtonTitleFormat</Position>
+      <TranslationSet>
+        <base loc="en">Cancel (%ld)</base>
+        <tran loc="ar">إلغاء (%ld)</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PoorCableSubtitleFormat</Position>
+      <TranslationSet>
+        <base loc="en">Check your connections and make sure your cable supports %@.</base>
+        <tran loc="ar">تحقق من اتصالك وما إذا كان الكبل يدعم %@ أم لا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>VirtualModeSwitchInitialSubtitle</Position>
+      <TranslationSet>
+        <base loc="en">You’ll see a black screen for several seconds. Apple TV will switch you back if it doesn’t work.</base>
+        <tran loc="ar">سترى شاشة سوداء لعدة ثوانٍ، وإذا لم ينجح ذلك، فسيقوم Apple TV بإرجاعك.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Chroma422</Position>
+      <TranslationSet>
+        <base loc="en">4:2:2 Chroma</base>
+        <tran loc="ar">كثافة لون 4:2:2</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Cable Warning</Description>
+      <Position>PoorCableHeader</Position>
+      <TranslationSet>
+        <base loc="en">Apple TV is having trouble maintaining a stable HDMI connection.</base>
+        <tran loc="ar">يواجه Apple TV مشكلة في المحافظة على اتصال HDMI ثابت.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Region Change</Description>
+      <Position>RegionModeSwitchInitialHeader</Position>
+      <TranslationSet>
+        <base loc="en">Your region uses a different display format.</base>
+        <tran loc="ar">منطقتك تستخدم تنسيق عرض مختلف.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>TryUpgradeCanSeeSubtitle</Position>
+      <TranslationSet>
+        <base loc="en">If you see a clear picture, select OK. Select Cancel if you see sparkles, static, or other display problems.</base>
+        <tran loc="ar">إذا كانت الصورة واضحة، فحدد "موافق". وإذا رأيت بريقًا أو تشويشًا أو غير ذلك من مشاكل شاشة العرض، فحدد "إلغاء".</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>NetworkNo4KForYouSubtitle</Position>
+      <TranslationSet>
+        <base loc="en">Your Internet connection speed might have dropped below 15Mbps,\nor there could be a problem with your home network.</base>
+        <tran loc="ar">ربما تكون سرعة اتصال الإنترنت لديك قد انخفضت لأقل من ١٥ميغابت/ثانية،\nأو ربما تكون هناك مشكلة في شبكتك المنزلية.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Cable Success</Description>
+      <Position>YouGotGoodCableHeader</Position>
+      <TranslationSet>
+        <base loc="en">Your HDMI connection looks good.</base>
+        <tran loc="ar">يبدو أن اتصال HDMI جيد.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PostModeSwitchCanSeeSubtitle</Position>
+      <TranslationSet>
+        <base loc="en">Select OK to continue using this format.</base>
+        <tran loc="ar">حدد "موافق" لمتابعة استخدام هذا التنسيق.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CableCheckInitialTryButtonTitle</Position>
+      <TranslationSet>
+        <base loc="en">Check HDMI Connection</base>
+        <tran loc="ar">تحقق من اتصال HDMI</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>RegionModeSwitchCanSeeHeader</Position>
+      <TranslationSet>
+        <base loc="en">Apple TV switched your television to match your region.</base>
+        <tran loc="ar">بدّل Apple TV تلفازك ليتوافق مع منطقتك.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Color Modes</Description>
+      <Position>DolbyVision</Position>
+      <TranslationSet>
+        <base loc="en">Dolby Vision</base>
+        <tran loc="ar">‏Dolby Vision</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PoorCable4KSubtitle</Position>
+      <TranslationSet>
+        <base loc="en">Check your connections and make sure you’re using an ultra high-speed HDMI cable.</base>
+        <tran loc="ar">تحقق من اتصالك وتأكد من أنك تستخدم كبل HDMI فائق السرعة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>InconclusiveCableSubtitle</Position>
+      <TranslationSet>
+        <base loc="en">Some equipment isn’t compatible with this test, but still works with Apple TV. If you’re seeing display problems, make sure you’re using an ultra high-speed cable.</base>
+        <tran loc="ar">بعض المعدات غير متوافقة مع فحص الكبل، لكنها ستعمل مع Apple TV على أية حال. إذا كنت تواجه مشاكل في الشاشة، فتأكد من أنك تستخدم كبل فائق السرعة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SDR</Position>
+      <TranslationSet>
+        <base loc="en">SDR</base>
+        <tran loc="ar">‏SDR</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>PineBoardViewServices/System/Library/PreferenceBundles/TVAudioRoutingSettings.bundle/en.lproj/Localizable.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>OutputTitleBluetooth</Position>
+      <TranslationSet>
+        <base loc="en">%@ (Bluetooth)</base>
+        <tran loc="ar">‏%@ (Bluetooth)</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 
+  Localizable.strings
+  PineBoardViewServices
+
+  Created by Felipe Cypriano on 5/30/18.
+  
+</Description>
+      <Position>OutputTitleLocal</Position>
+      <TranslationSet>
+        <base loc="en">%@ (HDMI)</base>
+        <tran loc="ar">‏%@ (HDMI)</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>OutputTitleAirPlay</Position>
+      <TranslationSet>
+        <base loc="en">%@ (AirPlay)</base>
+        <tran loc="ar">‏%@ (AirPlay)</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>PineBoardViewServices/System/Library/TVSystemMenuModules/Sleep Module.bundle/en.lproj/Localizable.strings</Filepath>
+    <TextItem>
+      <Description> 
+  Localizable.strings
+  PineBoardViewServices
+
+  Created by Dale Taylor on 7/2/19.
+  
+</Description>
+      <Position>TVSMSleepModuleSubtitle</Position>
+      <TranslationSet>
+        <base loc="en">All connected devices</base>
+        <tran loc="ar">كل الأجهزة المتصلة</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>PineBoardViewServices/System/Library/PreferenceBundles/TVAudioRoutingSettings.bundle/en.lproj/InfoPlist.strings</Filepath>
+    <TextItem>
+      <Description> 
+  InfoPlist.strings
+  PineBoardViewServices
+
+  Created by Dale Taylor on 7/24/17.
+  
+</Description>
+      <Position>CFBundleDisplayName</Position>
+      <TranslationSet>
+        <base loc="en">Audio Output</base>
+        <tran loc="ar">إخراج الصوت</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>PineBoardViewServices/Applications/TVNowPlayingService.app/en.lproj/Localizable.strings</Filepath>
+    <TextItem>
+      <Description> Alert shown when connecting to an already playing route destination </Description>
+      <Position>RoutingHijackNagTitle</Position>
+      <TranslationSet>
+        <base loc="en">Replace what’s playing on this speaker?</base>
+        <tran loc="ar">استبدال ما هو مشغّل على هذه السماعة؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 
+  Localizable.strings
+  PineBoardViewServices
+
+  Created by Brandon Kieft on 2/22/16.
+
+</Description>
+      <Position>SpeakersTitle</Position>
+      <TranslationSet>
+        <base loc="en">Speakers</base>
+        <tran loc="ar">مكبرات الصوت</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SelectToConnectTitle</Position>
+      <TranslationSet>
+        <base loc="en">Select to Connect</base>
+        <tran loc="ar">حدد للاتصال</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ConnectionFailedAlertButton</Position>
+      <TranslationSet>
+        <base loc="en">OK</base>
+        <tran loc="ar">موافق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> DO NOT LOCALIZE @@MINUS@@ and @@PLUS@@, they get replaced with images</Description>
+      <Position>MasterVolumeText</Position>
+      <TranslationSet>
+        <base loc="en">You can use  @@MINUS@@  and  @@PLUS@@  buttons to change the volume of %@</base>
+        <tran loc="ar">يمكنك استخدام زري @@MINUS@@ و @@PLUS@@ لتغيير مستوى صوت %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PressAndHoldForVolumeText</Position>
+      <TranslationSet>
+        <base loc="en">Press and hold to change volume.</base>
+        <tran loc="ar">اضغط مطولاً لتغيير مستوى الصوت.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ChooseMusicTitle</Position>
+      <TranslationSet>
+        <base loc="en">Not Playing</base>
+        <tran loc="ar">متوقف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>RoutingHijackNagConfirm</Position>
+      <TranslationSet>
+        <base loc="en">Replace</base>
+        <tran loc="ar">استبدال</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>RoutingHijackNagCancel</Position>
+      <TranslationSet>
+        <base loc="en">Not Now</base>
+        <tran loc="ar">ليس الآن</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Alert shown if we are not able to connect to a selected routing destination. </Description>
+      <Position>ConnectionFailedAlertTitle</Position>
+      <TranslationSet>
+        <base loc="en">Couldn’t connect to “%@”</base>
+        <tran loc="ar">تعذر الاتصال بـ "‪%@‬"</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>RoutingHijackNagMessage</Position>
+      <TranslationSet>
+        <base loc="en">Selecting this speaker will replace what’s currently playing.</base>
+        <tran loc="ar">سيؤدي اختيار هذه السماعة إلى استبدال ما هو مشغل حاليًا.</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>PineBoardViewServices/System/Library/TVSystemMenuModules/Sleep Module.bundle/en.lproj/InfoPlist.strings</Filepath>
+    <TextItem>
+      <Description> 
+  InfoPlist.strings
+  PineBoardViewServices
+
+  Created by Dale Taylor on 1/27/19.
+  
+</Description>
+      <Position>CFBundleDisplayName</Position>
+      <TranslationSet>
+        <base loc="en">Sleep</base>
+        <tran loc="ar">إسبات</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>PineBoardViewServices/Applications/TVCRDService.app/en.lproj/Localizable.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>crdLoadingDescription</Position>
+      <TranslationSet>
+        <base loc="en">To cancel, press Menu on your remote.</base>
+        <tran loc="ar">للإلغاء، اضغط على القائمة في وحدة التحكم لديك.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 
+  Localizable.strings
+  TVCRDService
+
+  Created by Brandon Kieft on 1/14/16.
+
+
+ For reference, use smart single and double quotes in all places: ’ “”</Description>
+      <Position>crdLoadingTitle</Position>
+      <TranslationSet>
+        <base loc="en">Starting Conference Room Display…</base>
+        <tran loc="ar">جاري بدء تشغيل شاشة عرض غرفة الاجتماعات…</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>PineBoardViewServices/System/Library/TVSystemMenuModules/Now Playing Module.bundle/en.lproj/Localizable.strings</Filepath>
+    <TextItem>
+      <Description> Alert shown when connecting to an already playing route destination </Description>
+      <Position>RoutingHijackNagTitle</Position>
+      <TranslationSet>
+        <base loc="en">Replace what’s playing on this speaker?</base>
+        <tran loc="ar">استبدال ما هو مشغّل على هذه السماعة؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 
+  Localizable.strings
+  PineBoardViewServices
+
+  Created by Brandon Kieft on 2/22/16.
+
+</Description>
+      <Position>SpeakersTitle</Position>
+      <TranslationSet>
+        <base loc="en">Speakers</base>
+        <tran loc="ar">السماعات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SelectToConnectTitle</Position>
+      <TranslationSet>
+        <base loc="en">Select to Connect</base>
+        <tran loc="ar">حدد للاتصال</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ConnectionFailedAlertButton</Position>
+      <TranslationSet>
+        <base loc="en">OK</base>
+        <tran loc="ar">موافق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> DO NOT LOCALIZE @@MINUS@@ and @@PLUS@@, they get replaced with images</Description>
+      <Position>MasterVolumeText</Position>
+      <TranslationSet>
+        <base loc="en">You can use  @@MINUS@@  and  @@PLUS@@  buttons to change the volume of %@</base>
+        <tran loc="ar">يمكنك استخدام زري @@MINUS@@ و @@PLUS@@ لتغيير مستوى صوت %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PressAndHoldForVolumeText</Position>
+      <TranslationSet>
+        <base loc="en">Press and hold to change volume.</base>
+        <tran loc="ar">اضغط مطولاً لتغيير مستوى الصوت.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ChooseMusicTitle</Position>
+      <TranslationSet>
+        <base loc="en">Not Playing</base>
+        <tran loc="ar">متوقف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>RoutingHijackNagConfirm</Position>
+      <TranslationSet>
+        <base loc="en">Replace</base>
+        <tran loc="ar">استبدال</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>RoutingHijackNagCancel</Position>
+      <TranslationSet>
+        <base loc="en">Not Now</base>
+        <tran loc="ar">ليس الآن</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Alert shown if we are not able to connect to a selected routing destination. </Description>
+      <Position>ConnectionFailedAlertTitle</Position>
+      <TranslationSet>
+        <base loc="en">Couldn’t connect to “%@”</base>
+        <tran loc="ar">تعذر الاتصال بـ "‪%@‬"</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>RoutingHijackNagMessage</Position>
+      <TranslationSet>
+        <base loc="en">Selecting this speaker will replace what’s currently playing.</base>
+        <tran loc="ar">سيؤدي اختيار هذه السماعة إلى استبدال ما هو مشغل حاليًا.</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>PineBoardViewServices/Applications/TVDisplayAssistant.app/en.lproj/LocalizableSeed.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>RGB</Position>
+      <TranslationSet>
+        <base loc="en">RGB</base>
+        <tran loc="ar">‏RGB</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CableCheckSameModeCanSeeHeader</Position>
+      <TranslationSet>
+        <base loc="en">Now, check your screen.</base>
+        <tran loc="ar">الآن تحقق من شاشتك.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>HDRBuddyNoSupportSubtitle</Position>
+      <TranslationSet>
+        <base loc="en">You may need to choose “Ultra” or “Deep” color settings on your TV, or try a different HDMI input. Check your TV’s user guide for details.</base>
+        <tran loc="ar">ربما يتعين عليك اختيار إعدادات اللون "الفائق" أو "العميق" على تلفازك أو تجربة مدخل HDMI مختلف. راجع دليل المستخدم المرفق بالتلفاز لمزيد من التفاصيل.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>HDRBuddyNoSupportHeader</Position>
+      <TranslationSet>
+        <base loc="en">We switched your TV back to its previous format.</base>
+        <tran loc="ar">تم إرجاع تلفازك إلى تنسيقه السابق.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AppleSupportFooter</Position>
+      <TranslationSet>
+        <base loc="en">For more information, see\nhttps://support.apple.com/appletv/HDR</base>
+        <tran loc="ar">لمزيد من المعلومات، انظر\nhttps://support.apple.com/appletv/HDR</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Cable Check Dolby</Description>
+      <Position>CableCheckDolbyInitialTryButtonTitle</Position>
+      <TranslationSet>
+        <base loc="en">Try Dolby Vision</base>
+        <tran loc="ar">تجربة Dolby Vision</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>InitialHeader</Position>
+      <TranslationSet>
+        <base loc="en">Let’s get you the best picture.</base>
+        <tran loc="ar">سيحظى تلفازك بأفضل صورة ممكنة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CableCheckNoSupportPreviousHeader</Position>
+      <TranslationSet>
+        <base loc="en">We’ve switched your TV to its previous format.</base>
+        <tran loc="ar">تم إرجاع تلفازك إلى تنسيقه السابق.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CableCheckNoSupportCompatibleHeader</Position>
+      <TranslationSet>
+        <base loc="en">We’ve switched your TV to a compatible format.</base>
+        <tran loc="ar">تم إرجاع تلفازك إلى تنسيق متوافق.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description>
+ Localizable.strings
+ TVDisplayAssistant
+
+ Created by Jad Osseiran on 5/5/17.
+ Copyright © 2017 Apple. All rights reserved.
+ 
+ For reference, use smart single and double quotes in all places: ’ “”
+ HDR Buddy</Description>
+      <Position>HDRBuddyInitialSubtitle</Position>
+      <TranslationSet>
+        <base loc="en">We’ll check to see if your TV supports High Dynamic Range (HDR). You’ll see a\nblack screen for several seconds. If it doesn’t work, we’ll switch back automatically.</base>
+        <tran loc="ar">سنتحقق مما إذا كان تلفازك يدعم المدى الديناميكي العالي (HDR).\n. سترى شاشة سوداء لعدة ثوانٍ، وإذا لم ينجح ذلك، فسيتم الرجوع تلقائيًا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Chroma420</Position>
+      <TranslationSet>
+        <base loc="en">4:2:0 chroma</base>
+        <tran loc="ar">كثافة لون 4:2:0</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CableCheckNoSupportSubtitleFormat</Position>
+      <TranslationSet>
+        <base loc="en">Make sure any HDMI cables and devices you connect support %@.</base>
+        <tran loc="ar">تأكد أن أي كبلات HDMI وأجهزة توصّلها تدعم %@.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CableCheckNoSupportSameModeHeader</Position>
+      <TranslationSet>
+        <base loc="en">There’s a problem with your HDMI cable.</base>
+        <tran loc="ar">هناك مشكلة في كبل HDMI الذي تستخدمه.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Shared</Description>
+      <Position>OKButtonTitle</Position>
+      <TranslationSet>
+        <base loc="en">OK</base>
+        <tran loc="ar">موافق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Chroma444</Position>
+      <TranslationSet>
+        <base loc="en">4:4:4 chroma</base>
+        <tran loc="ar">كثافة لون 4:4:4</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Failure</Description>
+      <Position>CableNo4KForYouHeader</Position>
+      <TranslationSet>
+        <base loc="en">You may not be able to stream 4K videos.</base>
+        <tran loc="ar">قد لا يمكنك تشغيل الفيديوهات على الإنترنت بدقة 4K.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>NetworkNo4KForYouHeader</Position>
+      <TranslationSet>
+        <base loc="en">You may not be able to stream 4K videos.</base>
+        <tran loc="ar">قد لا يمكنك تشغيل الفيديوهات على الإنترنت بدقة 4K.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Cable Check</Description>
+      <Position>CableCheckInitialSubtitleFormat</Position>
+      <TranslationSet>
+        <base loc="en">Switching to %@ will improve video quality. We’ll check your HDMI cable to make sure it’s compatible. You’ll see a black screen for several seconds. If it doesn’t work, we’ll switch back automatically.</base>
+        <tran loc="ar">عند التبديل إلى %@ ستتحسن جودة الفيديو. وسنتحقق من كبل HDMI الموصل لديك لنتأكد أنه متوافق. سترى شاشة سوداء لعدة ثوانٍ، وإذا لم ينجح ذلك، فسيتم الرجوع تلقائيًا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>HDR</Position>
+      <TranslationSet>
+        <base loc="en">HDR</base>
+        <tran loc="ar">HDR</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CancelButtonTitle</Position>
+      <TranslationSet>
+        <base loc="en">Cancel</base>
+        <tran loc="ar">إلغاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>HDRBuddyInitialTryButtonTitle</Position>
+      <TranslationSet>
+        <base loc="en">Try HDR</base>
+        <tran loc="ar">تجربة HDR</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CableNo4KForYouSubtitle_WLAN</Position>
+      <TranslationSet>
+        <base loc="en">It looks like your HDMI cable is interfering with your WLAN connection.\nSwitch to Ethernet or 5GHz WLAN, or try an HDMI cable with high-quality shielding.</base>
+        <tran loc="ar">يبدو أن كبل HDMI الموصل لديك متداخل مع اتصال الـ WLAN.\nقم بالتبديل إلى اتصال إيثرنت أو WLAN بتردد ٥ غيغاهرتز، أو جرب كبل HDMI ذا عزل عالي الجودة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CableCheckInitialTryButtonTitle</Position>
+      <TranslationSet>
+        <base loc="en">Try It Out</base>
+        <tran loc="ar">جرب الآن</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CableNo4KForYouSubtitle_WIFI</Position>
+      <TranslationSet>
+        <base loc="en">It looks like your HDMI cable is interfering with your Wi-Fi connection.\nSwitch to Ethernet or 5GHz Wi-Fi, or try an HDMI cable with high-quality shielding.</base>
+        <tran loc="ar">يبدو أن كبل HDMI الموصل لديك متداخل مع اتصال الـ Wi-Fi.\nقم بالتبديل إلى اتصال إيثرنت أو Wi-Fi بتردد ٥ غيغاهرتز، أو جرب كبل HDMI ذا عزل عالي الجودة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>HDRBuddyCanSeeHDR10Subtitle</Position>
+      <TranslationSet>
+        <base loc="en">Select OK to use this format from now on.</base>
+        <tran loc="ar">حدد "موافق" لاستخدام هذا التنسيق بدءًا من الآن.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>HDRBuddyCanSeeHDR10Header</Position>
+      <TranslationSet>
+        <base loc="en">Your TV has been switched to HDR.</base>
+        <tran loc="ar">تم تبديل تلفازك إلى HDR.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>NotNowButton</Position>
+      <TranslationSet>
+        <base loc="en">Not Now</base>
+        <tran loc="ar">ليس الآن</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Cable Check Same Mode</Description>
+      <Position>CableCheckSameModeInitialSubtitleFormat</Position>
+      <TranslationSet>
+        <base loc="en">It looks like you’re already using %@. If you’re having display problems, we can check your cable to make sure it’s compatible.</base>
+        <tran loc="ar">يبدو أنك تستخدم %@ بالفعل. إذا كانت تواجهك مشاكل في شاشة العرض، يمكننا التحقق من الكبل للتأكد من توافقه.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CancelTimerButtonTitleFormat</Position>
+      <TranslationSet>
+        <base loc="en">Cancel (%ld)</base>
+        <tran loc="ar">إلغاء (%ld)</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CableCheckCanSeeSubtitle</Position>
+      <TranslationSet>
+        <base loc="en">If you see a clear picture, select OK. Select Cancel if you see sparkles, static, or other display problems.</base>
+        <tran loc="ar">إذا كانت الصورة واضحة، فحدد "موافق". وإذا رأيت بريقًا أو تشويشًا أو غير ذلك من مشاكل شاشة العرض، فحدد "إلغاء".</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>NetworkNo4KForYouSubtitle</Position>
+      <TranslationSet>
+        <base loc="en">Your Internet connection speed might have dropped below 15Mbps,\nor there could be a problem with your home network.</base>
+        <tran loc="ar">ربما تكون سرعة اتصال الإنترنت لديك قد انخفضت لأقل من ١٥ميغابت/ثانية،\nأو ربما تكون هناك مشكلة في شبكتك المنزلية.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CableCheckNoSupportSameModeSubtitle</Position>
+      <TranslationSet>
+        <base loc="en">Older cables might not be compatible with your system. Longer or poorly shielded cables may also cause problems.</base>
+        <tran loc="ar">قد لا تكون الكبلات القديمة متوافقة مع نظامك. كما أن الكبلات الطويلة أو غير المعزولة جيدًا قد تسبب مشاكل.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Chroma422</Position>
+      <TranslationSet>
+        <base loc="en">4:2:2 chroma</base>
+        <tran loc="ar">كثافة لون 4:2:2</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Color Modes</Description>
+      <Position>DolbyVision</Position>
+      <TranslationSet>
+        <base loc="en">Dolby Vision</base>
+        <tran loc="ar">‏Dolby Vision</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CableCheckSameModeInitialTryButtonTitle</Position>
+      <TranslationSet>
+        <base loc="en">Check Cable</base>
+        <tran loc="ar">تحقق من الكبل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CableCheckCanSeeHeaderFormat</Position>
+      <TranslationSet>
+        <base loc="en">We switched your TV to %@.</base>
+        <tran loc="ar">تم تبديل تلفازك إلى %@.</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+</Proj>

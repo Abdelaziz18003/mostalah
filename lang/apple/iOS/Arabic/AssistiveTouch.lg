@@ -1,0 +1,2877 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Proj>
+  <ProjName>AssistiveTouch</ProjName>
+  <File>
+    <Filepath>AssistiveTouch/System/Library/CoreServices/AssistiveTouch.app/en.lproj/InfoPlist.strings</Filepath>
+    <TextItem>
+      <Description> 
+  InfoPlist.strings
+  AssistiveTouch
+
+  Created by Chris Fleizach on 6/20/18.
+  
+</Description>
+      <Position>CFBundleDisplayName</Position>
+      <TranslationSet>
+        <base loc="en">AssistiveTouch</base>
+        <tran loc="ar">AssistiveTouch</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>AssistiveTouch/System/Library/CoreServices/AssistiveTouch.app/en.lproj/LocalizedStrings-b288.strings</Filepath>
+    <TextItem>
+      <Description> 
+  LocalizedStrings-b288.strings
+  AssistiveTouch
+
+  Created by Conor Hughes on 1/25/18.
+  
+</Description>
+      <Position>TOGGLE_EARBUD_SWITCH_OFF</Position>
+      <TranslationSet>
+        <base loc="en">Disable AirPod Switch</base>
+        <tran loc="ar">تعطيل مفتاح AirPod</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>TOGGLE_EARBUD_SWITCH_ON</Position>
+      <TranslationSet>
+        <base loc="en">Enable AirPod Switch</base>
+        <tran loc="ar">تمكين مفتاح AirPod</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>AssistiveTouch/System/Library/CoreServices/AssistiveTouch.app/en.lproj/LocalizedStrings.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>MediaControls-NextTrack</Position>
+      <TranslationSet>
+        <base loc="en">Next Chapter</base>
+        <tran loc="ar">الفصل التالي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> used with Stop, i.e. "Stop Rotating"</Description>
+      <Position>FREEHAND_ROTATING</Position>
+      <TranslationSet>
+        <base loc="en">Rotating</base>
+        <tran loc="ar">دوران</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Remote-Exit</Position>
+      <TranslationSet>
+        <base loc="en">Exit Remote</base>
+        <tran loc="ar">الخروج من جهاز التحكم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CONFIRM_DRAG</Position>
+      <TranslationSet>
+        <base loc="en">Drag</base>
+        <tran loc="ar">سحب</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DRAG_AND_DROP</Position>
+      <TranslationSet>
+        <base loc="en">Drag</base>
+        <tran loc="ar">سحب</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>MOUSE_PRIMARY_CLICK</Position>
+      <TranslationSet>
+        <base loc="en">Single-Tap</base>
+        <tran loc="ar">ضغطة واحدة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> SCAT Freehand</Description>
+      <Position>FREEHAND_PATH</Position>
+      <TranslationSet>
+        <base loc="en">Path</base>
+        <tran loc="ar">المسار</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SOS</Position>
+      <TranslationSet>
+        <base loc="en">SOS</base>
+        <tran loc="ar">طوارئ SOS</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SOS_FULL_WIDTH</Position>
+      <TranslationSet>
+        <base loc="en">SOS</base>
+        <tran loc="ar">طوارئ SOS</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>EDIT_DISABLE_SELECT</Position>
+      <TranslationSet>
+        <base loc="en">Disable\nSelection</base>
+        <tran loc="ar">تعطيل\nالاختيار</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Scroll-Up</Position>
+      <TranslationSet>
+        <base loc="en">Scroll Up</base>
+        <tran loc="ar">تمرير لأعلى.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>MediaControls-SkipForward</Position>
+      <TranslationSet>
+        <base loc="en">Seek Frame Forward</base>
+        <tran loc="ar">إطار واحد للأمام</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DRAWING</Position>
+      <TranslationSet>
+        <base loc="en">Freehand</base>
+        <tran loc="ar">يدوي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DrawingGesture</Position>
+      <TranslationSet>
+        <base loc="en">Freehand</base>
+        <tran loc="ar">يدوي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> SCAT Gesture Name Keys
+ Beware of removing any of these that have landed in a shipping product,
+ since users may have the string saved in their favorite/recent gestures</Description>
+      <Position>DOUBLE_TAP</Position>
+      <TranslationSet>
+        <base loc="en">Double Tap</base>
+        <tran loc="ar">ضغط مرتين</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DOUBLE_TAP_FULL_WIDTH</Position>
+      <TranslationSet>
+        <base loc="en">Double Tap</base>
+        <tran loc="ar">ضغط مرتين</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DELETE</Position>
+      <TranslationSet>
+        <base loc="en">Delete</base>
+        <tran loc="ar">حذف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> General</Description>
+      <Position>DEVICE</Position>
+      <TranslationSet>
+        <base loc="en">Device</base>
+        <tran loc="ar">الجهاز</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SCAT_QUICK_ITEM_DEVICE</Position>
+      <TranslationSet>
+        <base loc="en">Device</base>
+        <tran loc="ar">الجهاز</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SCREEN_INVALID</Position>
+      <TranslationSet>
+        <base loc="en">Triple-click the home button to stop Switch Control.</base>
+        <tran loc="ar">انقر ثلاث مرات على زر الشاشة الرئيسية لإيقاف "التحكم بالتبديل".</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CANCEL_DRAG</Position>
+      <TranslationSet>
+        <base loc="en">Cancel Drag</base>
+        <tran loc="ar">إلغاء السحب</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>KEYBOARD</Position>
+      <TranslationSet>
+        <base loc="en">Keyboard</base>
+        <tran loc="ar">لوحة المفاتيح</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>element.mixed.state</Position>
+      <TranslationSet>
+        <base loc="en">Mixed</base>
+        <tran loc="ar">مختلط</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>TAP</Position>
+      <TranslationSet>
+        <base loc="en">Tap</base>
+        <tran loc="ar">الضغط</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> This version shows up in the Switch Control menu so that it hyphenates at a nicer location </Description>
+      <Position>SIDE_APP_MENU_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Multi-\ntasking</base>
+        <tran loc="ar">تعدد\nالمهام</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>MediaControls-PlayPause</Position>
+      <TranslationSet>
+        <base loc="en">Play / Pause</base>
+        <tran loc="ar">تشغيل / إيقاف مؤقت</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>VOICE_CONTROL</Position>
+      <TranslationSet>
+        <base loc="en">Classic Voice Control</base>
+        <tran loc="ar">التحكم الكلاسيكي بالصوت</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>VOLUME_DOWN_ASSISTIVE_TOUCH_FULL_WIDTH</Position>
+      <TranslationSet>
+        <base loc="en">Volume Down</base>
+        <tran loc="ar">خفض مستوى الصوت</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>FREEHAND_MOVE_MENU</Position>
+      <TranslationSet>
+        <base loc="en">Move Menu</base>
+        <tran loc="ar">نقل القائمة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>FREEHAND_BEND_LEFT_TWO_LINES</Position>
+      <TranslationSet>
+        <base loc="en">Bend\nLeft</base>
+        <tran loc="ar">الانحناء\nلليسار</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CAMERA_NONE</Position>
+      <TranslationSet>
+        <base loc="en">Cannot detect your face.</base>
+        <tran loc="ar">تعذر معرفة وجهك.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>element.heading</Position>
+      <TranslationSet>
+        <base loc="en">Heading</base>
+        <tran loc="ar">عنوان</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PASS_THROUGH</Position>
+      <TranslationSet>
+        <base loc="en">Pass Through to App</base>
+        <tran loc="ar">تمرير إلى التطبيق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>MEDIA_CONTROLS</Position>
+      <TranslationSet>
+        <base loc="en">Media Controls</base>
+        <tran loc="ar">عناصر التحكم في الوسائط</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Dwell Control</Description>
+      <Position>DWELL</Position>
+      <TranslationSet>
+        <base loc="en">Dwell</base>
+        <tran loc="ar">المكوث</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Spoken By VoiceOver</Description>
+      <Position>GesturePerformArea</Position>
+      <TranslationSet>
+        <base loc="en">Gesture control</base>
+        <tran loc="ar">تحكم الإيماءات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DWELL_UNLOCK_FULL_WIDTH</Position>
+      <TranslationSet>
+        <base loc="en">Enable Fallback</base>
+        <tran loc="ar">تمكين التراجع</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>EXIT</Position>
+      <TranslationSet>
+        <base loc="en">Done</base>
+        <tran loc="ar">تم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DECREMENT</Position>
+      <TranslationSet>
+        <base loc="en">Decrement</base>
+        <tran loc="ar">إنقاص</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> The FULL_WIDTH versions are used in when we have enough width to not have to wrap. Generally in preferences.  The other versions are used in the AssistiveTouch UI
+ Many of these are also used in Switch Control</Description>
+      <Position>NOTIFICATION_CENTER</Position>
+      <TranslationSet>
+        <base loc="en">Notifications</base>
+        <tran loc="ar">الإشعارات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>NOTIFICATION_CENTER_FULL_WIDTH</Position>
+      <TranslationSet>
+        <base loc="en">Notifications</base>
+        <tran loc="ar">الإشعارات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>FREEHAND_ROTATE_TWO_LINES</Position>
+      <TranslationSet>
+        <base loc="en">Rotate\nPath</base>
+        <tran loc="ar">تدوير\nالمسار</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>FREEHAND_MOVE_TWO_LINES</Position>
+      <TranslationSet>
+        <base loc="en">Move\nCursor</base>
+        <tran loc="ar">تحريك\nالمؤشر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>GROUP</Position>
+      <TranslationSet>
+        <base loc="en">Group</base>
+        <tran loc="ar">المجموعة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DWELL_PAUSE</Position>
+      <TranslationSet>
+        <base loc="en">Pause\nDwell</base>
+        <tran loc="ar">إيقاف\nالمكوث مؤقتًا</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Settings-Speed-Up</Position>
+      <TranslationSet>
+        <base loc="en">Speed\nUp</base>
+        <tran loc="ar">أسرع</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AUTOSCROLL</Position>
+      <TranslationSet>
+        <base loc="en">Autoscroll</base>
+        <tran loc="ar">تمرير تلقائي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>FREEHAND_ROTATE_CW_ONE_LINE</Position>
+      <TranslationSet>
+        <base loc="en">CW</base>
+        <tran loc="ar">CW</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>FLICK_RIGHT</Position>
+      <TranslationSet>
+        <base loc="en">Flick Right</base>
+        <tran loc="ar">تحريك لليمين</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DECREASE_ZOOM</Position>
+      <TranslationSet>
+        <base loc="en">Decrease\nZoom</base>
+        <tran loc="ar">خفض\nالتكبير</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Position-Bottom-Right</Position>
+      <TranslationSet>
+        <base loc="en">Bottom Right</base>
+        <tran loc="ar">أسفل اليمين</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Rotate 90 degrees</Description>
+      <Position>FREEHAND_ROTATE_90_CW_SPOKEN</Position>
+      <TranslationSet>
+        <base loc="en">Rotate %@ Degrees Clockwise</base>
+        <tran loc="ar">تدوير %@ درجة باتجاه عقارب الساعة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Settings-Slow-Down</Position>
+      <TranslationSet>
+        <base loc="en">Slow\nDown</base>
+        <tran loc="ar">ببطئ</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>GESTURES</Position>
+      <TranslationSet>
+        <base loc="en">Gestures</base>
+        <tran loc="ar">الإيماءات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SCAT_QUICK_ITEM_GESTURES</Position>
+      <TranslationSet>
+        <base loc="en">Gestures</base>
+        <tran loc="ar">الإيماءات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>element.image</Position>
+      <TranslationSet>
+        <base loc="en">Image</base>
+        <tran loc="ar">صورة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>EDIT_SELECT_WORD</Position>
+      <TranslationSet>
+        <base loc="en">Select Word</base>
+        <tran loc="ar">تحديد
+الكلمة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CONTROL_CENTER</Position>
+      <TranslationSet>
+        <base loc="en">Control\nCenter</base>
+        <tran loc="ar">مركز\nالتحكم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Device-Control-Center</Position>
+      <TranslationSet>
+        <base loc="en">Control\nCenter</base>
+        <tran loc="ar">مركز\nالتحكم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>MUTE</Position>
+      <TranslationSet>
+        <base loc="en">Mute</base>
+        <tran loc="ar">كتم الصوت</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PIN_APP_RIGHT</Position>
+      <TranslationSet>
+        <base loc="en">Pin New App\non Right</base>
+        <tran loc="ar">تثبيت التطبيق الجديد \nعلى اليمين</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SEARCHING</Position>
+      <TranslationSet>
+        <base loc="en">Searching…</base>
+        <tran loc="ar">جاري البحث…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ORIENTATION_FULL_WIDTH</Position>
+      <TranslationSet>
+        <base loc="en">Rotate Screen</base>
+        <tran loc="ar">تدوير الشاشة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CustomGesturesMenu</Position>
+      <TranslationSet>
+        <base loc="en">Saved</base>
+        <tran loc="ar">تم الحفظ</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ADD_RECENT</Position>
+      <TranslationSet>
+        <base loc="en">Add\nRecent</base>
+        <tran loc="ar">إضافة\nالأحدث</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CHOOSE_FLICK_END_POINT</Position>
+      <TranslationSet>
+        <base loc="en">Select the place where the flick will end.</base>
+        <tran loc="ar">حدد المكان الذي سينتهي فيه الفرك.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>POTENTIAL_SLAVE_MESSAGE_FORMAT</Position>
+      <TranslationSet>
+        <base loc="en">Ready to be controlled by %@.</base>
+        <tran loc="ar">جاهز للخضوع لتحكم %@.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> used with Stop, i.e. "Stop Moving"</Description>
+      <Position>FREEHAND_MOVING</Position>
+      <TranslationSet>
+        <base loc="en">Moving</base>
+        <tran loc="ar">تحريك</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Remote-VolumeDown</Position>
+      <TranslationSet>
+        <base loc="en">Decrease Volume</base>
+        <tran loc="ar">خفض مستوى الصوت</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>VOLUME_DOWN_FULL_WIDTH</Position>
+      <TranslationSet>
+        <base loc="en">Decrease Volume</base>
+        <tran loc="ar">خفض مستوى الصوت</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Scroll-Down</Position>
+      <TranslationSet>
+        <base loc="en">Scroll Down</base>
+        <tran loc="ar">تمرير لأسفل.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>FREEHAND_ROTATE_CCW_TWO_LINES</Position>
+      <TranslationSet>
+        <base loc="en">Rotate\nCCW</base>
+        <tran loc="ar">تدوير\nعكس اتجاه عقارب الساعة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Scroll-Auto</Position>
+      <TranslationSet>
+        <base loc="en">Auto</base>
+        <tran loc="ar">تلقائي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> e.g. Stop Moving</Description>
+      <Position>FREEHAND_STOP_TWO_LINES</Position>
+      <TranslationSet>
+        <base loc="en">Stop\n%@</base>
+        <tran loc="ar">إيقاف\n‏%@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>START_DICTATION</Position>
+      <TranslationSet>
+        <base loc="en">Start\nDictation</base>
+        <tran loc="ar">بدء\nالإملاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>EDIT_SELECT_NONE</Position>
+      <TranslationSet>
+        <base loc="en">Select None</base>
+        <tran loc="ar">عدم تحديد أي عناصر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>MediaControls-Rewind</Position>
+      <TranslationSet>
+        <base loc="en">Rewind</base>
+        <tran loc="ar">إرجاع</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ESCAPE</Position>
+      <TranslationSet>
+        <base loc="en">Escape</base>
+        <tran loc="ar">هروب</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>FREEHAND_BEND_RIGHT_ONE_LINE</Position>
+      <TranslationSet>
+        <base loc="en">Bend Right</base>
+        <tran loc="ar">الانحناء لليمين</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>FREEHAND_STRAIGHT_ONE_LINE</Position>
+      <TranslationSet>
+        <base loc="en">Straight</base>
+        <tran loc="ar">مستقيم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>APPLE_PAY</Position>
+      <TranslationSet>
+        <base loc="en">Pay</base>
+        <tran loc="ar">‪‬Pay</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>APPLE_PAY_FULL_WIDTH</Position>
+      <TranslationSet>
+        <base loc="en">Pay</base>
+        <tran loc="ar">‪‬Pay</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>MediaControls-FastForward</Position>
+      <TranslationSet>
+        <base loc="en">Forward</base>
+        <tran loc="ar">تقديم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>REFINE-SELECTION</Position>
+      <TranslationSet>
+        <base loc="en">Refine Selection</base>
+        <tran loc="ar">تنقيح التحديد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DISMISS_AUTOCORRECTION</Position>
+      <TranslationSet>
+        <base loc="en">Dismiss Correction</base>
+        <tran loc="ar">استبعاد التصحيح</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>FREEHAND_AUTO_LIFT_STATE</Position>
+      <TranslationSet>
+        <base loc="en">Auto Lift:\n%@</base>
+        <tran loc="ar">رفع تلقائي:\n%@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DWELL_PAUSE_FULL_WIDTH</Position>
+      <TranslationSet>
+        <base loc="en">Pause Dwell</base>
+        <tran loc="ar">إيقاف المكوث مؤقتًا</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Position-Bottom</Position>
+      <TranslationSet>
+        <base loc="en">Bottom</base>
+        <tran loc="ar">أسفل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> e.g 'Airplane Mode through Do Not Disturb'</Description>
+      <Position>GROUP_DESCRIPTION</Position>
+      <TranslationSet>
+        <base loc="en">%1$@ through %2$@</base>
+        <tran loc="ar">من %1$@ إلى %2$@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SPOTLIGHT_SEARCH</Position>
+      <TranslationSet>
+        <base loc="en">Spotlight Search</base>
+        <tran loc="ar">بحث Spotlight</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ORIENTATION</Position>
+      <TranslationSet>
+        <base loc="en">Rotate\nScreen</base>
+        <tran loc="ar">تدوير\nالشاشة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ORIENTATION-LANDSCAPE-LEFT</Position>
+      <TranslationSet>
+        <base loc="en">Left</base>
+        <tran loc="ar">يسار</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Position-Left</Position>
+      <TranslationSet>
+        <base loc="en">Left</base>
+        <tran loc="ar">يسار</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Remote-Left</Position>
+      <TranslationSet>
+        <base loc="en">Left</base>
+        <tran loc="ar">يسار</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>FREEHAND_STRAIGHT_TWO_LINES</Position>
+      <TranslationSet>
+        <base loc="en">Straight\nPath</base>
+        <tran loc="ar">مسار\nمستقيم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>element.button</Position>
+      <TranslationSet>
+        <base loc="en">Button</base>
+        <tran loc="ar">زر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Keyboard</Description>
+      <Position>ALT_KEYS</Position>
+      <TranslationSet>
+        <base loc="en">Alt Keys</base>
+        <tran loc="ar">مفاتيح Alt</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>FREEHAND_MORE_ONE_LINE</Position>
+      <TranslationSet>
+        <base loc="en">More</base>
+        <tran loc="ar">المزيد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>MORE</Position>
+      <TranslationSet>
+        <base loc="en">More</base>
+        <tran loc="ar">المزيد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>FREEHAND_MORE_TWO_LINES</Position>
+      <TranslationSet>
+        <base loc="en">More\nOptions</base>
+        <tran loc="ar">المزيد من\nالخيارات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>EDIT</Position>
+      <TranslationSet>
+        <base loc="en">Edit</base>
+        <tran loc="ar">تحرير</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>REBOOT_DEVICE</Position>
+      <TranslationSet>
+        <base loc="en">Restart</base>
+        <tran loc="ar">إعادة التشغيل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>REBOOT_DEVICE_FULL_WIDTH</Position>
+      <TranslationSet>
+        <base loc="en">Restart</base>
+        <tran loc="ar">إعادة التشغيل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>VOLUME_UP</Position>
+      <TranslationSet>
+        <base loc="en">Increase\nVolume</base>
+        <tran loc="ar">زيادة\nمستوى الصوت</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ROTATE_CLOCKWISE</Position>
+      <TranslationSet>
+        <base loc="en">Rotate CW</base>
+        <tran loc="ar">تدوير باتجاه عقارب الساعة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Dock actions</Description>
+      <Position>PIN_APP_LEFT</Position>
+      <TranslationSet>
+        <base loc="en">Pin New App\non Left</base>
+        <tran loc="ar">تثبيت التطبيق الجديد \nعلى اليسار</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CHOOSE_SCROLL_VIEW</Position>
+      <TranslationSet>
+        <base loc="en">Choose where to scroll.</base>
+        <tran loc="ar">اختر مكان التمرير.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>VOLUME_UP_ASSISTIVE_TOUCH</Position>
+      <TranslationSet>
+        <base loc="en">Volume\nUp</base>
+        <tran loc="ar">رفع\nمستوى الصوت</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>EDIT_FORWARD_CHAR</Position>
+      <TranslationSet>
+        <base loc="en">Next\nCharacter</base>
+        <tran loc="ar">الحرف\nالتالي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>FLICK_LEFT</Position>
+      <TranslationSet>
+        <base loc="en">Flick Left</base>
+        <tran loc="ar">تحريك لليسار</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Common Alert Strings</Description>
+      <Position>ALERT_CANCEL</Position>
+      <TranslationSet>
+        <base loc="en">Cancel</base>
+        <tran loc="ar">إلغاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CANCEL_LINE_GESTURE</Position>
+      <TranslationSet>
+        <base loc="en">Cancel</base>
+        <tran loc="ar">إلغاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Settings-Sound-On</Position>
+      <TranslationSet>
+        <base loc="en">Sound\nOn</base>
+        <tran loc="ar">تشغيل\nالصوت</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> SCAT Menu</Description>
+      <Position>CHOOSE_CANDIDATE</Position>
+      <TranslationSet>
+        <base loc="en">Choose Candidate</base>
+        <tran loc="ar">اختر مرشحًا</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SCROLL_TO_BOTTOM</Position>
+      <TranslationSet>
+        <base loc="en">Scroll to\nBottom</base>
+        <tran loc="ar">تمرير للجزء\nالسفلي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>HOME</Position>
+      <TranslationSet>
+        <base loc="en">Home</base>
+        <tran loc="ar">الشاشة الرئيسية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>HOME_FULL_WIDTH</Position>
+      <TranslationSet>
+        <base loc="en">Home</base>
+        <tran loc="ar">الشاشة الرئيسية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Remote-Home</Position>
+      <TranslationSet>
+        <base loc="en">Home</base>
+        <tran loc="ar">الشاشة الرئيسية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SCAT_QUICK_ITEM_HOME</Position>
+      <TranslationSet>
+        <base loc="en">Home</base>
+        <tran loc="ar">الشاشة الرئيسية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PAN_DOWN</Position>
+      <TranslationSet>
+        <base loc="en">Pan Down</base>
+        <tran loc="ar">قص للأسفل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>FLOAT_APP</Position>
+      <TranslationSet>
+        <base loc="en">Open New App\nwith Slide Over</base>
+        <tran loc="ar">فتح التطبيق الجديد\nباستخدام Slide Over</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>FREEHAND_ROTATE_90_CCW</Position>
+      <TranslationSet>
+        <base loc="en">%@° Rotate\nCCW</base>
+        <tran loc="ar">تدوير %@°\nعكس اتجاه عقارب الساعة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>EDIT-PASTE</Position>
+      <TranslationSet>
+        <base loc="en">Paste</base>
+        <tran loc="ar">لصق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>FLICK_ARBITRARY</Position>
+      <TranslationSet>
+        <base loc="en">Custom Flick</base>
+        <tran loc="ar">تحريك مخصص</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>MediaControls-Play</Position>
+      <TranslationSet>
+        <base loc="en">Play</base>
+        <tran loc="ar">تشغيل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Remote-Play</Position>
+      <TranslationSet>
+        <base loc="en">Play</base>
+        <tran loc="ar">تشغيل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CONNECTED_TO_SLAVE_FORMAT</Position>
+      <TranslationSet>
+        <base loc="en">Now controlling %@. Press switch for 10 seconds to cancel.</base>
+        <tran loc="ar">يتم حاليًا التحكم في %@. اضغط على عنصر التحكم البديل لمدة ١٠ ثوانٍ للإلغاء.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PAN_UP</Position>
+      <TranslationSet>
+        <base loc="en">Pan Up</base>
+        <tran loc="ar">قص للأعلى</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>MadeForIphone_HardwareSwitch_Select</Position>
+      <TranslationSet>
+        <base loc="en">Select</base>
+        <tran loc="ar">تحديد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Remote-Select</Position>
+      <TranslationSet>
+        <base loc="en">Select</base>
+        <tran loc="ar">تحديد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>TRIPLE_CLICK_FULL_WIDTH</Position>
+      <TranslationSet>
+        <base loc="en">Accessibility Shortcut</base>
+        <tran loc="ar">اختصار تسهيلات الاستخدام</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>EDIT_SHOW_CALLOUT_BAR</Position>
+      <TranslationSet>
+        <base loc="en">Show Edit Bar</base>
+        <tran loc="ar">إظهار
+شريط التحرير</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Settings-Grouping-On</Position>
+      <TranslationSet>
+        <base loc="en">Groups\nOn</base>
+        <tran loc="ar">تشغيل\nالمجموعات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ACTIVATE</Position>
+      <TranslationSet>
+        <base loc="en">Activate</base>
+        <tran loc="ar">تنشيط</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DWELL_LOCK</Position>
+      <TranslationSet>
+        <base loc="en">Disable\nFallback</base>
+        <tran loc="ar">إيقاف التراجع</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Position-Top-Left</Position>
+      <TranslationSet>
+        <base loc="en">Top Left</base>
+        <tran loc="ar">أعلى اليسار</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DWELL_LOCK_FULL_WIDTH</Position>
+      <TranslationSet>
+        <base loc="en">Disable Fallback</base>
+        <tran loc="ar">إيقاف التراجع</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>FREEHAND_BEND_TWO_LINES</Position>
+      <TranslationSet>
+        <base loc="en">Bend\nPath</base>
+        <tran loc="ar">مسار\nمنحني</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ORIENTATION-PORTRAIT</Position>
+      <TranslationSet>
+        <base loc="en">Portrait</base>
+        <tran loc="ar">رأسي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DWELL_PAUSE_TOGGLE_FULL_WIDTH</Position>
+      <TranslationSet>
+        <base loc="en">Toggle Pause/Resume Dwell</base>
+        <tran loc="ar">تبديل الإيقاف المؤقت/الاستئناف للمكوث</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PAN_RIGHT</Position>
+      <TranslationSet>
+        <base loc="en">Pan Right</base>
+        <tran loc="ar">تحريك لليمين</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Settings-Sound-Off</Position>
+      <TranslationSet>
+        <base loc="en">Sound\nOff</base>
+        <tran loc="ar">إيقاف\nالصوت</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CONFIRM_FLICK</Position>
+      <TranslationSet>
+        <base loc="en">Flick</base>
+        <tran loc="ar">تحريك</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>FlickMenu</Position>
+      <TranslationSet>
+        <base loc="en">Flick</base>
+        <tran loc="ar">تحريك</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SCROLL_TO_TOP_FULL_WIDTH</Position>
+      <TranslationSet>
+        <base loc="en">Scroll to Top</base>
+        <tran loc="ar">تمرير للجزء العلوي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> SCAT Input</Description>
+      <Position>CAMERA_FACE_NOT_FOUND</Position>
+      <TranslationSet>
+        <base loc="en">Cannot locate your face.</base>
+        <tran loc="ar">تعذر تحديد وجهك.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Position-Top-Right</Position>
+      <TranslationSet>
+        <base loc="en">Top Right</base>
+        <tran loc="ar">أعلى اليمين</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SCROLL</Position>
+      <TranslationSet>
+        <base loc="en">Scroll</base>
+        <tran loc="ar">تمرير</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>LONG_PRESS</Position>
+      <TranslationSet>
+        <base loc="en">Long Press</base>
+        <tran loc="ar">ضغط مطول</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>VOLUME_DOWN</Position>
+      <TranslationSet>
+        <base loc="en">Decrease\nVolume</base>
+        <tran loc="ar">خفض\nمستوى الصوت</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CAMERA_FACE_TOO_FAR</Position>
+      <TranslationSet>
+        <base loc="en">Your face is too far away.</base>
+        <tran loc="ar">وجهك بعيد جدًا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Position-Bottom-Left</Position>
+      <TranslationSet>
+        <base loc="en">Bottom Left</base>
+        <tran loc="ar">أسفل اليسار</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> e.g. Touch: ON</Description>
+      <Position>FREEHAND_TOUCH_STATE_ONE_LINE</Position>
+      <TranslationSet>
+        <base loc="en">Touch: %@</base>
+        <tran loc="ar">اللمس: %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>FLICK_UP</Position>
+      <TranslationSet>
+        <base loc="en">Flick Up</base>
+        <tran loc="ar">تحريك للأعلى</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PINCH</Position>
+      <TranslationSet>
+        <base loc="en">Pinch</base>
+        <tran loc="ar">مقاربة بإصبعين</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PinchMenu</Position>
+      <TranslationSet>
+        <base loc="en">Pinch</base>
+        <tran loc="ar">مقاربة بإصبعين</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description>e.g. Row 1, Row 2</Description>
+      <Position>MENU_GROUP_ROW</Position>
+      <TranslationSet>
+        <base loc="en">Row %@</base>
+        <tran loc="ar">صف %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Settings-First</Position>
+      <TranslationSet>
+        <base loc="en">First</base>
+        <tran loc="ar">الأول</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> SCAT Gestures</Description>
+      <Position>DrawingAutoLift</Position>
+      <TranslationSet>
+        <base loc="en">Auto Lift</base>
+        <tran loc="ar">رفع تلقائي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Remote-Up</Position>
+      <TranslationSet>
+        <base loc="en">Up</base>
+        <tran loc="ar">أعلى</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Remote-NavigationGroup</Position>
+      <TranslationSet>
+        <base loc="en">Navigation</base>
+        <tran loc="ar">التنقل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>INCREMENT</Position>
+      <TranslationSet>
+        <base loc="en">Increment</base>
+        <tran loc="ar">زيادة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Settings-Scan-By-Elements</Position>
+      <TranslationSet>
+        <base loc="en">Item\nMode</base>
+        <tran loc="ar">نمط\nالعنصر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Device-Notification-Center</Position>
+      <TranslationSet>
+        <base loc="en">Older Notifications</base>
+        <tran loc="ar">الإشعارات القديمة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ENTERED_GLIDING_CURSOR_MODE</Position>
+      <TranslationSet>
+        <base loc="en">Gliding Cursor</base>
+        <tran loc="ar">مؤشر منزلق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Settings-Scan-By-Point</Position>
+      <TranslationSet>
+        <base loc="en">Gliding Cursor</base>
+        <tran loc="ar">مؤشر منزلق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DrawingLift</Position>
+      <TranslationSet>
+        <base loc="en">Lift</base>
+        <tran loc="ar">رفع</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PINCH_IN</Position>
+      <TranslationSet>
+        <base loc="en">Pinch In</base>
+        <tran loc="ar">مقاربة بإصبعين</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Settings-Speech-On</Position>
+      <TranslationSet>
+        <base loc="en">Speech\nOn</base>
+        <tran loc="ar">تشغيل\nالتكلم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>FREEHAND_STRAIGHTEN_ONE_LINE</Position>
+      <TranslationSet>
+        <base loc="en">Straighten</base>
+        <tran loc="ar">تسوية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Because of left-right, or top-bottom scroll views, 'beginning' makes sense</Description>
+      <Position>SCROLL_TOP</Position>
+      <TranslationSet>
+        <base loc="en">Beginning</base>
+        <tran loc="ar">البداية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DWELL_LOCK_TOGGLE</Position>
+      <TranslationSet>
+        <base loc="en">Enable/Disable Fallback</base>
+        <tran loc="ar">إيقاف/تمكين التراجع</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>FREEHAND_BEND_ONE_LINE</Position>
+      <TranslationSet>
+        <base loc="en">Bend</base>
+        <tran loc="ar">الانحناء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SPEAK_SCREEN</Position>
+      <TranslationSet>
+        <base loc="en">Speak Screen</base>
+        <tran loc="ar">نطق الشاشة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 90°</Description>
+      <Position>DrawingRotate90</Position>
+      <TranslationSet>
+        <base loc="en">%@°</base>
+        <tran loc="ar">°%@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>VOLUME_DOWN_ASSISTIVE_TOUCH</Position>
+      <TranslationSet>
+        <base loc="en">Volume\nDown</base>
+        <tran loc="ar">خفض\nمستوى الصوت</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>EDIT_ENABLE_SELECT</Position>
+      <TranslationSet>
+        <base loc="en">Enable\nSelection</base>
+        <tran loc="ar">تمكين\nالاختيار</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>EDIT_FORWARD_LINE</Position>
+      <TranslationSet>
+        <base loc="en">Next Line</base>
+        <tran loc="ar">السطر التالي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>EDIT_BACKWARD_LINE</Position>
+      <TranslationSet>
+        <base loc="en">Previous Line</base>
+        <tran loc="ar">السطر السابق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SCREEN_INVALID_NHB</Position>
+      <TranslationSet>
+        <base loc="en">Triple-click the side button to stop Switch Control.</base>
+        <tran loc="ar">اضغط ثلاث مرات على الزر الجانبي لإيقاف "التحكم بالتبديل".</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>FREEHAND_ROTATE_CCW_SPOKEN</Position>
+      <TranslationSet>
+        <base loc="en">Rotate Counterclockwise</base>
+        <tran loc="ar">تدوير في عكس اتجاه عقارب الساعة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>REDO_LINE_GESTURE</Position>
+      <TranslationSet>
+        <base loc="en">Redo</base>
+        <tran loc="ar">إعادة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SIRI_SHORTCUTS</Position>
+      <TranslationSet>
+        <base loc="en">Shortcuts</base>
+        <tran loc="ar">الاختصارات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>BACK</Position>
+      <TranslationSet>
+        <base loc="en">Back</base>
+        <tran loc="ar">السابق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>GoBackGroupHighlightLabel</Position>
+      <TranslationSet>
+        <base loc="en">Back</base>
+        <tran loc="ar">السابق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>back.button</Position>
+      <TranslationSet>
+        <base loc="en">Back</base>
+        <tran loc="ar">السابق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Settings-Speech-Off</Position>
+      <TranslationSet>
+        <base loc="en">Speech\nOff</base>
+        <tran loc="ar">إيقاف\nالتكلم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>EDIT_BACKWARD_CHAR</Position>
+      <TranslationSet>
+        <base loc="en">Previous\nCharacter</base>
+        <tran loc="ar">الحرف\nالسابق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> e.g. Touch: ON</Description>
+      <Position>FREEHAND_TOUCH_STATE_TWO_LINES</Position>
+      <TranslationSet>
+        <base loc="en">Touch:\n%@</base>
+        <tran loc="ar">اللمس:\n‏%@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Scroll-Previous</Position>
+      <TranslationSet>
+        <base loc="en">Previous Page</base>
+        <tran loc="ar">الصفحة السابقة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Scroll-Right</Position>
+      <TranslationSet>
+        <base loc="en">Scroll Right</base>
+        <tran loc="ar">تمرير لليمين</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Remote-Siri</Position>
+      <TranslationSet>
+        <base loc="en">Siri</base>
+        <tran loc="ar">Siri</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SCAT_QUICK_ITEM_SIRI</Position>
+      <TranslationSet>
+        <base loc="en">Siri</base>
+        <tran loc="ar">Siri</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SIRI</Position>
+      <TranslationSet>
+        <base loc="en">Siri</base>
+        <tran loc="ar">Siri</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>NextPageLabel_Spoken</Position>
+      <TranslationSet>
+        <base loc="en">Next Page</base>
+        <tran loc="ar">الصفحة التالية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Scroll-Next</Position>
+      <TranslationSet>
+        <base loc="en">Next Page</base>
+        <tran loc="ar">الصفحة التالية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>MediaControls-SkipBackward</Position>
+      <TranslationSet>
+        <base loc="en">Seek Frame Backward</base>
+        <tran loc="ar">إطار واحد للخلف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Medusa (Side Apps)</Description>
+      <Position>SIDE_APP</Position>
+      <TranslationSet>
+        <base loc="en">Multitasking</base>
+        <tran loc="ar">تعدد المهام</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>TRIPLE_CLICK</Position>
+      <TranslationSet>
+        <base loc="en">Accessibility\nShortcut</base>
+        <tran loc="ar">اختصار\nتسهيلات الاستخدام</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ORIENTATION_LOCKED_FULL_WIDTH</Position>
+      <TranslationSet>
+        <base loc="en">Lock Rotation</base>
+        <tran loc="ar">قفل التدوير</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>RESUME</Position>
+      <TranslationSet>
+        <base loc="en">Resume</base>
+        <tran loc="ar">استئناف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>FREEHAND_AUTO_PRESS_STATE</Position>
+      <TranslationSet>
+        <base loc="en">Auto Press:\n%@</base>
+        <tran loc="ar">ضغط تلقائي:\n%@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>REACHABILITY</Position>
+      <TranslationSet>
+        <base loc="en">Reachability</base>
+        <tran loc="ar">تسهيل الوصول</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PanMenu</Position>
+      <TranslationSet>
+        <base loc="en">Pan</base>
+        <tran loc="ar">جزء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>FREEHAND_ROTATE_CW_TWO_LINES</Position>
+      <TranslationSet>
+        <base loc="en">Rotate\nCW</base>
+        <tran loc="ar">تدوير\nباتجاه عقارب الساعة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CONTROL_CENTER_FULL_WIDTH</Position>
+      <TranslationSet>
+        <base loc="en">Control Center</base>
+        <tran loc="ar">مركز التحكم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Settings-Last</Position>
+      <TranslationSet>
+        <base loc="en">Last</base>
+        <tran loc="ar">الأخير</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>FREEHAND_BEND_RIGHT_TWO_LINES</Position>
+      <TranslationSet>
+        <base loc="en">Bend\nRight</base>
+        <tran loc="ar">الانحناء\nلليمين</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CUSTOM</Position>
+      <TranslationSet>
+        <base loc="en">Custom</base>
+        <tran loc="ar">مخصص</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>FREEHAND_ROTATE_ONE_LINE</Position>
+      <TranslationSet>
+        <base loc="en">Rotate</base>
+        <tran loc="ar">تدوير</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>FingersMenu</Position>
+      <TranslationSet>
+        <base loc="en">Fingers</base>
+        <tran loc="ar">أصابع</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> used to match the length of "New Gesture" and "Add Recent" for visual effect according to spec</Description>
+      <Position>BACK_TO_GESTURES</Position>
+      <TranslationSet>
+        <base loc="en">Back to Gestures</base>
+        <tran loc="ar">الرجوع للإيماءات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ORIENTATION-LANDSCAPE-RIGHT</Position>
+      <TranslationSet>
+        <base loc="en">Right</base>
+        <tran loc="ar">يمين</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Position-Right</Position>
+      <TranslationSet>
+        <base loc="en">Right</base>
+        <tran loc="ar">يمين</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Remote-Right</Position>
+      <TranslationSet>
+        <base loc="en">Right</base>
+        <tran loc="ar">يمين</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>FREEHAND_ROTATE_CW_SPOKEN</Position>
+      <TranslationSet>
+        <base loc="en">Rotate Clockwise</base>
+        <tran loc="ar">تدوير في اتجاه عقارب الساعة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> same as Back, but I think HI thought this would look better in some cases</Description>
+      <Position>FREEHAND_BACK_TWO_LINES</Position>
+      <TranslationSet>
+        <base loc="en">Back to Menu</base>
+        <tran loc="ar">الرجوع للقائمة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>EDIT-COPY</Position>
+      <TranslationSet>
+        <base loc="en">Copy</base>
+        <tran loc="ar">نسخ</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Recipes</Description>
+      <Position>RECIPE_ACTIVATED_FORMAT</Position>
+      <TranslationSet>
+        <base loc="en">Your switches are configured to use the “%@” recipe.</base>
+        <tran loc="ar">تم تكوين عناصر التحكم البديلة الخاصة بك بحيث تستخدم توليفة "%@".</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UNTITLED_DEVICE</Position>
+      <TranslationSet>
+        <base loc="en">Untitled</base>
+        <tran loc="ar">بلا عنوان</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ORIENTATION_UNLOCKED_FULL_WIDTH</Position>
+      <TranslationSet>
+        <base loc="en">Unlock Rotation</base>
+        <tran loc="ar">فتح قفل التدوير</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 90 Degree</Description>
+      <Position>FREEHAND_ROTATE_90</Position>
+      <TranslationSet>
+        <base loc="en">%@ Degree</base>
+        <tran loc="ar">‏%@ درجة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Remote-VolumeUp</Position>
+      <TranslationSet>
+        <base loc="en">Increase Volume</base>
+        <tran loc="ar">زيادة مستوى الصوت</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>VOLUME_UP_FULL_WIDTH</Position>
+      <TranslationSet>
+        <base loc="en">Increase Volume</base>
+        <tran loc="ar">زيادة مستوى الصوت</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Rotate 90 degrees</Description>
+      <Position>FREEHAND_ROTATE_90_CCW_SPOKEN</Position>
+      <TranslationSet>
+        <base loc="en">Rotate %@ Degrees Counterclockwise</base>
+        <tran loc="ar">تدوير %@ درجة عكس اتجاه عقارب الساعة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>EXIT_MENU</Position>
+      <TranslationSet>
+        <base loc="en">Exit Menu</base>
+        <tran loc="ar">خروج من القائمة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ORIENTATION-UPSIDE-DOWN</Position>
+      <TranslationSet>
+        <base loc="en">Upside Down</base>
+        <tran loc="ar">مقلوب للأسفل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DrawingAutoPress</Position>
+      <TranslationSet>
+        <base loc="en">Auto Press</base>
+        <tran loc="ar">ضغط تلقائي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>element.dimmed</Position>
+      <TranslationSet>
+        <base loc="en">Dimmed</base>
+        <tran loc="ar">معتم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SCREENSHOT</Position>
+      <TranslationSet>
+        <base loc="en">Screenshot</base>
+        <tran loc="ar">لقطة شاشة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SCREENSHOT_FULL_WIDTH</Position>
+      <TranslationSet>
+        <base loc="en">Screenshot</base>
+        <tran loc="ar">لقطة شاشة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>RECIPE_VALIDATION_FAILED_FORMAT</Position>
+      <TranslationSet>
+        <base loc="en">Failed to validate recipe “%@.” Verify that it is set up correctly in Settings.</base>
+        <tran loc="ar">فشل التحقق من التوليفة "%@". قم بالتحقق من صحة إعدادها في الإعدادات.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CONFIRM_HOLD_AND_DRAG</Position>
+      <TranslationSet>
+        <base loc="en">Hold and Drag</base>
+        <tran loc="ar">الضغط مطولًا والإفلات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>HOLD_AND_DRAG</Position>
+      <TranslationSet>
+        <base loc="en">Hold and Drag</base>
+        <tran loc="ar">الضغط مطولًا والإفلات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>FREEHAND_ROTATE_CCW_ONE_LINE</Position>
+      <TranslationSet>
+        <base loc="en">CCW</base>
+        <tran loc="ar">CCW</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CREATE_RECIPE_FROM_HOLD_POINT</Position>
+      <TranslationSet>
+        <base loc="en">Create for Hold</base>
+        <tran loc="ar">إنشاء للإمساك</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SCROLL_TO_TOP</Position>
+      <TranslationSet>
+        <base loc="en">Scroll to\nTop</base>
+        <tran loc="ar">تمرير للجزء\nالعلوي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Settings-Grouping-Off</Position>
+      <TranslationSet>
+        <base loc="en">Groups\nOff</base>
+        <tran loc="ar">إيقاف\nالمجموعات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DWELL_TIME_INCREASE</Position>
+      <TranslationSet>
+        <base loc="en">Increase Time</base>
+        <tran loc="ar">زيادة الوقت</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>TAP_AND_HOLD</Position>
+      <TranslationSet>
+        <base loc="en">Tap and Hold</base>
+        <tran loc="ar">اضغط ضغطًا مطولاً</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>STOP</Position>
+      <TranslationSet>
+        <base loc="en">Stop</base>
+        <tran loc="ar">إيقاف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>INCREASE_ZOOM</Position>
+      <TranslationSet>
+        <base loc="en">Increase\nZoom</base>
+        <tran loc="ar">زيادة\nالتكبير</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CHOOSE_DRAG_END_POINT</Position>
+      <TranslationSet>
+        <base loc="en">Select the destination for dragging.</base>
+        <tran loc="ar">حدد وجهة السحب.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CHOOSE_HOLD_AND_DRAG_END_POINT</Position>
+      <TranslationSet>
+        <base loc="en">Select the destination for dragging.</base>
+        <tran loc="ar">حدد وجهة السحب.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PERFORM_DROP</Position>
+      <TranslationSet>
+        <base loc="en">Perform Drop</base>
+        <tran loc="ar">تنفيذ الإسقاط</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SLOWER</Position>
+      <TranslationSet>
+        <base loc="en">Slower</base>
+        <tran loc="ar">أبطأ</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>FREEHAND_ROTATE_90_CW</Position>
+      <TranslationSet>
+        <base loc="en">%@° Rotate\nCW</base>
+        <tran loc="ar">تدوير %@°\nباتجاه عقارب الساعة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>HARDWARE_NONE</Position>
+      <TranslationSet>
+        <base loc="en">Unknown device error.</base>
+        <tran loc="ar">خطأ جهاز غير معروف.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>FREEHAND_MOVE_ONE_LINE</Position>
+      <TranslationSet>
+        <base loc="en">Move</base>
+        <tran loc="ar">نقل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>element.on.state</Position>
+      <TranslationSet>
+        <base loc="en">On</base>
+        <tran loc="ar">تشغيل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Remote-Title</Position>
+      <TranslationSet>
+        <base loc="en">Remote</base>
+        <tran loc="ar">جهاز التحكم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Settings-Scan-ATV-Remote</Position>
+      <TranslationSet>
+        <base loc="en">Remote</base>
+        <tran loc="ar">جهاز التحكم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DOCK_INSTRUCTIONS</Position>
+      <TranslationSet>
+        <base loc="en">Choose an app from the Dock.</base>
+        <tran loc="ar">اختر تطبيقًا من Dock.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Settings-Scan-By-Grid</Position>
+      <TranslationSet>
+        <base loc="en">Grid</base>
+        <tran loc="ar">شبكة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>LOCK_ITEM_SPECIFIC_MENU</Position>
+      <TranslationSet>
+        <base loc="en">Lock Item Menu</base>
+        <tran loc="ar">قفل قائمة العناصر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>COMMAND_AND_CONTROL</Position>
+      <TranslationSet>
+        <base loc="en">Voice Control</base>
+        <tran loc="ar">التحكم بالصوت</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>COMMAND_AND_CONTROL_FULL_WIDTH</Position>
+      <TranslationSet>
+        <base loc="en">Voice Control</base>
+        <tran loc="ar">التحكم بالصوت</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SCAT_QUICK_ITEM_VOICE_CONTROL</Position>
+      <TranslationSet>
+        <base loc="en">Voice Control</base>
+        <tran loc="ar">التحكم بالصوت</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>MediaControls-PreviousTrack</Position>
+      <TranslationSet>
+        <base loc="en">Previous Chapter</base>
+        <tran loc="ar">الفصل السابق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>RECIPE_DEACTIVATED</Position>
+      <TranslationSet>
+        <base loc="en">Your switches are configured to their default actions.</base>
+        <tran loc="ar">تم تكوين عناصر التحكم البديلة الخاصة بك على الإجراءات الافتراضية لها.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ITEM_SPECIFIC_MENU</Position>
+      <TranslationSet>
+        <base loc="en">Item Menu</base>
+        <tran loc="ar">قائمة العناصر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ENTERED_HEAD_TRACKING_MODE</Position>
+      <TranslationSet>
+        <base loc="en">Head Tracking</base>
+        <tran loc="ar">تتبع الرأس</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Settings-Scan-By-Head</Position>
+      <TranslationSet>
+        <base loc="en">Head Tracking</base>
+        <tran loc="ar">تتبع الرأس</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ADD_IN_SETTINGS</Position>
+      <TranslationSet>
+        <base loc="en">New\nGesture</base>
+        <tran loc="ar">إيماءة\nجديدة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Remote-Down</Position>
+      <TranslationSet>
+        <base loc="en">Down</base>
+        <tran loc="ar">أسفل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Position-Orig</Position>
+      <TranslationSet>
+        <base loc="en">Original</base>
+        <tran loc="ar">أصلي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>OPEN_MENU</Position>
+      <TranslationSet>
+        <base loc="en">Open Menu</base>
+        <tran loc="ar">فتح القائمة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>FREEHAND_OFF</Position>
+      <TranslationSet>
+        <base loc="en">OFF</base>
+        <tran loc="ar">إيقاف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>EDIT-SELECT-ALL</Position>
+      <TranslationSet>
+        <base loc="en">Select All</base>
+        <tran loc="ar">تحديد الكل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>LOCK_FULL_WIDTH</Position>
+      <TranslationSet>
+        <base loc="en">Lock Screen</base>
+        <tran loc="ar">شاشة القفل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Position-Top</Position>
+      <TranslationSet>
+        <base loc="en">Top</base>
+        <tran loc="ar">أعلى</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>TOP</Position>
+      <TranslationSet>
+        <base loc="en">Top</base>
+        <tran loc="ar">أعلى</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CREATE_RECIPE_FROM_POINT</Position>
+      <TranslationSet>
+        <base loc="en">Create for Tap</base>
+        <tran loc="ar">إنشاء للضغط</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Settings-Move</Position>
+      <TranslationSet>
+        <base loc="en">Move\nMenu</base>
+        <tran loc="ar">نقل\nالقائمة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>FREEHAND_BEND_LEFT_ONE_LINE</Position>
+      <TranslationSet>
+        <base loc="en">Bend Left</base>
+        <tran loc="ar">الانحناء لليسار</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>nubbit.hint</Position>
+      <TranslationSet>
+        <base loc="en">Double tap to open the menu</base>
+        <tran loc="ar">اضغط مرتين لفتح القائمة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>FLOAT_ERROR</Position>
+      <TranslationSet>
+        <base loc="en">Unable to open app with Slide Over.</base>
+        <tran loc="ar">غير قادر على فتح التطبيق باستخدام Slide Over.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>FASTER</Position>
+      <TranslationSet>
+        <base loc="en">Faster</base>
+        <tran loc="ar">أسرع</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>STOP_DICTATION</Position>
+      <TranslationSet>
+        <base loc="en">Stop\nDictation</base>
+        <tran loc="ar">إيقاف\nالإملاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>EDIT-CUT</Position>
+      <TranslationSet>
+        <base loc="en">Cut</base>
+        <tran loc="ar">قص</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ZOOM_IN</Position>
+      <TranslationSet>
+        <base loc="en">Zoom In</base>
+        <tran loc="ar">تكبير</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DrawingPress</Position>
+      <TranslationSet>
+        <base loc="en">Touch</base>
+        <tran loc="ar">اللمس</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>FREEHAND_TOUCH</Position>
+      <TranslationSet>
+        <base loc="en">Touch</base>
+        <tran loc="ar">اللمس</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SWITCH_CONTROL</Position>
+      <TranslationSet>
+        <base loc="en">Switch Control</base>
+        <tran loc="ar">التحكم بالتبديل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DISCONNECT_FROM_MASTER</Position>
+      <TranslationSet>
+        <base loc="en">Stop Using Device</base>
+        <tran loc="ar">توقف عن استخدام الجهاز</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PINCH_OUT</Position>
+      <TranslationSet>
+        <base loc="en">Pinch Out</base>
+        <tran loc="ar">مباعدة بإصبعين</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Settings-Scan-By-Axis</Position>
+      <TranslationSet>
+        <base loc="en">Axis</base>
+        <tran loc="ar">المحور</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UNLOCK_ITEM_SPECIFIC_MENU</Position>
+      <TranslationSet>
+        <base loc="en">Unlock Item Menu</base>
+        <tran loc="ar">فتح قفل قائمة العناصر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> used with Stop, i.e. "Stop Bending"</Description>
+      <Position>FREEHAND_BENDING</Position>
+      <TranslationSet>
+        <base loc="en">Bending</base>
+        <tran loc="ar">الانحناء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Scroll-Left</Position>
+      <TranslationSet>
+        <base loc="en">Scroll Left</base>
+        <tran loc="ar">تمرير لليسار</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>FingersFormat</Position>
+      <TranslationSet>
+        <base loc="en">Fingers (%@)</base>
+        <tran loc="ar">أصابع (%@)</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SIRI_SHORTCUTS_SETTINGS_NAME</Position>
+      <TranslationSet>
+        <base loc="en">Siri Shortcut: %@</base>
+        <tran loc="ar">اختصار Siri: %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>element.selected</Position>
+      <TranslationSet>
+        <base loc="en">Selected</base>
+        <tran loc="ar">مُحدد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DWELL_RESUME</Position>
+      <TranslationSet>
+        <base loc="en">Resume\nDwell</base>
+        <tran loc="ar">استئناف\nالمكوث</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SHAKE</Position>
+      <TranslationSet>
+        <base loc="en">Shake</base>
+        <tran loc="ar">هز</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>empty.favorite.gesture.button</Position>
+      <TranslationSet>
+        <base loc="en">Add custom gesture</base>
+        <tran loc="ar">إضافة إيماء مخصص</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DWELL_PAUSE_TOGGLE</Position>
+      <TranslationSet>
+        <base loc="en">Toggle\nPause/Resume Dwell</base>
+        <tran loc="ar">تبديل\nالإيقاف المؤقت/الاستئناف للمكوث</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Inter Device Communication</Description>
+      <Position>CONNECT_TO_SLAVE</Position>
+      <TranslationSet>
+        <base loc="en">Use Other Device</base>
+        <tran loc="ar">استخدام جهاز آخر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>HARDWARE_DEVICE_NOT_FOUND</Position>
+      <TranslationSet>
+        <base loc="en">External switch not found.</base>
+        <tran loc="ar">لم يتم العثور على عنصر تحكم بديل خارجي.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>element.link</Position>
+      <TranslationSet>
+        <base loc="en">Link</base>
+        <tran loc="ar">الرابط</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>FREEHAND_STRAIGHTEN_TWO_LINES</Position>
+      <TranslationSet>
+        <base loc="en">Straighten\nPath</base>
+        <tran loc="ar">قوّم\nالمسار</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>EXIT_GROUP</Position>
+      <TranslationSet>
+        <base loc="en">Exit Group</base>
+        <tran loc="ar">خروج من المجموعة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DOCK</Position>
+      <TranslationSet>
+        <base loc="en">Dock</base>
+        <tran loc="ar">‏Dock</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DOCK_FULL_WIDTH</Position>
+      <TranslationSet>
+        <base loc="en">Dock</base>
+        <tran loc="ar">‏Dock</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CONFIRM_CONTROL_DEVICE</Position>
+      <TranslationSet>
+        <base loc="en">Connect</base>
+        <tran loc="ar">اتصال</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>LOCK</Position>
+      <TranslationSet>
+        <base loc="en">Lock\nScreen</base>
+        <tran loc="ar">قفل\nالشاشة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ScrollUpDownContainer</Position>
+      <TranslationSet>
+        <base loc="en">Scroll Up / Down</base>
+        <tran loc="ar">تمرير لأعلى / لأسفل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PIN_ERROR</Position>
+      <TranslationSet>
+        <base loc="en">Unable to open app in Split View.</base>
+        <tran loc="ar">غير قادر على فتح التطبيق في Split View.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SPOTLIGHT</Position>
+      <TranslationSet>
+        <base loc="en">Spotlight</base>
+        <tran loc="ar">Spotlight</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ScrollLeftRightContainer</Position>
+      <TranslationSet>
+        <base loc="en">Scroll Left / Right</base>
+        <tran loc="ar">تمرير لليمين / لليسار</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DWELL_RESUME_FULL_WIDTH</Position>
+      <TranslationSet>
+        <base loc="en">Resume Dwell</base>
+        <tran loc="ar">استئناف المكوث</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ZOOM_OUT</Position>
+      <TranslationSet>
+        <base loc="en">Zoom Out</base>
+        <tran loc="ar">تصغير</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Remote-VolumeGroup</Position>
+      <TranslationSet>
+        <base loc="en">Volume</base>
+        <tran loc="ar">مستوى الصوت</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ORIENTATION_UNLOCKED</Position>
+      <TranslationSet>
+        <base loc="en">Unlock\nRotation</base>
+        <tran loc="ar">فتح قفل\nالتدوير</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SYSDIAGNOSE</Position>
+      <TranslationSet>
+        <base loc="en">Analytics</base>
+        <tran loc="ar">التحليلات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SYSDIAGNOSE_FULL_WIDTH</Position>
+      <TranslationSet>
+        <base loc="en">Analytics</base>
+        <tran loc="ar">التحليلات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>EDIT_FORWARD_WORD</Position>
+      <TranslationSet>
+        <base loc="en">Next Word</base>
+        <tran loc="ar">الكلمة التالية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>EDIT_BACKWARD_WORD</Position>
+      <TranslationSet>
+        <base loc="en">Previous Word</base>
+        <tran loc="ar">الكلمة السابقة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DROP_HERE</Position>
+      <TranslationSet>
+        <base loc="en">Drop Here</base>
+        <tran loc="ar">إسقاط هنا</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>TYPING_SHORTCUTS</Position>
+      <TranslationSet>
+        <base loc="en">Typing Shortcuts</base>
+        <tran loc="ar">اختصارات الكتابة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CAMERA_FACE_TOO_CLOSE</Position>
+      <TranslationSet>
+        <base loc="en">Your face is too close.</base>
+        <tran loc="ar">وجهك قريب جدًا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SCROLL_TO_BOTTOM_FULL_WIDTH</Position>
+      <TranslationSet>
+        <base loc="en">Scroll to Bottom</base>
+        <tran loc="ar">تمرير للجزء السفلي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ACTIONS</Position>
+      <TranslationSet>
+        <base loc="en">Actions</base>
+        <tran loc="ar">الإجراءات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Speech names for SCAT Menu quick items</Description>
+      <Position>SCAT_QUICK_ITEM_ELEMENT_ACTIONS</Position>
+      <TranslationSet>
+        <base loc="en">Actions</base>
+        <tran loc="ar">الإجراءات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ASSISTIVE_TOUCH</Position>
+      <TranslationSet>
+        <base loc="en">AssistiveTouch</base>
+        <tran loc="ar">AssistiveTouch</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SCAT_QUICK_ITEM_SETTINGS</Position>
+      <TranslationSet>
+        <base loc="en">Settings</base>
+        <tran loc="ar">الإعدادات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SETTINGS</Position>
+      <TranslationSet>
+        <base loc="en">Settings</base>
+        <tran loc="ar">الإعدادات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ALWAYS_TAP_MENU</Position>
+      <TranslationSet>
+        <base loc="en">Switch Control Menu</base>
+        <tran loc="ar">قائمة التحكم بالتبديل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>VOLUME_UP_ASSISTIVE_TOUCH_FULL_WIDTH</Position>
+      <TranslationSet>
+        <base loc="en">Volume Up</base>
+        <tran loc="ar">رفع مستوى الصوت</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DWELL_TIME_DECREASE</Position>
+      <TranslationSet>
+        <base loc="en">Decrease Time</base>
+        <tran loc="ar">تقليل الوقت</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>APP_SWITCHER</Position>
+      <TranslationSet>
+        <base loc="en">App Switcher</base>
+        <tran loc="ar">مُبدّل التطبيق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Device-App-Switcher</Position>
+      <TranslationSet>
+        <base loc="en">App Switcher</base>
+        <tran loc="ar">مُبدّل التطبيق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DISCONNECTED_FROM_SLAVE_FORMAT</Position>
+      <TranslationSet>
+        <base loc="en">No longer controlling %@.</base>
+        <tran loc="ar">لم يعد هناك تحكم في %@.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>RECIPES</Position>
+      <TranslationSet>
+        <base loc="en">Recipes</base>
+        <tran loc="ar">التوليفات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ROTATE_COUNTERCLOCKWISE</Position>
+      <TranslationSet>
+        <base loc="en">Rotate CCW</base>
+        <tran loc="ar">تدوير عكس اتجاه عقارب الساعة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>element.off.state</Position>
+      <TranslationSet>
+        <base loc="en">Off</base>
+        <tran loc="ar">إيقاف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>MENU</Position>
+      <TranslationSet>
+        <base loc="en">Menu</base>
+        <tran loc="ar">قائمة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Remote-Menu</Position>
+      <TranslationSet>
+        <base loc="en">Menu</base>
+        <tran loc="ar">قائمة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>nubbit.label</Position>
+      <TranslationSet>
+        <base loc="en">AssistiveTouch menu</base>
+        <tran loc="ar">AssistiveTouch قائمة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>MadeForIphone_HardwareSwitch_MoveToNextItem</Position>
+      <TranslationSet>
+        <base loc="en">Next</base>
+        <tran loc="ar">التالي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> e.g. Touch: ON</Description>
+      <Position>FREEHAND_ON</Position>
+      <TranslationSet>
+        <base loc="en">ON</base>
+        <tran loc="ar">تشغيل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>MediaControls-Pause</Position>
+      <TranslationSet>
+        <base loc="en">Pause</base>
+        <tran loc="ar">إيقاف مؤقت</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PAUSE</Position>
+      <TranslationSet>
+        <base loc="en">Pause</base>
+        <tran loc="ar">إيقاف مؤقت</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DWELL_UNLOCK</Position>
+      <TranslationSet>
+        <base loc="en">Enable\nFallback</base>
+        <tran loc="ar">تمكين\nالتراجع</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>FLICK_DOWN</Position>
+      <TranslationSet>
+        <base loc="en">Flick Down</base>
+        <tran loc="ar">تحريك للأسفل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ORIENTATION_LOCKED</Position>
+      <TranslationSet>
+        <base loc="en">Lock\nRotation</base>
+        <tran loc="ar">قفل\nالتدوير</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UNMUTE</Position>
+      <TranslationSet>
+        <base loc="en">Unmute</base>
+        <tran loc="ar">إلغاء كتم الصوت</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PAN_LEFT</Position>
+      <TranslationSet>
+        <base loc="en">Pan Left</base>
+        <tran loc="ar">تحريك لليسار</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>FORCE_TOUCH</Position>
+      <TranslationSet>
+        <base loc="en">3D Touch</base>
+        <tran loc="ar">3D Touch</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>AssistiveTouch/System/Library/CoreServices/AssistiveTouch.app/en.lproj/LocalizedStrings-j3xx.strings</Filepath>
+    <TextItem>
+      <Description> 
+  LocalizedStrings-j3xx.strings
+  AssistiveTouch
+
+  Created by Conor Hughes on 8/30/18.
+  
+</Description>
+      <Position>SCREEN_INVALID_NHB_IPAD</Position>
+      <TranslationSet>
+        <base loc="en">Triple-click the Top Button to stop Switch Control.</base>
+        <tran loc="ar">اضغط ثلاث مرات على الزر العلوي لإيقاف "التحكم بالتبديل".</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>AssistiveTouch/System/Library/AccessibilityBundles/AssistiveTouch.axuiservice/en.lproj/HNDUIServer.strings</Filepath>
+    <TextItem>
+      <Description>  HNDUIServer.strings
+  AssistiveTouch
+  Created by Sam White on 3/16/13.
+  Copyright (c) 2013 Apple Inc. All rights reserved.</Description>
+      <Position>SWITCH_OVER_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Switch Control</base>
+        <tran loc="ar">التحكم بالتبديل</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+</Proj>

@@ -1,0 +1,614 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Proj>
+  <ProjName>ImageCapture</ProjName>
+  <File>
+    <Filepath>ImageCapture/System/Library/Frameworks/ImageCaptureCore.framework/Versions/A/Resources/en.lproj/Preferences.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>mail</Position>
+      <TranslationSet>
+        <base loc="en">Mail</base>
+        <tran loc="ar">البريد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>web </Position>
+      <TranslationSet>
+        <base loc="en">Web</base>
+        <tran loc="ar">الويب</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>prin</Position>
+      <TranslationSet>
+        <base loc="en">Print</base>
+        <tran loc="ar">طباعة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>copy</Position>
+      <TranslationSet>
+        <base loc="en">Copy</base>
+        <tran loc="ar">نسخ</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>scan</Position>
+      <TranslationSet>
+        <base loc="en">Scan</base>
+        <tran loc="ar">مسح ضوئي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>tran</Position>
+      <TranslationSet>
+        <base loc="en">Transfer</base>
+        <tran loc="ar">النقل</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>ImageCapture/System/Library/Frameworks/ICADevices.framework/Versions/A/Resources/en.lproj/InfoPlist.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>CFBundleName</Position>
+      <TranslationSet>
+        <base loc="en">ICADevices</base>
+        <tran loc="ar">ICADevices</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>ImageCapture/System/Library/Frameworks/ICADevices.framework/Versions/A/Resources/en.lproj/MainMenu.strings</Filepath>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Quit ICADevices"; ObjectID = "136"; </Description>
+      <Position>136.title</Position>
+      <TranslationSet>
+        <base loc="en">Quit ICADevices</base>
+        <tran loc="ar">إنهاء ICADevices</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenu"; title = "MainMenu"; ObjectID = "29"; </Description>
+      <Position>29.title</Position>
+      <TranslationSet>
+        <base loc="en">MainMenu</base>
+        <tran loc="ar">MainMenu</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "ICADevices"; ObjectID = "56"; </Description>
+      <Position>56.title</Position>
+      <TranslationSet>
+        <base loc="en">ICADevices</base>
+        <tran loc="ar">ICADevices</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenu"; title = "ICADevices"; ObjectID = "57"; </Description>
+      <Position>57.title</Position>
+      <TranslationSet>
+        <base loc="en">ICADevices</base>
+        <tran loc="ar">ICADevices</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>ImageCapture/System/Library/Frameworks/ICADevices.framework/Versions/A/Resources/en.lproj/Localizable.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>width/height:</Position>
+      <TranslationSet>
+        <base loc="en">width/height:</base>
+        <tran loc="ar">العرض/الارتفاع:</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Make &amp; Model:</Position>
+      <TranslationSet>
+        <base loc="en">Make &amp; Model:</base>
+        <tran loc="ar">الشركة المصنعة والطراز:</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>iDeviceEnumeratingRequest</Position>
+      <TranslationSet>
+        <base loc="en">Please wait. Photos in the Camera Roll of “%@” are being prepared.</base>
+        <tran loc="ar">الرجاء الانتظار. يتم الآن تحضير الصور الموجودة في ألبوم كاميرا \"%@\".</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>OK</Position>
+      <TranslationSet>
+        <base loc="en">OK</base>
+        <tran loc="ar">موافق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>iDeviceLockedAlertTitle</Position>
+      <TranslationSet>
+        <base loc="en">Photos in the Camera Roll of “%@” cannot be imported because the device is locked with a passcode.</base>
+        <tran loc="ar">لا يمكن استيراد الصور الموجودة في ألبوم الكاميرا لـ \"%@\" لأن الجهاز مقفل برمز دخول.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Image DPI:</Position>
+      <TranslationSet>
+        <base loc="en">Image DPI:</base>
+        <tran loc="ar">مقاس الصورة بالنقطة في البوصة:</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>iDeviceUnlockRequest</Position>
+      <TranslationSet>
+        <base loc="en">Please unlock “%@”</base>
+        <tran loc="ar">الرجاء فتح قفل \"%@\"</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Frame size:</Position>
+      <TranslationSet>
+        <base loc="en">Frame size:</base>
+        <tran loc="ar">حجم الإطار:</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Duration:</Position>
+      <TranslationSet>
+        <base loc="en">Duration:</base>
+        <tran loc="ar">المدة:</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>resolution:</Position>
+      <TranslationSet>
+        <base loc="en">resolution:</base>
+        <tran loc="ar">الدقة:</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>iDeviceLockedAlertMessage</Position>
+      <TranslationSet>
+        <base loc="en">You must unlock the device to import them.</base>
+        <tran loc="ar">يجب فتح قفل الجهاز حتى يمكنك استيرادها.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Default</Position>
+      <TranslationSet>
+        <base loc="en">Default</base>
+        <tran loc="ar">افتراضي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Image size:</Position>
+      <TranslationSet>
+        <base loc="en">Image size:</base>
+        <tran loc="ar">حجم الصورة:</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>ImageCapture/System/Library/Frameworks/ImageCaptureCore.framework/Versions/A/Resources/en.lproj/Messages.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>ICScanOperationCanceled</Position>
+      <TranslationSet>
+        <base loc="en">The scan operation is canceled</base>
+        <tran loc="ar">تم إلغاء عملية المسح</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDeviceSoftwareInstallationFailed</Position>
+      <TranslationSet>
+        <base loc="en">Software installation failed</base>
+        <tran loc="ar">فشل تثبيت البرنامج</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SoftwareUpdate_Idle</Position>
+      <TranslationSet>
+        <base loc="en">Preparing to download and install…</base>
+        <tran loc="ar">يتم الآن الإعداد للتنزيل والتثبيت…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDeviceSoftwareNotInstalled</Position>
+      <TranslationSet>
+        <base loc="en">Software for this device is not installed</base>
+        <tran loc="ar">البرنامج لهذا الجهاز غير مثبت</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDeviceSoftwareFailedForUnknownReason</Position>
+      <TranslationSet>
+        <base loc="en">Software for “%@” failed to run.</base>
+        <tran loc="ar">فشل تشغيل البرنامج الخاص بـ \"%@\".</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Install_Button</Position>
+      <TranslationSet>
+        <base loc="en">Install</base>
+        <tran loc="ar">تثبيت</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SoftwareUpdate_InstallScanSoftware</Position>
+      <TranslationSet>
+        <base loc="en">Scanning software for this printer is available from Apple. Would you like to download and install it?</base>
+        <tran loc="ar">برنامج المسح الخاص بالطابعة متوفر لدى Apple. هل ترغب في تنزيله وتثبيته؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDeviceSoftwareInstallationCompleted</Position>
+      <TranslationSet>
+        <base loc="en">Software installed successfully</base>
+        <tran loc="ar">تم تثبيت البرنامج بنجاح</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>OK_Button</Position>
+      <TranslationSet>
+        <base loc="en">OK</base>
+        <tran loc="ar">موافق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Cancel_Button</Position>
+      <TranslationSet>
+        <base loc="en">Cancel</base>
+        <tran loc="ar">إلغاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SoftwareUpdate_Conflict_Reason</Position>
+      <TranslationSet>
+        <base loc="en">If you continue, the %@ printer “%@” and its software will be removed from your computer and can’t be reinstalled.</base>
+        <tran loc="ar">إذا قمت بالمتابعة، فستتم إزالة طابعة %@ \"%@\" والبرنامج الخاص بها من الكمبيوتر ولا يمكن إعادة تثبيتهما.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDeviceSoftwareIsBeingInstalled</Position>
+      <TranslationSet>
+        <base loc="en">Software for this device is being installed</base>
+        <tran loc="ar">يتم تثبيت برنامج لهذا الجهاز</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDeviceSoftwareNotAvailable</Position>
+      <TranslationSet>
+        <base loc="en">Software for this device is unavailable</base>
+        <tran loc="ar">برنامج هذا الجهاز غير متوفر حاليًا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICReturnScannerFailedToCompleteOverviewScan</Position>
+      <TranslationSet>
+        <base loc="en">The overview scan failed to complete</base>
+        <tran loc="ar">فشل إكمال المسح الضوئي العام</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDeviceSoftwareInstallationCanceled</Position>
+      <TranslationSet>
+        <base loc="en">Software installation canceled</base>
+        <tran loc="ar">تم إلغاء تثبيت البرنامج</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SoftwareUpdate_Installing</Position>
+      <TranslationSet>
+        <base loc="en">Installing 1 item…</base>
+        <tran loc="ar">جاري تثبيت عنصر واحد…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICTransferringScannedDocument</Position>
+      <TranslationSet>
+        <base loc="en">Transferring scanned document…</base>
+        <tran loc="ar">يتم الآن نقل المستند الممسوح ضوئيًا…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SoftwareUpdate_Conflict</Position>
+      <TranslationSet>
+        <base loc="en">The software required to use %@ printer is not compatible with “%@”.</base>
+        <tran loc="ar">البرنامج اللازم لاستخدام طابعة %@ غير متوافق مع \"%@\".</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICFolderWritePermission</Position>
+      <TranslationSet>
+        <base loc="en">The selected folder is not writable</base>
+        <tran loc="ar">المجلد المحدد غير قابل للكتابة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICReturnDeviceAuthenticationRequired</Position>
+      <TranslationSet>
+        <base loc="en">This device requires a username and password for authorization</base>
+        <tran loc="ar">هذا الجهاز يتطلب اسم مستخدم وكلمة سر للتخويل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Choose_Button</Position>
+      <TranslationSet>
+        <base loc="en">Choose</base>
+        <tran loc="ar">اختيار</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICFailedToTransferScannedDocument</Position>
+      <TranslationSet>
+        <base loc="en">Failed to transfer scanned document</base>
+        <tran loc="ar">فشل نقل المستند الممسوح</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SoftwareUpdate_Scanning</Position>
+      <TranslationSet>
+        <base loc="en">Finding software…</base>
+        <tran loc="ar">يتم الآن البحث عن البرنامج…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SoftwareUpdate_MissingScanSoftware</Position>
+      <TranslationSet>
+        <base loc="en">Scanning software for this printer is currently unavailable. Please contact the printer’s manufacturer for the latest software.</base>
+        <tran loc="ar">برنامج المسح الخاص بهذه الطابعة غير متوفر حاليًا. الرجاء الاتصال بالشركة المُصنعة للطابعة للحصول على أحدث برنامج.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SoftwareUpdate_Downloading</Position>
+      <TranslationSet>
+        <base loc="en">Downloading printer software update</base>
+        <tran loc="ar">يتم الآن تنزيل تحديث برنامج الطابعة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Next_Button</Position>
+      <TranslationSet>
+        <base loc="en">Next</base>
+        <tran loc="ar">التالي</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>ImageCapture/System/Library/Frameworks/ImageCaptureCore.framework/Versions/A/Resources/en.lproj/ImageCaptureCore.strings</Filepath>
+    <TextItem>
+      <Description> 
+  ImageCaptureCore.strings
+  ImageCapture
+
+  Created by Ryan Palumbo on 8/23/19.
+</Description>
+      <Position>IC_AUTH_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">%@ would like to use your external camera</base>
+        <tran loc="ar">يرغب %@ في استخدام الكاميرا الخارجية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>IC_AUTH_BODY</Position>
+      <TranslationSet>
+        <base loc="en">Allow %@ to access your external camera?</base>
+        <tran loc="ar">هل تريد السماح لـ %@ بالوصول إلى الكاميرا الخارجية؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>IC_ACCESS_ALLOW</Position>
+      <TranslationSet>
+        <base loc="en">Allow</base>
+        <tran loc="ar">السماح</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>IC_ACCESS_DENY</Position>
+      <TranslationSet>
+        <base loc="en">Don’t Allow</base>
+        <tran loc="ar">عدم السماح</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>ImageCapture/System/Library/Frameworks/ICADevices.framework/Versions/A/Resources/en.lproj/Error.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>kICAErrStrScannerInUseErr</Position>
+      <TranslationSet>
+        <base loc="en">The scanner is in use by application “%@”.</base>
+        <tran loc="ar">الماسح الضوئي قيد الاستخدام من قِبل تطبيق \"%@\".</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kICAErrStrFailedOpenSessionErr</Position>
+      <TranslationSet>
+        <base loc="en">Failed to open a session on the device.</base>
+        <tran loc="ar">فشل فتح جلسة على الجهاز.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kICAErrStrDFPaperErr</Position>
+      <TranslationSet>
+        <base loc="en">Document feeder has a paper jam or paper feed error.</base>
+        <tran loc="ar">يوجد ورق عالق في وحدة تغذية المستندات أو حدث خطأ في التغذية بالورق فيها.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kICAErrStrAccessDeniedErr</Position>
+      <TranslationSet>
+        <base loc="en">Access to scanner is denied.</base>
+        <tran loc="ar">تم رفض الوصول إلى الماسح الضوئي.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kICAErrStrTUErr</Position>
+      <TranslationSet>
+        <base loc="en">Transparency unit reported an error.</base>
+        <tran loc="ar">قامت وحدة الشفافية بالإعلام عن خطأ.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kICAErrStrScannerBusyErr</Position>
+      <TranslationSet>
+        <base loc="en">The scanner is busy.</base>
+        <tran loc="ar">الماسح الضوئي مشغول.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kICAErrStrSannerMemErr</Position>
+      <TranslationSet>
+        <base loc="en">The scanner has insufficient memory to complete the operation.</base>
+        <tran loc="ar">ذاكرة الماسح الضوئي لا تكفي لإكمال العملية.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kICAErrStrScannerInUseErrByRemoteUser</Position>
+      <TranslationSet>
+        <base loc="en">The scanner is being used by a remote user.</base>
+        <tran loc="ar">الماسح الضوئي قيد الاستخدام من قِبل مستخدم بعيد.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kICAErrStrSecureSessionRequiredErr</Position>
+      <TranslationSet>
+        <base loc="en">Crediantials are required to open a session on the device.</base>
+        <tran loc="ar">يلزم إدخال بيانات الاعتماد لفتح جلسة على الجهاز.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kICAErrStrDFEmptyErr</Position>
+      <TranslationSet>
+        <base loc="en">Document feeder is empty.</base>
+        <tran loc="ar">وحدة تغذية المستندات فارغة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kICAErrStrScannerComErr</Position>
+      <TranslationSet>
+        <base loc="en">An error occurred while communicating with the scanner.</base>
+        <tran loc="ar">حدث خطأ أثناء الاتصال بالماسح الضوئي.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kICAErrStrScannerWarmingUpErr</Position>
+      <TranslationSet>
+        <base loc="en">Scanner is warming up.</base>
+        <tran loc="ar">الماسح الضوئي في مرحلة التجهيز.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kICAErrStrTUSetupErr</Position>
+      <TranslationSet>
+        <base loc="en">Transparency unit is not properly set up.</base>
+        <tran loc="ar">لم يتم إعداد وحدة الشفافية بشكل صحيح.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kICAErrStrTUNotSupportedErr</Position>
+      <TranslationSet>
+        <base loc="en">Transparency unit is not supported.</base>
+        <tran loc="ar">وحدة الشفافية غير مدعومة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kICAErrStrScannerFailedToCompeteScan</Position>
+      <TranslationSet>
+        <base loc="en">The scanner failed to complete the scan.</base>
+        <tran loc="ar">فشل الماسح الضوئي في إكمال المسح الضوئي.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kICAErrStrDFSetupErr</Position>
+      <TranslationSet>
+        <base loc="en">Document feeder is not properly set up.</base>
+        <tran loc="ar">لم يتم إعداد وحدة تغذية المستندات بشكل صحيح.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kICAErrStrDFNotSupportedErr</Position>
+      <TranslationSet>
+        <base loc="en">Document feeder is not supported.</base>
+        <tran loc="ar">وحدة تغذية المستندات غير مدعومة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kICAErrStrScanErr</Position>
+      <TranslationSet>
+        <base loc="en">An error occurred during scanning.</base>
+        <tran loc="ar">حدث خطأ أثناء المسح الضوئي.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kICAErrSNoError</Position>
+      <TranslationSet>
+        <base loc="en">Completed successfully</base>
+        <tran loc="ar">اكتملت العملية بنجاح</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+</Proj>

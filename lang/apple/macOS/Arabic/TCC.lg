@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Proj>
+  <ProjName>TCC</ProjName>
+  <File>
+    <Filepath>TCC/System/Library/PrivateFrameworks/TCC.framework/Versions/A/Resources/en.lproj/Localizable.strings</Filepath>
+    <TextItem>
+      <Description> Text of the notification that pops up when requesting access to photos. </Description>
+      <Position>REQUEST_ACCESS_SERVICE_kTCCServicePhotos</Position>
+      <TranslationSet>
+        <base loc="en">“%@” would like to access your photos.</base>
+        <tran loc="ar">يرغب \"%@\" في الوصول إلى الصور الخاصة بك.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Text of the notification that pops up when requesting access to files in the user's Documents folder. </Description>
+      <Position>REQUEST_ACCESS_SERVICE_kTCCServiceSystemPolicyDocumentsFolder</Position>
+      <TranslationSet>
+        <base loc="en">“%@” would like to access files in your Documents folder.</base>
+        <tran loc="ar">يرغب "%@" في الوصول إلى ملفات في مجلد المستندات.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Text of the notification that pops up when requesting access to a calendar. </Description>
+      <Position>REQUEST_ACCESS_SERVICE_kTCCServiceCalendar</Position>
+      <TranslationSet>
+        <base loc="en">“%@” would like to access your calendar.</base>
+        <tran loc="ar">يرغب برنامج \"%@‎\" في الوصول إلى التقويم الخاص بك.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> kTCCServiceSystemPolicyAllFiles is "no prompt", so we don't need a request string 
+ Additional text for the notification when requesting access to use Siri.  The %@ is replaced with the name of the app. </Description>
+      <Position>REQUEST_ACCESS_INFO_SERVICE_kTCCServiceSiri</Position>
+      <TranslationSet>
+        <base loc="en">Some of your %@ data will be sent to Apple to process your requests.</base>
+        <tran loc="ar">سيتم إرسال بعض بيانات %@ إلى Apple بهدف معالجة طلباتك.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Text of the notification that pops up when requesting access to the speech recognition engine. </Description>
+      <Position>REQUEST_ACCESS_SERVICE_kTCCServiceSpeechRecognition</Position>
+      <TranslationSet>
+        <base loc="en">“%@” Would Like to Access Speech Recognition.</base>
+        <tran loc="ar">يرغب "%@" في الوصول إلى "التعرف على الكلام".</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Text of the notification that pops up when requesting access to files in the user's Downloads folder. </Description>
+      <Position>REQUEST_ACCESS_SERVICE_kTCCServiceSystemPolicyDownloadsFolder</Position>
+      <TranslationSet>
+        <base loc="en">“%@” would like to access files in your Downloads folder.</base>
+        <tran loc="ar">يرغب "%@" في الوصول إلى ملفات في مجلد التنزيلات.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Text of the notification that pops up when requesting access to reminders. </Description>
+      <Position>REQUEST_ACCESS_SERVICE_kTCCServiceReminders</Position>
+      <TranslationSet>
+        <base loc="en">“%@” would like to access your reminders.</base>
+        <tran loc="ar">يرغب برنامج \"%@‎\" في الوصول إلى التذكيرات الخاصة بك.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Text of the notification that pops up when requesting access to files on a removable or external volume. </Description>
+      <Position>REQUEST_ACCESS_SERVICE_kTCCServiceSystemPolicyRemovableVolumes</Position>
+      <TranslationSet>
+        <base loc="en">“%@” would like to access files on a removable volume.</base>
+        <tran loc="ar">يرغب "%@" في الوصول إلى ملفات في وحدة تخزين قابلة للإزالة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Additional text for the notification when requesting access to use speech recognition. </Description>
+      <Position>REQUEST_ACCESS_INFO_SERVICE_kTCCServiceSpeechRecognition</Position>
+      <TranslationSet>
+        <base loc="en">Speech data from this app will be sent to Apple to process your requests. This will also help Apple improve its speech recognition technology.</base>
+        <tran loc="ar">سيتم إرسال بيانات الكلام من هذا التطبيق إلى Apple بهدف معالجة طلباتك. كما أن هذا سيساعد Apple على تحسين تقنية التعرف على الكلام.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Text of the notification that pops up when requesting access to motion activity. </Description>
+      <Position>REQUEST_ACCESS_SERVICE_kTCCServiceMotion</Position>
+      <TranslationSet>
+        <base loc="en">“%@” Would Like to Access Your Motion &amp; Fitness Activity.</base>
+        <tran loc="ar">يرغب "%@" في الوصول إلى نشاط الحركة واللياقة لديك.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> The access notification's button for granting access. </Description>
+      <Position>REQUEST_ACCESS_ALLOW</Position>
+      <TranslationSet>
+        <base loc="en">OK</base>
+        <tran loc="ar">موافق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Text of the notification that pops up when requesting access to add photos to the library. </Description>
+      <Position>REQUEST_ACCESS_SERVICE_kTCCServicePhotosAdd</Position>
+      <TranslationSet>
+        <base loc="en">“%@” would like to add to your Photos.</base>
+        <tran loc="ar">يرغب "%@" في الإضافة إلى الصور.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Text of the notification that pops up when requesting access to your Apple Music Library. </Description>
+      <Position>REQUEST_ACCESS_SERVICE_kTCCServiceMediaLibrary</Position>
+      <TranslationSet>
+        <base loc="en">“%@” would like to access Apple Music, your music and video activity, and your media library.</base>
+        <tran loc="ar">يرغب "%@" في الوصول إلى Apple Music، ونشاط الموسيقى والفيديو لديك، وكذلك مكتبة الوسائط الخاصة بك.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Text of the notification that pops up when requesting access to files on a network volume. </Description>
+      <Position>REQUEST_ACCESS_SERVICE_kTCCServiceSystemPolicyNetworkVolumes</Position>
+      <TranslationSet>
+        <base loc="en">“%@” would like to access files on a network volume.</base>
+        <tran loc="ar">يرغب "%@" في الوصول إلى ملفات في وحدة تخزين على الشبكة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Text of the notification that pops up when requesting basic access to contacts. </Description>
+      <Position>REQUEST_ACCESS_SERVICE_kTCCServiceContactsLimited</Position>
+      <TranslationSet>
+        <base loc="en">“%@” would like to access your contacts basic information.</base>
+        <tran loc="ar">يرغب "%@" في الوصول إلى معلومات جهات اتصالك الأساسية.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Text of the notification that pops up when requesting access to the user's location. </Description>
+      <Position>REQUEST_ACCESS_SERVICE_kTCCServiceLocation</Position>
+      <TranslationSet>
+        <base loc="en">“%@” would like to use your current location.</base>
+        <tran loc="ar">يرغب برنامج \"%@\" في استخدام موقعك الحالي.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Text of the notification that pops up when requesting access to the camera. </Description>
+      <Position>REQUEST_ACCESS_SERVICE_kTCCServiceCamera</Position>
+      <TranslationSet>
+        <base loc="en">“%@” would like to access the camera.</base>
+        <tran loc="ar">يرغب "%@" في الوصول إلى الكاميرا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Text of the notification that pops up when requesting access to a File Provider Sync Root
+    e.g. "“Totally Not Malware.app” wants to access files managed by “Dropbox” </Description>
+      <Position>REQUEST_ACCESS_SERVICE_kTCCServiceFileProviderDomain</Position>
+      <TranslationSet>
+        <base loc="en">“%@” wants to access files managed by “%@”.</base>
+        <tran loc="ar">يرغب %@ في الوصول إلى الملفات المدارة بواسطة \"%@\".</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Text of the notification that pops up when requesting access to files in the user's Desktop folder. </Description>
+      <Position>REQUEST_ACCESS_SERVICE_kTCCServiceSystemPolicyDesktopFolder</Position>
+      <TranslationSet>
+        <base loc="en">“%@” would like to access files in your Desktop folder.</base>
+        <tran loc="ar">يرغب "%@" في الوصول إلى ملفات في مجلد سطح المكتب.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Text of the notification that pops up when requesting access to the microphone. </Description>
+      <Position>REQUEST_ACCESS_SERVICE_kTCCServiceMicrophone</Position>
+      <TranslationSet>
+        <base loc="en">“%@” would like to access the microphone.</base>
+        <tran loc="ar">يرغب "%@" في الوصول إلى الميكروفون.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Text of the notification that pops up when requesting access to a File Provider. </Description>
+      <Position>REQUEST_ACCESS_SERVICE_kTCCServiceFileProviderPresence</Position>
+      <TranslationSet>
+        <base loc="en">Do you want to allow “%@” to see when you are using files managed by it? It will see which applications are used to access files and whether you are actively using them. It will not see when files that are not managed by it are accessed.</base>
+        <tran loc="ar">هل ترغب في السماح لـ "%@" بأن يعلم أنك تستخدم الملفات المدارة بواسطته؟ سيعرف التطبيقات المستخدمة في الوصول إلى الملفات وما إذا كنت تستخدمها على نحو فعال أم لا. لن يعلم بالوصول إلى الملفات غير المدارة بواسطته.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Text of the notification that pops up when requesting access to send Apple Events to another process. </Description>
+      <Position>REQUEST_ACCESS_SERVICE_kTCCServiceAppleEvents</Position>
+      <TranslationSet>
+        <base loc="en">“%@“ wants access to control “%@“. Allowing control will provide access to documents and data in “%@“, and to perform actions within that app.</base>
+        <tran loc="ar">يريد "%@" الوصول للتحكم في "%@". السماح بالتحكم سيمنحه إمكانية الوصول إلى المستندات والبيانات في "%@" وتنفيذ إجراءات داخل هذا التطبيق.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Text of the notification that pops up when requesting access to one of the System Administration files. </Description>
+      <Position>REQUEST_ACCESS_SERVICE_kTCCServiceSystemPolicySysAdminFiles</Position>
+      <TranslationSet>
+        <base loc="en">“%@” would like to administer your computer. Administration can include modifying passwords, networking, and system settings.</base>
+        <tran loc="ar">يرغب "%@" في إدارة الكمبيوتر الخاص بك. يمكن أن تشمل الإدارة تعديل كلمات السر وإعدادات الشبكات وإعدادات النظام.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> The access notification's button for refusing access. </Description>
+      <Position>REQUEST_ACCESS_DENY</Position>
+      <TranslationSet>
+        <base loc="en">Don’t Allow</base>
+        <tran loc="ar">عدم السماح</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Text of the notification that pops up when requesting access to Home data. </Description>
+      <Position>REQUEST_ACCESS_SERVICE_kTCCServiceWillow</Position>
+      <TranslationSet>
+        <base loc="en">“%@” would like to access your Home data.</base>
+        <tran loc="ar">يرغب "%@" في الوصول إلى بيانات المنزل لديك.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Text of the notification that pops up when requesting access to Capture the contents of the Screen display. </Description>
+      <Position>REQUEST_ACCESS_SERVICE_kTCCServiceScreenCapture</Position>
+      <TranslationSet>
+        <base loc="en">“%@” would like to capture the contents of the system display.</base>
+        <tran loc="ar">يرغب "%@" في تسجيل محتويات شاشة النظام.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 
+  Localizable.strings
+  TCC
+
+  Copyright (c) 2012 Apple Inc. All rights reserved.
+
+ Text of the notification that pops up when requesting access to the address book (deprecated prompt). </Description>
+      <Position>REQUEST_ACCESS_SERVICE_kTCCServiceAddressBook</Position>
+      <TranslationSet>
+        <base loc="en">“%@” would like to access your contacts.</base>
+        <tran loc="ar">يرغب برنامج \"%@\" في الوصول إلى جهات الاتصال الخاصة بك.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Text of the notification that pops up when requesting access to use Siri. </Description>
+      <Position>REQUEST_ACCESS_SERVICE_kTCCServiceSiri</Position>
+      <TranslationSet>
+        <base loc="en">Would You Like to Use “%@” with Siri?</base>
+        <tran loc="ar">هل ترغب في استخدام "%@" مع Siri؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Text of the notification that pops up when requesting access to one of the Developer files. </Description>
+      <Position>REQUEST_ACCESS_SERVICE_kTCCServiceSystemPolicyDeveloperFiles</Position>
+      <TranslationSet>
+        <base loc="en">“%@” would like to access a file used in Software Development.</base>
+        <tran loc="ar">يرغب "%@" في الوصول إلى ملف مستخدم في تطوير البرامج (Software Development).</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Text of the notification that pops up when requesting full access to contacts. </Description>
+      <Position>REQUEST_ACCESS_SERVICE_kTCCServiceContactsFull</Position>
+      <TranslationSet>
+        <base loc="en">“%@” would like to access all of your contacts information.</base>
+        <tran loc="ar">يرغب "%@" في الوصول إلى جميع معلومات جهات اتصالك.</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+</Proj>

@@ -1,0 +1,1364 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Proj>
+  <ProjName>DocumentCamera</ProjName>
+  <File>
+    <Filepath>DocumentCamera/System/Library/PrivateFrameworks/DocumentCamera.framework/en.lproj/ICDocCamFilterButton.strings</Filepath>
+    <TextItem>
+      <Description> Class = "UILabel"; text = "Label"; ObjectID = "Xiu-GO-ilJ"; </Description>
+      <Position>Xiu-GO-ilJ.text</Position>
+      <TranslationSet>
+        <base loc="en">Label</base>
+        <tran loc="ar">ملصق</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>DocumentCamera/System/Library/PrivateFrameworks/DocumentCamera.framework/en.lproj/Localizable.strings</Filepath>
+    <TextItem>
+      <Description> Accessibility label for the filter button in the scanned document viewer </Description>
+      <Position>Show filters</Position>
+      <TranslationSet>
+        <base loc="en">Show filters</base>
+        <tran loc="ar">إظهار خيارات التصفية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Recrop keep scan button title </Description>
+      <Position>Keep Scan</Position>
+      <TranslationSet>
+        <base loc="en">Keep Scan</base>
+        <tran loc="ar">الاحتفاظ بالنسخة الضوئية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Filter name for 'photo' filter type </Description>
+      <Position>Photo</Position>
+      <TranslationSet>
+        <base loc="en">Photo</base>
+        <tran loc="ar">صورة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Empty collection name alert message </Description>
+      <Position>Scanned document collection names can’t be blank.</Position>
+      <TranslationSet>
+        <base loc="en">Scanned document collection names can’t be blank.</base>
+        <tran loc="ar">لا يمكن أن تكون أسماء مجموعات المستندات الممسوحة ضوئيًا فارغة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Alert message when the user has reached the max number of images in a document </Description>
+      <Position>You’ve added the maximum number of scans to this document. You can delete scans or create another document.</Position>
+      <TranslationSet>
+        <base loc="en">You’ve added the maximum number of scans to this document. You can delete scans or create another document.</base>
+        <tran loc="ar">لقد بلغت الحد الأقصى لعدد النسخ الضوئية التي يمكنك إضافتها إلى هذا المستند. يمكنك حذف بعض النسخ الضوئية أو إنشاء مستند آخر.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Accessibility label for the manual shutter button in doc camera </Description>
+      <Position>Take picture</Position>
+      <TranslationSet>
+        <base loc="en">Take picture</base>
+        <tran loc="ar">أخذ صورة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Accessibility hint for doc cam cropping knobs </Description>
+      <Position>Double-tap and drag to adjust crop bounds.</Position>
+      <TranslationSet>
+        <base loc="en">Double-tap and drag to adjust crop bounds.</base>
+        <tran loc="ar">اضغط مرتين واسحب لضبط حدود الاقتصاص.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Accessibility label for the filter button in the scanned document viewer (selected state) </Description>
+      <Position>Hide filters</Position>
+      <TranslationSet>
+        <base loc="en">Hide filters</base>
+        <tran loc="ar">إخفاء خيارات التصفية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Accessibility format string for reordering thumbnails in doc cam viewer, e.g. 'Position 4' </Description>
+      <Position>Position %lu</Position>
+      <TranslationSet>
+        <base loc="en">Position %lu</base>
+        <tran loc="ar">الموضع %lu</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Placeholder name for edit folder name alert </Description>
+      <Position>Name</Position>
+      <TranslationSet>
+        <base loc="en">Name</base>
+        <tran loc="ar">الاسم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Accessibility hint for doc camera flash button </Description>
+      <Position>Double-tap to change the flash setting</Position>
+      <TranslationSet>
+        <base loc="en">Double-tap to change the flash setting</base>
+        <tran loc="ar">اضغط مرتين لتغيير إعدادات الفلاش</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Accessibility hint for auto-shutter toggle button in doc camera </Description>
+      <Position>Double-tap to toggle shutter mode.</Position>
+      <TranslationSet>
+        <base loc="en">Double-tap to toggle shutter mode.</base>
+        <tran loc="ar">اضغط مرتين لتبديل نمط الغالق.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Accessibility label for scan thumbnails container in doc cam viewer </Description>
+      <Position>Scan thumbnails</Position>
+      <TranslationSet>
+        <base loc="en">Scan thumbnails</base>
+        <tran loc="ar">صور مصغرة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Accessibility announcement to tell user to position doc cam slightly left </Description>
+      <Position>Move camera slightly left and hold still</Position>
+      <TranslationSet>
+        <base loc="en">Move camera slightly left and hold still</base>
+        <tran loc="ar">حرك الكاميرا لليسار قليلًا وامسكها بثبات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Accessibility hint for collection title button in the scanned document viewer </Description>
+      <Position>Double-tap to rename document</Position>
+      <TranslationSet>
+        <base loc="en">Double-tap to rename document</base>
+        <tran loc="ar">اضغط مرتين لإعادة تسمية المستند</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Done </Description>
+      <Position>Done</Position>
+      <TranslationSet>
+        <base loc="en">Done</base>
+        <tran loc="ar">تم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Document Camera framework name </Description>
+      <Position>Document Camera</Position>
+      <TranslationSet>
+        <base loc="en">Document Camera</base>
+        <tran loc="ar">كاميرا المستند</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Title for alert to discard markup on rotate/crop. </Description>
+      <Position>Discard Annotations?</Position>
+      <TranslationSet>
+        <base loc="en">Discard Annotations?</base>
+        <tran loc="ar">استبعاد التعليقات التوضيحية؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Filter name for 'black and white' filter type </Description>
+      <Position>Black &amp; White</Position>
+      <TranslationSet>
+        <base loc="en">Black &amp; White</base>
+        <tran loc="ar">أسود وأبيض</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Accessibility string for the action to reorder the current item to be after the next item in a list </Description>
+      <Position>Order Next</Position>
+      <TranslationSet>
+        <base loc="en">Order Next</base>
+        <tran loc="ar">قدّم الترتيب</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Accessibility label for top-left crop knob in doc cam editor </Description>
+      <Position>top-left crop handle</Position>
+      <TranslationSet>
+        <base loc="en">top-left crop handle</base>
+        <tran loc="ar">معالج اقتصاص الجزء الأيسر العلوي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Index out of range error message </Description>
+      <Position>Index out of range.</Position>
+      <TranslationSet>
+        <base loc="en">Index out of range.</base>
+        <tran loc="ar">المؤشر خارج النطاق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Accessibility string for landscape orientation </Description>
+      <Position>landscape</Position>
+      <TranslationSet>
+        <base loc="en">landscape</base>
+        <tran loc="ar">أفقي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Accessibility label for the doc camera button to hide the filter settings bar </Description>
+      <Position>Hide filter settings</Position>
+      <TranslationSet>
+        <base loc="en">Hide filter settings</base>
+        <tran loc="ar">إخفاء إعدادات الفلتر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Share doc cam gallery ios progress string </Description>
+      <Position>Preparing…</Position>
+      <TranslationSet>
+        <base loc="en">Preparing…</base>
+        <tran loc="ar">جاري التحضير…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Alert title when the user has reached the max number of images in a document </Description>
+      <Position>Maximum Reached</Position>
+      <TranslationSet>
+        <base loc="en">Maximum Reached</base>
+        <tran loc="ar">تم بلوغ الحد الأقصى</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Accessibility hint for the flash=off button in the doc camera </Description>
+      <Position>Double-tap to set flash to auto</Position>
+      <TranslationSet>
+        <base loc="en">Double-tap to set flash to auto</base>
+        <tran loc="ar">اضغط مرتين لتعيين الفلاش على "تلقائي"</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Title for the 'crop' button in the scanned document viewer </Description>
+      <Position>Crop</Position>
+      <TranslationSet>
+        <base loc="en">Crop</base>
+        <tran loc="ar">اقتصاص</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Accessibility label for the delete scan button in the scanned document viewer </Description>
+      <Position>Delete scan</Position>
+      <TranslationSet>
+        <base loc="en">Delete scan</base>
+        <tran loc="ar">حذف صورة المسح الضوئي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Accessibility announcement to tell user to hold camera position still </Description>
+      <Position>Hold camera still</Position>
+      <TranslationSet>
+        <base loc="en">Hold camera still</base>
+        <tran loc="ar">امسك الكاميرا بثبات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Document Camera viewfinder auto button label for auto mode </Description>
+      <Position>Auto</Position>
+      <TranslationSet>
+        <base loc="en">Auto</base>
+        <tran loc="ar">تلقائي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Accessibility hint for scan thumbnails in doc camera </Description>
+      <Position>Double-tap to preview scan.</Position>
+      <TranslationSet>
+        <base loc="en">Double-tap to preview scan.</base>
+        <tran loc="ar">اضغط مرتين لمعاينة النسخة الضوئية.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Format string for current scanned document page with delimiters </Description>
+      <Position>(%d of %d)</Position>
+      <TranslationSet>
+        <base loc="en">(%1$d of %2$d)</base>
+        <tran loc="ar">‏(%1$d من %2$d)</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Accessibility announcement to tell user to position doc cam slightly up </Description>
+      <Position>Move camera slightly up and hold still</Position>
+      <TranslationSet>
+        <base loc="en">Move camera slightly up and hold still</base>
+        <tran loc="ar">حرك الكاميرا للأعلى قليلًا وامسكها بثبات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Accessibility label for the resume capture session button </Description>
+      <Position>Double-tap to resume</Position>
+      <TranslationSet>
+        <base loc="en">Double-tap to resume</base>
+        <tran loc="ar">اضغط مرتين للاستئناف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Alert OK button
+   Discard markup button title
+   OK </Description>
+      <Position>OK</Position>
+      <TranslationSet>
+        <base loc="en">OK</base>
+        <tran loc="ar">موافق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Filter name for 'color' filter type </Description>
+      <Position>Color</Position>
+      <TranslationSet>
+        <base loc="en">Color</base>
+        <tran loc="ar">اللون</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Delete Image </Description>
+      <Position>Delete Scan</Position>
+      <TranslationSet>
+        <base loc="en">Delete Scan</base>
+        <tran loc="ar">حذف صورة المسح الضوئي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Accessibility label for bottom-right crop knob in doc cam editor </Description>
+      <Position>bottom-right crop handle</Position>
+      <TranslationSet>
+        <base loc="en">bottom-right crop handle</base>
+        <tran loc="ar">معالج اقتصاص الجزء الأيمن السفلي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Rename Scanned Document alert title </Description>
+      <Position>Rename</Position>
+      <TranslationSet>
+        <base loc="en">Rename</base>
+        <tran loc="ar">إعادة التسمية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Title for the add scan button in the scanned document viewer </Description>
+      <Position>Add scan</Position>
+      <TranslationSet>
+        <base loc="en">Add scan</base>
+        <tran loc="ar">إضافة نسخة ضوئية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Invalid blank collection name alert title
+   Very long collection name alert title </Description>
+      <Position>Please choose a different name.</Position>
+      <TranslationSet>
+        <base loc="en">Please choose a different name.</base>
+        <tran loc="ar">الرجاء اختيار اسم مختلف.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Accessibility value for the flash button in doc camera when flash is set to auto </Description>
+      <Position>auto</Position>
+      <TranslationSet>
+        <base loc="en">auto</base>
+        <tran loc="ar">تلقائي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Accessibility label for the filter button in the scanned document viewer </Description>
+      <Position>Show filter settings</Position>
+      <TranslationSet>
+        <base loc="en">Show filter settings</base>
+        <tran loc="ar">إظهار إعدادات الفلتر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Cancel
+   Cancel Title </Description>
+      <Position>Cancel</Position>
+      <TranslationSet>
+        <base loc="en">Cancel</base>
+        <tran loc="ar">إلغاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Accessibility hint for the filter button in the scanned document viewer (selected state) </Description>
+      <Position>Double-tap to hide filter options.</Position>
+      <TranslationSet>
+        <base loc="en">Double-tap to hide filter options.</base>
+        <tran loc="ar">اضغط مرتين لإخفاء خيارات التصفية.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Accessibility hint for the trash button in the scanned document viewer </Description>
+      <Position>Double-tap to delete the current scan.</Position>
+      <TranslationSet>
+        <base loc="en">Double-tap to delete the current scan.</base>
+        <tran loc="ar">اضغط مرتين لحذف الملاحظة الحالية.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Alert when deleting the last image in a scanned document </Description>
+      <Position>Deleting the last scan in this document will remove the document from your note.</Position>
+      <TranslationSet>
+        <base loc="en">Deleting the last scan in this document will remove the document from your note.</base>
+        <tran loc="ar">حذف النسخة الضوئية الأخيرة في هذا المستند سيؤدي إلى إزالة المستند من ملاحظتك.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Accessibility hint for the 'crop' button in the scanned document viewer </Description>
+      <Position>Double-tap to crop the current scan.</Position>
+      <TranslationSet>
+        <base loc="en">Double-tap to crop the current scan.</base>
+        <tran loc="ar">اضغط مرتين لاقتصاص النسخة الضوئية الحالية.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Message for alert to discard markup on rotate/crop. </Description>
+      <Position>If you rotate or crop this scan, its Markup annotations will be discarded.</Position>
+      <TranslationSet>
+        <base loc="en">If you rotate or crop this scan, its Markup annotations will be discarded.</base>
+        <tran loc="ar">إذا قمت بتدوير أو اقتصاص هذه النسخة الضوئية فسيتم استبعاد التعليقات التوضيحية بها.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Document Camera viewfinder auto button label for manual mode </Description>
+      <Position>Manual</Position>
+      <TranslationSet>
+        <base loc="en">Manual</base>
+        <tran loc="ar">يدوي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Folder name capitalization style. Can be: default, all, word, sentence or none </Description>
+      <Position>default</Position>
+      <TranslationSet>
+        <base loc="en">default</base>
+        <tran loc="ar">default</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Accessibility label for the flash button in the doc camera </Description>
+      <Position>Show flash settings</Position>
+      <TranslationSet>
+        <base loc="en">Show flash settings</base>
+        <tran loc="ar">إظهار إعدادات الفلاش</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Ready for next scan. </Description>
+      <Position>Ready for next scan.</Position>
+      <TranslationSet>
+        <base loc="en">Ready for next scan.</base>
+        <tran loc="ar">جاهز للنسخ الضوئي التالي.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Accessibility operation progress string </Description>
+      <Position>%lu%% complete</Position>
+      <TranslationSet>
+        <base loc="en">%lu%% complete</base>
+        <tran loc="ar">اكتمل ‫%lu٪‬</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Accessibility hint for the add button in the scanned document viewer </Description>
+      <Position>Double-tap to add a new scan to this document.</Position>
+      <TranslationSet>
+        <base loc="en">Double-tap to add a new scan to this document.</base>
+        <tran loc="ar">اضغط مرتين لإضافة نسخة ضوئية جديدة إلى هذا المستند.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Accessibility label for the filter chooser container view </Description>
+      <Position>Filter picker</Position>
+      <TranslationSet>
+        <base loc="en">Filter picker</base>
+        <tran loc="ar">منتقي الفلاتر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Apply filter to all scans alert action name. </Description>
+      <Position>Apply Filter to All Scans</Position>
+      <TranslationSet>
+        <base loc="en">Apply Filter to All Scans</base>
+        <tran loc="ar">تطبيق الفلتر على كل النسخ الضوئية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Share doc cam gallery mac progress string </Description>
+      <Position>Preparing scanned documents…</Position>
+      <TranslationSet>
+        <base loc="en">Preparing scanned documents…</base>
+        <tran loc="ar">يتم الآن تحضير المستندات الممسوحة ضوئيًا…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Accessibility hint for the rotate button in the scanned document viewer </Description>
+      <Position>Double-tap to rotate the scan counter-clockwise.</Position>
+      <TranslationSet>
+        <base loc="en">Double-tap to rotate the scan counter-clockwise.</base>
+        <tran loc="ar">اضغط مرتين لتدوير الصورة بعكس اتجاه عقارب الساعة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Filter name for 'whiteboard' filter type </Description>
+      <Position>Whiteboard</Position>
+      <TranslationSet>
+        <base loc="en">Whiteboard</base>
+        <tran loc="ar">سبورة بيضاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Accessibility hint for the 'Save' button in the doc cam interface </Description>
+      <Position>Double tap to save this document.</Position>
+      <TranslationSet>
+        <base loc="en">Double tap to save this document.</base>
+        <tran loc="ar">اضغط مرتين لحفظ هذا المستند.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Title for the rotate button in the scanned document viewer </Description>
+      <Position>Rotate</Position>
+      <TranslationSet>
+        <base loc="en">Rotate</base>
+        <tran loc="ar">تدوير</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Alert message when something goes wrong during capture session configuration </Description>
+      <Position>Unable to capture media</Position>
+      <TranslationSet>
+        <base loc="en">Unable to capture media</base>
+        <tran loc="ar">غير قادر على التقاط وسائط</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Accessibility hint for manual shutter button when not selected </Description>
+      <Position>Double-tap to change shutter mode to manual.</Position>
+      <TranslationSet>
+        <base loc="en">Double-tap to change shutter mode to manual.</base>
+        <tran loc="ar">اضغط مرتين لتغيير نمط الغالق إلى "يدوي".</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Alert message when unable to resume the session running </Description>
+      <Position>Unable to resume</Position>
+      <TranslationSet>
+        <base loc="en">Unable to resume</base>
+        <tran loc="ar">غير قادر على الاستئناف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Apply filter to scan progress format string </Description>
+      <Position>Apply Filter to Scan %lu of %lu</Position>
+      <TranslationSet>
+        <base loc="en">Apply Filter to Scan %1$lu of %2$lu</base>
+        <tran loc="ar">تطبيق الفلتر على النسخة الضوئية %1$lu من %2$lu</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Accessibility hint for the share button in the scanned document viewer </Description>
+      <Position>Double-tap to share the current scan.</Position>
+      <TranslationSet>
+        <base loc="en">Double-tap to share the current scan.</base>
+        <tran loc="ar">اضغط مرتين لمشاركة الملاحظة الحالية.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Title for the filter button in the doc cam viewer
+   Title for the filters button in the doc cam viewer </Description>
+      <Position>Filters</Position>
+      <TranslationSet>
+        <base loc="en">Filters</base>
+        <tran loc="ar">الفلاتر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Discard Scans Alert Button Title </Description>
+      <Position>Discard</Position>
+      <TranslationSet>
+        <base loc="en">Discard</base>
+        <tran loc="ar">استبعاد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Scanned Document Collection default title </Description>
+      <Position>Scanned Documents</Position>
+      <TranslationSet>
+        <base loc="en">Scanned Documents</base>
+        <tran loc="ar">مستندات ممسوحة ضوئيًا</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Accessibility format string for current filter announcement in doc cam </Description>
+      <Position>Current filter: %@</Position>
+      <TranslationSet>
+        <base loc="en">Current filter: %@</base>
+        <tran loc="ar">الفلتر الحالي: %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Markup Activity Name </Description>
+      <Position>Markup</Position>
+      <TranslationSet>
+        <base loc="en">Markup</base>
+        <tran loc="ar">توصيف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Accessibility string for portrait orientation </Description>
+      <Position>portrait</Position>
+      <TranslationSet>
+        <base loc="en">portrait</base>
+        <tran loc="ar">رأسي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Accessibility label for bottom-left crop knob in doc cam editor </Description>
+      <Position>bottom-left crop handle</Position>
+      <TranslationSet>
+        <base loc="en">bottom-left crop handle</base>
+        <tran loc="ar">معالج اقتصاص الجزء الأيسر السفلي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>Stop</Position>
+      <TranslationSet>
+        <base loc="en">Stop</base>
+        <tran loc="ar">إيقاف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Very long collection name alert message </Description>
+      <Position>Collection names can’t be longer than 128 characters.</Position>
+      <TranslationSet>
+        <base loc="en">Collection names can’t be longer than 128 characters.</base>
+        <tran loc="ar">لا يمكن أن يكون اسم المجموعة أطول من ١٢٨ حرفًا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Accessibility string for the action to reorder the current item to be before the previous item in a list </Description>
+      <Position>Order Previous</Position>
+      <TranslationSet>
+        <base loc="en">Order Previous</base>
+        <tran loc="ar">أخّر الترتيب</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Recrop retake button title </Description>
+      <Position>Retake</Position>
+      <TranslationSet>
+        <base loc="en">Retake</base>
+        <tran loc="ar">إعادة الالتقاط</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Accessibility label for the doc camera button to hide the flash settings bar </Description>
+      <Position>Hide flash settings</Position>
+      <TranslationSet>
+        <base loc="en">Hide flash settings</base>
+        <tran loc="ar">إخفاء إعدادات الفلاش</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Accessibility hint for reordering on doc cam viewer thumbnail collection </Description>
+      <Position>Double-tap and drag to reorder current scan</Position>
+      <TranslationSet>
+        <base loc="en">Double-tap and drag to reorder current scan</base>
+        <tran loc="ar">اضغط مرتين واسحب لإعادة ترتيب النسخة الضوئية الحالية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Accessibility label for top-right crop knob in doc cam editor </Description>
+      <Position>top-right crop handle</Position>
+      <TranslationSet>
+        <base loc="en">top-right crop handle</base>
+        <tran loc="ar">معالج اقتصاص الجزء الأيمن العلوي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Accessibility value for the flash button in doc camera when flash is on </Description>
+      <Position>on</Position>
+      <TranslationSet>
+        <base loc="en">on</base>
+        <tran loc="ar">قيد التشغيل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Accessibility announcement to tell user to position doc cam slightly right </Description>
+      <Position>Move camera slightly right and hold still</Position>
+      <TranslationSet>
+        <base loc="en">Move camera slightly right and hold still</base>
+        <tran loc="ar">حرك الكاميرا لليمين قليلًا وامسكها بثبات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Accessibility hint for the flash=off button in the doc camera </Description>
+      <Position>Double-tap to turn flash on</Position>
+      <TranslationSet>
+        <base loc="en">Double-tap to turn flash on</base>
+        <tran loc="ar">اضغط مرتين لتشغيل الفلاش</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Format string for current scanned document page </Description>
+      <Position>%d of %d</Position>
+      <TranslationSet>
+        <base loc="en">%1$d of %2$d</base>
+        <tran loc="ar">‏%1$d من %2$d</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Accessibility hint for auto shutter button when not selected </Description>
+      <Position>Double-tap to change shutter mode to automatic.</Position>
+      <TranslationSet>
+        <base loc="en">Double-tap to change shutter mode to automatic.</base>
+        <tran loc="ar">اضغط مرتين لتغيير نمط الغالق إلى "تلقائي".</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>Record</Position>
+      <TranslationSet>
+        <base loc="en">Record</base>
+        <tran loc="ar">تسجيل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Accessibility label for scan thumbnails in the doc camera </Description>
+      <Position>Scan thumbnail</Position>
+      <TranslationSet>
+        <base loc="en">Scan thumbnail</base>
+        <tran loc="ar">صورة مصغرة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Accessibility value for the flash button in doc camera when flash is off </Description>
+      <Position>off</Position>
+      <TranslationSet>
+        <base loc="en">off</base>
+        <tran loc="ar">إيقاف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Discard Multiple Scans Alert Title </Description>
+      <Position>Discard Scans</Position>
+      <TranslationSet>
+        <base loc="en">Discard Scans</base>
+        <tran loc="ar">استبعاد النسخ الضوئية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Accessibility format string for completed reordering thumbnails in doc cam viewer </Description>
+      <Position>Moved item from position %lu to position %lu</Position>
+      <TranslationSet>
+        <base loc="en">Moved item from position %1$lu to position %2$lu</base>
+        <tran loc="ar">تم نقل العنصر من الموضع %1$lu إلى الموضع %2$lu</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Accessibility hint for the filter button in the scanned document viewer </Description>
+      <Position>Double-tap to choose a filter to apply to this scan.</Position>
+      <TranslationSet>
+        <base loc="en">Double-tap to choose a filter to apply to this scan.</base>
+        <tran loc="ar">اضغط مرتين لاختيار فلتر وتطبيقه على هذه النسخة الضوئية.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Accessibility hint for the flash=off button in the doc camera </Description>
+      <Position>Double-tap to turn flash off</Position>
+      <TranslationSet>
+        <base loc="en">Double-tap to turn flash off</base>
+        <tran loc="ar">اضغط مرتين لإيقاف الفلاش</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Preview Item title for image belonging to scanned document </Description>
+      <Position>Scan</Position>
+      <TranslationSet>
+        <base loc="en">Scan</base>
+        <tran loc="ar">صورة مسح ضوئي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Filter name for 'grayscale' filter type </Description>
+      <Position>Grayscale</Position>
+      <TranslationSet>
+        <base loc="en">Grayscale</base>
+        <tran loc="ar">تدرج الرمادي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Accessibility announcement to tell user to position doc cam slightly down </Description>
+      <Position>Move camera slightly down and hold still</Position>
+      <TranslationSet>
+        <base loc="en">Move camera slightly down and hold still</base>
+        <tran loc="ar">حرك الكاميرا للأسفل قليلًا وامسكها بثبات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Format string for current scanned document page </Description>
+      <Position>%lu of %lu</Position>
+      <TranslationSet>
+        <base loc="en">%1$lu of %2$lu</base>
+        <tran loc="ar">‏%1$lu من %2$lu</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Accessibility label for an image </Description>
+      <Position>image</Position>
+      <TranslationSet>
+        <base loc="en">image</base>
+        <tran loc="ar">صورة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Accessibility hint for scan in doc cam viewer </Description>
+      <Position>Three-finger swipe to scroll between scans.</Position>
+      <TranslationSet>
+        <base loc="en">Three-finger swipe to scroll between scans.</base>
+        <tran loc="ar">قم بالتحريك بثلاثة أصابع للتمرير بين النسخ الضوئية.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Alert button to open Settings </Description>
+      <Position>Settings</Position>
+      <TranslationSet>
+        <base loc="en">Settings</base>
+        <tran loc="ar">الإعدادات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Alert message when camera access is denied </Description>
+      <Position>Privacy or Restrictions settings have disabled use of the camera. You can change this in Settings.</Position>
+      <TranslationSet>
+        <base loc="en">Privacy or Restrictions settings have disabled use of the camera. You can change this in Settings.</base>
+        <tran loc="ar">عطّلت إعدادات الخصوصية والقيود استخدام الكاميرا. يمكنك تغيير ذلك في الإعدادات.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Discard Single Scan Alert Title </Description>
+      <Position>Discard Scan</Position>
+      <TranslationSet>
+        <base loc="en">Discard Scan</base>
+        <tran loc="ar">استبعاد النسخة الضوئية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Alert title when camera access is denied </Description>
+      <Position>Camera Unavailable</Position>
+      <TranslationSet>
+        <base loc="en">Camera Unavailable</base>
+        <tran loc="ar">الكاميرا غير متوفرة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Accessibility value formatter for scan thumbnails container in doc cam viewer </Description>
+      <Position>Scan %lu of %lu</Position>
+      <TranslationSet>
+        <base loc="en">Scan %1$lu of %2$lu</base>
+        <tran loc="ar">نسخة ضوئية %1$lu من %2$lu</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Accessibility label for the 'Save' button in the doc cam interface
+   Save Multiple Scans Button Title
+   Save new folder name
+   Save Single Scan Button Title </Description>
+      <Position>Save</Position>
+      <TranslationSet>
+        <base loc="en">Save</base>
+        <tran loc="ar">حفظ</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>DocumentCamera/System/Library/PrivateFrameworks/DocumentCamera.framework/en.lproj/ICDocCamExtractedDocumentNavigationController.strings</Filepath>
+    <TextItem>
+      <Description> Class = "UINavigationItem"; title = "Title"; ObjectID = "0us-YC-u5C"; </Description>
+      <Position>0us-YC-u5C.title</Position>
+      <TranslationSet>
+        <base loc="en">Title</base>
+        <tran loc="ar">العنوان</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>DocumentCamera/System/Library/PrivateFrameworks/DocumentCamera.framework/en.lproj/DCProgressViewController.strings</Filepath>
+    <TextItem>
+      <Description> Class = "UILabel"; text = " Label"; ObjectID = "t4N-dC-9TF"; </Description>
+      <Position>t4N-dC-9TF.text</Position>
+      <TranslationSet>
+        <base loc="en"> Label</base>
+        <tran loc="ar"> العنوان</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>DocumentCamera/System/Library/PrivateFrameworks/DocumentCamera.framework/en.lproj/ICDocCamImageQuadEditViewController.strings</Filepath>
+    <TextItem>
+      <Description> Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "C3D-R9-Zr7"; </Description>
+      <Position>C3D-R9-Zr7.normalTitle</Position>
+      <TranslationSet>
+        <base loc="en">Cancel</base>
+        <tran loc="ar">إلغاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "UILabel"; text = "Drag near corners to adjust."; ObjectID = "cb7-FY-wRI"; </Description>
+      <Position>cb7-FY-wRI.text</Position>
+      <TranslationSet>
+        <base loc="en">Drag near corners to adjust.</base>
+        <tran loc="ar">اسحب بالقرب من الزوايا للضبط.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "UIButton"; normalTitle = "Save"; ObjectID = "EYm-xW-m48"; </Description>
+      <Position>EYm-xW-m48.normalTitle</Position>
+      <TranslationSet>
+        <base loc="en">Save</base>
+        <tran loc="ar">حفظ</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>DocumentCamera/System/Library/PrivateFrameworks/DocumentCamera.framework/en.lproj/Localizable.stringsdict</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>/DISCARD_%lu_SCANNED_IMAGES_ALERT_MESSAGE:dict/num_images:dict/few:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Are you sure you want to discard %lu scans?</base>
+        <tran loc="ar">هل ترغب بالتأكيد في استبعاد %lu نسخ ضوئية؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/DISCARD_%lu_SCANNED_IMAGES_ALERT_MESSAGE:dict/num_images:dict/many:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Are you sure you want to discard %lu scans?</base>
+        <tran loc="ar">هل ترغب بالتأكيد في استبعاد %lu نسخة ضوئية؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/DISCARD_%lu_SCANNED_IMAGES_ALERT_MESSAGE:dict/num_images:dict/other:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Are you sure you want to discard %lu scans?</base>
+        <tran loc="ar">هل ترغب بالتأكيد في استبعاد %lu نسخة ضوئية؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/DISCARD_%lu_SCANNED_IMAGES_ALERT_MESSAGE:dict/num_images:dict/two:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Are you sure you want to discard %lu scans?</base>
+        <tran loc="ar">هل ترغب بالتأكيد في استبعاد النسختين الضوئيتين؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/DISCARD_%lu_SCANNED_IMAGES_ALERT_MESSAGE:dict/num_images:dict/zero:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Are you sure you want to discard %lu scans?</base>
+        <tran loc="ar">هل ترغب بالتأكيد في استبعاد %lu نسخة ضوئية؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/%lu scans:dict/num_scans:dict/one:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%lu scan</base>
+        <tran loc="ar">صورة مسح ضوئي واحدة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/Double-tap to preview %lu scanned images:dict/num_images:dict/one:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Double-tap to preview scanned image</base>
+        <tran loc="ar">اضغط مرتين لمعاينة الصورتين الممسوحتين ضوئيًا</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/SAVE_%lu_SCANNED_IMAGES_COUNT:dict/num_images:dict/few:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">(%lu)</base>
+        <tran loc="ar">‏(%lu)</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/SAVE_%lu_SCANNED_IMAGES_COUNT:dict/num_images:dict/many:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">(%lu)</base>
+        <tran loc="ar">‏(%lu)</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/SAVE_%lu_SCANNED_IMAGES_COUNT:dict/num_images:dict/one:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">(%lu)</base>
+        <tran loc="ar">‏(%lu)</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/SAVE_%lu_SCANNED_IMAGES_COUNT:dict/num_images:dict/other:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">(%lu)</base>
+        <tran loc="ar">‏(%lu)</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/SAVE_%lu_SCANNED_IMAGES_COUNT:dict/num_images:dict/two:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">(%lu)</base>
+        <tran loc="ar">‏(%lu)</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/SAVE_%lu_SCANNED_IMAGES_COUNT:dict/num_images:dict/zero:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">(%lu)</base>
+        <tran loc="ar">‏(%lu)</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/%lu scans:dict/num_scans:dict/few:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%lu scans</base>
+        <tran loc="ar">%lu صور مسح ضوئي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/%lu scans:dict/num_scans:dict/many:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%lu scans</base>
+        <tran loc="ar">%lu صورة مسح ضوئي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/%lu scans:dict/num_scans:dict/other:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%lu scans</base>
+        <tran loc="ar">‏%lu نسخة ضوئية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/%lu scans:dict/num_scans:dict/two:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%lu scans</base>
+        <tran loc="ar">صورتا مسح ضوئي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/%lu scans:dict/num_scans:dict/zero:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%lu scans</base>
+        <tran loc="ar">لا توجد صور مسح ضوئي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/%lu_SCANNED_IMAGE_THUMBNAILS:dict/num_images:dict/one:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%lu scan thumbnail</base>
+        <tran loc="ar">صورة مصغرة واحدة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/Double-tap to preview %lu scanned images:dict/num_images:dict/few:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Double-tap to preview %lu scanned images</base>
+        <tran loc="ar">اضغط مرتين لمعاينة %lu صورة ممسوحة ضوئيًا</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/Double-tap to preview %lu scanned images:dict/num_images:dict/many:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Double-tap to preview %lu scanned images</base>
+        <tran loc="ar">اضغط مرتين لمعاينة %lu صورة ممسوحة ضوئيًا</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/Double-tap to preview %lu scanned images:dict/num_images:dict/other:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Double-tap to preview %lu scanned images</base>
+        <tran loc="ar">اضغط مرتين لمعاينة %lu صورة ممسوحة ضوئيًا</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/Double-tap to preview %lu scanned images:dict/num_images:dict/two:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Double-tap to preview %lu scanned images</base>
+        <tran loc="ar">اضغط مرتين لمعاينة الصورتين الممسوحتين ضوئيًا</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/Double-tap to preview %lu scanned images:dict/num_images:dict/zero:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Double-tap to preview %lu scanned images</base>
+        <tran loc="ar">اضغط مرتين لمعاينة الصورتين الممسوحتين ضوئيًا</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/%lu scans:dict/NSStringLocalizedFormatKey:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%#@num_scans@</base>
+        <tran loc="ar">%#@num_scans@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/DISCARD_%lu_SCANNED_IMAGES_ALERT_MESSAGE:dict/num_images:dict/one:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Are you sure you want to discard this scan?</base>
+        <tran loc="ar">هل ترغب بالتأكيد في استبعاد هذه النسخة الضوئية؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/%lu_SCANNED_IMAGE_THUMBNAILS:dict/num_images:dict/few:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%lu scan thumbnails</base>
+        <tran loc="ar">‏%lu صور مصغرة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/%lu_SCANNED_IMAGE_THUMBNAILS:dict/num_images:dict/many:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%lu scan thumbnails</base>
+        <tran loc="ar">‏%lu صورة نسخة ضوئية مصغرة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/%lu_SCANNED_IMAGE_THUMBNAILS:dict/num_images:dict/other:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%lu scan thumbnails</base>
+        <tran loc="ar">‏%lu صورة نسخة ضوئية مصغرة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/%lu_SCANNED_IMAGE_THUMBNAILS:dict/num_images:dict/two:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%lu scan thumbnails</base>
+        <tran loc="ar">صورتا نسختين ضوئيتين مصغرتين</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/%lu_SCANNED_IMAGE_THUMBNAILS:dict/num_images:dict/zero:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%lu scan thumbnails</base>
+        <tran loc="ar">‏%lu صورة مصغرة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/%lu_SCANNED_IMAGE_THUMBNAILS:dict/NSStringLocalizedFormatKey:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%#@num_images@</base>
+        <tran loc="ar">%#@num_images@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/DISCARD_%lu_SCANNED_IMAGES_ALERT_MESSAGE:dict/NSStringLocalizedFormatKey:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%#@num_images@</base>
+        <tran loc="ar">%#@num_images@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/Double-tap to preview %lu scanned images:dict/NSStringLocalizedFormatKey:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%#@num_images@</base>
+        <tran loc="ar">%#@num_images@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/SAVE_%lu_SCANNED_IMAGES_COUNT:dict/NSStringLocalizedFormatKey:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%#@num_images@</base>
+        <tran loc="ar">%#@num_images@</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>DocumentCamera/System/Library/PrivateFrameworks/DocumentCamera.framework/en.lproj/ICDocCamViewController.strings</Filepath>
+    <TextItem>
+      <Description> Class = "UILabel"; text = "Move camera closer."; ObjectID = "lta-eW-fOG"; </Description>
+      <Position>lta-eW-fOG.text</Position>
+      <TranslationSet>
+        <base loc="en">Move camera closer.</base>
+        <tran loc="ar">قرّب الكاميرا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "UILabel"; text = "Position the document in view."; ObjectID = "nWU-2W-xA0"; </Description>
+      <Position>nWU-2W-xA0.text</Position>
+      <TranslationSet>
+        <base loc="en">Position the document in view.</base>
+        <tran loc="ar">وضع المستند في حدود العرض</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "UIButton"; normalTitle = "Auto"; ObjectID = "UYx-RV-j8P"; </Description>
+      <Position>UYx-RV-j8P.normalTitle</Position>
+      <TranslationSet>
+        <base loc="en">Auto</base>
+        <tran loc="ar">تلقائي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "UIButton"; normalTitle = "Auto"; ObjectID = "WCM-va-47O"; </Description>
+      <Position>WCM-va-47O.normalTitle</Position>
+      <TranslationSet>
+        <base loc="en">Auto</base>
+        <tran loc="ar">تلقائي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "UIButton"; normalTitle = "Auto"; ObjectID = "nQh-Ka-Sgy"; </Description>
+      <Position>nQh-Ka-Sgy.normalTitle</Position>
+      <TranslationSet>
+        <base loc="en">Auto</base>
+        <tran loc="ar">تلقائي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "UILabel"; text = "Color"; ObjectID = "1yZ-0b-Zbi"; </Description>
+      <Position>1yZ-0b-Zbi.text</Position>
+      <TranslationSet>
+        <base loc="en">Color</base>
+        <tran loc="ar">اللون</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "UIButton"; normalTitle = "Tap to resume"; ObjectID = "aVj-LG-l89"; </Description>
+      <Position>aVj-LG-l89.normalTitle</Position>
+      <TranslationSet>
+        <base loc="en">Tap to resume</base>
+        <tran loc="ar">اضغط للاستئناف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "UILabel"; text = "Auto Shutter On"; ObjectID = "RMc-ff-d2O"; </Description>
+      <Position>RMc-ff-d2O.text</Position>
+      <TranslationSet>
+        <base loc="en">Auto Shutter On</base>
+        <tran loc="ar">تشغيل الغالق التلقائي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "i5E-iG-1uK"; </Description>
+      <Position>i5E-iG-1uK.normalTitle</Position>
+      <TranslationSet>
+        <base loc="en">Cancel</base>
+        <tran loc="ar">إلغاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "kw4-iJ-8Zs"; </Description>
+      <Position>kw4-iJ-8Zs.normalTitle</Position>
+      <TranslationSet>
+        <base loc="en">Cancel</base>
+        <tran loc="ar">إلغاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "UILabel"; text = "Auto Shutter Off"; ObjectID = "iKz-wD-FKx"; </Description>
+      <Position>iKz-wD-FKx.text</Position>
+      <TranslationSet>
+        <base loc="en">Auto Shutter Off</base>
+        <tran loc="ar">إيقاف الغالق التلقائي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "UIButton"; normalTitle = "Manual"; ObjectID = "c9v-qI-kGi"; </Description>
+      <Position>c9v-qI-kGi.normalTitle</Position>
+      <TranslationSet>
+        <base loc="en">Manual</base>
+        <tran loc="ar">يدوي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "UILabel"; text = "Document Camera!#x2028;Unavailable"; ObjectID = "I0O-ug-3nx"; </Description>
+      <Position>I0O-ug-3nx.text</Position>
+      <TranslationSet>
+        <base loc="en">Document Camera!#x2028;Unavailable</base>
+        <tran loc="ar">كاميرا المستندات!#x2028;غير متاحة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "UIButton"; normalTitle = "On"; ObjectID = "BNo-LJ-jtQ"; </Description>
+      <Position>BNo-LJ-jtQ.normalTitle</Position>
+      <TranslationSet>
+        <base loc="en">On</base>
+        <tran loc="ar">مشغّل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "UIButton"; normalTitle = "Record"; ObjectID = "C8S-3k-GY9"; </Description>
+      <Position>C8S-3k-GY9.normalTitle</Position>
+      <TranslationSet>
+        <base loc="en">Record</base>
+        <tran loc="ar">تسجيل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "UIButton"; normalTitle = "Off"; ObjectID = "fhG-Dp-2sr"; </Description>
+      <Position>fhG-Dp-2sr.normalTitle</Position>
+      <TranslationSet>
+        <base loc="en">Off</base>
+        <tran loc="ar">متوقف</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>DocumentCamera/System/Library/PrivateFrameworks/DocumentCamera.framework/en.lproj/ICDocCamExtractedDocumentViewController.strings</Filepath>
+    <TextItem>
+      <Description> Class = "UILabel"; text = "1 of 3"; ObjectID = "aTm-El-moG"; </Description>
+      <Position>aTm-El-moG.text</Position>
+      <TranslationSet>
+        <base loc="en">1 of 3</base>
+        <tran loc="ar">١ من ٣</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "UIBarButtonItem"; title = "Retake"; ObjectID = "sWK-Lc-e59"; </Description>
+      <Position>sWK-Lc-e59.title</Position>
+      <TranslationSet>
+        <base loc="en">Retake</base>
+        <tran loc="ar">إعادة الالتقاط</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "UIButton"; normalTitle = "Collection Name"; ObjectID = "sT1-kv-Ev0"; </Description>
+      <Position>sT1-kv-Ev0.normalTitle</Position>
+      <TranslationSet>
+        <base loc="en">Collection Name</base>
+        <tran loc="ar">اسم المجموعة:</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+</Proj>

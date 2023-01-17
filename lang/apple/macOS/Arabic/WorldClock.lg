@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Proj>
+  <ProjName>WorldClock</ProjName>
+  <File>
+    <Filepath>WorldClock/System/Library/Frameworks/NotificationCenter.framework/PlugIns/com.apple.ncplugin.WorldClock.appex/Contents/Resources/en.lproj/InfoPlist.strings</Filepath>
+    <TextItem>
+      <Description> Localized versions of Info.plist keys </Description>
+      <Position>CFBundleDisplayName</Position>
+      <TranslationSet>
+        <base loc="en">World Clock</base>
+        <tran loc="ar">الساعة العالمية</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>WorldClock/System/Library/Frameworks/NotificationCenter.framework/PlugIns/com.apple.ncplugin.WorldClock.appex/Contents/Resources/en.lproj/Localizable.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>ShowMore</Position>
+      <TranslationSet>
+        <base loc="en">Show More…</base>
+        <tran loc="ar">إظهار المزيد...</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ShowLess</Position>
+      <TranslationSet>
+        <base loc="en">Show Less…</base>
+        <tran loc="ar">إظهار عدد أقل…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 
+  Localizable.strings
+  WorldClock
+
+  Created by Martin Baldwin on 2014-03-28.
+  Copyright (c) 2014 Apple. All rights reserved.
+</Description>
+      <Position>Add</Position>
+      <TranslationSet>
+        <base loc="en">Add</base>
+        <tran loc="ar">إضافة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Choose a city</Position>
+      <TranslationSet>
+        <base loc="en">Choose a city</base>
+        <tran loc="ar">اختر مدينة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Clock List</Position>
+      <TranslationSet>
+        <base loc="en">Clock List</base>
+        <tran loc="ar">قائمة الساعات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Add City</Position>
+      <TranslationSet>
+        <base loc="en">Add City</base>
+        <tran loc="ar">إضافة مدينة</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+</Proj>

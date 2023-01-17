@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Proj>
+  <ProjName>SPiBridgeReporter</ProjName>
+  <File>
+    <Filepath>SPiBridgeReporter/System/Library/SystemProfiler/SPiBridgeReporter.spreporter/Contents/XPCServices/iBridgeDiscovery.xpc/Contents/Resources/en.lproj/Localizable.strings</Filepath>
+    <TextItem>
+      <Description> Startup Manager allow BootCamp </Description>
+      <Position>BootCamp</Position>
+      <TranslationSet>
+        <base loc="en">BootCamp</base>
+        <tran loc="ar">‏BootCamp</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 
+  Localizable.strings
+  iBridgeDiscovery
+
+ Startup Manager allow External Drive</Description>
+      <Position>External Drive</Position>
+      <TranslationSet>
+        <base loc="en">External Drive</base>
+        <tran loc="ar">قرص خارجي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Startup Manager allow Network </Description>
+      <Position>Network</Position>
+      <TranslationSet>
+        <base loc="en">Network</base>
+        <tran loc="ar">الشبكة</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>SPiBridgeReporter/System/Library/SystemProfiler/SPiBridgeReporter.spreporter/Contents/Resources/en.lproj/Localizable.strings</Filepath>
+    <TextItem>
+      <Description> Disallow booting from external media </Description>
+      <Position>Disallowed</Position>
+      <TranslationSet>
+        <base loc="en">Disallowed</base>
+        <tran loc="ar">غير مسموح</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ibridge_boot_uuid</Position>
+      <TranslationSet>
+        <base loc="en">Boot UUID</base>
+        <tran loc="ar">معرف UUID للإقلاع</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>no_info_found</Position>
+      <TranslationSet>
+        <base loc="en">This computer doesn’t contain any Controller devices.</base>
+        <tran loc="ar">هذا الكمبيوتر لا يحتوي على أي أجهزة وحدة تحكم.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Default string on system where a serial number is not available </Description>
+      <Position>Not Available</Position>
+      <TranslationSet>
+        <base loc="en">Not Available</base>
+        <tran loc="ar">غير متوفر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ibridge_boot_rom_version</Position>
+      <TranslationSet>
+        <base loc="en">Boot ROM Version</base>
+        <tran loc="ar">إصدار Boot ROM</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ibridge_extra</Position>
+      <TranslationSet>
+        <base loc="en">Details</base>
+        <tran loc="ar">التفاصيل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SPiBridgeDataType</Position>
+      <TranslationSet>
+        <base loc="en">Controller</base>
+        <tran loc="ar">وحدة التحكم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ibridge_hw_revision</Position>
+      <TranslationSet>
+        <base loc="en">  Board Revision</base>
+        <tran loc="ar">  مراجعة اللوحة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ibridge_model_identifier</Position>
+      <TranslationSet>
+        <base loc="en">  Model Identifier</base>
+        <tran loc="ar">  معرّف الطراز</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Startup Manager allow BootCamp </Description>
+      <Position>BootCamp</Position>
+      <TranslationSet>
+        <base loc="en">BootCamp</base>
+        <tran loc="ar">BootCamp</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ibridge_extra_boot_policies</Position>
+      <TranslationSet>
+        <base loc="en">Boot Policy</base>
+        <tran loc="ar">سياسة الإقلاع</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ibridge_secure_boot</Position>
+      <TranslationSet>
+        <base loc="en">  Secure Boot</base>
+        <tran loc="ar">  إقلاع آمن</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ibridge_link</Position>
+      <TranslationSet>
+        <base loc="en">  Type</base>
+        <tran loc="ar">  النوع</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ibridge_hostname</Position>
+      <TranslationSet>
+        <base loc="en">  Hostname</base>
+        <tran loc="ar">  اسم المضيف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ibridge_build</Position>
+      <TranslationSet>
+        <base loc="en">Firmware Version</base>
+        <tran loc="ar">إصدار البرنامج الثابت</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ibridge_hw_model</Position>
+      <TranslationSet>
+        <base loc="en">  Hardware Model</base>
+        <tran loc="ar">  طراز الجهاز</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Informs iBridge is not connected, healed, dev-fused </Description>
+      <Position>No</Position>
+      <TranslationSet>
+        <base loc="en">No</base>
+        <tran loc="ar">لا</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ibridge_prod_fused</Position>
+      <TranslationSet>
+        <base loc="en">  Production Fused</base>
+        <tran loc="ar">‏  Production Fused</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>reporter_error</Position>
+      <TranslationSet>
+        <base loc="en">There was an error while scanning for Controller devices.</base>
+        <tran loc="ar">حدث خطأ أثناء إجراء المسح بحثًا عن أجهزة وحدة التحكم.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ibridge_external_boot</Position>
+      <TranslationSet>
+        <base loc="en">  External Boot</base>
+        <tran loc="ar">  إقلاع خارجي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Startup Manager allow External Drive</Description>
+      <Position>External Drive</Position>
+      <TranslationSet>
+        <base loc="en">External Drive</base>
+        <tran loc="ar">قرص خارجي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description>iBridge Link Type indicates wether the iBridge is locally attached (Internal) or attached for USB to our host (External)</Description>
+      <Position>Internal</Position>
+      <TranslationSet>
+        <base loc="en">Internal</base>
+        <tran loc="ar">داخلي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Startup Manager allow Network </Description>
+      <Position>Network</Position>
+      <TranslationSet>
+        <base loc="en">Network</base>
+        <tran loc="ar">الشبكة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Informs iBridge is connected, healed, dev-fused </Description>
+      <Position>Yes</Position>
+      <TranslationSet>
+        <base loc="en">Yes</base>
+        <tran loc="ar">نعم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description>Apple Tx chip</Description>
+      <Position>Apple T%1$@ Security Chip</Position>
+      <TranslationSet>
+        <base loc="en">Apple T%1$@ Security Chip</base>
+        <tran loc="ar">‫شريحة Apple T%1$@‎ الأمنية‬</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ibridge_unique_chip_id</Position>
+      <TranslationSet>
+        <base loc="en">  ECID</base>
+        <tran loc="ar">  ‏ECID</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Secure Boot Full Security Level </Description>
+      <Position>Full Security</Position>
+      <TranslationSet>
+        <base loc="en">Full Security</base>
+        <tran loc="ar">تأمين كامل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Apple Security Chip</Position>
+      <TranslationSet>
+        <base loc="en">Apple Security Chip</base>
+        <tran loc="ar">شريحة Apple الأمنية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Controller Information</Position>
+      <TranslationSet>
+        <base loc="en">Controller Information</base>
+        <tran loc="ar">معلومات وحدة التحكم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> System Profiler Item Title </Description>
+      <Position>_name</Position>
+      <TranslationSet>
+        <base loc="en">Controller Information</base>
+        <tran loc="ar">معلومات وحدة التحكم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Secure Boot No Security Level </Description>
+      <Position>No Security</Position>
+      <TranslationSet>
+        <base loc="en">No Security</base>
+        <tran loc="ar">بلا تأمين</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>External</Position>
+      <TranslationSet>
+        <base loc="en">External</base>
+        <tran loc="ar">خارجي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Secure Boot Medium Security Level </Description>
+      <Position>Medium Security</Position>
+      <TranslationSet>
+        <base loc="en">Medium Security</base>
+        <tran loc="ar">تأمين متوسط</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ibridge_model_name</Position>
+      <TranslationSet>
+        <base loc="en">Model Name</base>
+        <tran loc="ar">اسم الطراز</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+</Proj>

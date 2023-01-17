@@ -1,0 +1,3077 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Proj>
+  <ProjName>ImageIO</ProjName>
+  <File>
+    <Filepath>ImageIO/System/Library/Frameworks/ImageIO.framework/Versions/A/Resources/en.lproj/CGImageSource.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>dataWindow</Position>
+      <TranslationSet>
+        <base loc="en">Data Window</base>
+        <tran loc="ar">نافذة البيانات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Model</Position>
+      <TranslationSet>
+        <base loc="en">Model</base>
+        <tran loc="ar">الطراز</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>sRGBIntent</Position>
+      <TranslationSet>
+        <base loc="en">sRGB Intent</base>
+        <tran loc="ar">هدف sRGB</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ImageSupplierImageID</Position>
+      <TranslationSet>
+        <base loc="en">Image Supplier Image ID</base>
+        <tran loc="ar">معرف الصورة المعين بواسطة المقدم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Possible values for kCGImagePropertyColorModel property </Description>
+      <Position>RGB</Position>
+      <TranslationSet>
+        <base loc="en">RGB</base>
+        <tran loc="ar">‏RGB</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Possible keys for kCGImagePropertyDNGDictionary </Description>
+      <Position>DNGVersion</Position>
+      <TranslationSet>
+        <base loc="en">DNG Version</base>
+        <tran loc="ar">إصدار DNG</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ComponentsConfiguration</Position>
+      <TranslationSet>
+        <base loc="en">Components Configuration</base>
+        <tran loc="ar">تكوين المكوّنات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>com.nikon.raw-image</Position>
+      <TranslationSet>
+        <base loc="en">Nikon Raw</base>
+        <tran loc="ar">Nikon Raw</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ContentLocationCode</Position>
+      <TranslationSet>
+        <base loc="en">Content Location Code</base>
+        <tran loc="ar">رمز موقع المحتوى</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CiAdrCtry</Position>
+      <TranslationSet>
+        <base loc="en">Creator (Country/Region)</base>
+        <tran loc="ar">المُنشئ (البلد/المنطقة)</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Possible keys for kCGImagePropertyJFIFDictionary </Description>
+      <Position>JFIFVersion</Position>
+      <TranslationSet>
+        <base loc="en">JFIF Version</base>
+        <tran loc="ar">إصدار JFIF</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>FlashEnergy</Position>
+      <TranslationSet>
+        <base loc="en">Flash Energy</base>
+        <tran loc="ar">طاقة الوميض</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Country/PrimaryLocationName</Position>
+      <TranslationSet>
+        <base loc="en">Country/Region</base>
+        <tran loc="ar">البلد/المنطقة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>com.apple.quicktime-image</Position>
+      <TranslationSet>
+        <base loc="en">QuickTime</base>
+        <tran loc="ar">‏QuickTime</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PhotoEffect</Position>
+      <TranslationSet>
+        <base loc="en">Photo Effect</base>
+        <tran loc="ar">تأثير الصورة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ImageSupplier</Position>
+      <TranslationSet>
+        <base loc="en">Image Supplier</base>
+        <tran loc="ar">مقدم الصورة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>TileLength</Position>
+      <TranslationSet>
+        <base loc="en">Tile Length</base>
+        <tran loc="ar">طول التجانب</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>YResolution</Position>
+      <TranslationSet>
+        <base loc="en">Y Resolution</base>
+        <tran loc="ar">الدقة Y</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>WhitePoint</Position>
+      <TranslationSet>
+        <base loc="en">White Point</base>
+        <tran loc="ar">النقطة البيضاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Software</Position>
+      <TranslationSet>
+        <base loc="en">Software</base>
+        <tran loc="ar">البرنامج</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Possible keys for kCGImagePropertyMakerCanonDictionary 
+"OwnerName"                   = "Owner Name";
+"CameraSerialNumber"          = "Camera Serial Number";
+"ImageSerialNumber"           = "Image Serial Number";
+"FlashExposureComp"           = "Flash Exposure Compensation";
+"ContinuousDrive"             = "Continuous Drive";
+"LensModel"                   = "Lens Model";
+ "_CanonMakerCameraSettings" 
+ "_CanonMakerShotInfo" 
+ "_CanonFileInfo" </Description>
+      <Position>UniqueModelID</Position>
+      <TranslationSet>
+        <base loc="en">Unique Model ID</base>
+        <tran loc="ar">معرّف طراز وحيد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>TileWidth</Position>
+      <TranslationSet>
+        <base loc="en">Tile Width</base>
+        <tran loc="ar">عرض التجانب</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>{JFIF}</Position>
+      <TranslationSet>
+        <base loc="en">JFIF Properties</base>
+        <tran loc="ar">خصائص JFIF</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Possible keys for kCGImagePropertyIPTCDictionary </Description>
+      <Position>ActionAdvised</Position>
+      <TranslationSet>
+        <base loc="en">Action Advised</base>
+        <tran loc="ar">يُوصى بالإجراء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CMYK</Position>
+      <TranslationSet>
+        <base loc="en">CMYK</base>
+        <tran loc="ar">CMYK</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Status</Position>
+      <TranslationSet>
+        <base loc="en">Status</base>
+        <tran loc="ar">الحالة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>OECF</Position>
+      <TranslationSet>
+        <base loc="en">OECF</base>
+        <tran loc="ar">OECF</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>WebStatement</Position>
+      <TranslationSet>
+        <base loc="en">Copyright Info URL</base>
+        <tran loc="ar">عنوان URL لمعلومات حقوق النشر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>com.microsoft.cur</Position>
+      <TranslationSet>
+        <base loc="en">Microsoft Cursor</base>
+        <tran loc="ar">Microsoft مؤشر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ExposureIndex</Position>
+      <TranslationSet>
+        <base loc="en">Exposure Index</base>
+        <tran loc="ar">مؤشر التعرض للضوء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>FocusMode</Position>
+      <TranslationSet>
+        <base loc="en">Focus Mode</base>
+        <tran loc="ar">وضع التركيز البؤري</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>LensMaxMM</Position>
+      <TranslationSet>
+        <base loc="en">Lens Max MM</base>
+        <tran loc="ar">الحد الأقصى للعدسة بالميليمتر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>IsIndexed</Position>
+      <TranslationSet>
+        <base loc="en">Is Indexed</base>
+        <tran loc="ar">مفهرس</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Caption/Abstract</Position>
+      <TranslationSet>
+        <base loc="en">Caption/Description</base>
+        <tran loc="ar">الشرح المكتوب/الوصف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CiEmailWork</Position>
+      <TranslationSet>
+        <base loc="en">Creator (Email)</base>
+        <tran loc="ar">المُنشئ (البريد الإلكتروني)</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Lab</Position>
+      <TranslationSet>
+        <base loc="en">Lab</base>
+        <tran loc="ar">معمل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ReleaseTiming</Position>
+      <TranslationSet>
+        <base loc="en">Release Timing</base>
+        <tran loc="ar">توقيت الإصدار</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Orientation</Position>
+      <TranslationSet>
+        <base loc="en">Orientation</base>
+        <tran loc="ar">التوجيه</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AboutCvTerm</Position>
+      <TranslationSet>
+        <base loc="en">CV-Term About Image</base>
+        <tran loc="ar">مصطلح CV-Term عن الصورة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>YDensity</Position>
+      <TranslationSet>
+        <base loc="en">Y Density</base>
+        <tran loc="ar">الكثافة-Y</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ImageStabilization</Position>
+      <TranslationSet>
+        <base loc="en">Image Stabilization</base>
+        <tran loc="ar">ثبات الصورة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Saturation</Position>
+      <TranslationSet>
+        <base loc="en">Saturation</base>
+        <tran loc="ar">التشبع</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ColorModel</Position>
+      <TranslationSet>
+        <base loc="en">Color Model</base>
+        <tran loc="ar">نموذج اللون</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ISOSelection</Position>
+      <TranslationSet>
+        <base loc="en">ISO Selection</base>
+        <tran loc="ar">تحديد ISO</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>HostComputer</Position>
+      <TranslationSet>
+        <base loc="en">Host Computer</base>
+        <tran loc="ar">الكمبيوتر المُضيف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ReferenceNumber</Position>
+      <TranslationSet>
+        <base loc="en">Reference Number</base>
+        <tran loc="ar">الرقم المرجعي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>{PNG}</Position>
+      <TranslationSet>
+        <base loc="en">PNG Properties</base>
+        <tran loc="ar">خصائص PNG</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Latitude</Position>
+      <TranslationSet>
+        <base loc="en">Latitude</base>
+        <tran loc="ar">خط العرض</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DeviceSettingDescription</Position>
+      <TranslationSet>
+        <base loc="en">Device Setting Description</base>
+        <tran loc="ar">وصف إعدادات الجهاز</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>public.jpeg-2000</Position>
+      <TranslationSet>
+        <base loc="en">JPEG-2000</base>
+        <tran loc="ar">JPEG-2000</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Quality</Position>
+      <TranslationSet>
+        <base loc="en">Quality</base>
+        <tran loc="ar">الجودة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>TrackRef</Position>
+      <TranslationSet>
+        <base loc="en">Track Reference</base>
+        <tran loc="ar">مرجع المسار</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>EditorialUpdate</Position>
+      <TranslationSet>
+        <base loc="en">Editorial Update</base>
+        <tran loc="ar">تحديث الافتتاحية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Credit</Position>
+      <TranslationSet>
+        <base loc="en">Provider</base>
+        <tran loc="ar">الموفر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SensingMethod</Position>
+      <TranslationSet>
+        <base loc="en">Sensing Method</base>
+        <tran loc="ar">طريقة الاستشعار</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>LensModel</Position>
+      <TranslationSet>
+        <base loc="en">Lens Model</base>
+        <tran loc="ar">طراز العدسة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>com.canon.crw-raw-image</Position>
+      <TranslationSet>
+        <base loc="en">Canon CRW Raw</base>
+        <tran loc="ar">Canon CRW Raw</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SceneCaptureType</Position>
+      <TranslationSet>
+        <base loc="en">Scene Capture Type</base>
+        <tran loc="ar">نوع التقاط المشهد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>LinkedRightsExpr</Position>
+      <TranslationSet>
+        <base loc="en">Link to Rights Expression</base>
+        <tran loc="ar">رابط تعبير الحقوق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ISOSpeedRatings</Position>
+      <TranslationSet>
+        <base loc="en">ISO Speed Ratings</base>
+        <tran loc="ar">سرعة ISO للفيلم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Chromaticities</Position>
+      <TranslationSet>
+        <base loc="en">Chromaticities</base>
+        <tran loc="ar">التصنيفات اللونية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>LensSpecification</Position>
+      <TranslationSet>
+        <base loc="en">Lens Specification</base>
+        <tran loc="ar">مواصفات العدسة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>FileSource</Position>
+      <TranslationSet>
+        <base loc="en">File Source</base>
+        <tran loc="ar">مصدر الملف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>FocalLenIn35mmFilm</Position>
+      <TranslationSet>
+        <base loc="en">Focal Length In 35mm Film</base>
+        <tran loc="ar">البعد البؤري في الفيلم ٣٥ مم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Possible keys for kCGImagePropertyIPTCCreatorContactInfo dictionary (part of IPTC Core - above) </Description>
+      <Position>CiAdrCity</Position>
+      <TranslationSet>
+        <base loc="en">Creator (City)</base>
+        <tran loc="ar">المُنشئ (المدينة)</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CameraTemperatur</Position>
+      <TranslationSet>
+        <base loc="en">Camera Temperature</base>
+        <tran loc="ar">درجة حرارة الكاميرا</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DensityUnit</Position>
+      <TranslationSet>
+        <base loc="en">Density Unit</base>
+        <tran loc="ar">وحدة الكثافة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>com.microsoft.dds</Position>
+      <TranslationSet>
+        <base loc="en">Microsoft DDS</base>
+        <tran loc="ar">Microsoft DDS</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ProgramVersion</Position>
+      <TranslationSet>
+        <base loc="en">Program Version</base>
+        <tran loc="ar">إصدار البرنامج</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Possible keys for kCGImagePropertyExifAuxDictionary </Description>
+      <Position>LensInfo</Position>
+      <TranslationSet>
+        <base loc="en">Lens Info</base>
+        <tran loc="ar">معلومات العدسة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>LocationCreated</Position>
+      <TranslationSet>
+        <base loc="en">Location Created</base>
+        <tran loc="ar">موقع الإنشاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>com.microsoft.ico</Position>
+      <TranslationSet>
+        <base loc="en">Microsoft Icon</base>
+        <tran loc="ar">Microsoft أيقونة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DPIWidth</Position>
+      <TranslationSet>
+        <base loc="en">DPI Width</base>
+        <tran loc="ar">العرض بالنقطة في البوصة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>org.khronos.ktx</Position>
+      <TranslationSet>
+        <base loc="en">KTX</base>
+        <tran loc="ar">KTX</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>LensMinMM</Position>
+      <TranslationSet>
+        <base loc="en">Lens Min MM</base>
+        <tran loc="ar">الحد الأدنى للعدسة بالميليمتر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>OwnerName</Position>
+      <TranslationSet>
+        <base loc="en">Owner Name</base>
+        <tran loc="ar">اسم المالك</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>MeteringMode</Position>
+      <TranslationSet>
+        <base loc="en">Metering Mode</base>
+        <tran loc="ar">وضع القياس</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>com.konicaminolta.raw-image</Position>
+      <TranslationSet>
+        <base loc="en">Konica Minolta Raw</base>
+        <tran loc="ar">Konica Minolta Raw</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>{MakerNikon}</Position>
+      <TranslationSet>
+        <base loc="en">Nikon Maker Notes</base>
+        <tran loc="ar">ملاحظات Nikon Maker</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> IPTC Core</Description>
+      <Position>Scene</Position>
+      <TranslationSet>
+        <base loc="en">IPTC Scene</base>
+        <tran loc="ar">مشهد IPTC</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ObjectTypeReference</Position>
+      <TranslationSet>
+        <base loc="en">Object Type Reference</base>
+        <tran loc="ar">مرجع نوع الكائن</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description>"MeteringMode"                = "Metering Mode";</Description>
+      <Position>ShootingMode</Position>
+      <TranslationSet>
+        <base loc="en">Shooting Mode</base>
+        <tran loc="ar">وضع التصوير</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Differential</Position>
+      <TranslationSet>
+        <base loc="en">Differential</base>
+        <tran loc="ar">تفاضلي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ExposureMode</Position>
+      <TranslationSet>
+        <base loc="en">Exposure Mode</base>
+        <tran loc="ar">وضع التعرض للضوء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>{Raw}</Position>
+      <TranslationSet>
+        <base loc="en">Raw Properties</base>
+        <tran loc="ar">خصائص Raw</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>FlashCompensation</Position>
+      <TranslationSet>
+        <base loc="en">Flash Compensation</base>
+        <tran loc="ar">تعويض الوميض</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>OriginalTransmissionReference</Position>
+      <TranslationSet>
+        <base loc="en">Job Identifier</base>
+        <tran loc="ar">معرّف الوظيفة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DestBearing</Position>
+      <TranslationSet>
+        <base loc="en">Destination Bearing</base>
+        <tran loc="ar">الاتجاه الزاوي للوجهة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>XDensity</Position>
+      <TranslationSet>
+        <base loc="en">X Density</base>
+        <tran loc="ar">الكثافة-X</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Byline</Position>
+      <TranslationSet>
+        <base loc="en">Creator</base>
+        <tran loc="ar">المُنشئ</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ObjectName</Position>
+      <TranslationSet>
+        <base loc="en">Title</base>
+        <tran loc="ar">العنوان</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PixelYDimension</Position>
+      <TranslationSet>
+        <base loc="en">Pixel Y Dimension</base>
+        <tran loc="ar">البعد Y بالبكسل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>com.sony.sr2-raw-image</Position>
+      <TranslationSet>
+        <base loc="en">Sony SR2 Raw</base>
+        <tran loc="ar">Sony SR2 Raw</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>LensSerialNumber</Position>
+      <TranslationSet>
+        <base loc="en">Lens Serial Number</base>
+        <tran loc="ar">الرقم التسلسلي للعدسة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ImageUniqueID</Position>
+      <TranslationSet>
+        <base loc="en">Image Unique ID</base>
+        <tran loc="ar">المعرّف الفريد للصورة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ReferenceDate</Position>
+      <TranslationSet>
+        <base loc="en">Reference Date</base>
+        <tran loc="ar">التاريخ المرجعي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ResolutionUnit</Position>
+      <TranslationSet>
+        <base loc="en">Resolution Unit</base>
+        <tran loc="ar">وحدة الدقة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description>"FlashExposureComp"           = "Flash Exposure Compensation";</Description>
+      <Position>ImageAdjustment</Position>
+      <TranslationSet>
+        <base loc="en">Image Adjustment</base>
+        <tran loc="ar">ضبط الصورة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Contrast</Position>
+      <TranslationSet>
+        <base loc="en">Contrast</base>
+        <tran loc="ar">التباين</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ImgDirection</Position>
+      <TranslationSet>
+        <base loc="en">Image Direction</base>
+        <tran loc="ar">اتجاه الصورة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>{MakerFuji}</Position>
+      <TranslationSet>
+        <base loc="en">Fuji Maker Notes</base>
+        <tran loc="ar">ملاحظات Fuji Maker</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>HasAlpha</Position>
+      <TranslationSet>
+        <base loc="en">Has Alpha</base>
+        <tran loc="ar">يحتوي على ألفا</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>LatitudeRef</Position>
+      <TranslationSet>
+        <base loc="en">Latitude Reference</base>
+        <tran loc="ar">مرجع خط العرض</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>LensType</Position>
+      <TranslationSet>
+        <base loc="en">Lens Type</base>
+        <tran loc="ar">نوع العدسة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Altitude</Position>
+      <TranslationSet>
+        <base loc="en">Altitude</base>
+        <tran loc="ar">الارتفاع</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DigitalZoom</Position>
+      <TranslationSet>
+        <base loc="en">Digital Zoom</base>
+        <tran loc="ar">التكبير/التصغير الرقمي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Keywords</Position>
+      <TranslationSet>
+        <base loc="en">Keywords</base>
+        <tran loc="ar">الكلمات المفتاحية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SpectralSensitivity</Position>
+      <TranslationSet>
+        <base loc="en">Spectral Sensitivity</base>
+        <tran loc="ar">الحساسية الطيفية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>TimeStamp</Position>
+      <TranslationSet>
+        <base loc="en">Time Stamp</base>
+        <tran loc="ar">الطابع الزمني</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>{EXR}</Position>
+      <TranslationSet>
+        <base loc="en">OpenEXR Properties</base>
+        <tran loc="ar">خصائص OpenEXR</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>HasGlobalColorMap</Position>
+      <TranslationSet>
+        <base loc="en">Has Global Color Map</base>
+        <tran loc="ar">يحتوي على مخطط ألوان عام</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>OrganisationInImageCode</Position>
+      <TranslationSet>
+        <base loc="en">Code of featured Organisation</base>
+        <tran loc="ar">رمز المؤسسة الممثلة في الصورة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Category</Position>
+      <TranslationSet>
+        <base loc="en">Category</base>
+        <tran loc="ar">الفئة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>City</Position>
+      <TranslationSet>
+        <base loc="en">City</base>
+        <tran loc="ar">المدينة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> new with Exif 2.3 </Description>
+      <Position>CameraOwnerName</Position>
+      <TranslationSet>
+        <base loc="en">Camera Owner Name</base>
+        <tran loc="ar">اسم مالك الكامير</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>MaxAvailHeight</Position>
+      <TranslationSet>
+        <base loc="en">Maximum available height</base>
+        <tran loc="ar">أقصى ارتفاع متاح</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>FocusDistanceUpper</Position>
+      <TranslationSet>
+        <base loc="en">Focus Distance Upper</base>
+        <tran loc="ar">بعد مسافة التركيز البؤري أعلى</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>MaxAperture</Position>
+      <TranslationSet>
+        <base loc="en">Max Aperture Value</base>
+        <tran loc="ar">الحد الأقصى لقيمة Aperture</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>MaxApertureValue</Position>
+      <TranslationSet>
+        <base loc="en">Max Aperture Value</base>
+        <tran loc="ar">الحد الأقصى لقيمة Aperture</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>OriginatingProgram</Position>
+      <TranslationSet>
+        <base loc="en">Originating Program</base>
+        <tran loc="ar">برنامج الإنشاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>MeasureMode</Position>
+      <TranslationSet>
+        <base loc="en">Measure Mode</base>
+        <tran loc="ar">وضع القياس</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>public.pvr</Position>
+      <TranslationSet>
+        <base loc="en">PVRTC</base>
+        <tran loc="ar">PVRTC</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>FilterEffect</Position>
+      <TranslationSet>
+        <base loc="en">Filter Effect</base>
+        <tran loc="ar">تأثير الفلتر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>public.heic</Position>
+      <TranslationSet>
+        <base loc="en">HEIC</base>
+        <tran loc="ar">‏HEIC</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DelayTime</Position>
+      <TranslationSet>
+        <base loc="en">Delay Time</base>
+        <tran loc="ar">وقت التأخير</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>com.olympus.raw-image</Position>
+      <TranslationSet>
+        <base loc="en">Olympus Raw</base>
+        <tran loc="ar">Olympus Raw</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CountryName</Position>
+      <TranslationSet>
+        <base loc="en">Country/Region Name</base>
+        <tran loc="ar">اسم البلد/المنطقة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>com.leafamerica.raw-image</Position>
+      <TranslationSet>
+        <base loc="en">Leaf Raw</base>
+        <tran loc="ar">Leaf Raw</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Possible keys for kCGImagePropertyGPSDictionary </Description>
+      <Position>GPSVersion</Position>
+      <TranslationSet>
+        <base loc="en">GPS Version</base>
+        <tran loc="ar">إصدار GPS</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SupplementalCategory</Position>
+      <TranslationSet>
+        <base loc="en">Supplemental Category</base>
+        <tran loc="ar">الفئة الإضافية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SpeedRef</Position>
+      <TranslationSet>
+        <base loc="en">Speed Reference</base>
+        <tran loc="ar">مرجع السرعة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AltitudeRef</Position>
+      <TranslationSet>
+        <base loc="en">Altitude Reference</base>
+        <tran loc="ar">مرجع الارتفاع</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Properties that, if returned by CGImageSourceCopyProperties or 
+ 
+* CGImageSourceCopyPropertiesAtIndex, contain a dictionary of file-format 
+ 
+* or metadata-format specific key-values. </Description>
+      <Position>{TIFF}</Position>
+      <TranslationSet>
+        <base loc="en">TIFF Properties</base>
+        <tran loc="ar">خصائص TIFF</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ModelAge</Position>
+      <TranslationSet>
+        <base loc="en">Model age</base>
+        <tran loc="ar">عمر الموديل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PixelXDimension</Position>
+      <TranslationSet>
+        <base loc="en">Pixel X Dimension</base>
+        <tran loc="ar">البعد X بالبكسل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>{DNG}</Position>
+      <TranslationSet>
+        <base loc="en">DNG Properties</base>
+        <tran loc="ar">خصائص DNG</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ObjectAttributeReference</Position>
+      <TranslationSet>
+        <base loc="en">Intellectual Genre</base>
+        <tran loc="ar">النوع الفكري</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>FocalLength</Position>
+      <TranslationSet>
+        <base loc="en">Focal Length</base>
+        <tran loc="ar">البعد البؤري</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ImageNumber</Position>
+      <TranslationSet>
+        <base loc="en">Image Number</base>
+        <tran loc="ar">رقم الصورة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SubjectLocation</Position>
+      <TranslationSet>
+        <base loc="en">Subject Location</base>
+        <tran loc="ar">موقع الهدف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>EmbdEncRightsExpr</Position>
+      <TranslationSet>
+        <base loc="en">Embedded Encoded Rights Expression</base>
+        <tran loc="ar">تعبير الحقوق المشفر المضمن</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CameraSerialNumber</Position>
+      <TranslationSet>
+        <base loc="en">Camera Serial Number</base>
+        <tran loc="ar">الرقم التسلسلي للكاميرا</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>FocalPlaneYResolution</Position>
+      <TranslationSet>
+        <base loc="en">Focal Plane Y Resolution</base>
+        <tran loc="ar">الدقة Y للمستوى البؤري</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PersonInImage</Position>
+      <TranslationSet>
+        <base loc="en">Person Shown</base>
+        <tran loc="ar">الشخص الظاهر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Flash</Position>
+      <TranslationSet>
+        <base loc="en">Flash</base>
+        <tran loc="ar">الوميض</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Sharpness</Position>
+      <TranslationSet>
+        <base loc="en">Sharpness</base>
+        <tran loc="ar">الحدة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UserComment</Position>
+      <TranslationSet>
+        <base loc="en">User Comment</base>
+        <tran loc="ar">تعليق المستخدم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>com.adobe.pdf</Position>
+      <TranslationSet>
+        <base loc="en">PDF</base>
+        <tran loc="ar">PDF</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ExposureBiasValue</Position>
+      <TranslationSet>
+        <base loc="en">Exposure Bias Value</base>
+        <tran loc="ar">قيمة قطر التعرض للضوء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>channels</Position>
+      <TranslationSet>
+        <base loc="en">Channels</base>
+        <tran loc="ar">القنوات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ImageOrientation</Position>
+      <TranslationSet>
+        <base loc="en">Image Orientation</base>
+        <tran loc="ar">اتجاه الصورة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>org.khronos.astc</Position>
+      <TranslationSet>
+        <base loc="en">ASTC</base>
+        <tran loc="ar">ASTC</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>OrganisationInImageName</Position>
+      <TranslationSet>
+        <base loc="en">Name of featured Organisation</base>
+        <tran loc="ar">اسم المؤسسة الممثلة في الصورة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>com.canon.tif-raw-image</Position>
+      <TranslationSet>
+        <base loc="en">Canon TIF Raw</base>
+        <tran loc="ar">Canon TIF Raw</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ImgDirectionRef</Position>
+      <TranslationSet>
+        <base loc="en">Image Direction Reference</base>
+        <tran loc="ar">مرجع اتجاه الصورة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Possible keys for kCGImagePropertyOpenEXRDictionary </Description>
+      <Position>AspectRatio</Position>
+      <TranslationSet>
+        <base loc="en">Aspect Ratio</base>
+        <tran loc="ar">نسبة العرض إلى الارتفاع</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>public.fax</Position>
+      <TranslationSet>
+        <base loc="en">Fax</base>
+        <tran loc="ar">فاكس</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ObjectCycle</Position>
+      <TranslationSet>
+        <base loc="en">Object Cycle</base>
+        <tran loc="ar">دورة الكائن</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SubjectDistance</Position>
+      <TranslationSet>
+        <base loc="en">Subject Distance</base>
+        <tran loc="ar">بعد المسافة عن الهدف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SharpenMode</Position>
+      <TranslationSet>
+        <base loc="en">Sharpen Mode</base>
+        <tran loc="ar">وضع الحدة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kCGImagePropertyICNSIndexSelector</Position>
+      <TranslationSet>
+        <base loc="en">Icon type</base>
+        <tran loc="ar">نوع الأيقونة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ReferenceService</Position>
+      <TranslationSet>
+        <base loc="en">Reference Service</base>
+        <tran loc="ar">الخدمة المرجعية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Possible keys for kCGImagePropertyExifDictionary </Description>
+      <Position>ExposureTime</Position>
+      <TranslationSet>
+        <base loc="en">Exposure Time</base>
+        <tran loc="ar">زمن التعرض للضوء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Urgency</Position>
+      <TranslationSet>
+        <base loc="en">Urgency</base>
+        <tran loc="ar">الحاجة الملحة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>displayWindow</Position>
+      <TranslationSet>
+        <base loc="en">Display Window</base>
+        <tran loc="ar">نافذة شاشة العرض</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>LocationId</Position>
+      <TranslationSet>
+        <base loc="en">Location ID</base>
+        <tran loc="ar">معرّف الموقع</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description>* Properties which may be returned by "CGImageSourceCopyProperties".  The
+ 
+** values apply to the container in general but not necessarily to any
+ 
+** individual image that it contains. </Description>
+      <Position>FileSize</Position>
+      <TranslationSet>
+        <base loc="en">File Size</base>
+        <tran loc="ar">حجم الملف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SubLocation</Position>
+      <TranslationSet>
+        <base loc="en">Location</base>
+        <tran loc="ar">الموقع</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>public.pbm</Position>
+      <TranslationSet>
+        <base loc="en">PBM/PGM/PPM</base>
+        <tran loc="ar">PBM/PGM/PPM</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>RegistryID</Position>
+      <TranslationSet>
+        <base loc="en">Registry Entry</base>
+        <tran loc="ar">إدخال السجل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DigitalZoomRatio</Position>
+      <TranslationSet>
+        <base loc="en">Digital Zoom Ratio</base>
+        <tran loc="ar">نسبة التكبير/التصغير الرقمي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>com.apple.macpaint-image</Position>
+      <TranslationSet>
+        <base loc="en">MacPaint</base>
+        <tran loc="ar">MacPaint</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>MakerNote</Position>
+      <TranslationSet>
+        <base loc="en">Maker Note</base>
+        <tran loc="ar">ملاحظة أداة الإنشاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PreviewImageStart</Position>
+      <TranslationSet>
+        <base loc="en">Preview Image Start</base>
+        <tran loc="ar">معاينة بداية الصورة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>BylineTitle</Position>
+      <TranslationSet>
+        <base loc="en">Creator’s Job Title</base>
+        <tran loc="ar">المسمى الوظيفي للمُنشئ</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>com.kodak.flashpix-image</Position>
+      <TranslationSet>
+        <base loc="en">FlashPix</base>
+        <tran loc="ar">FlashPix</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Possible values for type identifier </Description>
+      <Position>public.tiff</Position>
+      <TranslationSet>
+        <base loc="en">TIFF</base>
+        <tran loc="ar">TIFF</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>com.apple.icns</Position>
+      <TranslationSet>
+        <base loc="en">ICNS</base>
+        <tran loc="ar">ICNS</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>{CIFF}</Position>
+      <TranslationSet>
+        <base loc="en">Canon Properties</base>
+        <tran loc="ar">خصائص Canon</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SceneType</Position>
+      <TranslationSet>
+        <base loc="en">Scene Type</base>
+        <tran loc="ar">نوع المشهد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Satellites</Position>
+      <TranslationSet>
+        <base loc="en">Satellites</base>
+        <tran loc="ar">الأقمار الصناعية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Copyright</Position>
+      <TranslationSet>
+        <base loc="en">Copyright</base>
+        <tran loc="ar">حقوق النشر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>public.svg</Position>
+      <TranslationSet>
+        <base loc="en">SVG</base>
+        <tran loc="ar">SVG</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ColorSpace</Position>
+      <TranslationSet>
+        <base loc="en">Color Space</base>
+        <tran loc="ar">فضاء اللون</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UniqueCameraModel</Position>
+      <TranslationSet>
+        <base loc="en">Unique Camera Model</base>
+        <tran loc="ar">طراز الكاميرا الفريد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>com.leica.raw-image</Position>
+      <TranslationSet>
+        <base loc="en">Leica Raw</base>
+        <tran loc="ar">Leica Raw</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>RelatedSoundFile</Position>
+      <TranslationSet>
+        <base loc="en">Related Sound File</base>
+        <tran loc="ar">ملف الصوت ذو الصلة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DateTimeOriginal</Position>
+      <TranslationSet>
+        <base loc="en">Date Time Original</base>
+        <tran loc="ar">التاريخ والوقت الأصلي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PictStyleColorSpace</Position>
+      <TranslationSet>
+        <base loc="en">Pict Style Color Space</base>
+        <tran loc="ar">مساحة لون على نمط الصورة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>LightSource</Position>
+      <TranslationSet>
+        <base loc="en">Light Source</base>
+        <tran loc="ar">مصدر الضوء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>{MakerPentax}</Position>
+      <TranslationSet>
+        <base loc="en">Pentax Maker Notes</base>
+        <tran loc="ar">ملاحظات Pentax Maker</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PixelHeight</Position>
+      <TranslationSet>
+        <base loc="en">Pixel Height</base>
+        <tran loc="ar">الارتفاع بالبكسل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DocumentName</Position>
+      <TranslationSet>
+        <base loc="en">Document Name</base>
+        <tran loc="ar">اسم المستند</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>IsProgressive</Position>
+      <TranslationSet>
+        <base loc="en">Progressive</base>
+        <tran loc="ar">متدرج</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Possible keys for kCGImagePropertyTIFFDictionary </Description>
+      <Position>Compression</Position>
+      <TranslationSet>
+        <base loc="en">Compression</base>
+        <tran loc="ar">الضغط</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>compression</Position>
+      <TranslationSet>
+        <base loc="en">Compression</base>
+        <tran loc="ar">الضغط</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Artist</Position>
+      <TranslationSet>
+        <base loc="en">Artist</base>
+        <tran loc="ar">الفنان</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>MaxAvailWidth</Position>
+      <TranslationSet>
+        <base loc="en">Maximum available width</base>
+        <tran loc="ar">أقصى عرض متاح</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>com.hasselblad.3fr-raw-image</Position>
+      <TranslationSet>
+        <base loc="en">Hasselblad 3FR Raw</base>
+        <tran loc="ar">Hasselblad 3FR Raw</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ColorMode</Position>
+      <TranslationSet>
+        <base loc="en">Color Mode</base>
+        <tran loc="ar">نمط اللون</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CopyrightNotice</Position>
+      <TranslationSet>
+        <base loc="en">Copyright Notice</base>
+        <tran loc="ar">إشعار حقوق النشر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ProductInImage</Position>
+      <TranslationSet>
+        <base loc="en">Product Shown</base>
+        <tran loc="ar">المنتج الظاهر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>TimeCreated</Position>
+      <TranslationSet>
+        <base loc="en">Time Created</base>
+        <tran loc="ar">وقت الإنشاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> IPTC Core</Description>
+      <Position>UsageTerms</Position>
+      <TranslationSet>
+        <base loc="en">Rights Usage Terms</base>
+        <tran loc="ar">شروط حقوق الاستخدام</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ToneCompensation</Position>
+      <TranslationSet>
+        <base loc="en">Tone Compensation</base>
+        <tran loc="ar">تعويض الدرجة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Make</Position>
+      <TranslationSet>
+        <base loc="en">Make</base>
+        <tran loc="ar">إنشاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ExpirationDate</Position>
+      <TranslationSet>
+        <base loc="en">Expiration Date</base>
+        <tran loc="ar">تاريخ انتهاء الصلاحية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>TransferFunction</Position>
+      <TranslationSet>
+        <base loc="en">Transfer Function</base>
+        <tran loc="ar">وظيفة النقل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>LensID</Position>
+      <TranslationSet>
+        <base loc="en">Lens ID</base>
+        <tran loc="ar">معرّف العدسة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UnclampedDelayTime</Position>
+      <TranslationSet>
+        <base loc="en">Unclamped Delay Time</base>
+        <tran loc="ar">وقت التأخير غير المثبت</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SelfTimingTime</Position>
+      <TranslationSet>
+        <base loc="en">Self Timing Time</base>
+        <tran loc="ar">وقت التوقيت الذاتي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Firmware</Position>
+      <TranslationSet>
+        <base loc="en">Firmware</base>
+        <tran loc="ar">البرنامج الثابت</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>InterlaceType</Position>
+      <TranslationSet>
+        <base loc="en">Interlace Type</base>
+        <tran loc="ar">نوع التشابك</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>LocalizedCameraModel</Position>
+      <TranslationSet>
+        <base loc="en">Localized Camera Model</base>
+        <tran loc="ar">طراز الكاميرا المعدل وفقًا للإعدادات المحلية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>EditStatus</Position>
+      <TranslationSet>
+        <base loc="en">Edit Status</base>
+        <tran loc="ar">تحرير الحالة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>com.hasselblad.fff-raw-image</Position>
+      <TranslationSet>
+        <base loc="en">Hasselblad FFF Raw</base>
+        <tran loc="ar">Hasselblad FFF Raw</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>com.pentax.raw-image</Position>
+      <TranslationSet>
+        <base loc="en">Pentax Raw</base>
+        <tran loc="ar">Pentax Raw</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>MapDatum</Position>
+      <TranslationSet>
+        <base loc="en">Map Datum</base>
+        <tran loc="ar">بيانات الخريطة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>WhiteBalanceIndex</Position>
+      <TranslationSet>
+        <base loc="en">White Balance Index</base>
+        <tran loc="ar">مؤشر توازن اللون الأبيض</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>lineOrder</Position>
+      <TranslationSet>
+        <base loc="en">Line Order</base>
+        <tran loc="ar">ترتيب الخطوط</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DestLatitude</Position>
+      <TranslationSet>
+        <base loc="en">Destination Latitude</base>
+        <tran loc="ar">خط عرض الوجهة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>HPositioningError</Position>
+      <TranslationSet>
+        <base loc="en">Horizontal Positioning Error</base>
+        <tran loc="ar">خطأ في تحديد الموضع الأفقي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Country/PrimaryLocationCode</Position>
+      <TranslationSet>
+        <base loc="en">ISO Country/Region Code</base>
+        <tran loc="ar">رمز ISO للبلد/المنطقة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Track</Position>
+      <TranslationSet>
+        <base loc="en">Track</base>
+        <tran loc="ar">المسار</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>com.fuji.raw-image</Position>
+      <TranslationSet>
+        <base loc="en">Fuji Raw</base>
+        <tran loc="ar">Fuji Raw</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SubjectReference</Position>
+      <TranslationSet>
+        <base loc="en">IPTC Subject Code</base>
+        <tran loc="ar">رمز موضوع IPTC</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>{IPTC}</Position>
+      <TranslationSet>
+        <base loc="en">IPTC Properties</base>
+        <tran loc="ar">خصائص IPTC</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>com.epson.erf-raw-image</Position>
+      <TranslationSet>
+        <base loc="en">Epson Raw</base>
+        <tran loc="ar">Epson Raw</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Source</Position>
+      <TranslationSet>
+        <base loc="en">Source</base>
+        <tran loc="ar">المصدر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Contact</Position>
+      <TranslationSet>
+        <base loc="en">Contact</base>
+        <tran loc="ar">جهة الاتصال</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DigitalCreationDate</Position>
+      <TranslationSet>
+        <base loc="en">Digital Creation Date</base>
+        <tran loc="ar">تاريخ الإنشاء الرقمي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ReleaseDate</Position>
+      <TranslationSet>
+        <base loc="en">Release Date</base>
+        <tran loc="ar">تاريخ الإصدار</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>BodySerialNumber</Position>
+      <TranslationSet>
+        <base loc="en">Body Serial Number</base>
+        <tran loc="ar">الرقم التسلسلي للجهاز</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ArtworkOrObject</Position>
+      <TranslationSet>
+        <base loc="en">Artwork or Object in the Image</base>
+        <tran loc="ar">العمل الفني أو العنصر الموجود بالصورة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>XPixelsPerMeter</Position>
+      <TranslationSet>
+        <base loc="en">X Pixels Per Meter</base>
+        <tran loc="ar">عدد وحدات البكسل في اتجاه X لكل متر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ExpirationTime</Position>
+      <TranslationSet>
+        <base loc="en">Expiration Time</base>
+        <tran loc="ar">وقت انتهاء الصلاحية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SubsecTimeDigitized</Position>
+      <TranslationSet>
+        <base loc="en">Sub-second Time Digitized</base>
+        <tran loc="ar">الوقت بجزء من الثانية رقميًا</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>com.compuserve.gif</Position>
+      <TranslationSet>
+        <base loc="en">GIF</base>
+        <tran loc="ar">GIF</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>com.canon.cr2-raw-image</Position>
+      <TranslationSet>
+        <base loc="en">Canon CR2 Raw</base>
+        <tran loc="ar">Canon CR2 Raw</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>VignetteControl</Position>
+      <TranslationSet>
+        <base loc="en">Vignette Control</base>
+        <tran loc="ar">التحكم في النقش الصغير</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>YPixelsPerMeter</Position>
+      <TranslationSet>
+        <base loc="en">Y Pixels Per Meter</base>
+        <tran loc="ar">عدد وحدات البكسل في اتجاه Y لكل متر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>com.apple.pict</Position>
+      <TranslationSet>
+        <base loc="en">PICT</base>
+        <tran loc="ar">PICT</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description>"FocusMode"                   = "Focus Mode";</Description>
+      <Position>FlashSetting</Position>
+      <TranslationSet>
+        <base loc="en">Flash Setting</base>
+        <tran loc="ar">إعداد الوميض</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>{MakerOlympus}</Position>
+      <TranslationSet>
+        <base loc="en">Olympus Maker Notes</base>
+        <tran loc="ar">ملاحظات Olympus Maker</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>pixelAspectRatio</Position>
+      <TranslationSet>
+        <base loc="en">Pixel Aspect Ratio</base>
+        <tran loc="ar">نسبة الارتفاع إلى العرض بالبكسل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>MeasuredEV</Position>
+      <TranslationSet>
+        <base loc="en">Measured EV</base>
+        <tran loc="ar">القيمة المقاسة للتعرض للضوء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Speed</Position>
+      <TranslationSet>
+        <base loc="en">Speed</base>
+        <tran loc="ar">السرعة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PhotometricInterpretation</Position>
+      <TranslationSet>
+        <base loc="en">Photometric Interpretation</base>
+        <tran loc="ar">التمثيل الفوتومتري</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description>* Properties which may be returned by "CGImageSourceCopyPropertiesAtIndex".
+ 
+** The values apply to a single image of an image source file. </Description>
+      <Position>DPIHeight</Position>
+      <TranslationSet>
+        <base loc="en">DPI Height</base>
+        <tran loc="ar">الارتفاع بالنقطة في البوصة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>{GIF}</Position>
+      <TranslationSet>
+        <base loc="en">GIF Properties</base>
+        <tran loc="ar">خصائص GIF</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CiUrlWork</Position>
+      <TranslationSet>
+        <base loc="en">Creator (Web URL)</base>
+        <tran loc="ar">الُمنشئ (عنوان URL لموقع الويب)</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Possible keys for kCGImageProperty8BIMDictionary </Description>
+      <Position>LayerNames</Position>
+      <TranslationSet>
+        <base loc="en">Layer Names</base>
+        <tran loc="ar">أسماء الطبقات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>public.radiance</Position>
+      <TranslationSet>
+        <base loc="en">Radiance</base>
+        <tran loc="ar">إشعاعية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description>"CameraSerialNumber"          = "Camera Serial Number";</Description>
+      <Position>ImageSerialNumber</Position>
+      <TranslationSet>
+        <base loc="en">Image Serial Number</base>
+        <tran loc="ar">الرقم التسلسلي للصورة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>{8BIM}</Position>
+      <TranslationSet>
+        <base loc="en">Photoshop Properties</base>
+        <tran loc="ar">خصائص Photoshop</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ApertureValue</Position>
+      <TranslationSet>
+        <base loc="en">Aperture Value</base>
+        <tran loc="ar">قيمة Aperture</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description>"Firmware"                    = "Firmware";
+"OwnerName"                   = "Owner Name";</Description>
+      <Position>ImageName</Position>
+      <TranslationSet>
+        <base loc="en">Image Name</base>
+        <tran loc="ar">اسم الصورة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PrimaryChromaticities</Position>
+      <TranslationSet>
+        <base loc="en">Primary Chromaticities</base>
+        <tran loc="ar">التصنيفات اللونية الأساسية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>public.png</Position>
+      <TranslationSet>
+        <base loc="en">PNG</base>
+        <tran loc="ar">PNG</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DigitalCreationTime</Position>
+      <TranslationSet>
+        <base loc="en">Digital Creation Time</base>
+        <tran loc="ar">وقت الإنشاء الرقمي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AOCircaDateCreated</Position>
+      <TranslationSet>
+        <base loc="en">Circa Date Created</base>
+        <tran loc="ar">تاريخ الإنشاء التقريبي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>FocalPlaneXResolution</Position>
+      <TranslationSet>
+        <base loc="en">Focal Plane X Resolution</base>
+        <tran loc="ar">الدقة X للمستوى البؤري</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Possible keys for kCGImagePropertyGIFDictionary </Description>
+      <Position>LoopCount</Position>
+      <TranslationSet>
+        <base loc="en">Loop Count</base>
+        <tran loc="ar">عدد الحلقات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ReleaseTime</Position>
+      <TranslationSet>
+        <base loc="en">Release Time</base>
+        <tran loc="ar">وقت الإصدار</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CiAdrExtadr</Position>
+      <TranslationSet>
+        <base loc="en">Creator (Address)</base>
+        <tran loc="ar">المُنشئ (العنوان)</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DOP</Position>
+      <TranslationSet>
+        <base loc="en">Degree of Precision</base>
+        <tran loc="ar">درجة الدقة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Gray</Position>
+      <TranslationSet>
+        <base loc="en">Gray</base>
+        <tran loc="ar">رمادي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>FlashExposureComp</Position>
+      <TranslationSet>
+        <base loc="en">Flash Exposure Compensation</base>
+        <tran loc="ar">تعويض التعرض للوميض</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Depth</Position>
+      <TranslationSet>
+        <base loc="en">Depth</base>
+        <tran loc="ar">العمق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>com.kodak.raw-image</Position>
+      <TranslationSet>
+        <base loc="en">Kodak Raw</base>
+        <tran loc="ar">Kodak Raw</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SubjectDistRange</Position>
+      <TranslationSet>
+        <base loc="en">Subject Distance Range</base>
+        <tran loc="ar">نطاق بعد المسافة عن الهدف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>screenWindowCenter</Position>
+      <TranslationSet>
+        <base loc="en">Screen Window Center</base>
+        <tran loc="ar">مركز نافذة الشاشة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>FocusDistance</Position>
+      <TranslationSet>
+        <base loc="en">Focus Distance</base>
+        <tran loc="ar">بعد مسافة التركيز البؤري</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ColorTone</Position>
+      <TranslationSet>
+        <base loc="en">Color Tone</base>
+        <tran loc="ar">درجة اللون</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SubsecTimeOriginal</Position>
+      <TranslationSet>
+        <base loc="en">Sub-second Time Original</base>
+        <tran loc="ar">الوقت الأصلي بجزء من الثانية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AFInfo</Position>
+      <TranslationSet>
+        <base loc="en">AFInfo</base>
+        <tran loc="ar">AFInfo</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>FlashPixVersion</Position>
+      <TranslationSet>
+        <base loc="en">FlashPix Version</base>
+        <tran loc="ar">إصدار FlashPix</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>{Exif}</Position>
+      <TranslationSet>
+        <base loc="en">Exif Properties</base>
+        <tran loc="ar">خصائص Exif</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>screenWindowWidth</Position>
+      <TranslationSet>
+        <base loc="en">Screen Window Width</base>
+        <tran loc="ar">عرض نافذة الشاشة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ImageType</Position>
+      <TranslationSet>
+        <base loc="en">Image Type</base>
+        <tran loc="ar">نوع الصورة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ProcessingMethod</Position>
+      <TranslationSet>
+        <base loc="en">Processing Method</base>
+        <tran loc="ar">طريقة المعالجة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description>"LensInfo"                    = "Lens Info";
+ Possible keys for kCGImagePropertyCIFFDictionary </Description>
+      <Position>Description</Position>
+      <TranslationSet>
+        <base loc="en">Description</base>
+        <tran loc="ar">الوصف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ProfileName</Position>
+      <TranslationSet>
+        <base loc="en">Profile Name</base>
+        <tran loc="ar">اسم ملف التعريف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ExifVersion</Position>
+      <TranslationSet>
+        <base loc="en">Exif Version</base>
+        <tran loc="ar">إصدار Exif</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AreaInformation</Position>
+      <TranslationSet>
+        <base loc="en">Area Information</base>
+        <tran loc="ar">معلومات المنطقة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PersonInImageWDetails</Position>
+      <TranslationSet>
+        <base loc="en">Person Shown (Details)</base>
+        <tran loc="ar">الشخص الظاهر (تفاصيل)</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>com.sony.arw-raw-image</Position>
+      <TranslationSet>
+        <base loc="en">Sony Alpha Raw</base>
+        <tran loc="ar">Sony Alpha Raw</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DestDistanceRef</Position>
+      <TranslationSet>
+        <base loc="en">Destination Distance Reference</base>
+        <tran loc="ar">مرجع بعد المسافة عن الوجهة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DestLatitudeRef</Position>
+      <TranslationSet>
+        <base loc="en">Destination Latitude Reference</base>
+        <tran loc="ar">مرجع خط عرض الوجهة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ToningEffect</Position>
+      <TranslationSet>
+        <base loc="en">Toning Effect</base>
+        <tran loc="ar">تأثير التلوين</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> IPTC Core</Description>
+      <Position>CreatorContactInfo</Position>
+      <TranslationSet>
+        <base loc="en">Creator’s Contact Info</base>
+        <tran loc="ar">معلومات الاتصال الخاصة بالمُنشئ</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>BrightnessValue</Position>
+      <TranslationSet>
+        <base loc="en">Brightness Value</base>
+        <tran loc="ar">قيمة الإضاءة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SharpnessFreq</Position>
+      <TranslationSet>
+        <base loc="en">Sharpness Frequency</base>
+        <tran loc="ar">تردد الحدة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CompressedBitsPerPixel</Position>
+      <TranslationSet>
+        <base loc="en">Compressed Bits Per Pixel</base>
+        <tran loc="ar">وحدات البت المضغوطة لكل بكسل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DestLongitudeRef</Position>
+      <TranslationSet>
+        <base loc="en">Destination Longitude Reference</base>
+        <tran loc="ar">مرجع خط طول الوجهة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>{MakerMinolta}</Position>
+      <TranslationSet>
+        <base loc="en">Minolta Maker Notes</base>
+        <tran loc="ar">ملاحظات Minolta Maker</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PreviewImageLength</Position>
+      <TranslationSet>
+        <base loc="en">Preview Image Length</base>
+        <tran loc="ar">معاينة طول الصورة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ModelReleaseID</Position>
+      <TranslationSet>
+        <base loc="en">Model Release ID</base>
+        <tran loc="ar">معرف الاتفاق القانوني للموديل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ContentLocationName</Position>
+      <TranslationSet>
+        <base loc="en">Content Location Name</base>
+        <tran loc="ar">اسم موقع المحتوى</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>{ExifAux}</Position>
+      <TranslationSet>
+        <base loc="en">Exif Auxiliary Properties</base>
+        <tran loc="ar">خصائص Exif Auxiliary</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CFAPattern</Position>
+      <TranslationSet>
+        <base loc="en">CFA Pattern</base>
+        <tran loc="ar">نمط CFA</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DateTimeDigitized</Position>
+      <TranslationSet>
+        <base loc="en">Date Time Digitized</base>
+        <tran loc="ar">التاريخ والوقت رقميًا</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>WhiteBalance</Position>
+      <TranslationSet>
+        <base loc="en">White Balance</base>
+        <tran loc="ar">توازن اللون الأبيض</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ToningSaturation</Position>
+      <TranslationSet>
+        <base loc="en">Toning Saturation</base>
+        <tran loc="ar">تشبع التلوين</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ImageDescription</Position>
+      <TranslationSet>
+        <base loc="en">Image Description</base>
+        <tran loc="ar">وصف الصورة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>LensMake</Position>
+      <TranslationSet>
+        <base loc="en">Lens Make</base>
+        <tran loc="ar">نوع العدسة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>RightsExprEncType</Position>
+      <TranslationSet>
+        <base loc="en">Encoding type</base>
+        <tran loc="ar">نوع التشفير</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Possible keys for kCGImagePropertyPNGDictionary </Description>
+      <Position>Gamma</Position>
+      <TranslationSet>
+        <base loc="en">Gamma</base>
+        <tran loc="ar">غاما</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>public.jpeg</Position>
+      <TranslationSet>
+        <base loc="en">JPEG</base>
+        <tran loc="ar">‏JPEG</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>public.camera-raw-image</Position>
+      <TranslationSet>
+        <base loc="en">Camera Raw</base>
+        <tran loc="ar">Camera Raw</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>com.sgi.sgi-image</Position>
+      <TranslationSet>
+        <base loc="en">SGI</base>
+        <tran loc="ar">SGI</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>com.sony.raw-image</Position>
+      <TranslationSet>
+        <base loc="en">Sony Raw</base>
+        <tran loc="ar">Sony Raw</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SubsecTime</Position>
+      <TranslationSet>
+        <base loc="en">Sub-second Time</base>
+        <tran loc="ar">الوقت بجزء من الثانية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>MinAperture</Position>
+      <TranslationSet>
+        <base loc="en">Min Aperture Value</base>
+        <tran loc="ar">الحد الأدنى لقيمة Aperture</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DateTime</Position>
+      <TranslationSet>
+        <base loc="en">Date Time</base>
+        <tran loc="ar">التاريخ والوقت</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DateCreated</Position>
+      <TranslationSet>
+        <base loc="en">Date Created</base>
+        <tran loc="ar">تاريخ الإنشاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description>"Orientation"                 = "Orientation";</Description>
+      <Position>XResolution</Position>
+      <TranslationSet>
+        <base loc="en">X Resolution</base>
+        <tran loc="ar">الدقة X</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ExposureProgram</Position>
+      <TranslationSet>
+        <base loc="en">Exposure Program</base>
+        <tran loc="ar">برنامج التعرض للضوء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PictureControlAdjust</Position>
+      <TranslationSet>
+        <base loc="en">Picture Control Adjust</base>
+        <tran loc="ar">ضبط التحكم في الصورة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>public.webp</Position>
+      <TranslationSet>
+        <base loc="en">WebP</base>
+        <tran loc="ar">WebP</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>HueAdjustment</Position>
+      <TranslationSet>
+        <base loc="en">Hue Adjustment</base>
+        <tran loc="ar">ضبط تدرج اللون</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>{GPS}</Position>
+      <TranslationSet>
+        <base loc="en">GPS Properties</base>
+        <tran loc="ar">خصائص GPS</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SerialNumber</Position>
+      <TranslationSet>
+        <base loc="en">Serial Number</base>
+        <tran loc="ar">الرقم التسلسلي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DestDistance</Position>
+      <TranslationSet>
+        <base loc="en">Destination Distance</base>
+        <tran loc="ar">بعد المسافة عن الوجهة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CiTelWork</Position>
+      <TranslationSet>
+        <base loc="en">Creator (Phone)</base>
+        <tran loc="ar">المُنشئ (الهاتف)</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>com.adobe.raw-image</Position>
+      <TranslationSet>
+        <base loc="en">Adobe Raw</base>
+        <tran loc="ar">Adobe Raw</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>FNumber</Position>
+      <TranslationSet>
+        <base loc="en">FNumber</base>
+        <tran loc="ar">الرقم البؤري</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ImageColorMap</Position>
+      <TranslationSet>
+        <base loc="en">Image Color Map</base>
+        <tran loc="ar">مخطط ألوان الصورة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>FocalPlaneResolutionUnit</Position>
+      <TranslationSet>
+        <base loc="en">Focal Plane Resolution Unit</base>
+        <tran loc="ar">وحدة دقة المستوى البؤري</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>WhiteBalanceMode</Position>
+      <TranslationSet>
+        <base loc="en">White Balance Mode</base>
+        <tran loc="ar">وضع توازن اللون الأبيض</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>LocationShown</Position>
+      <TranslationSet>
+        <base loc="en">Location shown</base>
+        <tran loc="ar">الموقع الظاهر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>MinorModelAgeDisclosure</Position>
+      <TranslationSet>
+        <base loc="en">Minor Model Age Disclosure</base>
+        <tran loc="ar">الكشف عن عمر أصغر موديل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>{MakerCanon}</Position>
+      <TranslationSet>
+        <base loc="en">Canon Maker Notes</base>
+        <tran loc="ar">ملاحظات Canon Maker</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ContinuousDrive</Position>
+      <TranslationSet>
+        <base loc="en">Continuous Drive</base>
+        <tran loc="ar">محرك التصوير المتتالي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AddlModelInfo</Position>
+      <TranslationSet>
+        <base loc="en">Additional Model Information</base>
+        <tran loc="ar">معلومات إضافية عن الموديل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DateStamp</Position>
+      <TranslationSet>
+        <base loc="en">Date Stamp</base>
+        <tran loc="ar">طابع التاريخ</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>FixtureIdentifier</Position>
+      <TranslationSet>
+        <base loc="en">Fixture Identifier</base>
+        <tran loc="ar">معرّف التثبيت</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Headline</Position>
+      <TranslationSet>
+        <base loc="en">Headline</base>
+        <tran loc="ar">العنوان الرئيسي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CiAdrRegion</Position>
+      <TranslationSet>
+        <base loc="en">Creator (State/Province)</base>
+        <tran loc="ar">الُمنشئ (الولاية/المقاطعة)</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Writer/Editor</Position>
+      <TranslationSet>
+        <base loc="en">Caption/Description Writer</base>
+        <tran loc="ar">كاتب الشرح المكتوب لأحداث العرض/الوصف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>NikonThumbnail</Position>
+      <TranslationSet>
+        <base loc="en">Nikon Thumbnail</base>
+        <tran loc="ar">صورة Nikon المصغرة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DestBearingRef</Position>
+      <TranslationSet>
+        <base loc="en">Destination Bearing Reference</base>
+        <tran loc="ar">مرجع الاتجاه الزاوي للوجهة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SubjectArea</Position>
+      <TranslationSet>
+        <base loc="en">Subject Area</base>
+        <tran loc="ar">منطقة الهدف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DestLongitude</Position>
+      <TranslationSet>
+        <base loc="en">Destination Longitude</base>
+        <tran loc="ar">خط طول الوجهة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>com.truevision.tga-image</Position>
+      <TranslationSet>
+        <base loc="en">TGA</base>
+        <tran loc="ar">TGA</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description>"Gamma"            = "Gamma";</Description>
+      <Position>PictureStyle</Position>
+      <TranslationSet>
+        <base loc="en">Picture Style</base>
+        <tran loc="ar">نمط الصورة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>com.adobe.photoshop-image</Position>
+      <TranslationSet>
+        <base loc="en">Photoshop</base>
+        <tran loc="ar">Photoshop</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DigitalImageGUID</Position>
+      <TranslationSet>
+        <base loc="en">Digital Image Identifier</base>
+        <tran loc="ar">المعرف الرقمي للصورة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CvTermId</Position>
+      <TranslationSet>
+        <base loc="en">Term ID</base>
+        <tran loc="ar">معرف المصطلح</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>LinkedEncRightsExpr</Position>
+      <TranslationSet>
+        <base loc="en">Linked Encoded Rights Expression</base>
+        <tran loc="ar">تعبير الحقوق المشفر المرتبط</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DNGBackwardVersion</Position>
+      <TranslationSet>
+        <base loc="en">DNG Backward Version</base>
+        <tran loc="ar">إصدار DNG الخلفي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ImageFileName</Position>
+      <TranslationSet>
+        <base loc="en">Image File Name</base>
+        <tran loc="ar">اسم ملف الصور</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>LongitudeRef</Position>
+      <TranslationSet>
+        <base loc="en">Longitude Reference</base>
+        <tran loc="ar">مرجع خط الطول</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PixelWidth</Position>
+      <TranslationSet>
+        <base loc="en">Pixel Width</base>
+        <tran loc="ar">العرض بالبكسل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>public.xbitmap-image</Position>
+      <TranslationSet>
+        <base loc="en">X Bitmap</base>
+        <tran loc="ar">X Bitmap</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>RightsExprLangId</Position>
+      <TranslationSet>
+        <base loc="en">Rights expression language ID</base>
+        <tran loc="ar">معرف لغة تعبير الحقوق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>FocusDistanceLower</Position>
+      <TranslationSet>
+        <base loc="en">Focus Distance Lower</base>
+        <tran loc="ar">بعد مسافة التركيز البؤري أدنى</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Longitude</Position>
+      <TranslationSet>
+        <base loc="en">Longitude</base>
+        <tran loc="ar">خط الطول</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>public.heif</Position>
+      <TranslationSet>
+        <base loc="en">HEIF</base>
+        <tran loc="ar">‏HEIF</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>com.ilm.openexr-image</Position>
+      <TranslationSet>
+        <base loc="en">OpenEXR</base>
+        <tran loc="ar">OpenEXR</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CopyrightOwner</Position>
+      <TranslationSet>
+        <base loc="en">Copyright owner</base>
+        <tran loc="ar">مالك حقوق النشر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ShutterSpeedValue</Position>
+      <TranslationSet>
+        <base loc="en">Shutter Speed Value</base>
+        <tran loc="ar">قيمة سرعة الغالق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Possible keys for kCGImagePropertyMakerNikonDictionary </Description>
+      <Position>ISOSetting</Position>
+      <TranslationSet>
+        <base loc="en">ISO Setting</base>
+        <tran loc="ar">إعداد ISO</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>com.panasonic.raw-image</Position>
+      <TranslationSet>
+        <base loc="en">Panasonic Raw</base>
+        <tran loc="ar">Panasonic Raw</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>GainControl</Position>
+      <TranslationSet>
+        <base loc="en">Gain Control</base>
+        <tran loc="ar">التحكم في الإضاءة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Monochrome</Position>
+      <TranslationSet>
+        <base loc="en">Monochrome</base>
+        <tran loc="ar">أحادي اللون</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description>"ShootingMode"                = "Shooting Mode";
+"CameraSerialNumber"          = "Camera Serial Number";</Description>
+      <Position>ShutterCount</Position>
+      <TranslationSet>
+        <base loc="en">Shutter Count</base>
+        <tran loc="ar">العد للغالق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CiAdrPcode</Position>
+      <TranslationSet>
+        <base loc="en">Creator (Postal Code)</base>
+        <tran loc="ar">المُنشئ (الرمز البريدي)</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>LensAdapter</Position>
+      <TranslationSet>
+        <base loc="en">Lens Adapter</base>
+        <tran loc="ar">مهايئ العدسة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>IsFloat</Position>
+      <TranslationSet>
+        <base loc="en">Is Float</base>
+        <tran loc="ar">عائم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>LanguageIdentifier</Position>
+      <TranslationSet>
+        <base loc="en">Language Identifier</base>
+        <tran loc="ar">معرّف اللغة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SpatialFrequencyResponse</Position>
+      <TranslationSet>
+        <base loc="en">Spatial Frequency Response</base>
+        <tran loc="ar">استجابة التردد المكاني</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Province/State</Position>
+      <TranslationSet>
+        <base loc="en">Province/State</base>
+        <tran loc="ar">المقاطعة/الولاية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Regions</Position>
+      <TranslationSet>
+        <base loc="en">Regions</base>
+        <tran loc="ar">المناطق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>com.microsoft.bmp</Position>
+      <TranslationSet>
+        <base loc="en">Microsoft BMP</base>
+        <tran loc="ar">Microsoft BMP</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AspectRatioInfo</Position>
+      <TranslationSet>
+        <base loc="en">Aspect Ratio Info</base>
+        <tran loc="ar">معلومات نسبة العرض إلى الارتفاع</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SpecialInstructions</Position>
+      <TranslationSet>
+        <base loc="en">Instructions</base>
+        <tran loc="ar">الإرشادات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DigitalSourceType</Position>
+      <TranslationSet>
+        <base loc="en">Type of source for this photo</base>
+        <tran loc="ar">نوع مصدر هذه الصورة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ReleaseMethod</Position>
+      <TranslationSet>
+        <base loc="en">Release Method</base>
+        <tran loc="ar">طريقة الإصدار</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>RecordID</Position>
+      <TranslationSet>
+        <base loc="en">Record ID</base>
+        <tran loc="ar">معرّف السجل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CustomRendered</Position>
+      <TranslationSet>
+        <base loc="en">Custom Rendered</base>
+        <tran loc="ar">مقدم بشكل مخصص</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+</Proj>

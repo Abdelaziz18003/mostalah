@@ -1,0 +1,876 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Proj>
+  <ProjName>InstallDVDSpringboard</ProjName>
+  <File>
+    <Filepath>InstallDVDSpringboard/System/Installation/CDIS/macOS Utilities.app/Contents/Resources/en.lproj/RecoveryInformation.html</Filepath>
+  </File>
+  <File>
+    <Filepath>InstallDVDSpringboard/System/Installation/CDIS/macOS Utilities.app/Contents/Resources/en.lproj/LowBatteryWarning.strings</Filepath>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Your Mac will sleep soon unless plugged into a power outlet."; ObjectID = "100008"; </Description>
+      <Position>100008.title</Position>
+      <TranslationSet>
+        <base loc="en">Your Mac will sleep soon unless plugged into a power outlet.</base>
+        <tran loc="ar">سيتم إسبات الـ Mac قريبًا إذا لم تقم بتوصيله بمنفذ طاقة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "OK"; ObjectID = "100019"; </Description>
+      <Position>100019.title</Position>
+      <TranslationSet>
+        <base loc="en">OK</base>
+        <tran loc="ar">موافق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "You are now running on reserve battery power."; ObjectID = "100018"; </Description>
+      <Position>100018.title</Position>
+      <TranslationSet>
+        <base loc="en">You are now running on reserve battery power.</base>
+        <tran loc="ar">يتم الآن استخدام طاقة البطارية الاحتياطية.</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>InstallDVDSpringboard/System/Installation/CDIS/macOS Utilities.app/Contents/Resources/en.lproj/MainMenu.strings</Filepath>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Utilities"; ObjectID = "722"; </Description>
+      <Position>722.title</Position>
+      <TranslationSet>
+        <base loc="en">Utilities</base>
+        <tran loc="ar">الأدوات المساعدة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenu"; title = "Utilities"; ObjectID = "724"; </Description>
+      <Position>724.title</Position>
+      <TranslationSet>
+        <base loc="en">Utilities</base>
+        <tran loc="ar">الأدوات المساعدة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Delete"; ObjectID = "577"; </Description>
+      <Position>577.title</Position>
+      <TranslationSet>
+        <base loc="en">Delete</base>
+        <tran loc="ar">حذف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Text Replacement"; ObjectID = "600"; </Description>
+      <Position>600.title</Position>
+      <TranslationSet>
+        <base loc="en">Text Replacement</base>
+        <tran loc="ar">استبدال النص</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Check Document Now"; ObjectID = "603"; </Description>
+      <Position>603.title</Position>
+      <TranslationSet>
+        <base loc="en">Check Document Now</base>
+        <tran loc="ar">تدقيق المستند الآن</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Correct Spelling Automatically"; ObjectID = "607"; </Description>
+      <Position>607.title</Position>
+      <TranslationSet>
+        <base loc="en">Correct Spelling Automatically</base>
+        <tran loc="ar">تصحيح الأخطاء الإملائية تلقائيًا</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Show Spelling and Grammar"; ObjectID = "602"; </Description>
+      <Position>602.title</Position>
+      <TranslationSet>
+        <base loc="en">Show Spelling and Grammar</base>
+        <tran loc="ar">إظهار التدقيق الإملائي والتدقيق النحوي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Installer Log"; ObjectID = "645"; </Description>
+      <Position>645.title</Position>
+      <TranslationSet>
+        <base loc="en">Installer Log</base>
+        <tran loc="ar">سجل أداة المثبّت</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Stop Speaking"; ObjectID = "587"; </Description>
+      <Position>587.title</Position>
+      <TranslationSet>
+        <base loc="en">Stop Speaking</base>
+        <tran loc="ar">إيقاف التكلم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "macOS Utilities"; ObjectID = "534"; </Description>
+      <Position>534.title</Position>
+      <TranslationSet>
+        <base loc="en">macOS Utilities</base>
+        <tran loc="ar">أدوات macOS المساعدة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "macOS Utilities"; ObjectID = "56"; </Description>
+      <Position>56.title</Position>
+      <TranslationSet>
+        <base loc="en">macOS Utilities</base>
+        <tran loc="ar">أدوات macOS المساعدة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenu"; title = "macOS Utilities"; ObjectID = "57"; </Description>
+      <Position>57.title</Position>
+      <TranslationSet>
+        <base loc="en">macOS Utilities</base>
+        <tran loc="ar">أدوات macOS المساعدة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Spelling and Grammar"; ObjectID = "581"; </Description>
+      <Position>581.title</Position>
+      <TranslationSet>
+        <base loc="en">Spelling and Grammar</base>
+        <tran loc="ar">التدقيق الإملائي والتدقيق النحوي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Jump to Selection"; ObjectID = "613"; </Description>
+      <Position>613.title</Position>
+      <TranslationSet>
+        <base loc="en">Jump to Selection</base>
+        <tran loc="ar">انتقال سريع إلى التحديد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Show Substitutions"; ObjectID = "593"; </Description>
+      <Position>593.title</Position>
+      <TranslationSet>
+        <base loc="en">Show Substitutions</base>
+        <tran loc="ar">إظهار البدائل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Quit macOS Utilities"; ObjectID = "136"; </Description>
+      <Position>136.title</Position>
+      <TranslationSet>
+        <base loc="en">Quit macOS Utilities</base>
+        <tran loc="ar">إنهاء أدوات macOS المساعدة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Edit"; ObjectID = "568"; </Description>
+      <Position>568.title</Position>
+      <TranslationSet>
+        <base loc="en">Edit</base>
+        <tran loc="ar">تحرير</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenu"; title = "Edit"; ObjectID = "569"; </Description>
+      <Position>569.title</Position>
+      <TranslationSet>
+        <base loc="en">Edit</base>
+        <tran loc="ar">تحرير</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Smart Quotes"; ObjectID = "596"; </Description>
+      <Position>596.title</Position>
+      <TranslationSet>
+        <base loc="en">Smart Quotes</base>
+        <tran loc="ar">علامات الاقتباس الذكية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenu"; title = "Services"; ObjectID = "130"; </Description>
+      <Position>130.title</Position>
+      <TranslationSet>
+        <base loc="en">Services</base>
+        <tran loc="ar">خدمات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Services"; ObjectID = "131"; </Description>
+      <Position>131.title</Position>
+      <TranslationSet>
+        <base loc="en">Services</base>
+        <tran loc="ar">خدمات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Show All"; ObjectID = "150"; </Description>
+      <Position>150.title</Position>
+      <TranslationSet>
+        <base loc="en">Show All</base>
+        <tran loc="ar">إظهار الكل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Paste"; ObjectID = "575"; </Description>
+      <Position>575.title</Position>
+      <TranslationSet>
+        <base loc="en">Paste</base>
+        <tran loc="ar">لصق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Continue"; ObjectID = "746"; </Description>
+      <Position>746.title</Position>
+      <TranslationSet>
+        <base loc="en">Continue</base>
+        <tran loc="ar">متابعة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Find Previous"; ObjectID = "611"; </Description>
+      <Position>611.title</Position>
+      <TranslationSet>
+        <base loc="en">Find Previous</base>
+        <tran loc="ar">بحث عن السابق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "File"; ObjectID = "648"; </Description>
+      <Position>648.title</Position>
+      <TranslationSet>
+        <base loc="en">File</base>
+        <tran loc="ar">ملف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenu"; title = "File"; ObjectID = "649"; </Description>
+      <Position>649.title</Position>
+      <TranslationSet>
+        <base loc="en">File</base>
+        <tran loc="ar">ملف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Use Selection for Find"; ObjectID = "612"; </Description>
+      <Position>612.title</Position>
+      <TranslationSet>
+        <base loc="en">Use Selection for Find</base>
+        <tran loc="ar">استخدام التحديد للبحث</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Transformations"; ObjectID = "583"; </Description>
+      <Position>583.title</Position>
+      <TranslationSet>
+        <base loc="en">Transformations</base>
+        <tran loc="ar">تحويلات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenu"; title = "Transformations"; ObjectID = "588"; </Description>
+      <Position>588.title</Position>
+      <TranslationSet>
+        <base loc="en">Transformations</base>
+        <tran loc="ar">تحويلات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "About macOS Utilities"; ObjectID = "58"; </Description>
+      <Position>58.title</Position>
+      <TranslationSet>
+        <base loc="en">About macOS Utilities</base>
+        <tran loc="ar">حول أدوات macOS المساعدة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Close"; ObjectID = "654"; </Description>
+      <Position>654.title</Position>
+      <TranslationSet>
+        <base loc="en">Close</base>
+        <tran loc="ar">إغلاق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Zoom"; ObjectID = "239"; </Description>
+      <Position>239.title</Position>
+      <TranslationSet>
+        <base loc="en">Zoom</base>
+        <tran loc="ar">تكبير/تصغير</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Data Detectors"; ObjectID = "599"; </Description>
+      <Position>599.title</Position>
+      <TranslationSet>
+        <base loc="en">Data Detectors</base>
+        <tran loc="ar">عناصر كشف البيانات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Undo"; ObjectID = "570"; </Description>
+      <Position>570.title</Position>
+      <TranslationSet>
+        <base loc="en">Undo</base>
+        <tran loc="ar">تراجع</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Find Next"; ObjectID = "610"; </Description>
+      <Position>610.title</Position>
+      <TranslationSet>
+        <base loc="en">Find Next</base>
+        <tran loc="ar">بحث عن التالي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Change Language..."; ObjectID = "674"; </Description>
+      <Position>674.title</Position>
+      <TranslationSet>
+        <base loc="en">Change Language...</base>
+        <tran loc="ar">تغيير اللغة...</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Preferences…"; ObjectID = "129"; </Description>
+      <Position>129.title</Position>
+      <TranslationSet>
+        <base loc="en">Preferences…</base>
+        <tran loc="ar">تفضيلات…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Minimize"; ObjectID = "23"; </Description>
+      <Position>23.title</Position>
+      <TranslationSet>
+        <base loc="en">Minimize</base>
+        <tran loc="ar">تصغير</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Paste and Match Style"; ObjectID = "576"; </Description>
+      <Position>576.title</Position>
+      <TranslationSet>
+        <base loc="en">Paste and Match Style</base>
+        <tran loc="ar">لصق ومطابقة النمط</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Check Grammar With Spelling"; ObjectID = "606"; </Description>
+      <Position>606.title</Position>
+      <TranslationSet>
+        <base loc="en">Check Grammar With Spelling</base>
+        <tran loc="ar">تحقق من التدقيق النحوي مع التدقيق الإملائي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Hide Others"; ObjectID = "145"; </Description>
+      <Position>145.title</Position>
+      <TranslationSet>
+        <base loc="en">Hide Others</base>
+        <tran loc="ar">إخفاء الأخرى</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Redo"; ObjectID = "571"; </Description>
+      <Position>571.title</Position>
+      <TranslationSet>
+        <base loc="en">Redo</base>
+        <tran loc="ar">إعادة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenu"; title = "Spelling"; ObjectID = "601"; </Description>
+      <Position>601.title</Position>
+      <TranslationSet>
+        <base loc="en">Spelling</base>
+        <tran loc="ar">تدقيق إملائي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Smart Copy/Paste"; ObjectID = "595"; </Description>
+      <Position>595.title</Position>
+      <TranslationSet>
+        <base loc="en">Smart Copy/Paste</base>
+        <tran loc="ar">النسخ/اللصق الذكي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Copy"; ObjectID = "574"; </Description>
+      <Position>574.title</Position>
+      <TranslationSet>
+        <base loc="en">Copy</base>
+        <tran loc="ar">نسخ</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Find"; ObjectID = "580"; </Description>
+      <Position>580.title</Position>
+      <TranslationSet>
+        <base loc="en">Find</base>
+        <tran loc="ar">بحث</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenu"; title = "Find"; ObjectID = "608"; </Description>
+      <Position>608.title</Position>
+      <TranslationSet>
+        <base loc="en">Find</base>
+        <tran loc="ar">بحث</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Hide macOS Utilities"; ObjectID = "134"; </Description>
+      <Position>134.title</Position>
+      <TranslationSet>
+        <base loc="en">Hide macOS Utilities</base>
+        <tran loc="ar">إخفاء أدوات macOS المساعدة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Substitutions"; ObjectID = "582"; </Description>
+      <Position>582.title</Position>
+      <TranslationSet>
+        <base loc="en">Substitutions</base>
+        <tran loc="ar">البدائل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenu"; title = "Substitutions"; ObjectID = "592"; </Description>
+      <Position>592.title</Position>
+      <TranslationSet>
+        <base loc="en">Substitutions</base>
+        <tran loc="ar">البدائل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Start Speaking"; ObjectID = "586"; </Description>
+      <Position>586.title</Position>
+      <TranslationSet>
+        <base loc="en">Start Speaking</base>
+        <tran loc="ar">بدء التكلم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Capitalize"; ObjectID = "591"; </Description>
+      <Position>591.title</Position>
+      <TranslationSet>
+        <base loc="en">Capitalize</base>
+        <tran loc="ar">البدء بأحرف كبيرة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Window"; ObjectID = "19"; </Description>
+      <Position>19.title</Position>
+      <TranslationSet>
+        <base loc="en">Window</base>
+        <tran loc="ar">نافذة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenu"; title = "Window"; ObjectID = "24"; </Description>
+      <Position>24.title</Position>
+      <TranslationSet>
+        <base loc="en">Window</base>
+        <tran loc="ar">نافذة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Make Upper Case"; ObjectID = "589"; </Description>
+      <Position>589.title</Position>
+      <TranslationSet>
+        <base loc="en">Make Upper Case</base>
+        <tran loc="ar">استخدام الأحرف الكبيرة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Select All"; ObjectID = "578"; </Description>
+      <Position>578.title</Position>
+      <TranslationSet>
+        <base loc="en">Select All</base>
+        <tran loc="ar">تحديد الكل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Cut"; ObjectID = "573"; </Description>
+      <Position>573.title</Position>
+      <TranslationSet>
+        <base loc="en">Cut</base>
+        <tran loc="ar">قص</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Smart Links"; ObjectID = "598"; </Description>
+      <Position>598.title</Position>
+      <TranslationSet>
+        <base loc="en">Smart Links</base>
+        <tran loc="ar">الروابط الذكية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Find…"; ObjectID = "609"; </Description>
+      <Position>609.title</Position>
+      <TranslationSet>
+        <base loc="en">Find…</base>
+        <tran loc="ar">بحث…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenu"; title = "AMainMenu"; ObjectID = "29"; </Description>
+      <Position>29.title</Position>
+      <TranslationSet>
+        <base loc="en">AMainMenu</base>
+        <tran loc="ar">قائمة رئيسية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Check Spelling While Typing"; ObjectID = "605"; </Description>
+      <Position>605.title</Position>
+      <TranslationSet>
+        <base loc="en">Check Spelling While Typing</base>
+        <tran loc="ar">تحقق من التدقيق الإملائي أثناء الكتابة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Speech"; ObjectID = "584"; </Description>
+      <Position>584.title</Position>
+      <TranslationSet>
+        <base loc="en">Speech</base>
+        <tran loc="ar">التكلم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenu"; title = "Speech"; ObjectID = "585"; </Description>
+      <Position>585.title</Position>
+      <TranslationSet>
+        <base loc="en">Speech</base>
+        <tran loc="ar">التكلم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Make Lower Case"; ObjectID = "590"; </Description>
+      <Position>590.title</Position>
+      <TranslationSet>
+        <base loc="en">Make Lower Case</base>
+        <tran loc="ar">تحويل إلى أحرف صغيرة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Bring All to Front"; ObjectID = "5"; </Description>
+      <Position>5.title</Position>
+      <TranslationSet>
+        <base loc="en">Bring All to Front</base>
+        <tran loc="ar">إحضار الكل إلى الأمام</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Smart Dashes"; ObjectID = "597"; </Description>
+      <Position>597.title</Position>
+      <TranslationSet>
+        <base loc="en">Smart Dashes</base>
+        <tran loc="ar">شرط ذكية</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>InstallDVDSpringboard/System/Installation/CDIS/Lock.app/Contents/Resources/en.lproj/LockApplication.strings</Filepath>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Locked"; ObjectID = "56"; </Description>
+      <Position>56.title</Position>
+      <TranslationSet>
+        <base loc="en">Locked</base>
+        <tran loc="ar">مقفل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenu"; title = "Locked"; ObjectID = "57"; </Description>
+      <Position>57.title</Position>
+      <TranslationSet>
+        <base loc="en">Locked</base>
+        <tran loc="ar">مقفل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenu"; title = "Main Menu"; ObjectID = "29"; </Description>
+      <Position>29.title</Position>
+      <TranslationSet>
+        <base loc="en">Main Menu</base>
+        <tran loc="ar">القائمة الرئيسية</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>InstallDVDSpringboard/System/Installation/CDIS/macOS Utilities.app/Contents/Resources/en.lproj/InfoPlist.strings</Filepath>
+    <TextItem>
+      <Description> Localized versions of Info.plist keys </Description>
+      <Position>CFBundleName</Position>
+      <TranslationSet>
+        <base loc="en">macOS Utilities</base>
+        <tran loc="ar">أدوات macOS المساعدة</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>InstallDVDSpringboard/System/Installation/CDIS/macOS Utilities.app/Contents/Resources/en.lproj/Localizable.strings</Filepath>
+    <TextItem>
+      <Description> 
+   Localizable.strings
+   OSIESpringboard
+
+   Created by scento on 5/28/10.
+   Copyright 2010 Apple. All rights reserved.
+ </Description>
+      <Position>Disk Utility</Position>
+      <TranslationSet>
+        <base loc="en">Disk Utility</base>
+        <tran loc="ar">أداة القرص</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> AX String, label for text input menu</Description>
+      <Position>Text Input</Position>
+      <TranslationSet>
+        <base loc="en">Text Input</base>
+        <tran loc="ar">إدخال النص</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Reinstall macOS</Position>
+      <TranslationSet>
+        <base loc="en">Reinstall macOS</base>
+        <tran loc="ar">إعادة تثبيت macOS</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Browse The Web</Position>
+      <TranslationSet>
+        <base loc="en">Get Help Online</base>
+        <tran loc="ar">الحصول على المساعدة من الإنترنت</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Terminal</Position>
+      <TranslationSet>
+        <base loc="en">Terminal</base>
+        <tran loc="ar">الوحدة الطرفية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>VoiceOver Utility</Position>
+      <TranslationSet>
+        <base loc="en">VoiceOver Utility</base>
+        <tran loc="ar">VoiceOver أداة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Install macOS on to this computer.</Position>
+      <TranslationSet>
+        <base loc="en">Install macOS.</base>
+        <tran loc="ar">تثبيت macOS.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Are you sure you want to quit macOS Utilities?</Position>
+      <TranslationSet>
+        <base loc="en">Are you sure you want to quit macOS Utilities?</base>
+        <tran loc="ar">‫هل تريد بالتأكيد إنهاء أدوات macOS المساعدة؟‬</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Quit</Position>
+      <TranslationSet>
+        <base loc="en">Quit</base>
+        <tran loc="ar">إنهاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Reinstall a new copy of macOS.</Position>
+      <TranslationSet>
+        <base loc="en">Reinstall a new copy of macOS.</base>
+        <tran loc="ar">إعادة تثبيت نسخة جديدة من macOS.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>macOS Utilities</Position>
+      <TranslationSet>
+        <base loc="en">macOS Utilities</base>
+        <tran loc="ar">أدوات macOS المساعدة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Choose Startup Disk...</Position>
+      <TranslationSet>
+        <base loc="en">Choose Startup Disk...</base>
+        <tran loc="ar">‫اختيار قرص بدء التشغيل...‬</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Reset Password</Position>
+      <TranslationSet>
+        <base loc="en">Reset Password</base>
+        <tran loc="ar">إعادة تعيين كلمة السر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Restart</Position>
+      <TranslationSet>
+        <base loc="en">Restart</base>
+        <tran loc="ar">إعادة التشغيل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Cancel</Position>
+      <TranslationSet>
+        <base loc="en">Cancel</base>
+        <tran loc="ar">إلغاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Security Configuration</Position>
+      <TranslationSet>
+        <base loc="en">Security Configuration</base>
+        <tran loc="ar">تكوين الأمن</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Install a new copy of macOS.</Position>
+      <TranslationSet>
+        <base loc="en">Upgrade or Install a new copy of macOS.</base>
+        <tran loc="ar">قم بترقية macOS أو تثبيت نسخة جديدة منه.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>RAID Utility</Position>
+      <TranslationSet>
+        <base loc="en">RAID Utility</base>
+        <tran loc="ar">أداة RAID</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Startup Security Utility</Position>
+      <TranslationSet>
+        <base loc="en">Startup Security Utility</base>
+        <tran loc="ar">أداة أمن بدء التشغيل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> AX String </Description>
+      <Position>Application Selection</Position>
+      <TranslationSet>
+        <base loc="en">Application Selection</base>
+        <tran loc="ar">تحديد التطبيق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> disk utility </Description>
+      <Position>Repair or erase a volume.</Position>
+      <TranslationSet>
+        <base loc="en">Repair or erase a disk using Disk Utility.</base>
+        <tran loc="ar">إصلاح أو مسح قرص باستخدام أداة القرص.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Startup Disk</Position>
+      <TranslationSet>
+        <base loc="en">Startup Disk</base>
+        <tran loc="ar">قرص بدء التشغيل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> AX String, will be formatted into Application Name Icon </Description>
+      <Position>%@ Icon</Position>
+      <TranslationSet>
+        <base loc="en">%@ Icon</base>
+        <tran loc="ar">الأيقونة %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Browse the web for help or other information.</Position>
+      <TranslationSet>
+        <base loc="en">Browse the Apple Support website to find help for your Mac.</base>
+        <tran loc="ar">تصفح موقع الدعم الخاص بـ Apple للبحث عن المساعدة للـ Mac.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Quit Message</Position>
+      <TranslationSet>
+        <base loc="en">To quit, click Choose Startup Disk to select a startup disk for your computer. If you need to restart, click Restart.</base>
+        <tran loc="ar">للإنهاء، انقر على اختيار قرص بدء التشغيل لتحديد قرص بدء تشغيل لجهاز الكمبيوتر الخاص بك. إذا كنت تحتاج إلى إعادة التشغيل، فانقر على إعادة التشغيل.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Install macOS</Position>
+      <TranslationSet>
+        <base loc="en">Install macOS</base>
+        <tran loc="ar">تثبيت macOS</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> password reset </Description>
+      <Position>Reset an account password. Warning: This will destroy all saved passwords.</Position>
+      <TranslationSet>
+        <base loc="en">Reset an account password. Warning: This will lock the user’s keychains.</base>
+        <tran loc="ar">إعادة تعيين كلمة السر الخاصة بحساب. تحذير: سيؤدي ذلك إلى قفل سلاسل المفاتيح الخاصة بالمستخدم.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Restore From Time Machine Backup</Position>
+      <TranslationSet>
+        <base loc="en">Restore From Time Machine Backup</base>
+        <tran loc="ar">استعادة من نسخة Time Machine الاحتياطية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> AX String, label for wifi menu</Description>
+      <Position>Wifi</Position>
+      <TranslationSet>
+        <base loc="en">Wifi</base>
+        <tran loc="ar">Wifi</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Network Utility</Position>
+      <TranslationSet>
+        <base loc="en">Network Utility</base>
+        <tran loc="ar">أداة الشبكة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> AX String </Description>
+      <Position>Open Application Selection</Position>
+      <TranslationSet>
+        <base loc="en">Open Application Selection</base>
+        <tran loc="ar">فتح تحديد التطبيق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>You have a backup of your system that you want to restore.</Position>
+      <TranslationSet>
+        <base loc="en">You have a backup of your system that you want to restore.</base>
+        <tran loc="ar">لديك نسخة احتياطية من النظام الخاص بك الذي ترغب في استعادته.</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+</Proj>

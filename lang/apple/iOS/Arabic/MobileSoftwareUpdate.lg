@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Proj>
+  <ProjName>MobileSoftwareUpdate</ProjName>
+  <File>
+    <Filepath>MobileSoftwareUpdate/System/Library/PrivateFrameworks/MobileSoftwareUpdate.framework/en.lproj/PreboardService.strings</Filepath>
+    <TextItem>
+      <Description> 
+  PreboardService.strings
+  MobileSoftwareUpdate
+
+  Created by Ryan Massicci on 6/15/16.
+  Copyright © 2016 Apple Inc. All rights reserved.
+
+ Don't localize &lt;device_name&gt;</Description>
+      <Position>UNLOCK_DEVICE</Position>
+      <TranslationSet>
+        <base loc="en">Your passcode is required to allow this computer to update your &lt;device_name&gt;</base>
+        <tran loc="ar">مطلوب رمز الدخول للسماح لهذا الكمبيوتر بتحديث &lt;device_name&gt;</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> &lt;device_name&gt; will be replaced with the localized device name (MobileGestalt kMGQLocalizedDeviceNameString)</Description>
+      <Position>UNLOCK_DEVICE_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Enter Passcode to Update</base>
+        <tran loc="ar">أدخل رمز الدخول للتحديث</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+</Proj>

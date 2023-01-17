@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Proj>
+  <ProjName>MobileLockdownTools</ProjName>
+  <File>
+    <Filepath>MobileLockdownTools/System/Library/Lockdown/Localization.bundle/en.lproj/PTP.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>PTP_FAILED_TEXT</Position>
+      <TranslationSet>
+        <base loc="en">Unlock this iPhone and then reconnect it to this device to access photos and videos</base>
+        <tran loc="ar">قم بفتح قفل هذا الـ iPhone ثم قم بإعادة توصيله بهذا الجهاز للوصول إلى الصور والفيديوهات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PTP_DIALOG_MESSAGE</Position>
+      <TranslationSet>
+        <base loc="en">This device will be able to access photos and videos while it is connected to your %@.</base>
+        <tran loc="ar">سيتمكن الجهاز من الوصول إلى الصور والفيديوهات عندما يكون متصلاً بالـ %@ الخاص بك.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PTP_DIALOG_HEADER</Position>
+      <TranslationSet>
+        <base loc="en">Allow this device to access photos and videos?</base>
+        <tran loc="ar">هل تريد السماح لهذا الجهاز بالوصول إلى الصور والفيديوهات؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>WATCH_PTP_DIALOG_HEADER</Position>
+      <TranslationSet>
+        <base loc="en">Allow this device to access photos and videos?</base>
+        <tran loc="ar">هل تريد السماح لهذا الجهاز بالوصول إلى الصور والفيديوهات؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>WATCH_PTP_FAILED_TEXT</Position>
+      <TranslationSet>
+        <base loc="en">Unlock this Apple Watch and then reconnect it to this device to access photos and videos</base>
+        <tran loc="ar">قم بفتح قفل هذه الـ Apple Watch ثم قم بإعادة توصيلها بهذا الجهاز للوصول إلى الصور والفيديوهات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PTP_DIALOG_ALLOW_TRUST</Position>
+      <TranslationSet>
+        <base loc="en">Allow</base>
+        <tran loc="ar">السماح</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>WATCH_PTP_DIALOG_ALLOW_TRUST</Position>
+      <TranslationSet>
+        <base loc="en">Allow</base>
+        <tran loc="ar">السماح</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PTP_DIALOG_DENY_TRUST</Position>
+      <TranslationSet>
+        <base loc="en">Don’t Allow</base>
+        <tran loc="ar">عدم السماح</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>WATCH_PTP_DIALOG_DENY_TRUST</Position>
+      <TranslationSet>
+        <base loc="en">Don’t Allow</base>
+        <tran loc="ar">عدم السماح</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PTP_FAILED_HEADER</Position>
+      <TranslationSet>
+        <base loc="en">Trust This Device?</base>
+        <tran loc="ar">هل تريد الوثوق في هذا الجهاز؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>WATCH_PTP_FAILED_HEADER</Position>
+      <TranslationSet>
+        <base loc="en">Trust This Device?</base>
+        <tran loc="ar">هل تريد الوثوق في هذا الجهاز؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>WATCH_PTP_DIALOG_MESSAGE</Position>
+      <TranslationSet>
+        <base loc="en">The device you connected would like to access photos and videos on this Apple Watch while it is connected.</base>
+        <tran loc="ar">يرغب الجهاز الذي قمت بتوصيله في الوصول إلى الصور والفيديوهات على هذه الـ Apple Watch أثناء اتصاله.</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>MobileLockdownTools/System/Library/Lockdown/Localization.bundle/en.lproj/WiFiSync.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>SYNC_DIALOG_HEADER_WLAN</Position>
+      <TranslationSet>
+        <base loc="en">iTunes WLAN Sync</base>
+        <tran loc="ar">مزامنة iTunes WLAN</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SYNC_DIALOG_MESSAGE_WLAN</Position>
+      <TranslationSet>
+        <base loc="en">Connect to your computer with a cable to reactivate iTunes WLAN Sync.</base>
+        <tran loc="ar">وصل كمبيوترك بكبل لإعادة تنشيط مزامنة iTunes عبر WLAN.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 
+  WiFiSync.strings
+  MobileLockdown
+</Description>
+      <Position>SYNC_DIALOG_HEADER_WIFI</Position>
+      <TranslationSet>
+        <base loc="en">iTunes Wi-Fi Sync</base>
+        <tran loc="ar">مزامنة iTunes عبر Wi-Fi</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SYNC_DIALOG_MESSAGE_WIFI</Position>
+      <TranslationSet>
+        <base loc="en">Connect to your computer with a cable to reactivate iTunes Wi-Fi Sync.</base>
+        <tran loc="ar">وصل كمبيوترك بكبل لإعادة تنشيط مزامنة iTunes عبر Wi-Fi.</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>MobileLockdownTools/System/Library/Lockdown/Localization.bundle/en.lproj/Pairing.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>TRUST_DIALOG_MESSAGE_DETAILED</Position>
+      <TranslationSet>
+        <base loc="en">Your settings and data will be accessible from \'%@\' when connected wirelessly or using a cable.</base>
+        <tran loc="ar">ستكون الإعدادات والبيانات متاحة للوصول من "%@" عند الاتصال لاسلكيًا أو باستخدام الكبل.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>TRUST_DIALOG_MESSAGE</Position>
+      <TranslationSet>
+        <base loc="en">Your settings and data will be accessible from this computer when connected wirelessly or using a cable.</base>
+        <tran loc="ar">ستكون الإعدادات والبيانات متاحة للوصول من هذا الكمبيوتر عند الاتصال لاسلكيًا أو باستخدام الكبل.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>TRUST_DIALOG_HEADER</Position>
+      <TranslationSet>
+        <base loc="en">Trust This Computer?</base>
+        <tran loc="ar">الوثوق بهذا الكمبيوتر؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>TRUST_FAILED_HEADER</Position>
+      <TranslationSet>
+        <base loc="en">Trust This Computer?</base>
+        <tran loc="ar">الوثوق بهذا الكمبيوتر؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>TRUST_DIALOG_DENY_TRUST</Position>
+      <TranslationSet>
+        <base loc="en">Don’t Trust</base>
+        <tran loc="ar">عدم الوثوق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>TRUST_DIALOG_MESSAGE_SIMPLE</Position>
+      <TranslationSet>
+        <base loc="en">Your settings and data will be accessible from this computer when connected.</base>
+        <tran loc="ar">ستكون الإعدادات والبيانات الخاصة بك متاحة للوصول إليها من هذا الكمبيوتر عند توصيله.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ENTER_PASSCODE_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Enter Device Passcode to Trust This Computer</base>
+        <tran loc="ar">أدخل رمز دخول الجهاز للوثوق بهذا الكمبيوتر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>TRUST_DIALOG_HEADER_INTERNAL</Position>
+      <TranslationSet>
+        <base loc="en">Trust This Computer? %@ %@</base>
+        <tran loc="ar">الوثوق بهذا الكمبيوتر؟ %@ %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>TRUST_DIALOG_ALLOW_TRUST</Position>
+      <TranslationSet>
+        <base loc="en">Trust</base>
+        <tran loc="ar">الوثوق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>TRUST_FAILED_TEXT</Position>
+      <TranslationSet>
+        <base loc="en">Unlock this device and then reconnect it to this computer to create a trusted connection.</base>
+        <tran loc="ar">قم بفتح قفل هذا الجهاز ومن ثم إعادة توصيله لهذا الكمبيوتر لإنشاء اتصال موثوق به.</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+</Proj>

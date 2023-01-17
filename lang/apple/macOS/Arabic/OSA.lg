@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Proj>
+  <ProjName>OSA</ProjName>
+  <File>
+    <Filepath>OSA/System/Library/Frameworks/Carbon.framework/Versions/A/Frameworks/OpenScripting.framework/Versions/A/Resources/en.lproj/Authorization.strings</Filepath>
+    <TextItem>
+      <Description> Localized strings for authorization and authentication 
+ Authorization prompt for sending restricted scripting addition commands to other processes. </Description>
+      <Position>Authorize to send restricted scripting addition commands to other applications.</Position>
+      <TranslationSet>
+        <base loc="en">Authorize to send restricted scripting addition commands to other applications.</base>
+        <tran loc="ar">يلزم التخويل لإرسال أوامر إضافة البرمجة النصية المقيدة إلى تطبيقات أخرى.</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>OSA/System/Library/Frameworks/Carbon.framework/Versions/A/Frameworks/OpenScripting.framework/Versions/A/Resources/en.lproj/InfoPlist.strings</Filepath>
+    <TextItem>
+      <Description> Localized versions of Info.plist keys </Description>
+      <Position>CFBundleName</Position>
+      <TranslationSet>
+        <base loc="en">Open Scripting Architecture</base>
+        <tran loc="ar">بنية البرمجة النصية المفتوحة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>NSHumanReadableCopyright</Position>
+      <TranslationSet>
+        <base loc="en">Copyright © 2000-2009, 2014 Apple Inc.  All Rights Reserved.</base>
+        <tran loc="ar">‏‎Copyright © 2000-2009, 2014 Apple Inc.‎\n‏ كافة الحقوق محفوظة.</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+</Proj>

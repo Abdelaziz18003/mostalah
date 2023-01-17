@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Proj>
+  <ProjName>TVHomeSharingKit</ProjName>
+  <File>
+    <Filepath>TVHomeSharingKit/System/Library/PrivateFrameworks/TVHomeSharingKit.framework/en.lproj/Localizable.strings</Filepath>
+    <TextItem>
+      <Description> Message shown when asking the user to enable home sharing </Description>
+      <Position>SETUP_ACCOUNT_MESSAGE</Position>
+      <TranslationSet>
+        <base loc="en">Enter the Apple ID used to create your Home Share.\nIf you don’t have an Apple ID, open iTunes on your computer and go to Account &gt; Sign in &gt; Create New Apple ID.\n\nHome Sharing requires iTunes 10.6 or later.</base>
+        <tran loc="ar">أدخل الـ Apple ID المستخدم في إنشاء المشاركة المنزلية.\nإذا لم يكن لديك Apple ID، فافتح iTunes على الكمبيوتر وانتقل إلى الحساب &gt; الدخول &gt; إنشاء Apple ID جديد.\n\nتتطلب المشاركة المنزلية توفر iTunes 10.6 أو أحدث.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Error message shown when authentiation of the user credentials fails </Description>
+      <Position>SETUP_ERROR_MESSAGE</Position>
+      <TranslationSet>
+        <base loc="en">Your Apple ID or password was incorrect.\nIf you can’t remember your Apple ID or password, go to iforgot.apple.com on your computer.</base>
+        <tran loc="ar">الـ Apple ID أو كلمة السر غير صحيحة.\nإذا كنت لا تتذكر Apple ID أو كلمة السر، فانتقل إلى iforgot.apple.com على الكمبيوتر.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Format used to construct a season string. The argument is the season number. </Description>
+      <Position>SEASON_NUMBER_FORMAT</Position>
+      <TranslationSet>
+        <base loc="en">Season %@</base>
+        <tran loc="ar">الموسم %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Button title used to enter a new account to use to enable home sharing </Description>
+      <Position>USE_OTHER_ACCOUNT_BUTTON_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Use Another Apple ID</base>
+        <tran loc="ar">استخدام Apple ID آخر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Localizable.strings
+ TVHomeSharingKit
+  Created by David Pickford on 6/24/15.
+  Copyright (c) 2015 Apple, Inc. All rights reserved.
+ Button title used to dismiss an error shown when authentiation of the user credentials fails. </Description>
+      <Position>OK_BUTTON_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">OK</base>
+        <tran loc="ar">موافق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Button title used to select an existing account name to use to enable home sharing </Description>
+      <Position>USE_ACCOUNT_BUTTON_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Use This Apple ID</base>
+        <tran loc="ar">استخدام هذا الـ Apple ID</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Title shown when setting up home sharing allowing user to choose an existing account to use. </Description>
+      <Position>SETUP_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Home Sharing Setup</base>
+        <tran loc="ar">إعداد المشاركة المنزلية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Error title shown when authentiation of the user credentials fails </Description>
+      <Position>SETUP_ERROR_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Unable to Sign In</base>
+        <tran loc="ar">غير قادر على تسجيل الدخول</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Format string used to construct a message about enabling home sharing using a preexisting account. The single account is an account name. </Description>
+      <Position>USE_ACCOUNT_MESSAGE_FORMAT</Position>
+      <TranslationSet>
+        <base loc="en">Use %@ to turn on Home Sharing on this Apple TV?</base>
+        <tran loc="ar">استخدام %@ لتشغيل المشاركة المنزلية على هذا الـ Apple TV؟</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+</Proj>

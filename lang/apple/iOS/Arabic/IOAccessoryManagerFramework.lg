@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Proj>
+  <ProjName>IOAccessoryManagerFramework</ProjName>
+  <File>
+    <Filepath>IOAccessoryManagerFramework/System/Library/PrivateFrameworks/IOAccessoryManager.framework/PlugIns/WetNotification.appex/en.lproj/WetNotification.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>WETMSG_DIALOG_BODY_REINSERTION</Position>
+      <TranslationSet>
+        <base loc="en">Liquid has been detected in the Lightning connector. Disconnect to allow the connector to dry. Charging now may damage your iPhone.</base>
+        <tran loc="ar">تم اكتشاف سائل داخل موصل Lightning. افصل الكبل حتى يجف؛ لأن الشحن الآن قد يؤدي إلى تلف الـ iPhone.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>WETMSG_DIALOG_BODY_LEGACY</Position>
+      <TranslationSet>
+        <base loc="en">Liquid has been detected in the Lightning connector. Disconnect to allow the connector to dry. Charging now may damage your iPhone.</base>
+        <tran loc="ar">تم اكتشاف سائل داخل موصل Lightning. افصل الكبل حتى يجف؛ لأن الشحن الآن قد يؤدي إلى تلف الـ iPhone.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>WETMSG_DIALOG_NONCHARGING_BODY_INSERTION</Position>
+      <TranslationSet>
+        <base loc="en">Disconnect to allow the connector to dry. This may take several hours.</base>
+        <tran loc="ar">افصل الموصل حتى يجف. قد يستغرق هذا عدة ساعات.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>WETMSG_DIALOG_NONCHARGING_BODY_REINSERTION</Position>
+      <TranslationSet>
+        <base loc="en">Disconnect to allow the\nconnector to dry.</base>
+        <tran loc="ar">افصل الموصل\nحتى يجف.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>WETMSG_DIALOG_BODY_INSERTION</Position>
+      <TranslationSet>
+        <base loc="en">Liquid has been detected in the Lightning connector. Disconnect to allow the connector to dry. This may take several hours.</base>
+        <tran loc="ar">تم اكتشاف سائل داخل موصل Lightning. افصل الكبل حتى يجف. قد يستغرق هذا عدة ساعات.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Non-charging variant</Description>
+      <Position>WETMSG_DIALOG_NONCHARGING_HEADER</Position>
+      <TranslationSet>
+        <base loc="en">Liquid Detected in Lightning Connector</base>
+        <tran loc="ar">تم اكتشاف سائل في موصل Lightning</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Legacy</Description>
+      <Position>WETMSG_DIALOG_HEADER_LEGACY</Position>
+      <TranslationSet>
+        <base loc="en">Liquid Detected</base>
+        <tran loc="ar">تم اكتشاف سائل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 
+  WetNotification.strings
+  IOAccessoryManager
+ 
+
+ Note: update STRINGS_FILENAME if this file is ever renamed.
+ Regular text</Description>
+      <Position>WETMSG_DIALOG_HEADER</Position>
+      <TranslationSet>
+        <base loc="en">Charging Not Available</base>
+        <tran loc="ar">لا يمكن الشحن</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>IOAccessoryManagerFramework/System/Library/PrivateFrameworks/IOAccessoryManager.framework/en.lproj/Localizable.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>WETMSG_DIALOG_BODY_LOCKSCREEN_LEGACY</Position>
+      <TranslationSet>
+        <base loc="en">Liquid has been detected in the Lightning connector. Disconnect to allow the connector to dry. Charging now may damage your iPhone.</base>
+        <tran loc="ar">تم اكتشاف سائل داخل موصل Lightning. افصل الكبل حتى يجف؛ لأن الشحن الآن قد يؤدي إلى تلف الـ iPhone.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>WETMSG_DIALOG_BODY_LOCKSCREEN</Position>
+      <TranslationSet>
+        <base loc="en">Charging is not available because liquid has been detected in the Lightning connector. Disconnect to allow the connector to dry.</base>
+        <tran loc="ar">لا يمكن الشحن لأنه قد تم اكتشاف سائل في موصل Lightning. افصل الكبل حتى يجف الموصل.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Lockscreen text</Description>
+      <Position>WETMSG_DIALOG_HEADER_LOCKSCREEN</Position>
+      <TranslationSet>
+        <base loc="en">LIQUID DETECTED</base>
+        <tran loc="ar">تم اكتشاف سائل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Legacy lockscreen text</Description>
+      <Position>WETMSG_DIALOG_HEADER_LOCKSCREEN_LEGACY</Position>
+      <TranslationSet>
+        <base loc="en">LIQUID DETECTED</base>
+        <tran loc="ar">تم اكتشاف سائل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>WETMSG_BUTTON_RADAR</Position>
+      <TranslationSet>
+        <base loc="en">Radar</base>
+        <tran loc="ar">Radar</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description>
+  Localizable.strings
+  IOAccessoryManager
+ 
+ 
+ Button text</Description>
+      <Position>WETMSG_BUTTON_DISMISS</Position>
+      <TranslationSet>
+        <base loc="en">Dismiss</base>
+        <tran loc="ar">استبعاد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Legacy button text</Description>
+      <Position>WETMSG_BUTTON_CLOSE</Position>
+      <TranslationSet>
+        <base loc="en">Close</base>
+        <tran loc="ar">إغلاق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>WETMSG_BUTTON_EMERGENCY_OVERRIDE</Position>
+      <TranslationSet>
+        <base loc="en">Emergency Override</base>
+        <tran loc="ar">تجاوز الطوارئ</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+</Proj>

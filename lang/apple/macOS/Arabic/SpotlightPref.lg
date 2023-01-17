@@ -1,0 +1,510 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Proj>
+  <ProjName>SpotlightPref</ProjName>
+  <File>
+    <Filepath>SpotlightPref/System/Library/PreferencePanes/Spotlight.prefPane/Contents/Resources/English.lproj/aboutSpotlightPrivacy.rtf</Filepath>
+  </File>
+  <File>
+    <Filepath>SpotlightPref/System/Library/PreferencePanes/Spotlight.prefPane/Contents/Resources/English.lproj/InfoPlist.strings</Filepath>
+    <TextItem>
+      <Description> Localized versions of Info.plist keys </Description>
+      <Position>CFBundleName</Position>
+      <TranslationSet>
+        <base loc="en">Spotlight</base>
+        <tran loc="ar">Spotlight</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>NSPrefPaneIconLabel</Position>
+      <TranslationSet>
+        <base loc="en">Spotlight</base>
+        <tran loc="ar">Spotlight</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>SpotlightPref/System/Library/PreferencePanes/Spotlight.prefPane/Contents/Resources/English.lproj/Localizable.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>PRIVACY_REMOVE_AX_DESCRIPTION</Position>
+      <TranslationSet>
+        <base loc="en">Remove the selected disk or folder to no longer exclude from indexing.</base>
+        <tran loc="ar">قم بإزالة القرص أو المجلد المحدد لكي لا يتم استثناؤه من الفهرسة بعد الآن.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DUPLICATE_ITEM_MESSAGE_MULTIPLE</Position>
+      <TranslationSet>
+        <base loc="en">One or more items already exist in the list and were not added.</base>
+        <tran loc="ar">يوجد عنصر واحد أو أكثر في القائمة بالفعل ولم تتم إضافته.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DELETE_KEY</Position>
+      <TranslationSet>
+        <base loc="en">Delete</base>
+        <tran loc="ar">حذف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description>For undo menu</Description>
+      <Position>UNDO_DELETE</Position>
+      <TranslationSet>
+        <base loc="en">Delete</base>
+        <tran loc="ar">حذف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>HOT_KEY_UNKNOWN_ERROR_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Keyboard Shortcut Error</base>
+        <tran loc="ar">خطأ في اختصار لوحة المفاتيح</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SEARCH_CATEGORIES_AX_DESCRIPTION</Position>
+      <TranslationSet>
+        <base loc="en">Search categories</base>
+        <tran loc="ar">بحث في الفئات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>HOT_KEY_IN_USE_MESSAGE</Position>
+      <TranslationSet>
+        <base loc="en">This keyboard shortcut is already in use by the system or another application. Please choose another shortcut or use Keyboard Preferences to customize other system shortcuts.</base>
+        <tran loc="ar">اختصار لوحة المفاتيح هذا قيد الاستخدام بالفعل من قِبل النظام أو تطبيق آخر. الرجاء اختيار اختصار آخر أو استخدام تفضيلات لوحة المفاتيح لتخصيص اختصارات النظام الأخرى.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description>Key names</Description>
+      <Position>RETURN_KEY</Position>
+      <TranslationSet>
+        <base loc="en">Return</base>
+        <tran loc="ar">الرجوع</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PRIVACY_ERROR_BACKUP_EXCEPTED_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">“%@” is a Time Machine backup disk.</base>
+        <tran loc="ar">‏\"%@\" هو قرص النسخ الاحتياطي لـ Time Machine</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description>tool tips</Description>
+      <Position>ADD_ITEM_TOOLTIP</Position>
+      <TranslationSet>
+        <base loc="en">Add a folder or disk to exclude</base>
+        <tran loc="ar">إضافة مجلد أو قرص لاستبعاده</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ESC_KEY</Position>
+      <TranslationSet>
+        <base loc="en">Esc</base>
+        <tran loc="ar">هروب</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>OK</Position>
+      <TranslationSet>
+        <base loc="en">OK</base>
+        <tran loc="ar">موافق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UNDO_ADD</Position>
+      <TranslationSet>
+        <base loc="en">Add</base>
+        <tran loc="ar">إضافة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Button labels</Description>
+      <Position>CANCEL</Position>
+      <TranslationSet>
+        <base loc="en">Cancel</base>
+        <tran loc="ar">إلغاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DELETE_ITEM_TOOLTIP</Position>
+      <TranslationSet>
+        <base loc="en">Remove selected items from list</base>
+        <tran loc="ar">إزالة العناصر المحددة من القائمة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Accessibility</Description>
+      <Position>PRIVACY_ADD_AX_DESCRIPTION</Position>
+      <TranslationSet>
+        <base loc="en">Add folder or a disk to exclude from indexing.</base>
+        <tran loc="ar">إضافة مجلد أو قرص لاستبعاده من الفهرسة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PRIVACY_ALERT_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Privacy List Error</base>
+        <tran loc="ar">خطأ في قائمة الخصوصية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PRIVACY_BREAK_APPS_MESSAGE</Position>
+      <TranslationSet>
+        <base loc="en">If you exclude this location from Spotlight searches, the search feature won’t work in some applications.</base>
+        <tran loc="ar">في حالة استبعاد هذا الموقع من عمليات بحث Spotlight، لن تعمل ميزة البحث في بعض التطبيقات.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DUPLICATE_ITEM_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Duplicate Item</base>
+        <tran loc="ar">عنصر مكرر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PRIVACY_ERROR_BACKUP_LOC_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">“%@” is a Time Machine backup folder. You cannot add it to the privacy list.</base>
+        <tran loc="ar">‏\"%@\" هو مجلد نسخة احتياطية لـ Time Machine. لا يمكنك إضافته لقائمة الخصوصية.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> kMDExclusionFailed</Description>
+      <Position>PRIVACY_ERROR_UNKNOWN</Position>
+      <TranslationSet>
+        <base loc="en">The item couldn’t be added or removed because of an unknown error.</base>
+        <tran loc="ar">تعذرت إضافة العنصر أو إزالته بسبب خطأ غير معروف.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>TAB_KEY</Position>
+      <TranslationSet>
+        <base loc="en">Tab</base>
+        <tran loc="ar">علامة تبويب</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description>used to make Cmd Space shortcut string</Description>
+      <Position>SPACEBAR_KEY</Position>
+      <TranslationSet>
+        <base loc="en">Space</base>
+        <tran loc="ar">مسافة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>HOT_KEY_UNKNOWN_ERROR_MESSAGE</Position>
+      <TranslationSet>
+        <base loc="en">An unknown error of type %d occurred while trying to register the selected keyboard shortcut. Please try again or choose another shortcut.</base>
+        <tran loc="ar">حدث خطأ غير معروف من نوع %d أثناء محاولة تسجيل اختصار لوحة المفاتيح المحدد. الرجاء المحاولة مرة أخرى أو اختيار اختصار آخر.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> kMDExclusionPermissionDenied</Description>
+      <Position>PRIVACY_ERROR_PERMISSION_DENIED</Position>
+      <TranslationSet>
+        <base loc="en">The item couldn’t be added or removed because you don’t have the appropriate permissions.</base>
+        <tran loc="ar">تعذرت إضافة العنصر أو إزالته نظرًا لعدم توفر الأذونات المناسبة لديك.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PRIVACY_ERROR_BACKUP_EXCEPTED_MESSAGE</Position>
+      <TranslationSet>
+        <base loc="en">Spotlight will continue to search Time Machine backups but will not search other items on the disk.</base>
+        <tran loc="ar">سيواصل Spotlight البحث في النسخ الاحتياطية لـ Time Machine ولكن لن يبحث في عناصر أخرى على القرص.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> kMDExclusionPermissionNonIndexedLocation</Description>
+      <Position>PRIVACY_ERROR_NON_INDEXED</Position>
+      <TranslationSet>
+        <base loc="en">The item couldn’t be added or removed because the location is not indexed.</base>
+        <tran loc="ar">تعذرت إضافة العنصر أو إزالته نظرًا لعدم فهرسة الموقع.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description>button titles</Description>
+      <Position>CHOOSE</Position>
+      <TranslationSet>
+        <base loc="en">Choose</base>
+        <tran loc="ar">تحديد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PRIVACY_BREAK_APPS_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Are you sure you want to prevent Spotlight from searching in “%@”?</base>
+        <tran loc="ar">هل أنت متأكد من رغبتك في منع Spotlight من البحث في \"%@\"؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description>alerts</Description>
+      <Position>HOT_KEY_IN_USE_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Keyboard Shortcut in Use</base>
+        <tran loc="ar">اختصار لوحة المفاتيح قيد الاستخدام</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ENTER_KEY</Position>
+      <TranslationSet>
+        <base loc="en">Enter</base>
+        <tran loc="ar">إدخال</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DUPLICATE_ITEM_MESSAGE</Position>
+      <TranslationSet>
+        <base loc="en">The item already exists in the list and was not added.</base>
+        <tran loc="ar">العنصر موجود في القائمة بالفعل ولم تتم إضافته.</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>SpotlightPref/System/Library/PreferencePanes/Spotlight.prefPane/Contents/Resources/English.lproj/SpotlightPref.strings</Filepath>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Spotlight helps you quickly find things on your computer and shows suggestions from the Internet, iTunes, App Store, movie showtimes, locations nearby, and more."; ObjectID = "100103"; </Description>
+      <Position>100103.title</Position>
+      <TranslationSet>
+        <base loc="en">Spotlight helps you quickly find things on your computer and shows suggestions from the Internet, iTunes, App Store, movie showtimes, locations nearby, and more.</base>
+        <tran loc="ar">يساعدك Spotlight على البحث عن الأشياء بسرعة على الكمبيوتر وإظهار الاقتراحات من الإنترنت و iTunes و App Store وأوقات العروض السينمائية والمواقع القريبة والمزيد.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Done"; ObjectID = "hX2-c0-ENC"; </Description>
+      <Position>hX2-c0-ENC.title</Position>
+      <TranslationSet>
+        <base loc="en">Done</base>
+        <tran loc="ar">تم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTabViewItem"; label = "Search Results"; ObjectID = "99"; </Description>
+      <Position>99.label</Position>
+      <TranslationSet>
+        <base loc="en">Search Results</base>
+        <tran loc="ar">نتائج البحث</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Allow Spotlight Suggestions in Look up"; ObjectID = "100129"; </Description>
+      <Position>100129.title</Position>
+      <TranslationSet>
+        <base loc="en">Allow Spotlight Suggestions in Look up</base>
+        <tran loc="ar">السماح باقتراحات Spotlight في البحث العام</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Only selected categories will appear in Spotlight search results."; ObjectID = "100106"; </Description>
+      <Position>100106.title</Position>
+      <TranslationSet>
+        <base loc="en">Only selected categories will appear in Spotlight search results.</base>
+        <tran loc="ar">ستظهر الفئات المحددة فقط في نتائج بحث Spotlight.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSImageView"; ibExternalAccessibilityDescription = "spotlight"; ObjectID = "143"; </Description>
+      <Position>143.ibExternalAccessibilityDescription</Position>
+      <TranslationSet>
+        <base loc="en">spotlight</base>
+        <tran loc="ar">spotlight</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Keyboard Shortcuts..."; ObjectID = "63b-9a-Ycv"; </Description>
+      <Position>63b-9a-Ycv.title</Position>
+      <TranslationSet>
+        <base loc="en">Keyboard Shortcuts...</base>
+        <tran loc="ar">اختصارات لوحة المفاتيح...</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTabViewItem"; label = "Privacy"; ObjectID = "101"; </Description>
+      <Position>101.label</Position>
+      <TranslationSet>
+        <base loc="en">Privacy</base>
+        <tran loc="ar">الخصوصية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "100111"; </Description>
+      <Position>100111.title</Position>
+      <TranslationSet>
+        <base loc="en">Text Cell</base>
+        <tran loc="ar">خلية نصية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "About Spotlight Suggestions &amp; Privacy"; ObjectID = "CIa-Q3-60h"; </Description>
+      <Position>CIa-Q3-60h.title</Position>
+      <TranslationSet>
+        <base loc="en">About Spotlight Suggestions &amp; Privacy</base>
+        <tran loc="ar">حول اقتراحات Spotlight والخصوصية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTableView"; ibExternalAccessibilityDescription = "Spotlight Categories"; ObjectID = "108"; </Description>
+      <Position>108.ibExternalAccessibilityDescription</Position>
+      <TranslationSet>
+        <base loc="en">Spotlight Categories</base>
+        <tran loc="ar">فئات Spotlight</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSWindow"; title = "Spotlight Privacy"; ObjectID = "joH-q3-9Jw"; </Description>
+      <Position>joH-q3-9Jw.title</Position>
+      <TranslationSet>
+        <base loc="en">Spotlight Privacy</base>
+        <tran loc="ar">خصوصية Spotlight</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>SpotlightPref/System/Library/PreferencePanes/Spotlight.prefPane/Contents/Resources/English.lproj/Spotlight.searchTerms</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>/searchResults:dict/localizableStrings:dict/2:array/index:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">lookup, look up</base>
+        <tran loc="ar">البحث، بحث، البحث العام، بحث عام</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/searchResults:dict/localizableStrings:dict/1:array/index:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">key, keystroke, combination, combo</base>
+        <tran loc="ar">مفتاح، المفتاح، ضغط المفاتيح، مجموعة، المجموعة، مجمع، المجمع، key، keystroke، combination، combo</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/searchResults:dict/localizableStrings:dict/0:array/index:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">find, results, hits, searches, searching, finding</base>
+        <tran loc="ar">بحث، البحث، نتائج، النتائج، عدد عمليات البحث، عمليات البحث، عثور، العثور، find، results، hits، searches، searching، finding</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/searchResults:dict/localizableStrings:dict/0:array/title:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Spotlight search categories</base>
+        <tran loc="ar">فئات بحث Spotlight</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/privacy:dict/localizableStrings:dict/0:array/title:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Block search of private files</base>
+        <tran loc="ar">حظر البحث في الملفات الخاصة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/privacy:dict/localizableStrings:dict/0:array/index:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">privacy, protect, prevent, secret, hidden, protected, protecting, protection, preventing, prevention, blocked, blocking</base>
+        <tran loc="ar">خصوصية، الخصوصية، حماية، الحماية، منع، المنع، سري، السري، مخفي، المخفي، محمي، المحمي، حماية، الحماية، المحظور، الخطر، محظور، حظر، privacy، protect، prevent، secret، hidden، protected، protecting، protection، preventing، prevention، blocked، blocking</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/searchResults:dict/localizableStrings:dict/1:array/title:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Spotlight shortcuts</base>
+        <tran loc="ar">اختصارات Spotlight</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/searchResults:dict/localizableStrings:dict/2:array/title:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Spotlight Suggestions in Look up</base>
+        <tran loc="ar">اقتراحات Spotlight في البحث العام</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/privacy:dict/localizableStrings:dict/0:array/comments:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Localizable index words</base>
+        <tran loc="ar">كلمات الفهرس القابلة للترجمة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/searchResults:dict/localizableStrings:dict/0:array/comments:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Localizable index words</base>
+        <tran loc="ar">كلمات الفهرس القابلة للترجمة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/searchResults:dict/localizableStrings:dict/1:array/comments:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Localizable index words</base>
+        <tran loc="ar">كلمات الفهرس القابلة للترجمة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/searchResults:dict/localizableStrings:dict/2:array/comments:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Localizable index words</base>
+        <tran loc="ar">كلمات الفهرس القابلة للترجمة</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>SpotlightPref/System/Library/PreferencePanes/Spotlight.prefPane/Contents/Resources/English.lproj/Privacy.strings</Filepath>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Click Add (+), or drag a folder or disk into the list below."; ObjectID = "100013"; </Description>
+      <Position>100013.title</Position>
+      <TranslationSet>
+        <base loc="en">Click Add (+), or drag a folder or disk into the list below.</base>
+        <tran loc="ar">انقر على زر إضافة (+)، أو اسحب مجلد أو قرص إلى القائمة أدناه.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTableView"; ibExternalAccessibilityDescription = "Excluded locations"; ObjectID = "8"; </Description>
+      <Position>8.ibExternalAccessibilityDescription</Position>
+      <TranslationSet>
+        <base loc="en">Excluded locations</base>
+        <tran loc="ar">المواقع المستبعدة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Prevent Spotlight from searching these locations:"; ObjectID = "100012"; </Description>
+      <Position>100012.title</Position>
+      <TranslationSet>
+        <base loc="en">Prevent Spotlight from searching these locations:</base>
+        <tran loc="ar">منع تقنية Spotlight من البحث في هذه المواقع:</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+</Proj>

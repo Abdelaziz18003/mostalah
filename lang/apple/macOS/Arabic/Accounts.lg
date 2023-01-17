@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Proj>
+  <ProjName>Accounts</ProjName>
+  <File>
+    <Filepath>Accounts/System/Library/Frameworks/Accounts.framework/Versions/A/Resources/en.lproj/Localizable.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>NEW_ACCOUNT_MESSAGE</Position>
+      <TranslationSet>
+        <base loc="en">%@ has been added.</base>
+        <tran loc="ar">تمت إضافة %@.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> The first placeholder is for the account type, e.g. "Gmail". The second placholder is for the username, e.g. "foo@gmail.com". </Description>
+      <Position>VERIFICATION_REQUIRED_MESSAGE_FORMAT</Position>
+      <TranslationSet>
+        <base loc="en">Log in to your %@ account “%@”.</base>
+        <tran loc="ar">سجّل الدخول إلى حساب‪ %@‬ "%@".</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>NEW_ACCOUNT_MULTIPLE_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">New Accounts Added</base>
+        <tran loc="ar">تمت إضافة حسابات جديدة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>OK</Position>
+      <TranslationSet>
+        <base loc="en">OK</base>
+        <tran loc="ar">موافق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICLOUD_STORAGE</Position>
+      <TranslationSet>
+        <base loc="en">iCloud Storage</base>
+        <tran loc="ar">تخزين iCloud</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AUTH_ALERT_CANCEL</Position>
+      <TranslationSet>
+        <base loc="en">Cancel</base>
+        <tran loc="ar">إلغاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CANCEL</Position>
+      <TranslationSet>
+        <base loc="en">Cancel</base>
+        <tran loc="ar">إلغاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>NEW_ACCOUNT_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">%@ Account Added</base>
+        <tran loc="ar">تمت إضافة الحساب %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CONTINUE</Position>
+      <TranslationSet>
+        <base loc="en">Continue</base>
+        <tran loc="ar">متابعة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Those are related to the invalid credential dialog for social plugins </Description>
+      <Position>AUTH_ALERT_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Enter the %@ password for “%@” in Settings.</base>
+        <tran loc="ar">قم بإدخال كلمة سر %@ لـ \"%@\" في الإعدادات.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>NEW_ACCOUNT_MULTIPLE_MESSAGE</Position>
+      <TranslationSet>
+        <base loc="en">Several new accounts have been added.</base>
+        <tran loc="ar">تمت إضافة حسابات جديدة عديدة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AUTH_ALERT_MESSAGE_OSX</Position>
+      <TranslationSet>
+        <base loc="en">Enter the password for “%@” in System Preferences.</base>
+        <tran loc="ar">قم بإدخال كلمة السر لـ \"%@\" في تفضيلات النظام.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AUTH_ALERT_PREFERENCES</Position>
+      <TranslationSet>
+        <base loc="en">Preferences…</base>
+        <tran loc="ar">تفضيلات…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Account Sync New Account Notification </Description>
+      <Position>TURN_ON</Position>
+      <TranslationSet>
+        <base loc="en">Turn On</base>
+        <tran loc="ar">تشغيل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Button titles </Description>
+      <Position>DONT_ALLOW</Position>
+      <TranslationSet>
+        <base loc="en">Don’t Allow</base>
+        <tran loc="ar">عدم السماح</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 
+  Localizable.strings
+  Accounts
+
+  Created by Glen Steele on 5/15/11.
+  Copyright (c) 2011-2012 Apple Inc. All rights reserved.
+
+ Dialog shown when 3rd party apps request access to accounts. First argument is the name of application, the second is the type of account, e.g. Twitter </Description>
+      <Position>ACCOUNT_ACCESS_MESSAGE</Position>
+      <TranslationSet>
+        <base loc="en">“%1$@” Would Like Access to %2$@ Accounts</base>
+        <tran loc="ar">يرغب \"%1$@\" بالوصول إلى حسابات %2$@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AUTH_ALERT_TITLE_OSX</Position>
+      <TranslationSet>
+        <base loc="en">%@ Password</base>
+        <tran loc="ar">كلمة سر %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Used by ACDAuthenticationDialogManager </Description>
+      <Position>VERIFICATION_REQUIRED_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Verification Required</base>
+        <tran loc="ar">مطلوب التحقق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AUTH_ALERT_SETTINGS</Position>
+      <TranslationSet>
+        <base loc="en">Settings</base>
+        <tran loc="ar">الإعدادات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>NEW_ACCOUNT_MUTLIPLE_BUTTON_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Settings</base>
+        <tran loc="ar">الإعدادات</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+</Proj>

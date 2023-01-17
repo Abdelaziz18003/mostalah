@@ -1,0 +1,568 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Proj>
+  <ProjName>BaseBoardUI</ProjName>
+  <File>
+    <Filepath>BaseBoardUI/System/iOSSupport/System/Library/PrivateFrameworks/BaseBoardUI.framework/Versions/A/Resources/en.lproj/Localizable.strings</Filepath>
+    <TextItem>
+      <Description> no start time, so not a range, ie "thru Jun 7"</Description>
+      <Position>TO_DATE_FORMAT</Position>
+      <TranslationSet>
+        <base loc="en">thru %@</base>
+        <tran loc="ar">إلى %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>TOMORROW</Position>
+      <TranslationSet>
+        <base loc="en">Tomorrow</base>
+        <tran loc="ar">غدًا</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>TODAY_TO_DATE_FORMAT</Position>
+      <TranslationSet>
+        <base loc="en">Today thru %@</base>
+        <tran loc="ar">من اليوم إلى %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 6/8/12 thru __</Description>
+      <Position>DAYMONTHYEAR_TO_DATE_FORMAT</Position>
+      <TranslationSet>
+        <base loc="en">%@ thru %@</base>
+        <tran loc="ar">من %@ إلى %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> June 7 thru __</Description>
+      <Position>DAYMONTH_TO_DATE_FORMAT</Position>
+      <TranslationSet>
+        <base loc="en">%@ thru %@</base>
+        <tran loc="ar">من %@ إلى %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Wednesday thru __</Description>
+      <Position>DAYOFWEEK_TO_DATE_FORMAT</Position>
+      <TranslationSet>
+        <base loc="en">%@ thru %@</base>
+        <tran loc="ar">من %@ إلى %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>YESTERDAY</Position>
+      <TranslationSet>
+        <base loc="en">Yesterday</base>
+        <tran loc="ar">أمس</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> modern UI event date labels just use a dash</Description>
+      <Position>DATE_RANGE_FORMAT_NEW</Position>
+      <TranslationSet>
+        <base loc="en">%@ - %@</base>
+        <tran loc="ar">‏%@ - ‏%@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>YESTERDAY_TO_DATE_FORMAT</Position>
+      <TranslationSet>
+        <base loc="en">Yesterday thru %@</base>
+        <tran loc="ar">من أمس إلى %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>TOMORROW_TO_DATE_FORMAT</Position>
+      <TranslationSet>
+        <base loc="en">Tomorrow thru %@</base>
+        <tran loc="ar">من غد إلى %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>TODAY</Position>
+      <TranslationSet>
+        <base loc="en">Today</base>
+        <tran loc="ar">اليوم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> no start time, so not a range, ie "to 2:00 PM"</Description>
+      <Position>TO_TIME_FORMAT</Position>
+      <TranslationSet>
+        <base loc="en">to %@</base>
+        <tran loc="ar">إلى %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 
+  Localizable.strings
+  BaseBoard
+
+  Created by Ben Sherratt on 2016/11/04.
+  Copyright © 2016 Apple, Inc. All rights reserved.
+</Description>
+      <Position>NOW</Position>
+      <TranslationSet>
+        <base loc="en">Now</base>
+        <tran loc="ar">الآن</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>BaseBoardUI/System/iOSSupport/System/Library/PrivateFrameworks/BaseBoardUI.framework/Versions/A/Resources/en.lproj/Localizable.stringsdict</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>/RELATIVE_DATE_FUTURE_HOURS:dict/NSStringLocalizedFormatKey:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%1$#@hours@</base>
+        <tran loc="ar">‏%1$#@hours@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/RELATIVE_DATE_PAST_HOURS:dict/NSStringLocalizedFormatKey:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%1$#@hours@</base>
+        <tran loc="ar">‏%1$#@hours@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/RELATIVE_DATE_FUTURE_SECONDS:dict/NSStringLocalizedFormatKey:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%1$#@seconds@</base>
+        <tran loc="ar">‏%1$#@seconds@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/RELATIVE_DATE_PAST_SECONDS:dict/NSStringLocalizedFormatKey:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%1$#@seconds@</base>
+        <tran loc="ar">‏%1$#@seconds@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/RELATIVE_DATE_FUTURE_SECONDS:dict/seconds:dict/few:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">in 1m</base>
+        <tran loc="ar">خلال دقيقة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/RELATIVE_DATE_FUTURE_SECONDS:dict/seconds:dict/many:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">in 1m</base>
+        <tran loc="ar">خلال دقيقة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/RELATIVE_DATE_FUTURE_SECONDS:dict/seconds:dict/one:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">in 1m</base>
+        <tran loc="ar">خلال دقيقة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/RELATIVE_DATE_FUTURE_SECONDS:dict/seconds:dict/other:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">in 1m</base>
+        <tran loc="ar">خلال دقيقة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/RELATIVE_DATE_FUTURE_SECONDS:dict/seconds:dict/two:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">in 1m</base>
+        <tran loc="ar">خلال دقيقة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/RELATIVE_DATE_FUTURE_SECONDS:dict/seconds:dict/zero:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">in 1m</base>
+        <tran loc="ar">خلال دقيقة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/RELATIVE_DATE_FUTURE_DAYS:dict/days:dict/few:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">in %lud</base>
+        <tran loc="ar">خلال %lu ي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/RELATIVE_DATE_FUTURE_DAYS:dict/days:dict/many:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">in %lud</base>
+        <tran loc="ar">خلال %lu ي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/RELATIVE_DATE_FUTURE_DAYS:dict/days:dict/one:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">in %lud</base>
+        <tran loc="ar">خلال يوم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/RELATIVE_DATE_FUTURE_DAYS:dict/days:dict/other:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">in %lud</base>
+        <tran loc="ar">خلال %lu ي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/RELATIVE_DATE_FUTURE_DAYS:dict/days:dict/two:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">in %lud</base>
+        <tran loc="ar">خلال %lu ي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/RELATIVE_DATE_FUTURE_DAYS:dict/days:dict/zero:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">in %lud</base>
+        <tran loc="ar">خلال %lu ي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/RELATIVE_DATE_PAST_HOURS:dict/hours:dict/few:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%luh ago</base>
+        <tran loc="ar">منذ %lu س</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/RELATIVE_DATE_PAST_HOURS:dict/hours:dict/many:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%luh ago</base>
+        <tran loc="ar">منذ %lu س</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/RELATIVE_DATE_PAST_HOURS:dict/hours:dict/one:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%luh ago</base>
+        <tran loc="ar">منذ ساعة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/RELATIVE_DATE_PAST_HOURS:dict/hours:dict/other:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%luh ago</base>
+        <tran loc="ar">منذ %lu س</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/RELATIVE_DATE_PAST_HOURS:dict/hours:dict/two:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%luh ago</base>
+        <tran loc="ar">منذ %lu س</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/RELATIVE_DATE_PAST_HOURS:dict/hours:dict/zero:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%luh ago</base>
+        <tran loc="ar">منذ %lu س</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/RELATIVE_DATE_FUTURE_MINUTES:dict/NSStringLocalizedFormatKey:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%1$#@minutes@</base>
+        <tran loc="ar">‏%1$#@minutes@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/RELATIVE_DATE_PAST_MINUTES:dict/NSStringLocalizedFormatKey:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%1$#@minutes@</base>
+        <tran loc="ar">‏%1$#@minutes@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/RELATIVE_DATE_FUTURE_DAYS:dict/NSStringLocalizedFormatKey:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%1$#@days@</base>
+        <tran loc="ar">‏%1$#@days@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/RELATIVE_DATE_PAST_DAYS:dict/NSStringLocalizedFormatKey:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%1$#@days@</base>
+        <tran loc="ar">‏%1$#@days@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/RELATIVE_DATE_FUTURE_HOURS:dict/hours:dict/few:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">in %luh</base>
+        <tran loc="ar">خلال %lu س</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/RELATIVE_DATE_FUTURE_HOURS:dict/hours:dict/many:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">in %luh</base>
+        <tran loc="ar">خلال %lu س</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/RELATIVE_DATE_FUTURE_HOURS:dict/hours:dict/one:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">in %luh</base>
+        <tran loc="ar">خلال ساعة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/RELATIVE_DATE_FUTURE_HOURS:dict/hours:dict/other:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">in %luh</base>
+        <tran loc="ar">خلال %lu س</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/RELATIVE_DATE_FUTURE_HOURS:dict/hours:dict/two:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">in %luh</base>
+        <tran loc="ar">خلال %lu س</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/RELATIVE_DATE_FUTURE_HOURS:dict/hours:dict/zero:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">in %luh</base>
+        <tran loc="ar">خلال %lu س</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/RELATIVE_DATE_PAST_DAYS:dict/days:dict/few:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%lud ago</base>
+        <tran loc="ar">منذ %lu ي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/RELATIVE_DATE_PAST_DAYS:dict/days:dict/many:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%lud ago</base>
+        <tran loc="ar">منذ %lu ي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/RELATIVE_DATE_PAST_DAYS:dict/days:dict/one:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%lud ago</base>
+        <tran loc="ar">منذ يوم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/RELATIVE_DATE_PAST_DAYS:dict/days:dict/other:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%lud ago</base>
+        <tran loc="ar">منذ %lu ي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/RELATIVE_DATE_PAST_DAYS:dict/days:dict/two:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%lud ago</base>
+        <tran loc="ar">منذ %lu ي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/RELATIVE_DATE_PAST_DAYS:dict/days:dict/zero:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%lud ago</base>
+        <tran loc="ar">منذ %lu ي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/RELATIVE_DATE_PAST_MINUTES:dict/minutes:dict/few:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%lum ago</base>
+        <tran loc="ar">منذ %lu د</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/RELATIVE_DATE_PAST_MINUTES:dict/minutes:dict/many:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%lum ago</base>
+        <tran loc="ar">منذ %lu د</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/RELATIVE_DATE_PAST_MINUTES:dict/minutes:dict/one:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%lum ago</base>
+        <tran loc="ar">منذ دقيقة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/RELATIVE_DATE_PAST_MINUTES:dict/minutes:dict/other:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%lum ago</base>
+        <tran loc="ar">منذ %lu د</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/RELATIVE_DATE_PAST_MINUTES:dict/minutes:dict/two:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%lum ago</base>
+        <tran loc="ar">منذ %lu د</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/RELATIVE_DATE_PAST_MINUTES:dict/minutes:dict/zero:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%lum ago</base>
+        <tran loc="ar">منذ %lu د</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/RELATIVE_DATE_PAST_SECONDS:dict/seconds:dict/few:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">now</base>
+        <tran loc="ar">الآن</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/RELATIVE_DATE_PAST_SECONDS:dict/seconds:dict/many:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">now</base>
+        <tran loc="ar">الآن</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/RELATIVE_DATE_PAST_SECONDS:dict/seconds:dict/one:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">now</base>
+        <tran loc="ar">الآن</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/RELATIVE_DATE_PAST_SECONDS:dict/seconds:dict/other:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">now</base>
+        <tran loc="ar">الآن</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/RELATIVE_DATE_PAST_SECONDS:dict/seconds:dict/two:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">now</base>
+        <tran loc="ar">الآن</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/RELATIVE_DATE_PAST_SECONDS:dict/seconds:dict/zero:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">now</base>
+        <tran loc="ar">الآن</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/RELATIVE_DATE_FUTURE_MINUTES:dict/minutes:dict/few:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">in %lum</base>
+        <tran loc="ar">خلال %lu د</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/RELATIVE_DATE_FUTURE_MINUTES:dict/minutes:dict/many:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">in %lum</base>
+        <tran loc="ar">خلال %lu د</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/RELATIVE_DATE_FUTURE_MINUTES:dict/minutes:dict/one:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">in %lum</base>
+        <tran loc="ar">خلال دقيقة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/RELATIVE_DATE_FUTURE_MINUTES:dict/minutes:dict/other:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">in %lum</base>
+        <tran loc="ar">خلال %lu د</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/RELATIVE_DATE_FUTURE_MINUTES:dict/minutes:dict/two:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">in %lum</base>
+        <tran loc="ar">خلال %lu د</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/RELATIVE_DATE_FUTURE_MINUTES:dict/minutes:dict/zero:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">in %lum</base>
+        <tran loc="ar">خلال %lu د</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+</Proj>

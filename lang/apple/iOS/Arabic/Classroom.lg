@@ -1,0 +1,2160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Proj>
+  <ProjName>Classroom</ProjName>
+  <File>
+    <Filepath>Classroom/System/Library/PrivateFrameworks/ClassroomKit.framework/en.lproj/Localizable.strings</Filepath>
+    <TextItem>
+      <Description> Error shown when an EDU profile field has an incorrect data type </Description>
+      <Position>The field %@ is invalid.</Position>
+      <TranslationSet>
+        <base loc="en">The field %@ is invalid.</base>
+        <tran loc="ar">الحقل "%@" غير صالح.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Message text of view screen prompt. </Description>
+      <Position>“Always Allow” will allow any of your teachers to view your screen or AirPlay your iPad. This can be configured in Settings.</Position>
+      <TranslationSet>
+        <base loc="en">“Always Allow” will allow any of your teachers to view your screen or AirPlay your iPad. This can be configured in Settings.</base>
+        <tran loc="ar">سيتيح إعداد "السماح دائمًا" لأي معلم من معلميك مشاهدة شاشتك أو استخدام AirPlay مع الـ iPad الخاص بك. يمكنك تكوين ذلك في الإعدادات.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Departments title for managed EDU mode pref pane </Description>
+      <Position>Departments</Position>
+      <TranslationSet>
+        <base loc="en">Departments</base>
+        <tran loc="ar">الأقسام</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> The header for the student information section </Description>
+      <Position>My Information</Position>
+      <TranslationSet>
+        <base loc="en">My Information</base>
+        <tran loc="ar">معلوماتي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> format string for composing delimited list of instructor names with count of other instructors </Description>
+      <Position>%@ + %@</Position>
+      <TranslationSet>
+        <base loc="en">%1$@ + %2$@</base>
+        <tran loc="ar">‏%1$@ + %2$@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> An abbreviated status message indicating an instructor is observing your screen </Description>
+      <Position>Observed</Position>
+      <TranslationSet>
+        <base loc="en">Observed</base>
+        <tran loc="ar">يتم الإشراف عليها</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Teacher (Singular) Section Header Text </Description>
+      <Position>TEACHER</Position>
+      <TranslationSet>
+        <base loc="en">TEACHER</base>
+        <tran loc="ar">المعلم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> The placeholder text for a user's given name text field </Description>
+      <Position>Given Name</Position>
+      <TranslationSet>
+        <base loc="en">Given Name</base>
+        <tran loc="ar">الاسم الأول</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Take photo alert action title </Description>
+      <Position>Take Photo</Position>
+      <TranslationSet>
+        <base loc="en">Take Photo</base>
+        <tran loc="ar">التقاط صورة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Description of dropdown menu option to prompt you for permission if the teacher tries to lock your Mac. </Description>
+      <Position>You will be asked the next time a teacher wants to lock your Mac.</Position>
+      <TranslationSet>
+        <base loc="en">You will be asked the next time a teacher wants to lock your Mac.</base>
+        <tran loc="ar">سيتم سؤالك في المرة القادمة التي يرغب فيها أحد معلميك في قفل الـ Mac.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Message of 'merge classes with cloud' prompt </Description>
+      <Position>What would you like to do with the existing classes on your iPad?</Position>
+      <TranslationSet>
+        <base loc="en">What would you like to do with the existing classes on your iPad?</base>
+        <tran loc="ar">ماذا تريد أن تفعل بالحصص الموجودة على الـ iPad؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Purple course mascot color accessibility description component </Description>
+      <Position>Purple</Position>
+      <TranslationSet>
+        <base loc="en">Purple</base>
+        <tran loc="ar">أرجواني</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Enrolled Classes List Header Text
+   Title for section heading in courses list.
+   Title of Classes tab. </Description>
+      <Position>Classes</Position>
+      <TranslationSet>
+        <base loc="en">Classes</base>
+        <tran loc="ar">الحصص</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Take photo alert action title </Description>
+      <Position>Choose Photo</Position>
+      <TranslationSet>
+        <base loc="en">Choose Photo</base>
+        <tran loc="ar">اختيار صورة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> The placeholder text for a user's phonetic given name text field </Description>
+      <Position>Phonetic Given Name</Position>
+      <TranslationSet>
+        <base loc="en">Phonetic Given Name</base>
+        <tran loc="ar">الاسم الأول الصوتي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Title of request to remove class alert. %@ is the class name. </Description>
+      <Position>Are you sure you want to request to remove “%@”?</Position>
+      <TranslationSet>
+        <base loc="en">Are you sure you want to request to remove “%@”?</base>
+        <tran loc="ar">هل أنت متأكد من رغبتك في طلب إزالة "%@"؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Alert title when a single class in the students settings pane has expired </Description>
+      <Position>“%@” has expired and will be removed</Position>
+      <TranslationSet>
+        <base loc="en">“%@” has expired and will be removed</base>
+        <tran loc="ar">انتهت صلاحية "%@" وسيتم إزالته</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Default status text displayed on the lock screen when the device has been locked by the teacher </Description>
+      <Position>Locked</Position>
+      <TranslationSet>
+        <base loc="en">Locked</base>
+        <tran loc="ar">مقفل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Title of the view screen prompt. %@ is the teacher's name. </Description>
+      <Position>%@ wants to view your screen.</Position>
+      <TranslationSet>
+        <base loc="en">%@ wants to view your screen.</base>
+        <tran loc="ar">يرغب %@ في مشاهدة شاشتك.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Title of the lock prompt. No given teacher name. </Description>
+      <Position>Your teacher wants to lock your Mac.</Position>
+      <TranslationSet>
+        <base loc="en">Your teacher wants to lock your Mac.</base>
+        <tran loc="ar">يرغب معلمك في قفل الـ Mac الخاص بك.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Title of the open URL prompt. %@ is the teacher's name. </Description>
+      <Position>%@ wants to open a link on your Mac.</Position>
+      <TranslationSet>
+        <base loc="en">%@ wants to open a link on your Mac.</base>
+        <tran loc="ar">يرغب %@ في فتح رابط على الـ Mac الخاص بك.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Default stack-of-books course mascot accessibility description component </Description>
+      <Position>Books</Position>
+      <TranslationSet>
+        <base loc="en">Books</base>
+        <tran loc="ar">الكتب</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Alert title when a list of classes in the student's settings pane have expired </Description>
+      <Position>Your student and %lu teacher authorization certificates have expired. You may not be able to join one or more classes. Contact your administrator for assistance.</Position>
+      <TranslationSet>
+        <base loc="en">Your student and %lu teacher authorization certificates have expired. You may not be able to join one or more classes. Contact your administrator for assistance.</base>
+        <tran loc="ar">انتهت صلاحية طالب و%lu تخويلاً من الأستاذ وقد لا تستطيع المشاركة في فصل أو أكثر من الفصول. الرجاء التواصل مع المدير المسؤول للمساعدة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Title of the open URL prompt. No given teacher name. </Description>
+      <Position>Your teacher wants to open a link on your iPad</Position>
+      <TranslationSet>
+        <base loc="en">Your teacher wants to open a link on your iPad</base>
+        <tran loc="ar">يرغب معلمك في فتح رابط على الـ iPad الخاص بك</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> User cell's instructor observing accessibility label. %@ represents the cell's regular accessibility label </Description>
+      <Position>%@, viewing your screen</Position>
+      <TranslationSet>
+        <base loc="en">%@, viewing your screen</base>
+        <tran loc="ar">%@ يشاهد شاشتك</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Informing users that their truster leader certificate has expired in the profile and they will not be ale to connect to any classes.
+   Text shown in the informative text section when selecting a course with an expired instructor certificate </Description>
+      <Position>The teacher authorization certificate has expired. You will be unable to join any classes. Contact your administrator for assistance.</Position>
+      <TranslationSet>
+        <base loc="en">The teacher authorization certificate has expired. You will be unable to join any classes. Contact your administrator for assistance.</base>
+        <tran loc="ar">انتهت صلاحية التخويل من الأستاذ، ولن تستطيع المشاركة في أي حصة. الرجاء التواصل مع المدير المسؤول للمساعدة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> User cell avatar accessibility label
+   User cell image accessibility label </Description>
+      <Position>Your photo</Position>
+      <TranslationSet>
+        <base loc="en">Your photo</base>
+        <tran loc="ar">صورتك</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Error shown when an EDU profile contains a non-unique user identifier </Description>
+      <Position>A user with same identifier “%@” already exists.</Position>
+      <TranslationSet>
+        <base loc="en">A user with same identifier “%@” already exists.</base>
+        <tran loc="ar">يوجد بالفعل مستخدم مع نفس المعرّف "%@‎".</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Message text of open URL prompt. </Description>
+      <Position>“Always Allow” will allow any of your teachers to open links on your iPad. This can be configured in Settings.</Position>
+      <TranslationSet>
+        <base loc="en">“Always Allow” will allow any of your teachers to open links on your iPad. This can be configured in Settings.</base>
+        <tran loc="ar">سيتيح إعداد "السماح دائمًا" لأي معلم من معلميك فتح الروابط على الـ iPad الخاص بك. يمكنك تكوين ذلك في الإعدادات.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Error shown when the identity from the EDU Profile cannot be added to the keychain. </Description>
+      <Position>Unable to add identity to keychain for certificate UUID: %@</Position>
+      <TranslationSet>
+        <base loc="en">Unable to add identity to keychain for certificate UUID: %@</base>
+        <tran loc="ar">غير قادر على إضافة الهوية إلى سلسلة المفاتيح لشهادة UUID: %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> auto-attend disabled description </Description>
+      <Position>You will be prompted to join the class before a teacher can control your iPad.</Position>
+      <TranslationSet>
+        <base loc="en">You will be prompted to join the class before a teacher can control your iPad.</base>
+        <tran loc="ar">ستتم مطالبتك بالانضمام إلى حصة حتى يتمكن معلمك من التحكم في الـ iPad.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Explanatory text in sheet to enroll in a course. </Description>
+      <Position>Adding this class allows the teacher to access and control your Mac, including opening apps and navigating to websites, chapters, and pages.</Position>
+      <TranslationSet>
+        <base loc="en">Adding this class allows the teacher to access and control your Mac, including opening apps and navigating to websites, chapters, and pages.</base>
+        <tran loc="ar">سيسمح الانضمام إلى الحصة للمعلم بالوصول إلى الـ Mac الخاص بك والتحكم فيه، بما في ذلك فتح التطبيقات وتصفح مواقع الويب والفصول والصفحات.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> A status message indicating an instructor is observing your screen </Description>
+      <Position>Your screen is being remotely observed.</Position>
+      <TranslationSet>
+        <base loc="en">Your screen is being remotely observed.</base>
+        <tran loc="ar">تجري مشاهدة شاشتك عن بعد.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> auto-attend disabled description </Description>
+      <Position>Classes will need to be joined before teachers can control your iPad.</Position>
+      <TranslationSet>
+        <base loc="en">Classes will need to be joined before teachers can control your iPad.</base>
+        <tran loc="ar">يجب الانضمام إلى الحصص حتى يتمكن المعلمون من التحكم في الـ iPad الخاص بك.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Alert dialogue message for when the user has to choose to manually take part in the class. %@ is the teacher's name </Description>
+      <Position>Joining this class will allow %@ to access and control your Mac, including opening apps and navigating to websites, chapters, and pages.</Position>
+      <TranslationSet>
+        <base loc="en">Joining this class will allow %@ to access and control your Mac, including opening apps and navigating to websites, chapters, and pages.</base>
+        <tran loc="ar">سيسمح الانضمام إلى الحصة لـ %@ بالوصول إلى الـ Mac الخاص بك والتحكم فيه، بما في ذلك فتح التطبيقات وتصفح مواقع الويب والفصول والصفحات.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Title of button allowing student to choose whether to allow the teacher to automatically (without prompting) or manually (with prompting) control their device. </Description>
+      <Position>Join Classes</Position>
+      <TranslationSet>
+        <base loc="en">Join Classes</base>
+        <tran loc="ar">الانضمام إلى الحصص</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Title for section heading in courses list. </Description>
+      <Position>Expired Classes</Position>
+      <TranslationSet>
+        <base loc="en">Expired Classes</base>
+        <tran loc="ar">الحصص المنتهية صلاحيتها</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Description of dropdown menu option to join classes automatically. </Description>
+      <Position>Teachers will be able to assist you by controlling your Mac, without prompting, when you are in their class.</Position>
+      <TranslationSet>
+        <base loc="en">Teachers will be able to assist you by controlling your Mac, without prompting, when you are in their class.</base>
+        <tran loc="ar">سيتمكن المعلمون من مساعدتك من خلال التحكم في الـ Mac الخاص بك، دون إعلامك، عندما تكون في حصتهم.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Lock Apps and Device </Description>
+      <Position>Lock Apps and Device</Position>
+      <TranslationSet>
+        <base loc="en">Lock Apps and Device</base>
+        <tran loc="ar">قفل التطبيقات والجهاز</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Title of the view screen prompt. %@ is the teacher's name. </Description>
+      <Position>%@ wants to view your screen</Position>
+      <TranslationSet>
+        <base loc="en">%@ wants to view your screen</base>
+        <tran loc="ar">يرغب %@ في مشاهدة شاشتك</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Title of permission dropdown menu. </Description>
+      <Position>AirPlay and View Screen:</Position>
+      <TranslationSet>
+        <base loc="en">AirPlay and View Screen:</base>
+        <tran loc="ar">استخدام AirPlay ومشاهدة الشاشة:</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Default, orange, course mascot color accessibility description component
+   Orange course mascot color accessibility description component </Description>
+      <Position>Orange</Position>
+      <TranslationSet>
+        <base loc="en">Orange</base>
+        <tran loc="ar">برتقالي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> ALLOW TEACHER TO </Description>
+      <Position>ALLOW TEACHER TO</Position>
+      <TranslationSet>
+        <base loc="en">ALLOW TEACHER TO</base>
+        <tran loc="ar">السماح للمعلم بـ:</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> The placeholder text for a user's phonetic family name text field </Description>
+      <Position>Phonetic Family Name</Position>
+      <TranslationSet>
+        <base loc="en">Phonetic Family Name</base>
+        <tran loc="ar">اسم العائلة الصوتي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Accessibility title for a instructor's avatar with badge indicating they are observing your screen </Description>
+      <Position>Teacher’s avatar with badge indicating they are observing your screen</Position>
+      <TranslationSet>
+        <base loc="en">Teacher’s avatar with badge indicating they are observing your screen</base>
+        <tran loc="ar">صورة رمزية للمعلم مع شارة تبين أن المدرس يراقب شاشتك</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Title of the lock prompt. %@ is the teacher's name. </Description>
+      <Position>%@ wants to lock your Mac.</Position>
+      <TranslationSet>
+        <base loc="en">%@ wants to lock your Mac.</base>
+        <tran loc="ar">يرغب %@ في قفل الـ Mac الخاص بك.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Error shown when an EDU profile contains a non-unique beacon ID </Description>
+      <Position>A group with beacon ID %@ already exists.</Position>
+      <TranslationSet>
+        <base loc="en">A group with beacon ID %@ already exists.</base>
+        <tran loc="ar">توجد بالفعل مجموعة تحمل هوية Beacon ‏"%@".</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Title of button to join class dialogue </Description>
+      <Position>Join</Position>
+      <TranslationSet>
+        <base loc="en">Join</base>
+        <tran loc="ar">انضمام</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Error shown when an EDU profile field is missing </Description>
+      <Position>The required field %@ is missing.</Position>
+      <TranslationSet>
+        <base loc="en">The required field %@ is missing.</base>
+        <tran loc="ar">الحقل المطلوب %@ مفقود.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Title of permission dropdown menu. </Description>
+      <Position>Lock Mac:</Position>
+      <TranslationSet>
+        <base loc="en">Lock Mac:</base>
+        <tran loc="ar">قفل الـ Mac:</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Request to Remove This Class </Description>
+      <Position>Request to Remove This Class</Position>
+      <TranslationSet>
+        <base loc="en">Request to Remove This Class</base>
+        <tran loc="ar">طلب إزالة هذه الحصة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Geography course mascot accessibility description component </Description>
+      <Position>Geography</Position>
+      <TranslationSet>
+        <base loc="en">Geography</base>
+        <tran loc="ar">الجغرافيا</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> AirPlay and View Screen </Description>
+      <Position>AirPlay and View Screen</Position>
+      <TranslationSet>
+        <base loc="en">AirPlay and View Screen</base>
+        <tran loc="ar">استخدام AirPlay ومشاهدة الشاشة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Ask
+   Title of dropdown menu option to ask for permission before allowing the teacher to perform commands. </Description>
+      <Position>Ask</Position>
+      <TranslationSet>
+        <base loc="en">Ask</base>
+        <tran loc="ar">طلب</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No Classes - Placeholder Class Item
+   The text shows in the course list to indicate there are no selectable classes </Description>
+      <Position>No Classes</Position>
+      <TranslationSet>
+        <base loc="en">No Classes</base>
+        <tran loc="ar">لا توجد حصص</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Title for section heading in courses list. </Description>
+      <Position>New Class Invitations</Position>
+      <TranslationSet>
+        <base loc="en">New Class Invitations</base>
+        <tran loc="ar">دعوات حصص جديدة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Title of the AirPlay prompt. %@ is the teacher's name. </Description>
+      <Position>%@ wants to AirPlay your Mac.</Position>
+      <TranslationSet>
+        <base loc="en">%@ wants to AirPlay your Mac.</base>
+        <tran loc="ar">يرغب %@ في استخدام AirPlay على الـ Mac الخاص بك.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Error description when a course invitation failed due an invalid pin code </Description>
+      <Position>The code that was entered is invalid. Verify the code is correct and try again.</Position>
+      <TranslationSet>
+        <base loc="en">The code that was entered is invalid. Verify the code is correct and try again.</base>
+        <tran loc="ar">الرمز الذي تم إدخاله غير صالح. تحقق من صحة الرمز وحاول مرة أخرى.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Internet required to request or cancel request to remove this class alert message text
+   Subtitle of alert to request or stop requesting to remove this class. </Description>
+      <Position>An Internet connection is required to request to remove this class.</Position>
+      <TranslationSet>
+        <base loc="en">An Internet connection is required to request to remove this class.</base>
+        <tran loc="ar">يلزم الاتصال بالإنترنت لطلب إزالة هذه الحصة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Message text of open app prompt. </Description>
+      <Position>“Always Allow” will allow any of your teachers to open apps on your Mac. This can be configured in System Preferences.</Position>
+      <TranslationSet>
+        <base loc="en">“Always Allow” will allow any of your teachers to open apps on your Mac. This can be configured in System Preferences.</base>
+        <tran loc="ar">سيتيح إعداد "السماح دائمًا" لأي معلم من معلميك فتح التطبيقات على الـ Mac الخاص بك. يمكنك تكوين ذلك في تفضيلات النظام.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Red course mascot color accessibility description component </Description>
+      <Position>Red</Position>
+      <TranslationSet>
+        <base loc="en">Red</base>
+        <tran loc="ar">أحمر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> OK
+   The title of the accept button on the error alert </Description>
+      <Position>OK</Position>
+      <TranslationSet>
+        <base loc="en">OK</base>
+        <tran loc="ar">موافق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Error message shown in Classroom settings when an EDU profile is installed on an unsupervised device </Description>
+      <Position>This iPad has an Education Configuration Profile installed but is not supervised. The Education Configuration Profile can only be used on a supervised iPad.</Position>
+      <TranslationSet>
+        <base loc="en">This iPad has an Education Configuration Profile installed but is not supervised. The Education Configuration Profile can only be used on a supervised iPad.</base>
+        <tran loc="ar">هذا الـ iPad مثبّت عليه ملف تعريف تكوين التعليم، وليس خاضعًا للإشراف. لا يمكن استخدام ملف تعريف تكوين التعليم إلا إذا كان الـ iPad خاضعًا للإشراف.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Title of merge button for 'merge classes with cloud' prompt </Description>
+      <Position>Merge</Position>
+      <TranslationSet>
+        <base loc="en">Merge</base>
+        <tran loc="ar">دمج</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Course invitation done button title </Description>
+      <Position>Add</Position>
+      <TranslationSet>
+        <base loc="en">Add</base>
+        <tran loc="ar">إضافة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Error shown when an EDU profile does not contain a certificate referenced inside the classroom payload. </Description>
+      <Position>Certificate not found for certificate UUID: %@</Position>
+      <TranslationSet>
+        <base loc="en">Certificate not found for certificate UUID: %@</base>
+        <tran loc="ar">تعذر العثور على شهادة لـ UUID: ‏%@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Pink course mascot color accessibility description component </Description>
+      <Position>Pink</Position>
+      <TranslationSet>
+        <base loc="en">Pink</base>
+        <tran loc="ar">زهري</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Aqua course mascot color accessibility description component </Description>
+      <Position>Aqua</Position>
+      <TranslationSet>
+        <base loc="en">Aqua</base>
+        <tran loc="ar">أزرق مائي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> A title indicating that your credentials for this class have expired </Description>
+      <Position>Teacher Authorization Expired</Position>
+      <TranslationSet>
+        <base loc="en">Teacher Authorization Expired</base>
+        <tran loc="ar">انتهت صلاحية التخويل من الأستاذ</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Last name textfield placeholder </Description>
+      <Position>Last Name</Position>
+      <TranslationSet>
+        <base loc="en">Last Name</base>
+        <tran loc="ar">الاسم الأخير</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> New Class Invitation (single item) List Header Text </Description>
+      <Position>NEW CLASS INVITATION</Position>
+      <TranslationSet>
+        <base loc="en">NEW CLASS INVITATION</base>
+        <tran loc="ar">دعوة حصة جديدة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Groups title for managed EDU mode pref pane </Description>
+      <Position>Groups</Position>
+      <TranslationSet>
+        <base loc="en">Groups</base>
+        <tran loc="ar">المجموعات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> User cell edit image custom accessibility action name </Description>
+      <Position>Edit your photo</Position>
+      <TranslationSet>
+        <base loc="en">Edit your photo</base>
+        <tran loc="ar">تحرير صورتك</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Title of the open app prompt. No given teacher name. </Description>
+      <Position>Your teacher wants to open an app on your iPad</Position>
+      <TranslationSet>
+        <base loc="en">Your teacher wants to open an app on your iPad</base>
+        <tran loc="ar">يرغب معلمك في فتح تطبيق على الـ iPad الخاص بك</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Text for toggle switch in Classroom settings to enable/disable iCloud syncing </Description>
+      <Position>Sync classes using iCloud</Position>
+      <TranslationSet>
+        <base loc="en">Sync classes using iCloud</base>
+        <tran loc="ar">زامن الحصص باستخدام iCloud</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> My Information Section Header Text </Description>
+      <Position>MY INFORMATION</Position>
+      <TranslationSet>
+        <base loc="en">MY INFORMATION</base>
+        <tran loc="ar">معلوماتي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> The description for a button that will cause this user's student information to be sourced from their contact card (meCard)
+   Title for the cell that enables using the user's me card information </Description>
+      <Position>Use Name &amp; Photo from My Card</Position>
+      <TranslationSet>
+        <base loc="en">Use Name &amp; Photo from My Card</base>
+        <tran loc="ar">استخدام الاسم والصورة من "بطاقتي"</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> A title indicating that your credentials for this class have expired </Description>
+      <Position>Student Authorization Expired</Position>
+      <TranslationSet>
+        <base loc="en">Student Authorization Expired</base>
+        <tran loc="ar">انتهت صلاحية تخويل الطالب</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Title of the AirPlay prompt. No given teacher name. </Description>
+      <Position>Your teacher wants to AirPlay your iPad</Position>
+      <TranslationSet>
+        <base loc="en">Your teacher wants to AirPlay your iPad</base>
+        <tran loc="ar">يرغب معلمك في استخدام AirPlay على الـ iPad</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Title of the open app prompt. %@ is the teacher's name. </Description>
+      <Position>%@ wants to open an app on your Mac.</Position>
+      <TranslationSet>
+        <base loc="en">%@ wants to open an app on your Mac.</base>
+        <tran loc="ar">يرغب %@ في فتح تطبيق على الـ Mac الخاص بك.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Message text of lock prompt. </Description>
+      <Position>“Always Allow” will allow any of your teachers to lock your iPad. This can be configured in Settings.</Position>
+      <TranslationSet>
+        <base loc="en">“Always Allow” will allow any of your teachers to lock your iPad. This can be configured in Settings.</base>
+        <tran loc="ar">سيتيح إعداد "السماح دائمًا" لأي معلم من معلميك قفل الـ iPad الخاص بك. يمكنك تكوين ذلك في الإعدادات.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Classroom description </Description>
+      <Position>Classroom allows teachers to access and control your iPad, including opening apps and navigating to websites, chapters, and pages.</Position>
+      <TranslationSet>
+        <base loc="en">Classroom allows teachers to access and control your iPad, including opening apps and navigating to websites, chapters, and pages.</base>
+        <tran loc="ar">يسمح تطبيق قاعة الدراسة للمعلمين بالوصول إلى الـ iPad الخاص بك والتحكم فيه، بما في ذلك فتح التطبيقات وتصفح مواقع الويب والفصول والصفحات.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Title of button to allow the teacher's request </Description>
+      <Position>Allow</Position>
+      <TranslationSet>
+        <base loc="en">Allow</base>
+        <tran loc="ar">السماح</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Default title for an error alert
+   Error </Description>
+      <Position>Error</Position>
+      <TranslationSet>
+        <base loc="en">Error</base>
+        <tran loc="ar">خطأ</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Cancel
+   Cancel button title for class removal alert
+   Cancel button title for class removal request alert
+   Title of button to ignore the teacher's request to join class dialogue
+   Title of cancel button for 'merge classes with cloud' prompt
+   Title of cancel button on remove class alert.
+   Title of cancel button on request to remove class alert.
+   Title of the button used to cancel the add course flow </Description>
+      <Position>Cancel</Position>
+      <TranslationSet>
+        <base loc="en">Cancel</base>
+        <tran loc="ar">إلغاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Green course mascot color accessibility description component </Description>
+      <Position>Green</Position>
+      <TranslationSet>
+        <base loc="en">Green</base>
+        <tran loc="ar">أخضر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Internet required to request or cancel request to remove this class alert title text </Description>
+      <Position>Internet Connection Required</Position>
+      <TranslationSet>
+        <base loc="en">Internet Connection Required</base>
+        <tran loc="ar">مطلوب الاتصال بالإنترنت</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Users title for managed EDU mode pref pane </Description>
+      <Position>Users</Position>
+      <TranslationSet>
+        <base loc="en">Users</base>
+        <tran loc="ar">المستخدمون</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Title of the view screen prompt. No given teacher name. </Description>
+      <Position>Your teacher wants to view your screen</Position>
+      <TranslationSet>
+        <base loc="en">Your teacher wants to view your screen</base>
+        <tran loc="ar">يرغب معلمك في عرض شاشتك</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Failed To Enroll </Description>
+      <Position>Failed To Enroll</Position>
+      <TranslationSet>
+        <base loc="en">Failed To Enroll</base>
+        <tran loc="ar">فشل التسجيل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Message text of lock prompt. </Description>
+      <Position>“Always Allow” will allow any of your teachers to lock your Mac. This can be configured in System Preferences.</Position>
+      <TranslationSet>
+        <base loc="en">“Always Allow” will allow any of your teachers to lock your Mac. This can be configured in System Preferences.</base>
+        <tran loc="ar">سيتيح إعداد "السماح دائمًا" لأي معلم من معلميك قفل الـ Mac الخاص بك. يمكنك تكوين ذلك في تفضيلات النظام.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Error shown when attempting to install an EDU profile when one already exists </Description>
+      <Position>Only one EDU profile can be installed at a time.</Position>
+      <TranslationSet>
+        <base loc="en">Only one EDU profile can be installed at a time.</base>
+        <tran loc="ar">يمكن تثبيت ملف تعريف EDU واحد في كل مرة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Subtitle of remove class alert. </Description>
+      <Position>This action cannot be undone.</Position>
+      <TranslationSet>
+        <base loc="en">This action cannot be undone.</base>
+        <tran loc="ar">لا يمكن التراجع عن هذا الإجراء.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Course cell's instructor observing accessibility label. %@ represents the cell's regular accessibility label </Description>
+      <Position>%@, a teacher is viewing your screen</Position>
+      <TranslationSet>
+        <base loc="en">%@, a teacher is viewing your screen</base>
+        <tran loc="ar">‏%@، يشاهد أحد المعلمين شاشتك</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Alert dialogue title for when the user has chose to manually take part in a class. %@ is the class name </Description>
+      <Position>Join %@?</Position>
+      <TranslationSet>
+        <base loc="en">Join %@?</base>
+        <tran loc="ar">انضام إلى %@؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Error shown when an EDU profile field that must be unique is repeated </Description>
+      <Position>The field %@ is not unique.</Position>
+      <TranslationSet>
+        <base loc="en">The field %@ is not unique.</base>
+        <tran loc="ar">الحقل "%@" ليس فريدًا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Title of alert displayed when iCloud syncing cannot be enabled due to the user not having two factor authentication turned on </Description>
+      <Position>Two Factor Authentication Required</Position>
+      <TranslationSet>
+        <base loc="en">Two Factor Authentication Required</base>
+        <tran loc="ar">المصادقة بخطوتين مطلوبة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Reading course mascot accessibility description component </Description>
+      <Position>Reading</Position>
+      <TranslationSet>
+        <base loc="en">Reading</base>
+        <tran loc="ar">القراءة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Error description when a course invitation failed due to the instructor denying enrollment </Description>
+      <Position>Teacher rejected request to join course</Position>
+      <TranslationSet>
+        <base loc="en">Teacher rejected request to join course</base>
+        <tran loc="ar">رفض المعلم طلب الانضمام إلى هذه الدورة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Take photo alert action title </Description>
+      <Position>Delete Photo</Position>
+      <TranslationSet>
+        <base loc="en">Delete Photo</base>
+        <tran loc="ar">حذف الصورة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Title of button to deny the teacher's request </Description>
+      <Position>Deny</Position>
+      <TranslationSet>
+        <base loc="en">Deny</base>
+        <tran loc="ar">رفض</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Pincode </Description>
+      <Position>Pincode</Position>
+      <TranslationSet>
+        <base loc="en">Pincode</base>
+        <tran loc="ar">الرمز التعريفي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Title for unnamed in courses list. </Description>
+      <Position>Unnamed</Position>
+      <TranslationSet>
+        <base loc="en">Unnamed</base>
+        <tran loc="ar">بلا اسم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Alert title when a single class in the student's settings pane has expired </Description>
+      <Position>“%@” has expired and will be removed.</Position>
+      <TranslationSet>
+        <base loc="en">“%@” has expired and will be removed.</base>
+        <tran loc="ar">انتهت صلاحية "%@" وسيتم إزالته.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> The title of the alert displaying an error </Description>
+      <Position>An error has occurred.</Position>
+      <TranslationSet>
+        <base loc="en">An error has occurred.</base>
+        <tran loc="ar">حدث خطأ.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Explanatory text for iCloud syncing toggle in Classroom settings pane </Description>
+      <Position>Automatically upload your classes to iCloud to join them from all your iPad devices.</Position>
+      <TranslationSet>
+        <base loc="en">Automatically upload your classes to iCloud to join them from all your iPad devices.</base>
+        <tran loc="ar">حمل حصصك تلقائيًا إلى iCloud للمشاركة فيها من جميع أجهزة iPad.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Text shown in the informative text section when selecting a course with an expired instructor certificate </Description>
+      <Position>Your student and teacher authorization certificates have expired. You will be unable to join any classes. Contact your administrator for assistance.</Position>
+      <TranslationSet>
+        <base loc="en">Your student and teacher authorization certificates have expired. You will be unable to join any classes. Contact your administrator for assistance.</base>
+        <tran loc="ar">انتهت صلاحية طالب وشهادات التخويل من الأستاذ، ولن تستطيع المشاركة في أي حصة. الرجاء التواصل مع المدير المسؤول للمساعدة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Request to leave class description </Description>
+      <Position>Your teacher will receive a notification that you want to leave this class.</Position>
+      <TranslationSet>
+        <base loc="en">Your teacher will receive a notification that you want to leave this class.</base>
+        <tran loc="ar">سيستلم المعلم إشعارًا برغبتك في مغادرة الحصة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Informing users that all of the trusted leader certificates in the education profile have expired and they will not be able to connect to any classes. </Description>
+      <Position>All teacher authorization certificates have expired. You will be unable to join any classes. Contact your administrator for assistance.</Position>
+      <TranslationSet>
+        <base loc="en">All teacher authorization certificates have expired. You will be unable to join any classes. Contact your administrator for assistance.</base>
+        <tran loc="ar">انتهت صلاحية جميع شهادات التخويل من الأستاذ، ولن تستطيع المشاركة في أي حصة. الرجاء التواصل مع المدير المسؤول للمساعدة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Message for class removal alert </Description>
+      <Position>Are you sure you want to remove this class?</Position>
+      <TranslationSet>
+        <base loc="en">Are you sure you want to remove this class?</base>
+        <tran loc="ar">هل ترغب بالتأكيد في إزالة هذه الحصة؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class Invitation - Waiting For Teacher Detail Text </Description>
+      <Position>Waiting For Teacher…</Position>
+      <TranslationSet>
+        <base loc="en">Waiting For Teacher…</base>
+        <tran loc="ar">بانتظار المعلم…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Managed course mascot accessibility description component </Description>
+      <Position>Managed</Position>
+      <TranslationSet>
+        <base loc="en">Managed</base>
+        <tran loc="ar">مُدار</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> The title of the button used to remove the course </Description>
+      <Position>Remove Class…</Position>
+      <TranslationSet>
+        <base loc="en">Remove Class…</base>
+        <tran loc="ar">إزالة الحصة…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Description of dropdown menu option to allow the teacher to lock your Mac without prompting. </Description>
+      <Position>Teachers are allowed to lock your Mac.</Position>
+      <TranslationSet>
+        <base loc="en">Teachers are allowed to lock your Mac.</base>
+        <tran loc="ar">يسمح للمعلمين بقفل الـ Mac الخاص بك.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Description for Never AirPlay option in Classroom Settings
+   Description of dropdown menu option to disallow the teacher from AirPlaying your screen to an Apple TV or viewing your screen. </Description>
+      <Position>Teachers can never AirPlay or view your screen.</Position>
+      <TranslationSet>
+        <base loc="en">Teachers can never AirPlay or view your screen.</base>
+        <tran loc="ar">لا يمكن للمعلمين مطلقًا استخدام AirPlay أو مشاهدة شاشتك.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Math course mascot accessibility description component </Description>
+      <Position>Math</Position>
+      <TranslationSet>
+        <base loc="en">Math</base>
+        <tran loc="ar">الرياضيات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Title of 'merge classes with cloud' prompt </Description>
+      <Position>Existing Classes</Position>
+      <TranslationSet>
+        <base loc="en">Existing Classes</base>
+        <tran loc="ar">الحصص الموجودة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Description for Always Allow lock option in Classroom Settings </Description>
+      <Position>Teachers are allowed to lock your iPad.</Position>
+      <TranslationSet>
+        <base loc="en">Teachers are allowed to lock your iPad.</base>
+        <tran loc="ar">يسمح للمعلمين بقفل الـ iPad الخاص بك.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Subtitle of request to remove class alert. </Description>
+      <Position>Your teacher will be notified.</Position>
+      <TranslationSet>
+        <base loc="en">Your teacher will be notified.</base>
+        <tran loc="ar">سيتم إبلاغ المعلم.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Description for Never lock option in Classroom Settings </Description>
+      <Position>Teachers can never lock your iPad.</Position>
+      <TranslationSet>
+        <base loc="en">Teachers can never lock your iPad.</base>
+        <tran loc="ar">لا يمكن للمعلمين مطلقًا قفل الـ iPad الخاص بك.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> A confirmation that the user understands one or more of their classes have expired and will be removed automatically.
+   Confirm title for class removal alert
+   Title of remove class button on remove class alert. </Description>
+      <Position>Remove</Position>
+      <TranslationSet>
+        <base loc="en">Remove</base>
+        <tran loc="ar">إزالة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Title of the view screen prompt. No given teacher name. </Description>
+      <Position>Your teacher wants to view your screen.</Position>
+      <TranslationSet>
+        <base loc="en">Your teacher wants to view your screen.</base>
+        <tran loc="ar">يرغب معلمك في عرض شاشتك.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> The action status text used to notify the user that their request to unenroll from the course is waiting for approval from the teacher
+   The status text used to notify the student that course enrollment is pending on approval by the teacher </Description>
+      <Position>Waiting for approval…</Position>
+      <TranslationSet>
+        <base loc="en">Waiting for approval…</base>
+        <tran loc="ar">في انتظار الموافقة…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> The title of the button used to accept a course invitation
+   The title of the button used to add a course after entering the pin code </Description>
+      <Position>Add Class</Position>
+      <TranslationSet>
+        <base loc="en">Add Class</base>
+        <tran loc="ar">إضافة حصة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Body of alert displayed when iCloud syncing cannot be enabled due to the user not having two factor authentication turned on </Description>
+      <Position>Enable two factor authentication and then try again.</Position>
+      <TranslationSet>
+        <base loc="en">Enable two factor authentication and then try again.</base>
+        <tran loc="ar">قم بتمكين المصادقة بخطوتين وحاول مرة أخرى.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Device Groups title for managed EDU mode pref pane </Description>
+      <Position>Device Groups</Position>
+      <TranslationSet>
+        <base loc="en">Device Groups</base>
+        <tran loc="ar">مجموعات الأجهزة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Description for Allow AirPlay option in Classroom Settings
+   Description of dropdown menu option to prompt you for permission if the teacher tries to AirPlay your screen to an Apple TV or view your screen. </Description>
+      <Position>You will be asked the next time a teacher wants to AirPlay or view your screen.</Position>
+      <TranslationSet>
+        <base loc="en">You will be asked the next time a teacher wants to AirPlay or view your screen.</base>
+        <tran loc="ar">سيتم سؤالك في المرة القادمة التي يرغب فيها أحد معلميك في استخدام AirPlay أو مشاهدة شاشتك.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Pin code entry prompt
+   Title of sheet to enroll in a course. </Description>
+      <Position>Enter the code provided by the teacher to add this class:</Position>
+      <TranslationSet>
+        <base loc="en">Enter the code provided by the teacher to add this class:</base>
+        <tran loc="ar">أدخل الرمز المقدم من المعلم لإضافة هذه الحصة:</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Text shown in the informative text section when selecting a course with one of several expired instructor certificates </Description>
+      <Position>Your student and one of the teacher authorization certificates have expired. You may not be able to join one or more classes. Contact your administrator for assistance.</Position>
+      <TranslationSet>
+        <base loc="en">Your student and one of the teacher authorization certificates have expired. You may not be able to join one or more classes. Contact your administrator for assistance.</base>
+        <tran loc="ar">انتهت صلاحية طالب وشهادة تخويل واحدة من الأستاذ، وقد لا تستطيع المشاركة في حصة واحدة أو أكثر. الرجاء التواصل مع المدير المسؤول للمساعدة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Title of button to ignore the teacher's request to join class dialogue </Description>
+      <Position>Not Now</Position>
+      <TranslationSet>
+        <base loc="en">Not Now</base>
+        <tran loc="ar">ليس الآن</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Message text of AirPlay prompt. </Description>
+      <Position>“Always Allow” will allow any of your teachers to AirPlay your iPad or view your screen. This can be configured in Settings.</Position>
+      <TranslationSet>
+        <base loc="en">“Always Allow” will allow any of your teachers to AirPlay your iPad or view your screen. This can be configured in Settings.</base>
+        <tran loc="ar">سيتيح إعداد "السماح دائمًا" لأي معلم من معلميك استخدام AirPlay مع الـ iPad الخاص بك أو مشاهدة شاشتك. يمكنك تكوين ذلك في الإعدادات.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Title for class removal alert
+   Title for class removal request alert </Description>
+      <Position>Confirm</Position>
+      <TranslationSet>
+        <base loc="en">Confirm</base>
+        <tran loc="ar">تأكيد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Title of the open URL prompt. %@ is the teacher's name. </Description>
+      <Position>%@ wants to open a link on your iPad</Position>
+      <TranslationSet>
+        <base loc="en">%@ wants to open a link on your iPad</base>
+        <tran loc="ar">يرغب %@ في فتح رابط على الـ iPad</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Classroom Preference Pane header text. </Description>
+      <Position>Classroom allows teachers to access and control your Mac, including opening apps and navigating to websites, chapters, and pages.</Position>
+      <TranslationSet>
+        <base loc="en">Classroom allows teachers to access and control your Mac, including opening apps and navigating to websites, chapters, and pages.</base>
+        <tran loc="ar">يسمح تطبيق قاعة الدراسة للمعلمين بالوصول إلى الـ Mac الخاص بك والتحكم فيه، بما في ذلك فتح التطبيقات وتصفح مواقع الويب والفصول والصفحات.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Title of the lock prompt. No given teacher name. </Description>
+      <Position>Your teacher wants to lock your iPad</Position>
+      <TranslationSet>
+        <base loc="en">Your teacher wants to lock your iPad</base>
+        <tran loc="ar">يرغب معلمك في قفل الـ iPad الخاص بك</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Error shown when the identity from the EDU Profile cannot be added to the specified keychain group. </Description>
+      <Position>Unable to add identity to group (%@) for certificate UUID: %@</Position>
+      <TranslationSet>
+        <base loc="en">Unable to add identity to group (%1$@) for certificate UUID: %2$@</base>
+        <tran loc="ar">غير قادر على إضافة الهوية إلى مجموعة (%1$@) لشهادة UUID: %2$@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Title of the open URL prompt. No given teacher name. </Description>
+      <Position>Your teacher wants to open a link on your Mac.</Position>
+      <TranslationSet>
+        <base loc="en">Your teacher wants to open a link on your Mac.</base>
+        <tran loc="ar">يرغب معلمك في فتح رابط على الـ Mac الخاص بك.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Title of Permissions tab. </Description>
+      <Position>Permissions</Position>
+      <TranslationSet>
+        <base loc="en">Permissions</base>
+        <tran loc="ar">أذونات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> First name textfield placeholder </Description>
+      <Position>First Name</Position>
+      <TranslationSet>
+        <base loc="en">First Name</base>
+        <tran loc="ar">الاسم الأول</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Message text of open URL prompt. </Description>
+      <Position>“Always Allow” will allow any of your teachers to open links on your Mac. This can be configured in System Preferences.</Position>
+      <TranslationSet>
+        <base loc="en">“Always Allow” will allow any of your teachers to open links on your Mac. This can be configured in System Preferences.</base>
+        <tran loc="ar">سيتيح إعداد "السماح دائمًا" لأي معلم من معلميك فتح الروابط على الـ Mac الخاص بك. يمكنك تكوين ذلك في تفضيلات النظام.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Language course mascot accessibility description component </Description>
+      <Position>Language</Position>
+      <TranslationSet>
+        <base loc="en">Language</base>
+        <tran loc="ar">اللغة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Title of alert to request or stop requesting to remove this class. </Description>
+      <Position>Internet connection required</Position>
+      <TranslationSet>
+        <base loc="en">Internet connection required</base>
+        <tran loc="ar">مطلوب الاتصال بالإنترنت</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Default title for a book with no title information or file name </Description>
+      <Position>Untitled</Position>
+      <TranslationSet>
+        <base loc="en">Untitled</base>
+        <tran loc="ar">بلا عنوان</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Message text of AirPlay prompt. </Description>
+      <Position>“Always Allow” will allow any of your teachers to AirPlay your Mac or view your screen. This can be configured in System Preferences.</Position>
+      <TranslationSet>
+        <base loc="en">“Always Allow” will allow any of your teachers to AirPlay your Mac or view your screen. This can be configured in System Preferences.</base>
+        <tran loc="ar">سيتيح إعداد "السماح دائمًا" لأي معلم من معلميك استخدام AirPlay مع الـ Mac الخاص بك أو مشاهدة شاشتك. يمكنك تكوين ذلك في تفضيلات النظام.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Description for Allow lock option in Classroom Settings </Description>
+      <Position>You will be asked the next time a teacher wants to lock your iPad.</Position>
+      <TranslationSet>
+        <base loc="en">You will be asked the next time a teacher wants to lock your iPad.</base>
+        <tran loc="ar">ستتم مطالبتك في المرة القادمة التي يرغب فيها أحد معلميك في قفل الـ iPad.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Description of dropdown menu option to disallow the teacher from locking your Mac. </Description>
+      <Position>Teachers can never lock your Mac.</Position>
+      <TranslationSet>
+        <base loc="en">Teachers can never lock your Mac.</base>
+        <tran loc="ar">لا يمكن للمعلمين مطلقًا قفل الـ Mac الخاص بك.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Description of dropdown menu option to join classes manually. </Description>
+      <Position>You will be prompted to join the class before a teacher can control your Mac.</Position>
+      <TranslationSet>
+        <base loc="en">You will be prompted to join the class before a teacher can control your Mac.</base>
+        <tran loc="ar">ستتم مطالبتك بالانضمام إلى حصة حتى يتمكن معلمك من التحكم في الـ Mac.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Always
+   Title of dropdown menu option to allow the teacher to perform commands without prompting for permission. </Description>
+      <Position>Always</Position>
+      <TranslationSet>
+        <base loc="en">Always</base>
+        <tran loc="ar">دائمًا</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Writing course mascot accessibility description component </Description>
+      <Position>Writing</Position>
+      <TranslationSet>
+        <base loc="en">Writing</base>
+        <tran loc="ar">كتابة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class invitation pin footer description </Description>
+      <Position>Adding this class allows the teacher to access and control your iPad, including opening apps and navigating to websites, chapters, and pages.</Position>
+      <TranslationSet>
+        <base loc="en">Adding this class allows the teacher to access and control your iPad, including opening apps and navigating to websites, chapters, and pages.</base>
+        <tran loc="ar">سيسمح الانضمام إلى هذه الحصة للمعلم بالوصول إلى الـ iPad والتحكم فيه، بما في ذلك فتح التطبيقات وتصفح مواقع الويب والفصول والصفحات.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Gray course mascot color accessibility description component </Description>
+      <Position>Gray</Position>
+      <TranslationSet>
+        <base loc="en">Gray</base>
+        <tran loc="ar">رمادي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> instructor name list separator for course list subtitle </Description>
+      <Position>, </Position>
+      <TranslationSet>
+        <base loc="en">, </base>
+        <tran loc="ar"> ،</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Phonetic first name textfield placeholder </Description>
+      <Position>Phonetic First Name</Position>
+      <TranslationSet>
+        <base loc="en">Phonetic First Name</base>
+        <tran loc="ar">الاسم الأول الصوتي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Error description when a course invitation failed due to invalid  student information </Description>
+      <Position>Invalid configuration</Position>
+      <TranslationSet>
+        <base loc="en">Invalid configuration</base>
+        <tran loc="ar">التكوين غير صالح</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Description for Always Allow AirPlay option in Classroom Settings
+   Description of dropdown menu option to allow the teacher to AirPlay or view your screen without prompting. </Description>
+      <Position>Teachers are allowed to AirPlay and view your screen.</Position>
+      <TranslationSet>
+        <base loc="en">Teachers are allowed to AirPlay and view your screen.</base>
+        <tran loc="ar">مسموح للمعلمين باستخدام AirPlay ومشاهدة شاشتك.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Cancel Request to Remove This Class </Description>
+      <Position>Cancel Request to Remove This Class</Position>
+      <TranslationSet>
+        <base loc="en">Cancel Request to Remove This Class</base>
+        <tran loc="ar">إلغاء طلب إزالة هذه الحصة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Error shown when an EDU profile does not contain an identity referenced inside the classroom payload. </Description>
+      <Position>Identity not found for certificate UUID: %@</Position>
+      <TranslationSet>
+        <base loc="en">Identity not found for certificate UUID: %@</base>
+        <tran loc="ar">تعذر العثور على هوية لشهادة UUID: ‏%@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Title of a generic web clip </Description>
+      <Position>Web Clip</Position>
+      <TranslationSet>
+        <base loc="en">Web Clip</base>
+        <tran loc="ar">مقطع ويب</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> History course mascot accessibility description component </Description>
+      <Position>History</Position>
+      <TranslationSet>
+        <base loc="en">History</base>
+        <tran loc="ar">التاريخ</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Alert message describing that courses that have not been connected to for more than a year will be removed. </Description>
+      <Position>Classes that have not been joined for more than a year are automatically removed.</Position>
+      <TranslationSet>
+        <base loc="en">Classes that have not been joined for more than a year are automatically removed.</base>
+        <tran loc="ar">الحصص التي لم تشارك فيها لأكثر من عام ستحذف تلقائيًا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Manually
+   Title of dropdown menu option to join classes manually. </Description>
+      <Position>Manually</Position>
+      <TranslationSet>
+        <base loc="en">Manually</base>
+        <tran loc="ar">يدويًا</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Never
+   Title of dropdown menu option to disallow the teacher from performing commands. </Description>
+      <Position>Never</Position>
+      <TranslationSet>
+        <base loc="en">Never</base>
+        <tran loc="ar">مطلقًا</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> The title of an alert indicating that the student was unable to enroll in a course. </Description>
+      <Position>Failed to Enroll</Position>
+      <TranslationSet>
+        <base loc="en">Failed to Enroll</base>
+        <tran loc="ar">فشل التسجيل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Title of the lock prompt. %@ is the teacher's name. </Description>
+      <Position>%@ wants to lock your iPad</Position>
+      <TranslationSet>
+        <base loc="en">%@ wants to lock your iPad</base>
+        <tran loc="ar">يرغب %@ في قفل الـ iPad</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Error shown when an EDU profile is install device-wide on the mac rather than per-user </Description>
+      <Position>Installing EDU profiles using the device channel is unsupported.</Position>
+      <TranslationSet>
+        <base loc="en">Installing EDU profiles using the device channel is unsupported.</base>
+        <tran loc="ar">تثبيت ملفات تعريف EDU باستخدام قناة الجهاز غير مدعوم.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Active Internet Connection Required Detail Text
+   The informative text displayed to notify a student that an internet connection is required to display the number of days remaining before the class is automatically removed </Description>
+      <Position>An Internet connection is required to display the number of days remaining before this class will be automatically removed.</Position>
+      <TranslationSet>
+        <base loc="en">An Internet connection is required to display the number of days remaining before this class will be automatically removed.</base>
+        <tran loc="ar">يلزم الاتصال بالانترنت لعرض عدد الأيام المتبقية قبل إزالة الحصة تلقائيًا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Default error response for EDU profile parsing on the mac. </Description>
+      <Position>An unknown error has occurred.</Position>
+      <TranslationSet>
+        <base loc="en">An unknown error has occurred.</base>
+        <tran loc="ar">حدث خطأ غير معروف.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Add &lt;Class Name&gt; </Description>
+      <Position>Add %@</Position>
+      <TranslationSet>
+        <base loc="en">Add %@</base>
+        <tran loc="ar">إضافة %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> auto-attend enabled description </Description>
+      <Position>Teachers will be able to assist you by controlling your iPad, without prompting, when you are in their class.</Position>
+      <TranslationSet>
+        <base loc="en">Teachers will be able to assist you by controlling your iPad, without prompting, when you are in their class.</base>
+        <tran loc="ar">سيتمكن المعلمون من مساعدتك من خلال التحكم في الـ iPad الخاص بك، دون إعلامك، عندما تكون في حصتهم.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Title of the AirPlay prompt. %@ is the teacher's name. </Description>
+      <Position>%@ wants to AirPlay your iPad</Position>
+      <TranslationSet>
+        <base loc="en">%@ wants to AirPlay your iPad</base>
+        <tran loc="ar">يرغب %@ في استخدام AirPlay على الـ iPad</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Descriptive text for enrolling in active Ad-Hoc class </Description>
+      <Position>Enrolling in this class allows %@ to manage this device while you are attending class. Enter the pincode to enroll in this class:</Position>
+      <TranslationSet>
+        <base loc="en">Enrolling in this class allows %@ to manage this device while you are attending class. Enter the pincode to enroll in this class:</base>
+        <tran loc="ar">التسجيل في هذه الحصة سيتيح لـ "%@" إدارة هذا الجهاز أثناء حضور هذه الحصة. أدخل الرمز التعريفي للتسجيل في هذه الحصة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Name of the default favorites bookmark folder in Safari </Description>
+      <Position>Favorites</Position>
+      <TranslationSet>
+        <base loc="en">Favorites</base>
+        <tran loc="ar">المفضلة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> accessibility label for verification code field </Description>
+      <Position>Code</Position>
+      <TranslationSet>
+        <base loc="en">Code</base>
+        <tran loc="ar">الرمز</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Message for class removal request alert </Description>
+      <Position>Are you sure you want to request to remove this class?</Position>
+      <TranslationSet>
+        <base loc="en">Are you sure you want to request to remove this class?</base>
+        <tran loc="ar">هل أنت متأكد من رغبتك في طلب إزالة هذه الحصة؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Text shown in the informative text section when selecting a course with one of several expired instructor certificate </Description>
+      <Position>One of the teacher authorization certificates has expired. You may not be able to join one or more classes. Contact your administrator for assistance.</Position>
+      <TranslationSet>
+        <base loc="en">One of the teacher authorization certificates has expired. You may not be able to join one or more classes. Contact your administrator for assistance.</base>
+        <tran loc="ar">انتهت صلاحية إحدى شهادات التخويل من الأستاذ وقد لا تستطيع المشاركة في حصة واحدة أو أكثر. الرجاء التواصل مع المدير المسؤول للمساعدة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Phonetic last name textfield placeholder </Description>
+      <Position>Phonetic Last Name</Position>
+      <TranslationSet>
+        <base loc="en">Phonetic Last Name</base>
+        <tran loc="ar">اسم العائلة الصوتي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Arts course mascot accessibility description component </Description>
+      <Position>Arts</Position>
+      <TranslationSet>
+        <base loc="en">Arts</base>
+        <tran loc="ar">فنون</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Confirm title for class removal request alert
+   Title of request button on request to remove class alert. </Description>
+      <Position>Request</Position>
+      <TranslationSet>
+        <base loc="en">Request</base>
+        <tran loc="ar">طلب</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Automatically
+   Title of dropdown menu option to join classes automatically. </Description>
+      <Position>Automatically</Position>
+      <TranslationSet>
+        <base loc="en">Automatically</base>
+        <tran loc="ar">تلقائيًا</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Alert title when a list of classes in the student's settings pane have expired </Description>
+      <Position>%lu teacher authorization certificates have expired. You may not be able to join one or more classes. Contact your administrator for assistance.</Position>
+      <TranslationSet>
+        <base loc="en">%lu teacher authorization certificates have expired. You may not be able to join one or more classes. Contact your administrator for assistance.</base>
+        <tran loc="ar">انتهت صلاحية %lu تخويلاً من الأستاذ وقد لا تستطيع المشاركة في فصل أو أكثر من الفصول. الرجاء التواصل مع المدير المسؤول للمساعدة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Message text of view screen prompt. </Description>
+      <Position>“Always Allow” will allow any of your teachers to view your screen or AirPlay your Mac. This can be configured in System Preferences.</Position>
+      <TranslationSet>
+        <base loc="en">“Always Allow” will allow any of your teachers to view your screen or AirPlay your Mac. This can be configured in System Preferences.</base>
+        <tran loc="ar">سيتيح إعداد "السماح دائمًا" لأي معلم من معلميك مشاهدة شاشتك أو استخدام AirPlay مع الـ Mac الخاص بك. يمكنك تكوين ذلك في تفضيلات النظام.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Alert message describing that courses that have not been connected to for more than a year will be removed. </Description>
+      <Position>Classes that have not been joined for more than a year will be automatically removed.</Position>
+      <TranslationSet>
+        <base loc="en">Classes that have not been joined for more than a year will be automatically removed.</base>
+        <tran loc="ar">الحصص التي لم تشارك فيها لأكثر من عام ستحذف تلقائيًا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Alert dialogue title for when the user has chose to manually take part in a class. %@ is the class name </Description>
+      <Position>Do you want to join the class “%@”?</Position>
+      <TranslationSet>
+        <base loc="en">Do you want to join the class “%@”?</base>
+        <tran loc="ar">هل ترغب في الانضمام إلى قاعة الدراسة "%@"؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> New Class Invitations List Header Text </Description>
+      <Position>NEW CLASS INVITATIONS</Position>
+      <TranslationSet>
+        <base loc="en">NEW CLASS INVITATIONS</base>
+        <tran loc="ar">دعوات حصص جديدة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Accessibility title for an instructor's avatar </Description>
+      <Position>Teacher’s avatar</Position>
+      <TranslationSet>
+        <base loc="en">Teacher’s avatar</base>
+        <tran loc="ar">الصورة الرمزية للمعلم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Remove This Class </Description>
+      <Position>Remove This Class</Position>
+      <TranslationSet>
+        <base loc="en">Remove This Class</base>
+        <tran loc="ar">إزالة هذه الحصة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Default instructor name for AirDrop share target
+   The title of a section dedicated to instructor information (singular) </Description>
+      <Position>Teacher</Position>
+      <TranslationSet>
+        <base loc="en">Teacher</base>
+        <tran loc="ar">المعلم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Title of the open app prompt. No given teacher name. </Description>
+      <Position>Your teacher wants to open an app on your Mac.</Position>
+      <TranslationSet>
+        <base loc="en">Your teacher wants to open an app on your Mac.</base>
+        <tran loc="ar">يرغب معلمك في فتح تطبيق على الـ Mac الخاص بك.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Enroll in class User Notification Title </Description>
+      <Position>Enroll in %@</Position>
+      <TranslationSet>
+        <base loc="en">Enroll in %@</base>
+        <tran loc="ar">تسجيل في %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Title of the open app prompt. %@ is the teacher's name. </Description>
+      <Position>%@ wants to open an app on your iPad</Position>
+      <TranslationSet>
+        <base loc="en">%@ wants to open an app on your iPad</base>
+        <tran loc="ar">يرغب %@ في فتح تطبيق على الـ iPad</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Title of the AirPlay prompt. No given teacher name. </Description>
+      <Position>Your teacher wants to AirPlay your Mac.</Position>
+      <TranslationSet>
+        <base loc="en">Your teacher wants to AirPlay your Mac.</base>
+        <tran loc="ar">يرغب معلمك في استخدام AirPlay على الـ Mac الخاص بك.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Enroll </Description>
+      <Position>Enroll</Position>
+      <TranslationSet>
+        <base loc="en">Enroll</base>
+        <tran loc="ar">تسجيل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Accessibility label for an instructor's avatar </Description>
+      <Position>Avatar</Position>
+      <TranslationSet>
+        <base loc="en">Avatar</base>
+        <tran loc="ar">الصورة الرمزية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Science course mascot accessibility description component </Description>
+      <Position>Science</Position>
+      <TranslationSet>
+        <base loc="en">Science</base>
+        <tran loc="ar">علوم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Message text of open app prompt. </Description>
+      <Position>“Always Allow” will allow any of your teachers to open apps on your iPad. This can be configured in Settings.</Position>
+      <TranslationSet>
+        <base loc="en">“Always Allow” will allow any of your teachers to open apps on your iPad. This can be configured in Settings.</base>
+        <tran loc="ar">سيتيح إعداد "السماح دائمًا" لأي معلم من معلميك فتح التطبيقات على الـ iPad الخاص بك. يمكنك تكوين ذلك في الإعدادات.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Informing users that their student certificates for this course have expired. They need to contact administrators to corect this issue.
+   Text shown in the informative text section when selecting a course with an expired student certificate </Description>
+      <Position>Your student authorization certificate has expired. You will be unable to join any classes. Contact your administrator for assistance.</Position>
+      <TranslationSet>
+        <base loc="en">Your student authorization certificate has expired. You will be unable to join any classes. Contact your administrator for assistance.</base>
+        <tran loc="ar">انتهت صلاحية شهادة تخويل الطالب، ولن تستطيع المشاركة في أي حصة. الرجاء التواصل مع المدير المسؤول للمساعدة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Error shown when an EDU profile contains a non-unique group name </Description>
+      <Position>A device group with the name “%@” already exists.</Position>
+      <TranslationSet>
+        <base loc="en">A device group with the name “%@” already exists.</base>
+        <tran loc="ar">مجموعة الأجهزة التي تحمل الاسم "%@" موجودة بالفعل.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Alert title when a list of classes in the student's settings pane have expired </Description>
+      <Position>The following courses have expired: %@.</Position>
+      <TranslationSet>
+        <base loc="en">The following courses have expired: %@.</base>
+        <tran loc="ar">المساقات التالية انتهت صلاحيتها: %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Title of remove class alert. %@ is the class name. </Description>
+      <Position>Are you sure you want to remove “%@”?</Position>
+      <TranslationSet>
+        <base loc="en">Are you sure you want to remove “%@”?</base>
+        <tran loc="ar">هل أنت متأكد من رغبتك في إزالة \"%@\"؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> auto-attend enabled description </Description>
+      <Position>Teachers will be able to control your iPad, without prompting, when you are in their class.</Position>
+      <TranslationSet>
+        <base loc="en">Teachers will be able to control your iPad, without prompting, when you are in their class.</base>
+        <tran loc="ar">سيتمكن المعلمون من التحكم في الـ iPad الخاص بك، دون إعلامك، عندما تكون في حصتهم.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Title of permission dropdown menu. </Description>
+      <Position>Join Classes:</Position>
+      <TranslationSet>
+        <base loc="en">Join Classes:</base>
+        <tran loc="ar">الانضمام إلى الحصص:</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Title of button to allow the teacher's request and all subsequent requests of the same type </Description>
+      <Position>Always Allow</Position>
+      <TranslationSet>
+        <base loc="en">Always Allow</base>
+        <tran loc="ar">السماح دائمًا</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Error description when a course invitation failed because the student's iOS version is incompatible </Description>
+      <Position>The version of iOS on this iPad is not supported by the version of Classroom app on the teacher’s iPad</Position>
+      <TranslationSet>
+        <base loc="en">The version of iOS on this iPad is not supported by the version of Classroom app on the teacher’s iPad</base>
+        <tran loc="ar">إصدار iOS على هذا الـ iPad غير مدعوم من قبل إصدار تطبيق "قاعة الدراسة" على الـ iPad الخاص بالمعلم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Blue course mascot color accessibility description component </Description>
+      <Position>Blue</Position>
+      <TranslationSet>
+        <base loc="en">Blue</base>
+        <tran loc="ar">أزرق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> The placeholder text for a user's family name text field </Description>
+      <Position>Family Name</Position>
+      <TranslationSet>
+        <base loc="en">Family Name</base>
+        <tran loc="ar">اسم العائلة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> The text shown in the course info section when there is no selected class. </Description>
+      <Position>No Class Selected</Position>
+      <TranslationSet>
+        <base loc="en">No Class Selected</base>
+        <tran loc="ar">لم يتم تحديد فئة</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>Classroom/System/Library/PrivateFrameworks/ClassroomKit.framework/en.lproj/Localizable.stringsdict</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>/%d teachers:dict/teacher_count:dict/one:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%d teacher</base>
+        <tran loc="ar">معلم واحد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/Class will be removed in %ld days if teacher doesn’t respond.:dict/num_days_remaining:dict/one:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Class will be removed in %ld day if teacher doesn’t respond.</base>
+        <tran loc="ar">سيتم حذف الحصة خلال يومين إذا لم يستجب المعلم.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/%d teachers:dict/teacher_count:dict/few:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%d teachers</base>
+        <tran loc="ar">%d معلمين</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/%d teachers:dict/teacher_count:dict/many:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%d teachers</base>
+        <tran loc="ar">%d معلمًا</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/%d teachers:dict/teacher_count:dict/other:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%d teachers</base>
+        <tran loc="ar">%d معلم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/%d teachers:dict/teacher_count:dict/two:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%d teachers</base>
+        <tran loc="ar">معلمان</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/%d teachers:dict/teacher_count:dict/zero:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%d teachers</base>
+        <tran loc="ar">%d معلم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/%d others:dict/instructor_count:dict/few:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%d others</base>
+        <tran loc="ar">%d آخرين</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/%d others:dict/instructor_count:dict/many:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%d others</base>
+        <tran loc="ar">%d آخرًا</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/%d others:dict/instructor_count:dict/other:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%d others</base>
+        <tran loc="ar">%d آخر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/%d others:dict/instructor_count:dict/two:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%d others</base>
+        <tran loc="ar">%d آخران</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/%d others:dict/instructor_count:dict/zero:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%d others</base>
+        <tran loc="ar">%d آخر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/CPPayloadCountStringsDictKey_CountFirst:dict/NSStringLocalizedFormatKey:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%#@PayloadType@</base>
+        <tran loc="ar">%#@PayloadType@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/CPPayloadCountStringsDictKey_CountLast:dict/NSStringLocalizedFormatKey:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%#@PayloadType@</base>
+        <tran loc="ar">%#@PayloadType@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/CPPayloadCountStringsDictKey_SingularOnly:dict/NSStringLocalizedFormatKey:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%#@PayloadType@</base>
+        <tran loc="ar">%#@PayloadType@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/CPPayloadCountStringsDictKey_CountFirst:dict/PayloadType:dict/few:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">(%lu) Education Configurations</base>
+        <tran loc="ar">‏(%lu) تكوينات للتعليم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/CPPayloadCountStringsDictKey_CountFirst:dict/PayloadType:dict/many:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">(%lu) Education Configurations</base>
+        <tran loc="ar">‏(%lu) تكوينًا للتعليم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/CPPayloadCountStringsDictKey_CountFirst:dict/PayloadType:dict/other:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">(%lu) Education Configurations</base>
+        <tran loc="ar">‏(%lu) تكوين للتعليم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/CPPayloadCountStringsDictKey_CountFirst:dict/PayloadType:dict/two:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">(%lu) Education Configurations</base>
+        <tran loc="ar">تكوينان للتعليم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/CPPayloadCountStringsDictKey_CountFirst:dict/PayloadType:dict/zero:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">(%lu) Education Configurations</base>
+        <tran loc="ar">لا توجد تكوينات للتعليم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/%d teachers:dict/NSStringLocalizedFormatKey:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%#@teacher_count@</base>
+        <tran loc="ar">%#@teacher_count@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/CPPayloadCountStringsDictKey_CountFirst:dict/PayloadType:dict/one:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Education Configuration</base>
+        <tran loc="ar">تكوين التعليم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/CPPayloadCountStringsDictKey_CountLast:dict/PayloadType:dict/one:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Education Configuration</base>
+        <tran loc="ar">تكوين التعليم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/CPPayloadCountStringsDictKey_SingularOnly:dict/PayloadType:dict/one:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Education Configuration</base>
+        <tran loc="ar">تكوين التعليم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/%d others:dict/instructor_count:dict/one:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%d other</base>
+        <tran loc="ar">%d آخر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/Class will be removed in %ld days if teacher doesn’t respond.:dict/num_days_remaining:dict/few:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Class will be removed in %ld days if teacher doesn’t respond.</base>
+        <tran loc="ar">سيتم حذف الحصة خلال %ld أيام إذا لم يستجب المعلم.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/Class will be removed in %ld days if teacher doesn’t respond.:dict/num_days_remaining:dict/many:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Class will be removed in %ld days if teacher doesn’t respond.</base>
+        <tran loc="ar">سيتم حذف الحصة خلال %ld يومًا إذا لم يستجب المعلم.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/Class will be removed in %ld days if teacher doesn’t respond.:dict/num_days_remaining:dict/other:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Class will be removed in %ld days if teacher doesn’t respond.</base>
+        <tran loc="ar">سيتم حذف الحصة خلال %ld يوم إذا لم يستجب المعلم.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/Class will be removed in %ld days if teacher doesn’t respond.:dict/num_days_remaining:dict/two:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Class will be removed in %ld days if teacher doesn’t respond.</base>
+        <tran loc="ar">سيتم حذف الحصة خلال يومين إذا لم يستجب المعلم.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/Class will be removed in %ld days if teacher doesn’t respond.:dict/num_days_remaining:dict/zero:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Class will be removed in %ld days if teacher doesn’t respond.</base>
+        <tran loc="ar">سيتم حذف الحصة خلال %ld يوم إذا لم يستجب المعلم.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/%d others:dict/NSStringLocalizedFormatKey:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%#@instructor_count@</base>
+        <tran loc="ar">%#@instructor_count@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/%lu teacher authorization certificates are expired. You may not be able to join one or more classes. Contact your administrator for assistance.:dict/expired_classes:dict/one:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">One of the teacher authorization certificates is expired. You may not be able to join one or more classes. Contact your administrator for assistance.</base>
+        <tran loc="ar">انتهت صلاحية إحدى شهادات التخويل من الأستاذ وقد لا تستطيع المشاركة في حصة واحدة أو أكثر. الرجاء التواصل مع المدير المسؤول للمساعدة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/%lu classes have expired and will be removed.:dict/expired_classes:dict/few:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%lu classes have expired and will be removed.</base>
+        <tran loc="ar">انتهت صلاحية %lu حصص وسيتم إزالتها.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/%lu classes have expired and will be removed.:dict/expired_classes:dict/many:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%lu classes have expired and will be removed.</base>
+        <tran loc="ar">انتهت صلاحية %lu حصة وسيتم إزالتها.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/%lu classes have expired and will be removed.:dict/expired_classes:dict/other:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%lu classes have expired and will be removed.</base>
+        <tran loc="ar">انتهت صلاحية %lu حصة وسيتم إزالتها.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/%lu classes have expired and will be removed.:dict/expired_classes:dict/two:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%lu classes have expired and will be removed.</base>
+        <tran loc="ar">انتهت صلاحية حصتين وسيتم إزالتهما.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/%lu classes have expired and will be removed.:dict/expired_classes:dict/zero:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%lu classes have expired and will be removed.</base>
+        <tran loc="ar">انتهت صلاحية %lu حصة وسيتم إزالتها.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/Class will be removed in %ld days if teacher doesn’t respond.:dict/NSStringLocalizedFormatKey:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%#@num_days_remaining@</base>
+        <tran loc="ar">%#@num_days_remaining@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/%lu classes have expired and will be removed.:dict/expired_classes:dict/one:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%lu class has expired and will be removed.</base>
+        <tran loc="ar">انتهت صلاحية حصة واحدة وسيتم إزالتها.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/%lu classes have expired and will be removed.:dict/NSStringLocalizedFormatKey:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%#@expired_classes@</base>
+        <tran loc="ar">%#@expired_classes@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/%lu teacher authorization certificates are expired. You may not be able to join one or more classes. Contact your administrator for assistance.:dict/NSStringLocalizedFormatKey:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%#@expired_classes@</base>
+        <tran loc="ar">%#@expired_classes@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/CPPayloadCountStringsDictKey_CountLast:dict/PayloadType:dict/few:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Education Configurations (%lu)</base>
+        <tran loc="ar">‏(%lu) تكوينات للتعليم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/CPPayloadCountStringsDictKey_CountLast:dict/PayloadType:dict/many:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Education Configurations (%lu)</base>
+        <tran loc="ar">‏(%lu) تكوينًا للتعليم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/CPPayloadCountStringsDictKey_CountLast:dict/PayloadType:dict/other:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Education Configurations (%lu)</base>
+        <tran loc="ar">‏(%lu) تكوين للتعليم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/CPPayloadCountStringsDictKey_CountLast:dict/PayloadType:dict/two:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Education Configurations (%lu)</base>
+        <tran loc="ar">تكوينان للتعليم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/CPPayloadCountStringsDictKey_CountLast:dict/PayloadType:dict/zero:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Education Configurations (%lu)</base>
+        <tran loc="ar">لا توجد تكوينات للتعليم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/CPPayloadCountStringsDictKey_SingularOnly:dict/PayloadType:dict/few:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Education Configurations (%lu)</base>
+        <tran loc="ar">‏(%lu) تكوينات للتعليم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/CPPayloadCountStringsDictKey_SingularOnly:dict/PayloadType:dict/many:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Education Configurations (%lu)</base>
+        <tran loc="ar">‏(%lu) تكوينًا للتعليم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/CPPayloadCountStringsDictKey_SingularOnly:dict/PayloadType:dict/other:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Education Configurations (%lu)</base>
+        <tran loc="ar">‏(%lu) تكوين للتعليم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/CPPayloadCountStringsDictKey_SingularOnly:dict/PayloadType:dict/two:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Education Configurations (%lu)</base>
+        <tran loc="ar">تكوينان للتعليم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/CPPayloadCountStringsDictKey_SingularOnly:dict/PayloadType:dict/zero:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Education Configurations (%lu)</base>
+        <tran loc="ar">لا توجد تكوينات للتعليم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/%lu teacher authorization certificates are expired. You may not be able to join one or more classes. Contact your administrator for assistance.:dict/expired_classes:dict/few:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%lu teacher authorization certificates are expired. You may not be able to join one or more classes. Contact your administrator for assistance.</base>
+        <tran loc="ar">انتهت صلاحية %lu شهادات تخويل من الأستاذ وقد لا تستطيع المشاركة في حصة واحدة أو أكثر. الرجاء التواصل مع المدير المسؤول للمساعدة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/%lu teacher authorization certificates are expired. You may not be able to join one or more classes. Contact your administrator for assistance.:dict/expired_classes:dict/many:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%lu teacher authorization certificates are expired. You may not be able to join one or more classes. Contact your administrator for assistance.</base>
+        <tran loc="ar">انتهت صلاحية %lu شهادة تخويل من الأستاذ وقد لا تستطيع المشاركة في حصة واحدة أو أكثر. الرجاء التواصل مع المدير المسؤول للمساعدة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/%lu teacher authorization certificates are expired. You may not be able to join one or more classes. Contact your administrator for assistance.:dict/expired_classes:dict/other:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%lu teacher authorization certificates are expired. You may not be able to join one or more classes. Contact your administrator for assistance.</base>
+        <tran loc="ar">انتهت صلاحية %lu شهادة تخويل من الأستاذ وقد لا تستطيع المشاركة في حصة واحدة أو أكثر. الرجاء التواصل مع المدير المسؤول للمساعدة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/%lu teacher authorization certificates are expired. You may not be able to join one or more classes. Contact your administrator for assistance.:dict/expired_classes:dict/two:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%lu teacher authorization certificates are expired. You may not be able to join one or more classes. Contact your administrator for assistance.</base>
+        <tran loc="ar">انتهت صلاحية شهادتي تخويل من الأستاذ وقد لا تستطيع المشاركة في حصة واحدة أو أكثر. الرجاء التواصل مع المدير المسؤول للمساعدة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/%lu teacher authorization certificates are expired. You may not be able to join one or more classes. Contact your administrator for assistance.:dict/expired_classes:dict/zero:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%lu teacher authorization certificates are expired. You may not be able to join one or more classes. Contact your administrator for assistance.</base>
+        <tran loc="ar">انتهت صلاحية %lu شهادة تخويل من الأستاذ وقد لا تستطيع المشاركة في حصة واحدة أو أكثر. الرجاء التواصل مع المدير المسؤول للمساعدة.</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>Classroom/System/Library/PrivateFrameworks/ClassroomKit.framework/en.lproj/Plural.strings</Filepath>
+    <TextItem>
+      <Description> The title of a section dedicated to instructor information (plural) </Description>
+      <Position>Teachers</Position>
+      <TranslationSet>
+        <base loc="en">Teachers</base>
+        <tran loc="ar">المعلمون</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Teacher (Plural) Section Header Text </Description>
+      <Position>TEACHERS</Position>
+      <TranslationSet>
+        <base loc="en">TEACHERS</base>
+        <tran loc="ar">المعلمون</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+</Proj>

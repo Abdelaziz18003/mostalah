@@ -1,0 +1,4341 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Proj>
+  <ProjName>Messages_swift</ProjName>
+  <File>
+    <Filepath>Messages_swift/System/Applications/Messages.app/Contents/PlugIns/Messages Reply Extension.appex/Contents/Resources/en.lproj/MessagesView.strings</Filepath>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Send"; ObjectID = "bl0-uC-DUc"; </Description>
+      <Position>bl0-uC-DUc.title</Position>
+      <TranslationSet>
+        <base loc="en">Send</base>
+        <tran loc="ar">إرسال</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Cancel"; ObjectID = "Kik-Ct-Kwm"; </Description>
+      <Position>Kik-Ct-Kwm.title</Position>
+      <TranslationSet>
+        <base loc="en">Cancel</base>
+        <tran loc="ar">إلغاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Messages"; ObjectID = "hET-BP-hVE"; </Description>
+      <Position>hET-BP-hVE.title</Position>
+      <TranslationSet>
+        <base loc="en">Messages</base>
+        <tran loc="ar">الرسائل</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>Messages_swift/System/Applications/Messages.app/Contents/PlugIns/Messages Share Extension.appex/Contents/Resources/en.lproj/MessagesShareExtensionLocalizable.strings</Filepath>
+    <TextItem>
+      <Description> Send button [Messages] </Description>
+      <Position>Send</Position>
+      <TranslationSet>
+        <base loc="en">Send</base>
+        <tran loc="ar">إرسال</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Error description for agent connection failure </Description>
+      <Position>Could not connect to the Instant Message agent.</Position>
+      <TranslationSet>
+        <base loc="en">Could not connect to the Instant Message agent.</base>
+        <tran loc="ar">تعذر الاتصال بعميل الرسالة الفورية.</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>Messages_swift/System/Applications/Messages.app/Contents/Resources/en.lproj/IMServiceError.strings</Filepath>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "MESSAGE"; ObjectID = "100044"; </Description>
+      <Position>100044.title</Position>
+      <TranslationSet>
+        <base loc="en">MESSAGE</base>
+        <tran loc="ar">الرسالة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "OK"; ObjectID = "100012"; </Description>
+      <Position>100012.title</Position>
+      <TranslationSet>
+        <base loc="en">OK</base>
+        <tran loc="ar">موافق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "TITLE"; ObjectID = "100043"; </Description>
+      <Position>100043.title</Position>
+      <TranslationSet>
+        <base loc="en">TITLE</base>
+        <tran loc="ar">العنوان</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "DATE"; ObjectID = "100047"; </Description>
+      <Position>100047.title</Position>
+      <TranslationSet>
+        <base loc="en">DATE</base>
+        <tran loc="ar">التاريخ</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>Messages_swift/System/Applications/Messages.app/Contents/Resources/en.lproj/Localizable.strings</Filepath>
+    <TextItem>
+      <Description> Title for iMessage settings panel </Description>
+      <Position>SETTINGS_TAB_IMESSAGE</Position>
+      <TranslationSet>
+        <base loc="en">iMessage</base>
+        <tran loc="ar">‏iMessage</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Alert text: blocking a person (arg1:name and ID, arg2: name) </Description>
+      <Position>If you block %@, this person won\\U2019t be able to see your status or send messages to you, and you won\\U2019t be able to see or send messages to %@.\n\nTo change your blocking settings, choose Messages &gt; Preferences, click Accounts, and then click Privacy.</Position>
+      <TranslationSet>
+        <base loc="en">If you block %@, this person won’t be able to see your status or send messages to you, and you won’t be able to see or send messages to %@.\n\nTo change your blocking settings, choose Messages &gt; Preferences, click Accounts, and then click Privacy.</base>
+        <tran loc="ar">إذا قمت بحظر %@، فلن يتمكن هذا الشخص من رؤية حالتك أو إرسال رسائل إليك، ولن تتمكن من رؤية %@ أو إرسال رسائل إليه.\n\nلتغيير إعدادات الحظر، اختر الرسائل &gt; تفضيلات، ثم انقر على الحسابات ثم على الخصوصية.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Fallback saved chat file name </Description>
+      <Position>Chat</Position>
+      <TranslationSet>
+        <base loc="en">Chat</base>
+        <tran loc="ar">دردشة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Default file name.  %@.webarchive file </Description>
+      <Position>EXPORT_CONVERSATION_FILENAME</Position>
+      <TranslationSet>
+        <base loc="en">MessagesConversation</base>
+        <tran loc="ar">MessagesConversation</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Error message (arg1: handle name) </Description>
+      <Position>%@ is not registered with iMessage.</Position>
+      <TranslationSet>
+        <base loc="en">%@ is not registered with iMessage.</base>
+        <tran loc="ar">لم يتم تسجيل ‪%@‬ مع iMessage.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Informative text about effects of disabling Messages in iCloud. </Description>
+      <Position>By disabling Messages in iCloud, your Messages data will be downloaded to your device and will no longer sync to iCloud.\n\nYou can turn off Messages in iCloud for just this device or all of your devices.</Position>
+      <TranslationSet>
+        <base loc="en">By disabling Messages in iCloud, your Messages data will be downloaded to your device and will no longer sync to iCloud.\n\nYou can turn off Messages in iCloud for just this device or all of your devices.</base>
+        <tran loc="ar">عند تعطيل الرسائل في iCloud، سيتم تنزيل بيانات الرسائل إلى جهازك ولن تتم مزامنتها إلى iCloud بعد ذلك.\n\nيمكنك إيقاف الرسائل في iCloud لهذا الجهاز فقط أو لجميع أجهزتك.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No people are selected to communicate with </Description>
+      <Position>Select some people with which to communicate.</Position>
+      <TranslationSet>
+        <base loc="en">Select some people with which to communicate.</base>
+        <tran loc="ar">حدد بعض الأشخاص الذين ترغب في الاتصال بهم.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Alert text: blocking a person, but in allow only buddies mode (param=name) </Description>
+      <Position>Your privacy settings are currently configured to allow only people in your buddy list.\n\nWould you like change your privacy settings to block specific people and add %@ to your block list?</Position>
+      <TranslationSet>
+        <base loc="en">Your privacy settings are currently configured to allow only people in your buddy list.\n\nWould you like change your privacy settings to block specific people and add %@ to your block list?</base>
+        <tran loc="ar">إعدادات الخصوصية الحالية تسمح للأشخاص الموجودين في قائمة الأصدقاء فقط.\n\nهل ترغب في تغيير إعدادات الخصوصية لحظر أشخاص معينين وإضافة %@ لقائمة الحظر؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Alert title: error with messaging people that are offline
+   Alert title: error with messaging people without a common IM service </Description>
+      <Position>Messages can\\U2019t start a chat with these people.</Position>
+      <TranslationSet>
+        <base loc="en">Messages can’t start a chat with these people.</base>
+        <tran loc="ar">لا يمكن للرسائل بدء دردشة مع هؤلاء الأشخاص.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Alert title about disabling the Messages in iCloud feature </Description>
+      <Position>Disable Messages in iCloud?</Position>
+      <TranslationSet>
+        <base loc="en">Disable Messages in iCloud?</base>
+        <tran loc="ar">هل تريد تعطيل الرسائل في iCloud؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> File transfer time remaining, many hours and minutes </Description>
+      <Position>%@ hours, %@ minutes remaining</Position>
+      <TranslationSet>
+        <base loc="en">%@ hours, %@ minutes remaining</base>
+        <tran loc="ar">متبقٍ %@ من الساعات، %@ من الدقائق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Recipient is currently typing message for accessibility. </Description>
+      <Position> Is typing.</Position>
+      <TranslationSet>
+        <base loc="en"> Is typing.</base>
+        <tran loc="ar"> يقوم الآن بالكتابة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Error title when incoming file can't be saved </Description>
+      <Position>Messages can\\U2019t save the file.</Position>
+      <TranslationSet>
+        <base loc="en">Messages can’t save the file.</base>
+        <tran loc="ar">لا يمكن للرسائل حفظ الملف.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Try Again </Description>
+      <Position>Try Again</Position>
+      <TranslationSet>
+        <base loc="en">Try Again</base>
+        <tran loc="ar">حاول مرة أخرى</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Delete </Description>
+      <Position>DELETE</Position>
+      <TranslationSet>
+        <base loc="en">Delete</base>
+        <tran loc="ar">حذف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Delete
+   Delete button
+   Delete string for swipe to delete in the chat table </Description>
+      <Position>Delete</Position>
+      <TranslationSet>
+        <base loc="en">Delete</base>
+        <tran loc="ar">حذف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Format string for tabbed chat window title with one unread message </Description>
+      <Position>Messages (1 unread)</Position>
+      <TranslationSet>
+        <base loc="en">Messages (1 unread)</base>
+        <tran loc="ar">الرسائل (١ غير مقروءة)</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> File transfer time remaining, many hours, 1 minute </Description>
+      <Position>%@ hours, 1 minute remaining</Position>
+      <TranslationSet>
+        <base loc="en">%@ hours, 1 minute remaining</base>
+        <tran loc="ar">متبقٍ %@ من الساعات، ودقيقة واحدة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Prompt to permanently delete a conversation on all devices </Description>
+      <Position>DELETE_WARNING_SYNC_ENABLED</Position>
+      <TranslationSet>
+        <base loc="en">This conversation will be deleted from all of your devices. You cannot undo this action.</base>
+        <tran loc="ar">سيتم حذف هذه المحادثة من جميع أجهزتك. ولا يمكنك التراجع عن هذا الإجراء.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Delete messages warning info </Description>
+      <Position>DELETE_MESSAGES_WARN_1_YEAR</Position>
+      <TranslationSet>
+        <base loc="en">This will permanently delete all text messages and message attachments from your device that are older than 1 year.</base>
+        <tran loc="ar">سيؤدي هذا إلى حذف جميع الرسائل النصية ومرفقات الرسائل الأقدم من سنة واحدة حذفًا نهائيًا من جهازك.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Title for drop down sheet to export conversations </Description>
+      <Position>EXPORT_CONVERSATION_SHEET_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Export conversation</base>
+        <tran loc="ar">تصدير المحادثة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Button title: Sign Out </Description>
+      <Position>IMESSAGE_SIGN_OUT_BUTTON_SIGN_OUT</Position>
+      <TranslationSet>
+        <base loc="en">Sign Out</base>
+        <tran loc="ar">تسجيل الخروج</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Button title for signing out of iMessage </Description>
+      <Position>Sign Out</Position>
+      <TranslationSet>
+        <base loc="en">Sign Out</base>
+        <tran loc="ar">تسجيل الخروج</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Time pattern for filename (no / or :) see http://unicode.org/reports/tr35/tr35-6.html#Date_Format_Patterns </Description>
+      <Position>HH.mm.ss</Position>
+      <TranslationSet>
+        <base loc="en">HH.mm.ss</base>
+        <tran loc="ar">HH.mm.ss</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Alert text: error with messaging people without a common IM service (arg: joined list of people) </Description>
+      <Position>The people you selected can\\U2019t be addressed as a group because they don\\U2019t share a single instant messaging service:\n\n%@</Position>
+      <TranslationSet>
+        <base loc="en">The people you selected can’t be addressed as a group because they don’t share a single instant messaging service:\n\n%@</base>
+        <tran loc="ar">لا يمكن مخاطبة الأشخاص الذين حددتهم كمجموعة نظرًا لأنهم لا يتشاركون في خدمة مراسلة فورية واحدة:\n\n%@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> File Transfer Manager label: one transfer </Description>
+      <Position>%@ transfer</Position>
+      <TranslationSet>
+        <base loc="en">%@ transfer</base>
+        <tran loc="ar">%@ عملية نقل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Title of button when accepting someone's incoming message </Description>
+      <Position>Accept</Position>
+      <TranslationSet>
+        <base loc="en">Accept</base>
+        <tran loc="ar">قبول</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Alert title: can't start a multi-person text chat. </Description>
+      <Position>Messages can\\U2019t start the text chat.</Position>
+      <TranslationSet>
+        <base loc="en">Messages can’t start the text chat.</base>
+        <tran loc="ar">لا يمكن للرسائل بدء دردشة نصية.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> String when only a phone number is available </Description>
+      <Position>Add an alias or sign in on your iPhone to verify your account.</Position>
+      <TranslationSet>
+        <base loc="en">Add an alias or sign in on your iPhone to verify your account.</base>
+        <tran loc="ar">قم بإضافة اسم مستعار أو قم بتسجيل الدخول على الـ iPhone الخاص بك للتحقق من حسابك.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Send button in Open panel for sending a file </Description>
+      <Position>Send</Position>
+      <TranslationSet>
+        <base loc="en">Send</base>
+        <tran loc="ar">إرسال</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Prompt to delete conversation on close </Description>
+      <Position>DELETE_WARNING_PROMPT</Position>
+      <TranslationSet>
+        <base loc="en">Would you like to delete this conversation?</base>
+        <tran loc="ar">هل ترغب في حذف هذه المحادثة؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Action name for undoing navigating to the next message sent on the input line </Description>
+      <Position>Next Message</Position>
+      <TranslationSet>
+        <base loc="en">Next Message</base>
+        <tran loc="ar">الرسالة التالية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Date pattern for autosaved filename (no / or :) see http://unicode.org/reports/tr35/tr35-6.html#Date_Format_Patterns
+   Date pattern for filename (no / or :) see http://unicode.org/reports/tr35/tr35-6.html#Date_Format_Patterns </Description>
+      <Position>yyyy-MM-dd</Position>
+      <TranslationSet>
+        <base loc="en">yyyy-MM-dd</base>
+        <tran loc="ar">‏yyyy-MM-dd</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Quit Messages button </Description>
+      <Position>Quit</Position>
+      <TranslationSet>
+        <base loc="en">Quit</base>
+        <tran loc="ar">إنهاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Format string for tabbed chat window title (arg1 = chat room name / chat perticipant names / chat recipient name, arg2 = num unread messages) </Description>
+      <Position>%@ (%@ unread)</Position>
+      <TranslationSet>
+        <base loc="en">%@ (%@ unread)</base>
+        <tran loc="ar">‫‏%@ ‏(%@ غير مقروءة)‬</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Button title: Enable Account </Description>
+      <Position>Sign In</Position>
+      <TranslationSet>
+        <base loc="en">Sign In</base>
+        <tran loc="ar">تسجيل الدخول</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Error message when trying to save an attached file (param=file name) </Description>
+      <Position>A file named \\U201C%@\\U201D already exists. You can\\U2019t replace it because it is either locked or read-only.</Position>
+      <TranslationSet>
+        <base loc="en">A file named “%@” already exists. You can’t replace it because it is either locked or read-only.</base>
+        <tran loc="ar">الملف الذي يحمل الاسم \"%@\" موجود بالفعل. لا يمكنك استبداله نظرًا لأنه مؤمن أو للقراءة فقط.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> The user selects to close the conversation in the standalone window. </Description>
+      <Position>Are you sure you want to close this conversation?</Position>
+      <TranslationSet>
+        <base loc="en">Are you sure you want to close this conversation?</base>
+        <tran loc="ar">هل أنت متأكد من رغبتك في إغلاق هذه المحادثة؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> File xfer status: finishing file transfer, tagging files etc. </Description>
+      <Position>Finishing\\U2026</Position>
+      <TranslationSet>
+        <base loc="en">Finishing…</base>
+        <tran loc="ar">جاري الإنهاء…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Menu title: Forward... contextual menu for selected messages in transcript </Description>
+      <Position>Forward\\U2026</Position>
+      <TranslationSet>
+        <base loc="en">Forward…</base>
+        <tran loc="ar">تحويل…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> File transfer time remaining - 1 hour </Description>
+      <Position>1 hour remaining</Position>
+      <TranslationSet>
+        <base loc="en">1 hour remaining</base>
+        <tran loc="ar">متبقٍ ساعة واحدة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> File transfer time remaining - 1 minute </Description>
+      <Position>1 minute remaining</Position>
+      <TranslationSet>
+        <base loc="en">1 minute remaining</base>
+        <tran loc="ar">متبقٍ دقيقة واحدة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Alert title when IM cannot be sent </Description>
+      <Position>Messages can\\U2019t send the message.</Position>
+      <TranslationSet>
+        <base loc="en">Messages can’t send the message.</base>
+        <tran loc="ar">لا يمكن للرسائل إرسال الرسالة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Alert text: attempting to start a chat with no people selected </Description>
+      <Position>Select one or more people to chat with.</Position>
+      <TranslationSet>
+        <base loc="en">Select one or more people to chat with.</base>
+        <tran loc="ar">حدد واحدًا أو أكثر من الأشخاص المراد إجراء دردشة معهم.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Alert title: Replace existing file with file of same name (arg: file name) </Description>
+      <Position>A file named \\U201C%@\\U201D already exists. Do you want to replace it?</Position>
+      <TranslationSet>
+        <base loc="en">A file named “%@” already exists. Do you want to replace it?</base>
+        <tran loc="ar">الملف الذي يحمل الاسم \"%@\" موجود بالفعل. هل ترغب في استبداله؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Alert text about turning on SMS relay on the iPhone </Description>
+      <Position>You can turn this on later in Messages settings on your iPhone.</Position>
+      <TranslationSet>
+        <base loc="en">You can turn this on later in Messages settings on your iPhone.</base>
+        <tran loc="ar">يمكنك تشغيل ذلك لاحقًا في إعدادات الرسائل على الـ iPhone الخاص بك.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> File Transfer Manager label: many transfers </Description>
+      <Position>%@ transfers</Position>
+      <TranslationSet>
+        <base loc="en">%@ transfers</base>
+        <tran loc="ar">%@ من عمليات النقل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Alert title: Sign out of iMessage </Description>
+      <Position>IMESSAGE_SIGN_OUT_DO_YOU_WANT_TO</Position>
+      <TranslationSet>
+        <base loc="en">Do you want to sign out of iMessage?</base>
+        <tran loc="ar">هل أنت متأكد من رغبتك في تسجيل الخروج من iMessage؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> You have an unsent messages. Do you want to close the window anyway? </Description>
+      <Position>You have an unsent message. Do you want to close the window anyway?</Position>
+      <TranslationSet>
+        <base loc="en">You have an unsent message. Do you want to close the window anyway?</base>
+        <tran loc="ar">لديك رسالة غير مرسلة. هل ترغب في إغلاق النافذة على أي حال؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Message text informing the user of a generic iCloud error </Description>
+      <Position>ICLOUD_SYNC_ERROR_ALERT_MESSAGE.</Position>
+      <TranslationSet>
+        <base loc="en">Unable to update iCloud settings at this time.</base>
+        <tran loc="ar">يتعذر تحديث إعدادات iCloud في الوقت الحالي.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Delete messages warning info </Description>
+      <Position>DELETE_MESSAGES_WARN_30_DAYS</Position>
+      <TranslationSet>
+        <base loc="en">This will permanently delete all text messages and message attachments from your device that are older than 30 days.</base>
+        <tran loc="ar">سيؤدي هذا إلى حذف جميع الرسائل النصية ومرفقات الرسائل الأقدم من ٣٠ يومًا حذفًا نهائيًا من جهازك.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> The chat transcript \\U201C%@\\U201D could not be opened. </Description>
+      <Position>The chat transcript \\U201C%@\\U201D could not be opened.</Position>
+      <TranslationSet>
+        <base loc="en">The chat transcript “%@” could not be opened.</base>
+        <tran loc="ar">تعذر فتح نص الدردشة \"%@\".</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> File xfer status: preparing to send </Description>
+      <Position>Preparing\\U2026</Position>
+      <TranslationSet>
+        <base loc="en">Preparing…</base>
+        <tran loc="ar">جاري التحضير…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Error dialog title
+   Title for alert when a message fails to send
+   Your message could not be sent. </Description>
+      <Position>Your message could not be sent.</Position>
+      <TranslationSet>
+        <base loc="en">Your message could not be sent.</base>
+        <tran loc="ar">تعذر إرسال رسالتك.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> AX: Compose button title attribute </Description>
+      <Position>Compose</Position>
+      <TranslationSet>
+        <base loc="en">Compose</base>
+        <tran loc="ar">إنشاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Label on sheet for inviting several people to a chat </Description>
+      <Position>Enter invitation message:</Position>
+      <TranslationSet>
+        <base loc="en">Enter invitation message:</base>
+        <tran loc="ar">أدخل رسالة الدعوة:</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Alert text about text message relay </Description>
+      <Position>You can turn this on now, or set it up later on your iPhone in Messages settings.</Position>
+      <TranslationSet>
+        <base loc="en">You can turn this on now, or set it up later on your iPhone in Messages settings.</base>
+        <tran loc="ar">يمكنك تشغيل ذلك الآن، أو إعداده لاحقًا على الـ iPhone الخاص بك في إعدادات الرسائل.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Button title: Disable This Device </Description>
+      <Position>Disable This Device</Position>
+      <TranslationSet>
+        <base loc="en">Disable This Device</base>
+        <tran loc="ar">تعطيل هذا الجهاز</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Confirmation to delete multiple messages </Description>
+      <Position>Are you sure you want to delete these messages?</Position>
+      <TranslationSet>
+        <base loc="en">Are you sure you want to delete these messages?</base>
+        <tran loc="ar">هل أنت متأكد من رغبتك في حذف هذه الرسائل؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Chat subject when first message was a file transfer (arg is filename) </Description>
+      <Position>File: %@</Position>
+      <TranslationSet>
+        <base loc="en">File: %@</base>
+        <tran loc="ar">الملف: %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Alert message about the PIN verification being canceled </Description>
+      <Position>Text message forwarding setup was canceled.</Position>
+      <TranslationSet>
+        <base loc="en">Text message forwarding setup was canceled.</base>
+        <tran loc="ar">تم إلغاء إعداد تحويل الرسائل النصية.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> The user starts a text chat containing more than one offline buddy %@ (list of people) </Description>
+      <Position>Initiating a text chat with multiple buddies requires all of the participants to be online. The following participants are not online: \n\n%@</Position>
+      <TranslationSet>
+        <base loc="en">Initiating a text chat with multiple buddies requires all of the participants to be online. The following participants are not online: \n\n%@</base>
+        <tran loc="ar">لبدء دردشة نصية مع عدة أصدقاء يلزم وجود كل المشاركين في وضع الاتصال. المشاركون التالون ليسوا في وضع الاتصال: \n\n%@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Alert text for alert presented when user clicks on a wallet:// balloon </Description>
+      <Position>WALLET_SCHEME_ALERT_INFORMATIVE_TEXT</Position>
+      <TranslationSet>
+        <base loc="en">Open this message on an iPhone to continue.</base>
+        <tran loc="ar">افتح هذه الرسالة على iPhone للمتابعة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Menu title: Quick Look contextual menu for inline images/movies in transcript </Description>
+      <Position>Quick Look</Position>
+      <TranslationSet>
+        <base loc="en">Quick Look</base>
+        <tran loc="ar">معاينة سريعة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Menu title to add handles to Contacts as one card </Description>
+      <Position>Add to Contacts as One Card</Position>
+      <TranslationSet>
+        <base loc="en">Add to Contacts as One Card</base>
+        <tran loc="ar">إضافة إلى جهات الاتصال كبطاقة واحدة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> File xfer status: speed (arg1: transferSpeed) </Description>
+      <Position> (%@/s)</Position>
+      <TranslationSet>
+        <base loc="en"> (%@/s)</base>
+        <tran loc="ar"> ‏(%@/ث)</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Alert dialog, attempting to send a message on a discontinued service. Param = service name </Description>
+      <Position>SEND_FAILURE_DISCONTINUED_SERVICE</Position>
+      <TranslationSet>
+        <base loc="en">Support for the targeted service %@ has been discontinued</base>
+        <tran loc="ar">لم يعد هناك دعم متوفر للخدمة المستهدفة \"%@\"</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Summary string for a chatroom that hasn't been joined. </Description>
+      <Position>Not Joined</Position>
+      <TranslationSet>
+        <base loc="en">Not Joined</base>
+        <tran loc="ar">لم يتم الانضمام</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Menu title: Delete... contextual menu for selected messages in transcript </Description>
+      <Position>Delete\\U2026</Position>
+      <TranslationSet>
+        <base loc="en">Delete…</base>
+        <tran loc="ar">حذف…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Label on sheet for inviting an additional person to a chat (arg is name of invitee) </Description>
+      <Position>Enter invitation message for %@:</Position>
+      <TranslationSet>
+        <base loc="en">Enter invitation message for %@:</base>
+        <tran loc="ar">أدخل رسالة الدعوة لـ%@:</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Alert Dismiss Button </Description>
+      <Position>ICLOUD_SYNC_ERROR_ALERT_OK</Position>
+      <TranslationSet>
+        <base loc="en">OK</base>
+        <tran loc="ar">موافق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> OK </Description>
+      <Position>IMESSAGE_ALIAS_EMAIL_SENT_OK</Position>
+      <TranslationSet>
+        <base loc="en">OK</base>
+        <tran loc="ar">موافق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> OK </Description>
+      <Position>IMESSAGE_AUTH_TIMED_OUT_OK</Position>
+      <TranslationSet>
+        <base loc="en">OK</base>
+        <tran loc="ar">موافق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> OK </Description>
+      <Position>IMESSAGE_COULD_NOT_SIGN_OK_BUTTON</Position>
+      <TranslationSet>
+        <base loc="en">OK</base>
+        <tran loc="ar">موافق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Button title: Remove
+   OK </Description>
+      <Position>OK</Position>
+      <TranslationSet>
+        <base loc="en">OK</base>
+        <tran loc="ar">موافق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Stop receiving messages from business alert title </Description>
+      <Position>STOP_RECEIVING_MESSAGES_ALERT_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Stop Receiving Messages</base>
+        <tran loc="ar">إيقاف استلام الرسائل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Informative text about how to link a phone number to an iMessage account. </Description>
+      <Position>IMESSAGE_CONFIRM_ALIAS_PHONE_TEXT</Position>
+      <TranslationSet>
+        <base loc="en">In iPhone settings, tap Messages, then tap Send &amp; Receive. Tap “Use your Apple ID for iMessage,” then sign in as “%@.”</base>
+        <tran loc="ar">في إعدادات iPhone، اضغط على الرسائل ثم اضغط على \"إرسال واستلام\". اضغط على  \"استخدام Apple ID الخاص بك من أجل iMessage\"، ثم قم بالدخول كـ \"%@\".</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> The user selects to close other chats in chat context menu and the other chats have an unread message.
+   The user selects to close other chats in chat context menu and the other chats have an unsent message. </Description>
+      <Position>These chats contain an unsent message. Do you want to close them anyway?</Position>
+      <TranslationSet>
+        <base loc="en">These chats contain an unsent message. Do you want to close them anyway?</base>
+        <tran loc="ar">تحتوي هذه الدردشات على رسالة غير مرسلة. هل ترغب في إغلاقها على أي حال؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Button title: Clear transcript </Description>
+      <Position>Clear</Position>
+      <TranslationSet>
+        <base loc="en">Clear</base>
+        <tran loc="ar">مسح</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Button title: Go Back </Description>
+      <Position>Go Back</Position>
+      <TranslationSet>
+        <base loc="en">Go Back</base>
+        <tran loc="ar">انتقال للخلف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> You have an unsent message. Do you want to close the chat anyway? </Description>
+      <Position>You have an unsent message. Do you want to close the chat anyway?</Position>
+      <TranslationSet>
+        <base loc="en">You have an unsent message. Do you want to close the chat anyway?</base>
+        <tran loc="ar">لديك رسالة غير مرسلة. هل ترغب في إغلاق الدردشة على أي حال؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Menu title: view contextual menu in chat transcript </Description>
+      <Position>View</Position>
+      <TranslationSet>
+        <base loc="en">View</base>
+        <tran loc="ar">عرض</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> New Message as title for chat tab cells. </Description>
+      <Position>New Message</Position>
+      <TranslationSet>
+        <base loc="en">New Message</base>
+        <tran loc="ar">رسالة جديدة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Alert message when adding a new iMessage alias </Description>
+      <Position>A verification email has been sent to %@</Position>
+      <TranslationSet>
+        <base loc="en">A verification email has been sent to %@</base>
+        <tran loc="ar">تم إرسال بريد الكتروني للتحقق إلى ‪ %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Alert message when adding a new iMessage alias </Description>
+      <Position>IMESSAGE_ALIAS_EMAIL_SENT_MESSAGE</Position>
+      <TranslationSet>
+        <base loc="en">A verification email has been sent to %@</base>
+        <tran loc="ar">تم إرسال بريد الكتروني للتحقق إلى ‪ %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Alert message when adding a new iMessage alias </Description>
+      <Position>IMESSAGE_UNVERIFIED_EMAIL_MESSAGE_TEXT</Position>
+      <TranslationSet>
+        <base loc="en">A verification email has been sent to %@</base>
+        <tran loc="ar">تم إرسال بريد الكتروني للتحقق إلى ‪ %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Messages in iCloud not available as iCloud and iMessage accounts do not match </Description>
+      <Position>Messages in iCloud not available</Position>
+      <TranslationSet>
+        <base loc="en">Messages in iCloud not available</base>
+        <tran loc="ar">الرسائل في iCloud غير متوفرة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Title of error dialog when Messages cannot connect to imagent </Description>
+      <Position>An internal Messages error occurred.</Position>
+      <TranslationSet>
+        <base loc="en">An internal Messages error occurred.</base>
+        <tran loc="ar">حدث خطأ داخلي في الرسائل.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Alert title: lost connection to agent (crashed) </Description>
+      <Position>You have been disconnected from Messages services.</Position>
+      <TranslationSet>
+        <base loc="en">You have been disconnected from Messages services.</base>
+        <tran loc="ar">لقد تم فصل الاتصال بخدمات الرسائل.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Description for validating alias validation </Description>
+      <Position>IMESSAGE_ALIAS_VERIFICATION_WAITING</Position>
+      <TranslationSet>
+        <base loc="en">Waiting to verify</base>
+        <tran loc="ar">بانتظار التأكيد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> The user selects to close other chats in chat context menu and the other chats have an unsent and an unread message. </Description>
+      <Position>These chats contain an unsent message and an unread message. Do you want to close them anyway?</Position>
+      <TranslationSet>
+        <base loc="en">These chats contain an unsent message and an unread message. Do you want to close them anyway?</base>
+        <tran loc="ar">تحتوي هذه الدردشات على رسالة غير مرسلة ورسالة غير مقروءة. هل ترغب في إغلاقها على أي حال؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Folder File Type </Description>
+      <Position>Folder</Position>
+      <TranslationSet>
+        <base loc="en">Folder</base>
+        <tran loc="ar">مجلد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Allow </Description>
+      <Position>Allow</Position>
+      <TranslationSet>
+        <base loc="en">Allow</base>
+        <tran loc="ar">السماح</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> File transfer time remaining, 1 hour, more than 1 minute </Description>
+      <Position>1 hour, %@ minutes remaining</Position>
+      <TranslationSet>
+        <base loc="en">1 hour, %@ minutes remaining</base>
+        <tran loc="ar">متبقٍ ساعة واحدة، و %@ من الدقائق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Alert Title: Error message </Description>
+      <Position>ICLOUD_SYNC_ERROR_ALERT_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Error</base>
+        <tran loc="ar">خطأ</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Cancel </Description>
+      <Position>CANCEL</Position>
+      <TranslationSet>
+        <base loc="en">Cancel</base>
+        <tran loc="ar">إلغاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Button title: Cancel
+   Cancel
+   Cancel button </Description>
+      <Position>Cancel</Position>
+      <TranslationSet>
+        <base loc="en">Cancel</base>
+        <tran loc="ar">إلغاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Button title: Cancel </Description>
+      <Position>IMESSAGE_SIGN_OUT_BUTTON_CANCEL</Position>
+      <TranslationSet>
+        <base loc="en">Cancel</base>
+        <tran loc="ar">إلغاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Button title: Cancel </Description>
+      <Position>IMESSAGE_UNVERIFIED_EMAIL_BUTTON_CANCEL</Position>
+      <TranslationSet>
+        <base loc="en">Cancel</base>
+        <tran loc="ar">إلغاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Label: No Account </Description>
+      <Position>NO_ACCOUNT_LABEL</Position>
+      <TranslationSet>
+        <base loc="en">No Account</base>
+        <tran loc="ar">بلا حساب</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Format string for tabbed chat window title (arg1 = num unread messages) </Description>
+      <Position>Messages (%@ unread)</Position>
+      <TranslationSet>
+        <base loc="en">Messages (%@ unread)</base>
+        <tran loc="ar">الرسائل (%@ غير مقروءة)</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> AX: Label for button to block a person </Description>
+      <Position>BLOCK_PERSON_BUTTON</Position>
+      <TranslationSet>
+        <base loc="en">Block person</base>
+        <tran loc="ar">حظر شخص</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> File transfer time remaining - more than 1 minute </Description>
+      <Position>%@ minutes remaining</Position>
+      <TranslationSet>
+        <base loc="en">%@ minutes remaining</base>
+        <tran loc="ar">متبقٍ %@ من الدقائق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Error dialog informative text (arg1 = account name) </Description>
+      <Position>Your iMessage account \\U201C%@\\U201D is not enabled.</Position>
+      <TranslationSet>
+        <base loc="en">Your iMessage account “%@” is not enabled.</base>
+        <tran loc="ar">لم يتم تمكين حساب iMessage \"%@\" الخاص بك.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Alert dialog title </Description>
+      <Position>Your message does not have any recipients.</Position>
+      <TranslationSet>
+        <base loc="en">Your message does not have any recipients.</base>
+        <tran loc="ar">لا تحتوي رسالتك على أي مستلمين.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Alert text: can't add your own login ID to a chat </Description>
+      <Position>You can\\U2019t chat with yourself.</Position>
+      <TranslationSet>
+        <base loc="en">You can’t chat with yourself.</base>
+        <tran loc="ar">لا يمكنك إجراء دردشة مع نفسك.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Stop receiving messages from business alert message </Description>
+      <Position>STOP_RECEIVING_MESSAGES_ALERT_MESSAGE</Position>
+      <TranslationSet>
+        <base loc="en">Would you like to stop receiving messages from %@?</base>
+        <tran loc="ar">هل ترغب في إيقاف استلام رسائل من %@؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Description for unvalidated alias validation </Description>
+      <Position>IMESSAGE_ALIAS_VERIFICATION_VALIDATING</Position>
+      <TranslationSet>
+        <base loc="en">Validating</base>
+        <tran loc="ar">جاري التحقق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Select prompt for default download directory </Description>
+      <Position>Select</Position>
+      <TranslationSet>
+        <base loc="en">Select</base>
+        <tran loc="ar">تحديد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Alert explanation when service can't chat (arg: service name) </Description>
+      <Position>The %@ service can\\U2019t start a chat with these people.</Position>
+      <TranslationSet>
+        <base loc="en">The %@ service can’t start a chat with these people.</base>
+        <tran loc="ar">لا يمكن لخدمة %@ بدء دردشة مع هؤلاء الأشخاص.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Format string for saved chat filename (arg1: name, arg2: date, arg3: time) </Description>
+      <Position>%@ on %@ at %@</Position>
+      <TranslationSet>
+        <base loc="en">%@ on %@ at %@</base>
+        <tran loc="ar">‏%@ بتاريخ %@ في %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Click Try Again to send this message. </Description>
+      <Position>Click \\U201CTry Again\\U201D to send this message.</Position>
+      <TranslationSet>
+        <base loc="en">Click “Try Again” to send this message.</base>
+        <tran loc="ar">انقر على \"حاول مرة أخرى\" لإرسال هذه الرسالة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Alert informative text when adding a new iMessage alias </Description>
+      <Position>IMESSAGE_ALIAS_EMAIL_SENT_TEXT</Position>
+      <TranslationSet>
+        <base loc="en">Please follow the instructions in the email to finish setting up this email address.</base>
+        <tran loc="ar">الرجاء اتبع التعليمات الموجودة في البريد الإلكتروني لإنهاء إعداد عنوان البريد الإلكتروني هذا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Alert informative text when adding a new iMessage alias </Description>
+      <Position>Please follow the instructions in the email to finish setting up this email address.</Position>
+      <TranslationSet>
+        <base loc="en">Please follow the instructions in the email to finish setting up this email address.</base>
+        <tran loc="ar">الرجاء اتبع التعليمات الموجودة في البريد الإلكتروني لإنهاء إعداد عنوان البريد الإلكتروني هذا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Menu title: Copy contextual menu for selected messages in transcript </Description>
+      <Position>Send as SMS</Position>
+      <TranslationSet>
+        <base loc="en">Send as SMS</base>
+        <tran loc="ar">إرسال كرسالة SMS</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> File xfer status: description (arg1: file type, arg2: size </Description>
+      <Position>%@, %@</Position>
+      <TranslationSet>
+        <base loc="en">%@, %@</base>
+        <tran loc="ar">%@ ،%@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Descriptive text when a message fails to send </Description>
+      <Position>There was an error sending the previous message.  Would you like to try to send it again?</Position>
+      <TranslationSet>
+        <base loc="en">There was an error sending the previous message.  Would you like to try to send it again?</base>
+        <tran loc="ar">حدث خطأ أثناء إرسال الرسالة السابقة. هل ترغب في محاولة إرسالها مرة أخرى؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> File xfer status: compressing file </Description>
+      <Position>Compressing\\U2026</Position>
+      <TranslationSet>
+        <base loc="en">Compressing…</base>
+        <tran loc="ar">جاري الضغط…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Summary string when a chat matches multiple search terms </Description>
+      <Position>%@ matches</Position>
+      <TranslationSet>
+        <base loc="en">%@ matches</base>
+        <tran loc="ar">%@ من التطابقات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Error dialog informative text (arg1 = buddy name) </Description>
+      <Position>%@ cannot be reached.</Position>
+      <TranslationSet>
+        <base loc="en">%@ cannot be reached.</base>
+        <tran loc="ar">لا يمكن الوصول إلى %@.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> File xfer status: completed incoming transfer </Description>
+      <Position>Received</Position>
+      <TranslationSet>
+        <base loc="en">Received</base>
+        <tran loc="ar">تم الاستلام</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Button title: No </Description>
+      <Position>No</Position>
+      <TranslationSet>
+        <base loc="en">No</base>
+        <tran loc="ar">لا</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Stop receiving messages from business no button </Description>
+      <Position>STOP_RECEIVING_MESSAGES_ALERT_BUTTON_NO</Position>
+      <TranslationSet>
+        <base loc="en">No</base>
+        <tran loc="ar">لا</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Alert title to prompt about skipping iMessage setup. </Description>
+      <Position>iMessage setup is not complete.</Position>
+      <TranslationSet>
+        <base loc="en">iMessage setup is not complete.</base>
+        <tran loc="ar">لم يكتمل إعداد iMessage.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Alert text: lost connection to agent (crashed) </Description>
+      <Position>An internal error occurred that disconnected you from all Messages services. To resume using Messages, log in again to your instant messaging account.</Position>
+      <TranslationSet>
+        <base loc="en">An internal error occurred that disconnected you from all Messages services. To resume using Messages, log in again to your instant messaging account.</base>
+        <tran loc="ar">حدث خطأ داخلي أدى إلى فصل الاتصال بينك وبين كل خدمات الرسائل. ولاستئناف استخدام الرسائل، قم بالدخول إلى حساب المراسلة الفورية مرة أخرى.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Button title: Remove </Description>
+      <Position>IMESSAGE_ALIAS_VALIDATION_REMOVE_EMAIL</Position>
+      <TranslationSet>
+        <base loc="en">Remove Email</base>
+        <tran loc="ar">إزالة البريد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Button title: Remove Email </Description>
+      <Position>IMESSAGE_UNVERIFIED_EMAIL_BUTTON_REMOVE</Position>
+      <TranslationSet>
+        <base loc="en">Remove Email</base>
+        <tran loc="ar">إزالة البريد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Description for unvalidated alias validation </Description>
+      <Position>IMESSAGE_ALIAS_VERIFICATION_EMAIL_SENT</Position>
+      <TranslationSet>
+        <base loc="en">Email Sent</base>
+        <tran loc="ar">تم إرسال البريد الإلكتروني</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Button title: Resend Email </Description>
+      <Position>Resend Message</Position>
+      <TranslationSet>
+        <base loc="en">Resend Message</base>
+        <tran loc="ar">إعادة إرسال الرسالة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Summary string when a chat matches one search term </Description>
+      <Position>1 match</Position>
+      <TranslationSet>
+        <base loc="en">1 match</base>
+        <tran loc="ar">تطابق واحد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Alert message about account needing verification </Description>
+      <Position>Your iMessage account is not verified.</Position>
+      <TranslationSet>
+        <base loc="en">Your iMessage account is not verified.</base>
+        <tran loc="ar">لم يتم التحقق من حساب iMessage الخاص بك.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Informative text: Sign in timed out. </Description>
+      <Position>IMESSAGE_AUTH_TIMED_OUT_TEXT</Position>
+      <TranslationSet>
+        <base loc="en">Could not sign in. Please check your network connection and try again.</base>
+        <tran loc="ar">تعذر تسجيل الدخول. الرجاء التحقق من اتصال الشبكة ثم حاول مرة أخرى.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Close </Description>
+      <Position>Close</Position>
+      <TranslationSet>
+        <base loc="en">Close</base>
+        <tran loc="ar">إغلاق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> File transfer time remaining - 1 second </Description>
+      <Position>1 second remaining</Position>
+      <TranslationSet>
+        <base loc="en">1 second remaining</base>
+        <tran loc="ar">متبقي ثانية واحدة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Button title: Skip </Description>
+      <Position>Skip</Position>
+      <TranslationSet>
+        <base loc="en">Skip</base>
+        <tran loc="ar">تخطي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> SMS Relay PIN verification message arg1: phone number </Description>
+      <Position>To send and receive your iPhone text messages from “%@” on this Mac, enter the code below on your iPhone now.</Position>
+      <TranslationSet>
+        <base loc="en">To send and receive your iPhone text messages from “%@” on this Mac, enter the code below on your iPhone now.</base>
+        <tran loc="ar">لإرسال واستلام رسائل الـ iPhone النصية من\n\"‭%@‬\" على هذا الـ Mac، أدخل الرمز المبيّن أدناه على الـ iPhone الآن.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Summary string when a chat matches a search term without any search results </Description>
+      <Position>Person matches</Position>
+      <TranslationSet>
+        <base loc="en">Person matches</base>
+        <tran loc="ar">تطابقات الأشخاص</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Alert title: attempting to start a chat with no people selected </Description>
+      <Position>No people are selected.</Position>
+      <TranslationSet>
+        <base loc="en">No people are selected.</base>
+        <tran loc="ar">لم يتم تحديد أي أشخاص.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Informative text in alert: Are you sure you want to skip iMessage setup? </Description>
+      <Position>Are you sure you want to skip iMessage setup?</Position>
+      <TranslationSet>
+        <base loc="en">Are you sure you want to skip iMessage setup?</base>
+        <tran loc="ar">هل أنت متأكد من رغبتك في تخطي إعداد iMessage؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Delete messages warning title </Description>
+      <Position>DeleteMessagesKey</Position>
+      <TranslationSet>
+        <base loc="en">Delete Older Messages?</base>
+        <tran loc="ar">هل تريد حذف الرسائل القديمة؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Menu title to remove all messages from the transcript </Description>
+      <Position>Clear Chat Transcript</Position>
+      <TranslationSet>
+        <base loc="en">Clear Chat Transcript</base>
+        <tran loc="ar">مسح نص الدردشة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Enter an email title </Description>
+      <Position>IMESSAGE_CONFIRM_ALIAS_EMAIL_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">New iMessage aliases must be email addresses.</base>
+        <tran loc="ar">يجب أن تكون الأسماء المستعارة الجديدة في iMessage عناوين بريد إلكتروني.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Error dialog for multiple attachments </Description>
+      <Position>Files will be sent unencrypted.</Position>
+      <TranslationSet>
+        <base loc="en">Files will be sent unencrypted.</base>
+        <tran loc="ar">سيتم إرسال الملفات غير مشفرة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> NSAccessibilityPressAction description </Description>
+      <Position>IMESSAGE_ALIAS_AX_ACTION_DESCRIPTION</Position>
+      <TranslationSet>
+        <base loc="en">Press</base>
+        <tran loc="ar">اضغط</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Error message when trying to save an attached file (param=folder name) </Description>
+      <Position>Either the destination folder \\U201C%@\\U201D is read-only, or you don\\U2019t have permission to put files in it.</Position>
+      <TranslationSet>
+        <base loc="en">Either the destination folder “%@” is read-only, or you don’t have permission to put files in it.</base>
+        <tran loc="ar">إما أن المجلد الوجهة \"%@\" للقراءة فقط أو أنه ليس لديك الإذن اللازم لوضع ملفات به.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> iMessage sign in error message </Description>
+      <Position>Could not sign in to iMessage.</Position>
+      <TranslationSet>
+        <base loc="en">Could not sign in to iMessage.</base>
+        <tran loc="ar">تعذر تسجيل الدخول إلى iMessage.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> iMessage sign in error message </Description>
+      <Position>IMESSAGE_AUTH_TIMED_OUT_MESSAGE</Position>
+      <TranslationSet>
+        <base loc="en">Could not sign in to iMessage.</base>
+        <tran loc="ar">تعذر تسجيل الدخول إلى iMessage.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> iMessage sign in error message </Description>
+      <Position>IMESSAGE_COULD_NOT_SIGN_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Could not sign in to iMessage.</base>
+        <tran loc="ar">تعذر تسجيل الدخول إلى iMessage.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Alert text: blocking multiple people, but in allow only buddies mode </Description>
+      <Position>Your privacy settings are currently configured to allow only people in your buddy list.\n\nWould you like change your privacy settings to block specific people and add these people to your block list?</Position>
+      <TranslationSet>
+        <base loc="en">Your privacy settings are currently configured to allow only people in your buddy list.\n\nWould you like change your privacy settings to block specific people and add these people to your block list?</base>
+        <tran loc="ar">إعدادات الخصوصية الحالية تسمح للأشخاص الموجودين في قائمة الأصدقاء فقط.\n\nهل ترغب في تغيير إعدادات الخصوصية لحظر أشخاص معينين وإضافة هؤلاء الأشخاص لقائمة الحظر؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Action name for undoing close conversation </Description>
+      <Position>Close Conversation</Position>
+      <TranslationSet>
+        <base loc="en">Close Conversation</base>
+        <tran loc="ar">إغلاق المحادثة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Title for General preferences panel </Description>
+      <Position>General</Position>
+      <TranslationSet>
+        <base loc="en">General</base>
+        <tran loc="ar">عام</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Alert text: error with messaging offline people (arg: joined list of people) </Description>
+      <Position>The people you selected can\\U2019t be addressed as a group because some members are offline:\n\n%@</Position>
+      <TranslationSet>
+        <base loc="en">The people you selected can’t be addressed as a group because some members are offline:\n\n%@</base>
+        <tran loc="ar">لا يمكن مخاطبة الأشخاص الذين حددتهم كمجموعة نظرًا لأن بعض الأعضاء غير متصلين بالإنترنت:\n\n%@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Button Title: Replace file </Description>
+      <Position>Replace</Position>
+      <TranslationSet>
+        <base loc="en">Replace</base>
+        <tran loc="ar">استبدال</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Button title: Turn On </Description>
+      <Position>Turn On</Position>
+      <TranslationSet>
+        <base loc="en">Turn On</base>
+        <tran loc="ar">تشغيل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> status text in Find dialog when a search found nothing </Description>
+      <Position>Not found</Position>
+      <TranslationSet>
+        <base loc="en">Not found</base>
+        <tran loc="ar">غير موجود</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Menu item: Invite to legacy Video chat (name: invitee) </Description>
+      <Position>Invite %@ to Video Chat</Position>
+      <TranslationSet>
+        <base loc="en">Invite %@ to Video Chat</base>
+        <tran loc="ar">دعوة %@ إلى دردشة فيديو</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> File xfer status: waiting for response (arg: recipient's name) </Description>
+      <Position>Waiting for %@ to accept\\U2026</Position>
+      <TranslationSet>
+        <base loc="en">Waiting for %@ to accept…</base>
+        <tran loc="ar">يتم الآن انتظار قبول %@‎…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Button title: Not Now
+   Not Now </Description>
+      <Position>Not Now</Position>
+      <TranslationSet>
+        <base loc="en">Not Now</base>
+        <tran loc="ar">ليس الآن</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Alert informative text when adding a new iMessage alias </Description>
+      <Position>Check your email at %@ for instructions to verify your account.</Position>
+      <TranslationSet>
+        <base loc="en">Check your email at %@ for instructions to verify your account.</base>
+        <tran loc="ar">راجع البريد الإلكتروني الخاص بك على %@ للحصول على إرشادات للتحقق من الحساب الخاص بك.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Error message when a conversation could not be exported. </Description>
+      <Position>EXPORT_CONVERSATION_SHEET_ERROR</Position>
+      <TranslationSet>
+        <base loc="en">This conversation could not be exported.</base>
+        <tran loc="ar">تعذر تصدير هذه المحادثة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Alert Message: Signing out of iMessage prompt </Description>
+      <Position>IMESSAGE_SIGN_OUT_WARNING_TEXT.</Position>
+      <TranslationSet>
+        <base loc="en">If you sign out, you will no longer be able to receive iMessages.</base>
+        <tran loc="ar">إذا قمت بتسجيل الخروج، فلن تكون قادرًا بعد ذلك على استلام iMessages.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Format string for tabbed chat window title with 1 unread (arg1 = chat room name / chat perticipant names / chat recipient name) </Description>
+      <Position>%@ (1 unread)</Position>
+      <TranslationSet>
+        <base loc="en">%@ (1 unread)</base>
+        <tran loc="ar">‫‏%@ ‏(١ غير مقروءة)‬</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Button in sheet for blocking a person </Description>
+      <Position>Block</Position>
+      <TranslationSet>
+        <base loc="en">Block</base>
+        <tran loc="ar">حظر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Button title: Go to Chat </Description>
+      <Position>Go to Chat</Position>
+      <TranslationSet>
+        <base loc="en">Go to Chat</base>
+        <tran loc="ar">انتقال إلى الدردشة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Button title: Enable Account </Description>
+      <Position>Enable Account</Position>
+      <TranslationSet>
+        <base loc="en">Enable Account</base>
+        <tran loc="ar">تمكين الحساب</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Message during database upgrade </Description>
+      <Position>The Messages database is being upgraded, please wait while it finishes or Quit Messages and relaunch it later.</Position>
+      <TranslationSet>
+        <base loc="en">The Messages database is being upgraded, please wait while it finishes or Quit Messages and relaunch it later.</base>
+        <tran loc="ar">يتم الآن ترقية قاعدة بيانات الرسائل، الرجاء الانتظار حتى تنتهي الترقية أو قم بإنهاء الرسائل وإعادة تشغيله لاحقًا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> File xfer status: completed outgoing transfer </Description>
+      <Position>Sent</Position>
+      <TranslationSet>
+        <base loc="en">Sent</base>
+        <tran loc="ar">تم الإرسال</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Button title for resending verification email </Description>
+      <Position>Resend Verification Email</Position>
+      <TranslationSet>
+        <base loc="en">Resend Verification Email</base>
+        <tran loc="ar">إعادة إرسال بريد التحقق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Show Unsent </Description>
+      <Position>Show Unsent</Position>
+      <TranslationSet>
+        <base loc="en">Show Unsent</base>
+        <tran loc="ar">إظهار الرسائل غير المرسلة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Menu title when disabled </Description>
+      <Position>Block Person\\U2026</Position>
+      <TranslationSet>
+        <base loc="en">Block Person…</base>
+        <tran loc="ar">حظر الشخص…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Menu title to merge handles into one address card </Description>
+      <Position>Assign Buddies to One Address Card</Position>
+      <TranslationSet>
+        <base loc="en">Assign Buddies to One Address Card</base>
+        <tran loc="ar">تعيين الأصدقاء إلى بطاقة عنوان واحدة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Menu title: Copy contextual menu for selected messages in transcript </Description>
+      <Position>Copy</Position>
+      <TranslationSet>
+        <base loc="en">Copy</base>
+        <tran loc="ar">نسخ</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Noun for \"File Tranfer\" </Description>
+      <Position>File Transfer: %@</Position>
+      <TranslationSet>
+        <base loc="en">File Transfer: %@</base>
+        <tran loc="ar">نقل الملف: %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> The user selects to close other chats in the chat context menu. </Description>
+      <Position>Are you sure you want to close other chats?</Position>
+      <TranslationSet>
+        <base loc="en">Are you sure you want to close other chats?</base>
+        <tran loc="ar">هل أنت متأكد من رغبتك في إغلاق الدردشات الأخرى؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Chat tab last message for accessibility. Param: last activity date. </Description>
+      <Position> Last activity: %@.</Position>
+      <TranslationSet>
+        <base loc="en"> Last activity: %@.</base>
+        <tran loc="ar"> آخر نشاط: %@.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No results have been found in the chat search </Description>
+      <Position>No Results Found</Position>
+      <TranslationSet>
+        <base loc="en">No Results Found</base>
+        <tran loc="ar">لم يتم العثور على نتائج</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Enter an email title </Description>
+      <Position>You must enter an email address.</Position>
+      <TranslationSet>
+        <base loc="en">You must enter an email address.</base>
+        <tran loc="ar">يجب عليك إدخال عنوان بريد إلكتروني.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> File transfer time remaining: Calculating status </Description>
+      <Position>Calculating\\U2026</Position>
+      <TranslationSet>
+        <base loc="en">Calculating…</base>
+        <tran loc="ar">جاري الحساب…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> File xfer title (outgoing): arg1=filename, arg2=recipient </Description>
+      <Position>%@ to %@</Position>
+      <TranslationSet>
+        <base loc="en">%@ to %@</base>
+        <tran loc="ar">‏%@ إلى %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Error dialog for a single file attachment </Description>
+      <Position>File will be sent unencrypted.</Position>
+      <TranslationSet>
+        <base loc="en">File will be sent unencrypted.</base>
+        <tran loc="ar">سيتم إرسال الملف غير مشفر.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Menu title to add a handle to Contacts </Description>
+      <Position>Create New Contact\\U2026</Position>
+      <TranslationSet>
+        <base loc="en">Create New Contact…</base>
+        <tran loc="ar">إنشاء جهة اتصال جديدة…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Button title: Resend Email </Description>
+      <Position>IMESSAGE_UNVERIFIED_EMAIL_BUTTON_RESEND</Position>
+      <TranslationSet>
+        <base loc="en">Resend Email</base>
+        <tran loc="ar">إعادة إرسال بريد إلكتروني</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> File transfer time remaining - many hours </Description>
+      <Position>%@ hours remaining</Position>
+      <TranslationSet>
+        <base loc="en">%@ hours remaining</base>
+        <tran loc="ar">متبقٍ %@ من الساعات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Alert title (read receipt confirmation): Would you like to send read receipts? </Description>
+      <Position>Would you like to send read receipts?</Position>
+      <TranslationSet>
+        <base loc="en">Would you like to send read receipts?</base>
+        <tran loc="ar">هل ترغب في إرسال إيصالات القراءة؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Quit Messages </Description>
+      <Position>Quit Messages</Position>
+      <TranslationSet>
+        <base loc="en">Quit Messages</base>
+        <tran loc="ar">إنهاء الرسائل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Alert title for error with messaging </Description>
+      <Position>Messaging Error</Position>
+      <TranslationSet>
+        <base loc="en">Messaging Error</base>
+        <tran loc="ar">خطأ في المراسلة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Email verification error message. </Description>
+      <Position>Failed to verify email.</Position>
+      <TranslationSet>
+        <base loc="en">Failed to verify email.</base>
+        <tran loc="ar">فشل التحقق من البريد الإلكتروني.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Email verification error message. </Description>
+      <Position>IMESSAGE_ALIAS_VALIDATION_ERROR</Position>
+      <TranslationSet>
+        <base loc="en">Failed to verify email.</base>
+        <tran loc="ar">فشل التحقق من البريد الإلكتروني.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Menu title to unblock someone </Description>
+      <Position>Unblock %@\\U2026</Position>
+      <TranslationSet>
+        <base loc="en">Unblock %@…</base>
+        <tran loc="ar">إلغاء حظر %@‎…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Error message when Messages can't connect to imagent </Description>
+      <Position>There was a problem with Messages. You need to quit and open Messages again.</Position>
+      <TranslationSet>
+        <base loc="en">There was a problem with Messages. You need to quit and open Messages again.</base>
+        <tran loc="ar">حدث خطأ في الرسائل. يجب عليك إنهاء الرسائل وفتحه مرة أخرى.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Alert title: chat can't be started </Description>
+      <Position>Messages can\\U2019t start the chat.</Position>
+      <TranslationSet>
+        <base loc="en">Messages can’t start the chat.</base>
+        <tran loc="ar">لا يمكن للرسائل بدء الدردشة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> File transfer notifier button: Save As... </Description>
+      <Position>Save As\\U2026</Position>
+      <TranslationSet>
+        <base loc="en">Save As…</base>
+        <tran loc="ar">حفظ باسم…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Alert message about text message relay </Description>
+      <Position>Messages can send and receive your iPhone text messages on this Mac.</Position>
+      <TranslationSet>
+        <base loc="en">Messages can send and receive your iPhone text messages on this Mac.</base>
+        <tran loc="ar">يمكن لتطبيق الرسائل إرسال واستلام رسائل الـ iPhone النصية على هذا الـ Mac.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> The user selects to close other chats in chat context menu and the other chats have unread messages.
+   The user selects to close other chats in chat context menu and the other chats have unsent messages. </Description>
+      <Position>These chats contain %@ unsent messages. Do you want to close them anyway?</Position>
+      <TranslationSet>
+        <base loc="en">These chats contain %@ unsent messages. Do you want to close them anyway?</base>
+        <tran loc="ar">تحتوي هذه الدردشات على %@ من الرسائل غير المرسلة. هل ترغب في إغلاقها على أي حال؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Button title: Disable All </Description>
+      <Position>Disable All</Position>
+      <TranslationSet>
+        <base loc="en">Disable All</base>
+        <tran loc="ar">تعطيل الكل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Alert body (read receipt confirmation): Click Allow to notify others when you read their iMessages for all conversations.\n\nYou can change this setting in the Accounts pane of Messages preferences. </Description>
+      <Position>Click Allow to notify others when you read their iMessages for all conversations.\n\nYou can change this setting in the Accounts pane of Messages preferences.</Position>
+      <TranslationSet>
+        <base loc="en">Click Allow to notify others when you read their iMessages for all conversations.\n\nYou can change this setting in the Accounts pane of Messages preferences.</base>
+        <tran loc="ar">انقر على السماح لإعلام الآخرين عندما تقرأ رسائل iMessage الخاصة بهم لجميع المحادثات.\n\nيمكنك تغيير هذا الإعداد في جزء الحسابات في تفضيلات الرسائل.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Alert title: blocking multiple people </Description>
+      <Position>Are you sure you want to block these people?</Position>
+      <TranslationSet>
+        <base loc="en">Are you sure you want to block these people?</base>
+        <tran loc="ar">هل أنت متأكد من رغبتك في حظر هؤلاء الأشخاص؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Prompt to clear (delete) conversation history </Description>
+      <Position>Would you like to clear this conversation?</Position>
+      <TranslationSet>
+        <base loc="en">Would you like to clear this conversation?</base>
+        <tran loc="ar">هل ترغب في مسح هذه المحادثة؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Error dialog asking user to send files unencrpyted in the future (arg1 = account name) </Description>
+      <Position>Your account \\U201C%@\\U201D is encrypted but files cannot be sent encrypted. Do you want to send this file unencrypted?</Position>
+      <TranslationSet>
+        <base loc="en">Your account “%@” is encrypted but files cannot be sent encrypted. Do you want to send this file unencrypted?</base>
+        <tran loc="ar">حسابك \"%@\" مشفر، لكن لا يمكن إرسال الملفات مشفرة. هل ترغب في إرسال هذا الملف غير مشفر؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Button title to display contents IM hidden by knock-knock feature </Description>
+      <Position>Display</Position>
+      <TranslationSet>
+        <base loc="en">Display</base>
+        <tran loc="ar">عرض</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Button title: Log In </Description>
+      <Position>Log In</Position>
+      <TranslationSet>
+        <base loc="en">Log In</base>
+        <tran loc="ar">دخول</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> The user selects to close other chats in chat context menu and the other chats have unsent messages and an unread message. </Description>
+      <Position>These chats contain %@ unsent messages and an unread message. Do you want to close them anyway?</Position>
+      <TranslationSet>
+        <base loc="en">These chats contain %@ unsent messages and an unread message. Do you want to close them anyway?</base>
+        <tran loc="ar">تحتوي هذه الدردشات على %@ من الرسائل غير المرسلة ورسالة غير مقروءة. هل ترغب في إغلاقها على أي حال؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Ignore </Description>
+      <Position>Ignore</Position>
+      <TranslationSet>
+        <base loc="en">Ignore</base>
+        <tran loc="ar">تجاهل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Chat tab last message for accessibility. Param: last message content.. </Description>
+      <Position> Last message: %@</Position>
+      <TranslationSet>
+        <base loc="en"> Last message: %@</base>
+        <tran loc="ar"> آخر رسالة: %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Stop receiving messages from business yes button </Description>
+      <Position>STOP_RECEIVING_MESSAGES_ALERT_BUTTON_YES</Position>
+      <TranslationSet>
+        <base loc="en">Yes</base>
+        <tran loc="ar">نعم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Button title: Yes </Description>
+      <Position>Yes</Position>
+      <TranslationSet>
+        <base loc="en">Yes</base>
+        <tran loc="ar">نعم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> File transfer: save panel title (arg is sender name) </Description>
+      <Position>Save File from %@</Position>
+      <TranslationSet>
+        <base loc="en">Save File from %@</base>
+        <tran loc="ar">حفظ الملف من %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Alert title: are you sure you want to close this window? </Description>
+      <Position>Are you sure you want to close this window?</Position>
+      <TranslationSet>
+        <base loc="en">Are you sure you want to close this window?</base>
+        <tran loc="ar">هل أنت متأكد من رغبتك في إغلاق هذه النافذة؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Are you sure you want to close this chat? </Description>
+      <Position>Are you sure you want to close this chat?</Position>
+      <TranslationSet>
+        <base loc="en">Are you sure you want to close this chat?</base>
+        <tran loc="ar">هل أنت متأكد من رغبتك في إغلاق هذه الدردشة؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Transcript Message Context menu title for showing tapback UI </Description>
+      <Position>TRANSCRIPT_TAPBACK_MENU</Position>
+      <TranslationSet>
+        <base loc="en">Tapback…</base>
+        <tran loc="ar">Tapback…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Information text for new alias, with hyphen to separate from email alias and comma to separate from clickable link 'Details' (arg1: 'Waiting to Verify' text) </Description>
+      <Position>IMESSAGE_NEW_ALIAS_INFO_DETAILS</Position>
+      <TranslationSet>
+        <base loc="en">- %@,</base>
+        <tran loc="ar">- %@،</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> File transfer time remaining - more than 1 second </Description>
+      <Position>%@ seconds remaining</Position>
+      <TranslationSet>
+        <base loc="en">%@ seconds remaining</base>
+        <tran loc="ar">متبقٍ %@ من الثواني</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No conversations in the conversation list </Description>
+      <Position>No Conversations</Position>
+      <TranslationSet>
+        <base loc="en">No Conversations</base>
+        <tran loc="ar">بدون محادثات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Application file type </Description>
+      <Position>Application</Position>
+      <TranslationSet>
+        <base loc="en">Application</base>
+        <tran loc="ar">التطبيق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> File transfer time remaining - less than a second </Description>
+      <Position>Less than a second remaining</Position>
+      <TranslationSet>
+        <base loc="en">Less than a second remaining</base>
+        <tran loc="ar">متبقٍ أقل من ثانية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Alert title about how to start using a phone number for iMessage. </Description>
+      <Position>IMESSAGE_CONFIRM_ALIAS_PHONE_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">To use your phone number on this Mac, sign in with your Apple ID on your iPhone.</base>
+        <tran loc="ar">لاستخدام رقم هاتفك على جهاز Mac، قم بالدخول بواسطة Apple ID الخاص بك على جهاز iPhone.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> This attachment is no longer available. </Description>
+      <Position>This attachment is no longer available.</Position>
+      <TranslationSet>
+        <base loc="en">This attachment is no longer available.</base>
+        <tran loc="ar">لم يعد هذا المرفق متوفرًا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> File xfer status: incomplete incoming transfer (arg1: sent bytes, arg2: total bytes) </Description>
+      <Position>Received %@ of %@</Position>
+      <TranslationSet>
+        <base loc="en">Received %@ of %@</base>
+        <tran loc="ar">تم استلام %@ من %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Description for failed alias validation </Description>
+      <Position>IMESSAGE_ALIAS_VERIFICATION_FAILED</Position>
+      <TranslationSet>
+        <base loc="en">Failed</base>
+        <tran loc="ar">فشل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Your message was not sent. </Description>
+      <Position>Your message was not sent.</Position>
+      <TranslationSet>
+        <base loc="en">Your message was not sent.</base>
+        <tran loc="ar">لم يتم إرسال رسالتك.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Alert text: blocking multiple people (param=joined list of names) </Description>
+      <Position>If you block %@, they won\\U2019t be able to see your status or send messages to you, and you won\\U2019t be able to see or send messages to them.\n\nTo change your blocking settings, choose Messages &gt; Preferences, click Accounts, and then click Security.</Position>
+      <TranslationSet>
+        <base loc="en">If you block %@, they won’t be able to see your status or send messages to you, and you won’t be able to see or send messages to them.\n\nTo change your blocking settings, choose Messages &gt; Preferences, click Accounts, and then click Security.</base>
+        <tran loc="ar">إذا قمت بحظر %@، فلن يتمكنوا من رؤية حالتك أو إرسال رسائل إليك، ولن تتمكن من رؤية حالتهم أو إرسال رسائل إليهم.\n\nلتغيير إعدادات الحظر، اختر الرسائل &gt; تفضيلات، ثم انقر على الحسابات ثم على تأمين.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Explanation when chat invitation could not be delivered, arg1: recipient's name arg2: recipient's instant messaging id, arg3: sender's account name </Description>
+      <Position>The invitation to %@ (%@) on %@ could not be delivered.</Position>
+      <TranslationSet>
+        <base loc="en">The invitation to %@ (%@) on %@ could not be delivered.</base>
+        <tran loc="ar">لا يمكن تسليم الدعوة الموجهة %@ (%@) على %@.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> The user selects to close other chats in chat context menu and the other chats have unsent and unread messages. </Description>
+      <Position>These chats contain %@ unsent messages and %@ unread messages. Do you want to close them anyway?</Position>
+      <TranslationSet>
+        <base loc="en">These chats contain %@ unsent messages and %@ unread messages. Do you want to close them anyway?</base>
+        <tran loc="ar">تحتوي هذه الدردشات على %@ من الرسائل غير المرسلة و%@ من الرسائل غير المقروءة. هل ترغب في إغلاقها على أي حال؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Error dialog title </Description>
+      <Position>Your iMessage account \\U201C%@\\U201D is not signed in.</Position>
+      <TranslationSet>
+        <base loc="en">Your iMessage account “%@” is not signed in.</base>
+        <tran loc="ar">لم يتم تسجيل دخول حساب iMessage الخاص بك \"%@\".</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Header for updating database </Description>
+      <Position>Messages is updating...</Position>
+      <TranslationSet>
+        <base loc="en">Messages is updating...</base>
+        <tran loc="ar">يقوم الرسائل بالتحديث...</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Text for clear prompt </Description>
+      <Position>You can\\U2019t undo this action.</Position>
+      <TranslationSet>
+        <base loc="en">You can’t undo this action.</base>
+        <tran loc="ar">لا يمكن التراجع عن هذا الإجراء.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Alert informative text when adding a new iMessage alias </Description>
+      <Position>IMESSAGE_UNVERIFIED_EMAIL_INFORMATIVE_TEXT</Position>
+      <TranslationSet>
+        <base loc="en">Please follow the instructions in the email to finish setting up this email address. If you lost or deleted the original email, you can send it again.</base>
+        <tran loc="ar">الرجاء اتبع التعليمات الموجودة في البريد الإلكتروني لإنهاء إعداد عنوان البريد الإلكتروني هذا. إذا فقدت أو قمت بحذف البريد الإلكتروني الأصلي، يمكنك إعادة إرساله.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Information text for new alias, with hyphen to separate from email alias (arg1: 'Email Sent' text) </Description>
+      <Position>IMESSAGE_NEW_ALIAS_INFO</Position>
+      <TranslationSet>
+        <base loc="en">- %@</base>
+        <tran loc="ar">- %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Generic window title </Description>
+      <Position>Messages</Position>
+      <TranslationSet>
+        <base loc="en">Messages</base>
+        <tran loc="ar">الرسائل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Menu title to block someone </Description>
+      <Position>Block %@\\U2026</Position>
+      <TranslationSet>
+        <base loc="en">Block %@…</base>
+        <tran loc="ar">حظر %@…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Alert message: file of same name already exists, would you like to replace it? (arg1: enclosing folder's name) </Description>
+      <Position>An item of the same name already exists in the \\U201C%@\\U201D folder. Replacing it will overwrite its current contents. Click Save As to choose a different name.</Position>
+      <TranslationSet>
+        <base loc="en">An item of the same name already exists in the “%@” folder. Replacing it will overwrite its current contents. Click Save As to choose a different name.</base>
+        <tran loc="ar">يوجد بالفعل عنصر يحمل نفس الاسم في مجلد \"%@\". سيؤدي استبداله إلى الكتابة فوق محتوياته الحالية. انقر على حفظ باسم لاختيار اسم آخر.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Confirmation to delete a single message </Description>
+      <Position>Are you sure you want to delete this message?</Position>
+      <TranslationSet>
+        <base loc="en">Are you sure you want to delete this message?</base>
+        <tran loc="ar">هل أنت متأكد من رغبتك في حذف هذه الرسالة؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Ad hoc chat room name with more than one person </Description>
+      <Position>Chat with %@ et al</Position>
+      <TranslationSet>
+        <base loc="en">Chat with %@ et al</base>
+        <tran loc="ar">دردشة مع %@ وآخرين</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Menu title to show a handle to Contacts </Description>
+      <Position>Show Contact Card</Position>
+      <TranslationSet>
+        <base loc="en">Show Contact Card</base>
+        <tran loc="ar">إظهار بطاقة جهة الاتصال</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> File xfer title (incoming): arg1=filename, arg2=sender </Description>
+      <Position>%@ from %@</Position>
+      <TranslationSet>
+        <base loc="en">%@ from %@</base>
+        <tran loc="ar">‏%@ من %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Enter a valid email address, error string </Description>
+      <Position>IMESSAGE_CONFIRM_ALIAS_EMAIL_TEXT</Position>
+      <TranslationSet>
+        <base loc="en">Please enter a valid email address and try again.</base>
+        <tran loc="ar">الرجاء إدخال عنوان بريد إلكتروني صالح والمحاولة مرة أخرى.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Enter a valid email address, error string </Description>
+      <Position>Please enter a valid email address and try again.</Position>
+      <TranslationSet>
+        <base loc="en">Please enter a valid email address and try again.</base>
+        <tran loc="ar">الرجاء إدخال عنوان بريد إلكتروني صالح والمحاولة مرة أخرى.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Alert title: connection failed (arg1:service name, arg2:account description) </Description>
+      <Position>There was an error with the %@ account \\U201C%@\\U201D.</Position>
+      <TranslationSet>
+        <base loc="en">There was an error with the %@ account “%@”.</base>
+        <tran loc="ar">حدث خطأ في حساب %@ \"%@\".</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> The user selects to close the conversation in the standalone window that has an unsent message. </Description>
+      <Position>This conversation contains an unsent message. Do you want to close it anyway?</Position>
+      <TranslationSet>
+        <base loc="en">This conversation contains an unsent message. Do you want to close it anyway?</base>
+        <tran loc="ar">تحتوي هذه المحادثة على رسالة غير مرسلة. هل ترغب في إغلاقها على أي حال؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Alert title for alert presented when user clicks on an Apple Pay balloon </Description>
+      <Position>APPLE_PAY_ALERT_MESSAGE_TEXT</Position>
+      <TranslationSet>
+        <base loc="en">Apple Pay Transaction</base>
+        <tran loc="ar">معاملة Apple Pay</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Action name for undoing navigating to the previous message sent on the input line </Description>
+      <Position>Previous Message</Position>
+      <TranslationSet>
+        <base loc="en">Previous Message</base>
+        <tran loc="ar">الرسالة السابقة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Google Talk (the IM service) </Description>
+      <Position>GTALK_SERVICE_NAME</Position>
+      <TranslationSet>
+        <base loc="en">Google Talk</base>
+        <tran loc="ar">Google Talk</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Error dialog title (arg1 = account name) </Description>
+      <Position>Your account \\U201C%@\\U201D is not logged in.</Position>
+      <TranslationSet>
+        <base loc="en">Your account “%@” is not logged in.</base>
+        <tran loc="ar">لم يتم تسجيل دخول حساب \"%@\" الخاص بك.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> This file appears to be corrupted and cannot be opened. </Description>
+      <Position>This file appears to be corrupted and can\\U2019t be opened.</Position>
+      <TranslationSet>
+        <base loc="en">This file appears to be corrupted and can’t be opened.</base>
+        <tran loc="ar">يبدو أن هذا الملف تالف ولا يمكن فتحه.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Alert title for alert presented when user clicks on a wallet:// balloon </Description>
+      <Position>WALLET_SCHEME_ALERT_MESSAGE_TEXT</Position>
+      <TranslationSet>
+        <base loc="en">You’ll need an iPhone to interact with this conversation.</base>
+        <tran loc="ar">تحتاج لـ iPhone للتفاعل مع هذه المحادثة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Alert explanation when service cannot send IMs (arg: service name) </Description>
+      <Position>The %@ service can\\U2019t send an instant message to this person.</Position>
+      <TranslationSet>
+        <base loc="en">The %@ service can’t send an instant message to this person.</base>
+        <tran loc="ar">لا يمكن لخدمة %@ إرسال رسالة فورية إلى هذا الشخص.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Ad hoc chat room name, not using chat room address </Description>
+      <Position>Chat with %@</Position>
+      <TranslationSet>
+        <base loc="en">Chat with %@</base>
+        <tran loc="ar">دردشة مع %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Apple ID label (arg: Apple ID username) </Description>
+      <Position>Apple ID: %@</Position>
+      <TranslationSet>
+        <base loc="en">Apple ID: %@</base>
+        <tran loc="ar">‏Apple ID: %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Alert title: blocking a person (param=name) </Description>
+      <Position>Are you sure you want to block %@?</Position>
+      <TranslationSet>
+        <base loc="en">Are you sure you want to block %@?</base>
+        <tran loc="ar">هل أنت متأكد من رغبتك في حظر %@؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Has unread messages string for accessibility. </Description>
+      <Position> Has unread messages.</Position>
+      <TranslationSet>
+        <base loc="en"> Has unread messages.</base>
+        <tran loc="ar"> يحتوي على رسائل غير مقروءة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Default invitation message when adding an additional person to a text chat. </Description>
+      <Position>Please join me in this chat.</Position>
+      <TranslationSet>
+        <base loc="en">Please join me in this chat.</base>
+        <tran loc="ar">الرجاء الانضمام إليّ في هذه الدردشة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Menu item: Invite to Audio chat (name: invitee) </Description>
+      <Position>Invite %@ to Audio Chat</Position>
+      <TranslationSet>
+        <base loc="en">Invite %@ to Audio Chat</base>
+        <tran loc="ar">دعوة %@ إلى دردشة صوتية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> The user selects to close other chats in chat context menu and the other chats have an unsent message and unread messages. </Description>
+      <Position>These chats contain an unsent message and %@ unread messages. Do you want to close them anyway?</Position>
+      <TranslationSet>
+        <base loc="en">These chats contain an unsent message and %@ unread messages. Do you want to close them anyway?</base>
+        <tran loc="ar">تحتوي هذه الدردشات على رسالة غير مرسلة و%@ من الرسائل غير المقروءة. هل ترغب في إغلاقها على أي حال؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Document File type </Description>
+      <Position>Document</Position>
+      <TranslationSet>
+        <base loc="en">Document</base>
+        <tran loc="ar">المستند</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Contextual menu item to show stickers on a message </Description>
+      <Position>STICKERMENU_SHOWSTICKERS</Position>
+      <TranslationSet>
+        <base loc="en">Show Stickers…</base>
+        <tran loc="ar">إظهار الملصقات…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> You have %@ unsent messages. Do you want to close the window anyway? </Description>
+      <Position>You have %@ unsent messages. Do you want to close the window anyway?</Position>
+      <TranslationSet>
+        <base loc="en">You have %@ unsent messages. Do you want to close the window anyway?</base>
+        <tran loc="ar">لديك %@ من الرسائل غير مرسلة. هل ترغب في إغلاق النافذة على أي حال؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Messages in iCloud not available due to mismatched accounts alert </Description>
+      <Position>Messages in iCloud is not available because iCloud and iMessage accounts are different.</Position>
+      <TranslationSet>
+        <base loc="en">Messages in iCloud is not available because iCloud and iMessage accounts are different.</base>
+        <tran loc="ar">الرسائل في iCloud غير متوفرة لأن حسابي iCloud و iMessage مختلفان.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Empty chat room save name </Description>
+      <Position>Empty chat</Position>
+      <TranslationSet>
+        <base loc="en">Empty chat</base>
+        <tran loc="ar">دردشة فارغة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Alert title (keep messages confirmation): The Keep Messages setting has been reset to forever because a device was added to Messages in iCloud. </Description>
+      <Position>The Keep Messages setting has been reset to forever because a device was added to Messages in iCloud.</Position>
+      <TranslationSet>
+        <base loc="en">The Keep Messages setting has been reset to forever because a device was added to Messages in iCloud.</base>
+        <tran loc="ar">تمت إعادة تعيين إعدادات \"الاحتفاظ بالرسائل\" إلى \"للأبد\" بسبب إضافة جهاز إلى الرسائل في iCloud.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Error message when trying to save an attached file </Description>
+      <Position>There is not enough free space on the disk to save the file.</Position>
+      <TranslationSet>
+        <base loc="en">There is not enough free space on the disk to save the file.</base>
+        <tran loc="ar">لا تتوفر مساحة خالية كافية على القرص لحفظ الملف.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Alert explanation when user tries to send an IM to multiple people </Description>
+      <Position>You can send an instant message to only one person at a time.</Position>
+      <TranslationSet>
+        <base loc="en">You can send an instant message to only one person at a time.</base>
+        <tran loc="ar">يمكنك إرسال رسالة فورية إلى شخص واحد فقط في المرة الواحدة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> File xfer status: transferring (arg1: sent bytes, arg2: total bytes, arg3: speed, arg4: time remaining) </Description>
+      <Position>%@ of %@%@ \\U2014 %@</Position>
+      <TranslationSet>
+        <base loc="en">%@ of %@%@ — %@</base>
+        <tran loc="ar">%@ من %@%@ — %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> File transfer time remaining, 1 hour, 1 minute </Description>
+      <Position>1 hour, 1 minute remaining</Position>
+      <TranslationSet>
+        <base loc="en">1 hour, 1 minute remaining</base>
+        <tran loc="ar">متبقٍ ساعة واحدة، ودقيقة واحدة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> AX: Label for button to remove the selected block entry </Description>
+      <Position>UNBLOCK_SELECTION_BUTTON</Position>
+      <TranslationSet>
+        <base loc="en">Unblock selected</base>
+        <tran loc="ar">إلغاء حظر المحدد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Alert text for alert presented when user clicks on an Apple Pay balloon </Description>
+      <Position>APPLE_PAY_ALERT_INFORMATIVE_TEXT</Position>
+      <TranslationSet>
+        <base loc="en">Open this conversation on your iPhone to see more details on this transaction</base>
+        <tran loc="ar">افتح هذه المحادثة على الـ iPhone لعرض المزيد من التفاصيل حول هذه المعاملة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Prompt to permanently delete a conversation </Description>
+      <Position>DELETE_WARNING</Position>
+      <TranslationSet>
+        <base loc="en">You cannot undo this action.</base>
+        <tran loc="ar">لا يمكن التراجع عن هذا الإجراء.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Informative text for message deletion </Description>
+      <Position>You cannot undo this action.</Position>
+      <TranslationSet>
+        <base loc="en">You cannot undo this action.</base>
+        <tran loc="ar">لا يمكن التراجع عن هذا الإجراء.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> File xfer status: incomplete outgoing transfer (arg1: sent bytes, arg2: total bytes) </Description>
+      <Position>Sent %@ of %@</Position>
+      <TranslationSet>
+        <base loc="en">Sent %@ of %@</base>
+        <tran loc="ar">تم إرسال %@ من %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Informative text about how to add a recipient. </Description>
+      <Position>Enter a name, email address, or phone number in the To field.</Position>
+      <TranslationSet>
+        <base loc="en">Enter a name, email address, or phone number in the To field.</base>
+        <tran loc="ar">قم بإدخال اسم، عنوان بريد إلكتروني أو رقم هاتف في حقل \"إلى\".</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>Messages_swift/System/Applications/Messages.app/Contents/PlugIns/Messages Storage Management Extension.appex/Contents/Resources/en.lproj/InfoPlist.strings</Filepath>
+    <TextItem>
+      <Description> 
+  StorageManagementExtension-Info.strings
+  iChat
+
+  Created by Óscar Morales Vivó on 7/13/17.
+  
+
+ The application name, referred from the plugin UI. </Description>
+      <Position>CFBundleDisplayName</Position>
+      <TranslationSet>
+        <base loc="en">Messages</base>
+        <tran loc="ar">الرسائل</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>Messages_swift/System/Applications/Messages.app/Contents/Resources/en.lproj/ChatView.strings</Filepath>
+    <TextItem>
+      <Description> Class = "NSViewController"; title = "Input Line"; ObjectID = "22"; </Description>
+      <Position>22.title</Position>
+      <TranslationSet>
+        <base loc="en">Input Line</base>
+        <tran loc="ar">سطر الإدخال</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>Messages_swift/System/Applications/Messages.app/Contents/Resources/en.lproj/iMessagePrivacyViewController.strings</Filepath>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Enter iMessage addresses to block in the list below:"; ObjectID = "SRd-UI-bAB"; </Description>
+      <Position>SRd-UI-bAB.title</Position>
+      <TranslationSet>
+        <base loc="en">Enter iMessage addresses to block in the list below:</base>
+        <tran loc="ar">أدخل في القائمة أدناه عناوين iMessage المراد حظرها:</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "PGF-iA-fSK"; </Description>
+      <Position>PGF-iA-fSK.title</Position>
+      <TranslationSet>
+        <base loc="en">Text Cell</base>
+        <tran loc="ar">Text Cell</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "mJS-hc-w89"; </Description>
+      <Position>mJS-hc-w89.title</Position>
+      <TranslationSet>
+        <base loc="en">Text Cell</base>
+        <tran loc="ar">Text Cell</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>Messages_swift/System/Library/Messages/iMessageBalloons/MSMessageExtensionBalloonPlugin.bundle/Contents/Resources/en.lproj/InfoPlist.strings</Filepath>
+    <TextItem>
+      <Description> 
+  InfoPlist.strings
+  MessagesAppExtensionBalloonPluginProvider
+
+  Created by Óscar Morales Vivó on 7/28/16.
+  Copyright © 2016 Apple Inc. All rights reserved.
+</Description>
+      <Position>CKBrowserDisplayName</Position>
+      <TranslationSet>
+        <base loc="en">Messages App</base>
+        <tran loc="ar">تطبيق الرسائل</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>Messages_swift/System/Library/Messages/iMessageBalloons/MSMessageExtensionBalloonPlugin.bundle/Contents/Resources/en.lproj/AppExtensionBalloonPluginLocalizable.strings</Filepath>
+    <TextItem>
+      <Description> Apple pay balloon: General title for all apple pay balloons </Description>
+      <Position>BALLOON_PLUGIN_APPLE_PAY_CASH</Position>
+      <TranslationSet>
+        <base loc="en">Apple Cash</base>
+        <tran loc="ar">‏Apple Cash</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>Messages_swift/System/Applications/Messages.app/Contents/Resources/en.lproj/SMSPINWindow.strings</Filepath>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Cancel"; ObjectID = "Gv6-CD-DYq"; </Description>
+      <Position>Gv6-CD-DYq.title</Position>
+      <TranslationSet>
+        <base loc="en">Cancel</base>
+        <tran loc="ar">إلغاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Waiting for verification…"; ObjectID = "P4S-Ou-DJF"; </Description>
+      <Position>P4S-Ou-DJF.title</Position>
+      <TranslationSet>
+        <base loc="en">Waiting for verification…</base>
+        <tran loc="ar">في انتظار التحقق…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "&lt;&lt;Do Not Localize&gt;&gt;"; ObjectID = "Ltk-MT-AUV"; </Description>
+      <Position>Ltk-MT-AUV.title</Position>
+      <TranslationSet>
+        <base loc="en">&lt;&lt;Do Not Localize&gt;&gt;</base>
+        <tran loc="ar">&lt;&lt;Do Not Localize&gt;&gt;</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "&lt;&lt;Do Not Localize&gt;&gt;"; ObjectID = "v7I-B8-UW9"; </Description>
+      <Position>v7I-B8-UW9.title</Position>
+      <TranslationSet>
+        <base loc="en">&lt;&lt;Do Not Localize&gt;&gt;</base>
+        <tran loc="ar">&lt;&lt;Do Not Localize&gt;&gt;</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>Messages_swift/System/Applications/Messages.app/Contents/PlugIns/Messages Share Extension.appex/Contents/Resources/en.lproj/InfoPlist.strings</Filepath>
+    <TextItem>
+      <Description> Don't localize the &lt;senderName&gt; token</Description>
+      <Position>NSSharingTitle</Position>
+      <TranslationSet>
+        <base loc="en">Message &lt;SenderName&gt;</base>
+        <tran loc="ar">رسالة &lt;SenderName&gt;</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CFBundleDisplayName</Position>
+      <TranslationSet>
+        <base loc="en">Messages</base>
+        <tran loc="ar">الرسائل</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>Messages_swift/System/Applications/Messages.app/Contents/Resources/en.lproj/PlacardView.strings</Filepath>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "&lt;&lt; DO NOT LOCALIZE &gt;&gt;"; ObjectID = "9"; </Description>
+      <Position>9.title</Position>
+      <TranslationSet>
+        <base loc="en">&lt;&lt; DO NOT LOCALIZE &gt;&gt;</base>
+        <tran loc="ar">&lt;&lt; DO NOT LOCALIZE &gt;&gt;</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>Messages_swift/System/Applications/Messages.app/Contents/Resources/en.lproj/iMessageDetailsViewController.strings</Filepath>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Apple ID:"; ObjectID = "kfc-2E-tzJ"; </Description>
+      <Position>kfc-2E-tzJ.title</Position>
+      <TranslationSet>
+        <base loc="en">Apple ID:</base>
+        <tran loc="ar">‏Apple ID:</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Sign Out"; ObjectID = "hiW-8R-3sT"; </Description>
+      <Position>hiW-8R-3sT.title</Position>
+      <TranslationSet>
+        <base loc="en">Sign Out</base>
+        <tran loc="ar">تسجيل الخروج</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Details"; ObjectID = "6yb-Dd-uAr"; </Description>
+      <Position>6yb-Dd-uAr.title</Position>
+      <TranslationSet>
+        <base loc="en">Details</base>
+        <tran loc="ar">التفاصيل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Label"; ObjectID = "amj-tS-0n5"; </Description>
+      <Position>amj-tS-0n5.title</Position>
+      <TranslationSet>
+        <base loc="en">Label</base>
+        <tran loc="ar">العنوان</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "When this is on, people are notified when you have read their messages. This enables read receipts for all conversations."; ObjectID = "c3G-hh-jye"; </Description>
+      <Position>c3G-hh-jye.title</Position>
+      <TranslationSet>
+        <base loc="en">When this is on, people are notified when you have read their messages. This enables read receipts for all conversations.</base>
+        <tran loc="ar">عند تشغيل هذا الإعداد، سيتم إعلام الأشخاص عندما تقوم بقراءة رسائلهم. ويؤدي هذا إلى تمكين إيصالات القراءة لكل المحادثات.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; placeholderString = "user@example.com"; ObjectID = "3IL-ED-Lxs"; </Description>
+      <Position>3IL-ED-Lxs.placeholderString</Position>
+      <TranslationSet>
+        <base loc="en">user@example.com</base>
+        <tran loc="ar">user@example.com</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Send read receipts"; ObjectID = "ZBP-Yo-Ela"; </Description>
+      <Position>ZBP-Yo-Ela.title</Position>
+      <TranslationSet>
+        <base loc="en">Send read receipts</base>
+        <tran loc="ar">إرسال إيصالات القراءة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Start new conversations from:"; ObjectID = "cjJ-wb-cxe"; </Description>
+      <Position>cjJ-wb-cxe.title</Position>
+      <TranslationSet>
+        <base loc="en">Start new conversations from:</base>
+        <tran loc="ar">بدء محادثات جديدة من:</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTableColumn"; headerCell.title = "Email"; ObjectID = "2Yw-Xr-yg5"; </Description>
+      <Position>2Yw-Xr-yg5.headerCell.title</Position>
+      <TranslationSet>
+        <base loc="en">Email</base>
+        <tran loc="ar">بريد إلكتروني</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "You can be reached for messages at:"; ObjectID = "JeE-Hr-crx"; </Description>
+      <Position>JeE-Hr-crx.title</Position>
+      <TranslationSet>
+        <base loc="en">You can be reached for messages at:</base>
+        <tran loc="ar">يمكن مراسلتك على الرسائل على:</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Sync Now"; ObjectID = "Jea-ch-dQL"; </Description>
+      <Position>Jea-ch-dQL.title</Position>
+      <TranslationSet>
+        <base loc="en">Sync Now</base>
+        <tran loc="ar">مزامنة الآن</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Enable Messages in iCloud"; ObjectID = "1Gf-mc-dqS"; </Description>
+      <Position>1Gf-mc-dqS.title</Position>
+      <TranslationSet>
+        <base loc="en">Enable Messages in iCloud</base>
+        <tran loc="ar">تمكين الرسائل في iCloud</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenu"; title = "OtherViews"; ObjectID = "sjq-cY-1am"; </Description>
+      <Position>sjq-cY-1am.title</Position>
+      <TranslationSet>
+        <base loc="en">OtherViews</base>
+        <tran loc="ar">OtherViews</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "&lt;&lt;Do Not Localize&gt;&gt;"; ObjectID = "117-u5-aUh"; </Description>
+      <Position>117-u5-aUh.title</Position>
+      <TranslationSet>
+        <base loc="en">&lt;&lt;Do Not Localize&gt;&gt;</base>
+        <tran loc="ar">&lt;&lt;Do Not Localize&gt;&gt;</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Enable this account"; ObjectID = "TsZ-nk-zCh"; </Description>
+      <Position>TsZ-nk-zCh.title</Position>
+      <TranslationSet>
+        <base loc="en">Enable this account</base>
+        <tran loc="ar">تمكين هذا الحساب</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>Messages_swift/System/Applications/Messages.app/Contents/Resources/en.lproj/UnifiedChatListView.strings</Filepath>
+    <TextItem>
+      <Description> Class = "NSButton"; ibShadowedToolTip = "Compose new message"; ObjectID = "USP-Ua-HMt"; </Description>
+      <Position>USP-Ua-HMt.ibShadowedToolTip</Position>
+      <TranslationSet>
+        <base loc="en">Compose new message</base>
+        <tran loc="ar">إنشاء رسالة جديدة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSSegmentedCell"; Vd2-4s-5dd.ibShadowedLabels[1] = "Unknown Senders"; ObjectID = "Vd2-4s-5dd"; </Description>
+      <Position>Vd2-4s-5dd.ibShadowedLabels[1]</Position>
+      <TranslationSet>
+        <base loc="en">Unknown Senders</base>
+        <tran loc="ar">مرسلون غير معروفين</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSSegmentedCell"; Vd2-4s-5dd.ibShadowedLabels[0] = "Contacts &amp; SMS"; ObjectID = "Vd2-4s-5dd"; </Description>
+      <Position>Vd2-4s-5dd.ibShadowedLabels[0]</Position>
+      <TranslationSet>
+        <base loc="en">Contacts &amp; SMS</base>
+        <tran loc="ar">جهات الاتصال و SMS</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTableView"; ibExternalAccessibilityDescription = "Conversations"; ObjectID = "4"; </Description>
+      <Position>4.ibExternalAccessibilityDescription</Position>
+      <TranslationSet>
+        <base loc="en">Conversations</base>
+        <tran loc="ar">المحادثات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSSearchFieldCell"; placeholderString = "Search"; ObjectID = "Dk2-K9-CPk"; </Description>
+      <Position>Dk2-K9-CPk.placeholderString</Position>
+      <TranslationSet>
+        <base loc="en">Search</base>
+        <tran loc="ar">بحث</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "11"; </Description>
+      <Position>11.title</Position>
+      <TranslationSet>
+        <base loc="en">Text Cell</base>
+        <tran loc="ar">Text Cell</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>Messages_swift/System/Applications/Messages.app/Contents/PlugIns/Messages Reply Extension.appex/Contents/Resources/en.lproj/InfoPlist.strings</Filepath>
+    <TextItem>
+      <Description> Don't localize the &lt;senderName&gt; token</Description>
+      <Position>NSSharingTitle</Position>
+      <TranslationSet>
+        <base loc="en">Message &lt;SenderName&gt;</base>
+        <tran loc="ar">رسالة &lt;SenderName&gt;</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CFBundleDisplayName</Position>
+      <TranslationSet>
+        <base loc="en">Messages</base>
+        <tran loc="ar">الرسائل</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>Messages_swift/System/Library/Spotlight/Chat.mdimporter/Contents/Resources/en.lproj/ServiceLocalizable.strings</Filepath>
+    <TextItem>
+      <Description> Jabber </Description>
+      <Position>Jabber</Position>
+      <TranslationSet>
+        <base loc="en">Jabber</base>
+        <tran loc="ar">‏Jabber</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Subnet </Description>
+      <Position>Bonjour</Position>
+      <TranslationSet>
+        <base loc="en">Bonjour</base>
+        <tran loc="ar">‏Bonjour</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>Messages_swift/System/Applications/Messages.app/Contents/Resources/en.lproj/FileTransferManager.strings</Filepath>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Quick Look"; ObjectID = "4F2-mW-Wad"; </Description>
+      <Position>4F2-mW-Wad.title</Position>
+      <TranslationSet>
+        <base loc="en">Quick Look</base>
+        <tran loc="ar">معاينة سريعة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButton"; ibExternalAccessibilityDescription = "Show file transfer"; ObjectID = "4S8-ep-gI4"; </Description>
+      <Position>4S8-ep-gI4.ibExternalAccessibilityDescription</Position>
+      <TranslationSet>
+        <base loc="en">Show file transfer</base>
+        <tran loc="ar">إظهار نقل الملفات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Clear"; ObjectID = "100026"; </Description>
+      <Position>100026.title</Position>
+      <TranslationSet>
+        <base loc="en">Clear</base>
+        <tran loc="ar">مسح</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Add to Photos Library"; ObjectID = "MiQ-l4-JiT"; </Description>
+      <Position>MiQ-l4-JiT.title</Position>
+      <TranslationSet>
+        <base loc="en">Add to Photos Library</base>
+        <tran loc="ar">إضافة إلى مكتبة الصور</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "&lt;&lt;DO NOT LOCALIZE&gt;&gt;"; ObjectID = "mki-ja-u0F"; </Description>
+      <Position>mki-ja-u0F.title</Position>
+      <TranslationSet>
+        <base loc="en">&lt;&lt;DO NOT LOCALIZE&gt;&gt;</base>
+        <tran loc="ar">&lt;&lt;DO NOT LOCALIZE&gt;&gt;</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "&lt;&lt;DO NOT LOCALIZE&gt;&gt;"; ObjectID = "qrp-rz-ddX"; </Description>
+      <Position>qrp-rz-ddX.title</Position>
+      <TranslationSet>
+        <base loc="en">&lt;&lt;DO NOT LOCALIZE&gt;&gt;</base>
+        <tran loc="ar">&lt;&lt;DO NOT LOCALIZE&gt;&gt;</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextField"; ibExternalAccessibilityDescription = "File transfer status"; ObjectID = "LF6-K0-J5e"; </Description>
+      <Position>LF6-K0-J5e.ibExternalAccessibilityDescription</Position>
+      <TranslationSet>
+        <base loc="en">File transfer status</base>
+        <tran loc="ar">حالة نقل الملفات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextField"; ibExternalAccessibilityDescription = "File name"; ObjectID = "SUc-n1-d2W"; </Description>
+      <Position>SUc-n1-d2W.ibExternalAccessibilityDescription</Position>
+      <TranslationSet>
+        <base loc="en">File name</base>
+        <tran loc="ar">اسم الملف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSProgressIndicator"; ibExternalAccessibilityDescription = "File transfer progress"; ObjectID = "PTq-TF-jT6"; </Description>
+      <Position>PTq-TF-jT6.ibExternalAccessibilityDescription</Position>
+      <TranslationSet>
+        <base loc="en">File transfer progress</base>
+        <tran loc="ar">تقدم نقل الملفات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Remove from List"; ObjectID = "jgD-Cr-DqW"; </Description>
+      <Position>jgD-Cr-DqW.title</Position>
+      <TranslationSet>
+        <base loc="en">Remove from List</base>
+        <tran loc="ar">إزالة من القائمة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButton"; ibExternalAccessibilityDescription = "Stop file transfer"; ObjectID = "U4v-nv-Tvd"; </Description>
+      <Position>U4v-nv-Tvd.ibExternalAccessibilityDescription</Position>
+      <TranslationSet>
+        <base loc="en">Stop file transfer</base>
+        <tran loc="ar">إيقاف نقل الملفات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Select All"; ObjectID = "K0k-kl-dnW"; </Description>
+      <Position>K0k-kl-dnW.title</Position>
+      <TranslationSet>
+        <base loc="en">Select All</base>
+        <tran loc="ar">تحديد الكل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Show in Finder"; ObjectID = "PzK-I9-UCn"; </Description>
+      <Position>PzK-I9-UCn.title</Position>
+      <TranslationSet>
+        <base loc="en">Show in Finder</base>
+        <tran loc="ar">إظهار في Finder</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSWindow"; title = "File Transfers"; ObjectID = "18"; </Description>
+      <Position>18.title</Position>
+      <TranslationSet>
+        <base loc="en">File Transfers</base>
+        <tran loc="ar">عمليات نقل الملفات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "ziz-GK-71X"; </Description>
+      <Position>ziz-GK-71X.title</Position>
+      <TranslationSet>
+        <base loc="en">Text Cell</base>
+        <tran loc="ar">Text Cell</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "No Transfers"; ObjectID = "100033"; </Description>
+      <Position>100033.title</Position>
+      <TranslationSet>
+        <base loc="en">No Transfers</base>
+        <tran loc="ar">لا توجد عمليات نقل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Open"; ObjectID = "gNd-4o-Ucx"; </Description>
+      <Position>gNd-4o-Ucx.title</Position>
+      <TranslationSet>
+        <base loc="en">Open</base>
+        <tran loc="ar">فتح</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>Messages_swift/System/Applications/Messages.app/Contents/Resources/en.lproj/ChatTableCellView.strings</Filepath>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Label"; ObjectID = "12"; </Description>
+      <Position>12.title</Position>
+      <TranslationSet>
+        <base loc="en">Label</base>
+        <tran loc="ar">العنوان</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButton"; ibExternalAccessibilityDescription = "Close"; ObjectID = "53"; </Description>
+      <Position>53.ibExternalAccessibilityDescription</Position>
+      <TranslationSet>
+        <base loc="en">Close</base>
+        <tran loc="ar">إغلاق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "8"; </Description>
+      <Position>8.title</Position>
+      <TranslationSet>
+        <base loc="en">Table View Cell</base>
+        <tran loc="ar">Table View Cell</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Multiline Label with text written in it so we can measure height"; ObjectID = "1645"; </Description>
+      <Position>1645.title</Position>
+      <TranslationSet>
+        <base loc="en">Multiline Label with text written in it so we can measure height</base>
+        <tran loc="ar">تسمية متعددة الأسطر مع النص المكتوب عليها حتى نتمكن من قياس الارتفاع</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>Messages_swift/System/Applications/Messages.app/Contents/PlugIns/Messages Reply Extension.appex/Contents/Resources/en.lproj/MessagesShareExtensionLocalizable.strings</Filepath>
+    <TextItem>
+      <Description> Send button [Messages] </Description>
+      <Position>Send</Position>
+      <TranslationSet>
+        <base loc="en">Send</base>
+        <tran loc="ar">إرسال</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Error description for agent connection failure </Description>
+      <Position>Could not connect to the Instant Message agent.</Position>
+      <TranslationSet>
+        <base loc="en">Could not connect to the Instant Message agent.</base>
+        <tran loc="ar">تعذر الاتصال بعميل الرسالة الفورية.</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>Messages_swift/System/Applications/Messages.app/Contents/Resources/en.lproj/Find.strings</Filepath>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Find:"; ObjectID = "100007"; </Description>
+      <Position>100007.title</Position>
+      <TranslationSet>
+        <base loc="en">Find:</base>
+        <tran loc="ar">بحث:</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Previous"; ObjectID = "100010"; </Description>
+      <Position>100010.title</Position>
+      <TranslationSet>
+        <base loc="en">Previous</base>
+        <tran loc="ar">السابق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSWindow"; title = "Find"; ObjectID = "5"; </Description>
+      <Position>5.title</Position>
+      <TranslationSet>
+        <base loc="en">Find</base>
+        <tran loc="ar">بحث</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Next"; ObjectID = "100009"; </Description>
+      <Position>100009.title</Position>
+      <TranslationSet>
+        <base loc="en">Next</base>
+        <tran loc="ar">التالي</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>Messages_swift/System/Applications/Messages.app/Contents/Resources/en.lproj/ChatTabContextMenu.strings</Filepath>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Open Conversation in Separate Window"; ObjectID = "57"; </Description>
+      <Position>57.title</Position>
+      <TranslationSet>
+        <base loc="en">Open Conversation in Separate Window</base>
+        <tran loc="ar">فتح المحادثة في نافذة منفصلة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Mark All Messages as Read"; ObjectID = "5vw-Or-z27"; </Description>
+      <Position>5vw-Or-z27.title</Position>
+      <TranslationSet>
+        <base loc="en">Mark All Messages as Read</base>
+        <tran loc="ar">تمييز كل الرسائل كمقروءة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Details…"; ObjectID = "cQu-WG-RwW"; </Description>
+      <Position>cQu-WG-RwW.title</Position>
+      <TranslationSet>
+        <base loc="en">Details…</base>
+        <tran loc="ar">التفاصيل…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Close Conversation"; ObjectID = "72"; </Description>
+      <Position>72.title</Position>
+      <TranslationSet>
+        <base loc="en">Close Conversation</base>
+        <tran loc="ar">إغلاق المحادثة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Block Person…"; ObjectID = "66"; </Description>
+      <Position>66.title</Position>
+      <TranslationSet>
+        <base loc="en">Block Person…</base>
+        <tran loc="ar">حظر الشخص…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Do Not Disturb"; ObjectID = "Iae-5p-z2n"; </Description>
+      <Position>Iae-5p-z2n.title</Position>
+      <TranslationSet>
+        <base loc="en">Do Not Disturb</base>
+        <tran loc="ar">عدم الإزعاج</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Delete Conversation…"; ObjectID = "106"; </Description>
+      <Position>106.title</Position>
+      <TranslationSet>
+        <base loc="en">Delete Conversation…</base>
+        <tran loc="ar">حذف المحادثة…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "VIP Chat"; ObjectID = "kab-lJ-opy"; </Description>
+      <Position>kab-lJ-opy.title</Position>
+      <TranslationSet>
+        <base loc="en">VIP Chat</base>
+        <tran loc="ar">دردشة VIP</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>Messages_swift/System/Applications/Messages.app/Contents/Resources/en.lproj/Prefs_General.strings</Filepath>
+    <TextItem>
+      <Description> Class = "NSButton"; ibShadowedToolTip = "Select to always be notified when your name is mentioned in a conversation"; ObjectID = "Tyo-gH-KhN"; </Description>
+      <Position>Tyo-gH-KhN.ibShadowedToolTip</Position>
+      <TranslationSet>
+        <base loc="en">Select to always be notified when your name is mentioned in a conversation</base>
+        <tran loc="ar">حدده لإعلامك دائمًا عند ذكر اسمك في محادثة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButton"; ibShadowedToolTip = "Select to see a notification banner for messages from people not on your buddy or contact list"; ObjectID = "gbT-UP-t0o"; </Description>
+      <Position>gbT-UP-t0o.ibShadowedToolTip</Position>
+      <TranslationSet>
+        <base loc="en">Select to see a notification banner for messages from people not on your buddy or contact list</base>
+        <tran loc="ar">حدد ذلك لمشاهدة شعار إشعار للرسائل الواردة من أشخاص ليسوا ضمن قائمة الأصدقاء أو جهات الاتصال لديك</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Other…"; ObjectID = "300615"; </Description>
+      <Position>300615.title</Position>
+      <TranslationSet>
+        <base loc="en">Other…</base>
+        <tran loc="ar">أخرى…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Other…"; ObjectID = "446"; </Description>
+      <Position>446.title</Position>
+      <TranslationSet>
+        <base loc="en">Other…</base>
+        <tran loc="ar">أخرى…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButton"; ibShadowedToolTip = "Select if you want Messages to save all of your chat history"; ObjectID = "300550"; </Description>
+      <Position>300550.ibShadowedToolTip</Position>
+      <TranslationSet>
+        <base loc="en">Select if you want Messages to save all of your chat history</base>
+        <tran loc="ar">حدد ذلك إذا كنت تريد أن يقوم تطبيق الرسائل بحفظ كل سجل تاريخ الدردشة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Save received files to:"; ObjectID = "200447"; </Description>
+      <Position>200447.title</Position>
+      <TranslationSet>
+        <base loc="en">Save received files to:</base>
+        <tran loc="ar">حفظ الملفات المستلمة في:</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Save history when conversations are closed"; ObjectID = "300551"; </Description>
+      <Position>300551.title</Position>
+      <TranslationSet>
+        <base loc="en">Save history when conversations are closed</base>
+        <tran loc="ar">حفظ كل سجل التاريخ عندما يتم إغلاق المحادثات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Play sound effects"; ObjectID = "300583"; </Description>
+      <Position>300583.title</Position>
+      <TranslationSet>
+        <base loc="en">Play sound effects</base>
+        <tran loc="ar">تشغيل المؤثرات الصوتية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "30 Days"; ObjectID = "pXe-by-c4R"; </Description>
+      <Position>pXe-by-c4R.title</Position>
+      <TranslationSet>
+        <base loc="en">30 Days</base>
+        <tran loc="ar">٣٠ يوم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Other..."; ObjectID = "CuV-Oe-qHh"; </Description>
+      <Position>CuV-Oe-qHh.title</Position>
+      <TranslationSet>
+        <base loc="en">Other...</base>
+        <tran loc="ar">أخرى...</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "One Year"; ObjectID = "BmG-n7-XXm"; </Description>
+      <Position>BmG-n7-XXm.title</Position>
+      <TranslationSet>
+        <base loc="en">One Year</base>
+        <tran loc="ar">سنة واحدة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSPopUpButton"; ibShadowedToolTip = "Choose a location for storing files you receive from your buddies"; ObjectID = "445"; </Description>
+      <Position>445.ibShadowedToolTip</Position>
+      <TranslationSet>
+        <base loc="en">Choose a location for storing files you receive from your buddies</base>
+        <tran loc="ar">اختيار موقع لتخزين الملفات التي تتلقاها من أصدقائك</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Text size:"; ObjectID = "Is6-NC-VQA"; </Description>
+      <Position>Is6-NC-VQA.title</Position>
+      <TranslationSet>
+        <base loc="en">Text size:</base>
+        <tran loc="ar">حجم النص:</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButton"; ibShadowedToolTip = "Select to play all sounds in the application"; ObjectID = "300582"; </Description>
+      <Position>300582.ibShadowedToolTip</Position>
+      <TranslationSet>
+        <base loc="en">Select to play all sounds in the application</base>
+        <tran loc="ar">حدد ذلك لتشغيل كل الأصوات الموجودة في التطبيق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Optima 13"; ObjectID = "avX-tr-3eO"; </Description>
+      <Position>avX-tr-3eO.title</Position>
+      <TranslationSet>
+        <base loc="en">Optima 13</base>
+        <tran loc="ar">Optima 13</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Notify me when my name is mentioned"; ObjectID = "hLv-mR-2dj"; </Description>
+      <Position>hLv-mR-2dj.title</Position>
+      <TranslationSet>
+        <base loc="en">Notify me when my name is mentioned</base>
+        <tran loc="ar">إعلامي عند ذكر اسمي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Last Custom"; ObjectID = "hMf-OA-IkA"; </Description>
+      <Position>hMf-OA-IkA.title</Position>
+      <TranslationSet>
+        <base loc="en">Last Custom</base>
+        <tran loc="ar">آخر مخصص</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Palatino 13"; ObjectID = "m15-gx-bi8"; </Description>
+      <Position>m15-gx-bi8.title</Position>
+      <TranslationSet>
+        <base loc="en">Palatino 13</base>
+        <tran loc="ar">Palatino 13</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Forever"; ObjectID = "fFi-H6-btC"; </Description>
+      <Position>fFi-H6-btC.title</Position>
+      <TranslationSet>
+        <base loc="en">Forever</base>
+        <tran loc="ar">للأبد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Message received sound:"; ObjectID = "300611"; </Description>
+      <Position>300611.title</Position>
+      <TranslationSet>
+        <base loc="en">Message received sound:</base>
+        <tran loc="ar">الصوت عند استلام رسالة:</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "A"; ObjectID = "1Ev-5N-eZe"; </Description>
+      <Position>1Ev-5N-eZe.title</Position>
+      <TranslationSet>
+        <base loc="en">A</base>
+        <tran loc="ar">أ</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "A"; ObjectID = "3kB-Ae-H9l"; </Description>
+      <Position>3kB-Ae-H9l.title</Position>
+      <TranslationSet>
+        <base loc="en">A</base>
+        <tran loc="ar">أ</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Application:"; ObjectID = "200403"; </Description>
+      <Position>200403.title</Position>
+      <TranslationSet>
+        <base loc="en">Application:</base>
+        <tran loc="ar">التطبيق:</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Keep messages:"; ObjectID = "8F2-Pn-TBL"; </Description>
+      <Position>8F2-Pn-TBL.title</Position>
+      <TranslationSet>
+        <base loc="en">Keep messages:</base>
+        <tran loc="ar">الاحتفاظ بالرسائل:</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenu"; title = "OtherViews"; ObjectID = "300613"; </Description>
+      <Position>300613.title</Position>
+      <TranslationSet>
+        <base loc="en">OtherViews</base>
+        <tran loc="ar">OtherViews</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenu"; title = "OtherViews"; ObjectID = "448"; </Description>
+      <Position>448.title</Position>
+      <TranslationSet>
+        <base loc="en">OtherViews</base>
+        <tran loc="ar">OtherViews</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSPopUpButton"; ibShadowedToolTip = "Choose a sound to play for incoming messages"; ObjectID = "300609"; </Description>
+      <Position>300609.ibShadowedToolTip</Position>
+      <TranslationSet>
+        <base loc="en">Choose a sound to play for incoming messages</base>
+        <tran loc="ar">اختر صوتًا لتشغيله للرسائل الواردة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Default"; ObjectID = "455"; </Description>
+      <Position>455.title</Position>
+      <TranslationSet>
+        <base loc="en">Default</base>
+        <tran loc="ar">الافتراضي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Default"; ObjectID = "Hq8-Vo-jDD"; </Description>
+      <Position>Hq8-Vo-jDD.title</Position>
+      <TranslationSet>
+        <base loc="en">Default</base>
+        <tran loc="ar">الافتراضي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Notify me about messages from unknown contacts"; ObjectID = "wQo-2H-bV4"; </Description>
+      <Position>wQo-2H-bV4.title</Position>
+      <TranslationSet>
+        <base loc="en">Notify me about messages from unknown contacts</base>
+        <tran loc="ar">إعلامي بالرسائل المرسلة من جهات اتصال غير معروفة</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>Messages_swift/System/Applications/Messages.app/Contents/Resources/en.lproj/UnifiedChatWindow.strings</Filepath>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "No Conversation Selected"; ObjectID = "300365"; </Description>
+      <Position>300365.title</Position>
+      <TranslationSet>
+        <base loc="en">No Conversation Selected</base>
+        <tran loc="ar">لم يتم تحديد محادثة</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>Messages_swift/System/Applications/Messages.app/Contents/Resources/en.lproj/PreferencesWindow.strings</Filepath>
+    <TextItem>
+      <Description> Class = "NSWindow"; title = "Window"; ObjectID = "QvC-M9-y7g"; </Description>
+      <Position>QvC-M9-y7g.title</Position>
+      <TranslationSet>
+        <base loc="en">Window</base>
+        <tran loc="ar">Window</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>Messages_swift/System/Applications/Messages.app/Contents/Resources/en.lproj/MainMenu.strings</Filepath>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Close All Conversations"; ObjectID = "1799"; </Description>
+      <Position>1799.title</Position>
+      <TranslationSet>
+        <base loc="en">Close All Conversations</base>
+        <tran loc="ar">إغلاق كافة المحادثات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Close All Windows"; ObjectID = "1851"; </Description>
+      <Position>1851.title</Position>
+      <TranslationSet>
+        <base loc="en">Close All Windows</base>
+        <tran loc="ar">إغلاق كافة النوافذ</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Paste Style"; ObjectID = "1101"; </Description>
+      <Position>1101.title</Position>
+      <TranslationSet>
+        <base loc="en">Paste Style</base>
+        <tran loc="ar">لصق النمط</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Delete"; ObjectID = "128"; </Description>
+      <Position>128.title</Position>
+      <TranslationSet>
+        <base loc="en">Delete</base>
+        <tran loc="ar">حذف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Text Replacement"; ObjectID = "1661"; </Description>
+      <Position>1661.title</Position>
+      <TranslationSet>
+        <base loc="en">Text Replacement</base>
+        <tran loc="ar">استبدال النص</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Check Document Now"; ObjectID = "929"; </Description>
+      <Position>929.title</Position>
+      <TranslationSet>
+        <base loc="en">Check Document Now</base>
+        <tran loc="ar">تدقيق المستند الآن</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Correct Spelling Automatically"; ObjectID = "1657"; </Description>
+      <Position>1657.title</Position>
+      <TranslationSet>
+        <base loc="en">Correct Spelling Automatically</base>
+        <tran loc="ar">تصحيح الأخطاء الإملائية تلقائيًا</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Show Spelling and Grammar"; ObjectID = "928"; </Description>
+      <Position>928.title</Position>
+      <TranslationSet>
+        <base loc="en">Show Spelling and Grammar</base>
+        <tran loc="ar">إظهار التدقيق الإملائي والنحوي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Select Previous Conversation"; ObjectID = "1357"; </Description>
+      <Position>1357.title</Position>
+      <TranslationSet>
+        <base loc="en">Select Previous Conversation</base>
+        <tran loc="ar">تحديد المحادثة السابقة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Open Conversation in Separate Window"; ObjectID = "d4l-Hv-jyJ"; </Description>
+      <Position>d4l-Hv-jyJ.title</Position>
+      <TranslationSet>
+        <base loc="en">Open Conversation in Separate Window</base>
+        <tran loc="ar">فتح المحادثة في نافذة منفصلة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "FaceTime Video"; ObjectID = "721-Lq-iJ2"; </Description>
+      <Position>721-Lq-iJ2.title</Position>
+      <TranslationSet>
+        <base loc="en">FaceTime Video</base>
+        <tran loc="ar">‏FaceTime فيديو</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Hide Messages"; ObjectID = "228"; </Description>
+      <Position>228.title</Position>
+      <TranslationSet>
+        <base loc="en">Hide Messages</base>
+        <tran loc="ar">إخفاء الرسائل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Make Text Smaller"; ObjectID = "1484"; </Description>
+      <Position>1484.title</Position>
+      <TranslationSet>
+        <base loc="en">Make Text Smaller</base>
+        <tran loc="ar">تصغير النص</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Stop Speaking"; ObjectID = "1637"; </Description>
+      <Position>1637.title</Position>
+      <TranslationSet>
+        <base loc="en">Stop Speaking</base>
+        <tran loc="ar">إيقاف التكلم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Spelling and Grammar"; ObjectID = "925"; </Description>
+      <Position>925.title</Position>
+      <TranslationSet>
+        <base loc="en">Spelling and Grammar</base>
+        <tran loc="ar">التدقيق الإملائي والنحوي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenu"; title = "Spelling and Grammar"; ObjectID = "926"; </Description>
+      <Position>926.title</Position>
+      <TranslationSet>
+        <base loc="en">Spelling and Grammar</base>
+        <tran loc="ar">التدقيق الإملائي والنحوي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Jump to Selection"; ObjectID = "1151"; </Description>
+      <Position>1151.title</Position>
+      <TranslationSet>
+        <base loc="en">Jump to Selection</base>
+        <tran loc="ar">انتقال سريع إلى التحديد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Quick Look"; ObjectID = "1648"; </Description>
+      <Position>1648.title</Position>
+      <TranslationSet>
+        <base loc="en">Quick Look</base>
+        <tran loc="ar">معاينة سريعة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Print…"; ObjectID = "87"; </Description>
+      <Position>87.title</Position>
+      <TranslationSet>
+        <base loc="en">Print…</base>
+        <tran loc="ar">طباعة…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "About Messages"; ObjectID = "58"; </Description>
+      <Position>58.title</Position>
+      <TranslationSet>
+        <base loc="en">About Messages</base>
+        <tran loc="ar">حول الرسائل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Show Substitutions"; ObjectID = "1667"; </Description>
+      <Position>1667.title</Position>
+      <TranslationSet>
+        <base loc="en">Show Substitutions</base>
+        <tran loc="ar">إظهار البدائل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Invite to Share My Screen"; ObjectID = "PMT-IY-YOl"; </Description>
+      <Position>PMT-IY-YOl.title</Position>
+      <TranslationSet>
+        <base loc="en">Invite to Share My Screen</base>
+        <tran loc="ar">دعوة لمشاركة شاشتي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Show All Buddy Pictures in Conversations"; ObjectID = "E31-at-yuk"; </Description>
+      <Position>E31-at-yuk.title</Position>
+      <TranslationSet>
+        <base loc="en">Show All Buddy Pictures in Conversations</base>
+        <tran loc="ar">إظهار صور كل الأصدقاء في المحادثات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "FaceTime Audio"; ObjectID = "dtG-bI-gzs"; </Description>
+      <Position>dtG-bI-gzs.title</Position>
+      <TranslationSet>
+        <base loc="en">FaceTime Audio</base>
+        <tran loc="ar">‏FaceTime صوتي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "View"; ObjectID = "867"; </Description>
+      <Position>867.title</Position>
+      <TranslationSet>
+        <base loc="en">View</base>
+        <tran loc="ar">عرض</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenu"; title = "View"; ObjectID = "868"; </Description>
+      <Position>868.title</Position>
+      <TranslationSet>
+        <base loc="en">View</base>
+        <tran loc="ar">عرض</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Arrange in Front"; ObjectID = "5"; </Description>
+      <Position>5.title</Position>
+      <TranslationSet>
+        <base loc="en">Arrange in Front</base>
+        <tran loc="ar">ترتيب للأمام</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "New Message"; ObjectID = "813"; </Description>
+      <Position>813.title</Position>
+      <TranslationSet>
+        <base loc="en">New Message</base>
+        <tran loc="ar">رسالة جديدة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenu"; title = "Edit"; ObjectID = "13"; </Description>
+      <Position>13.title</Position>
+      <TranslationSet>
+        <base loc="en">Edit</base>
+        <tran loc="ar">تحرير</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Edit"; ObjectID = "15"; </Description>
+      <Position>15.title</Position>
+      <TranslationSet>
+        <base loc="en">Edit</base>
+        <tran loc="ar">تحرير</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Smart Quotes"; ObjectID = "1629"; </Description>
+      <Position>1629.title</Position>
+      <TranslationSet>
+        <base loc="en">Smart Quotes</base>
+        <tran loc="ar">علامات الاقتباس الذكية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Services"; ObjectID = "221"; </Description>
+      <Position>221.title</Position>
+      <TranslationSet>
+        <base loc="en">Services</base>
+        <tran loc="ar">خدمات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenu"; title = "Services"; ObjectID = "222"; </Description>
+      <Position>222.title</Position>
+      <TranslationSet>
+        <base loc="en">Services</base>
+        <tran loc="ar">خدمات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Show All"; ObjectID = "231"; </Description>
+      <Position>231.title</Position>
+      <TranslationSet>
+        <base loc="en">Show All</base>
+        <tran loc="ar">إظهار الكل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Paste"; ObjectID = "8"; </Description>
+      <Position>8.title</Position>
+      <TranslationSet>
+        <base loc="en">Paste</base>
+        <tran loc="ar">لصق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Find Previous"; ObjectID = "1154"; </Description>
+      <Position>1154.title</Position>
+      <TranslationSet>
+        <base loc="en">Find Previous</base>
+        <tran loc="ar">بحث عن السابق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "File"; ObjectID = "76"; </Description>
+      <Position>76.title</Position>
+      <TranslationSet>
+        <base loc="en">File</base>
+        <tran loc="ar">ملف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenu"; title = "File"; ObjectID = "88"; </Description>
+      <Position>88.title</Position>
+      <TranslationSet>
+        <base loc="en">File</base>
+        <tran loc="ar">ملف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Buddies"; ObjectID = "256"; </Description>
+      <Position>256.title</Position>
+      <TranslationSet>
+        <base loc="en">Buddies</base>
+        <tran loc="ar">الأصدقاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenu"; title = "Buddies"; ObjectID = "257"; </Description>
+      <Position>257.title</Position>
+      <TranslationSet>
+        <base loc="en">Buddies</base>
+        <tran loc="ar">الأصدقاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Send Message"; ObjectID = "YZe-um-gMw"; </Description>
+      <Position>YZe-um-gMw.title</Position>
+      <TranslationSet>
+        <base loc="en">Send Message</base>
+        <tran loc="ar">إرسال رسالة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Use Selection for Find"; ObjectID = "1155"; </Description>
+      <Position>1155.title</Position>
+      <TranslationSet>
+        <base loc="en">Use Selection for Find</base>
+        <tran loc="ar">استخدام التحديد للبحث</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Copy Style"; ObjectID = "1100"; </Description>
+      <Position>1100.title</Position>
+      <TranslationSet>
+        <base loc="en">Copy Style</base>
+        <tran loc="ar">نسخ النمط</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Zoom"; ObjectID = "140"; </Description>
+      <Position>140.title</Position>
+      <TranslationSet>
+        <base loc="en">Zoom</base>
+        <tran loc="ar">تكبير/تصغير</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Data Detectors"; ObjectID = "1669"; </Description>
+      <Position>1669.title</Position>
+      <TranslationSet>
+        <base loc="en">Data Detectors</base>
+        <tran loc="ar">عناصر كشف البيانات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Undo"; ObjectID = "22"; </Description>
+      <Position>22.title</Position>
+      <TranslationSet>
+        <base loc="en">Undo</base>
+        <tran loc="ar">تراجع</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Close Window"; ObjectID = "86"; </Description>
+      <Position>86.title</Position>
+      <TranslationSet>
+        <base loc="en">Close Window</base>
+        <tran loc="ar">إغلاق النافذة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Find Next"; ObjectID = "1156"; </Description>
+      <Position>1156.title</Position>
+      <TranslationSet>
+        <base loc="en">Find Next</base>
+        <tran loc="ar">بحث عن التالي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Use Alerts in This Conversation"; ObjectID = "1555"; </Description>
+      <Position>1555.title</Position>
+      <TranslationSet>
+        <base loc="en">Use Alerts in This Conversation</base>
+        <tran loc="ar">استخدام التنبيهات في هذه المحادثة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Preferences…"; ObjectID = "225"; </Description>
+      <Position>225.title</Position>
+      <TranslationSet>
+        <base loc="en">Preferences…</base>
+        <tran loc="ar">تفضيلات…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Minimize"; ObjectID = "1604"; </Description>
+      <Position>1604.title</Position>
+      <TranslationSet>
+        <base loc="en">Minimize</base>
+        <tran loc="ar">تصغير</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Paste and Match Style"; ObjectID = "1259"; </Description>
+      <Position>1259.title</Position>
+      <TranslationSet>
+        <base loc="en">Paste and Match Style</base>
+        <tran loc="ar">لصق ومطابقة النمط</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Check Grammar With Spelling"; ObjectID = "1613"; </Description>
+      <Position>1613.title</Position>
+      <TranslationSet>
+        <base loc="en">Check Grammar With Spelling</base>
+        <tran loc="ar">تحقق من التدقيق النحوي مع التدقيق الإملائي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Hide Others"; ObjectID = "232"; </Description>
+      <Position>232.title</Position>
+      <TranslationSet>
+        <base loc="en">Hide Others</base>
+        <tran loc="ar">إخفاء الأخرى</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Redo"; ObjectID = "112"; </Description>
+      <Position>112.title</Position>
+      <TranslationSet>
+        <base loc="en">Redo</base>
+        <tran loc="ar">إعادة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Sort Conversations"; ObjectID = "1853"; </Description>
+      <Position>1853.title</Position>
+      <TranslationSet>
+        <base loc="en">Sort Conversations</base>
+        <tran loc="ar">فرز المحادثات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenu"; title = "Sort Conversations"; ObjectID = "1854"; </Description>
+      <Position>1854.title</Position>
+      <TranslationSet>
+        <base loc="en">Sort Conversations</base>
+        <tran loc="ar">فرز المحادثات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Close Conversation"; ObjectID = "1308"; </Description>
+      <Position>1308.title</Position>
+      <TranslationSet>
+        <base loc="en">Close Conversation</base>
+        <tran loc="ar">إغلاق المحادثة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Emoji"; ObjectID = "1900"; </Description>
+      <Position>1900.title</Position>
+      <TranslationSet>
+        <base loc="en">Emoji</base>
+        <tran loc="ar">إيموجي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Ask to Share Screen"; ObjectID = "Imn-tl-kir"; </Description>
+      <Position>Imn-tl-kir.title</Position>
+      <TranslationSet>
+        <base loc="en">Ask to Share Screen</base>
+        <tran loc="ar">طلب مشاركة الشاشة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Enable Diagnostics Mode"; ObjectID = "1897"; </Description>
+      <Position>1897.title</Position>
+      <TranslationSet>
+        <base loc="en">Enable Diagnostics Mode</base>
+        <tran loc="ar">تمكين وضع التشخيصات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Block Person…"; ObjectID = "1124"; </Description>
+      <Position>1124.title</Position>
+      <TranslationSet>
+        <base loc="en">Block Person…</base>
+        <tran loc="ar">حظر الشخص…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Smart Copy/Paste"; ObjectID = "1628"; </Description>
+      <Position>1628.title</Position>
+      <TranslationSet>
+        <base loc="en">Smart Copy/Paste</base>
+        <tran loc="ar">النسخ/اللصق الذكي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Copy"; ObjectID = "4"; </Description>
+      <Position>4.title</Position>
+      <TranslationSet>
+        <base loc="en">Copy</base>
+        <tran loc="ar">نسخ</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenu"; title = "Find"; ObjectID = "1152"; </Description>
+      <Position>1152.title</Position>
+      <TranslationSet>
+        <base loc="en">Find</base>
+        <tran loc="ar">بحث</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Find"; ObjectID = "1153"; </Description>
+      <Position>1153.title</Position>
+      <TranslationSet>
+        <base loc="en">Find</base>
+        <tran loc="ar">بحث</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Messages Help"; ObjectID = "138"; </Description>
+      <Position>138.title</Position>
+      <TranslationSet>
+        <base loc="en">Messages Help</base>
+        <tran loc="ar">مساعدة الرسائل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Make Text Normal Size"; ObjectID = "1485"; </Description>
+      <Position>1485.title</Position>
+      <TranslationSet>
+        <base loc="en">Make Text Normal Size</base>
+        <tran loc="ar">جعل النص بالحجم العادي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Quit Messages"; ObjectID = "226"; </Description>
+      <Position>226.title</Position>
+      <TranslationSet>
+        <base loc="en">Quit Messages</base>
+        <tran loc="ar">إنهاء الرسائل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Send Email…"; ObjectID = "445"; </Description>
+      <Position>445.title</Position>
+      <TranslationSet>
+        <base loc="en">Send Email…</base>
+        <tran loc="ar">إرسال بريد إلكتروني…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Send File…"; ObjectID = "415"; </Description>
+      <Position>415.title</Position>
+      <TranslationSet>
+        <base loc="en">Send File…</base>
+        <tran loc="ar">إرسال ملف…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Delete Conversation…"; ObjectID = "1861"; </Description>
+      <Position>1861.title</Position>
+      <TranslationSet>
+        <base loc="en">Delete Conversation…</base>
+        <tran loc="ar">حذف المحادثة…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Substitutions"; ObjectID = "1626"; </Description>
+      <Position>1626.title</Position>
+      <TranslationSet>
+        <base loc="en">Substitutions</base>
+        <tran loc="ar">البدائل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenu"; title = "Substitutions"; ObjectID = "1627"; </Description>
+      <Position>1627.title</Position>
+      <TranslationSet>
+        <base loc="en">Substitutions</base>
+        <tran loc="ar">البدائل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenu"; title = "MainMenu"; ObjectID = "29"; </Description>
+      <Position>29.title</Position>
+      <TranslationSet>
+        <base loc="en">MainMenu</base>
+        <tran loc="ar">MainMenu</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Manually"; ObjectID = "1856"; </Description>
+      <Position>1856.title</Position>
+      <TranslationSet>
+        <base loc="en">Manually</base>
+        <tran loc="ar">يدويًا</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Start Speaking"; ObjectID = "1636"; </Description>
+      <Position>1636.title</Position>
+      <TranslationSet>
+        <base loc="en">Start Speaking</base>
+        <tran loc="ar">بدء التكلم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Import From Device &lt;DO NOT LOCALIZE&gt;"; ObjectID = "3ZZ-y0-691"; </Description>
+      <Position>3ZZ-y0-691.title</Position>
+      <TranslationSet>
+        <base loc="en">Import From Device &lt;DO NOT LOCALIZE&gt;</base>
+        <tran loc="ar">Import From Device &lt;DO NOT LOCALIZE&gt;</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Window"; ObjectID = "19"; </Description>
+      <Position>19.title</Position>
+      <TranslationSet>
+        <base loc="en">Window</base>
+        <tran loc="ar">نافذة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenu"; title = "Window"; ObjectID = "24"; </Description>
+      <Position>24.title</Position>
+      <TranslationSet>
+        <base loc="en">Window</base>
+        <tran loc="ar">نافذة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Select All"; ObjectID = "11"; </Description>
+      <Position>11.title</Position>
+      <TranslationSet>
+        <base loc="en">Select All</base>
+        <tran loc="ar">تحديد الكل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Help"; ObjectID = "136"; </Description>
+      <Position>136.title</Position>
+      <TranslationSet>
+        <base loc="en">Help</base>
+        <tran loc="ar">مساعدة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenu"; title = "Help"; ObjectID = "137"; </Description>
+      <Position>137.title</Position>
+      <TranslationSet>
+        <base loc="en">Help</base>
+        <tran loc="ar">مساعدة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Complete"; ObjectID = "1611"; </Description>
+      <Position>1611.title</Position>
+      <TranslationSet>
+        <base loc="en">Complete</base>
+        <tran loc="ar">إكمال</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Cut"; ObjectID = "110"; </Description>
+      <Position>110.title</Position>
+      <TranslationSet>
+        <base loc="en">Cut</base>
+        <tran loc="ar">قص</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Full Screen"; ObjectID = "1840"; </Description>
+      <Position>1840.title</Position>
+      <TranslationSet>
+        <base loc="en">Full Screen</base>
+        <tran loc="ar">ملء الشاشة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Smart Links"; ObjectID = "1630"; </Description>
+      <Position>1630.title</Position>
+      <TranslationSet>
+        <base loc="en">Smart Links</base>
+        <tran loc="ar">الروابط الذكية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Find…"; ObjectID = "1150"; </Description>
+      <Position>1150.title</Position>
+      <TranslationSet>
+        <base loc="en">Find…</base>
+        <tran loc="ar">بحث…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Messages"; ObjectID = "1845"; </Description>
+      <Position>1845.title</Position>
+      <TranslationSet>
+        <base loc="en">Messages</base>
+        <tran loc="ar">الرسائل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "By Time"; ObjectID = "1855"; </Description>
+      <Position>1855.title</Position>
+      <TranslationSet>
+        <base loc="en">By Time</base>
+        <tran loc="ar">مع الوقت</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Export Conversation…"; ObjectID = "Yjr-7r-U2O"; </Description>
+      <Position>Yjr-7r-U2O.title</Position>
+      <TranslationSet>
+        <base loc="en">Export Conversation…</base>
+        <tran loc="ar">تصدير المحادثة…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Make Text Bigger"; ObjectID = "1483"; </Description>
+      <Position>1483.title</Position>
+      <TranslationSet>
+        <base loc="en">Make Text Bigger</base>
+        <tran loc="ar">تكبير النص</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Clear Transcript"; ObjectID = "1392"; </Description>
+      <Position>1392.title</Position>
+      <TranslationSet>
+        <base loc="en">Clear Transcript</base>
+        <tran loc="ar">مسح النص</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Check Spelling While Typing"; ObjectID = "930"; </Description>
+      <Position>930.title</Position>
+      <TranslationSet>
+        <base loc="en">Check Spelling While Typing</base>
+        <tran loc="ar">تحقق من التدقيق الإملائي أثناء الكتابة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Select Next Conversation"; ObjectID = "1358"; </Description>
+      <Position>1358.title</Position>
+      <TranslationSet>
+        <base loc="en">Select Next Conversation</base>
+        <tran loc="ar">تحديد المحادثة التالية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Speech"; ObjectID = "1634"; </Description>
+      <Position>1634.title</Position>
+      <TranslationSet>
+        <base loc="en">Speech</base>
+        <tran loc="ar">التكلم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenu"; title = "Speech"; ObjectID = "1635"; </Description>
+      <Position>1635.title</Position>
+      <TranslationSet>
+        <base loc="en">Speech</base>
+        <tran loc="ar">التكلم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Show in Contacts"; ObjectID = "983"; </Description>
+      <Position>983.title</Position>
+      <TranslationSet>
+        <base loc="en">Show in Contacts</base>
+        <tran loc="ar">إظهار في جهات الاتصال</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Smart Dashes"; ObjectID = "1658"; </Description>
+      <Position>1658.title</Position>
+      <TranslationSet>
+        <base loc="en">Smart Dashes</base>
+        <tran loc="ar">شرط ذكية</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>Messages_swift/System/Applications/Messages.app/Contents/Resources/en.lproj/iMessagePreferencesView.strings</Filepath>
+    <TextItem>
+      <Description> Class = "NSTabViewItem"; label = "Setup"; ObjectID = "IW3-cH-69t"; </Description>
+      <Position>IW3-cH-69t.label</Position>
+      <TranslationSet>
+        <base loc="en">Setup</base>
+        <tran loc="ar">إعداد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTabViewItem"; label = "Blocked"; ObjectID = "Uwh-Id-UQX"; </Description>
+      <Position>Uwh-Id-UQX.label</Position>
+      <TranslationSet>
+        <base loc="en">Blocked</base>
+        <tran loc="ar">محظور</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTabViewItem"; label = "Settings"; ObjectID = "g4m-kL-Y7G"; </Description>
+      <Position>g4m-kL-Y7G.label</Position>
+      <TranslationSet>
+        <base loc="en">Settings</base>
+        <tran loc="ar">الإعدادات</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>Messages_swift/System/Applications/Messages.app/Contents/PlugIns/Messages Share Extension.appex/Contents/Resources/en.lproj/MessagesView.strings</Filepath>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Send"; ObjectID = "bl0-uC-DUc"; </Description>
+      <Position>bl0-uC-DUc.title</Position>
+      <TranslationSet>
+        <base loc="en">Send</base>
+        <tran loc="ar">إرسال</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Cancel"; ObjectID = "Kik-Ct-Kwm"; </Description>
+      <Position>Kik-Ct-Kwm.title</Position>
+      <TranslationSet>
+        <base loc="en">Cancel</base>
+        <tran loc="ar">إلغاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Messages"; ObjectID = "hET-BP-hVE"; </Description>
+      <Position>hET-BP-hVE.title</Position>
+      <TranslationSet>
+        <base loc="en">Messages</base>
+        <tran loc="ar">الرسائل</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>Messages_swift/System/Applications/Messages.app/Contents/Resources/en.lproj/AliasSelectionViewController.strings</Filepath>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "iMessage"; ObjectID = "e7q-Bm-BWG"; </Description>
+      <Position>e7q-Bm-BWG.title</Position>
+      <TranslationSet>
+        <base loc="en">iMessage</base>
+        <tran loc="ar">‏iMessage</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Allow others to be notified when you have read their messages."; ObjectID = "337"; </Description>
+      <Position>337.title</Position>
+      <TranslationSet>
+        <base loc="en">Allow others to be notified when you have read their messages.</base>
+        <tran loc="ar">السماح بإبلاغ الآخرين عندما تقوم بقراءة رسائلهم.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Done"; ObjectID = "135"; </Description>
+      <Position>135.title</Position>
+      <TranslationSet>
+        <base loc="en">Done</base>
+        <tran loc="ar">تم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Resend Email ➲"; ObjectID = "1356"; </Description>
+      <Position>1356.title</Position>
+      <TranslationSet>
+        <base loc="en">Resend Email ➲</base>
+        <tran loc="ar">إعادة إرسال بريد إلكتروني ➲</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Go Back"; ObjectID = "285"; </Description>
+      <Position>285.title</Position>
+      <TranslationSet>
+        <base loc="en">Go Back</base>
+        <tran loc="ar">انتقال للخلف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; placeholderString = "user@example.com"; ObjectID = "1337"; </Description>
+      <Position>1337.placeholderString</Position>
+      <TranslationSet>
+        <base loc="en">user@example.com</base>
+        <tran loc="ar">user@example.com</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Send read receipts"; ObjectID = "338"; </Description>
+      <Position>338.title</Position>
+      <TranslationSet>
+        <base loc="en">Send read receipts</base>
+        <tran loc="ar">إرسال إيصالات القراءة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "This address is unverified. An email with a verification link has been sent to the above address. If you did not receive an email, please go back and sign in again."; ObjectID = "956"; </Description>
+      <Position>956.title</Position>
+      <TranslationSet>
+        <base loc="en">This address is unverified. An email with a verification link has been sent to the above address. If you did not receive an email, please go back and sign in again.</base>
+        <tran loc="ar">هذا العنوان لم يتم التحقق منه. تم إرسال رسالة بريد إلكتروني مع رابط التحقق إلى عنوان البريد الإلكتروني أعلاه. إذا لم تستلم البريد الإلكتروني، الرجاء الرجوع وتسجيل الدخول مرة أخرى.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "You can be reached for messages at:"; ObjectID = "313"; </Description>
+      <Position>313.title</Position>
+      <TranslationSet>
+        <base loc="en">You can be reached for messages at:</base>
+        <tran loc="ar">يمكن مراسلتك على الرسائل على:</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "&lt;&lt;Do Not Localize&gt;&gt;"; ObjectID = "213"; </Description>
+      <Position>213.title</Position>
+      <TranslationSet>
+        <base loc="en">&lt;&lt;Do Not Localize&gt;&gt;</base>
+        <tran loc="ar">&lt;&lt;Do Not Localize&gt;&gt;</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "&lt;&lt;Do Not Localize&gt;&gt;"; ObjectID = "40"; </Description>
+      <Position>40.title</Position>
+      <TranslationSet>
+        <base loc="en">&lt;&lt;Do Not Localize&gt;&gt;</base>
+        <tran loc="ar">&lt;&lt;Do Not Localize&gt;&gt;</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "150"; </Description>
+      <Position>150.title</Position>
+      <TranslationSet>
+        <base loc="en">Text Cell</base>
+        <tran loc="ar">Text Cell</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>Messages_swift/System/Applications/Messages.app/Contents/Resources/en.lproj/SyncProgressViewController.strings</Filepath>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "User Action"; ObjectID = "PrU-zn-Tpa"; </Description>
+      <Position>PrU-zn-Tpa.title</Position>
+      <TranslationSet>
+        <base loc="en">User Action</base>
+        <tran loc="ar">إجراء المستخدم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "User Action Label"; ObjectID = "pR9-4Z-bj1"; </Description>
+      <Position>pR9-4Z-bj1.title</Position>
+      <TranslationSet>
+        <base loc="en">User Action Label</base>
+        <tran loc="ar">عنوان إجراء المستخدم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Top Label"; ObjectID = "MEL-Or-cYy"; </Description>
+      <Position>MEL-Or-cYy.title</Position>
+      <TranslationSet>
+        <base loc="en">Top Label</base>
+        <tran loc="ar">العنوان العلوي</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>Messages_swift/System/Applications/Messages.app/Contents/Resources/en.lproj/InviteSheet.strings</Filepath>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Invite"; ObjectID = "743"; </Description>
+      <Position>743.title</Position>
+      <TranslationSet>
+        <base loc="en">Invite</base>
+        <tran loc="ar">دعوة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Cancel"; ObjectID = "741"; </Description>
+      <Position>741.title</Position>
+      <TranslationSet>
+        <base loc="en">Cancel</base>
+        <tran loc="ar">إلغاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSWindow"; title = "Invitation Message"; ObjectID = "142"; </Description>
+      <Position>142.title</Position>
+      <TranslationSet>
+        <base loc="en">Invitation Message</base>
+        <tran loc="ar">رسالة دعوة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Enter the invitation message:"; ObjectID = "742"; </Description>
+      <Position>742.title</Position>
+      <TranslationSet>
+        <base loc="en">Enter the invitation message:</base>
+        <tran loc="ar">إدخال رسالة الدعوة:</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>Messages_swift/System/Library/QuickLook/iChat.qlgenerator/Contents/Resources/en.lproj/InfoPlist.strings</Filepath>
+    <TextItem>
+      <Description> Localized versions of Info.plist keys 
+ Copyright notice for the About panel (note the \n to put "All rights reserved" on a new line) </Description>
+      <Position>NSHumanReadableCopyright</Position>
+      <TranslationSet>
+        <base loc="en">Copyright © 2002-2019 Apple Inc.\nAll rights reserved.</base>
+        <tran loc="ar">‏‎Copyright © 2002-2019 Apple Inc.‎\n‏ كافة الحقوق محفوظة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CFBundleName</Position>
+      <TranslationSet>
+        <base loc="en">Messages Preview Generator</base>
+        <tran loc="ar">منشئ معاينة الرسائل</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>Messages_swift/System/Applications/Messages.app/Contents/Resources/en.lproj/InfoPlist.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>Chat transcript</Position>
+      <TranslationSet>
+        <base loc="en">Chat transcript</base>
+        <tran loc="ar">نص الدردشة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>NSLocationUsageDescription</Position>
+      <TranslationSet>
+        <base loc="en">Your location may be shown on the map.</base>
+        <tran loc="ar">يمكن لموقعك أن يظهر على الخريطة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>MDItemKeywords</Position>
+      <TranslationSet>
+        <base loc="en">iChat iMessage</base>
+        <tran loc="ar">iChat iMessage</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CFBundleHelpBookFolder</Position>
+      <TranslationSet>
+        <base loc="en">iChat.help</base>
+        <tran loc="ar">iChat.help</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Localized versions of Info.plist keys 
+ Copyright notice for the About box and Get Info panel </Description>
+      <Position>NSHumanReadableCopyright</Position>
+      <TranslationSet>
+        <base loc="en">Copyright © 2002–2019 Apple Inc. All rights reserved.</base>
+        <tran loc="ar">‏Copyright © 2002–2019 Apple Inc.‎ كافة الحقوق محفوظة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> the human-readable name for the XMPP URL type (xmpp:) </Description>
+      <Position>XMPP</Position>
+      <TranslationSet>
+        <base loc="en">Jabber</base>
+        <tran loc="ar">‏Jabber</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CFBundleDisplayName</Position>
+      <TranslationSet>
+        <base loc="en">Messages</base>
+        <tran loc="ar">الرسائل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CFBundleName</Position>
+      <TranslationSet>
+        <base loc="en">Messages</base>
+        <tran loc="ar">الرسائل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>NSRTFDPboardType</Position>
+      <TranslationSet>
+        <base loc="en">Rich Text Format (RTFD)</base>
+        <tran loc="ar">تنسيق (Rich Text Format (RTFD</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>Messages_swift/System/Applications/Messages.app/Contents/Resources/en.lproj/SignInViewController.strings</Filepath>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "iMessage"; ObjectID = "28h-iP-qnG"; </Description>
+      <Position>28h-iP-qnG.title</Position>
+      <TranslationSet>
+        <base loc="en">iMessage</base>
+        <tran loc="ar">‏iMessage</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Sign in with your Apple ID to send unlimited messages to\nany Mac, iPhone, iPad, or iPod touch right from your Mac."; ObjectID = "18"; </Description>
+      <Position>18.title</Position>
+      <TranslationSet>
+        <base loc="en">Sign in with your Apple ID to send unlimited messages to\nany Mac, iPhone, iPad, or iPod touch right from your Mac.</base>
+        <tran loc="ar">قم بتسجيل الدخول باستخدام Apple ID الخاص بك لإرسال عدد غير محدود من الرسائل\nإلى أي Mac‏، iPhone‏، iPad أو iPod touch من الـ Mac الخاص بك مباشرة.</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>Messages_swift/System/Applications/Messages.app/Contents/PlugIns/Messages Storage Management Extension.appex/Contents/Resources/en.lproj/MessagesStorageManagementExtensionLocalizable.strings</Filepath>
+    <TextItem>
+      <Description> Attachment type: Photo </Description>
+      <Position>ATTACHMENT_CLASS_PHOTO</Position>
+      <TranslationSet>
+        <base loc="en">Photo</base>
+        <tran loc="ar">صورة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Attachment type: Other attachment types </Description>
+      <Position>ATTACHMENT_CLASS_OTHER</Position>
+      <TranslationSet>
+        <base loc="en">Other Attachment</base>
+        <tran loc="ar">مرفق آخر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Open Messages application localizable string for storage UI header </Description>
+      <Position>OPEN_MESSAGES</Position>
+      <TranslationSet>
+        <base loc="en">Open Messages</base>
+        <tran loc="ar">فتح الرسائل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Attachment type: GIF or sticker </Description>
+      <Position>ATTACHMENT_CLASS_GIFORSTICKER</Position>
+      <TranslationSet>
+        <base loc="en">GIF / Sticker</base>
+        <tran loc="ar">ملصق / GIF</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Attachment type: Video </Description>
+      <Position>ATTACHMENT_CLASS_VIDEO</Position>
+      <TranslationSet>
+        <base loc="en">Video</base>
+        <tran loc="ar">فيديو</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+</Proj>

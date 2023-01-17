@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Proj>
+  <ProjName>AskPermission</ProjName>
+  <File>
+    <Filepath>AskPermission/System/Library/UserNotifications/Bundles/com.apple.askpermission.notifications.bundle/en.lproj/InfoPlist.strings</Filepath>
+    <TextItem>
+      <Description> 
+  InfoPlist.strings
+  AskPermission
+
+  Created by Aviv Miron on 1/24/19.
+  Copyright © 2019 Apple Inc. All rights reserved.
+</Description>
+      <Position>CFBundleDisplayName</Position>
+      <TranslationSet>
+        <base loc="en">Family</base>
+        <tran loc="ar">العائلة</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>AskPermission/System/Library/PrivateFrameworks/AskPermission.framework/en.lproj/Localizable.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>ACTION_APPROVE_ROW</Position>
+      <TranslationSet>
+        <base loc="en">Purchase</base>
+        <tran loc="ar">شراء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AUTHENTICATION_OPTIN_DIALOG_BODY_FACEID</Position>
+      <TranslationSet>
+        <base loc="en">You can use Face\U00A0ID instead of your password when approving requests.</base>
+        <tran loc="ar">يمكنك استخدام Face ID بدلًا من كلمة السر عند الموافقة على الطلبات.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AUTHENTICATION_OPTIN_DIALOG_TITLE_TOUCHID</Position>
+      <TranslationSet>
+        <base loc="en">Enable Touch\U00A0ID for\nFamily Sharing?</base>
+        <tran loc="ar">هل تريد تمكين Touch ID\nللمشاركة العائلية؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AUTHENTICATION_PROMPT_TITLE_APPROVE_REMOTE</Position>
+      <TranslationSet>
+        <base loc="en">Sign In to Approve</base>
+        <tran loc="ar">تسجيل الدخول للموافقة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AUTHENTICATION_OPTIN_DIALOG_BUTTON_APPROVE</Position>
+      <TranslationSet>
+        <base loc="en">Enable</base>
+        <tran loc="ar">تمكين</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Notifications</Description>
+      <Position>NOTIFICATION_ACTION_DETAILS</Position>
+      <TranslationSet>
+        <base loc="en">Details</base>
+        <tran loc="ar">التفاصيل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 
+  Localizable.strings
+  AskPermission
+
+  Created by Aviv Miron on 1/4/19.
+  Copyright © 2019 Apple Inc. All rights reserved.
+
+
+ IMPORTANT
+ Legal requires countries other than United States and Canada to use "Purchase" instead of "Approve".
+ Use ROW (rest of world) suffix appropriately.
+ 
+ Actions</Description>
+      <Position>ACTION_APPROVE</Position>
+      <TranslationSet>
+        <base loc="en">Approve</base>
+        <tran loc="ar">موافقة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Product window</Description>
+      <Position>PRODUCT_WINDOW_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Family</base>
+        <tran loc="ar">العائلة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AUTHENTICATION_PROMPT_TITLE_APPROVE_LOCAL</Position>
+      <TranslationSet>
+        <base loc="en">Approve on This Device</base>
+        <tran loc="ar">الموافقة على هذا الجهاز</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AUTHENTICATION_PROMPT_BODY_LOCAL</Position>
+      <TranslationSet>
+        <base loc="en">A parent or guardian must enter their iCloud Apple\U00A0ID and password to approve this purchase.</base>
+        <tran loc="ar">يجب أن يقوم ولي الأمر أو أحد الوالدين بإدخال Apple ID وكلمة السر لحساب iCloud الخاص به للموافقة على عملية الشراء هذه.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Authentication</Description>
+      <Position>AUTHENTICATION_ACTION_APPROVE</Position>
+      <TranslationSet>
+        <base loc="en">approve</base>
+        <tran loc="ar">موافقة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AUTHENTICATION_PROMPT_TITLE_APPROVE_LOCAL_ROW</Position>
+      <TranslationSet>
+        <base loc="en">Purchase on This Device</base>
+        <tran loc="ar">الشراء على هذا الجهاز</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DEFAULT_ERROR_MESSAGE</Position>
+      <TranslationSet>
+        <base loc="en">An unknown error occurred. Please try again.</base>
+        <tran loc="ar">حدث خطأ غير معروف. الرجاء المحاولة مرة أخرى.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ACTION_OK</Position>
+      <TranslationSet>
+        <base loc="en">OK</base>
+        <tran loc="ar">موافق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Errors</Description>
+      <Position>DEFAULT_ERROR_ACTION</Position>
+      <TranslationSet>
+        <base loc="en">OK</base>
+        <tran loc="ar">موافق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AUTHENTICATION_PROMPT_TITLE_APPROVE_REMOTE_ROW</Position>
+      <TranslationSet>
+        <base loc="en">Sign In to Purchase</base>
+        <tran loc="ar">تسجيل الدخول للشراء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>NOTIFICATION_TITLE_REQUESTER_APPROVED</Position>
+      <TranslationSet>
+        <base loc="en">Request approved by %@</base>
+        <tran loc="ar">تمت الموافقة على الطلب من قِبل %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>NOTIFICATION_TITLE_REQUESTER_DECLINED</Position>
+      <TranslationSet>
+        <base loc="en">Request declined by %@</base>
+        <tran loc="ar">تم رفض الطلب من قِبل %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AUTHENTICATION_OPTIN_DIALOG_BODY_TOUCHID</Position>
+      <TranslationSet>
+        <base loc="en">You can use Touch\U00A0ID instead of your password when approving requests.</base>
+        <tran loc="ar">يمكنك استخدام Touch ID بدلاً من كلمة السر عند الموافقة على الطلبات.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AUTHENTICATION_OPTIN_DIALOG_TITLE_FACEID</Position>
+      <TranslationSet>
+        <base loc="en">Enable Face\U00A0ID for\nFamily Sharing?</base>
+        <tran loc="ar">هل تريد تمكين Face ID\nللمشاركة العائلية؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ACTION_DECLINE</Position>
+      <TranslationSet>
+        <base loc="en">Decline</base>
+        <tran loc="ar">رفض</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AUTHENTICATION_PROMPT_BODY_REMOTE</Position>
+      <TranslationSet>
+        <base loc="en">Enter the iCloud Apple\U00A0ID password for “%@”</base>
+        <tran loc="ar">أدخل كلمة سر Apple ID لحساب iCloud الخاص بـ "%@"</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AUTHENTICATION_OPTIN_DIALOG_BUTTON_DECLINE</Position>
+      <TranslationSet>
+        <base loc="en">Not Now</base>
+        <tran loc="ar">ليس الآن</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>NOTIFICATION_ACTION_DISMISS</Position>
+      <TranslationSet>
+        <base loc="en">Not Now</base>
+        <tran loc="ar">ليس الآن</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AUTHENTICATION_PROMPT_TITLE_DECLINE_REMOTE</Position>
+      <TranslationSet>
+        <base loc="en">Sign In to Decline</base>
+        <tran loc="ar">تسجيل الدخول للرفض</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DEFAULT_ERROR_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Unknown Error</base>
+        <tran loc="ar">خطأ غير معروف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AUTHENTICATION_ACTION_APPROVE_ROW</Position>
+      <TranslationSet>
+        <base loc="en">purchase</base>
+        <tran loc="ar">شراء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>NOTIFICATION_TITLE_APPROVER</Position>
+      <TranslationSet>
+        <base loc="en">Request from %@</base>
+        <tran loc="ar">طلب من %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AUTHENTICATION_ACTION_DECLINE</Position>
+      <TranslationSet>
+        <base loc="en">decline</base>
+        <tran loc="ar">رفض</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+</Proj>

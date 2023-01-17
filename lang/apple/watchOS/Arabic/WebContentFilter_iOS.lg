@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Proj>
+  <ProjName>WebContentFilter_iOS</ProjName>
+  <File>
+    <Filepath>WebContentFilter_iOS/System/Library/PrivateFrameworks/WebContentAnalysis.framework/English.lproj/blockpage.html</Filepath>
+  </File>
+  <File>
+    <Filepath>WebContentFilter_iOS/Applications/WebContentAnalysisUI.app/en.lproj/WebContentAnalysisUI.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>WRONG_1</Position>
+      <TranslationSet>
+        <base loc="en">Wrong Screen Time Passcode</base>
+        <tran loc="ar">رمز دخول ميزة مدة استخدام الجهاز غير صحيح</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ONE_MINUTE_TO_UNBLOCK</Position>
+      <TranslationSet>
+        <base loc="en">Try again in %@ minute</base>
+        <tran loc="ar">حاول مجددًا بعد دقيقة %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PMENTER</Position>
+      <TranslationSet>
+        <base loc="en">Enter Passcode</base>
+        <tran loc="ar">أدخل رمز الدخول</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description>
+ WebContentAnalysisUI.strings
+ WebContentAnalysis
+ 
+ Created by Christopher Jensen on 1/17/13.
+ Copyright (c) 2012 Apple Inc. All rights reserved.
+ 
+ general 
+ pincode strings </Description>
+      <Position>PINCODE_TITLE_LOCKED</Position>
+      <TranslationSet>
+        <base loc="en">Unblock Website</base>
+        <tran loc="ar">إلغاء حظر صفحة الويب</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>MULTIPLE_MINUTES_TO_UNBLOCK</Position>
+      <TranslationSet>
+        <base loc="en">Try again in %@ minutes</base>
+        <tran loc="ar">حاول مجددًا بعد %@ من الدقائق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>WRONG_2</Position>
+      <TranslationSet>
+        <base loc="en">Try again</base>
+        <tran loc="ar">حاول مرة أخرى</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CONFIRMATION_FAILURE</Position>
+      <TranslationSet>
+        <base loc="en">Passcodes did not match. Try again.</base>
+        <tran loc="ar">رمزا الدخول غير متطابقين. حاول مجددًا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ENTER_PIN</Position>
+      <TranslationSet>
+        <base loc="en">Enter Code</base>
+        <tran loc="ar">أدخل الرمز</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PMENTER_1_PROMPT</Position>
+      <TranslationSet>
+        <base loc="en">Enter Screen Time Passcode</base>
+        <tran loc="ar">أدخل رمز دخول ميزة مدة استخدام الجهاز</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PMENTER_PROMPT</Position>
+      <TranslationSet>
+        <base loc="en">Enter Screen Time Passcode</base>
+        <tran loc="ar">أدخل رمز دخول ميزة مدة استخدام الجهاز</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>WebContentFilter_iOS/System/Library/PrivateFrameworks/WebContentAnalysis.framework/English.lproj/blockpage-nooverride.html</Filepath>
+  </File>
+</Proj>

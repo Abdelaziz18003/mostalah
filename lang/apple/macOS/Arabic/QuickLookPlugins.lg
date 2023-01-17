@@ -1,0 +1,592 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Proj>
+  <ProjName>QuickLookPlugins</ProjName>
+  <File>
+    <Filepath>QuickLookPlugins/System/Library/Frameworks/Quartz.framework/Versions/A/Frameworks/QuickLookUI.framework/Versions/A/PlugIns/Movie.qldisplay/Contents/Resources/en.lproj/QLMediaExportWindow.strings</Filepath>
+    <TextItem>
+      <Description> Class = "NSWindow"; title = "`"; ObjectID = "QvC-M9-y7g"; </Description>
+      <Position>QvC-M9-y7g.title</Position>
+      <TranslationSet>
+        <base loc="en">`</base>
+        <tran loc="ar">`</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Cancel"; ObjectID = "pqx-i2-pMX"; </Description>
+      <Position>pqx-i2-pMX.title</Position>
+      <TranslationSet>
+        <base loc="en">Cancel</base>
+        <tran loc="ar">إلغاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "&lt;&lt;Do not localize&gt;&gt;"; ObjectID = "et9-oD-1dt"; </Description>
+      <Position>et9-oD-1dt.title</Position>
+      <TranslationSet>
+        <base loc="en">&lt;&lt;Do not localize&gt;&gt;</base>
+        <tran loc="ar">&lt;&lt;Do not localize&gt;&gt;</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>QuickLookPlugins/System/Library/Frameworks/QuickLook.framework/Versions/A/Resources/en.lproj/PlugIns.strings</Filepath>
+    <TextItem>
+      <Description> Don't close movie/audio panel button title </Description>
+      <Position>Don't Close</Position>
+      <TranslationSet>
+        <base loc="en">Don't Close</base>
+        <tran loc="ar">عدم الإغلاق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Album field displayed in Music preview </Description>
+      <Position>Album</Position>
+      <TranslationSet>
+        <base loc="en">Album</base>
+        <tran loc="ar">ألبوم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Displayed when previewing a vcard containing more than 1 entries. %i is the number of contacts </Description>
+      <Position>%i contacts</Position>
+      <TranslationSet>
+        <base loc="en">%i contacts</base>
+        <tran loc="ar">%i من جهات الاتصال</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Text displayed in the generic display bundle when previewing a locked PDF file. </Description>
+      <Position>The file can not be previewed because it is protected by a password.</Position>
+      <TranslationSet>
+        <base loc="en">The file can not be previewed because it is protected by a password.</base>
+        <tran loc="ar">لا يمكن معاينة الملف نظرًا لأنه محمي بكلمة سر.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> String display next to file name if the text file preview was shortened (%@ is the size). </Description>
+      <Position>showing %@ of %@</Position>
+      <TranslationSet>
+        <base loc="en">showing %1$@ of %2$@</base>
+        <tran loc="ar">إظهار %1$@ من %2$@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Format to display the version number, %@ is the version (like 2.0.1) </Description>
+      <Position>Version %@</Position>
+      <TranslationSet>
+        <base loc="en">Version %@</base>
+        <tran loc="ar">الإصدار %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Displayed in Calendar events preview </Description>
+      <Position>Tomorrow</Position>
+      <TranslationSet>
+        <base loc="en">Tomorrow</base>
+        <tran loc="ar">غدًا</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Title used for Address Book group preview when group has no name </Description>
+      <Position>Group</Position>
+      <TranslationSet>
+        <base loc="en">Group</base>
+        <tran loc="ar">مجموعة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Pick a destination to save a new clip </Description>
+      <Position>New Clip</Position>
+      <TranslationSet>
+        <base loc="en">New Clip</base>
+        <tran loc="ar">مقطع جديد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Due for To Do thumbnail </Description>
+      <Position>Due: %@</Position>
+      <TranslationSet>
+        <base loc="en">Due: %@</base>
+        <tran loc="ar">تاريخ الاستحقاق: %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> A complete date &amp; time description. %@ is the time eg. \"tomorrow at 12:42 pm\" </Description>
+      <Position>Tomorrow %@</Position>
+      <TranslationSet>
+        <base loc="en">Tomorrow %@</base>
+        <tran loc="ar">غدًا %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Folder Quick Look panel when folder contains only one item. %@ is the folder size </Description>
+      <Position>%@, 1 item</Position>
+      <TranslationSet>
+        <base loc="en">%@, 1 item</base>
+        <tran loc="ar">%@، عنصر واحد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Title of QL bubble when previewing coordinates </Description>
+      <Position>Latitude: %.4f°\nLongitude: %.4f°</Position>
+      <TranslationSet>
+        <base loc="en">Latitude: %1$.4f°\nLongitude: %2$.4f°</base>
+        <tran loc="ar">خط العرض: %1$.4f°‏\nخط الطول: %2$.4f°</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Folder Quick Look panel when folder doesn't contain any item. %@ is the folder size </Description>
+      <Position>%@, no items</Position>
+      <TranslationSet>
+        <base loc="en">%@, no items</base>
+        <tran loc="ar">%@، بلا عناصر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Bits Per Sample field displayed in Music preview </Description>
+      <Position>Bits per Sample</Position>
+      <TranslationSet>
+        <base loc="en">Bits per Sample</base>
+        <tran loc="ar">وحدات البت لكل عينة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Directions button title in map bubble (capitalized) </Description>
+      <Position>Directions</Position>
+      <TranslationSet>
+        <base loc="en">Directions</base>
+        <tran loc="ar">الاتجاهات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Displayed in Calendar events preview </Description>
+      <Position>Yesterday</Position>
+      <TranslationSet>
+        <base loc="en">Yesterday</base>
+        <tran loc="ar">أمس</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Modified label for attributes slice in Spotlight mode </Description>
+      <Position>Modified</Position>
+      <TranslationSet>
+        <base loc="en">Modified</base>
+        <tran loc="ar">تم التعديل في</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Save Changes Title </Description>
+      <Position>Do you want to save the changes made to the document \"%@\"?</Position>
+      <TranslationSet>
+        <base loc="en">Do you want to save the changes made to the document \"%@\"?</base>
+        <tran loc="ar">هل ترغب في حفظ التغييرات التي تمت في المستند \"%@\"؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Close movie/audio panel discarding changes button title </Description>
+      <Position>Close Anyway</Position>
+      <TranslationSet>
+        <base loc="en">Close Anyway</base>
+        <tran loc="ar">إغلاق على أي حال</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Disk volume Quick Look panel. First %@ is the volume total size. Second %@ is the free available size </Description>
+      <Position>%1$@, %2$@ available</Position>
+      <TranslationSet>
+        <base loc="en">%1$@, %2$@ available</base>
+        <tran loc="ar">‏%1$@، متوفر %2$@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Folder/App size when the size is not yet computed </Description>
+      <Position>Calculating size\\U2026</Position>
+      <TranslationSet>
+        <base loc="en">Calculating size…</base>
+        <tran loc="ar">يتم الآن حساب الحجم...</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Window close alert title </Description>
+      <Position>Pending trim changes</Position>
+      <TranslationSet>
+        <base loc="en">Pending trim changes</base>
+        <tran loc="ar">تغييرات القص المعلقة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Accessibility value description attribute when Quick Look panel displays a music or audio preview </Description>
+      <Position>Track Information</Position>
+      <TranslationSet>
+        <base loc="en">Track Information</base>
+        <tran loc="ar">معلومات المسار</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Message displayed in the generic preview when an error occurred while displaying a preview (usually when the remote process crashes). </Description>
+      <Position>An error occurred with the preview of this document. It may be damaged or use a file format that Quick Look doesn’t recognize.</Position>
+      <TranslationSet>
+        <base loc="en">An error occurred with the preview of this document. It may be damaged or use a file format that Quick Look doesn’t recognize.</base>
+        <tran loc="ar">حدث خطأ في معاينة هذا المستند. قد يكون تالفًا أو يستخدم تنسيق ملفات لا تتعرف عليه المعاينة السريعة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Duration field displayed in Music preview </Description>
+      <Position>Duration</Position>
+      <TranslationSet>
+        <base loc="en">Duration</base>
+        <tran loc="ar">المدة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Accessibility Label for the PDF Page preview in the PDF Display Bundle. </Description>
+      <Position>Page %lu</Position>
+      <TranslationSet>
+        <base loc="en">Page %lu</base>
+        <tran loc="ar">صفحة %lu</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Text displayed in the generic display bundle when previewing a DRMed media only authorized in specific applications (iTunes and QT Player). </Description>
+      <Position>Protected music can only be played with Music or QuickTime Player.</Position>
+      <TranslationSet>
+        <base loc="en">Protected music can only be played with Music or QuickTime Player.</base>
+        <tran loc="ar">لا يمكن تشغيل الموسيقى المحمية سوى باستخدام تطبيق الموسيقى أو QuickTime Player.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Cancel alert button to open the item in Quick Look panel
+   Exit trim save destination alert Cancel button title </Description>
+      <Position>Cancel</Position>
+      <TranslationSet>
+        <base loc="en">Cancel</base>
+        <tran loc="ar">إلغاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Accessibility Label for Play/Pause for overlay buttons </Description>
+      <Position>Play</Position>
+      <TranslationSet>
+        <base loc="en">Play</base>
+        <tran loc="ar">تشغيل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Message displayed when a document does not have any content to display. </Description>
+      <Position>The document has no displayable content.</Position>
+      <TranslationSet>
+        <base loc="en">The document has no displayable content.</base>
+        <tran loc="ar">ليس للمستند محتوى قابل للعرض.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Purchased date on App Store in generic display bundle. %@ is the formatted date </Description>
+      <Position>Purchased on %@</Position>
+      <TranslationSet>
+        <base loc="en">Purchased on %@</base>
+        <tran loc="ar">تم شراؤه في %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Disk volume Quick Look panel. First %@ is the volume total size. Second %@ is the free available size including purgeable size. Third %@ is the purgeable size </Description>
+      <Position>%1$@, %2$@ available (%3$@ purgeable)</Position>
+      <TranslationSet>
+        <base loc="en">%1$@, %2$@ available (%3$@ purgeable)</base>
+        <tran loc="ar">‏%1$@، متوفر %2$@ (%3$@ قابل للترقية)</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Displayed when previewing a vcard containing 1 entry. </Description>
+      <Position>1 contact</Position>
+      <TranslationSet>
+        <base loc="en">1 contact</base>
+        <tran loc="ar">جهة اتصال واحدة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> A complete date &amp; time description. First %@ is the date, second %@ is the time eg. \"29 jan. 2009 at 12:42 pm\"
+   modified date description for Music preview </Description>
+      <Position>%1$@ at %2$@</Position>
+      <TranslationSet>
+        <base loc="en">%1$@ at %2$@</base>
+        <tran loc="ar">‏%1$@ في %2$@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Artist field displayed in Music preview </Description>
+      <Position>Artist</Position>
+      <TranslationSet>
+        <base loc="en">Artist</base>
+        <tran loc="ar">فنان</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Accessibility value description attribute when Quick Look panel displays a generic preview </Description>
+      <Position>Generic Information</Position>
+      <TranslationSet>
+        <base loc="en">Generic Information</base>
+        <tran loc="ar">معلومات عامة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> A complete date &amp; time description. %@ is the time eg. \"today at 12:42 pm\" </Description>
+      <Position>Today %@</Position>
+      <TranslationSet>
+        <base loc="en">Today %@</base>
+        <tran loc="ar">اليوم %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> A complete date &amp; time description. %@ is the time eg. \"yesterday at 12:42 pm\" </Description>
+      <Position>Yesterday %@</Position>
+      <TranslationSet>
+        <base loc="en">Yesterday %@</base>
+        <tran loc="ar">أمس %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Displayed in Calendar events preview </Description>
+      <Position>Today</Position>
+      <TranslationSet>
+        <base loc="en">Today</base>
+        <tran loc="ar">اليوم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Replace current file </Description>
+      <Position>Replace</Position>
+      <TranslationSet>
+        <base loc="en">Replace</base>
+        <tran loc="ar">استبدال</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Text displayed in the generic display bundle when previewing a DRMed media only authorized in specific applications (iTunes and QT Player). </Description>
+      <Position>Protected videos can only be played with QuickTime Player or %@.</Position>
+      <TranslationSet>
+        <base loc="en">Protected videos can only be played with QuickTime Player or %@.</base>
+        <tran loc="ar">لا يمكن تشغيل الفيديوهات المحمية إلا باستخدام QuickTime Player أو %@.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Accessibility Label for Previous Page for overlay buttons </Description>
+      <Position>Previous Page</Position>
+      <TranslationSet>
+        <base loc="en">Previous Page</base>
+        <tran loc="ar">الصفحة السابقة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Accessibility Label for Next Page for overlay buttons </Description>
+      <Position>Next Page</Position>
+      <TranslationSet>
+        <base loc="en">Next Page</base>
+        <tran loc="ar">الصفحة التالية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Message displayed in HTTP previews because Quick Look does not allow preview of unsafe contents. </Description>
+      <Position>This preview cannot be safely displayed in Quick Look.</Position>
+      <TranslationSet>
+        <base loc="en">This preview cannot be safely displayed in Quick Look.</base>
+        <tran loc="ar">لا يمكن عرض هذه المعاينة بأمان في المعاينة السريعة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Title of Contact preview </Description>
+      <Position>Contact</Position>
+      <TranslationSet>
+        <base loc="en">Contact</base>
+        <tran loc="ar">جهة الاتصال</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Window close alert informative text </Description>
+      <Position>If you close the window before applying the trim selection you will lose the pending changes.</Position>
+      <TranslationSet>
+        <base loc="en">If you close the window before applying the trim selection you will lose the pending changes.</base>
+        <tran loc="ar">إذا قمت بإغلاق النافذة قبل تطبيق تحديد القص، فستفقد التغييرات المعلقة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Folder Quick Look panel when folder contains more than one item. First %@ is the folder size, Second %@ is the number of items </Description>
+      <Position>%1$@, %2$@ items</Position>
+      <TranslationSet>
+        <base loc="en">%1$@, %2$@ items</base>
+        <tran loc="ar">‏%1$@، ‏%2$@ عنصر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Save Changes Informative Text </Description>
+      <Position>You can choose to save your changes, or save as a new clip. You can’t undo this action.</Position>
+      <TranslationSet>
+        <base loc="en">You can choose to save your changes, or save as a new clip. You can’t undo this action.</base>
+        <tran loc="ar">يمكنك اختيار حفظ التغييرات أو الحفظ كمقطع جديد. لا يمكنك التراجع عن هذا الإجراء.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Message displayed in HTTP previews because Quick Look does not allow preview of protected sites. </Description>
+      <Position>You need to authenticate to access this page.</Position>
+      <TranslationSet>
+        <base loc="en">You need to authenticate to access this page.</base>
+        <tran loc="ar">يجب القيام بالمصادقة للوصول إلى هذه الصفحة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Displayed when previewing a vcard containing no entry. </Description>
+      <Position>No contact</Position>
+      <TranslationSet>
+        <base loc="en">No contact</base>
+        <tran loc="ar">بلا جهات اتصال</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Message displayed when a user tries to submit a form with Quick Look panel. </Description>
+      <Position>You can’t navigate within Quick Look. Do you want to open this item?</Position>
+      <TranslationSet>
+        <base loc="en">You can’t navigate within Quick Look. Do you want to open this item?</base>
+        <tran loc="ar">لا يمكنك التنقل خلال المعاينة السريعة. هل ترغب في فتح هذا العنصر؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Media export operation status description </Description>
+      <Position>Exporting...</Position>
+      <TranslationSet>
+        <base loc="en">Exporting...</base>
+        <tran loc="ar">جاري التصدير...</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Created label for attributes slice in Spotlight mode </Description>
+      <Position>Created</Position>
+      <TranslationSet>
+        <base loc="en">Created</base>
+        <tran loc="ar">تم الإنشاء في</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Time (Duration) field displayed in Music preview </Description>
+      <Position>Time</Position>
+      <TranslationSet>
+        <base loc="en">Time</base>
+        <tran loc="ar">الوقت</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Accessibility Label for the Image View in the Image Display Bundle. </Description>
+      <Position>Preview of %@</Position>
+      <TranslationSet>
+        <base loc="en">Preview of %@</base>
+        <tran loc="ar">معاينة %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> subtitle - size for Spolight Generic subtitle
+   subtitle - size for Spolight Music subtitle </Description>
+      <Position>%1$@ - %2$@</Position>
+      <TranslationSet>
+        <base loc="en">%1$@ - %2$@</base>
+        <tran loc="ar">‏%1$@ - %2$@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> App Store Parental control rating in Generic display bundle. %@ is the rating value </Description>
+      <Position>Rated %@</Position>
+      <TranslationSet>
+        <base loc="en">Rated %@</base>
+        <tran loc="ar">التقييم %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Sample Rate field displayed in Music preview </Description>
+      <Position>Sample Rate</Position>
+      <TranslationSet>
+        <base loc="en">Sample Rate</base>
+        <tran loc="ar">معدل العينة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Title for To Do previews </Description>
+      <Position>To Do</Position>
+      <TranslationSet>
+        <base loc="en">To Do</base>
+        <tran loc="ar">المهام المراد تنفيذها</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Last Opened label for attributes slice in Spotlight mode </Description>
+      <Position>Last Opened</Position>
+      <TranslationSet>
+        <base loc="en">Last Opened</base>
+        <tran loc="ar">تاريخ آخر فتح</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Title for reminder previews </Description>
+      <Position>Reminder</Position>
+      <TranslationSet>
+        <base loc="en">Reminder</base>
+        <tran loc="ar">التذكير</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> address label in map bubble (not capitalized) </Description>
+      <Position>address</Position>
+      <TranslationSet>
+        <base loc="en">address</base>
+        <tran loc="ar">العنوان</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Last modified date in generic display bundle. %@ is the formatted date </Description>
+      <Position>Last modified %@</Position>
+      <TranslationSet>
+        <base loc="en">Last modified %@</base>
+        <tran loc="ar">آخر تحديث %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Message displayed in HTTP image previews because Quick Look does not allow images that are too large. </Description>
+      <Position>The image is too large to be displayed in Quick Look.</Position>
+      <TranslationSet>
+        <base loc="en">The image is too large to be displayed in Quick Look.</base>
+        <tran loc="ar">الصورة أكبر من أن يتم عرضها في المعاينة السريعة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Open alert button to open the item in Quick Look panel </Description>
+      <Position>Open</Position>
+      <TranslationSet>
+        <base loc="en">Open</base>
+        <tran loc="ar">فتح</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>QuickLookPlugins/System/Library/Frameworks/Quartz.framework/Versions/A/Frameworks/QuickLookUI.framework/Versions/A/PlugIns/Music.qldisplay/Contents/Resources/en.lproj/QLMediaExportWindow.strings</Filepath>
+    <TextItem>
+      <Description> Class = "NSWindow"; title = "`"; ObjectID = "QvC-M9-y7g"; </Description>
+      <Position>QvC-M9-y7g.title</Position>
+      <TranslationSet>
+        <base loc="en">`</base>
+        <tran loc="ar">`</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Cancel"; ObjectID = "pqx-i2-pMX"; </Description>
+      <Position>pqx-i2-pMX.title</Position>
+      <TranslationSet>
+        <base loc="en">Cancel</base>
+        <tran loc="ar">إلغاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "&lt;&lt;Do not localize&gt;&gt;"; ObjectID = "et9-oD-1dt"; </Description>
+      <Position>et9-oD-1dt.title</Position>
+      <TranslationSet>
+        <base loc="en">&lt;&lt;Do not localize&gt;&gt;</base>
+        <tran loc="ar">&lt;&lt;Do not localize&gt;&gt;</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+</Proj>

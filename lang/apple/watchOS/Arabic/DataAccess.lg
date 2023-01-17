@@ -1,0 +1,478 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Proj>
+  <ProjName>DataAccess</ProjName>
+  <File>
+    <Filepath>DataAccess/System/Library/PrivateFrameworks/DataAccess.framework/en.lproj/DataAccess.strings</Filepath>
+    <TextItem>
+      <Description> Authentication needed for a specific calendar that already has a name </Description>
+      <Position>AUTH_NEEDED_SPECIFIC_ALERT_TITLE_FORMAT</Position>
+      <TranslationSet>
+        <base loc="en">Calendar “%@” at %@ requires authentication</base>
+        <tran loc="ar">تقويم "%@" عند %@ يتطلب مصادقة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Used to send a friendly name to Exchange servers, such as White iPhone 4S (we get the second part of that string from
+ Graphics Services' "marketing name" </Description>
+      <Position>WHITE</Position>
+      <TranslationSet>
+        <base loc="en">White</base>
+        <tran loc="ar">أبيض</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> For invite emails: subject prefix for Declining (we should match Outlook and friends on these localizations) </Description>
+      <Position>MEETING_RESPONSE_DECLINED</Position>
+      <TranslationSet>
+        <base loc="en">Declined:</base>
+        <tran loc="ar">من رفض:</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Title of the automatically created holiday calendar account </Description>
+      <Position>HOLIDAY_CALENDAR_DESCRIPTION</Position>
+      <TranslationSet>
+        <base loc="en">Holiday Calendar</base>
+        <tran loc="ar">تقويم العطلات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SUBSCRIBE</Position>
+      <TranslationSet>
+        <base loc="en">Subscribe</base>
+        <tran loc="ar">اشتراك</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>INVALID_ALERT_MESSAGE_FORMAT</Position>
+      <TranslationSet>
+        <base loc="en">Could not subscribe to the calendar “%@” from “%@”.</base>
+        <tran loc="ar">تعذر الاشتراك بتقويم "%@" من "%@".</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ELLIPSIS</Position>
+      <TranslationSet>
+        <base loc="en">…</base>
+        <tran loc="ar">…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Alert body when a server certificate is issued by an unknown root </Description>
+      <Position>SERVER_CERTIFICATE_UNVERIFIED_WITH_ACCOUNT_DESCRIPTION</Position>
+      <TranslationSet>
+        <base loc="en">The certificate from “%@” for account “%@” could not be verified.</base>
+        <tran loc="ar">تعذر التحقق من شهادة "%@" لحساب "%@".</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> For invite emails: subject prefix for Tentatively Accepting (we should match Outlook and friends on these localizations) </Description>
+      <Position>MEETING_RESPONSE_TENTATIVE</Position>
+      <TranslationSet>
+        <base loc="en">Tentative:</base>
+        <tran loc="ar">موافقة مبدئية:</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Alert body when a server certificate is issued by an unknown root for an account with no description </Description>
+      <Position>SERVER_CERTIFICATE_UNVERIFIED</Position>
+      <TranslationSet>
+        <base loc="en">The certificate from “%@” could not be verified.</base>
+        <tran loc="ar">تعذر التحقق من شهادة "%@".</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Title of the button to accept an unverified server certificate </Description>
+      <Position>SERVER_CERTIFICATE_ACCEPT</Position>
+      <TranslationSet>
+        <base loc="en">Accept</base>
+        <tran loc="ar">قبول</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Alert body when an autodiscovery server has an unverified certificate </Description>
+      <Position>SERVER_CERTIFICATE_UNVERIFIED_AUTODISCOVERY</Position>
+      <TranslationSet>
+        <base loc="en">While automatically discovering account settings, the certificate from “%@” could not be verified.</base>
+        <tran loc="ar">تعذر التحقق من شهادة "%@" أثناء الاكتشاف التلقائي لإعدادات الحساب.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>WHERE_TO_ALERT_TITLE_FORMAT</Position>
+      <TranslationSet>
+        <base loc="en">The Calendar “%@” has been added</base>
+        <tran loc="ar">تمت إضافة التقويم "%@"</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Title of the invalid client certificate dialog </Description>
+      <Position>INVALID_CLIENT_CERTIFICATE_HEADER</Position>
+      <TranslationSet>
+        <base loc="en">Cannot Authenticate</base>
+        <tran loc="ar">لا يمكن المصادقة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DA_POLICY_FAILURE_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Policy Requirement</base>
+        <tran loc="ar">متطلب السياسة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Title of the missing password dialog </Description>
+      <Position>MISSING_PASSWORD_HEADER</Position>
+      <TranslationSet>
+        <base loc="en">Password Required</base>
+        <tran loc="ar">يجب إدخال كلمة السر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DONE</Position>
+      <TranslationSet>
+        <base loc="en">Done</base>
+        <tran loc="ar">تم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>INVALID_PASSWORD_BODY_CARDDAV</Position>
+      <TranslationSet>
+        <base loc="en">Enter the password for the CardDAV account “%@”</base>
+        <tran loc="ar">أدخل كلمة السر لحساب ‏CardDAV ‫"%@"‬</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ACCOUNT_UNIQUE_CONSTRAINT_FAILED_BODY_FORMAT_LDAP</Position>
+      <TranslationSet>
+        <base loc="en">An identical LDAP account already exists.</base>
+        <tran loc="ar">يوجد حساب LDAP مماثل مسبقًا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>INVALID_PASSWORD_BODY_SUBCAL</Position>
+      <TranslationSet>
+        <base loc="en">Enter the password for the Subscribed Calendar “%@”</base>
+        <tran loc="ar">أدخل كلمة السر للتقويم المشترك "%@"</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>INVALID_ALERT_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Cannot Subscribe</base>
+        <tran loc="ar">لا يمكن الاشتراك</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Header of the alert presented when the exchange server certificate could not be verified  </Description>
+      <Position>SERVER_CERTIFICATE_ERROR_ALERT_HEADER</Position>
+      <TranslationSet>
+        <base loc="en">Unable to Verify Certificate</base>
+        <tran loc="ar">تعذر التحقق من صحة الشهادة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>INVALID_PASSWORD_BODY_HOTMAIL</Position>
+      <TranslationSet>
+        <base loc="en">Enter the password for the Outlook account “%@”</base>
+        <tran loc="ar">أدخل كلمة السر لحساب Outlook‏"%@‎"</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Meeting response server failure dialog </Description>
+      <Position>MEETING_RESPONSE_FAILURE_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Calendar Invitation</base>
+        <tran loc="ar">دعوة من التقويم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> For invite emails: subject prefix for Accepting (we should match Outlook and friends on these localizations) </Description>
+      <Position>MEETING_RESPONSE_ACCEPTED</Position>
+      <TranslationSet>
+        <base loc="en">Accepted:</base>
+        <tran loc="ar">قبول</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Acknowledgement of alert </Description>
+      <Position>INVALID_CLIENT_CERTIFICATE_OK</Position>
+      <TranslationSet>
+        <base loc="en">OK</base>
+        <tran loc="ar">موافق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>OK</Position>
+      <TranslationSet>
+        <base loc="en">OK</base>
+        <tran loc="ar">موافق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Title of the button to accept a password </Description>
+      <Position>PASSWORD_OK</Position>
+      <TranslationSet>
+        <base loc="en">OK</base>
+        <tran loc="ar">موافق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ACCOUNT_UNIQUE_CONSTRAINT_FAILED_BODY_FORMAT_CARDDAV</Position>
+      <TranslationSet>
+        <base loc="en">An identical CardDAV account already exists.</base>
+        <tran loc="ar">يوجد حساب CardDAV مماثل مسبقًا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>MEETING_RESPONSE_FAILURE_BODY</Position>
+      <TranslationSet>
+        <base loc="en">Your response to the invitation cannot be sent.</base>
+        <tran loc="ar">لا يمكن إرسال الرد لهذه الدعوة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Button titles </Description>
+      <Position>CANCEL</Position>
+      <TranslationSet>
+        <base loc="en">Cancel</base>
+        <tran loc="ar">إلغاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Title of the button to cancel password entry </Description>
+      <Position>PASSWORD_CANCEL</Position>
+      <TranslationSet>
+        <base loc="en">Cancel</base>
+        <tran loc="ar">إلغاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Title of the button to cancel an unverified server certificate </Description>
+      <Position>SERVER_CERTIFICATE_CANCEL</Position>
+      <TranslationSet>
+        <base loc="en">Cancel</base>
+        <tran loc="ar">إلغاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AUTH_NEEDED_ALERT_TITLE_FORMAT</Position>
+      <TranslationSet>
+        <base loc="en">Calendar at %@ requires authentication</base>
+        <tran loc="ar">التقويم عند %@ يتطلب مصادقة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>BLACK</Position>
+      <TranslationSet>
+        <base loc="en">Black</base>
+        <tran loc="ar">أسود</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ACCOUNT_UNIQUE_CONSTRAINT_FAILED_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Cannot Create Account</base>
+        <tran loc="ar">لا يمكن إنشاء الحساب</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> These are passed into ManagedConfiguration.  The first is put into a string like:
+"the account “%@” can't do something until you set a passcode".  Here's a sample expansion:
+Policy Requirement
+The account “MyExchangeAccount” can't do something until you set a passcode
+[Disable]
+</Description>
+      <Position>DA_POLICY_COMPLIANCE_WARNING</Position>
+      <TranslationSet>
+        <base loc="en">The account “%@” cannot receive new data until a new passcode is set.</base>
+        <tran loc="ar">لا يمكن لحساب "%@" استلام بيانات جديدة حتى يتم تعيين رمز دخول جديد.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description>*** Subscribed Calendar Setup 
+ Alert Strings </Description>
+      <Position>VALIDATED_ALERT_TITLE_FORMAT</Position>
+      <TranslationSet>
+        <base loc="en">Subscribe to the calendar “%@”?</base>
+        <tran loc="ar">اشتراك بالتقويم "%@"؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>VIEW_EVENTS</Position>
+      <TranslationSet>
+        <base loc="en">View Events</base>
+        <tran loc="ar">عرض الأحداث</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>EDIT_SETTINGS</Position>
+      <TranslationSet>
+        <base loc="en">Edit Settings</base>
+        <tran loc="ar">تحرير الإعدادات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Content of the invalid password dialog </Description>
+      <Position>INVALID_PASSWORD_BODY_EXCHANGE</Position>
+      <TranslationSet>
+        <base loc="en">Enter the password for the Exchange account “%@”</base>
+        <tran loc="ar">أدخل كلمة سر لحساب ‏Exchange ‫"%@"‬</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Title of autogenerated main tasks store </Description>
+      <Position>AUTOGENERATED_MAIN_TASKS_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Tasks</base>
+        <tran loc="ar">المهام</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>INVALID_PASSWORD_BODY_LDAP</Position>
+      <TranslationSet>
+        <base loc="en">Enter the password for the LDAP account “%@”</base>
+        <tran loc="ar">أدخل كلمة السر لحساب ‏LDAP ‫"%@"‬</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Title of the invalid password dialog </Description>
+      <Position>INVALID_PASSWORD_HEADER</Position>
+      <TranslationSet>
+        <base loc="en">Password Incorrect</base>
+        <tran loc="ar">كلمة السر غير صحيحة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>INVALID_PASSWORD_BODY_CALDAV</Position>
+      <TranslationSet>
+        <base loc="en">Enter the password for the CalDAV account “%@”</base>
+        <tran loc="ar">أدخل كلمة السر لحساب ‏CalDAV ‫"%@"‬</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DA_POLICY_FAILURE_BUTTON_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Disable</base>
+        <tran loc="ar">إيقاف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Text inside the password entry field </Description>
+      <Position>INVALID_PASSWORD_PLACEHOLDER</Position>
+      <TranslationSet>
+        <base loc="en">Password</base>
+        <tran loc="ar">كلمة السر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ACCOUNT_UNIQUE_CONSTRAINT_FAILED_BODY_FORMAT_HOTMAIL</Position>
+      <TranslationSet>
+        <base loc="en">An identical Outlook account already exists.</base>
+        <tran loc="ar">يوجد حساب Outlook مماثل مسبقًا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>MEETING_RESPONSE_REPLY</Position>
+      <TranslationSet>
+        <base loc="en">RE:</base>
+        <tran loc="ar">رد:</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ACCOUNT_UNIQUE_CONSTRAINT_FAILED_BODY_FORMAT_EXCHANGE</Position>
+      <TranslationSet>
+        <base loc="en">An identical Exchange account already exists.</base>
+        <tran loc="ar">يوجد حساب Exchange مماثل مسبقًا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Title of autogenerated main notes store </Description>
+      <Position>AUTOGENERATED_MAIN_NOTES_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Notes</base>
+        <tran loc="ar">الملاحظات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Text inside the username entry field </Description>
+      <Position>INVALID_USERNAME_PLACEHOLDER</Position>
+      <TranslationSet>
+        <base loc="en">Username</base>
+        <tran loc="ar">اسم المستخدم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Title of autogenerated main event calendar </Description>
+      <Position>AUTOGENERATED_MAIN_EVENT_CALENDAR_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Calendar</base>
+        <tran loc="ar">التقويم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ACCOUNT_UNIQUE_CONSTRAINT_FAILED_BODY_FORMAT_SUBCAL</Position>
+      <TranslationSet>
+        <base loc="en">An identical Subscribed Calendar account already exists.</base>
+        <tran loc="ar">يوجد حساب تقويم مشترك مماثل مسبقًا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Title of autogenerated main contacts store </Description>
+      <Position>AUTOGENERATED_MAIN_CONTACTS_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Contacts</base>
+        <tran loc="ar">جهات الاتصال</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ACCOUNT_UNIQUE_CONSTRAINT_FAILED_BODY_FORMAT_CALDAV</Position>
+      <TranslationSet>
+        <base loc="en">An identical CalDAV account already exists.</base>
+        <tran loc="ar">يوجد حساب CalDAV مماثل مسبقًا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Content of the invalid client certificate dialog </Description>
+      <Position>INVALID_CLIENT_CERTIFICATE_BODY</Position>
+      <TranslationSet>
+        <base loc="en">Cannot authenticate to the server “%@” because the certificate is not valid.</base>
+        <tran loc="ar">لا يمكن المصادقة لخادم "%@" لأن الشهادة غير صالحة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>INVALID_PASSWORD_BODY_GENERIC</Position>
+      <TranslationSet>
+        <base loc="en">Enter the password for the account “%@”</base>
+        <tran loc="ar">أدخل كلمة السر لحساب "%@‎"</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+</Proj>

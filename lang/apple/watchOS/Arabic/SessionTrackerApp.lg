@@ -1,0 +1,1765 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Proj>
+  <ProjName>SessionTrackerApp</ProjName>
+  <File>
+    <Filepath>SessionTrackerApp/Applications/SessionTrackerApp.app/en.lproj/InfoPlist.strings</Filepath>
+    <TextItem>
+      <Description> Localized versions of Info.plist keys 
+ Workout App Name </Description>
+      <Position>CFBundleDisplayName</Position>
+      <TranslationSet>
+        <base loc="en">Workout</base>
+        <tran loc="ar">التمرين</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>SessionTrackerApp/System/Library/Carousel/Alerts/FitnessMachineAlertProvider.bundle/en.lproj/Localizable.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>INTENT_BUTTON_LABEL_RUN</Position>
+      <TranslationSet>
+        <base loc="en">Indoor Run</base>
+        <tran loc="ar">الجري بالداخل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Pairing Failures </Description>
+      <Position>CONNECTED_GYM_PAIRING_FAILURE_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Unable to Connect</base>
+        <tran loc="ar">غير قادر على الاتصال</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 
+  Localizable.strings
+  NanoLifestyle
+
+  Created by Kalle Haglunds on 3/20/17.
+  Copyright © 2017 Apple Inc. All rights reserved.
+
+ Spartan Workouts </Description>
+      <Position>INTENT_CONNECT</Position>
+      <TranslationSet>
+        <base loc="en">CONNECT</base>
+        <tran loc="ar">اتصال</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CONNNECTED_GYM_PAIRING_FAILURE_GENERIC</Position>
+      <TranslationSet>
+        <base loc="en">A connection is not available with this equipment.</base>
+        <tran loc="ar">لا يتوفر اتصال بهذا الجهاز.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>INTENT_LABEL_CONNECT_OK</Position>
+      <TranslationSet>
+        <base loc="en">OK</base>
+        <tran loc="ar">موافق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SPARTAN_CANCEL</Position>
+      <TranslationSet>
+        <base loc="en">Cancel</base>
+        <tran loc="ar">إلغاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>INTENT_CONNECTING</Position>
+      <TranslationSet>
+        <base loc="en">CONNECTING…</base>
+        <tran loc="ar">جاري الاتصال…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CONSENT_ACCEPT</Position>
+      <TranslationSet>
+        <base loc="en">Continue</base>
+        <tran loc="ar">متابعة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>INTENT_BUTTON_LABEL_WALK</Position>
+      <TranslationSet>
+        <base loc="en">Indoor Walk</base>
+        <tran loc="ar">المشي بالداخل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CONSENT_DECLINE</Position>
+      <TranslationSet>
+        <base loc="en">Dismiss</base>
+        <tran loc="ar">استبعاد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>INTENT_WAITING</Position>
+      <TranslationSet>
+        <base loc="en">WAITING</base>
+        <tran loc="ar">قيد الانتظار</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description>Argument is a fitness machine. eg 'START THE TREADMILL' or 'START THE STAIR STEPPER'</Description>
+      <Position>GYM_PLAY_START_ON_OBJ</Position>
+      <TranslationSet>
+        <base loc="en">START THE %@</base>
+        <tran loc="ar">ابدء %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>YOU_ARE_CONNECTED</Position>
+      <TranslationSet>
+        <base loc="en">CONNECTED</base>
+        <tran loc="ar">متصل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Format argument is the machine type (treadmill etc) </Description>
+      <Position>CONNECTED_GYM_PAIRING_FAILURE_MFI_OBJ</Position>
+      <TranslationSet>
+        <base loc="en">A connection is not available with this %@</base>
+        <tran loc="ar">لا يتوفر اتصال مع %@ هذا</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>SessionTrackerApp/Applications/SessionTrackerApp.app/en.lproj/Localizable-catflexing.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>CATFLEXING_REMINDER_NO</Position>
+      <TranslationSet>
+        <base loc="en">NO</base>
+        <tran loc="ar">لا</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 
+  Localizable-catflexing.strings
+  NanoLifestyle
+
+  Created by Patrick Burleson on 1/17/17.
+  Copyright © 2017 Apple Inc. All rights reserved.
+
+ Alert view for catflexing </Description>
+      <Position>CATFLEXING_REMINDER_YES</Position>
+      <TranslationSet>
+        <base loc="en">End Workout</base>
+        <tran loc="ar">إنهاء التمرين</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CATFLEXING_MESSAGE</Position>
+      <TranslationSet>
+        <base loc="en">It looks like you are no longer working out, should the current workout be stopped?</base>
+        <tran loc="ar">يبدو أنك لم تعد تتمرن، هل ينبغي إيقاف التمرين الحالي؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CATFLEXING_REMINDER_DONT_SHOW_AGAIN</Position>
+      <TranslationSet>
+        <base loc="en">Never Remind Me</base>
+        <tran loc="ar">عدم التذكير مطلقًا</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>SessionTrackerApp/Applications/SessionTrackerApp.app/en.lproj/Localizable.strings</Filepath>
+    <TextItem>
+      <Description> Zone pace target alert </Description>
+      <Position>ON_TARGET_PACE</Position>
+      <TranslationSet>
+        <base loc="en">On\nTarget\nPace</base>
+        <tran loc="ar">أنت على\nالسرعة المستهدفة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description>%1$@ = Max Elevation, %2$@ = Unit String e.g FT</Description>
+      <Position>SUMMARY_GROUND_ELEVATION_MAX</Position>
+      <TranslationSet>
+        <base loc="en">▲ %1$@%2$@ MAX</base>
+        <tran loc="ar">‏▲ %1$@%2$@ كحد أقصى</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AVERAGE_CADENCE_SHORT_DESCRIPTION</Position>
+      <TranslationSet>
+        <base loc="en">SPM</base>
+        <tran loc="ar">خطوة/د</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CURRENT_CADENCE_SHORT_DESCRIPTION</Position>
+      <TranslationSet>
+        <base loc="en">SPM</base>
+        <tran loc="ar">\nخطوة/د</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CURRENT_POWER_LONG_DESCRIPTION</Position>
+      <TranslationSet>
+        <base loc="en">Current Power</base>
+        <tran loc="ar">الطاقة الحالية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> %1$@ is the activity type string, %2$@ is SUMMARY_OPEN_SUBTITLE</Description>
+      <Position>SUMMARY_OPEN_TITLE_FORMAT</Position>
+      <TranslationSet>
+        <base loc="en">%1$@\n%2$@</base>
+        <tran loc="ar">‏%2$@\n%1$@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Name workout popular section </Description>
+      <Position>NAME_WORKOUT_POPULAR</Position>
+      <TranslationSet>
+        <base loc="en">Popular</base>
+        <tran loc="ar">شائع</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ROLLING_PACE_SANS_PACE</Position>
+      <TranslationSet>
+        <base loc="en">Rolling</base>
+        <tran loc="ar">أحدث سرعة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CORE_MOTION_ALERT_MESSAGE</Position>
+      <TranslationSet>
+        <base loc="en">To accurately track outdoor workouts, turn on Motion Calibration &amp; Distance. You’ll find this in iPhone Settings by tapping Privacy, then Location Services, then System Services.</base>
+        <tran loc="ar">لتتبع التمارين الخارجية بدقة، قم تشغيل معايرة الحركة والمسافة. ستجد ذلك في إعدادات iPhone بالضغط على الخصوصية، ثم خدمات الموقع، ثم خدمات النظام.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SUMMARY_GPS_UNAVAILABLE_SPEED</Position>
+      <TranslationSet>
+        <base loc="en">GPS unavailable: no speed recorded</base>
+        <tran loc="ar">‏GPS غير متوفر: لم يتم تسجيل أي سرعة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> These must fit in ORB menu buttons (50x50px) </Description>
+      <Position>WORKOUT_ORBGLYPH_MI</Position>
+      <TranslationSet>
+        <base loc="en">MI</base>
+        <tran loc="ar">ميل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PACE_ALERT_DESCRIPTION_IMPERIAL</Position>
+      <TranslationSet>
+        <base loc="en">Alerts you when you're ahead or behind a set pace after one mile.</base>
+        <tran loc="ar">تنبيهات عند التقدم أو التأخر عن السرعة المحددة بعد ميل واحد.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Locked UI alerts </Description>
+      <Position>SCREEN_UNLOCKED_FLASH_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Screen Unlocked</base>
+        <tran loc="ar">تم فتح قفل الشاشة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Shown in status bar in music controls view to indicate when music is playing from phone. </Description>
+      <Position>IPHONE_STATUS_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">iPhone</base>
+        <tran loc="ar">iPhone</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Summary - when gps is unavailable during an outdoor cycle we display these strings instead of distance/pace. The label will grow to fit long strings. </Description>
+      <Position>SUMMARY_GPS_UNAVAILABLE_DISTANCE</Position>
+      <TranslationSet>
+        <base loc="en">GPS unavailable: no distance recorded</base>
+        <tran loc="ar">‏GPS غير متوفر: لم يتم تسجيل أي مسافة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>HEART_RATE_SHORT_DESCRIPTION</Position>
+      <TranslationSet>
+        <base loc="en">BPM</base>
+        <tran loc="ar">\nنبضة/د</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SUMMARY_HEART_RATE_RANGE_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Range</base>
+        <tran loc="ar">النطاق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ROLLING_PACE_DESCRIPTION_IMPERIAL</Position>
+      <TranslationSet>
+        <base loc="en">Rolling is your one mile pace taken at that moment.</base>
+        <tran loc="ar">تشير أحدث سرعة إلى سرعتك في الميل الواحد والمأخوذة تلك اللحظة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PREDICTED_ACTIVITY_RUNNING_OUTDOOR</Position>
+      <TranslationSet>
+        <base loc="en">Record\nOutdoor Run</base>
+        <tran loc="ar">تسجيل\nالركض في الخارج</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SUMMARY_DONE</Position>
+      <TranslationSet>
+        <base loc="en">Done</base>
+        <tran loc="ar">تم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CURRENT_PACE_LONG_DESCRIPTION</Position>
+      <TranslationSet>
+        <base loc="en">Current Pace</base>
+        <tran loc="ar">السرعة الحالية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SECONDS</Position>
+      <TranslationSet>
+        <base loc="en">Seconds</base>
+        <tran loc="ar">ثوانٍ</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>GROUND_ELEVATION_LONG_DESCRIPTION</Position>
+      <TranslationSet>
+        <base loc="en">Current Elevation</base>
+        <tran loc="ar">الارتفاع الحالي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AVERAGE_PACE_LONG_DESCRIPTION</Position>
+      <TranslationSet>
+        <base loc="en">Average Pace</base>
+        <tran loc="ar">متوسط السرعة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Description of last workout in activity list, e.g Last: 5 miles" </Description>
+      <Position>LAST_ACTIVITY_KEY_METRIC_DESCRIPTION_OBJ</Position>
+      <TranslationSet>
+        <base loc="en">Last: %@</base>
+        <tran loc="ar">آخر: %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Description of last workout in activity list - workout date followed by metric, e.g Last: 3/4/16, 30Cal" </Description>
+      <Position>QUICK_START_LAST_WORKOUT_DESCRIPTION_OBJ</Position>
+      <TranslationSet>
+        <base loc="en">Last: %@</base>
+        <tran loc="ar">آخر: %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>BPM_SHORT</Position>
+      <TranslationSet>
+        <base loc="en">bpm</base>
+        <tran loc="ar">نبضة/د</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PREDICTED_ACTIVITY_SWIMMING_OUTDOOR</Position>
+      <TranslationSet>
+        <base loc="en">Record\nOpen Water Swim</base>
+        <tran loc="ar">تسجيل\nالسباحة في المياه المفتوحة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ELEVATION_LONG_DESCRIPTION</Position>
+      <TranslationSet>
+        <base loc="en">Elevation Gain</base>
+        <tran loc="ar">الارتفاع</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SUMMARY_ELEVATION_GAIN_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Elevation Gain</base>
+        <tran loc="ar">الارتفاع</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>WORKOUT_ORB_LOCK</Position>
+      <TranslationSet>
+        <base loc="en">Lock</base>
+        <tran loc="ar">قفل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>FIRST_HIKING_ALERT_MESSAGE_NAVIGATION_DISABLED</Position>
+      <TranslationSet>
+        <base loc="en">To improve accuracy, bring your iPhone along and record a hike of at least 20 minutes with the Workout app.</base>
+        <tran loc="ar">لتحسين الدقة، اصطحب الـ iPhone وسجّل ٢٠ دقيقة على الأقل من المشي الطويل باستخدام تطبيق التمرين.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Alert shown to warn when Motion Calibration &amp; Distance is disabled </Description>
+      <Position>CORE_MOTION_ALERT_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Motion Calibration &amp; Distance</base>
+        <tran loc="ar">معايرة الحركة والمسافة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>GOAL_CONFIG_BUTTON_TITLE_ENERGY_KJ</Position>
+      <TranslationSet>
+        <base loc="en">Kilojoules</base>
+        <tran loc="ar">كيلوجول</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PREDICTED_ACTIVITY_UNKNOWN</Position>
+      <TranslationSet>
+        <base loc="en">Record\nOther workout</base>
+        <tran loc="ar">تسجيل\nتمرين آخر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>GOAL_CONFIG_DESCRIPTION_DISTANCE_M</Position>
+      <TranslationSet>
+        <base loc="en">Meters</base>
+        <tran loc="ar">أمتار</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>WORKOUT_ORB_METERS</Position>
+      <TranslationSet>
+        <base loc="en">Meters</base>
+        <tran loc="ar">أمتار</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SET_ALERT</Position>
+      <TranslationSet>
+        <base loc="en">Set Alert</base>
+        <tran loc="ar">تعيين التنبيه</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ORB_UNIT_CHANGE_KJ_LABEL</Position>
+      <TranslationSet>
+        <base loc="en">kilojoules</base>
+        <tran loc="ar">ك. جول</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>BELOW_TARGET_PACE</Position>
+      <TranslationSet>
+        <base loc="en">Behind\nTarget\nPace</base>
+        <tran loc="ar">متأخر \nعن السرعة\nالمستهدفة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AVERAGE_PACE_DESCRIPTION_IMPERIAL</Position>
+      <TranslationSet>
+        <base loc="en">Average is your average pace for all the miles you’ve run.</base>
+        <tran loc="ar">يشير المتوسط إلى متوسط السرعة لجميع الأميال التي ركضتها.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Segement Notification </Description>
+      <Position>SEGMENT_NOTIFICATION_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">SEGMENT</base>
+        <tran loc="ar">مقطع</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>MOTIVATION_GOAL_DISTANCE_OBJ</Position>
+      <TranslationSet>
+        <base loc="en">Longest: %@</base>
+        <tran loc="ar">الأطول: %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>WORKOUT_ORBGLYPH_KJ</Position>
+      <TranslationSet>
+        <base loc="en">KJ</base>
+        <tran loc="ar">ك.جول</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Activity picker contextual action title when swiping to hide activity type.  Text isn't displayed, used for accessibility.</Description>
+      <Position>HIDE_ACTIVITY_TYPE</Position>
+      <TranslationSet>
+        <base loc="en">Hide activity type</base>
+        <tran loc="ar">إخفاء نوع النشاط</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Connected Gym 
+ e.g. Disconnected from treadmill </Description>
+      <Position>CONNECTED_GYM_CONNECTION_LOST_ALERT_%@</Position>
+      <TranslationSet>
+        <base loc="en">Disconnected from %@</base>
+        <tran loc="ar">تم قطع الاتصال عن %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ACTIVITY_RING_COMPLETION_LINE_2_EXERCISE</Position>
+      <TranslationSet>
+        <base loc="en">Ring</base>
+        <tran loc="ar">الحلقة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ACTIVITY_RING_COMPLETION_LINE_2_MOVE</Position>
+      <TranslationSet>
+        <base loc="en">Ring</base>
+        <tran loc="ar">الحلقة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>FIRST_HIKING_ALERT_MESSAGE_NAVIGATION_ENABLED</Position>
+      <TranslationSet>
+        <base loc="en">To improve accuracy, record a hike of at least 20 minutes with the Workout app.</base>
+        <tran loc="ar">لتحسين الدقة، سجّل ٢٠ دقيقة على الأقل من المشي الطويل باستخدام تطبيق التمرين.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Weather strings </Description>
+      <Position>WEATHER</Position>
+      <TranslationSet>
+        <base loc="en">Weather</base>
+        <tran loc="ar">الطقس</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Alert for explaining the other workout type on first use </Description>
+      <Position>ACTIVITY_LIST_USER_ALERT_ALERT_OK</Position>
+      <TranslationSet>
+        <base loc="en">OK</base>
+        <tran loc="ar">موافق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Alert view for prompting user to set up in the Activity app </Description>
+      <Position>ACTIVITY_SETUP_ALERT_OK</Position>
+      <TranslationSet>
+        <base loc="en">OK</base>
+        <tran loc="ar">موافق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CONNECTED_GYM_CONNECTION_LOST_DISMISS_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">OK</base>
+        <tran loc="ar">موافق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>OK</Position>
+      <TranslationSet>
+        <base loc="en">OK</base>
+        <tran loc="ar">موافق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SUMMARY_CONFIRM_DISCARD</Position>
+      <TranslationSet>
+        <base loc="en">Are you sure you want to discard this data?</base>
+        <tran loc="ar">هل ترغب بالتأكيد في استبعاد هذه البيانات؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Predicted Workouts </Description>
+      <Position>PREDICTED_ACTIVITY_WALKING</Position>
+      <TranslationSet>
+        <base loc="en">Record\nIndoor Walk</base>
+        <tran loc="ar">تسجيل\nالمشي في الداخل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>WORKOUT_ORB_END</Position>
+      <TranslationSet>
+        <base loc="en">End</base>
+        <tran loc="ar">إنهاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SUMMARY_OPEN_SUBTITLE</Position>
+      <TranslationSet>
+        <base loc="en">Workout</base>
+        <tran loc="ar">تمرين</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>WORKOUT_ORB_WORKOUT</Position>
+      <TranslationSet>
+        <base loc="en">Workout</base>
+        <tran loc="ar">التمرين</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 
+  File.strings
+  NanoLifestyle
+
+  Created by Kalle Haglunds on 1/3/14.
+  Copyright (c) 2014 Apple Inc. All rights reserved.
+
+ Status bar view controller titles </Description>
+      <Position>WORKOUT_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Workout</base>
+        <tran loc="ar">التمرين</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SUMMARY_GROUND_ELEVATION_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Elevation</base>
+        <tran loc="ar">الارتفاع</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SUMMARY_AUTOSAVED</Position>
+      <TranslationSet>
+        <base loc="en">You can view more details and manage your workouts in the Activity app on your iPhone.</base>
+        <tran loc="ar">يمكنك عرض المزيد من التفاصيل وإدارة التمارين الخاصة بك في تطبيق النشاط على الـ iPhone.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SUMMARY_AVERAGE_PACE_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Avg Pace</base>
+        <tran loc="ar">متوسط السرعة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>FLIGHTS_COUNT_LONG_DESCRIPTION</Position>
+      <TranslationSet>
+        <base loc="en">Flights Climbed</base>
+        <tran loc="ar">الطوابق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SUMMARY_FLIGHTS_CLIMBED_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Flights Climbed</base>
+        <tran loc="ar">الطوابق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Goal Config Moviation - second line of text under the goal value, takes a string argument with the cal/dist/time value. Must fit on one line. </Description>
+      <Position>MOTIVATION_GOAL_ENERGY_OBJ</Position>
+      <TranslationSet>
+        <base loc="en">Most: %@</base>
+        <tran loc="ar">الأكثر: %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>MOTIVATION_GOAL_TIME_OBJ</Position>
+      <TranslationSet>
+        <base loc="en">Most: %@</base>
+        <tran loc="ar">الأكثر: %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AVERAGE_SPEED_LONG_DESCRIPTION</Position>
+      <TranslationSet>
+        <base loc="en">Average Speed</base>
+        <tran loc="ar">متوسط السرعة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>GOAL_PROGRESS_PACE_DESCRIPTION</Position>
+      <TranslationSet>
+        <base loc="en">Avg.\nPace</base>
+        <tran loc="ar">متوسط\nالسرعة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Pace Alerts </Description>
+      <Position>PACE_ALERT</Position>
+      <TranslationSet>
+        <base loc="en">Pace Alert</base>
+        <tran loc="ar">تنبيه السرعة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>FIRST_OTHER_VULCAN_ALERT_MESSAGE_KCAL</Position>
+      <TranslationSet>
+        <base loc="en">In this type of workout, you earn the calorie equivalent of brisk pushing anytime sensor readings are unavailable.</base>
+        <tran loc="ar">في هذا النوع من التمرين، تكسب السعرات الحرارية المكافئة للدفع السريع في أي وقت تكون فيه قراءات المجس غير متوفرة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DISTANCE_LONG_DESCRIPTION</Position>
+      <TranslationSet>
+        <base loc="en">Distance</base>
+        <tran loc="ar">المسافة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>GOAL_CONFIG_BUTTON_TITLE_DISTANCE</Position>
+      <TranslationSet>
+        <base loc="en">Distance</base>
+        <tran loc="ar">المسافة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Displayed as speed/distance when the gps is unavailable </Description>
+      <Position>DISTANCE_SPEED_GPS_NOVALUE</Position>
+      <TranslationSet>
+        <base loc="en">--</base>
+        <tran loc="ar">‏--</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Displayed as current elevation when no value is present </Description>
+      <Position>GROUND_ELEVATION_NOVALUE</Position>
+      <TranslationSet>
+        <base loc="en">--</base>
+        <tran loc="ar">--</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Displayed in paused state for HR (HR is turned off when paused) </Description>
+      <Position>HEARTRATE_NOVALUE</Position>
+      <TranslationSet>
+        <base loc="en">--</base>
+        <tran loc="ar">‏--</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SUMMARY_HEART_RATE_NONE</Position>
+      <TranslationSet>
+        <base loc="en">--</base>
+        <tran loc="ar">‏--</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>FIRST_RUNNING_ALERT_MESSAGE_NAVIGATION_ENABLED</Position>
+      <TranslationSet>
+        <base loc="en">To improve accuracy, record an outdoor run of at least 20 minutes with the Workout app.</base>
+        <tran loc="ar">لتحسين الدقة، سجّل ٢٠ دقيقة على الأقل من الركض بالخارج باستخدام تطبيق التمرين.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Status bar Cancel for Siri originated workout activity disambiguation </Description>
+      <Position>ACTIVITY_LIST_DISAMBIGUATION_CANCEL</Position>
+      <TranslationSet>
+        <base loc="en">Cancel</base>
+        <tran loc="ar">إلغاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ACTIVITY_LIST_USER_ALERT_ALERT_CANCEL</Position>
+      <TranslationSet>
+        <base loc="en">Cancel</base>
+        <tran loc="ar">إلغاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SUMMARY_CANCEL</Position>
+      <TranslationSet>
+        <base loc="en">Cancel</base>
+        <tran loc="ar">إلغاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Active session metric labels </Description>
+      <Position>ELAPSED_TIME_LONG_DESCRIPTION</Position>
+      <TranslationSet>
+        <base loc="en">Elapsed Time</base>
+        <tran loc="ar">الوقت المنقضي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>GOAL_CONFIG_DESCRIPTION_TIME</Position>
+      <TranslationSet>
+        <base loc="en">Elapsed Time</base>
+        <tran loc="ar">الوقت المنقضي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Goal configuration </Description>
+      <Position>START_BUTTON_START</Position>
+      <TranslationSet>
+        <base loc="en">Start</base>
+        <tran loc="ar">بدء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> In Session view info labels 
+ This is displayed while sampling heart rate </Description>
+      <Position>HEARTRATE_MEASURING_WITHELLIPSIS</Position>
+      <TranslationSet>
+        <base loc="en">Measuring…</base>
+        <tran loc="ar">جاري القياس…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ACTIVITY_SETUP_ALERT_MESSAGE_KCAL</Position>
+      <TranslationSet>
+        <base loc="en">For accurate calorie counts, provide a few stats in the Activity app.</base>
+        <tran loc="ar">للحصول على الأعداد الدقيقة للسعرات الحرارية، قم بتقديم بضع إحصائيات في تطبيق النشاط.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> The first line of each quick start cell in the activity list </Description>
+      <Position>QUICK_START_CELL_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Quick Start</base>
+        <tran loc="ar">البدء السريع</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>WEATHER_HUMIDITY</Position>
+      <TranslationSet>
+        <base loc="en">Humidity: %@</base>
+        <tran loc="ar">الرطوبة: %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SET_PACE_ALERT</Position>
+      <TranslationSet>
+        <base loc="en">Set Pace Alert</base>
+        <tran loc="ar">تعيين تنبيه التقدم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SUMMARY_AVERAGE_HEART_RATE_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Avg Heart Rate</base>
+        <tran loc="ar">متوسط معدل نبض القلب</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Quick start Other workout formatting, e.g. "Other - Archery" </Description>
+      <Position>QUICK_START_CELL_ACTIVITY_TYPE_FORMAT_%@_%@</Position>
+      <TranslationSet>
+        <base loc="en">%@ - %@</base>
+        <tran loc="ar">%@ - %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CURRENT_CADENCE_LONG_DESCRIPTION</Position>
+      <TranslationSet>
+        <base loc="en">Current Cadence</base>
+        <tran loc="ar">معدل الخطوات الحالي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>GOAL_CONFIG_DESCRIPTION_DISTANCE_MI</Position>
+      <TranslationSet>
+        <base loc="en">Miles</base>
+        <tran loc="ar">أميال</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Orb - distance goal unit configuration </Description>
+      <Position>WORKOUT_ORB_MILES</Position>
+      <TranslationSet>
+        <base loc="en">Miles</base>
+        <tran loc="ar">أميال</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 2.0 Goal Config Button Titles </Description>
+      <Position>GOAL_CONFIG_BUTTON_TITLE_ENERGY_KCAL</Position>
+      <TranslationSet>
+        <base loc="en">Calories</base>
+        <tran loc="ar">السعرات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PREDICTED_ACTIVITY_RUNNING</Position>
+      <TranslationSet>
+        <base loc="en">Record\nIndoor Run</base>
+        <tran loc="ar">تسجيل\nالركض في الداخل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>WORKOUT_ORB_FORCE_TOUCH_TO_LOCK</Position>
+      <TranslationSet>
+        <base loc="en">Press Firmly\nto Lock</base>
+        <tran loc="ar">اضغط بقوة\nللقفل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Goal Config Descriptions - first line of text under the goal value. Must fit on one line. </Description>
+      <Position>GOAL_CONFIG_DESCRIPTION_ACTIVE_ENERGY_KCAL</Position>
+      <TranslationSet>
+        <base loc="en">Active Calories</base>
+        <tran loc="ar">السعرات وقت النشاط</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SUMMARY_ACTIVE_ENERGY_TITLE_KCAL</Position>
+      <TranslationSet>
+        <base loc="en">Active Calories</base>
+        <tran loc="ar">السعرات وقت النشاط</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>HEARTRATE_MEASURING</Position>
+      <TranslationSet>
+        <base loc="en">Measuring</base>
+        <tran loc="ar">جاري القياس</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>WORKOUT_ORBGLYPH_YD</Position>
+      <TranslationSet>
+        <base loc="en">YD</base>
+        <tran loc="ar">ياردة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>GOAL_PROGRESS_COMPLETION</Position>
+      <TranslationSet>
+        <base loc="en">Goal\nAchieved</base>
+        <tran loc="ar">تم إنجاز\nالهدف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Open goal text on quick start cells </Description>
+      <Position>QUICK_START_CELL_OPEN_GOAL</Position>
+      <TranslationSet>
+        <base loc="en">Open Goal</base>
+        <tran loc="ar">هدف مفتوح</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PREDICTED_ACTIVITY_ELLIPTICAL</Position>
+      <TranslationSet>
+        <base loc="en">Record\nElliptical workout</base>
+        <tran loc="ar">تسجيل\nتمرين آلة الإليبتيكل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AVERAGE_POWER_LONG_DESCRIPTION</Position>
+      <TranslationSet>
+        <base loc="en">Average Power</base>
+        <tran loc="ar">متوسط الطاقة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SUMMARY_AVERAGE_POWER_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Average Power</base>
+        <tran loc="ar">متوسط الطاقة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Countdown </Description>
+      <Position>COUNTDOWN_READY</Position>
+      <TranslationSet>
+        <base loc="en">Ready</base>
+        <tran loc="ar">جاهز</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SUMMARY_TOTAL_TIME_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Total Time</base>
+        <tran loc="ar">الوقت الإجمالي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>WORKOUT_ORB_FORCE_TOUCH_TO_UNLOCK</Position>
+      <TranslationSet>
+        <base loc="en">Press Firmly\nto Unlock</base>
+        <tran loc="ar">اضغط بقوة\nلفتح القفل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ACTIVITY_SETUP_ALERT_SKIP</Position>
+      <TranslationSet>
+        <base loc="en">Skip</base>
+        <tran loc="ar">تخطي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> %1$@ = min heart rate, %2$@ = max heart rate, %3$@ = "BPM"</Description>
+      <Position>SUMMARY_HEART_RATE_RANGE_FORMAT</Position>
+      <TranslationSet>
+        <base loc="en">%1$@-%2$@ %3$@</base>
+        <tran loc="ar">%1$@-%2$@ %3$@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>FIRST_SWIMMING_ALERT_MESSAGE_OPEN_WATER_SWIM</Position>
+      <TranslationSet>
+        <base loc="en">To unlock the display during swimming workouts, turn the Digital Crown. To pause or resume, press the Digital Crown and side button together. GPS will only provide distance when you do a freestyle stroke. Water may prevent a heart-rate measurement, but calories will still be tracked using the built-in accelerometer.</base>
+        <tran loc="ar">لفتح قفل الشاشة أثناء تمارين السباحة، قم بإدارة مفتاح Digital Crown. للإيقاف المؤقت أو الاستئناف، اضغط على مفتاح Digital Crown والمفتاح الجانبي معًا في نفس الوقت. لن يوفر الـ GPS المسافة المقطوعة إلا عندما تسبح بأسلوب السباحة الحرة. وربما يمنع الماء قياس معدل نبض القلب، ولكن سيستمر تعقب السعرات باستخدام مقياس التسارع المدمج.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>WEATHER_TEMP</Position>
+      <TranslationSet>
+        <base loc="en">%@°</base>
+        <tran loc="ar">‫%@°‬</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Progress alert - The alert label can have up to two lines of text 
+    and should be split if the full text cannot fit in one line. </Description>
+      <Position>GOAL_PROGRESS_HALFWAY</Position>
+      <TranslationSet>
+        <base loc="en">Halfway\nPoint</base>
+        <tran loc="ar">نقطة متنصف\nالطريق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SUMMARY_ROUTE</Position>
+      <TranslationSet>
+        <base loc="en">Route</base>
+        <tran loc="ar">الطريق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>WORKOUT_ORB_WORKOUT_QUICK_SWITCH</Position>
+      <TranslationSet>
+        <base loc="en">New</base>
+        <tran loc="ar">جديد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>FIRST_OTHER_VULCAN_ALERT_MESSAGE_KJ</Position>
+      <TranslationSet>
+        <base loc="en">In this type of workout, you earn the kilojoule equivalent of brisk pushing anytime sensor readings are unavailable.</base>
+        <tran loc="ar">في هذا النوع من التمرين، تكسب وحدات الكيلوجول المكافئة للدفع السريع في أي وقت تكون فيه قراءات المجس غير متوفرة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ACTIVITY_TIME_OF_DAY_LUNCH_OBJ</Position>
+      <TranslationSet>
+        <base loc="en">Lunch %@</base>
+        <tran loc="ar">%@ وقت الغداء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ACTIVITY_TIME_OF_DAY_MORNING_OBJ</Position>
+      <TranslationSet>
+        <base loc="en">Morning %@</base>
+        <tran loc="ar">%@ صباحًا</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>TIME_SEPARATOR</Position>
+      <TranslationSet>
+        <base loc="en">:</base>
+        <tran loc="ar">:</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>GOAL_CONFIG_DESCRIPTION_DISTANCE_YD</Position>
+      <TranslationSet>
+        <base loc="en">Yards</base>
+        <tran loc="ar">ياردات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>WORKOUT_ORB_YARDS</Position>
+      <TranslationSet>
+        <base loc="en">Yards</base>
+        <tran loc="ar">ياردات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>GOAL_CONFIG_DESCRIPTION_DISTANCE_KM</Position>
+      <TranslationSet>
+        <base loc="en">Kilometers</base>
+        <tran loc="ar">كيلومترات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>WORKOUT_ORB_KILOMETERS</Position>
+      <TranslationSet>
+        <base loc="en">Kilometers</base>
+        <tran loc="ar">كيلومترات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>WORKOUT_ORB_RESUME</Position>
+      <TranslationSet>
+        <base loc="en">Resume</base>
+        <tran loc="ar">استئناف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ROLLING_PACE_ALERT</Position>
+      <TranslationSet>
+        <base loc="en">Rolling Pace Alert</base>
+        <tran loc="ar">تنبيه أحدث سرعة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PACE_ALERT_DESCRIPTION_METRIC</Position>
+      <TranslationSet>
+        <base loc="en">Alerts you when you're ahead or behind a set pace after one kilometer.</base>
+        <tran loc="ar">تنبيهات عند التقدم أو التأخر عن السرعة المحددة بعد كيلومتر واحد.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>FIRST_RUNNING_ALERT_MESSAGE_NAVIGATION_DISABLED</Position>
+      <TranslationSet>
+        <base loc="en">To improve accuracy, bring your iPhone along and record an outdoor run of at least 20 minutes with the Workout app.</base>
+        <tran loc="ar">لتحسين الدقة، اصطحب الـ iPhone وسجّل ٢٠ دقيقة على الأقل من الركض بالخارج باستخدام تطبيق التمرين.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SUMMARY_TOTAL_DISTANCE_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Total Distance</base>
+        <tran loc="ar">المسافة الإجمالية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>HEART_RATE_LONG_DESCRIPTION</Position>
+      <TranslationSet>
+        <base loc="en">Heart Rate</base>
+        <tran loc="ar">معدل نبض القلب</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ACTIVITY_SETUP_ALERT_MESSAGE_KJ</Position>
+      <TranslationSet>
+        <base loc="en">For accurate kilojoule counts, provide a few stats in the Activity app.</base>
+        <tran loc="ar">للحصول على أعداد وحدات الكيلوجول الدقيقة، قم بتقديم بعض الإحصائيات في تطبيق النشاط.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ACTIVITY_RING_COMPLETION_LINE_1_EXERCISE</Position>
+      <TranslationSet>
+        <base loc="en">Exercise</base>
+        <tran loc="ar">التمرين</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PREDICTED_ACTIVITY_SWIMMING</Position>
+      <TranslationSet>
+        <base loc="en">Record\nPool Swim</base>
+        <tran loc="ar">تسجيل\nالسباحة في المسبح</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SUMMARY_DISCARD</Position>
+      <TranslationSet>
+        <base loc="en">Discard</base>
+        <tran loc="ar">استبعاد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ACTIVITY_TIME_OF_DAY_AFTERNOON_OBJ</Position>
+      <TranslationSet>
+        <base loc="en">Afternoon %@</base>
+        <tran loc="ar">%@ بعد الظهر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Calories and kilojoules labels displayed in the ORB Unit Change Controller </Description>
+      <Position>ORB_UNIT_CHANGE_KCAL_LABEL</Position>
+      <TranslationSet>
+        <base loc="en">calories</base>
+        <tran loc="ar">سعرة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>FIRST_WALKING_ALERT_MESSAGE_NAVIGATION_ENABLED</Position>
+      <TranslationSet>
+        <base loc="en">To improve accuracy, record an outdoor walk of at least 20 minutes with the Workout app.</base>
+        <tran loc="ar">لتحسين الدقة، سجّل ٢٠ دقيقة على الأقل من المشي بالخارج باستخدام تطبيق التمرين.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>WORKOUT_PAUSED</Position>
+      <TranslationSet>
+        <base loc="en">Workout Paused</base>
+        <tran loc="ar">توقف التمرين مؤقتًا</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AVERAGE_PACE_SANS_PACE</Position>
+      <TranslationSet>
+        <base loc="en">Average</base>
+        <tran loc="ar">المتوسط</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SUMMARY_TOTAL_ENERGY_TITLE_KCAL</Position>
+      <TranslationSet>
+        <base loc="en">Total Calories</base>
+        <tran loc="ar">مجموع السعرات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ACTIVITY_TIME_OF_DAY_EVENING_OBJ</Position>
+      <TranslationSet>
+        <base loc="en">Evening %@</base>
+        <tran loc="ar">%@ مساءً</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>GOAL_CONFIG_BUTTON_TITLE_TIME</Position>
+      <TranslationSet>
+        <base loc="en">Time</base>
+        <tran loc="ar">الوقت</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>WORKOUT_ORBGLYPH_CAL</Position>
+      <TranslationSet>
+        <base loc="en">CAL</base>
+        <tran loc="ar">سعرة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ABOVE_TARGET_PACE</Position>
+      <TranslationSet>
+        <base loc="en">Ahead of\nTarget\nPace</base>
+        <tran loc="ar">متقدم عن\nالسرعة المستهدفة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>FIRST_HIIT_ALERT_MESSAGE</Position>
+      <TranslationSet>
+        <base loc="en">Some of the irregular movements in HIIT workouts may prevent a heart rate measurement. If heart rate is not available, calories are still tracked using the built-in accelerometer. If you're not able to get a consistent heart rate during HIIT workouts, you can connect your Apple Watch to a Bluetooth chest strap.</base>
+        <tran loc="ar">قد تمنع بعض الحركات غير المنتظمة في تمرين المراحل المكثفة (HIIT) قياس معدل نبض القلب. وفي حالة عدم توفر معدل نبض القلب، يستمر تعقب السعرات الحرارية باستخدام مقياس التسارع المدمج. إذا لم يكن بإمكانك الحصول على معدل نبض قلب متسق أثناء تمارين المراحل المكثفة، يمكنك توصيل الـ Apple Watch بشريط صدر Bluetooth.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Activity ring completion 
+ 
+ These strings are used for multiple labels and will display one of the following:
+ Move
+ Ring
+ Closed
+ 
+ or
+ 
+ Exercise
+ Ring
+ Closed
+ </Description>
+      <Position>ACTIVITY_RING_COMPLETION_LINE_1_MOVE</Position>
+      <TranslationSet>
+        <base loc="en">Move</base>
+        <tran loc="ar">نقل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>FIRST_OUTDOORWHEELCHAIRRUN_ALERT_MESSAGE_NAVIGATION_ENABLED</Position>
+      <TranslationSet>
+        <base loc="en">Apple Watch optimizes tracking for outdoor wheelchair-pushing workouts at a walk and run pace. Use Other to track pushes, heart rate, and calories burned for all other wheelchair workouts.</base>
+        <tran loc="ar">تعمل Apple Watch على تحسين إمكانية التتبع لتمارين دفع الكرسي المتحرك بالخارج، سواء بسرعة المشي أو الجري. استخدم "الأخرى" لتتبع الدفعات ومعدل نبض القلب والسعرات المحروقة في كل تمارين الكرسي المتحرك الأخرى.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>FIRST_OUTDOORWHEELCHAIRWALK_ALERT_MESSAGE_NAVIGATION_ENABLED</Position>
+      <TranslationSet>
+        <base loc="en">Apple Watch optimizes tracking for outdoor wheelchair-pushing workouts at a walk and run pace. Use Other to track pushes, heart rate, and calories burned for all other wheelchair workouts.</base>
+        <tran loc="ar">تعمل Apple Watch على تحسين إمكانية التتبع لتمارين دفع الكرسي المتحرك بالخارج، سواء بسرعة المشي أو الجري. استخدم "الأخرى" لتتبع الدفعات ومعدل نبض القلب والسعرات المحروقة في كل تمارين الكرسي المتحرك الأخرى.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>FIRST_OTHER_ALERT_MESSAGE_KJ</Position>
+      <TranslationSet>
+        <base loc="en">In this type of workout, you earn the kilojoule equivalent of a brisk walk anytime sensor readings are unavailable.</base>
+        <tran loc="ar">في هذا النوع من التمرين، تكسب وحدات الكيلوجول المكافئة للمشي السريع في أي وقت تكون فيه قراءات المجس غير متوفرة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>WORKOUT_TITLE_PAUSED</Position>
+      <TranslationSet>
+        <base loc="en">Paused</base>
+        <tran loc="ar">متوقف مؤقتًا</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>WORKOUT_ORB_FORCE_TOUCH_TO_END</Position>
+      <TranslationSet>
+        <base loc="en">Press Firmly\nto End</base>
+        <tran loc="ar">اضغط بقوة\nللإنهاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AVERAGE_PACE_DESCRIPTION_METRIC</Position>
+      <TranslationSet>
+        <base loc="en">Average is your average pace for all the kilometers you’ve run.</base>
+        <tran loc="ar">يشير المتوسط إلى متوسط السرعة لجميع الكيلومترات التي ركضتها.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ROLLING_PACE_DESCRIPTION_METRIC</Position>
+      <TranslationSet>
+        <base loc="en">Rolling is your one kilometer pace taken at that moment.</base>
+        <tran loc="ar">تشير أحدث سرعة إلى سرعتك في الكيلومتر الواحد والمأخوذة تلك اللحظة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SUMMARY_STEP_COUNT_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Steps</base>
+        <tran loc="ar">الخطوات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Alert shown to wheelchair users when they first use a pedestrian workout </Description>
+      <Position>WHEELCHAIR_PEDESTRIAN_WORKOUT_ALERT</Position>
+      <TranslationSet>
+        <base loc="en">This workout has not been optimized for accurate calorie and exercise minute tracking while using a wheelchair.</base>
+        <tran loc="ar">لم يتم تحسين هذا التمرين فيما يخص دقة السعرات الحرارية وتتبع دقائق التمرين أثناء استخدام كرسي متحرك.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PREDICTED_ACTIVITY_ROWING</Position>
+      <TranslationSet>
+        <base loc="en">Record\nRower workout</base>
+        <tran loc="ar">تسجيل\nتمرين تجديف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>GOAL_CONFIG_DESCRIPTION_NO_GOAL</Position>
+      <TranslationSet>
+        <base loc="en">No Goal</base>
+        <tran loc="ar">لا يوجد هدف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ACTIVITY_RING_COMPLETION_LINE_3_EXERCISE</Position>
+      <TranslationSet>
+        <base loc="en">Closed</base>
+        <tran loc="ar">مغلقة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ACTIVITY_RING_COMPLETION_LINE_3_MOVE</Position>
+      <TranslationSet>
+        <base loc="en">Closed</base>
+        <tran loc="ar">مغلقة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AVERAGE_CADENCE_LONG_DESCRIPTION</Position>
+      <TranslationSet>
+        <base loc="en">Average Cadence</base>
+        <tran loc="ar">متوسط معدل الخطوات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SUMMARY_AVERAGE_CADENCE_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Average Cadence</base>
+        <tran loc="ar">متوسط معدل الخطوات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Goal configuration OPEN string </Description>
+      <Position>GOAL_VALUE_OPEN</Position>
+      <TranslationSet>
+        <base loc="en">OPEN</base>
+        <tran loc="ar">مفتوح</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Summary </Description>
+      <Position>SUMMARY_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Summary</base>
+        <tran loc="ar">الملخص</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>FIRST_OTHER_ALERT_MESSAGE_KCAL</Position>
+      <TranslationSet>
+        <base loc="en">In this type of workout, you earn the calorie equivalent of a brisk walk anytime sensor readings are unavailable.</base>
+        <tran loc="ar">في هذا النوع من التمرين، تكسب السعرات الحرارية المكافئة للمشي السريع في أي وقت تكون فيه قراءات المجس غير متوفرة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CURRENT_SPEED_LONG_DESCRIPTION</Position>
+      <TranslationSet>
+        <base loc="en">Current Speed</base>
+        <tran loc="ar">السرعة الحالية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>FIRST_OUTDOORWHEELCHAIRRUN_ALERT_MESSAGE_NAVIGATION_DISABLED</Position>
+      <TranslationSet>
+        <base loc="en">Apple Watch optimizes tracking for outdoor wheelchair-pushing workouts at a walk and run pace. Bring your iPhone along to see pace and distance. Use Other to track pushes, heart rate, and calories burned for all other wheelchair workouts.</base>
+        <tran loc="ar">تعمل Apple Watch على تحسين إمكانية التتبع لتمارين دفع الكرسي المتحرك بالخارج، سواء بسرعة المشي أو الجري. استخدم الـ iPhone للاطلاع على السرعة والمسافة المقطوعة. واستخدم "الأخرى" لتتبع الدفعات ومعدل نبض القلب والسعرات المحروقة في كل تمارين الكرسي المتحرك الأخرى.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>FIRST_OUTDOORWHEELCHAIRWALK_ALERT_MESSAGE_NAVIGATION_DISABLED</Position>
+      <TranslationSet>
+        <base loc="en">Apple Watch optimizes tracking for outdoor wheelchair-pushing workouts at a walk and run pace. Bring your iPhone along to see pace and distance. Use Other to track pushes, heart rate, and calories burned for all other wheelchair workouts.</base>
+        <tran loc="ar">تعمل Apple Watch على تحسين إمكانية التتبع لتمارين دفع الكرسي المتحرك بالخارج، سواء بسرعة المشي أو الجري. استخدم الـ iPhone للاطلاع على السرعة والمسافة المقطوعة. واستخدم "الأخرى" لتتبع الدفعات ومعدل نبض القلب والسعرات المحروقة في كل تمارين الكرسي المتحرك الأخرى.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description>%1$@ = Min Elevation, %2$@ = Unit String e.g FT</Description>
+      <Position>SUMMARY_GROUND_ELEVATION_MIN</Position>
+      <TranslationSet>
+        <base loc="en">▼ %1$@%2$@ MIN</base>
+        <tran loc="ar">‏▼ %1$@%2$@ كحد أدنى</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PREDICTED_ACTIVITY_WALKING_OUTDOOR</Position>
+      <TranslationSet>
+        <base loc="en">Record\nOutdoor Walk</base>
+        <tran loc="ar">تسجيل\nالمشي في الخارج</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>MINUTES</Position>
+      <TranslationSet>
+        <base loc="en">Minutes</base>
+        <tran loc="ar">دقائق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Activity Picker "Add Workouts" cell title </Description>
+      <Position>ADD_WORKOUT</Position>
+      <TranslationSet>
+        <base loc="en">Add Workout</base>
+        <tran loc="ar">إضافة تمرين</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>WORKOUT_ORBGLYPH_KM</Position>
+      <TranslationSet>
+        <base loc="en">KM</base>
+        <tran loc="ar">كم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ROLLING_PACE_LONG_DESCRIPTION</Position>
+      <TranslationSet>
+        <base loc="en">Rolling Pace</base>
+        <tran loc="ar">أحدث سرعة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>GOAL_CONFIG_DESCRIPTION_ACTIVE_ENERGY_KJ</Position>
+      <TranslationSet>
+        <base loc="en">Active Kilojoules</base>
+        <tran loc="ar">ك. جول وقت النشاط</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SUMMARY_ACTIVE_ENERGY_TITLE_KJ</Position>
+      <TranslationSet>
+        <base loc="en">Active Kilojoules</base>
+        <tran loc="ar">ك. جول وقت النشاط</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Pause/Resume </Description>
+      <Position>WORKOUT_ORB_FORCE_TOUCH_TO_RESUME</Position>
+      <TranslationSet>
+        <base loc="en">Press Firmly\nto Resume</base>
+        <tran loc="ar">اضغط بقوة\nللاستئناف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SUMMARY_DETAIL_SUFFIX</Position>
+      <TranslationSet>
+        <base loc="en">%1$@%2$@</base>
+        <tran loc="ar">%1$@%2$@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SAVE_CONFIRMATION_WORKOUT_SAVED</Position>
+      <TranslationSet>
+        <base loc="en">Workout Saved</base>
+        <tran loc="ar">تم حفظ التمرين</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>WORKOUT_TITLE_AUTOPAUSED</Position>
+      <TranslationSet>
+        <base loc="en">Auto Paused</base>
+        <tran loc="ar">متوقف مؤقتًا تلقائيًا</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SUMMARY_PERCENT_COMPLETE</Position>
+      <TranslationSet>
+        <base loc="en">%@ Complete</base>
+        <tran loc="ar">اكتمل %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>WORKOUT_ORB_PERCENT_COMPLETE</Position>
+      <TranslationSet>
+        <base loc="en">%@ Complete</base>
+        <tran loc="ar">اكتمل %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>WORKOUT_ORB_UNLOCK</Position>
+      <TranslationSet>
+        <base loc="en">Unlock</base>
+        <tran loc="ar">فتح القفل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SUMMARY_AVERAGE_SPEED_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Avg Speed</base>
+        <tran loc="ar">متوسط السرعة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PREDICTED_ACTIVITY_STARTED_TIME</Position>
+      <TranslationSet>
+        <base loc="en">Started %@</base>
+        <tran loc="ar">تم البدء %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>FIRST_SWIMMING_ALERT_MESSAGE_POOL_SWIM</Position>
+      <TranslationSet>
+        <base loc="en">To unlock the display during swimming workouts, turn the Digital Crown. To pause or resume, press the Digital Crown and side button together. GPS is not used during a Pool Swim, and water may prevent a heart-rate measurement, but calories, laps, and distance will still be tracked using the built-in accelerometer.</base>
+        <tran loc="ar">لفتح قفل الشاشة أثناء تمارين السباحة، قم بإدارة مفتاح Digital Crown. للإيقاف المؤقت أو الاستئناف، اضغط على مفتاح Digital Crown والمفتاح الجانبي معًا في نفس الوقت. لا يتم استخدام الـ GPS أثناء السباحة في المسبح، وربما يمنع الماء قياس معدل نبض القلب، ولكن سيستمر تعقب السعرات والأشواط والمسافة التي تقطعها باستخدام مقياس التسارع المدمج.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SUMMARY_AUTOSAVED_WORKOUTS</Position>
+      <TranslationSet>
+        <base loc="en">These workouts have been automatically saved.</base>
+        <tran loc="ar">تم حفظ هذه التمارين تلقائيًا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>FIRST_WALKING_ALERT_MESSAGE_NAVIGATION_DISABLED</Position>
+      <TranslationSet>
+        <base loc="en">To improve accuracy, bring your iPhone along and record an outdoor walk of at least 20 minutes with the Workout app.</base>
+        <tran loc="ar">لتحسين الدقة، اصطحب الـ iPhone وسجّل ٢٠ دقيقة على الأقل من المشي بالخارج باستخدام تطبيق التمرين.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SUMMARY_TOTAL_ENERGY_TITLE_KJ</Position>
+      <TranslationSet>
+        <base loc="en">Total Kilojoules</base>
+        <tran loc="ar">مجموع وحدات ك. جول</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>OFF</Position>
+      <TranslationSet>
+        <base loc="en">Off</base>
+        <tran loc="ar">إيقاف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AVERAGE_PACE_ALERT</Position>
+      <TranslationSet>
+        <base loc="en">Average Pace Alert</base>
+        <tran loc="ar">تنبيه متوسط السرعة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>NEXT_BUTTON_NEXT</Position>
+      <TranslationSet>
+        <base loc="en">Next</base>
+        <tran loc="ar">التالي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> In Session Orb </Description>
+      <Position>WORKOUT_ORB_PAUSE</Position>
+      <TranslationSet>
+        <base loc="en">Pause</base>
+        <tran loc="ar">إيقاف مؤقت</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>GOAL_CONFIG_BUTTON_TITLE_OPEN</Position>
+      <TranslationSet>
+        <base loc="en">Open</base>
+        <tran loc="ar">مفتوح</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>WORKOUT_ORBGLYPH_M</Position>
+      <TranslationSet>
+        <base loc="en">M</base>
+        <tran loc="ar">م</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SUMMARY_SAVE</Position>
+      <TranslationSet>
+        <base loc="en">Save</base>
+        <tran loc="ar">حفظ</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+</Proj>

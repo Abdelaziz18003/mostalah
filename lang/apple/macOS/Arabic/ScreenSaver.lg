@@ -1,0 +1,442 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Proj>
+  <ProjName>ScreenSaver</ProjName>
+  <File>
+    <Filepath>ScreenSaver/System/Library/CoreServices/ScreenSaverEngine.app/Contents/Resources/en.lproj/ScreenSaverEngine.strings</Filepath>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Quit"; ObjectID = "128"; </Description>
+      <Position>128.title</Position>
+      <TranslationSet>
+        <base loc="en">Quit</base>
+        <tran loc="ar">إنهاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Clear"; ObjectID = "234"; </Description>
+      <Position>234.title</Position>
+      <TranslationSet>
+        <base loc="en">Clear</base>
+        <tran loc="ar">مسح</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenu"; title = "Edit"; ObjectID = "221"; </Description>
+      <Position>221.title</Position>
+      <TranslationSet>
+        <base loc="en">Edit</base>
+        <tran loc="ar">تحرير</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Edit"; ObjectID = "227"; </Description>
+      <Position>227.title</Position>
+      <TranslationSet>
+        <base loc="en">Edit</base>
+        <tran loc="ar">تحرير</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Paste"; ObjectID = "225"; </Description>
+      <Position>225.title</Position>
+      <TranslationSet>
+        <base loc="en">Paste</base>
+        <tran loc="ar">لصق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenu"; title = "Info"; ObjectID = "130"; </Description>
+      <Position>130.title</Position>
+      <TranslationSet>
+        <base loc="en">Info</base>
+        <tran loc="ar">معلومات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Undo"; ObjectID = "230"; </Description>
+      <Position>230.title</Position>
+      <TranslationSet>
+        <base loc="en">Undo</base>
+        <tran loc="ar">تراجع</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Redo"; ObjectID = "224"; </Description>
+      <Position>224.title</Position>
+      <TranslationSet>
+        <base loc="en">Redo</base>
+        <tran loc="ar">إعادة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Copy"; ObjectID = "216"; </Description>
+      <Position>216.title</Position>
+      <TranslationSet>
+        <base loc="en">Copy</base>
+        <tran loc="ar">نسخ</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenu"; title = "ScreenSaverEngine"; ObjectID = "29"; </Description>
+      <Position>29.title</Position>
+      <TranslationSet>
+        <base loc="en">ScreenSaverEngine</base>
+        <tran loc="ar">ScreenSaverEngine</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Select All"; ObjectID = "226"; </Description>
+      <Position>226.title</Position>
+      <TranslationSet>
+        <base loc="en">Select All</base>
+        <tran loc="ar">تحديد الكل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Cut"; ObjectID = "235"; </Description>
+      <Position>235.title</Position>
+      <TranslationSet>
+        <base loc="en">Cut</base>
+        <tran loc="ar">قص</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>ScreenSaver/System/Library/Frameworks/ScreenSaver.framework/Versions/A/Resources/en.lproj/Localizable.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>RECENT_APERTURE_EVENTS</Position>
+      <TranslationSet>
+        <base loc="en">Recent Aperture Events:</base>
+        <tran loc="ar">أحداث Aperture الأخيرة:</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>RECENT_PHOTO_EVENTS</Position>
+      <TranslationSet>
+        <base loc="en">Recent Photos Events:</base>
+        <tran loc="ar">أحداث الصور الأخيرة:</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> For AX description.
+ e.g. "Flurry screen saver"</Description>
+      <Position>AX_SCREEN_SAVER_FORMAT</Position>
+      <TranslationSet>
+        <base loc="en">%@ screen saver</base>
+        <tran loc="ar">شاشة التوقف %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>RECENT_IPHOTO_EVENTS</Position>
+      <TranslationSet>
+        <base loc="en">Recent iPhoto Events:</base>
+        <tran loc="ar">أحداث iPhoto الأخيرة:</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Photo chooser</Description>
+      <Position>NO_PHOTOS_SELECTED</Position>
+      <TranslationSet>
+        <base loc="en">No Photos Selected</base>
+        <tran loc="ar">لم يتم تحديد صور</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PHOTO_LIBRARY</Position>
+      <TranslationSet>
+        <base loc="en">Photo Library…</base>
+        <tran loc="ar">مكتبة الصور…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DEFAULT_COLLECTIONS</Position>
+      <TranslationSet>
+        <base loc="en">Default Collections:</base>
+        <tran loc="ar">المجموعات الافتراضية:</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> e.g. "Flurry screen saver preview"</Description>
+      <Position>AX_SCREEN_SAVER_PREVIEW_FORMAT</Position>
+      <TranslationSet>
+        <base loc="en">%@ screen saver preview</base>
+        <tran loc="ar">معاينة شاشة التوقف %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UNKNOWN</Position>
+      <TranslationSet>
+        <base loc="en">Unknown</base>
+        <tran loc="ar">غير معروف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CHOOSE_FOLDER</Position>
+      <TranslationSet>
+        <base loc="en">Choose Folder…</base>
+        <tran loc="ar">اختيار مجلد…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CHOOSE</Position>
+      <TranslationSet>
+        <base loc="en">Choose</base>
+        <tran loc="ar">اختيار</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>INCOMPATIBLE_ARCH</Position>
+      <TranslationSet>
+        <base loc="en">You cannot use the %@ screen saver with this version of macOS.\nPlease contact the vendor to get a newer version of the screen saver.</base>
+        <tran loc="ar">لا يمكنك استخدام شاشة التوقف %@ مع هذا الإصدار من macOS.\nالرجاء الاتصال بالبائع للحصول على إصدار أحدث من شاشة التوقف.</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>ScreenSaver/System/Library/Frameworks/ScreenSaver.framework/Versions/A/Resources/en.lproj/MediaBrowserPanel.strings</Filepath>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Cancel"; ObjectID = "7"; </Description>
+      <Position>7.title</Position>
+      <TranslationSet>
+        <base loc="en">Cancel</base>
+        <tran loc="ar">إلغاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSWindow"; title = "Window"; ObjectID = "1"; </Description>
+      <Position>1.title</Position>
+      <TranslationSet>
+        <base loc="en">Window</base>
+        <tran loc="ar">النافذة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Choose"; ObjectID = "5"; </Description>
+      <Position>5.title</Position>
+      <TranslationSet>
+        <base loc="en">Choose</base>
+        <tran loc="ar">اختيار</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Choose a set of photos to use for the slideshow:"; ObjectID = "11"; </Description>
+      <Position>11.title</Position>
+      <TranslationSet>
+        <base loc="en">Choose a set of photos to use for the slideshow:</base>
+        <tran loc="ar">اختيار مجموعة من الصور للاستخدام في عرض الشرائح هذا:</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>ScreenSaver/System/Library/Frameworks/ScreenSaver.framework/Versions/A/Resources/en.lproj/CustomControlsView.strings</Filepath>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Shuffle slide order"; ObjectID = "JkA-fJ-yBb"; </Description>
+      <Position>JkA-fJ-yBb.title</Position>
+      <TranslationSet>
+        <base loc="en">Shuffle slide order</base>
+        <tran loc="ar">خلط ترتيب الشرائح</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Loading…"; ObjectID = "Asa-u0-q7o"; </Description>
+      <Position>Asa-u0-q7o.title</Position>
+      <TranslationSet>
+        <base loc="en">Loading…</base>
+        <tran loc="ar">جاري التحميل…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Source:"; ObjectID = "ehR-Zd-J53"; </Description>
+      <Position>ehR-Zd-J53.title</Position>
+      <TranslationSet>
+        <base loc="en">Source:</base>
+        <tran loc="ar">المصدر:</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenu"; title = "OtherViews"; ObjectID = "fdF-zn-cmy"; </Description>
+      <Position>fdF-zn-cmy.title</Position>
+      <TranslationSet>
+        <base loc="en">OtherViews</base>
+        <tran loc="ar">OtherViews</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>ScreenSaver/System/Library/CoreServices/ScreenSaverEngine.app/Contents/Resources/English.lproj/ScreenSaverEngine.strings</Filepath>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Quit"; ObjectID = "128"; </Description>
+      <Position>128.title</Position>
+      <TranslationSet>
+        <base loc="en">Quit</base>
+        <tran loc="ar">إنهاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Clear"; ObjectID = "234"; </Description>
+      <Position>234.title</Position>
+      <TranslationSet>
+        <base loc="en">Clear</base>
+        <tran loc="ar">مسح</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenu"; title = "Edit"; ObjectID = "221"; </Description>
+      <Position>221.title</Position>
+      <TranslationSet>
+        <base loc="en">Edit</base>
+        <tran loc="ar">تحرير</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Edit"; ObjectID = "227"; </Description>
+      <Position>227.title</Position>
+      <TranslationSet>
+        <base loc="en">Edit</base>
+        <tran loc="ar">تحرير</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Paste"; ObjectID = "225"; </Description>
+      <Position>225.title</Position>
+      <TranslationSet>
+        <base loc="en">Paste</base>
+        <tran loc="ar">لصق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenu"; title = "Info"; ObjectID = "130"; </Description>
+      <Position>130.title</Position>
+      <TranslationSet>
+        <base loc="en">Info</base>
+        <tran loc="ar">معلومات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Undo"; ObjectID = "230"; </Description>
+      <Position>230.title</Position>
+      <TranslationSet>
+        <base loc="en">Undo</base>
+        <tran loc="ar">تراجع</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Redo"; ObjectID = "224"; </Description>
+      <Position>224.title</Position>
+      <TranslationSet>
+        <base loc="en">Redo</base>
+        <tran loc="ar">إعادة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Copy"; ObjectID = "216"; </Description>
+      <Position>216.title</Position>
+      <TranslationSet>
+        <base loc="en">Copy</base>
+        <tran loc="ar">نسخ</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenu"; title = "ScreenSaverEngine"; ObjectID = "29"; </Description>
+      <Position>29.title</Position>
+      <TranslationSet>
+        <base loc="en">ScreenSaverEngine</base>
+        <tran loc="ar">ScreenSaverEngine</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Select All"; ObjectID = "226"; </Description>
+      <Position>226.title</Position>
+      <TranslationSet>
+        <base loc="en">Select All</base>
+        <tran loc="ar">تحديد الكل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Cut"; ObjectID = "235"; </Description>
+      <Position>235.title</Position>
+      <TranslationSet>
+        <base loc="en">Cut</base>
+        <tran loc="ar">قص</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>ScreenSaver/System/Library/Frameworks/ScreenSaver.framework/Versions/A/Resources/English.lproj/CustomControlsView.strings</Filepath>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Shuffle slide order"; ObjectID = "JkA-fJ-yBb"; </Description>
+      <Position>JkA-fJ-yBb.title</Position>
+      <TranslationSet>
+        <base loc="en">Shuffle slide order</base>
+        <tran loc="ar">خلط ترتيب الشرائح</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Loading…"; ObjectID = "Asa-u0-q7o"; </Description>
+      <Position>Asa-u0-q7o.title</Position>
+      <TranslationSet>
+        <base loc="en">Loading…</base>
+        <tran loc="ar">جاري التحميل…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Source:"; ObjectID = "ehR-Zd-J53"; </Description>
+      <Position>ehR-Zd-J53.title</Position>
+      <TranslationSet>
+        <base loc="en">Source:</base>
+        <tran loc="ar">المصدر:</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenu"; title = "OtherViews"; ObjectID = "fdF-zn-cmy"; </Description>
+      <Position>fdF-zn-cmy.title</Position>
+      <TranslationSet>
+        <base loc="en">OtherViews</base>
+        <tran loc="ar">OtherViews</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>ScreenSaver/System/Library/Frameworks/ScreenSaver.framework/Versions/A/Resources/English.lproj/MediaBrowserPanel.strings</Filepath>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Cancel"; ObjectID = "7"; </Description>
+      <Position>7.title</Position>
+      <TranslationSet>
+        <base loc="en">Cancel</base>
+        <tran loc="ar">إلغاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSWindow"; title = "Window"; ObjectID = "1"; </Description>
+      <Position>1.title</Position>
+      <TranslationSet>
+        <base loc="en">Window</base>
+        <tran loc="ar">النافذة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Choose"; ObjectID = "5"; </Description>
+      <Position>5.title</Position>
+      <TranslationSet>
+        <base loc="en">Choose</base>
+        <tran loc="ar">اختيار</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Choose a set of photos to use for the slideshow:"; ObjectID = "11"; </Description>
+      <Position>11.title</Position>
+      <TranslationSet>
+        <base loc="en">Choose a set of photos to use for the slideshow:</base>
+        <tran loc="ar">اختيار مجموعة من الصور للاستخدام في عرض الشرائح هذا:</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+</Proj>

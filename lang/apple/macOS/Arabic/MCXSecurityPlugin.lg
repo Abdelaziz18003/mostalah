@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Proj>
+  <ProjName>MCXSecurityPlugin</ProjName>
+  <File>
+    <Filepath>MCXSecurityPlugin/System/Library/CoreServices/SecurityAgentPlugins/MCXMechanism.bundle/Contents/Resources/English.lproj/localizable.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>MCX_CANT_MOUNT_MOBILE_ACCNT_DEVICE_TEXT</Position>
+      <TranslationSet>
+        <base loc="en">There was a problem accessing your mobile account volume.</base>
+        <tran loc="ar">حدثت مشكلة تتعلق بالوصول إلى وحدة تخزين الحساب المحمول.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>MCX_USER_CANT_LOGIN_LOCAL_NOT_ALLOWED_TEXT</Position>
+      <TranslationSet>
+        <base loc="en">Local users are not allowed to log in.   Please contact your system administrator.</base>
+        <tran loc="ar">غير مسموح للمستخدمين المحليين بالدخول. الرجاء الاتصال بمسؤول النظام.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>MCX_CANT_CREATE_FILEVAULT_HOME_TEXT</Position>
+      <TranslationSet>
+        <base loc="en">There was a problem creating a FileVault home.</base>
+        <tran loc="ar">حدثت مشكلة أثناء إنشاء دليل رئيسي محمي بـ FileVault.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>MCX_CANT_CREATE_MOBILE_ACCNT_TEXT</Position>
+      <TranslationSet>
+        <base loc="en">There was a problem creating your mobile account.</base>
+        <tran loc="ar">حدثت مشكلة تتعلق بإنشاء الحساب المحمول.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>MCX_USER_CANT_LOGIN_MEMBERSHIP_DENIED_TEXT</Position>
+      <TranslationSet>
+        <base loc="en">Your current settings do not allow you to log in.   Please contact your system administrator.</base>
+        <tran loc="ar">لا تسمح لك الإعدادات الحالية بالدخول. الرجاء الاتصال بمسؤول النظام.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>MCX_USER_CANT_LOGIN_SIMULTANEOUS_TEXT</Position>
+      <TranslationSet>
+        <base loc="en">You may only log in on one computer at a time.   Please contact your system administrator or try again later.</base>
+        <tran loc="ar">يمكن الدخول على جهاز كمبيوتر واحد فقط في كل مرة.   الرجاء الاتصال بمسؤول النظام أو إعادة المحاولة في وقت لاحق.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Alert strings </Description>
+      <Position>MCX_CANT_CREATE_MOBILE_ACCNT_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Unable to create mobile account.</base>
+        <tran loc="ar">يتعذر إنشاء حساب محمول.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>MCX_USER_CANT_LOGIN_LOCAL_NOT_ALLOWED_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">You are not allowed to log in at this time.</base>
+        <tran loc="ar">غير مسموح لك بالدخول في الوقت الحالي.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>MCX_USER_CANT_LOGIN_MEMBERSHIP_DENIED_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">You are not allowed to log in at this time.</base>
+        <tran loc="ar">غير مسموح لك بالدخول في الوقت الحالي.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>MCX_CANT_CREATE_MOBILE_ACCNT_RECORD_TEXT</Position>
+      <TranslationSet>
+        <base loc="en">There was a problem creating your mobile account record.</base>
+        <tran loc="ar">حدثت مشكلة تتعلق بإنشاء سجل الحساب المحمول.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>MCX_BAD_MOBILE_ACCNT_PATH_TEXT</Position>
+      <TranslationSet>
+        <base loc="en">There was a problem while creating or accessing “%@”.</base>
+        <tran loc="ar">حدثت مشكلة أثناء إنشاء \"%@\" أو الوصول إليه.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>MCX_BAD_FILEVAULT_HOME_PATH_TEXT</Position>
+      <TranslationSet>
+        <base loc="en">Your FileVault home cannot be created because a folder with the same name already exists.</base>
+        <tran loc="ar">لا يمكن إنشاء الدليل الرئيسي لـ FileVault نظرًا لوجود مجلد بنفس الاسم بالفعل.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>MCX_USER_CANT_LOGIN_SIMULTANEOUS_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">You cannot continue because you are already logged in on another computer.</base>
+        <tran loc="ar">لا يمكنك المتابعة حيث تم دخولك بالفعل على كمبيوتر آخر.</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+</Proj>

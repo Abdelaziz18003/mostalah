@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Proj>
+  <ProjName>EmergencyAlerts</ProjName>
+  <File>
+    <Filepath>EmergencyAlerts/System/Library/UserNotifications/Bundles/com.apple.cmas.bundle/en.lproj/Localizable.strings</Filepath>
+    <TextItem>
+      <Description>
+ Localizable.strings
+ EmergencyAlerts
+ 
+ Copyright © 2018 Apple Inc. All rights reserved.
+ </Description>
+      <Position>NOTIFICATION_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Emergency Alert</base>
+        <tran loc="ar">تنبيه طوارئ</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>EmergencyAlerts/System/Library/UserNotifications/Bundles/com.apple.cmas.bundle/en.lproj/InfoPlist.strings</Filepath>
+    <TextItem>
+      <Description>
+ InfoPlist.strings
+ EmergencyAlerts
+ 
+ Copyright © 2018 Apple Inc. All rights reserved.
+ </Description>
+      <Position>CFBundleDisplayName</Position>
+      <TranslationSet>
+        <base loc="en">Emergency Alerts</base>
+        <tran loc="ar">تنبيهات طوارئ</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SETTINGS_ACTION_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Settings</base>
+        <tran loc="ar">الإعدادات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CFBundleDisplayName-watchos</Position>
+      <TranslationSet>
+        <base loc="en">Emergency</base>
+        <tran loc="ar">الطوارئ</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+</Proj>

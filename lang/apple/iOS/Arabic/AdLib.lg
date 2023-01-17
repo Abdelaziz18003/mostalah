@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Proj>
+  <ProjName>AdLib</ProjName>
+  <File>
+    <Filepath>AdLib/Applications/iAdOptOut.app/en.lproj/Localizable.strings</Filepath>
+    <TextItem>
+      <Description> Invalid ad size Message </Description>
+      <Position>Please scan using a different device or generate a new QR code for this device.</Position>
+      <TranslationSet>
+        <base loc="en">Please scan using a different device or generate a new QR code for this device.</base>
+        <tran loc="ar">الرجاء المسح باستخدام جهاز آخر أو احصل على رمز QR جديد لهذا الجهاز.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Invalid QR Code Message </Description>
+      <Position>Please generate a new QR code and try again.</Position>
+      <TranslationSet>
+        <base loc="en">Please generate a new QR code and try again.</base>
+        <tran loc="ar">احصل على رمز QR جديد وحاول مرة أخرى من فضلك.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Invalid QR Code Title </Description>
+      <Position>Invalid QR code</Position>
+      <TranslationSet>
+        <base loc="en">Invalid QR code</base>
+        <tran loc="ar">رمز QR غير صالح</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Invalid application launch error message </Description>
+      <Position>This application can only be launched using QR code scan.</Position>
+      <TranslationSet>
+        <base loc="en">This application can only be launched using QR code scan.</base>
+        <tran loc="ar">يمكن بدء هذا التطبيق فقط عبر مسح رمز QR.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> OK Title </Description>
+      <Position>OK</Position>
+      <TranslationSet>
+        <base loc="en">OK</base>
+        <tran loc="ar">موافق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Invalid manifest and metadata Title </Description>
+      <Position>The Ad manifest data or metadata is invalid.</Position>
+      <TranslationSet>
+        <base loc="en">The Ad manifest data or metadata is invalid.</base>
+        <tran loc="ar">البيانات في بيان الإعلان أو بيانات التعريف غير صالحة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Error Title </Description>
+      <Position>Error</Position>
+      <TranslationSet>
+        <base loc="en">Error</base>
+        <tran loc="ar">خطأ</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Profile Missing Message </Description>
+      <Position>Required profile is missing. Resend the profile from Workbench then download, or contact a Workbench user to obtain a profile.</Position>
+      <TranslationSet>
+        <base loc="en">Required profile is missing. Resend the profile from Workbench then download, or contact a Workbench user to obtain a profile.</base>
+        <tran loc="ar">ملف التعريف المطلوب غير موجود. أعد إرسال ملف التعريف من Workbench ثم نزل، أو تواصل مع مستخدم Workbench للحصول على ملف تعريف.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Action Required Title </Description>
+      <Position>Action Required</Position>
+      <TranslationSet>
+        <base loc="en">Action Required</base>
+        <tran loc="ar">مطلوب إجراء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Invalid ad size Title </Description>
+      <Position>Invalid ad size for this device</Position>
+      <TranslationSet>
+        <base loc="en">Invalid ad size for this device</base>
+        <tran loc="ar">حجم الإعلان لا يصلح لهذا الجهاز</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Workbench Ad Tester Title </Description>
+      <Position>Workbench Ad Tester</Position>
+      <TranslationSet>
+        <base loc="en">Workbench Ad Tester</base>
+        <tran loc="ar">مختبِر إعلانات Workbench</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>AdLib/System/Library/PrivateFrameworks/iAdCore.framework/en.lproj/InfoPlist.strings</Filepath>
+    <TextItem>
+      <Description> Localized versions of Info.plist keys </Description>
+      <Position>CFBundleDisplayName</Position>
+      <TranslationSet>
+        <base loc="en">Location-Based Apple Ads</base>
+        <tran loc="ar">إعلانات Apple بحسب الموقع</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>AdLib/System/Library/Frameworks/iAd.framework/en.lproj/Localizable.strings</Filepath>
+    <TextItem>
+      <Description> Pre-roll skip text (seconds countdown only) </Description>
+      <Position>Skip in %d</Position>
+      <TranslationSet>
+        <base loc="en">Skip in %d</base>
+        <tran loc="ar">التخطي خلال %d</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Segment data unknown error message </Description>
+      <Position>Unable to retrieve segment data.</Position>
+      <TranslationSet>
+        <base loc="en">Unable to retrieve segment data.</base>
+        <tran loc="ar">غير قادر على استرداد بيانات المقطع.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> App configuration error message </Description>
+      <Position>Application has iAd Network configuration error</Position>
+      <TranslationSet>
+        <base loc="en">Application has iAd Network configuration error</base>
+        <tran loc="ar">لدى التطبيق خطأ تكوين شبكة iAd</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Pre-roll done button title </Description>
+      <Position>Done</Position>
+      <TranslationSet>
+        <base loc="en">Done</base>
+        <tran loc="ar">تم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Ad serving failure error message </Description>
+      <Position>Ad serving failed due to policy exclusion.</Position>
+      <TranslationSet>
+        <base loc="en">Ad serving failed due to policy exclusion.</base>
+        <tran loc="ar">فشل عرض الإعلان بسبب استثناء في السياسة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Ad serving failure error message. </Description>
+      <Position>Ad serving failed due to publication exclusion.</Position>
+      <TranslationSet>
+        <base loc="en">Ad serving failed due to publication exclusion.</base>
+        <tran loc="ar">فشل عرض الإعلان بسبب الاستثناء من المنشور.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Ad inventory unavailable error message </Description>
+      <Position>Ad inventory unavailable</Position>
+      <TranslationSet>
+        <base loc="en">Ad inventory unavailable</base>
+        <tran loc="ar">مخزون الإعلان غير متوفر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Ad data was not validated error message </Description>
+      <Position>Ad data validation failure.</Position>
+      <TranslationSet>
+        <base loc="en">Ad data validation failure.</base>
+        <tran loc="ar">فشل في التحقق من بيانات الإعلان.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> LEARN MORE </Description>
+      <Position>LEARN MORE</Position>
+      <TranslationSet>
+        <base loc="en">LEARN MORE</base>
+        <tran loc="ar">معرفة المزيد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Ad </Description>
+      <Position>Ad</Position>
+      <TranslationSet>
+        <base loc="en">Ad</base>
+        <tran loc="ar">إعلان</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Ad was unloaded error message </Description>
+      <Position>Ad was unloaded from this banner</Position>
+      <TranslationSet>
+        <base loc="en">Ad was unloaded from this banner</base>
+        <tran loc="ar">لم يتم تحميل الدعاية من هذا الشعار</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> OK </Description>
+      <Position>OK</Position>
+      <TranslationSet>
+        <base loc="en">OK</base>
+        <tran loc="ar">موافق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Pre-roll skip button accessibility label </Description>
+      <Position>Skip iAd</Position>
+      <TranslationSet>
+        <base loc="en">Skip iAd</base>
+        <tran loc="ar">تخطي iAd</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Banner view is visible but does not have content error message </Description>
+      <Position>Banner view is visible but does not have content</Position>
+      <TranslationSet>
+        <base loc="en">Banner view is visible but does not have content</base>
+        <tran loc="ar">عرض كشعار هو مرئي ولكنه لا يحتوي على محتوى</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Pre-roll more button accessibility label </Description>
+      <Position>More information about this iAd</Position>
+      <TranslationSet>
+        <base loc="en">More information about this iAd</base>
+        <tran loc="ar">لمزيد من المعلومات حول iAd هذا</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Unknown error message </Description>
+      <Position>Unknown error</Position>
+      <TranslationSet>
+        <base loc="en">Unknown error</base>
+        <tran loc="ar">خطأ غير معروف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Accessibility label for iAd storyboard dismiss button </Description>
+      <Position>Dismiss this ad</Position>
+      <TranslationSet>
+        <base loc="en">Dismiss this ad</base>
+        <tran loc="ar">استبعاد هذا الإعلان</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 0:00 </Description>
+      <Position>0:00</Position>
+      <TranslationSet>
+        <base loc="en">0:00</base>
+        <tran loc="ar">٠:٠٠</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Ad serving failure error message </Description>
+      <Position>Ad serving failed due to inventory unavailable.</Position>
+      <TranslationSet>
+        <base loc="en">Ad serving failed due to inventory unavailable.</base>
+        <tran loc="ar">فشل عرض الإعلان بسبب عدم توفر المخزون.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Ad serving failure error message </Description>
+      <Position>Ad serving failed due to WebKit termination.</Position>
+      <TranslationSet>
+        <base loc="en">Ad serving failed due to WebKit termination.</base>
+        <tran loc="ar">فشل عرض الإعلان بسبب إنهاء WebKit.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Pre-roll skip button title </Description>
+      <Position>Skip in %d seconds</Position>
+      <TranslationSet>
+        <base loc="en">Skip in %d seconds</base>
+        <tran loc="ar">تخطي %d من الثواني</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> This app does not have access to your calendars. </Description>
+      <Position>This app does not have access to your calendars.</Position>
+      <TranslationSet>
+        <base loc="en">This app does not have access to your calendars.</base>
+        <tran loc="ar">هذا التطبيق لا يستطيع الوصول إلى التقويمات الخاصة بك.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Ad serving failure error message </Description>
+      <Position>Ad serving failed due to global exclusion.</Position>
+      <TranslationSet>
+        <base loc="en">Ad serving failed due to global exclusion.</base>
+        <tran loc="ar">فشل عرض الإعلان بسبب استثناء عام.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Loading throttled error message </Description>
+      <Position>Loading throttled</Position>
+      <TranslationSet>
+        <base loc="en">Loading throttled</base>
+        <tran loc="ar">التحميل مزدحم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Ad asset still loading error message </Description>
+      <Position>Ad asset still loading.</Position>
+      <TranslationSet>
+        <base loc="en">Ad asset still loading.</base>
+        <tran loc="ar">محتوى الإعلان ما زال قيد التحميل.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Asset failed to load error message </Description>
+      <Position>Asset failed to load.</Position>
+      <TranslationSet>
+        <base loc="en">Asset failed to load.</base>
+        <tran loc="ar">فشل تحميل الأصل.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> You can enable access in Privacy Settings. </Description>
+      <Position>You can enable access in Privacy Settings.</Position>
+      <TranslationSet>
+        <base loc="en">You can enable access in Privacy Settings.</base>
+        <tran loc="ar">يمكنك تمكين الوصول في إعدادات الخصوصية.</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+</Proj>

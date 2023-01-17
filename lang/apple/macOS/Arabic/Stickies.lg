@@ -1,0 +1,1730 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Proj>
+  <ProjName>Stickies</ProjName>
+  <File>
+    <Filepath>Stickies/System/Applications/Stickies.app/Contents/Resources/en.lproj/ServicesMenu.strings</Filepath>
+    <TextItem>
+      <Description> Command key equivalent for Make Sticky in Services Menu </Description>
+      <Position>Y</Position>
+      <TranslationSet>
+        <base loc="en">Y</base>
+        <tran loc="ar">Y</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Services Menu content for Make Sticky </Description>
+      <Position>Make Sticky</Position>
+      <TranslationSet>
+        <base loc="en">Make New Sticky Note</base>
+        <tran loc="ar">إنشاء ملاحظة ملصقة جديدة</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>Stickies/System/Applications/Stickies.app/Contents/Resources/en.lproj/Localizable.strings</Filepath>
+    <TextItem>
+      <Description> Message indicating document couldn't be saved under the given name. </Description>
+      <Position>Couldn't save document as %@.</Position>
+      <TranslationSet>
+        <base loc="en">Couldn’t save document as %@. Try using a different name.</base>
+        <tran loc="ar">تعذر حفظ المستند باسم %@. حاول استخدام اسم مختلف.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Title of alert indicating file couldn't be opened </Description>
+      <Position>FILE_SYSTEM_ERROR</Position>
+      <TranslationSet>
+        <base loc="en">File system error</base>
+        <tran loc="ar">خطأ في نظام الملفات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Information Text for Illegal File when Importing Incorect file </Description>
+      <Position>ILLEGAL_FILE</Position>
+      <TranslationSet>
+        <base loc="en">Illegal File Type</base>
+        <tran loc="ar">نوع ملف غير مسموح به</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Export All to Notes confirmation alert </Description>
+      <Position>EXPORT_ALL_CONFIRM</Position>
+      <TranslationSet>
+        <base loc="en">Export All</base>
+        <tran loc="ar">تصدير الكل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PURPLE_FOLDER</Position>
+      <TranslationSet>
+        <base loc="en">Purple</base>
+        <tran loc="ar">أرجواني</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ELLIPSES</Position>
+      <TranslationSet>
+        <base loc="en">…</base>
+        <tran loc="ar">…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Title of alert panel which comes when the user tries to quit or close a window containing an unsaved document. </Description>
+      <Position>CLOSE</Position>
+      <TranslationSet>
+        <base loc="en">Are you sure you want to discard this Stickies note?</base>
+        <tran loc="ar">هل أنت متأكد من رغبتك في استبعاد ملاحظة الملصقات هذه؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Title of alert panel which comes up when user chooses Quit and there are unsaved documents. </Description>
+      <Position>Quit</Position>
+      <TranslationSet>
+        <base loc="en">Quit</base>
+        <tran loc="ar">إنهاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Choice (on a button) given to user which allows him/her to quit the application even though there are unsaved documents. 
+"Quit Anyway" = "Quit Anyway";
+
+/
+* Version string.  %s is replaced by the version number.  </Description>
+      <Position>Release 4 (v%s)</Position>
+      <TranslationSet>
+        <base loc="en">Release 4 (v%s)</base>
+        <tran loc="ar">الإصدار 4 (v%s)</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Title of save and alert panels when saving
+ Button choice which allows the user to save the document. </Description>
+      <Position>SAVE</Position>
+      <TranslationSet>
+        <base loc="en">Save…</base>
+        <tran loc="ar">حفظ…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Accessibility </Description>
+      <Position>CLOSE_BUTTON</Position>
+      <TranslationSet>
+        <base loc="en">close</base>
+        <tran loc="ar">إغلاق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>OK</Position>
+      <TranslationSet>
+        <base loc="en">OK</base>
+        <tran loc="ar">موافق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PINK_FOLDER</Position>
+      <TranslationSet>
+        <base loc="en">Pink</base>
+        <tran loc="ar">زهري</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>MIN_BUTTON</Position>
+      <TranslationSet>
+        <base loc="en">minimize</base>
+        <tran loc="ar">تصغير</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Menu item to unshade a Sticky, also used as tool tip </Description>
+      <Position>DEMINIMIZE</Position>
+      <TranslationSet>
+        <base loc="en">Expand</base>
+        <tran loc="ar">توسيع</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Customized Color</Position>
+      <TranslationSet>
+        <base loc="en">Customized Color</base>
+        <tran loc="ar">اللون المخصص</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>EXPORT_ALL_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Export all Stickies to Notes?</base>
+        <tran loc="ar">هل تريد تصدير كل الملصقات إلى الملاحظات؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Button choice allowing user to cancel. </Description>
+      <Position>CANCEL</Position>
+      <TranslationSet>
+        <base loc="en">Cancel</base>
+        <tran loc="ar">إلغاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>EXPORT_ALL_CANCEL</Position>
+      <TranslationSet>
+        <base loc="en">Cancel</base>
+        <tran loc="ar">إلغاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>EXPORT_DATE</Position>
+      <TranslationSet>
+        <base loc="en"> • Date exported: %@</base>
+        <tran loc="ar"> • تاريخ التصدير: %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>GREEN_FOLDER</Position>
+      <TranslationSet>
+        <base loc="en">Green</base>
+        <tran loc="ar">أخضر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>D_REPLACED</Position>
+      <TranslationSet>
+        <base loc="en">%d replaced</base>
+        <tran loc="ar">تم استبدال %d من التطابقات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Menu item to shade a Sticky, also used as tool tip </Description>
+      <Position>MINIMIZE</Position>
+      <TranslationSet>
+        <base loc="en">Collapse</base>
+        <tran loc="ar">طي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Choice (on a button) given to user which allows him/her to review all unsaved documents 
+ if he/she quits the application without saving them all first. </Description>
+      <Position>Review Unsaved</Position>
+      <TranslationSet>
+        <base loc="en">Review Unsaved</base>
+        <tran loc="ar">مراجعة المستندات التي لم يتم حفظها</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> NSKeyedArchiver returned nil while archiving color. </Description>
+      <Position>Archived sticky color is nil.</Position>
+      <TranslationSet>
+        <base loc="en">Archived sticky color is nil.</base>
+        <tran loc="ar">لون الملصق المؤرشف غير موجود.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>EXPORT_HELP</Position>
+      <TranslationSet>
+        <base loc="en">Notes are organized into separate folders based on color. Click on the folder with the color name to see all notes of that color.</base>
+        <tran loc="ar">يتم تنظيم الملاحظات في مجلدات منفصلة حسب لونها. انقر على المجلد الذي يحمل اسم اللون لعرض كل الملاحظات التي بهذا اللون.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Button choice which allows the user to abort the save of a document which is being closed. </Description>
+      <Position>DONT_SAVE</Position>
+      <TranslationSet>
+        <base loc="en">Delete Note</base>
+        <tran loc="ar">حذف الملاحظة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Created: %@\nModified: %@</Position>
+      <TranslationSet>
+        <base loc="en">Created: %@\nModified: %@</base>
+        <tran loc="ar">تم الإنشاء: %@\nتم التعديل: %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Tool tip for window control button </Description>
+      <Position>CLOSE_CONTROL</Position>
+      <TranslationSet>
+        <base loc="en">Close</base>
+        <tran loc="ar">إغلاق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Tool tip for window control button </Description>
+      <Position>ZOOM</Position>
+      <TranslationSet>
+        <base loc="en">Zoom</base>
+        <tran loc="ar">تكبير/تصغير</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Undo Arrange menu item title. </Description>
+      <Position>Undo</Position>
+      <TranslationSet>
+        <base loc="en">Undo</base>
+        <tran loc="ar">تراجع</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Names of folders for exported notes based on color </Description>
+      <Position>YELLOW_FOLDER</Position>
+      <TranslationSet>
+        <base loc="en">Yellow</base>
+        <tran loc="ar">أصفر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Redo Arrange menu item title. </Description>
+      <Position>Redo</Position>
+      <TranslationSet>
+        <base loc="en">Redo</base>
+        <tran loc="ar">إعادة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ZOOM_BUTTON</Position>
+      <TranslationSet>
+        <base loc="en">zoom</base>
+        <tran loc="ar">تكبير/تصغير</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Find Panel </Description>
+      <Position>NOT_FOUND</Position>
+      <TranslationSet>
+        <base loc="en">Not found</base>
+        <tran loc="ar">غير موجود</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>EXPORT_ALL_DETAIL</Position>
+      <TranslationSet>
+        <base loc="en">Your Stickies will appear in an “Imported Notes” folder in the Notes application. Text formatting, links and pictures will be preserved. Notes will be organized into separate folders based on color.</base>
+        <tran loc="ar">ستظهر الملصقات في مجلد باسم \"الملاحظات المستوردة\" في تطبيق الملاحظات. سيتم الاحتفاظ بتنسيق النص، والروابط، والصور. وسيتم تنظيم الملاحظات في مجلدات منفصلة حسب لونها.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>EMPTY_WINDOW_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Untitled</base>
+        <tran loc="ar">بلا عنوان</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UNTITLED</Position>
+      <TranslationSet>
+        <base loc="en">Untitled</base>
+        <tran loc="ar">بلا عنوان</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Date format for Note Info window 
+"Note Info Date" = "%b %d, %Y at %I:%M %p"; 
+ Title of save and alert panels when saving </Description>
+      <Position>EXPORT</Position>
+      <TranslationSet>
+        <base loc="en">Export</base>
+        <tran loc="ar">تصدير</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>GRAY_FOLDER</Position>
+      <TranslationSet>
+        <base loc="en">Gray</base>
+        <tran loc="ar">رمادي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Message indicating file couldn't be opened. </Description>
+      <Position>COULDNT_OPEN_FILE</Position>
+      <TranslationSet>
+        <base loc="en">Couldn’t open note file %@.</base>
+        <tran loc="ar">تعذر فتح ملف الملاحظة %@.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Used in "Undo/Redo Arrange" menu after arranging windows. </Description>
+      <Position>Arrange by %@</Position>
+      <TranslationSet>
+        <base loc="en">Arrange by %@</base>
+        <tran loc="ar">تم الترتيب حسب %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Export Summary Message </Description>
+      <Position>EXPORT_SUMMARY_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Export From Stickies Summary</base>
+        <tran loc="ar">ملخص التصدير من الملصقات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>EXPORT_TOTAL</Position>
+      <TranslationSet>
+        <base loc="en"> • Total notes exported: %d</base>
+        <tran loc="ar"> • إجمالي الملاحظات التي تم تصديرها: %d</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Customize Stickies color menu item. </Description>
+      <Position>Customize Color...</Position>
+      <TranslationSet>
+        <base loc="en">Customize Color…</base>
+        <tran loc="ar">تخصيص اللون…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Message in the alert panel which comes up when user chooses Quit and there are unsaved documents.  </Description>
+      <Position>You have unsaved document notes.</Position>
+      <TranslationSet>
+        <base loc="en">You have unsaved notes.</base>
+        <tran loc="ar">لديك ملاحظات غير محفوظة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>GROW_AREA</Position>
+      <TranslationSet>
+        <base loc="en">grow area</base>
+        <tran loc="ar">مساحة تكبير</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Question asked of user when he/she tries to close a window containing an unsaved document. </Description>
+      <Position>STICKIE_BEEN_EDITED_SAVE?</Position>
+      <TranslationSet>
+        <base loc="en">If you don’t save this note, its contents will be lost.</base>
+        <tran loc="ar">في حالة عدم حفظ هذه الملاحظة، سيتم فقد محتوياتها.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Message indicating file couldn't be opened. </Description>
+      <Position>Couldn't open Stickies note file %@.</Position>
+      <TranslationSet>
+        <base loc="en">Couldn’t open Stickies note %@.</base>
+        <tran loc="ar">تعذر فتح ملاحظة الملصقات %@.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>BLUE_FOLDER</Position>
+      <TranslationSet>
+        <base loc="en">Blue</base>
+        <tran loc="ar">أزرق</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>Stickies/System/Applications/Stickies.app/Contents/Resources/en.lproj/SNMigrationWindowController.strings</Filepath>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Cancel"; ObjectID = "5NW-1D-RTa"; </Description>
+      <Position>5NW-1D-RTa.title</Position>
+      <TranslationSet>
+        <base loc="en">Cancel</base>
+        <tran loc="ar">إلغاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSWindow"; title = "Migrating Stickies..."; ObjectID = "F0z-JX-Cv5"; </Description>
+      <Position>F0z-JX-Cv5.title</Position>
+      <TranslationSet>
+        <base loc="en">Migrating Stickies...</base>
+        <tran loc="ar">جاري ترحيل الملصقات…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Migrating Stickies..."; ObjectID = "jfA-dW-PKQ"; </Description>
+      <Position>jfA-dW-PKQ.title</Position>
+      <TranslationSet>
+        <base loc="en">Migrating Stickies...</base>
+        <tran loc="ar">جاري ترحيل الملصقات…</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>Stickies/System/Applications/Stickies.app/Contents/Resources/en.lproj/9EDB3CA4-AF20-4B48-9583-043940037F0E.rtfd/TXT.rtf</Filepath>
+  </File>
+  <File>
+    <Filepath>Stickies/System/Applications/Stickies.app/Contents/Resources/en.lproj/MainMenu.strings</Filepath>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Replace &amp; Find"; ObjectID = "100430"; </Description>
+      <Position>100430.title</Position>
+      <TranslationSet>
+        <base loc="en">Replace &amp; Find</base>
+        <tran loc="ar"> استبدال وبحث</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Paste Style"; ObjectID = "535"; </Description>
+      <Position>535.title</Position>
+      <TranslationSet>
+        <base loc="en">Paste Style</base>
+        <tran loc="ar">لصق النمط</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Delete"; ObjectID = "493"; </Description>
+      <Position>493.title</Position>
+      <TranslationSet>
+        <base loc="en">Delete</base>
+        <tran loc="ar">حذف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Purple"; ObjectID = "213"; </Description>
+      <Position>213.title</Position>
+      <TranslationSet>
+        <base loc="en">Purple</base>
+        <tran loc="ar">أرجواني</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Text Replacement"; ObjectID = "100522"; </Description>
+      <Position>100522.title</Position>
+      <TranslationSet>
+        <base loc="en">Text Replacement</base>
+        <tran loc="ar">استبدال النص</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Check Document Now"; ObjectID = "483"; </Description>
+      <Position>483.title</Position>
+      <TranslationSet>
+        <base loc="en">Check Document Now</base>
+        <tran loc="ar">تدقيق المستند الآن</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Correct Spelling Automatically"; ObjectID = "100515"; </Description>
+      <Position>100515.title</Position>
+      <TranslationSet>
+        <base loc="en">Correct Spelling Automatically</base>
+        <tran loc="ar">تصحيح الأخطاء الإملائية تلقائيًا</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Show Spelling and Grammar"; ObjectID = "474"; </Description>
+      <Position>474.title</Position>
+      <TranslationSet>
+        <base loc="en">Show Spelling and Grammar</base>
+        <tran loc="ar">إظهار التدقيق الإملائي والتدقيق النحوي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenu"; title = "Arrange By"; ObjectID = "575"; </Description>
+      <Position>575.title</Position>
+      <TranslationSet>
+        <base loc="en">Arrange By</base>
+        <tran loc="ar">ترتيب حسب</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Arrange By"; ObjectID = "576"; </Description>
+      <Position>576.title</Position>
+      <TranslationSet>
+        <base loc="en">Arrange By</base>
+        <tran loc="ar">ترتيب حسب</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Baseline"; ObjectID = "522"; </Description>
+      <Position>522.title</Position>
+      <TranslationSet>
+        <base loc="en">Baseline</base>
+        <tran loc="ar">الخط الأساسي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenu"; title = "Baseline"; ObjectID = "525"; </Description>
+      <Position>525.title</Position>
+      <TranslationSet>
+        <base loc="en">Baseline</base>
+        <tran loc="ar">الخط الأساسي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Use as Default"; ObjectID = "kpB-pA-LcL"; </Description>
+      <Position>kpB-pA-LcL.title</Position>
+      <TranslationSet>
+        <base loc="en">Use as Default</base>
+        <tran loc="ar">استخدام كإعداد افتراضي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Stickies"; ObjectID = "56"; </Description>
+      <Position>56.title</Position>
+      <TranslationSet>
+        <base loc="en">Stickies</base>
+        <tran loc="ar">الملصقات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenu"; title = "Stickies"; ObjectID = "57"; </Description>
+      <Position>57.title</Position>
+      <TranslationSet>
+        <base loc="en">Stickies</base>
+        <tran loc="ar">الملصقات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Export All to Notes…"; ObjectID = "v3Z-qk-urd"; </Description>
+      <Position>v3Z-qk-urd.title</Position>
+      <TranslationSet>
+        <base loc="en">Export All to Notes…</base>
+        <tran loc="ar">استيراد الكل إلى الملاحظات…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Translucent"; ObjectID = "sbV-fO-juA"; </Description>
+      <Position>sbV-fO-juA.title</Position>
+      <TranslationSet>
+        <base loc="en">Translucent</base>
+        <tran loc="ar">شبه شفافة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Location on Screen"; ObjectID = "574"; </Description>
+      <Position>574.title</Position>
+      <TranslationSet>
+        <base loc="en">Location on Screen</base>
+        <tran loc="ar">الموقع على الشاشة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Stop Speaking"; ObjectID = "478"; </Description>
+      <Position>478.title</Position>
+      <TranslationSet>
+        <base loc="en">Stop Speaking</base>
+        <tran loc="ar">إيقاف التكلم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Spelling and Grammar"; ObjectID = "477"; </Description>
+      <Position>477.title</Position>
+      <TranslationSet>
+        <base loc="en">Spelling and Grammar</base>
+        <tran loc="ar">التدقيق الإملائي والتدقيق النحوي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenu"; title = "Spelling and Grammar"; ObjectID = "491"; </Description>
+      <Position>491.title</Position>
+      <TranslationSet>
+        <base loc="en">Spelling and Grammar</base>
+        <tran loc="ar">التدقيق الإملائي والتدقيق النحوي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButton"; ibShadowedToolTip = "Find next occurrence of the find string"; ObjectID = "415"; </Description>
+      <Position>415.ibShadowedToolTip</Position>
+      <TranslationSet>
+        <base loc="en">Find next occurrence of the find string</base>
+        <tran loc="ar">البحث عن حالة التكرار التالية للسلسلة موضع البحث</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Jump to Selection"; ObjectID = "480"; </Description>
+      <Position>480.title</Position>
+      <TranslationSet>
+        <base loc="en">Jump to Selection</base>
+        <tran loc="ar">انتقال سريع إلى التحديد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Show Fonts"; ObjectID = "537"; </Description>
+      <Position>537.title</Position>
+      <TranslationSet>
+        <base loc="en">Show Fonts</base>
+        <tran loc="ar">إظهار الخطوط</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Replace With:"; ObjectID = "100420"; </Description>
+      <Position>100420.title</Position>
+      <TranslationSet>
+        <base loc="en">Replace With:</base>
+        <tran loc="ar">استبدال بـ:</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenu"; title = "Font"; ObjectID = "526"; </Description>
+      <Position>526.title</Position>
+      <TranslationSet>
+        <base loc="en">Font</base>
+        <tran loc="ar">الخط</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Font"; ObjectID = "533"; </Description>
+      <Position>533.title</Position>
+      <TranslationSet>
+        <base loc="en">Font</base>
+        <tran loc="ar">الخط</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Print…"; ObjectID = "78"; </Description>
+      <Position>78.title</Position>
+      <TranslationSet>
+        <base loc="en">Print…</base>
+        <tran loc="ar">طباعة…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Color"; ObjectID = "209"; </Description>
+      <Position>209.title</Position>
+      <TranslationSet>
+        <base loc="en">Color</base>
+        <tran loc="ar">اللون</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenu"; title = "Color"; ObjectID = "211"; </Description>
+      <Position>211.title</Position>
+      <TranslationSet>
+        <base loc="en">Color</base>
+        <tran loc="ar">اللون</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Color"; ObjectID = "578"; </Description>
+      <Position>578.title</Position>
+      <TranslationSet>
+        <base loc="en">Color</base>
+        <tran loc="ar">اللون</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Subscript"; ObjectID = "534"; </Description>
+      <Position>534.title</Position>
+      <TranslationSet>
+        <base loc="en">Subscript</base>
+        <tran loc="ar">خط منخفض</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Pink"; ObjectID = "208"; </Description>
+      <Position>208.title</Position>
+      <TranslationSet>
+        <base loc="en">Pink</base>
+        <tran loc="ar">زهري</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Show Substitutions"; ObjectID = "100528"; </Description>
+      <Position>100528.title</Position>
+      <TranslationSet>
+        <base loc="en">Show Substitutions</base>
+        <tran loc="ar">إظهار البدائل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Quit Stickies"; ObjectID = "136"; </Description>
+      <Position>136.title</Position>
+      <TranslationSet>
+        <base loc="en">Quit Stickies</base>
+        <tran loc="ar">إنهاء الملصقات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Use Default"; ObjectID = "520"; </Description>
+      <Position>520.title</Position>
+      <TranslationSet>
+        <base loc="en">Use Default</base>
+        <tran loc="ar">استخدام الإعداد الافتراضي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Use Default"; ObjectID = "532"; </Description>
+      <Position>532.title</Position>
+      <TranslationSet>
+        <base loc="en">Use Default</base>
+        <tran loc="ar">استخدام الإعداد الافتراضي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Use Default"; ObjectID = "538"; </Description>
+      <Position>538.title</Position>
+      <TranslationSet>
+        <base loc="en">Use Default</base>
+        <tran loc="ar">استخدام الإعداد الافتراضي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenu"; title = "Edit"; ObjectID = "475"; </Description>
+      <Position>475.title</Position>
+      <TranslationSet>
+        <base loc="en">Edit</base>
+        <tran loc="ar">تحرير</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Edit"; ObjectID = "485"; </Description>
+      <Position>485.title</Position>
+      <TranslationSet>
+        <base loc="en">Edit</base>
+        <tran loc="ar">تحرير</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Find:"; ObjectID = "100428"; </Description>
+      <Position>100428.title</Position>
+      <TranslationSet>
+        <base loc="en">Find:</base>
+        <tran loc="ar">بحث:</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Smart Quotes"; ObjectID = "100525"; </Description>
+      <Position>100525.title</Position>
+      <TranslationSet>
+        <base loc="en">Smart Quotes</base>
+        <tran loc="ar">علامات الاقتباس الذكية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Stickies Help"; ObjectID = "561"; </Description>
+      <Position>561.title</Position>
+      <TranslationSet>
+        <base loc="en">Stickies Help</base>
+        <tran loc="ar">مساعدة الملصقات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenu"; title = "Services"; ObjectID = "130"; </Description>
+      <Position>130.title</Position>
+      <TranslationSet>
+        <base loc="en">Services</base>
+        <tran loc="ar">خدمات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Services"; ObjectID = "131"; </Description>
+      <Position>131.title</Position>
+      <TranslationSet>
+        <base loc="en">Services</base>
+        <tran loc="ar">خدمات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Show All"; ObjectID = "150"; </Description>
+      <Position>150.title</Position>
+      <TranslationSet>
+        <base loc="en">Show All</base>
+        <tran loc="ar">إظهار الكل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Italic"; ObjectID = "516"; </Description>
+      <Position>516.title</Position>
+      <TranslationSet>
+        <base loc="en">Italic</base>
+        <tran loc="ar">مائل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Green"; ObjectID = "212"; </Description>
+      <Position>212.title</Position>
+      <TranslationSet>
+        <base loc="en">Green</base>
+        <tran loc="ar">أخضر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Paste"; ObjectID = "472"; </Description>
+      <Position>472.title</Position>
+      <TranslationSet>
+        <base loc="en">Paste</base>
+        <tran loc="ar">لصق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Superscript"; ObjectID = "515"; </Description>
+      <Position>515.title</Position>
+      <TranslationSet>
+        <base loc="en">Superscript</base>
+        <tran loc="ar">خط مرتفع</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Previous"; ObjectID = "100412"; </Description>
+      <Position>100412.title</Position>
+      <TranslationSet>
+        <base loc="en">Previous</base>
+        <tran loc="ar">السابق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Collapse"; ObjectID = "23"; </Description>
+      <Position>23.title</Position>
+      <TranslationSet>
+        <base loc="en">Collapse</base>
+        <tran loc="ar">طي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Options:"; ObjectID = "7Rn-sG-NZb"; </Description>
+      <Position>7Rn-sG-NZb.title</Position>
+      <TranslationSet>
+        <base loc="en">Options:</base>
+        <tran loc="ar">الخيارات:</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Content"; ObjectID = "577"; </Description>
+      <Position>577.title</Position>
+      <TranslationSet>
+        <base loc="en">Content</base>
+        <tran loc="ar">المحتوى</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButton"; ibShadowedToolTip = "Find previous occurrence of the find string"; ObjectID = "412"; </Description>
+      <Position>412.ibShadowedToolTip</Position>
+      <TranslationSet>
+        <base loc="en">Find previous occurrence of the find string</base>
+        <tran loc="ar">البحث عن حالة التكرار السابقة للسلسلة موضع البحث</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "All Notes"; ObjectID = "427"; </Description>
+      <Position>427.title</Position>
+      <TranslationSet>
+        <base loc="en">All Notes</base>
+        <tran loc="ar">كل الملاحظات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Find Previous"; ObjectID = "494"; </Description>
+      <Position>494.title</Position>
+      <TranslationSet>
+        <base loc="en">Find Previous</base>
+        <tran loc="ar">بحث عن السابق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenu"; title = "File"; ObjectID = "81"; </Description>
+      <Position>81.title</Position>
+      <TranslationSet>
+        <base loc="en">File</base>
+        <tran loc="ar">ملف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "File"; ObjectID = "83"; </Description>
+      <Position>83.title</Position>
+      <TranslationSet>
+        <base loc="en">File</base>
+        <tran loc="ar">ملف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Use Selection for Find"; ObjectID = "496"; </Description>
+      <Position>496.title</Position>
+      <TranslationSet>
+        <base loc="en">Use Selection for Find</base>
+        <tran loc="ar">استخدام التحديد للبحث</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Bold"; ObjectID = "517"; </Description>
+      <Position>517.title</Position>
+      <TranslationSet>
+        <base loc="en">Bold</base>
+        <tran loc="ar">عريض</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Copy Style"; ObjectID = "528"; </Description>
+      <Position>528.title</Position>
+      <TranslationSet>
+        <base loc="en">Copy Style</base>
+        <tran loc="ar">نسخ النمط</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Use None"; ObjectID = "521"; </Description>
+      <Position>521.title</Position>
+      <TranslationSet>
+        <base loc="en">Use None</base>
+        <tran loc="ar">استخدام بدون</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Use None"; ObjectID = "527"; </Description>
+      <Position>527.title</Position>
+      <TranslationSet>
+        <base loc="en">Use None</base>
+        <tran loc="ar">استخدام بدون</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Transformations"; ObjectID = "100535"; </Description>
+      <Position>100535.title</Position>
+      <TranslationSet>
+        <base loc="en">Transformations</base>
+        <tran loc="ar">تحويلات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenu"; title = "Transformations"; ObjectID = "100536"; </Description>
+      <Position>100536.title</Position>
+      <TranslationSet>
+        <base loc="en">Transformations</base>
+        <tran loc="ar">تحويلات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Close"; ObjectID = "73"; </Description>
+      <Position>73.title</Position>
+      <TranslationSet>
+        <base loc="en">Close</base>
+        <tran loc="ar">إغلاق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Zoom"; ObjectID = "570"; </Description>
+      <Position>570.title</Position>
+      <TranslationSet>
+        <base loc="en">Zoom</base>
+        <tran loc="ar">تكبير/تصغير</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Data Detectors"; ObjectID = "100524"; </Description>
+      <Position>100524.title</Position>
+      <TranslationSet>
+        <base loc="en">Data Detectors</base>
+        <tran loc="ar">عناصر كشف البيانات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Undo"; ObjectID = "497"; </Description>
+      <Position>497.title</Position>
+      <TranslationSet>
+        <base loc="en">Undo</base>
+        <tran loc="ar">تراجع</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButton"; ibShadowedToolTip = "Replace the selected text with the replacement text and find the next occurrence"; ObjectID = "430"; </Description>
+      <Position>430.ibShadowedToolTip</Position>
+      <TranslationSet>
+        <base loc="en">Replace the selected text with the replacement text and find the next occurrence</base>
+        <tran loc="ar">استبدال النص المحدد بالنص البديل والبحث عن حالة التكرار التالية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Find Next"; ObjectID = "487"; </Description>
+      <Position>487.title</Position>
+      <TranslationSet>
+        <base loc="en">Find Next</base>
+        <tran loc="ar">بحث عن التالي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Yellow"; ObjectID = "207"; </Description>
+      <Position>207.title</Position>
+      <TranslationSet>
+        <base loc="en">Yellow</base>
+        <tran loc="ar">أصفر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Paste and Match Style"; ObjectID = "591"; </Description>
+      <Position>591.title</Position>
+      <TranslationSet>
+        <base loc="en">Paste and Match Style</base>
+        <tran loc="ar">لصق ومطابقة النمط</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Check Grammar With Spelling"; ObjectID = "100513"; </Description>
+      <Position>100513.title</Position>
+      <TranslationSet>
+        <base loc="en">Check Grammar With Spelling</base>
+        <tran loc="ar">تحقق من التدقيق النحوي مع التدقيق الإملائي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Hide Others"; ObjectID = "145"; </Description>
+      <Position>145.title</Position>
+      <TranslationSet>
+        <base loc="en">Hide Others</base>
+        <tran loc="ar">إخفاء الأخرى</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Redo"; ObjectID = "489"; </Description>
+      <Position>489.title</Position>
+      <TranslationSet>
+        <base loc="en">Redo</base>
+        <tran loc="ar">إعادة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "New Note"; ObjectID = "82"; </Description>
+      <Position>82.title</Position>
+      <TranslationSet>
+        <base loc="en">New Note</base>
+        <tran loc="ar">ملاحظة جديدة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Date"; ObjectID = "586"; </Description>
+      <Position>586.title</Position>
+      <TranslationSet>
+        <base loc="en">Date</base>
+        <tran loc="ar">التاريخ</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Tighten"; ObjectID = "511"; </Description>
+      <Position>511.title</Position>
+      <TranslationSet>
+        <base loc="en">Tighten</base>
+        <tran loc="ar">تضييق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Replace"; ObjectID = "100413"; </Description>
+      <Position>100413.title</Position>
+      <TranslationSet>
+        <base loc="en">Replace</base>
+        <tran loc="ar">استبدال</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Float on Top"; ObjectID = "AgP-rn-jDl"; </Description>
+      <Position>AgP-rn-jDl.title</Position>
+      <TranslationSet>
+        <base loc="en">Float on Top</base>
+        <tran loc="ar">عائم لأعلى</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButton"; ibShadowedToolTip = "Replace the selected text with the replacement text"; ObjectID = "413"; </Description>
+      <Position>413.ibShadowedToolTip</Position>
+      <TranslationSet>
+        <base loc="en">Replace the selected text with the replacement text</base>
+        <tran loc="ar">استبدال النص المحدد بالنص البديل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Import Text…"; ObjectID = "395"; </Description>
+      <Position>395.title</Position>
+      <TranslationSet>
+        <base loc="en">Import Text…</base>
+        <tran loc="ar">استيراد نص…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Lower"; ObjectID = "530"; </Description>
+      <Position>530.title</Position>
+      <TranslationSet>
+        <base loc="en">Lower</base>
+        <tran loc="ar">خفض</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButton"; ibShadowedToolTip = "Replace all occurrences of the found text with the replacement text"; ObjectID = "423"; </Description>
+      <Position>423.ibShadowedToolTip</Position>
+      <TranslationSet>
+        <base loc="en">Replace all occurrences of the found text with the replacement text</base>
+        <tran loc="ar">استبدال كافة حالات التكرار للنص الذي تم العثور عليه بالنص البديل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Smart Copy/Paste"; ObjectID = "100593"; </Description>
+      <Position>100593.title</Position>
+      <TranslationSet>
+        <base loc="en">Smart Copy/Paste</base>
+        <tran loc="ar">النسخ/اللصق الذكي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Copy"; ObjectID = "481"; </Description>
+      <Position>481.title</Position>
+      <TranslationSet>
+        <base loc="en">Copy</base>
+        <tran loc="ar">نسخ</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSWindow"; title = "Find"; ObjectID = "429"; </Description>
+      <Position>429.title</Position>
+      <TranslationSet>
+        <base loc="en">Find</base>
+        <tran loc="ar">بحث</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Find"; ObjectID = "482"; </Description>
+      <Position>482.title</Position>
+      <TranslationSet>
+        <base loc="en">Find</base>
+        <tran loc="ar">بحث</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenu"; title = "Find"; ObjectID = "484"; </Description>
+      <Position>484.title</Position>
+      <TranslationSet>
+        <base loc="en">Find</base>
+        <tran loc="ar">بحث</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Kern"; ObjectID = "518"; </Description>
+      <Position>518.title</Position>
+      <TranslationSet>
+        <base loc="en">Kern</base>
+        <tran loc="ar">تقنين الأحرف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenu"; title = "Kern"; ObjectID = "523"; </Description>
+      <Position>523.title</Position>
+      <TranslationSet>
+        <base loc="en">Kern</base>
+        <tran loc="ar">تقنين الأحرف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "About Stickies"; ObjectID = "58"; </Description>
+      <Position>58.title</Position>
+      <TranslationSet>
+        <base loc="en">About Stickies</base>
+        <tran loc="ar">حول الملصقات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Gray"; ObjectID = "214"; </Description>
+      <Position>214.title</Position>
+      <TranslationSet>
+        <base loc="en">Gray</base>
+        <tran loc="ar">رمادي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Use All"; ObjectID = "514"; </Description>
+      <Position>514.title</Position>
+      <TranslationSet>
+        <base loc="en">Use All</base>
+        <tran loc="ar">استخدام الكل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Redo Arrange"; ObjectID = "Q5C-Zx-SjO"; </Description>
+      <Position>Q5C-Zx-SjO.title</Position>
+      <TranslationSet>
+        <base loc="en">Redo Arrange</base>
+        <tran loc="ar">إعادة الترتيب</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Substitutions"; ObjectID = "100519"; </Description>
+      <Position>100519.title</Position>
+      <TranslationSet>
+        <base loc="en">Substitutions</base>
+        <tran loc="ar">البدائل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenu"; title = "Substitutions"; ObjectID = "100520"; </Description>
+      <Position>100520.title</Position>
+      <TranslationSet>
+        <base loc="en">Substitutions</base>
+        <tran loc="ar">البدائل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenu"; title = "MainMenu"; ObjectID = "29"; </Description>
+      <Position>29.title</Position>
+      <TranslationSet>
+        <base loc="en">MainMenu</base>
+        <tran loc="ar">MainMenu</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Start Speaking"; ObjectID = "498"; </Description>
+      <Position>498.title</Position>
+      <TranslationSet>
+        <base loc="en">Start Speaking</base>
+        <tran loc="ar">بدء التكلم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Underline"; ObjectID = "519"; </Description>
+      <Position>519.title</Position>
+      <TranslationSet>
+        <base loc="en">Underline</base>
+        <tran loc="ar">تسطير</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Capitalize"; ObjectID = "100541"; </Description>
+      <Position>100541.title</Position>
+      <TranslationSet>
+        <base loc="en">Capitalize</base>
+        <tran loc="ar">البدء بأحرف كبيرة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Window"; ObjectID = "19"; </Description>
+      <Position>19.title</Position>
+      <TranslationSet>
+        <base loc="en">Window</base>
+        <tran loc="ar">نافذة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenu"; title = "Window"; ObjectID = "24"; </Description>
+      <Position>24.title</Position>
+      <TranslationSet>
+        <base loc="en">Window</base>
+        <tran loc="ar">نافذة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Bigger"; ObjectID = "100597"; </Description>
+      <Position>100597.title</Position>
+      <TranslationSet>
+        <base loc="en">Bigger</base>
+        <tran loc="ar">أكبر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Hide Stickies"; ObjectID = "134"; </Description>
+      <Position>134.title</Position>
+      <TranslationSet>
+        <base loc="en">Hide Stickies</base>
+        <tran loc="ar">إخفاء الملصقات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Make Upper Case"; ObjectID = "100589"; </Description>
+      <Position>100589.title</Position>
+      <TranslationSet>
+        <base loc="en">Make Upper Case</base>
+        <tran loc="ar">استخدام الأحرف الكبيرة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Select All"; ObjectID = "488"; </Description>
+      <Position>488.title</Position>
+      <TranslationSet>
+        <base loc="en">Select All</base>
+        <tran loc="ar">تحديد الكل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenu"; title = "Help"; ObjectID = "562"; </Description>
+      <Position>562.title</Position>
+      <TranslationSet>
+        <base loc="en">Help</base>
+        <tran loc="ar">مساعدة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Help"; ObjectID = "563"; </Description>
+      <Position>563.title</Position>
+      <TranslationSet>
+        <base loc="en">Help</base>
+        <tran loc="ar">مساعدة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Cut"; ObjectID = "495"; </Description>
+      <Position>495.title</Position>
+      <TranslationSet>
+        <base loc="en">Cut</base>
+        <tran loc="ar">قص</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Smart Links"; ObjectID = "100523"; </Description>
+      <Position>100523.title</Position>
+      <TranslationSet>
+        <base loc="en">Smart Links</base>
+        <tran loc="ar">الروابط الذكية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Find…"; ObjectID = "479"; </Description>
+      <Position>479.title</Position>
+      <TranslationSet>
+        <base loc="en">Find…</base>
+        <tran loc="ar">بحث…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Add Link..."; ObjectID = "100462"; </Description>
+      <Position>100462.title</Position>
+      <TranslationSet>
+        <base loc="en">Add Link...</base>
+        <tran loc="ar">إضافة رابط...</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Export Text…"; ObjectID = "388"; </Description>
+      <Position>388.title</Position>
+      <TranslationSet>
+        <base loc="en">Export Text…</base>
+        <tran loc="ar">تصدير نص…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Ligature"; ObjectID = "512"; </Description>
+      <Position>512.title</Position>
+      <TranslationSet>
+        <base loc="en">Ligature</base>
+        <tran loc="ar">حرف مزدوج</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenu"; title = "Ligature"; ObjectID = "513"; </Description>
+      <Position>513.title</Position>
+      <TranslationSet>
+        <base loc="en">Ligature</base>
+        <tran loc="ar">حرف مزدوج</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Check Spelling While Typing"; ObjectID = "473"; </Description>
+      <Position>473.title</Position>
+      <TranslationSet>
+        <base loc="en">Check Spelling While Typing</base>
+        <tran loc="ar">تحقق من التدقيق الإملائي أثناء الكتابة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Current Note"; ObjectID = "426"; </Description>
+      <Position>426.title</Position>
+      <TranslationSet>
+        <base loc="en">Current Note</base>
+        <tran loc="ar">الملاحظة الحالية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenu"; title = "Speech"; ObjectID = "490"; </Description>
+      <Position>490.title</Position>
+      <TranslationSet>
+        <base loc="en">Speech</base>
+        <tran loc="ar">التكلم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Speech"; ObjectID = "492"; </Description>
+      <Position>492.title</Position>
+      <TranslationSet>
+        <base loc="en">Speech</base>
+        <tran loc="ar">التكلم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Ignore Case"; ObjectID = "100460"; </Description>
+      <Position>100460.title</Position>
+      <TranslationSet>
+        <base loc="en">Ignore Case</base>
+        <tran loc="ar">تجاهل حالة الأحرف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Undo Arrange"; ObjectID = "xBn-vI-hEA"; </Description>
+      <Position>xBn-vI-hEA.title</Position>
+      <TranslationSet>
+        <base loc="en">Undo Arrange</base>
+        <tran loc="ar">التراجع عن الترتيب</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Make Lower Case"; ObjectID = "100542"; </Description>
+      <Position>100542.title</Position>
+      <TranslationSet>
+        <base loc="en">Make Lower Case</base>
+        <tran loc="ar">تحويل إلى أحرف صغيرة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Show Colors"; ObjectID = "529"; </Description>
+      <Position>529.title</Position>
+      <TranslationSet>
+        <base loc="en">Show Colors</base>
+        <tran loc="ar">إظهار الألوان</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Replace All"; ObjectID = "100423"; </Description>
+      <Position>100423.title</Position>
+      <TranslationSet>
+        <base loc="en">Replace All</base>
+        <tran loc="ar">استبدال الكل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Loosen"; ObjectID = "536"; </Description>
+      <Position>536.title</Position>
+      <TranslationSet>
+        <base loc="en">Loosen</base>
+        <tran loc="ar">توسيع</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Raise"; ObjectID = "540"; </Description>
+      <Position>540.title</Position>
+      <TranslationSet>
+        <base loc="en">Raise</base>
+        <tran loc="ar">رفع</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Blue"; ObjectID = "210"; </Description>
+      <Position>210.title</Position>
+      <TranslationSet>
+        <base loc="en">Blue</base>
+        <tran loc="ar">أزرق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Bring All to Front"; ObjectID = "5"; </Description>
+      <Position>5.title</Position>
+      <TranslationSet>
+        <base loc="en">Bring All to Front</base>
+        <tran loc="ar">إحضار الكل إلى الأمام</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Next"; ObjectID = "100415"; </Description>
+      <Position>100415.title</Position>
+      <TranslationSet>
+        <base loc="en">Next</base>
+        <tran loc="ar">التالي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Smart Dashes"; ObjectID = "100526"; </Description>
+      <Position>100526.title</Position>
+      <TranslationSet>
+        <base loc="en">Smart Dashes</base>
+        <tran loc="ar">شرط ذكية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Smaller"; ObjectID = "100598"; </Description>
+      <Position>100598.title</Position>
+      <TranslationSet>
+        <base loc="en">Smaller</base>
+        <tran loc="ar">أصغر</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>Stickies/System/Applications/Stickies.app/Contents/Resources/en.lproj/InfoPlist.strings</Filepath>
+    <TextItem>
+      <Description> Localized versions of Info.plist keys </Description>
+      <Position>CFBundleName</Position>
+      <TranslationSet>
+        <base loc="en">Stickies</base>
+        <tran loc="ar">الملصقات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>NSHumanReadableCopyright</Position>
+      <TranslationSet>
+        <base loc="en">Copyright © 1999–2019 Apple Inc. All rights reserved.</base>
+        <tran loc="ar">‏Copyright © 1999–2019 Apple Inc.‎\nكافة الحقوق محفوظة.</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>Stickies/System/Applications/Stickies.app/Contents/Resources/en.lproj/283D5D66-E204-497A-A0DB-3B5D7963085A.rtfd/classic.tif</Filepath>
+  </File>
+  <File>
+    <Filepath>Stickies/System/Applications/Stickies.app/Contents/Resources/en.lproj/SNDocument.strings</Filepath>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "RTFD"; ObjectID = "B5D-pm-CgR"; </Description>
+      <Position>B5D-pm-CgR.title</Position>
+      <TranslationSet>
+        <base loc="en">RTFD</base>
+        <tran loc="ar">RTFD</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Format:"; ObjectID = "F7g-ed-TjS"; </Description>
+      <Position>F7g-ed-TjS.title</Position>
+      <TranslationSet>
+        <base loc="en">Format:</base>
+        <tran loc="ar">التنسيق:</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSWindow"; title = "Stickies"; ObjectID = "5"; </Description>
+      <Position>5.title</Position>
+      <TranslationSet>
+        <base loc="en">Stickies</base>
+        <tran loc="ar">الملصقات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButton"; ibExternalAccessibilityDescription = "close"; ObjectID = "4cj-3V-hoM"; </Description>
+      <Position>4cj-3V-hoM.ibExternalAccessibilityDescription</Position>
+      <TranslationSet>
+        <base loc="en">close</base>
+        <tran loc="ar">إغلاق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "RTF"; ObjectID = "74g-sO-1h4"; </Description>
+      <Position>74g-sO-1h4.title</Position>
+      <TranslationSet>
+        <base loc="en">RTF</base>
+        <tran loc="ar">RTF</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButton"; ibExternalAccessibilityDescription = "minimize"; ObjectID = "PXe-RS-Hgz"; </Description>
+      <Position>PXe-RS-Hgz.ibExternalAccessibilityDescription</Position>
+      <TranslationSet>
+        <base loc="en">minimize</base>
+        <tran loc="ar">تصغير</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButton"; ibShadowedToolTip = "Collapse"; ObjectID = "PXe-RS-Hgz"; </Description>
+      <Position>PXe-RS-Hgz.ibShadowedToolTip</Position>
+      <TranslationSet>
+        <base loc="en">Collapse</base>
+        <tran loc="ar">طي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButton"; ibShadowedToolTip = "Close"; ObjectID = "4cj-3V-hoM"; </Description>
+      <Position>4cj-3V-hoM.ibShadowedToolTip</Position>
+      <TranslationSet>
+        <base loc="en">Close</base>
+        <tran loc="ar">إغلاق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButton"; ibShadowedToolTip = "Zoom"; ObjectID = "IJt-U9-bIB"; </Description>
+      <Position>IJt-U9-bIB.ibShadowedToolTip</Position>
+      <TranslationSet>
+        <base loc="en">Zoom</base>
+        <tran loc="ar">تكبير/تصغير</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSPopUpButton"; ibExternalAccessibilityDescription = "format"; ObjectID = "b6n-KC-LVe"; </Description>
+      <Position>b6n-KC-LVe.ibExternalAccessibilityDescription</Position>
+      <TranslationSet>
+        <base loc="en">format</base>
+        <tran loc="ar">التنسيق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButton"; ibExternalAccessibilityDescription = "zoom"; ObjectID = "IJt-U9-bIB"; </Description>
+      <Position>IJt-U9-bIB.ibExternalAccessibilityDescription</Position>
+      <TranslationSet>
+        <base loc="en">zoom</base>
+        <tran loc="ar">تكبير/تصغير</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenu"; title = "OtherViews"; ObjectID = "ldK-76-bJA"; </Description>
+      <Position>ldK-76-bJA.title</Position>
+      <TranslationSet>
+        <base loc="en">OtherViews</base>
+        <tran loc="ar">OtherViews</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Plain Text"; ObjectID = "Rg8-Xw-j6w"; </Description>
+      <Position>Rg8-Xw-j6w.title</Position>
+      <TranslationSet>
+        <base loc="en">Plain Text</base>
+        <tran loc="ar">نص عادي</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>Stickies/System/Applications/Stickies.app/Contents/Resources/en.lproj/283D5D66-E204-497A-A0DB-3B5D7963085A.rtfd/TXT.rtf</Filepath>
+  </File>
+  <File>
+    <Filepath>Stickies/System/Applications/Stickies.app/Contents/Resources/en.lproj/Localizable.stringsdict</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>/DASHBOARD_IMPORTED_ALERT_MESSAGE:dict/importedCount:dict/other:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%u notes were imported from Dashboard.</base>
+        <tran loc="ar">تم استيراد %u ملاحظة من Dashboard.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/DASHBOARD_IMPORTED_ALERT_MESSAGE:dict/importedCount:dict/one:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">1 note was imported from Dashboard.</base>
+        <tran loc="ar">تم استيراد ملاحظة واحدة من Dashboard.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/DASHBOARD_IMPORTED_ALERT_MESSAGE:dict/NSStringLocalizedFormatKey:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%#@importedCount@</base>
+        <tran loc="ar">%#@importedCount@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/DASHBOARD_IMPORTED_ALERT_MESSAGE:dict/importedCount:dict/zero:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">No notes were imported from Dashboard.</base>
+        <tran loc="ar">لم يتم استيراد أي ملاحظات من Dashboard.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/DASHBOARD_IMPORTED_ALERT_MESSAGE:dict/importedCount:dict/few:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">__Source_text_is_empty__Translate_Or_Leave_this_text_as_is_if_target_text_is_also_empty__(/DASHBOARD_IMPORTED_ALERT_MESSAGE:dict/importedCount:dict/few:dict/:string)</base>
+        <tran loc="ar">__Source_text_is_empty__Translate_Or_Leave_this_text_as_is_if_target_text_is_also_empty__(/DASHBOARD_IMPORTED_ALERT_MESSAGE:dict/importedCount:dict/few:dict/:string)</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/DASHBOARD_IMPORTED_ALERT_MESSAGE:dict/importedCount:dict/many:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">__Source_text_is_empty__Translate_Or_Leave_this_text_as_is_if_target_text_is_also_empty__(/DASHBOARD_IMPORTED_ALERT_MESSAGE:dict/importedCount:dict/many:dict/:string)</base>
+        <tran loc="ar">__Source_text_is_empty__Translate_Or_Leave_this_text_as_is_if_target_text_is_also_empty__(/DASHBOARD_IMPORTED_ALERT_MESSAGE:dict/importedCount:dict/many:dict/:string)</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/DASHBOARD_IMPORTED_ALERT_MESSAGE:dict/importedCount:dict/two:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">__Source_text_is_empty__Translate_Or_Leave_this_text_as_is_if_target_text_is_also_empty__(/DASHBOARD_IMPORTED_ALERT_MESSAGE:dict/importedCount:dict/two:dict/:string)</base>
+        <tran loc="ar">__Source_text_is_empty__Translate_Or_Leave_this_text_as_is_if_target_text_is_also_empty__(/DASHBOARD_IMPORTED_ALERT_MESSAGE:dict/importedCount:dict/two:dict/:string)</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+</Proj>

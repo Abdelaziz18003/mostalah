@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Proj>
+  <ProjName>AccountNotification</ProjName>
+  <File>
+    <Filepath>AccountNotification/System/Library/PrivateFrameworks/AccountNotification.framework/en.lproj/Localizable.strings</Filepath>
+    <TextItem>
+      <Description> 
+  Localizable.strings
+  AccountNotification
+
+  Created by Lestat Ali on 10/24/14.
+  Copyright (c) 2014 Apple Inc. All rights reserved.
+ 
+  This is a mapping of ACAccountType identifiers to display names
+  that "and" uses for naming sections in Notification Center.
+</Description>
+      <Position>com.apple.account.AppleAccount</Position>
+      <TranslationSet>
+        <base loc="en">iCloud</base>
+        <tran loc="ar">‏iCloud</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+</Proj>

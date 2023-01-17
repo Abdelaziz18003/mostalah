@@ -1,0 +1,2893 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Proj>
+  <ProjName>IASUtilities</ProjName>
+  <File>
+    <Filepath>IASUtilities/System/Library/CoreServices/Installer Progress.app/Contents/Resources/en.lproj/MainMenu.strings</Filepath>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Lower Progress App"; ObjectID = "u48-F0-skR"; </Description>
+      <Position>u48-F0-skR.title</Position>
+      <TranslationSet>
+        <base loc="en">Lower Progress App</base>
+        <tran loc="ar">خفض تطبيق التقدم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "End Progress App"; ObjectID = "HHI-Vd-Ewf"; </Description>
+      <Position>HHI-Vd-Ewf.title</Position>
+      <TranslationSet>
+        <base loc="en">End Progress App</base>
+        <tran loc="ar">إنهاء تطبيق التقدم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenu"; title = "Main Menu"; ObjectID = "AYu-sK-qS6"; </Description>
+      <Position>AYu-sK-qS6.title</Position>
+      <TranslationSet>
+        <base loc="en">Main Menu</base>
+        <tran loc="ar">القائمة الرئيسية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenu"; title = "Debug"; ObjectID = "RLd-kg-fUw"; </Description>
+      <Position>RLd-kg-fUw.title</Position>
+      <TranslationSet>
+        <base loc="en">Debug</base>
+        <tran loc="ar">تصحيح الأخطاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Debug"; ObjectID = "SuP-74-oSU"; </Description>
+      <Position>SuP-74-oSU.title</Position>
+      <TranslationSet>
+        <base loc="en">Debug</base>
+        <tran loc="ar">تصحيح الأخطاء</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>IASUtilities/System/Library/PrivateFrameworks/IASUtilities.framework/Versions/A/Resources/en.lproj/LogWindow.strings</Filepath>
+    <TextItem>
+      <Description> Class = "NSWindow"; title = "Installer Log"; ObjectID = "90l-qg-luG"; </Description>
+      <Position>90l-qg-luG.title</Position>
+      <TranslationSet>
+        <base loc="en">Installer Log</base>
+        <tran loc="ar">سجل المثبّت</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTableColumn"; headerCell.title = "Line"; ObjectID = "75k-yO-6PD"; </Description>
+      <Position>75k-yO-6PD.headerCell.title</Position>
+      <TranslationSet>
+        <base loc="en">Line</base>
+        <tran loc="ar">خط</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTableColumn"; headerCell.title = "Message"; ObjectID = "ovj-Oy-fa6"; </Description>
+      <Position>ovj-Oy-fa6.headerCell.title</Position>
+      <TranslationSet>
+        <base loc="en">Message</base>
+        <tran loc="ar">رسالة</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>IASUtilities/System/Library/PrivateFrameworks/IASUtilities.framework/Versions/A/Resources/en.lproj/IASLocalSecretPrompt.strings</Filepath>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "&lt;&lt; Do not localize - message text field &gt;&gt;"; ObjectID = "4cS-Zc-NMW"; </Description>
+      <Position>4cS-Zc-NMW.title</Position>
+      <TranslationSet>
+        <base loc="en">&lt;&lt; Do not localize - message text field &gt;&gt;</base>
+        <tran loc="ar">&lt;&lt; Do not localize - message text field &gt;&gt;</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Password:"; ObjectID = "FgH-pW-ivA"; </Description>
+      <Position>FgH-pW-ivA.title</Position>
+      <TranslationSet>
+        <base loc="en">Password:</base>
+        <tran loc="ar">كلمة السر:</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "OK"; ObjectID = "jF1-RM-sk2"; </Description>
+      <Position>jF1-RM-sk2.title</Position>
+      <TranslationSet>
+        <base loc="en">OK</base>
+        <tran loc="ar">موافق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Cancel"; ObjectID = "tjX-jY-sSX"; </Description>
+      <Position>tjX-jY-sSX.title</Position>
+      <TranslationSet>
+        <base loc="en">Cancel</base>
+        <tran loc="ar">إلغاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "User Name:"; ObjectID = "nc4-bI-BVx"; </Description>
+      <Position>nc4-bI-BVx.title</Position>
+      <TranslationSet>
+        <base loc="en">User Name:</base>
+        <tran loc="ar">اسم المستخدم:</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "iCloud wants to make changes to your account. Type your password to allow this."; ObjectID = "adM-VM-fDq"; </Description>
+      <Position>adM-VM-fDq.title</Position>
+      <TranslationSet>
+        <base loc="en">iCloud wants to make changes to your account. Type your password to allow this.</base>
+        <tran loc="ar">يرغب iCloud في إجراء تغييرات في حسابك. اكتب كلمة السر الخاصة بك للسماح بذلك.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSWindow"; title = "Window"; ObjectID = "qKl-fg-mbo"; </Description>
+      <Position>qKl-fg-mbo.title</Position>
+      <TranslationSet>
+        <base loc="en">Window</base>
+        <tran loc="ar">Window</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>IASUtilities/System/Library/PrivateFrameworks/IASUtilities.framework/Versions/A/Resources/en.lproj/IASTimeRemainingFormatter.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>About &lt;time&gt;</Position>
+      <TranslationSet>
+        <base loc="en">About %@ remaining…</base>
+        <tran loc="ar">متبقٍ حوالي %@…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Variants for when the unit is singular (EG: "an hour" or "a minute") </Description>
+      <Position>About &lt;time&gt; singular</Position>
+      <TranslationSet>
+        <base loc="en">About %@ remaining…</base>
+        <tran loc="ar">متبقٍ حوالي %@…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>a second</Position>
+      <TranslationSet>
+        <base loc="en">a second</base>
+        <tran loc="ar">ثانية واحدة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>&lt;n&gt; seconds</Position>
+      <TranslationSet>
+        <base loc="en">%@ seconds</base>
+        <tran loc="ar">%@ من الثواني</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>&lt;n&gt; seconds (zero)</Position>
+      <TranslationSet>
+        <base loc="en">%@ seconds</base>
+        <tran loc="ar">%@ من الثواني</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>a minute</Position>
+      <TranslationSet>
+        <base loc="en">a minute</base>
+        <tran loc="ar">دقيقة واحدة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>&lt;n&gt; hours and &lt;n&gt; minutes</Position>
+      <TranslationSet>
+        <base loc="en">%@ hours and %@ minutes</base>
+        <tran loc="ar">%@ من الساعات و%@ من الدقائق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>an hour</Position>
+      <TranslationSet>
+        <base loc="en">an hour</base>
+        <tran loc="ar">ساعة واحدة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Less than &lt;time&gt; singular</Position>
+      <TranslationSet>
+        <base loc="en">Less than %@ remaining…</base>
+        <tran loc="ar">متبقٍ أقل من %@…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>&lt;n&gt; hours</Position>
+      <TranslationSet>
+        <base loc="en">%@ hours</base>
+        <tran loc="ar">%@ من الساعات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>&lt;n&gt; minutes</Position>
+      <TranslationSet>
+        <base loc="en">%@ minutes</base>
+        <tran loc="ar">%@ من الدقائق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>&lt;n&gt; hour and &lt;n&gt; minutes</Position>
+      <TranslationSet>
+        <base loc="en">%@ hour and %@ minutes</base>
+        <tran loc="ar">ساعة %@ و%@ من الدقائق</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>IASUtilities/System/Library/PrivateFrameworks/IASUtilities.framework/Versions/A/Resources/en.lproj/IASStream.strings</Filepath>
+    <TextItem>
+      <Description> IASStreamUnknownDigestAlgorithmError </Description>
+      <Position>101</Position>
+      <TranslationSet>
+        <base loc="en">An unknown digest algorithm was specified.</base>
+        <tran loc="ar">تم تحديد خوارزمية تشفير غير معروفة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 
+  IASStream.strings
+  IASUtilities
+
+  Created by Ben Mitchell on 11/9/14.
+  Copyright © 2015 Apple Inc. All rights reserved.
+
+ IASStreamInternalError </Description>
+      <Position>100</Position>
+      <TranslationSet>
+        <base loc="en">An internal error occurred while extracting data.</base>
+        <tran loc="ar">حدث خطأ داخلي أثناء استخراج البيانات.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> IASCompressedStreamUnknownError </Description>
+      <Position>200</Position>
+      <TranslationSet>
+        <base loc="en">Couldn’t read the requested data because an unknown error occurred.</base>
+        <tran loc="ar">تعذرت قراءة البيانات المطلوبة بسبب حدوث خطأ غير معروف.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> IASStreamSeekingIncapableError </Description>
+      <Position>102</Position>
+      <TranslationSet>
+        <base loc="en">Couldn’t read the requested data.</base>
+        <tran loc="ar">تعذرت قراءة البيانات المطلوبة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> IASCompressedStreamInvalidDataError </Description>
+      <Position>201</Position>
+      <TranslationSet>
+        <base loc="en">Couldn’t read the requested data because it was corrupted.</base>
+        <tran loc="ar">تعذرت قراءة البيانات المطلوبة لأنها تلفت.</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>IASUtilities/System/Library/CoreServices/Installer Progress.app/Contents/Resources/en.lproj/Localizable.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>APPLE_LOGO</Position>
+      <TranslationSet>
+        <base loc="en">Apple logo</base>
+        <tran loc="ar">شعار Apple</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>IASUtilities/System/Library/PrivateFrameworks/IASUtilities.framework/Versions/A/Resources/en.lproj/LogWindowExtras.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>FILTER_FIELD</Position>
+      <TranslationSet>
+        <base loc="en">Filter</base>
+        <tran loc="ar">تصفية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>INSTALLER_LOG_FILE_FORMAT</Position>
+      <TranslationSet>
+        <base loc="en">Installer Log %@.txt</base>
+        <tran loc="ar">سجل المثبّت %@‏txt.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ALL_LOGS</Position>
+      <TranslationSet>
+        <base loc="en">Show All Logs</base>
+        <tran loc="ar">إظهار كل السجلات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Localizable strings for Installer Log 
+ Print menu item </Description>
+      <Position>PrintLogMenuItem</Position>
+      <TranslationSet>
+        <base loc="en">Print Log…</base>
+        <tran loc="ar">طباعة السجل…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>OK</Position>
+      <TranslationSet>
+        <base loc="en">OK</base>
+        <tran loc="ar">موافق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DETAIL_LEVEL</Position>
+      <TranslationSet>
+        <base loc="en">Detail Level</base>
+        <tran loc="ar">مستوى التفاصيل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ERROR_LOGS</Position>
+      <TranslationSet>
+        <base loc="en">Show Errors Only</base>
+        <tran loc="ar">إظهار الأخطاء فقط</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ERROR_AND_PROGRESS_LOGS</Position>
+      <TranslationSet>
+        <base loc="en">Show Errors and Progress</base>
+        <tran loc="ar">إظهار الأخطاء والتقدم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UNABLE_TO_SAVE_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Couldn’t Save</base>
+        <tran loc="ar">تعذر الحفظ</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UNABLE_TO_SAVE_MESSAGE</Position>
+      <TranslationSet>
+        <base loc="en">You do not have permission to save the file at that location.</base>
+        <tran loc="ar">لا يتوفر لديك الإذن اللازم لحفظ الملف في هذا الموقع.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SAVE_FILE</Position>
+      <TranslationSet>
+        <base loc="en">Save</base>
+        <tran loc="ar">حفظ</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>IASUtilities/System/Library/PrivateFrameworks/IASUtilities.framework/Versions/A/Resources/en.lproj/IASDeviceStrings.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_ENROLL_DEVICE_THIS_MAC_TITLE_FORMAT_MACBOOK_PRO</Position>
+      <TranslationSet>
+        <base loc="en">Enter the password you use to unlock the MacBook Pro.</base>
+        <tran loc="ar">أدخل كلمة السر التي تستخدمها لفتح قفل الـ MacBook Pro.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_FORGOT_ONE_NO_OTHER_DEVICES_TITLE_REMOTE_AND_SERVER_RECOVER_IMAC</Position>
+      <TranslationSet>
+        <base loc="en">If you can’t remember the password for the iMac “%@”, you can approve this Mac using another device or regain access to your Apple ID with account recovery.</base>
+        <tran loc="ar">إذا كنت لا تتذكر كلمة السر للـ iMac‏ \"%@\"، يمكنك الموافقة على هذا الـ Mac باستخدام جهاز آخر أو استعادة الوصول إلى Apple ID الخاص بك باستخدام ميزة استرداد الحساب.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_ENROLL_DEVICE_WAIT_OTHER_DEVICE_MACBOOK_PRO</Position>
+      <TranslationSet>
+        <base loc="en">Go to one of your other devices signed in to iCloud to approve this MacBook Pro.</base>
+        <tran loc="ar">انتقل إلى أحد أجهزتك الأخرى المسجل عليها الدخول إلى iCloud للموافقة على هذا الـ MacBook Pro.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> ICDP_DEVICE_PASSCODE_WRONG_WARN_NOT_LOCAL_*</Description>
+      <Position>ICDP_DEVICE_PASSCODE_WRONG_WARN_NOT_LOCAL_MACBOOK</Position>
+      <TranslationSet>
+        <base loc="en">Enter the passcode for “%@”, which is not the password for this MacBook.</base>
+        <tran loc="ar">أدخل رمز الدخول للـ \"%@\"، والذي يختلف عن كلمة السر لهذا الـ MacBook.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_ENROLL_DEVICE_MESSAGE_FORMAT_MACBOOK_PRO</Position>
+      <TranslationSet>
+        <base loc="en">Access to your account is protected by the password you use to unlock the MacBook Pro “%@” . Your password is encrypted and cannot be read by Apple.</base>
+        <tran loc="ar">الوصول إلى حسابك محمي بكلمة السر التي تستخدمها لفتح قفل الـ MacBook Pro‏ \"%@\". كلمة السر الخاصة بك مشفرة ولا يمكن قراءتها من قِبل شركة Apple.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_FORGOT_ONE_NO_OTHER_DEVICES_TITLE_NO_REMOTE_MACBOOK_AIR</Position>
+      <TranslationSet>
+        <base loc="en">If you can’t remember the password for the MacBook Air “%@”, you can still sign in but your end-to-end encrypted data will be temporarily unavailable.</base>
+        <tran loc="ar">إذا كنت لا تتذكر كلمة سر الـ MacBook Air ‏\"%@\"، فلا يزال بإمكانك تسجيل الدخول ولكن ستصبح بياناتك المشفرة بالكامل غير متوفرة مؤقتًا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_FORGOT_ONE_NO_OTHER_DEVICES_TITLE_REMOTE_MACBOOK_AIR</Position>
+      <TranslationSet>
+        <base loc="en">If you can’t remember the password for the MacBook Air “%@”, you can still sign in but your end-to-end encrypted data will be temporarily unavailable.</base>
+        <tran loc="ar">إذا كنت لا تتذكر كلمة سر الـ MacBook Air ‏\"%@\"، فلا يزال بإمكانك تسجيل الدخول ولكن ستصبح بياناتك المشفرة بالكامل غير متوفرة مؤقتًا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_ENROLL_DEVICE_MESSAGE_FORMAT_MACBOOK_AIR</Position>
+      <TranslationSet>
+        <base loc="en">Access to your account is protected by the password you use to unlock the MacBook Air “%@”. Your password is encrypted and cannot be read by Apple.</base>
+        <tran loc="ar">الوصول إلى حسابك محمي بكلمة السر التي تستخدمها لفتح قفل الـ MacBook Air‏ \"%@\". كلمة السر الخاصة بك مشفرة ولا يمكن قراءتها من قِبل شركة Apple.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_FORGOT_ONE_NO_OTHER_DEVICES_TITLE_NO_REMOTE_SERVER_RECOVER_MAC_MINI</Position>
+      <TranslationSet>
+        <base loc="en">If you can’t remember the password for the Mac mini “%@”, you can still regain access to your Apple ID with account recovery.</base>
+        <tran loc="ar">إذا كنت لا تتذكر كلمة السر للـ Mac mini‏ \"%@\"، فلا يزال بإمكانك استعادة الوصول إلى Apple ID الخاص بك باستخدام ميزة استرداد الحساب.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> ICDP_DEVICE_HEADER_OLD_*</Description>
+      <Position>ICDP_DEVICE_HEADER_OLD_MACBOOK</Position>
+      <TranslationSet>
+        <base loc="en">Access to your account is protected by the password you previously used to unlock this MacBook</base>
+        <tran loc="ar">الوصول إلى حسابك محمي بكلمة السر التي استخدمتها سابقًا لفتح قفل هذا الـ MacBook</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_ENROLL_DEVICE_MESSAGE_FORMAT_MAC</Position>
+      <TranslationSet>
+        <base loc="en">Access to your account is protected by the password you use to unlock the Mac “%@”. Your password is encrypted and cannot be read by Apple.</base>
+        <tran loc="ar">الوصول إلى حسابك محمي بكلمة السر التي تستخدمها لفتح قفل الـ Mac ‏\"%@\". كلمة السر الخاصة بك مشفرة ولا يمكن قراءتها من قِبل شركة Apple.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_DEVICE_PASSCODE_WRONG_WARN_NOT_LOCAL_MAC_PRO</Position>
+      <TranslationSet>
+        <base loc="en">Enter the passcode for “%@”, which is not the password for this Mac Pro.</base>
+        <tran loc="ar">أدخل رمز الدخول للـ \"%@\"، والذي يختلف عن كلمة السر لهذا الـ Mac Pro.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_ENTER_SECRET_MACBOOK_PRO</Position>
+      <TranslationSet>
+        <base loc="en">Enter the passcode you use to unlock the MacBook Pro “%@”. Your password is encrypted and cannot be read by Apple.</base>
+        <tran loc="ar">أدخل رمز الدخول الذي تستخدمه لفتح قفل الـ MacBook Pro \"%@\". كلمة السر الخاصة بك مشفرة ولا يمكن قراءتها بواسطة شركة Apple.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>REMOTE_SECRET_ENTRY_RECOVERY_ERROR_MESSAGE_IPHONE</Position>
+      <TranslationSet>
+        <base loc="en">There was an error verifying the passcode of your iPhone.</base>
+        <tran loc="ar">حدث خطأ أثناء التحقق من رمز الدخول للـ iPhone الخاص بك.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>REMOTE_SECRET_ENTRY_INCORRECT_IMAC</Position>
+      <TranslationSet>
+        <base loc="en">Enter the iMac password again.</base>
+        <tran loc="ar">أدخل كلمة سر الـ iMac مرة أخرى.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_ENTER_PASSWORD_NAME_ONLY</Position>
+      <TranslationSet>
+        <base loc="en">Enter the passcode you use to unlock “%@”. Your password is encrypted and cannot be read by Apple.</base>
+        <tran loc="ar">أدخل رمز الدخول الذي تستخدمه لفتح قفل \"%@\". كلمة السر الخاصة بك مشفرة ولا يمكن قراءتها بواسطة شركة Apple.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_ENROLL_DEVICE_THIS_MAC_MESSAGE_FORMAT_IPHONE</Position>
+      <TranslationSet>
+        <base loc="en">Access to your account is protected by the passcode you previously used to unlock this iPhone. Your passcode is encrypted and cannot be read by Apple.</base>
+        <tran loc="ar">الوصول إلى حسابك محمي برمز الدخول الذي استخدمته سابقًا لفتح قفل هذا الـ iPhone. رمز الدخول الخاص بك مشفر ولا يمكن قراءته من قِبل شركة Apple.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_FORGOT_ONE_TITLE_MACBOOK_AIR</Position>
+      <TranslationSet>
+        <base loc="en">If you can’t remember the password for the MacBook Air “%@”, you can enter the password or passcode of one of your other devices.</base>
+        <tran loc="ar">إذا كنت لا تتذكر كلمة السر للـ MacBook Air‏ \"%@\"، يمكنك إدخال كلمة السر أو رمز الدخول لأحد أجهزتك الأخرى.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_ENROLL_DEVICE_WAIT_OTHER_DEVICE_IPHONE</Position>
+      <TranslationSet>
+        <base loc="en">Go to one of your other devices signed in to iCloud to approve this iPhone.</base>
+        <tran loc="ar">انتقل إلى أحد أجهزتك الأخرى المسجل عليها الدخول إلى iCloud للموافقة على هذا الـ iPhone.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> ICDP_DEVICE_HEADER_*
+"ICDP_DEVICE_HEADER_MACBOOK" = "Some of your data stored in iCloud is protected by the password for your MacBook";
+"ICDP_DEVICE_HEADER_MACBOOK_PRO" = "Some of your data stored in iCloud is protected by the password for your MacBook Pro";
+"ICDP_DEVICE_HEADER_MACBOOK_AIR" = "Some of your data stored in iCloud is protected by the password for your MacBook Air";
+"ICDP_DEVICE_HEADER_MAC_PRO" = "Some of your data stored in iCloud is protected by the password for your Mac Pro";
+"ICDP_DEVICE_HEADER_MAC_MINI" = "Some of your data stored in iCloud is protected by the password for your Mac mini";
+"ICDP_DEVICE_HEADER_IMAC" = "Some of your data stored in iCloud is protected by the password for your iMac";
+"ICDP_DEVICE_HEADER_IPHONE" = "Some of your data stored in iCloud is protected by the passcode for your iPhone";
+"ICDP_DEVICE_HEADER_IPAD" = "Some of your data stored in iCloud is protected by the passcode for your iPad";
+"ICDP_DEVICE_HEADER_IPOD_TOUCH" = "Some of your data stored in iCloud is protected by the passcode for your iPod";
+"ICDP_DEVICE_HEADER_GENERIC" = "Some of your data stored in iCloud is protected by the passcode for your device";</Description>
+      <Position>ICDP_DEVICE_HEADER_MACBOOK</Position>
+      <TranslationSet>
+        <base loc="en">Access to your account is protected by your MacBook password</base>
+        <tran loc="ar">الوصول إلى حسابك محمي بكلمة سر الـ MacBook الخاص بك</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_FORGOT_ONE_NO_OTHER_DEVICES_TITLE_REMOTE_USE_RECOVERY_KEY_MACBOOK_PRO</Position>
+      <TranslationSet>
+        <base loc="en">If you can’t remember the password for the MacBook Pro “%@”, you can use your 28-character recovery key.</base>
+        <tran loc="ar">إذا كنت لا تتذكر كلمة سر الـ MacBook Pro ‏\"%@\"، يمكنك استخدام مفتاح الاسترداد الخاص بك المكوّن من ٢٨ حرفًا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>RK_DEPLETED_ATTEMPTS_NO_DEVICES_ERROR_MESSAGE_MACBOOK_PRO</Position>
+      <TranslationSet>
+        <base loc="en">If you can’t remember the password for the MacBook Pro “%@”, you can use your 28-character recovery key.</base>
+        <tran loc="ar">إذا كنت لا تتذكر كلمة سر الـ MacBook Pro ‏\"%@\"، يمكنك استخدام مفتاح الاسترداد الخاص بك المكوّن من ٢٨ حرفًا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_DEVICE_TITLE_IPHONE</Position>
+      <TranslationSet>
+        <base loc="en">Enter iPhone Passcode</base>
+        <tran loc="ar">أدخل رمز دخول الـ iPhone</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Localizable strings for iCDP devices 
+ ICDP_DEVICE_TITLE_*</Description>
+      <Position>ICDP_DEVICE_TITLE_MACBOOK</Position>
+      <TranslationSet>
+        <base loc="en">Enter Password for Other MacBook</base>
+        <tran loc="ar">أدخل كلمة سر الـ MacBook الآخر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> ICDP_DEVICE_WRONG_WARN_NOT_LOCAL_TITLE_*</Description>
+      <Position>ICDP_DEVICE_WRONG_WARN_NOT_LOCAL_TITLE_MACBOOK</Position>
+      <TranslationSet>
+        <base loc="en">Enter Password for Other MacBook</base>
+        <tran loc="ar">أدخل كلمة سر الـ MacBook الآخر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_FORGOT_ONE_TITLE_FOLLOW_UP_IPOD_TOUCH</Position>
+      <TranslationSet>
+        <base loc="en">If you can’t remember the passcode for the iPod touch “%@”, you can enter the password or passcode of one of your other devices or reset your end-to-end encrypted data to finish setting up iCloud.</base>
+        <tran loc="ar">إذا كنت لا تتذكر رمز دخول الـ iPod touch ‏\"%@\"، يمكنك إدخال كلمة السر أو رمز الدخول لأحد أجهزتك الأخرى أو إعادة تعيين بياناتك المشفرة بالكامل لإنهاء إعداد iCloud.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_FORGOT_ONE_NO_OTHER_DEVICES_TITLE_NO_REMOTE_SERVER_RECOVER_IPAD</Position>
+      <TranslationSet>
+        <base loc="en">If you can’t remember the passcode for the iPad “%@”, you can still regain access to your Apple ID with account recovery.</base>
+        <tran loc="ar">إذا كنت لا تتذكر رمز الدخول للـ iPad‏ \"%@\"، فلا يزال بإمكانك استعادة الوصول إلى Apple ID الخاص بك باستخدام ميزة استرداد الحساب.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_ENROLL_DEVICE_THIS_MAC_MESSAGE_FORMAT_MACBOOK_AIR</Position>
+      <TranslationSet>
+        <base loc="en">Access to your account is protected by the password you previously used to unlock this MacBook Air. Your password is encrypted and cannot be read by Apple.</base>
+        <tran loc="ar">الوصول إلى حسابك محمي بكلمة السر التي استخدمتها سابقًا لفتح قفل هذا الـ MacBook Air. كلمة السر الخاصة بك مشفرة ولا يمكن قراءتها من قِبل شركة Apple.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_FORGOT_SECRET_FORMAT_IMAC</Position>
+      <TranslationSet>
+        <base loc="en">Forgot iMac password?</base>
+        <tran loc="ar">هل نسيت كلمة سر الـ iMac؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_ENROLL_DEVICE_THIS_MAC_TITLE_FORMAT_GENERIC</Position>
+      <TranslationSet>
+        <base loc="en">Enter the passcode you use to unlock device.</base>
+        <tran loc="ar">أدخل رمز الدخول الذي تستخدمه لفتح قفل الجهاز.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_FORGOT_ONE_TITLE_MACBOOK_PRO</Position>
+      <TranslationSet>
+        <base loc="en">If you can’t remember the password for the MacBook Pro “%@”, you can enter the password or passcode of one of your other devices.</base>
+        <tran loc="ar">إذا كنت لا تتذكر كلمة السر للـ MacBook Pro‏ \"%@\"، يمكنك إدخال كلمة السر أو رمز الدخول لأحد أجهزتك الأخرى.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_ENROLL_DEVICE_THIS_MAC_MESSAGE_FORMAT_IMAC</Position>
+      <TranslationSet>
+        <base loc="en">Access to your account is protected by the password you previously used to unlock this iMac. Your password is encrypted and cannot be read by Apple.</base>
+        <tran loc="ar">الوصول إلى حسابك محمي بكلمة السر التي استخدمتها سابقًا لفتح قفل هذا الـ iMac. كلمة السر الخاصة بك مشفرة ولا يمكن قراءتها من قِبل شركة Apple.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_ENROLL_DEVICE_TITLE_FORMAT_MAC_MINI</Position>
+      <TranslationSet>
+        <base loc="en">Enter the password you use to unlock the Mac mini “%@”.</base>
+        <tran loc="ar">أدخل كلمة السر التي تستخدمها لفتح قفل الـ Mac mini \"%@\".</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_DEVICE_TITLE_MAC_MINI</Position>
+      <TranslationSet>
+        <base loc="en">Enter Password for Other Mac mini</base>
+        <tran loc="ar">أدخل كلمة سر الـ Mac mini الآخر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_DEVICE_WRONG_WARN_NOT_LOCAL_TITLE_MAC_MINI</Position>
+      <TranslationSet>
+        <base loc="en">Enter Password for Other Mac mini</base>
+        <tran loc="ar">أدخل كلمة سر الـ Mac mini الآخر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_FORGOT_ONE_NO_OTHER_DEVICES_TITLE_NO_REMOTE_MACBOOK_PRO</Position>
+      <TranslationSet>
+        <base loc="en">If you can’t remember the password for the MacBook Pro “%@”, you can still sign in but your end-to-end encrypted data will be temporarily unavailable.</base>
+        <tran loc="ar">إذا كنت لا تتذكر كلمة سر الـ MacBook Pro ‏\"%@\"، فلا يزال بإمكانك تسجيل الدخول ولكن ستصبح بياناتك المشفرة بالكامل غير متوفرة مؤقتًا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_FORGOT_ONE_NO_OTHER_DEVICES_TITLE_REMOTE_MACBOOK_PRO</Position>
+      <TranslationSet>
+        <base loc="en">If you can’t remember the password for the MacBook Pro “%@”, you can still sign in but your end-to-end encrypted data will be temporarily unavailable.</base>
+        <tran loc="ar">إذا كنت لا تتذكر كلمة سر الـ MacBook Pro ‏\"%@\"، فلا يزال بإمكانك تسجيل الدخول ولكن ستصبح بياناتك المشفرة بالكامل غير متوفرة مؤقتًا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> ICDP_FORGOT_ONE_NO_OTHER_DEVICES_TITLE_REMOTE_AND_SERVER_RECOVER_*</Description>
+      <Position>ICDP_FORGOT_ONE_NO_OTHER_DEVICES_TITLE_REMOTE_AND_SERVER_RECOVER_MACBOOK</Position>
+      <TranslationSet>
+        <base loc="en">If you can’t remember the password for the MacBook “%@”, you can approve this Mac using another device or regain access to your Apple ID with account recovery.</base>
+        <tran loc="ar">إذا كنت لا تتذكر كلمة السر للـ MacBook‏ \"%@\"، يمكنك الموافقة على هذا الـ Mac باستخدام جهاز آخر أو استعادة الوصول إلى Apple ID الخاص بك باستخدام ميزة استرداد الحساب.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_FORGOT_ONE_TITLE_FOLLOW_UP_MACBOOK_PRO</Position>
+      <TranslationSet>
+        <base loc="en">If you can’t remember the password for the MacBook Pro“%@”, you can enter the password or passcode of one of your other devices or reset your end-to-end encrypted data to finish setting up iCloud.</base>
+        <tran loc="ar">إذا كنت لا تتذكر كلمة سر الـ MacBook Pro ‏\"%@\"، يمكنك إدخال كلمة السر أو رمز الدخول لأحد أجهزتك الأخرى أو إعادة تعيين بياناتك المشفرة بالكامل لإنهاء إعداد iCloud.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>REMOTE_SECRET_ENTRY_RECOVERY_ERROR_MESSAGE_IMAC</Position>
+      <TranslationSet>
+        <base loc="en">There was an error verifying the password of your iMac.</base>
+        <tran loc="ar">حدث خطأ أثناء التحقق من كلمة السر للـ iMac الخاص بك.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>REMOTE_SECRET_ENTRY_INCORRECT_MAC</Position>
+      <TranslationSet>
+        <base loc="en">Enter the Mac password again.</base>
+        <tran loc="ar">أدخل كلمة سر الـ Mac مرة أخرى.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>IDMS_RECOVERY_DEVICE_TITLE_FORMAT_MAC</Position>
+      <TranslationSet>
+        <base loc="en">Enter the password for the Mac “%@”.</base>
+        <tran loc="ar">أدخل كلمة سر الـ Mac ‏\"%@\".</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_ENROLL_DEVICE_TITLE_FORMAT_GENERIC</Position>
+      <TranslationSet>
+        <base loc="en">Enter the passcode you use to unlock the device “%@”.</base>
+        <tran loc="ar">أدخل رمز الدخول الذي تستخدمه لفتح قفل الجهاز \"%@\".</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_DEVICE_HEADER_IPHONE</Position>
+      <TranslationSet>
+        <base loc="en">Access to your account is protected by your iPhone passcode</base>
+        <tran loc="ar">الوصول إلى حسابك محمي برمز دخول الـ iPhone الخاص بك</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_ENROLL_DEVICE_MESSAGE_FORMAT_MAC_MINI</Position>
+      <TranslationSet>
+        <base loc="en">Access to your account is protected by the password you use to unlock the Mac mini “%@”. Your password is encrypted and cannot be read by Apple.</base>
+        <tran loc="ar">الوصول إلى حسابك محمي بكلمة السر التي تستخدمها لفتح قفل الـ Mac mini‏ \"%@\". كلمة السر الخاصة بك مشفرة ولا يمكن قراءتها من قِبل شركة Apple.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_DEVICE_HEADER_OLD_MAC_PRO</Position>
+      <TranslationSet>
+        <base loc="en">Access to your account is protected by the password you previously used to unlock this Mac Pro</base>
+        <tran loc="ar">الوصول إلى حسابك محمي بكلمة السر التي استخدمتها سابقًا لفتح قفل هذا الـ Mac Pro</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>IDMS_RECOVERY_DEVICE_MESSAGE_FORMAT_IMAC</Position>
+      <TranslationSet>
+        <base loc="en">Your password is encrypted and cannot be read by Apple.</base>
+        <tran loc="ar">كلمة السر الخاصة بك مشفرة ولا يمكن قراءتها من قِبل شركة Apple.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>IDMS_RECOVERY_DEVICE_MESSAGE_FORMAT_MAC</Position>
+      <TranslationSet>
+        <base loc="en">Your password is encrypted and cannot be read by Apple.</base>
+        <tran loc="ar">كلمة السر الخاصة بك مشفرة ولا يمكن قراءتها من قِبل شركة Apple.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> IDMS_RECOVERY_DEVICE_MESSAGE_FORMAT*</Description>
+      <Position>IDMS_RECOVERY_DEVICE_MESSAGE_FORMAT_MACBOOK</Position>
+      <TranslationSet>
+        <base loc="en">Your password is encrypted and cannot be read by Apple.</base>
+        <tran loc="ar">كلمة السر الخاصة بك مشفرة ولا يمكن قراءتها من قِبل شركة Apple.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>IDMS_RECOVERY_DEVICE_MESSAGE_FORMAT_MACBOOK_AIR</Position>
+      <TranslationSet>
+        <base loc="en">Your password is encrypted and cannot be read by Apple.</base>
+        <tran loc="ar">كلمة السر الخاصة بك مشفرة ولا يمكن قراءتها من قِبل شركة Apple.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>IDMS_RECOVERY_DEVICE_MESSAGE_FORMAT_MACBOOK_PRO</Position>
+      <TranslationSet>
+        <base loc="en">Your password is encrypted and cannot be read by Apple.</base>
+        <tran loc="ar">كلمة السر الخاصة بك مشفرة ولا يمكن قراءتها من قِبل شركة Apple.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>IDMS_RECOVERY_DEVICE_MESSAGE_FORMAT_MAC_MINI</Position>
+      <TranslationSet>
+        <base loc="en">Your password is encrypted and cannot be read by Apple.</base>
+        <tran loc="ar">كلمة السر الخاصة بك مشفرة ولا يمكن قراءتها من قِبل شركة Apple.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>IDMS_RECOVERY_DEVICE_MESSAGE_FORMAT_MAC_PRO</Position>
+      <TranslationSet>
+        <base loc="en">Your password is encrypted and cannot be read by Apple.</base>
+        <tran loc="ar">كلمة السر الخاصة بك مشفرة ولا يمكن قراءتها من قِبل شركة Apple.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> ICDP_FORGOT_ONE_TITLE_*</Description>
+      <Position>ICDP_FORGOT_ONE_TITLE_MACBOOK</Position>
+      <TranslationSet>
+        <base loc="en">If you can’t remember the password for the MacBook “%@”, you can enter the password or passcode of one of your other devices.</base>
+        <tran loc="ar">إذا كنت لا تتذكر كلمة السر للـ MacBook‏ \"%@\"، يمكنك إدخال كلمة السر أو رمز الدخول لأحد أجهزتك الأخرى.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_ENROLL_DEVICE_TITLE_FORMAT_IPHONE</Position>
+      <TranslationSet>
+        <base loc="en">Enter the passcode you use to unlock the iPhone “%@”.</base>
+        <tran loc="ar">أدخل رمز الدخول الذي تستخدمه لفتح قفل الـ iPhone \"%@\".</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>REMOTE_SECRET_ENTRY_RECOVERY_ERROR_MESSAGE_MAC_MINI</Position>
+      <TranslationSet>
+        <base loc="en">There was an error verifying the password of your Mac mini.</base>
+        <tran loc="ar">حدث خطأ أثناء التحقق من كلمة السر للـ Mac mini الخاص بك.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>REMOTE_SECRET_ENTRY_RECOVERY_ERROR_MESSAGE_MACBOOK_AIR</Position>
+      <TranslationSet>
+        <base loc="en">There was an error verifying the password of your MacBook Air.</base>
+        <tran loc="ar">حدث خطأ أثناء التحقق من كلمة السر للـ MacBook Air الخاص بك.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> IDMS_RECOVERY_DEVICE_TITLE_FORMAT*</Description>
+      <Position>IDMS_RECOVERY_DEVICE_TITLE_FORMAT_MACBOOK</Position>
+      <TranslationSet>
+        <base loc="en">Enter the password for the MacBook “%@”.</base>
+        <tran loc="ar">أدخل كلمة سر الـ MacBook‏ \"%@\".</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>IDMS_RECOVERY_DEVICE_TITLE_FORMAT_GENERIC</Position>
+      <TranslationSet>
+        <base loc="en">Enter the passcode for “%@”.</base>
+        <tran loc="ar">أدخل رمز دخول الـ \"%@\".</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>IDMS_RECOVERY_DEVICE_TITLE_FORMAT_IMAC</Position>
+      <TranslationSet>
+        <base loc="en">Enter the password for the iMac “%@”.</base>
+        <tran loc="ar">أدخل كلمة سر الـ iMac‏ \"%@\".</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_ENROLL_DEVICE_THIS_MAC_TITLE_FORMAT_IMAC</Position>
+      <TranslationSet>
+        <base loc="en">Enter the password you use to unlock iMac</base>
+        <tran loc="ar">أدخل كلمة السر التي تستخدمها لفتح قفل الـ iMac</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_DEVICE_TITLE_IMAC</Position>
+      <TranslationSet>
+        <base loc="en">Enter Password for Other iMac</base>
+        <tran loc="ar">أدخل كلمة سر الـ iMac الآخر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_DEVICE_WRONG_WARN_NOT_LOCAL_TITLE_IMAC</Position>
+      <TranslationSet>
+        <base loc="en">Enter Password for Other iMac</base>
+        <tran loc="ar">أدخل كلمة سر الـ iMac الآخر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_ENTER_SECRET_MAC</Position>
+      <TranslationSet>
+        <base loc="en">Enter the passcode you use to unlock the Mac “%@”. Your password is encrypted and cannot be read by Apple.</base>
+        <tran loc="ar">أدخل رمز الدخول الذي تستخدمه لفتح قفل الـ Mac ‏\"%@\". كلمة السر الخاصة بك مشفرة ولا يمكن قراءتها بواسطة شركة Apple.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_FORGOT_ONE_NO_OTHER_DEVICES_TITLE_NO_REMOTE_SERVER_RECOVER_IPHONE</Position>
+      <TranslationSet>
+        <base loc="en">If you can’t remember the passcode for the iPhone “%@”, you can still regain access to your Apple ID with account recovery.</base>
+        <tran loc="ar">إذا كنت لا تتذكر رمز الدخول للـ iPhone‏ \"%@\"، فلا يزال بإمكانك استعادة الوصول إلى Apple ID الخاص بك باستخدام ميزة استرداد الحساب.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_DEVICE_TITLE_MAC_PRO</Position>
+      <TranslationSet>
+        <base loc="en">Enter Password for Other Mac Pro</base>
+        <tran loc="ar">أدخل كلمة سر الـ Mac Pro الآخر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_DEVICE_WRONG_WARN_NOT_LOCAL_TITLE_MAC_PRO</Position>
+      <TranslationSet>
+        <base loc="en">Enter Password for Other Mac Pro</base>
+        <tran loc="ar">أدخل كلمة سر الـ Mac Pro الآخر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_ENTER_SECRET_MAC_MINI</Position>
+      <TranslationSet>
+        <base loc="en">Enter the passcode you use to unlock the Mac mini “%@”. Your password is encrypted and cannot be read by Apple.</base>
+        <tran loc="ar">أدخل رمز الدخول الذي تستخدمه لفتح قفل الـ Mac mini \"%@\". كلمة السر الخاصة بك مشفرة ولا يمكن قراءتها بواسطة شركة Apple.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>REMOTE_SECRET_ENTRY_INCORRECT_GENERIC</Position>
+      <TranslationSet>
+        <base loc="en">Enter the Device passcode again.</base>
+        <tran loc="ar">أدخل رمز دخول الجهاز مرة أخرى.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_DEVICE_PASSWORD_WRONG_WARN_NOT_LOCAL_MACBOOK_PRO</Position>
+      <TranslationSet>
+        <base loc="en">Enter the passcode you use to unlock “%@”, which is not the password for this MacBook Pro.</base>
+        <tran loc="ar">أدخل رمز الدخول الذي تستخدمه لفتح قفل \"%@\"، والذي يختلف عن كلمة السر لهذا الـ MacBook Pro.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_ENROLL_DEVICE_TITLE_FORMAT_IMAC</Position>
+      <TranslationSet>
+        <base loc="en">Enter the password you use to unlock the iMac “%@”.</base>
+        <tran loc="ar">أدخل كلمة السر التي تستخدمها لفتح قفل الـ iMac‏ \"%@\".</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_DEVICE_TITLE_MAC</Position>
+      <TranslationSet>
+        <base loc="en">Enter Password for Other Mac</base>
+        <tran loc="ar">أدخل كلمة سر الـ Mac الآخر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_DEVICE_WRONG_WARN_NOT_LOCAL_TITLE_MAC</Position>
+      <TranslationSet>
+        <base loc="en">Enter Password for Other Mac</base>
+        <tran loc="ar">أدخل كلمة سر الـ Mac الآخر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_FORGOT_ONE_TITLE_FOLLOW_UP_MAC_MINI</Position>
+      <TranslationSet>
+        <base loc="en">If you can’t remember the password for the Mac mini “%@”, you can enter the password or passcode of one of your other devices or reset your end-to-end encrypted data to finish setting up iCloud.</base>
+        <tran loc="ar">إذا كنت لا تتذكر كلمة سر الـ Mac mini ‏\"%@\"، يمكنك إدخال كلمة السر أو رمز الدخول لأحد أجهزتك الأخرى أو إعادة تعيين بياناتك المشفرة بالكامل لإنهاء إعداد iCloud.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_FORGOT_ONE_NO_OTHER_DEVICES_TITLE_REMOTE_USE_RECOVERY_KEY_MAC_MINI</Position>
+      <TranslationSet>
+        <base loc="en">If you can’t remember the password for the Mac mini “%@”, you can use your 28-character recovery key.</base>
+        <tran loc="ar">إذا كنت لا تتذكر كلمة سر الـ Mac mini ‏\"%@\"، يمكنك استخدام مفتاح الاسترداد الخاص بك المكوّن من ٢٨ حرفًا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>RK_DEPLETED_ATTEMPTS_NO_DEVICES_ERROR_MESSAGE_MAC_MINI</Position>
+      <TranslationSet>
+        <base loc="en">If you can’t remember the password for the Mac mini “%@”, you can use your 28-character recovery key.</base>
+        <tran loc="ar">إذا كنت لا تتذكر كلمة سر الـ Mac mini ‏\"%@\"، يمكنك استخدام مفتاح الاسترداد الخاص بك المكوّن من ٢٨ حرفًا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_FORGOT_ONE_NO_OTHER_DEVICES_TITLE_REMOTE_USE_RECOVERY_KEY_IMAC</Position>
+      <TranslationSet>
+        <base loc="en">If you can’t remember the password for the iMac “%@”, you can use your 28-character recovery key.</base>
+        <tran loc="ar">إذا كنت لا تتذكر كلمة سر الـ iMac ‏\"%@\"، يمكنك استخدام مفتاح الاسترداد الخاص بك المكوّن من ٢٨ حرفًا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>RK_DEPLETED_ATTEMPTS_NO_DEVICES_ERROR_MESSAGE_IMAC</Position>
+      <TranslationSet>
+        <base loc="en">If you can’t remember the password for the iMac “%@”, you can use your 28-character recovery key.</base>
+        <tran loc="ar">إذا كنت لا تتذكر كلمة سر الـ iMac ‏\"%@\"، يمكنك استخدام مفتاح الاسترداد الخاص بك المكوّن من ٢٨ حرفًا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_FORGOT_ONE_NO_OTHER_DEVICES_TITLE_NO_REMOTE_SERVER_RECOVER_GENERIC</Position>
+      <TranslationSet>
+        <base loc="en">If you can’t remember the passcode for “%@”, you can still regain access to your Apple ID with account recovery.</base>
+        <tran loc="ar">إذا كنت لا تتذكر رمز الدخول لـ ‏ \"%@\"، فلا يزال بإمكانك استعادة الوصول إلى Apple ID الخاص بك باستخدام ميزة استرداد الحساب.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_ENROLL_DEVICE_TITLE_FORMAT_MACBOOK_PRO</Position>
+      <TranslationSet>
+        <base loc="en">Enter the password you use to unlock the MacBook Pro “%@”.</base>
+        <tran loc="ar">أدخل كلمة السر التي تستخدمها لفتح قفل الـ MacBook Pro \"%@\".</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_DEVICE_HEADER_OLD_IPHONE</Position>
+      <TranslationSet>
+        <base loc="en">Access to your account is protected by the passcode you previously used to unlock this iPhone</base>
+        <tran loc="ar">الوصول إلى حسابك محمي برمز الدخول الذي استخدمته سابقًا لفتح قفل هذا الـ iPhone</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_FORGOT_ONE_NO_OTHER_DEVICES_TITLE_REMOTE_USE_RECOVERY_KEY_IPAD</Position>
+      <TranslationSet>
+        <base loc="en">If you can’t remember the passcode for the iPad “%@”, you can use your 28-character recovery key.</base>
+        <tran loc="ar">إذا كنت لا تتذكر رمز دخول الـ iPad ‏\"%@\"، يمكنك استخدام مفتاح الاسترداد الخاص بك المكوّن من ٢٨ حرفًا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>RK_DEPLETED_ATTEMPTS_NO_DEVICES_ERROR_MESSAGE_IPAD</Position>
+      <TranslationSet>
+        <base loc="en">If you can’t remember the passcode for the iPad “%@”, you can use your 28-character recovery key.</base>
+        <tran loc="ar">إذا كنت لا تتذكر رمز دخول الـ iPad ‏\"%@\"، يمكنك استخدام مفتاح الاسترداد الخاص بك المكوّن من ٢٨ حرفًا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_FORGOT_ONE_NO_OTHER_DEVICES_TITLE_NO_REMOTE_IPOD_TOUCH</Position>
+      <TranslationSet>
+        <base loc="en">If you can’t remember the passcode for the iPod touch “%@”, you can still sign in but your end-to-end encrypted data will be temporarily unavailable.</base>
+        <tran loc="ar">إذا كنت لا تتذكر رمز دخول الـ iPod touch ‏\"%@\"، فلا يزال بإمكانك تسجيل الدخول ولكن ستصبح بياناتك المشفرة بالكامل غير متوفرة مؤقتًا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_FORGOT_ONE_NO_OTHER_DEVICES_TITLE_REMOTE_IPOD_TOUCH</Position>
+      <TranslationSet>
+        <base loc="en">If you can’t remember the passcode for the iPod touch “%@”, you can still sign in but your end-to-end encrypted data will be temporarily unavailable.</base>
+        <tran loc="ar">إذا كنت لا تتذكر رمز دخول الـ iPod touch ‏\"%@\"، فلا يزال بإمكانك تسجيل الدخول ولكن ستصبح بياناتك المشفرة بالكامل غير متوفرة مؤقتًا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>IDMS_RECOVERY_DEVICE_TITLE_FORMAT_IPOD_TOUCH</Position>
+      <TranslationSet>
+        <base loc="en">Enter the passcode for the iPod touch “%@”.</base>
+        <tran loc="ar">أدخل رمز دخول الـ iPod touch‏ \"%@\".</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> ICDP_FORGOT_SECRET_FORMAT_*</Description>
+      <Position>ICDP_FORGOT_SECRET_FORMAT_MACBOOK</Position>
+      <TranslationSet>
+        <base loc="en">Forgot MacBook password?</base>
+        <tran loc="ar">هل نسيت كلمة سر الـ MacBook؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_ENTER_SECRET_MAC_PRO</Position>
+      <TranslationSet>
+        <base loc="en">Enter the passcode you use to unlock the Mac Pro “%@”. Your password is encrypted and cannot be read by Apple.</base>
+        <tran loc="ar">أدخل رمز الدخول الذي تستخدمه لفتح قفل الـ Mac Pro \"%@\". كلمة السر الخاصة بك مشفرة ولا يمكن قراءتها بواسطة شركة Apple.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_FORGOT_ONE_NO_OTHER_DEVICES_TITLE_NO_REMOTE_SERVER_RECOVER_MACBOOK_AIR</Position>
+      <TranslationSet>
+        <base loc="en">If you can’t remember the password for the MacBook Air “%@”, you can still regain access to your Apple ID with account recovery.</base>
+        <tran loc="ar">إذا كنت لا تتذكر كلمة السر للـ MacBook Air‏ \"%@\"، فلا يزال بإمكانك استعادة الوصول إلى Apple ID الخاص بك باستخدام ميزة استرداد الحساب.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>IDMS_RECOVERY_DEVICE_TITLE_FORMAT_MAC_PRO</Position>
+      <TranslationSet>
+        <base loc="en">Enter the password for the Mac Pro “%@”.</base>
+        <tran loc="ar">أدخل كلمة سر الـ Mac Pro‏ \"%@\".</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_ENROLL_DEVICE_MESSAGE_FORMAT_IMAC</Position>
+      <TranslationSet>
+        <base loc="en">Access to your account is protected by the password you use to unlock the iMac “%@”. Your password is encrypted and cannot be read by Apple.</base>
+        <tran loc="ar">الوصول إلى حسابك محمي بكلمة السر التي تستخدمها لفتح قفل الـ iMac‏ \"%@\". كلمة السر الخاصة بك مشفرة ولا يمكن قراءتها من قِبل شركة Apple.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_DEVICE_HEADER_OLD_IPAD</Position>
+      <TranslationSet>
+        <base loc="en">Access to your account is protected by the passcode you previously used to unlock this iPad</base>
+        <tran loc="ar">الوصول إلى حسابك محمي برمز الدخول الذي استخدمته سابقًا لفتح قفل هذا الـ iPad</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_DEVICE_PASSCODE_WRONG_WARN_NOT_LOCAL_MACBOOK_PRO</Position>
+      <TranslationSet>
+        <base loc="en">Enter the passcode for “%@”, which is not the password for this MacBook Pro.</base>
+        <tran loc="ar">أدخل رمز الدخول للـ \"%@\"، والذي يختلف عن كلمة السر لهذا الـ MacBook Pro.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_DEVICE_HEADER_MACBOOK_PRO</Position>
+      <TranslationSet>
+        <base loc="en">Access to your account is protected by your MacBook Pro password</base>
+        <tran loc="ar">الوصول إلى حسابك محمي بكلمة سر الـ MacBook Pro الخاص بك</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_ENROLL_DEVICE_THIS_MAC_TITLE_FORMAT_IPHONE</Position>
+      <TranslationSet>
+        <base loc="en">Enter the passcode you use to unlock the iPhone.</base>
+        <tran loc="ar">أدخل رمز الدخول الذي تستخدمه لفتح قفل الـ iPhone.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>REMOTE_SECRET_ENTRY_INCORRECT_IPHONE</Position>
+      <TranslationSet>
+        <base loc="en">Enter the iPhone passcode again.</base>
+        <tran loc="ar">أدخل رمز دخول الـ iPhone مرة أخرى.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_FORGOT_ONE_NO_OTHER_DEVICES_TITLE_NO_REMOTE_GENERIC</Position>
+      <TranslationSet>
+        <base loc="en">If you can’t remember the passcode for “%@”, you can still sign in but your end-to-end encrypted data will be temporarily unavailable.</base>
+        <tran loc="ar">إذا كنت لا تتذكر رمز دخول \"%@\"، فلا يزال بإمكانك تسجيل الدخول ولكن ستصبح بياناتك المشفرة بالكامل غير متوفرة مؤقتًا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_FORGOT_ONE_NO_OTHER_DEVICES_TITLE_REMOTE_GENERIC</Position>
+      <TranslationSet>
+        <base loc="en">If you can’t remember the passcode for “%@”, you can still sign in but your end-to-end encrypted data will be temporarily unavailable.</base>
+        <tran loc="ar">إذا كنت لا تتذكر رمز دخول \"%@\"، فلا يزال بإمكانك تسجيل الدخول ولكن ستصبح بياناتك المشفرة بالكامل غير متوفرة مؤقتًا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_FORGOT_ONE_NO_OTHER_DEVICES_TITLE_NO_REMOTE_MAC_PRO</Position>
+      <TranslationSet>
+        <base loc="en">If you can’t remember the password for the Mac Pro “%@”, you can still sign in but your end-to-end encrypted data will be temporarily unavailable.</base>
+        <tran loc="ar">إذا كنت لا تتذكر كلمة سر الـ Mac Pro ‏\"%@\"، فلا يزال بإمكانك تسجيل الدخول ولكن ستصبح بياناتك المشفرة بالكامل غير متوفرة مؤقتًا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_FORGOT_ONE_NO_OTHER_DEVICES_TITLE_REMOTE_MAC_PRO</Position>
+      <TranslationSet>
+        <base loc="en">If you can’t remember the password for the Mac Pro “%@”, you can still sign in but your end-to-end encrypted data will be temporarily unavailable.</base>
+        <tran loc="ar">إذا كنت لا تتذكر كلمة سر الـ Mac Pro ‏\"%@\"، فلا يزال بإمكانك تسجيل الدخول ولكن ستصبح بياناتك المشفرة بالكامل غير متوفرة مؤقتًا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_ENROLL_DEVICE_WAIT_OTHER_DEVICE_IPOD_TOUCH</Position>
+      <TranslationSet>
+        <base loc="en">Go to one of your other devices signed in to iCloud to approve this iPod.</base>
+        <tran loc="ar">انتقل إلى أحد أجهزتك الأخرى المسجل عليها الدخول إلى iCloud للموافقة على هذا الـ iPod.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_ENROLL_DEVICE_THIS_MAC_TITLE_FORMAT_MAC</Position>
+      <TranslationSet>
+        <base loc="en">Enter the password you use to unlock Mac</base>
+        <tran loc="ar">أدخل كلمة السر التي تستخدمها لفتح قفل الـ Mac</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_FORGOT_ONE_TITLE_USE_RECOVERY_KEY_MAC_MINI</Position>
+      <TranslationSet>
+        <base loc="en">If you can’t remember the password for the Mac mini “%@”, you can enter the password or passcode of one of your other devices, or use your 28-character recovery key.</base>
+        <tran loc="ar">إذا كنت لا تتذكر كلمة سر الـ Mac mini ‏\"%@\"، يمكنك إدخال كلمة السر أو رمز الدخول لأحد أجهزتك الأخرى، أو استخدام مفتاح الاسترداد الخاص بك المكوّن من ٢٨ حرفًا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_FORGOT_ONE_NO_OTHER_DEVICES_TITLE_REMOTE_AND_SERVER_RECOVER_IPOD_TOUCH</Position>
+      <TranslationSet>
+        <base loc="en">If you can’t remember the passcode for the iPod touch “%@”, you can approve this Mac using another device or regain access to your Apple ID with account recovery.</base>
+        <tran loc="ar">إذا كنت لا تتذكر رمز الدخول للـ iPod touch‏ \"%@\"، يمكنك الموافقة على هذا الـ Mac باستخدام جهاز آخر أو استعادة الوصول إلى Apple ID الخاص بك باستخدام ميزة استرداد الحساب.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_ENTER_SECRET_OLD_MACBOOK_AIR</Position>
+      <TranslationSet>
+        <base loc="en">Enter the password you previously used to unlock this MacBook Air. Your password is encrypted and cannot be read by Apple.</base>
+        <tran loc="ar">أدخل كلمة السر التي استخدمتها سابقًا لفتح قفل هذا الـ MacBook Air. كلمة السر الخاصة بك مشفرة ولا يمكن قراءتها بواسطة شركة Apple.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_FORGOT_ONE_TITLE_MAC</Position>
+      <TranslationSet>
+        <base loc="en">If you can’t remember the password for the Mac “%@”, you can enter the password or passcode of one of your other devices.</base>
+        <tran loc="ar">إذا كنت لا تتذكر كلمة السر للـ Mac ‏\"%@\"، يمكنك إدخال كلمة السر أو رمز الدخول لأحد أجهزتك الأخرى.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_DEVICE_TITLE_IPOD_TOUCH</Position>
+      <TranslationSet>
+        <base loc="en">Enter iPod Passcode</base>
+        <tran loc="ar">أدخل رمز دخول الـ iPod</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_DEVICE_HEADER_IPOD_TOUCH</Position>
+      <TranslationSet>
+        <base loc="en">Access to your account is protected by your iPod passcode</base>
+        <tran loc="ar">الوصول إلى حسابك محمي برمز دخول الـ iPod الخاص بك</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_FORGOT_ONE_NO_OTHER_DEVICES_TITLE_REMOTE_AND_SERVER_RECOVER_IPHONE</Position>
+      <TranslationSet>
+        <base loc="en">If you can’t remember the passcode for the iPhone “%@”, you can approve this Mac using another device or regain access to your Apple ID with account recovery.</base>
+        <tran loc="ar">إذا كنت لا تتذكر رمز الدخول للـ iPhone‏ \"%@\"، يمكنك الموافقة على هذا الـ Mac باستخدام جهاز آخر أو استعادة الوصول إلى Apple ID الخاص بك باستخدام ميزة استرداد الحساب.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_FORGOT_ONE_NO_OTHER_DEVICES_TITLE_NO_REMOTE_IPHONE</Position>
+      <TranslationSet>
+        <base loc="en">If you can’t remember the passcode for the iPhone “%@”, you can still sign in but your end-to-end encrypted data will be temporarily unavailable.</base>
+        <tran loc="ar">إذا كنت لا تتذكر رمز دخول الـ iPhone ‏\"%@\"، فلا يزال بإمكانك تسجيل الدخول ولكن ستصبح بياناتك المشفرة بالكامل غير متوفرة مؤقتًا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_FORGOT_ONE_NO_OTHER_DEVICES_TITLE_REMOTE_IPHONE</Position>
+      <TranslationSet>
+        <base loc="en">If you can’t remember the passcode for the iPhone “%@”, you can still sign in but your end-to-end encrypted data will be temporarily unavailable.</base>
+        <tran loc="ar">إذا كنت لا تتذكر رمز دخول الـ iPhone ‏\"%@\"، فلا يزال بإمكانك تسجيل الدخول ولكن ستصبح بياناتك المشفرة بالكامل غير متوفرة مؤقتًا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_ENROLL_DEVICE_WAIT_OTHER_DEVICE_MAC_MINI</Position>
+      <TranslationSet>
+        <base loc="en">Go to one of your other devices signed in to iCloud to approve this Mac mini.</base>
+        <tran loc="ar">انتقل إلى أحد أجهزتك الأخرى المسجل عليها الدخول إلى iCloud للموافقة على هذا الـ Mac mini.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_DEVICE_WRONG_WARN_NOT_LOCAL_TITLE_IPAD</Position>
+      <TranslationSet>
+        <base loc="en">Enter Passcode for Other iPad</base>
+        <tran loc="ar">أدخل رمز دخول الـ iPad الآخر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_FORGOT_ONE_NO_OTHER_DEVICES_TITLE_REMOTE_AND_SERVER_RECOVER_MAC</Position>
+      <TranslationSet>
+        <base loc="en">If you can’t remember the password for the Mac “%@”, you can approve this Mac using another device or regain access to your Apple ID with account recovery.</base>
+        <tran loc="ar">إذا كنت لا تتذكر كلمة السر للـ Mac ‏\"%@\"، يمكنك الموافقة على هذا الـ Mac باستخدام جهاز آخر أو استعادة الوصول إلى Apple ID الخاص بك باستخدام ميزة استرداد الحساب.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>REMOTE_SECRET_ENTRY_RECOVERY_ERROR_MESSAGE_IPAD</Position>
+      <TranslationSet>
+        <base loc="en">There was an error verifying the passcode of your iPad.</base>
+        <tran loc="ar">حدث خطأ أثناء التحقق من رمز الدخول للـ iPad الخاص بك.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_DEVICE_HEADER_IMAC</Position>
+      <TranslationSet>
+        <base loc="en">Access to your account is protected by your iMac password</base>
+        <tran loc="ar">الوصول إلى حسابك محمي بكلمة سر الـ iMac الخاص بك</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>REMOTE_SECRET_ENTRY_RECOVERY_ERROR_MESSAGE_GENERIC</Position>
+      <TranslationSet>
+        <base loc="en">There was an error verifying the passcode of your device.</base>
+        <tran loc="ar">حدث خطأ أثناء التحقق من رمز الدخول للجهاز الخاص بك.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> ICDP_FORGOT_ONE_TITLE_USE_RECOVERY_KEY*</Description>
+      <Position>ICDP_FORGOT_ONE_TITLE_USE_RECOVERY_KEY_MACBOOK</Position>
+      <TranslationSet>
+        <base loc="en">If you can’t remember the password for the MacBook “%@”, you can enter the password or passcode of one of your other devices, or use your 28-character recovery key.</base>
+        <tran loc="ar">إذا كنت لا تتذكر كلمة سر الـ MacBook ‏\"%@\"، يمكنك إدخال كلمة السر أو رمز الدخول لأحد أجهزتك الأخرى، أو استخدام مفتاح الاسترداد الخاص بك المكوّن من ٢٨ حرفًا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_FORGOT_ONE_NO_OTHER_DEVICES_TITLE_NO_REMOTE_IMAC</Position>
+      <TranslationSet>
+        <base loc="en">If you can’t remember the password for the iMac “%@”, you can still sign in but your end-to-end encrypted data will be temporarily unavailable.</base>
+        <tran loc="ar">إذا كنت لا تتذكر كلمة سر الـ iMac ‏\"%@\"، فلا يزال بإمكانك تسجيل الدخول ولكن ستصبح بياناتك المشفرة بالكامل غير متوفرة مؤقتًا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_FORGOT_ONE_NO_OTHER_DEVICES_TITLE_REMOTE_IMAC</Position>
+      <TranslationSet>
+        <base loc="en">If you can’t remember the password for the iMac “%@”, you can still sign in but your end-to-end encrypted data will be temporarily unavailable.</base>
+        <tran loc="ar">إذا كنت لا تتذكر كلمة سر الـ iMac ‏\"%@\"، فلا يزال بإمكانك تسجيل الدخول ولكن ستصبح بياناتك المشفرة بالكامل غير متوفرة مؤقتًا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_DEVICE_HEADER_OLD_GENERIC</Position>
+      <TranslationSet>
+        <base loc="en">Access to your account is protected by the passcode you previously used to unlock this device</base>
+        <tran loc="ar">الوصول إلى حسابك محمي برمز الدخول الذي استخدمته سابقًا لفتح قفل هذا الجهاز</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_ENROLL_DEVICE_TITLE_FORMAT_MAC</Position>
+      <TranslationSet>
+        <base loc="en">Enter the password you use to unlock the Mac “%@”.</base>
+        <tran loc="ar">أدخل كلمة السر التي تستخدمها لفتح قفل الـ Mac ‏\"%@\".</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_FORGOT_ONE_NO_OTHER_DEVICES_TITLE_NO_REMOTE_MAC</Position>
+      <TranslationSet>
+        <base loc="en">If you can’t remember the password for the Mac “%@”, you can still sign in but your end-to-end encrypted data will be temporarily unavailable.</base>
+        <tran loc="ar">إذا كنت لا تتذكر كلمة سر الـ Mac ‏\"%@\"، فلا يزال بإمكانك تسجيل الدخول ولكن ستصبح بياناتك المشفرة بالكامل غير متوفرة مؤقتًا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_FORGOT_ONE_NO_OTHER_DEVICES_TITLE_REMOTE_MAC</Position>
+      <TranslationSet>
+        <base loc="en">If you can’t remember the password for the Mac “%@”, you can still sign in but your end-to-end encrypted data will be temporarily unavailable.</base>
+        <tran loc="ar">إذا كنت لا تتذكر كلمة سر الـ Mac ‏\"%@\"، فلا يزال بإمكانك تسجيل الدخول ولكن ستصبح بياناتك المشفرة بالكامل غير متوفرة مؤقتًا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_FORGOT_SECRET_FORMAT_MAC</Position>
+      <TranslationSet>
+        <base loc="en">Forgot Mac password?</base>
+        <tran loc="ar">هل نسيت كلمة سر الـ Mac؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_ENROLL_DEVICE_WAIT_OTHER_DEVICE_GENERIC</Position>
+      <TranslationSet>
+        <base loc="en">Go to one of your other devices signed in to iCloud to approve this device.</base>
+        <tran loc="ar">انتقل إلى أحد أجهزتك الأخرى المسجل عليها الدخول إلى iCloud للموافقة على هذا الجهاز.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_DEVICE_HEADER_GENERIC</Position>
+      <TranslationSet>
+        <base loc="en">Access to your account is protected by your device passcode</base>
+        <tran loc="ar">الوصول إلى حسابك محمي برمز دخول جهازك</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_FORGOT_SECRET_FORMAT_IPAD</Position>
+      <TranslationSet>
+        <base loc="en">Forgot iPad passcode?</base>
+        <tran loc="ar">هل نسيت رمز دخول الـ iPad؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_DEVICE_HEADER_OLD_MAC</Position>
+      <TranslationSet>
+        <base loc="en">Access to your account is protected by the password you previously used to unlock this Mac</base>
+        <tran loc="ar">الوصول إلى حسابك محمي بكلمة السر التي استخدمتها سابقًا لفتح قفل هذا الـ Mac</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_DEVICE_PASSWORD_WRONG_WARN_NOT_LOCAL_IMAC</Position>
+      <TranslationSet>
+        <base loc="en">Enter the passcode you use to unlock “%@”, which is not the password for this iMac.</base>
+        <tran loc="ar">أدخل رمز الدخول الذي تستخدمه لفتح قفل \"%@\"، والذي يختلف عن كلمة السر لهذا الـ iMac.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_ENROLL_DEVICE_THIS_MAC_TITLE_FORMAT_IPOD_TOUCH</Position>
+      <TranslationSet>
+        <base loc="en">Enter the passcode you use to unlock the iPod</base>
+        <tran loc="ar">أدخل رمز الدخول الذي تستخدمه لفتح قفل الـ iPod</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_DEVICE_TITLE_GENERIC</Position>
+      <TranslationSet>
+        <base loc="en">Enter Device Passcode</base>
+        <tran loc="ar">أدخل رمز دخول الجهاز</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_DEVICE_HEADER_OLD_IMAC</Position>
+      <TranslationSet>
+        <base loc="en">Access to your account is protected by the password you previously used to unlock this iMac</base>
+        <tran loc="ar">الوصول إلى حسابك محمي بكلمة السر التي استخدمتها سابقًا لفتح قفل هذا الـ iMac</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>IDMS_RECOVERY_DEVICE_TITLE_FORMAT_MACBOOK_AIR</Position>
+      <TranslationSet>
+        <base loc="en">Enter the password for the MacBook Air “%@”.</base>
+        <tran loc="ar">أدخل كلمة سر الـ MacBook Air‏ \"%@\".</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> ICDP_ENTER_SECRET_*</Description>
+      <Position>ICDP_ENTER_SECRET_MACBOOK</Position>
+      <TranslationSet>
+        <base loc="en">Enter the passcode you use to unlock the MacBook “%@”. Your password is encrypted and cannot be read by Apple.</base>
+        <tran loc="ar">أدخل رمز الدخول الذي تستخدمه لفتح قفل الـ MacBook \"%@\". كلمة السر الخاصة بك مشفرة ولا يمكن قراءتها بواسطة شركة Apple.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_FORGOT_ONE_TITLE_MAC_PRO</Position>
+      <TranslationSet>
+        <base loc="en">If you can’t remember the password for the Mac Pro “%@”, you can enter the password or passcode of one of your other devices.</base>
+        <tran loc="ar">إذا كنت لا تتذكر كلمة السر للـ Mac Pro‏ \"%@\"، يمكنك إدخال كلمة السر أو رمز الدخول لأحد أجهزتك الأخرى.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_ENTER_SECRET_IPOD_TOUCH</Position>
+      <TranslationSet>
+        <base loc="en">Enter the passcode for the iPod touch “%@”. Your passcode is encrypted and cannot be read by Apple.</base>
+        <tran loc="ar">أدخل رمز الدخول للـ iPod touch‏ \"%@\". رمز الدخول الخاص بك مشفر ولا يمكن قراءته من قِبل شركة Apple.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>REMOTE_SECRET_ENTRY_RECOVERY_ERROR_MESSAGE_MACBOOK_PRO</Position>
+      <TranslationSet>
+        <base loc="en">There was an error verifying the password of your MacBook Pro.</base>
+        <tran loc="ar">حدث خطأ أثناء التحقق من كلمة السر للـ MacBook Pro الخاص بك.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_ENROLL_DEVICE_MESSAGE_FORMAT_IPAD</Position>
+      <TranslationSet>
+        <base loc="en">Access to your account is protected by the passcode you use to unlock the iPad “%@”. Your passcode is encrypted and cannot be read by Apple.</base>
+        <tran loc="ar">الوصول إلى حسابك محمي برمز الدخول الذي تستخدمه لفتح قفل الـ iPad ‏"%@". رمز دخولك مشفر ولا يمكن قراءته من قِبل شركة Apple.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_FORGOT_ONE_NO_OTHER_DEVICES_TITLE_NO_REMOTE_SERVER_RECOVER_MAC</Position>
+      <TranslationSet>
+        <base loc="en">If you can’t remember the password for the Mac “%@”, you can still regain access to your Apple ID with account recovery.</base>
+        <tran loc="ar">إذا كنت لا تتذكر كلمة السر للـ Mac ‏\"%@\"، فلا يزال بإمكانك استعادة الوصول إلى Apple ID الخاص بك باستخدام ميزة استرداد الحساب.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_DEVICE_HEADER_OLD_IPOD_TOUCH</Position>
+      <TranslationSet>
+        <base loc="en">Access to your account is protected by the passcode you previously used to unlock this iPod</base>
+        <tran loc="ar">الوصول إلى حسابك محمي برمز الدخول الذي استخدمته سابقًا لفتح قفل هذا الـ iPod</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_FORGOT_ONE_NO_OTHER_DEVICES_TITLE_REMOTE_USE_RECOVERY_KEY_MAC_PRO</Position>
+      <TranslationSet>
+        <base loc="en">If you can’t remember the password for the Mac Pro “%@”, you can use your 28-character recovery key.</base>
+        <tran loc="ar">إذا كنت لا تتذكر كلمة سر الـ Mac Pro ‏\"%@\"، يمكنك استخدام مفتاح الاسترداد الخاص بك المكوّن من ٢٨ حرفًا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>RK_DEPLETED_ATTEMPTS_NO_DEVICES_ERROR_MESSAGE_MAC_PRO</Position>
+      <TranslationSet>
+        <base loc="en">If you can’t remember the password for the Mac Pro “%@”, you can use your 28-character recovery key.</base>
+        <tran loc="ar">إذا كنت لا تتذكر كلمة سر الـ Mac Pro ‏\"%@\"، يمكنك استخدام مفتاح الاسترداد الخاص بك المكوّن من ٢٨ حرفًا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_FORGOT_SECRET_FORMAT_IPHONE</Position>
+      <TranslationSet>
+        <base loc="en">Forgot iPhone passcode?</base>
+        <tran loc="ar">هل نسيت رمز دخول الـ iPhone؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> ICDP_ENROLL_DEVICE_MESSAGE_FORMAT_*</Description>
+      <Position>ICDP_ENROLL_DEVICE_MESSAGE_FORMAT_MACBOOK</Position>
+      <TranslationSet>
+        <base loc="en">Access to your account is protected by the password you use to unlock the MacBook “%@”. Your password is encrypted and cannot be read by Apple</base>
+        <tran loc="ar">الوصول إلى حسابك محمي بكلمة السر التي تستخدمها لفتح قفل الـ MacBook‏ \"%@\". كلمة السر الخاصة بك مشفرة ولا يمكن قراءتها من قِبل شركة Apple</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_ENROLL_DEVICE_THIS_MAC_MESSAGE_FORMAT_MAC</Position>
+      <TranslationSet>
+        <base loc="en">Access to your account is protected by the password you previously used to unlock this Mac. Your password is encrypted and cannot be read by Apple.</base>
+        <tran loc="ar">الوصول إلى حسابك محمي بكلمة السر التي استخدمتها سابقًا لفتح قفل هذا الـ Mac. كلمة السر الخاصة بك مشفرة ولا يمكن قراءتها من قِبل شركة Apple.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_FORGOT_ONE_TITLE_USE_RECOVERY_KEY_GENERIC</Position>
+      <TranslationSet>
+        <base loc="en">If you can’t remember the passcode for “%@”, you can enter the password or passcode of one of your other devices, or use your 28-character recovery key.</base>
+        <tran loc="ar">إذا كنت لا تتذكر رمز دخول الـ \"%@\"، يمكنك إدخال كلمة السر أو رمز الدخول لأحد أجهزتك الأخرى، أو استخدام مفتاح الاسترداد الخاص بك المكوّن من ٢٨ حرفًا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_FORGOT_ONE_TITLE_MAC_MINI</Position>
+      <TranslationSet>
+        <base loc="en">If you can’t remember the password for the Mac mini “%@”, you can enter the password or passcode of one of your other devices.</base>
+        <tran loc="ar">إذا كنت لا تتذكر كلمة السر للـ Mac mini‏ \"%@\"، يمكنك إدخال كلمة السر أو رمز الدخول لأحد أجهزتك الأخرى.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_ENROLL_DEVICE_MESSAGE_FORMAT_GENERIC</Position>
+      <TranslationSet>
+        <base loc="en">Access to your account is protected by the passcode you use to unlock the device “%@”. Your passcode is encrypted and cannot be read by Apple.</base>
+        <tran loc="ar">الوصول إلى حسابك محمي برمز الدخول الذي تستخدمه لفتح قفل الجهاز "%@". رمز دخولك مشفر ولا يمكن قراءته من قِبل شركة Apple.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_FORGOT_ONE_NO_OTHER_DEVICES_TITLE_REMOTE_USE_RECOVERY_KEY_MACBOOK_AIR</Position>
+      <TranslationSet>
+        <base loc="en">If you can’t remember the password for the MacBook Air “%@”, you can use your 28-character recovery key.</base>
+        <tran loc="ar">إذا كنت لا تتذكر كلمة سر الـ MacBook Air ‏\"%@\"، يمكنك استخدام مفتاح الاسترداد الخاص بك المكوّن من ٢٨ حرفًا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>RK_DEPLETED_ATTEMPTS_NO_DEVICES_ERROR_MESSAGE_MACBOOK_AIR</Position>
+      <TranslationSet>
+        <base loc="en">If you can’t remember the password for the MacBook Air “%@”, you can use your 28-character recovery key.</base>
+        <tran loc="ar">إذا كنت لا تتذكر كلمة سر الـ MacBook Air ‏\"%@\"، يمكنك استخدام مفتاح الاسترداد الخاص بك المكوّن من ٢٨ حرفًا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_FORGOT_SECRET_FORMAT_MACBOOK_PRO</Position>
+      <TranslationSet>
+        <base loc="en">Forgot MacBook Pro password?</base>
+        <tran loc="ar">هل نسيت كلمة سر الـ MacBook Pro؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_FORGOT_ONE_NO_OTHER_DEVICES_TITLE_NO_REMOTE_IPAD</Position>
+      <TranslationSet>
+        <base loc="en">If you can’t remember the passcode for the iPad “%@”, you can still sign in but your end-to-end encrypted data will be temporarily unavailable.</base>
+        <tran loc="ar">إذا كنت لا تتذكر رمز دخول الـ iPad ‏\"%@\"، فلا يزال بإمكانك تسجيل الدخول ولكن ستصبح بياناتك المشفرة بالكامل غير متوفرة مؤقتًا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_FORGOT_ONE_NO_OTHER_DEVICES_TITLE_REMOTE_IPAD</Position>
+      <TranslationSet>
+        <base loc="en">If you can’t remember the passcode for the iPad “%@”, you can still sign in but your end-to-end encrypted data will be temporarily unavailable.</base>
+        <tran loc="ar">إذا كنت لا تتذكر رمز دخول الـ iPad ‏\"%@\"، فلا يزال بإمكانك تسجيل الدخول ولكن ستصبح بياناتك المشفرة بالكامل غير متوفرة مؤقتًا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_FORGOT_ONE_NO_OTHER_DEVICES_TITLE_REMOTE_USE_RECOVERY_KEY_IPHONE</Position>
+      <TranslationSet>
+        <base loc="en">If you can’t remember the passcode for the iPhone “%@”, you can use your 28-character recovery key.</base>
+        <tran loc="ar">إذا كنت لا تتذكر رمز دخول الـ iPhone ‏\"%@\"، يمكنك استخدام مفتاح الاسترداد الخاص بك المكوّن من ٢٨ حرفًا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>RK_DEPLETED_ATTEMPTS_NO_DEVICES_ERROR_MESSAGE_IPHONE</Position>
+      <TranslationSet>
+        <base loc="en">If you can’t remember the passcode for the iPhone “%@”, you can use your 28-character recovery key.</base>
+        <tran loc="ar">إذا كنت لا تتذكر رمز دخول الـ iPhone ‏\"%@\"، يمكنك استخدام مفتاح الاسترداد الخاص بك المكوّن من ٢٨ حرفًا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>IDMS_RECOVERY_DEVICE_TITLE_FORMAT_MACBOOK_PRO</Position>
+      <TranslationSet>
+        <base loc="en">Enter the password for the MacBook Pro “%@”.</base>
+        <tran loc="ar">أدخل كلمة سر الـ MacBook Pro‏ \"%@\".</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_DEVICE_PASSWORD_WRONG_WARN_NOT_LOCAL_MACBOOK_AIR</Position>
+      <TranslationSet>
+        <base loc="en">Enter the passcode you use to unlock “%@”, which is not the password for this MacBook Air.</base>
+        <tran loc="ar">أدخل رمز الدخول الذي تستخدمه لفتح قفل \"%@\"، والذي يختلف عن كلمة السر لهذا الـ MacBook Air.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> ICDP_FORGOT_ONE_NO_OTHER_DEVICES_TITLE_REMOTE_USE_RECOVERY_KEY_*</Description>
+      <Position>ICDP_FORGOT_ONE_NO_OTHER_DEVICES_TITLE_REMOTE_USE_RECOVERY_KEY_MACBOOK</Position>
+      <TranslationSet>
+        <base loc="en">If you can’t remember the password for the MacBook “%@”, you can use your 28-character recovery key.</base>
+        <tran loc="ar">إذا كنت لا تتذكر كلمة سر الـ MacBook ‏\"%@\"، يمكنك استخدام مفتاح الاسترداد الخاص بك المكوّن من ٢٨ حرفًا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description>RK_DEPLETED_ATTEMPTS_NO_DEVICES_ERROR_MESSAGE</Description>
+      <Position>RK_DEPLETED_ATTEMPTS_NO_DEVICES_ERROR_MESSAGE_MACBOOK</Position>
+      <TranslationSet>
+        <base loc="en">If you can’t remember the password for the MacBook “%@”, you can use your 28-character recovery key.</base>
+        <tran loc="ar">إذا كنت لا تتذكر كلمة سر الـ MacBook ‏\"%@\"، يمكنك استخدام مفتاح الاسترداد الخاص بك المكوّن من ٢٨ حرفًا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_ENROLL_DEVICE_THIS_MAC_MESSAGE_FORMAT_IPOD_TOUCH</Position>
+      <TranslationSet>
+        <base loc="en">Access to your account is protected by the passcode you previously used to unlock this iPod. Your passcode is encrypted and cannot be read by Apple.</base>
+        <tran loc="ar">الوصول إلى حسابك محمي برمز الدخول الذي استخدمته سابقًا لفتح قفل هذا الـ iPod. رمز الدخول الخاص بك مشفر ولا يمكن قراءته من قِبل شركة Apple.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_ENROLL_DEVICE_THIS_MAC_TITLE_FORMAT_MAC_PRO</Position>
+      <TranslationSet>
+        <base loc="en">Enter the password you use to unlock the Mac Pro.</base>
+        <tran loc="ar">أدخل كلمة السر التي تستخدمها لفتح قفل الـ Mac Pro.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_FORGOT_ONE_NO_OTHER_DEVICES_TITLE_REMOTE_AND_SERVER_RECOVER_MACBOOK_AIR</Position>
+      <TranslationSet>
+        <base loc="en">If you can’t remember the password for the MacBook Air “%@”, you can approve this Mac using another device or regain access to your Apple ID with account recovery.</base>
+        <tran loc="ar">إذا كنت لا تتذكر كلمة السر للـ MacBook Air‏ \"%@\"، يمكنك الموافقة على هذا الـ Mac باستخدام جهاز آخر أو استعادة الوصول إلى Apple ID الخاص بك باستخدام ميزة استرداد الحساب.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_FORGOT_ONE_TITLE_FOLLOW_UP_MACBOOK_AIR</Position>
+      <TranslationSet>
+        <base loc="en">If you can’t remember the password for the MacBook Air “%@”, you can enter the password or passcode of one of your other devices or reset your end-to-end encrypted data to finish setting up iCloud.</base>
+        <tran loc="ar">إذا كنت لا تتذكر كلمة سر الـ MacBook Air ‏\"%@\"، يمكنك إدخال كلمة السر أو رمز الدخول لأحد أجهزتك الأخرى أو إعادة تعيين بياناتك المشفرة بالكامل لإنهاء إعداد iCloud.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_FORGOT_ONE_TITLE_GENERIC</Position>
+      <TranslationSet>
+        <base loc="en">If you can’t remember the passcode for “%@”, you can enter the password or passcode of one of your other devices.</base>
+        <tran loc="ar">إذا كنت لا تتذكر رمز الدخول لـ \"%@\"، يمكنك إدخال كلمة السر أو رمز الدخول لأحد أجهزتك الأخرى.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_FORGOT_ONE_TITLE_PASSCODE_NAME_ONLY</Position>
+      <TranslationSet>
+        <base loc="en">If you can’t remember the passcode for “%@”, you can enter the password or passcode of one of your other devices.</base>
+        <tran loc="ar">إذا كنت لا تتذكر رمز الدخول لـ \"%@\"، يمكنك إدخال كلمة السر أو رمز الدخول لأحد أجهزتك الأخرى.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_FORGOT_ONE_TITLE_USE_RECOVERY_KEY_IPAD</Position>
+      <TranslationSet>
+        <base loc="en">If you can’t remember the passcode for the iPad “%@”, you can enter the password or passcode of one of your other devices, or use your 28-character recovery key.</base>
+        <tran loc="ar">إذا كنت لا تتذكر رمز دخول الـ iPad ‏\"%@\"، يمكنك إدخال كلمة السر أو رمز الدخول لأحد أجهزتك الأخرى، أو استخدام مفتاح الاسترداد الخاص بك المكوّن من ٢٨ حرفًا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>IDMS_RECOVERY_DEVICE_TITLE_FORMAT_MAC_MINI</Position>
+      <TranslationSet>
+        <base loc="en">Enter the password for the Mac mini “%@”.</base>
+        <tran loc="ar">أدخل كلمة سر الـ Mac mini‏ \"%@\".</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_DEVICE_HEADER_MACBOOK_AIR</Position>
+      <TranslationSet>
+        <base loc="en">Access to your account is protected by your MacBook Air password</base>
+        <tran loc="ar">الوصول إلى حسابك محمي بكلمة سر الـ MacBook Air الخاص بك</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_DEVICE_PASSCODE_WRONG_WARN_NOT_LOCAL_GENERIC</Position>
+      <TranslationSet>
+        <base loc="en">Enter the passcode for “%@”, which is not the password for this Mac.</base>
+        <tran loc="ar">أدخل رمز الدخول للـ \"%@\"، والذي يختلف عن كلمة السر لهذا الـ Mac.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_DEVICE_PASSCODE_WRONG_WARN_NOT_LOCAL_MAC</Position>
+      <TranslationSet>
+        <base loc="en">Enter the passcode for “%@”, which is not the password for this Mac.</base>
+        <tran loc="ar">أدخل رمز الدخول للـ \"%@\"، والذي يختلف عن كلمة السر لهذا الـ Mac.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>REMOTE_SECRET_ENTRY_INCORRECT_MACBOOK_AIR</Position>
+      <TranslationSet>
+        <base loc="en">Enter the MacBook Air password again.</base>
+        <tran loc="ar">أدخل كلمة سر الـ MacBook Air مرة أخرى.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_DEVICE_WRONG_WARN_NOT_LOCAL_TITLE_GENERIC</Position>
+      <TranslationSet>
+        <base loc="en">Enter Passcode for Other Device</base>
+        <tran loc="ar">أدخل رمز دخول الجهاز الآخر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> ICDP_ENTER_SECRET_OLD_*</Description>
+      <Position>ICDP_ENTER_SECRET_OLD_MACBOOK</Position>
+      <TranslationSet>
+        <base loc="en">Enter the password you previously used to unlock this MacBook. Your password is encrypted and cannot be read by Apple.</base>
+        <tran loc="ar">أدخل كلمة السر التي استخدمتها سابقًا لفتح قفل هذا الـ MacBook. كلمة السر الخاصة بك مشفرة ولا يمكن قراءتها بواسطة شركة Apple.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> ICDP_ENROLL_DEVICE_THIS_MAC_TITLE_FORMAT*</Description>
+      <Position>ICDP_ENROLL_DEVICE_THIS_MAC_TITLE_FORMAT_MACBOOK</Position>
+      <TranslationSet>
+        <base loc="en">Enter the password you use to unlock the MacBook.</base>
+        <tran loc="ar">أدخل كلمة السر التي تستخدمها لفتح قفل الـ MacBook.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_FORGOT_ONE_TITLE_USE_RECOVERY_KEY_MACBOOK_AIR</Position>
+      <TranslationSet>
+        <base loc="en">If you can’t remember the password for the MacBook Air “%@”, you can enter the password or passcode of one of your other devices, or use your 28-character recovery key.</base>
+        <tran loc="ar">إذا كنت لا تتذكر كلمة سر الـ MacBook Air ‏\"%@\"، يمكنك إدخال كلمة السر أو رمز الدخول لأحد أجهزتك الأخرى، أو استخدام مفتاح الاسترداد الخاص بك المكوّن من ٢٨ حرفًا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> ICDP_FORGOT_ONE_NO_OTHER_DEVICES_TITLE_NO_REMOTE_SERVER_RECOVER*</Description>
+      <Position>ICDP_FORGOT_ONE_NO_OTHER_DEVICES_TITLE_NO_REMOTE_SERVER_RECOVER_MACBOOK</Position>
+      <TranslationSet>
+        <base loc="en">If you can’t remember the password for the MacBook “%@”, you can still regain access to your Apple ID with account recovery.</base>
+        <tran loc="ar">إذا كنت لا تتذكر كلمة السر للـ MacBook‏ \"%@\"، فلا يزال بإمكانك استعادة الوصول إلى Apple ID الخاص بك باستخدام ميزة استرداد الحساب.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_ENTER_SECRET_IMAC</Position>
+      <TranslationSet>
+        <base loc="en">Enter the passcode you use to unlock the iMac “%@”. Your password is encrypted and cannot be read by Apple.</base>
+        <tran loc="ar">أدخل رمز الدخول الذي تستخدمه لفتح قفل الـ iMac \"%@\". كلمة السر الخاصة بك مشفرة ولا يمكن قراءتها بواسطة شركة Apple.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_DEVICE_WRONG_WARN_NOT_LOCAL_TITLE_IPHONE</Position>
+      <TranslationSet>
+        <base loc="en">Enter Passcode for Other iPhone</base>
+        <tran loc="ar">أدخل رمز دخول الـ iPhone الآخر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_FORGOT_ONE_TITLE_FOLLOW_UP_IPAD</Position>
+      <TranslationSet>
+        <base loc="en">If you can’t remember the passcode for the iPad “%@”, you can enter the password or passcode of one of your other devices or reset your end-to-end encrypted data to finish setting up iCloud.</base>
+        <tran loc="ar">إذا كنت لا تتذكر رمز دخول الـ iPad ‏\"%@\"، يمكنك إدخال كلمة السر أو رمز الدخول لأحد أجهزتك الأخرى أو إعادة تعيين بياناتك المشفرة بالكامل لإنهاء إعداد iCloud.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_DEVICE_HEADER_MAC_PRO</Position>
+      <TranslationSet>
+        <base loc="en">Access to your account is protected by your Mac Pro password</base>
+        <tran loc="ar">الوصول إلى حسابك محمي بكلمة سر الـ Mac Pro الخاص بك</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> ICDP_FORGOT_ONE_NO_OTHER_DEVICES_TITLE_NO_REMOTE_*</Description>
+      <Position>ICDP_FORGOT_ONE_NO_OTHER_DEVICES_TITLE_NO_REMOTE_MACBOOK</Position>
+      <TranslationSet>
+        <base loc="en">If you can’t remember the password for the MacBook “%@”, you can still sign in but your end-to-end encrypted data will be temporarily unavailable.</base>
+        <tran loc="ar">إذا كنت لا تتذكر كلمة سر الـ MacBook ‏\"%@\"، فلا يزال بإمكانك تسجيل الدخول ولكن ستصبح بياناتك المشفرة بالكامل غير متوفرة مؤقتًا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> ICDP_FORGOT_ONE_NO_OTHER_DEVICES_TITLE_REMOTE_*</Description>
+      <Position>ICDP_FORGOT_ONE_NO_OTHER_DEVICES_TITLE_REMOTE_MACBOOK</Position>
+      <TranslationSet>
+        <base loc="en">If you can’t remember the password for the MacBook “%@”, you can still sign in but your end-to-end encrypted data will be temporarily unavailable.</base>
+        <tran loc="ar">إذا كنت لا تتذكر كلمة سر الـ MacBook ‏\"%@\"، فلا يزال بإمكانك تسجيل الدخول ولكن ستصبح بياناتك المشفرة بالكامل غير متوفرة مؤقتًا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>REMOTE_SECRET_ENTRY_RECOVERY_ERROR_MESSAGE_IPOD_TOUCH</Position>
+      <TranslationSet>
+        <base loc="en">There was an error verifying the passcode of your iPod.</base>
+        <tran loc="ar">حدث خطأ أثناء التحقق من رمز الدخول للـ iPod الخاص بك.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_ENROLL_DEVICE_THIS_MAC_TITLE_FORMAT_IPAD</Position>
+      <TranslationSet>
+        <base loc="en">Enter the passcode you use to unlock the iPad</base>
+        <tran loc="ar">أدخل رمز الدخول الذي تستخدمه لفتح قفل الـ iPad</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_FORGOT_ONE_TITLE_FOLLOW_UP_MAC</Position>
+      <TranslationSet>
+        <base loc="en">If you can’t remember the password for the Mac “%@”, you can enter the password or passcode of one of your other devices or reset your end-to-end encrypted data to finish setting up iCloud.</base>
+        <tran loc="ar">إذا كنت لا تتذكر كلمة سر الـ Mac ‏\"%@\"، يمكنك إدخال كلمة السر أو رمز الدخول لأحد أجهزتك الأخرى أو إعادة تعيين بياناتك المشفرة بالكامل لإنهاء إعداد iCloud.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> ICDP_FORGOT_ONE_TITLE_FOLLOW_UP_*</Description>
+      <Position>ICDP_FORGOT_ONE_TITLE_FOLLOW_UP_MACBOOK</Position>
+      <TranslationSet>
+        <base loc="en">If you can’t remember the password for the MacBook “%@”, you can enter the password or passcode of one of your other devices or reset your end-to-end encrypted data to finish setting up iCloud.</base>
+        <tran loc="ar">إذا كنت لا تتذكر كلمة سر الـ MacBook ‏\"%@\"، يمكنك إدخال كلمة السر أو رمز الدخول لأحد أجهزتك الأخرى أو إعادة تعيين بياناتك المشفرة بالكامل لإنهاء إعداد iCloud.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_FORGOT_SECRET_FORMAT_IPOD_TOUCH</Position>
+      <TranslationSet>
+        <base loc="en">Forgot iPod passcode?</base>
+        <tran loc="ar">هل نسيت رمز دخول الـ iPod؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_ENROLL_DEVICE_THIS_MAC_TITLE_FORMAT_MAC_MINI</Position>
+      <TranslationSet>
+        <base loc="en">Enter the password you use to unlock the Mac mini.</base>
+        <tran loc="ar">أدخل كلمة السر التي تستخدمها لفتح قفل الـ Mac mini.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_FORGOT_ONE_NO_OTHER_DEVICES_TITLE_REMOTE_USE_RECOVERY_KEY_GENERIC</Position>
+      <TranslationSet>
+        <base loc="en">If you can’t remember the passcode for “%@”, you can use your 28-character recovery key.</base>
+        <tran loc="ar">إذا كنت لا تتذكر رمز دخول الـ \"%@\"، يمكنك استخدام مفتاح الاسترداد الخاص بك المكوّن من ٢٨ حرفًا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>RK_DEPLETED_ATTEMPTS_NO_DEVICES_ERROR_MESSAGE_GENERIC</Position>
+      <TranslationSet>
+        <base loc="en">If you can’t remember the passcode for “%@”, you can use your 28-character recovery key.</base>
+        <tran loc="ar">إذا كنت لا تتذكر رمز دخول الـ \"%@\"، يمكنك استخدام مفتاح الاسترداد الخاص بك المكوّن من ٢٨ حرفًا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_ENROLL_DEVICE_THIS_MAC_MESSAGE_FORMAT_MAC_MINI</Position>
+      <TranslationSet>
+        <base loc="en">Access to your account is protected by the password you previously used to unlock this Mac mini. Your password is encrypted and cannot be read by Apple.</base>
+        <tran loc="ar">الوصول إلى حسابك محمي بكلمة السر التي استخدمتها سابقًا لفتح قفل هذا الـ Mac mini. كلمة السر الخاصة بك مشفرة ولا يمكن قراءتها من قِبل شركة Apple.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_FORGOT_ONE_TITLE_FOLLOW_UP_MAC_PRO</Position>
+      <TranslationSet>
+        <base loc="en">If you can’t remember the password for the Mac Pro “%@”, you can enter the password or passcode of one of your other devices or reset your end-to-end encrypted data to finish setting up iCloud.</base>
+        <tran loc="ar">إذا كنت لا تتذكر كلمة سر الـ Mac Pro ‏\"%@\"، يمكنك إدخال كلمة السر أو رمز الدخول لأحد أجهزتك الأخرى أو إعادة تعيين بياناتك المشفرة بالكامل لإنهاء إعداد iCloud.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_FORGOT_ONE_TITLE_IPAD</Position>
+      <TranslationSet>
+        <base loc="en">If you can’t remember the passcode for the iPad “%@”, you can enter the password or passcode of one of your other devices.</base>
+        <tran loc="ar">إذا كنت لا تتذكر رمز الدخول للـ iPad‏ \"%@\"، يمكنك إدخال كلمة السر أو رمز الدخول لأحد أجهزتك الأخرى.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_FORGOT_ONE_TITLE_IMAC</Position>
+      <TranslationSet>
+        <base loc="en">If you can’t remember the password for the iMac “%@”, you can enter the password or passcode of one of your other devices.</base>
+        <tran loc="ar">إذا كنت لا تتذكر كلمة السر للـ iMac‏ \"%@\"، يمكنك إدخال كلمة السر أو رمز الدخول لأحد أجهزتك الأخرى.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_FORGOT_ONE_NO_OTHER_DEVICES_TITLE_REMOTE_USE_RECOVERY_KEY_MAC</Position>
+      <TranslationSet>
+        <base loc="en">If you can’t remember the password for the Mac “%@”, you can use your 28-character recovery key.</base>
+        <tran loc="ar">إذا كنت لا تتذكر كلمة سر الـ Mac ‏\"%@\"، يمكنك استخدام مفتاح الاسترداد الخاص بك المكوّن من ٢٨ حرفًا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>RK_DEPLETED_ATTEMPTS_NO_DEVICES_ERROR_MESSAGE_MAC</Position>
+      <TranslationSet>
+        <base loc="en">If you can’t remember the password for the Mac “%@”, you can use your 28-character recovery key.</base>
+        <tran loc="ar">إذا كنت لا تتذكر كلمة سر الـ Mac ‏\"%@\"، يمكنك استخدام مفتاح الاسترداد الخاص بك المكوّن من ٢٨ حرفًا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_ENROLL_DEVICE_WAIT_OTHER_DEVICE_IPAD</Position>
+      <TranslationSet>
+        <base loc="en">Go to one of your other devices signed in to iCloud to approve this iPad.</base>
+        <tran loc="ar">انتقل إلى أحد أجهزتك الأخرى المسجل عليها الدخول إلى iCloud للموافقة على هذا الـ iPad.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_FORGOT_ONE_TITLE_FOLLOW_UP_GENERIC</Position>
+      <TranslationSet>
+        <base loc="en">If you can’t remember the passcode for “%@”, you can enter the password or passcode of one of your other devices or reset your end-to-end encrypted data to finish setting up iCloud.</base>
+        <tran loc="ar">إذا كنت لا تتذكر رمز دخول \"%@\"، يمكنك إدخال كلمة السر أو رمز الدخول لأحد أجهزتك الأخرى أو إعادة تعيين بياناتك المشفرة بالكامل لإنهاء إعداد iCloud.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_ENROLL_DEVICE_MESSAGE_FORMAT_IPOD_TOUCH</Position>
+      <TranslationSet>
+        <base loc="en">Access to your account is protected by the passcode you use to unlock the iPod “%@”. Your passcode is encrypted and cannot be read by Apple.</base>
+        <tran loc="ar">الوصول إلى حسابك محمي برمز الدخول الذي تستخدمه لفتح قفل الـ iPod ‏"%@". رمز دخولك مشفر ولا يمكن قراءته من قِبل شركة Apple.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_ENTER_SECRET_IPHONE</Position>
+      <TranslationSet>
+        <base loc="en">Enter the passcode for the iPhone “%@”. Your passcode is encrypted and cannot be read by Apple.</base>
+        <tran loc="ar">أدخل رمز الدخول للـ iPhone‏ \"%@\". رمز الدخول الخاص بك مشفر ولا يمكن قراءته من قِبل شركة Apple.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_FORGOT_ONE_TITLE_IPOD_TOUCH</Position>
+      <TranslationSet>
+        <base loc="en">If you can’t remember the passcode for the iPod touch “%@”, you can enter the password or passcode of one of your other devices.</base>
+        <tran loc="ar">إذا كنت لا تتذكر رمز الدخول للـ iPod touch‏ \"%@\"، يمكنك إدخال كلمة السر أو رمز الدخول لأحد أجهزتك الأخرى.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_ENROLL_DEVICE_THIS_MAC_MESSAGE_FORMAT_MACBOOK_PRO</Position>
+      <TranslationSet>
+        <base loc="en">Access to your account is protected by the password you previously used to unlock this MacBook Pro. Your password is encrypted and cannot be read by Apple.</base>
+        <tran loc="ar">الوصول إلى حسابك محمي بكلمة السر التي استخدمتها سابقًا لفتح قفل هذا الـ MacBook Pro. كلمة السر الخاصة بك مشفرة ولا يمكن قراءتها من قِبل شركة Apple.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_FORGOT_ONE_TITLE_PASSWORD_NAME_ONLY</Position>
+      <TranslationSet>
+        <base loc="en">If you can’t remember the password for “%@”, you can enter the password or passcode of one of your other devices.</base>
+        <tran loc="ar">إذا كنت لا تتذكر كلمة السر لـ \"%@\"، يمكنك إدخال كلمة السر أو رمز الدخول لأحد أجهزتك الأخرى.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_ENROLL_DEVICE_TITLE_FORMAT_MACBOOK_AIR</Position>
+      <TranslationSet>
+        <base loc="en">Enter the password you use to unlock the MacBook Air “%@”.</base>
+        <tran loc="ar">أدخل كلمة السر التي تستخدمها لفتح قفل الـ MacBook Air \"%@\".</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_DEVICE_HEADER_OLD_MACBOOK_AIR</Position>
+      <TranslationSet>
+        <base loc="en">Access to your account is protected by the password you previously used to unlock this MacBook Air</base>
+        <tran loc="ar">الوصول إلى حسابك محمي بكلمة السر التي استخدمتها سابقًا لفتح قفل هذا الـ MacBook Air</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_FORGOT_ONE_NO_OTHER_DEVICES_TITLE_REMOTE_AND_SERVER_RECOVER_MAC_PRO</Position>
+      <TranslationSet>
+        <base loc="en">If you can’t remember the password for the Mac Pro “%@”, you can approve this Mac using another device or regain access to your Apple ID with account recovery.</base>
+        <tran loc="ar">إذا كنت لا تتذكر كلمة السر للـ Mac Pro‏ \"%@\"، يمكنك الموافقة على هذا الـ Mac باستخدام جهاز آخر أو استعادة الوصول إلى Apple ID الخاص بك باستخدام ميزة استرداد الحساب.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> ICDP_ENROLL_DEVICE_TITLE_FORMAT_*</Description>
+      <Position>ICDP_ENROLL_DEVICE_TITLE_FORMAT_MACBOOK</Position>
+      <TranslationSet>
+        <base loc="en">Enter the password you use to unlock the MacBook “%@”.</base>
+        <tran loc="ar">أدخل كلمة السر التي تستخدمها لفتح قفل الـ MacBook \"%@\".</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_ENROLL_DEVICE_WAIT_OTHER_DEVICE_MACBOOK_AIR</Position>
+      <TranslationSet>
+        <base loc="en">Go to one of your other devices signed in to iCloud to approve this MacBook Air.</base>
+        <tran loc="ar">انتقل إلى أحد أجهزتك الأخرى المسجل عليها الدخول إلى iCloud للموافقة على هذا الـ MacBook Air.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_ENROLL_DEVICE_THIS_MAC_TITLE_FORMAT_MACBOOK_AIR</Position>
+      <TranslationSet>
+        <base loc="en">Enter the password you use to unlock the MacBook Air.</base>
+        <tran loc="ar">أدخل كلمة السر التي تستخدمها لفتح قفل الـ MacBook Air.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_DEVICE_WRONG_WARN_NOT_LOCAL_TITLE_IPOD_TOUCH</Position>
+      <TranslationSet>
+        <base loc="en">Enter Passcode for Other iPod</base>
+        <tran loc="ar">أدخل رمز دخول الـ iPod الآخر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_DEVICE_HEADER_OLD_MAC_MINI</Position>
+      <TranslationSet>
+        <base loc="en">Access to your account is protected by the password you previously used to unlock this Mac mini</base>
+        <tran loc="ar">الوصول إلى حسابك محمي بكلمة السر التي استخدمتها سابقًا لفتح قفل هذا الـ Mac mini</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_DEVICE_HEADER_OLD_MACBOOK_PRO</Position>
+      <TranslationSet>
+        <base loc="en">Access to your account is protected by the password you previously used to unlock this MacBook Pro</base>
+        <tran loc="ar">الوصول إلى حسابك محمي بكلمة السر التي استخدمتها سابقًا لفتح قفل هذا الـ MacBook Pro</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_ENTER_SECRET_OLD_MAC_PRO</Position>
+      <TranslationSet>
+        <base loc="en">Enter the password you previously used to unlock this Mac Pro. Your password is encrypted and cannot be read by Apple.</base>
+        <tran loc="ar">أدخل كلمة السر التي استخدمتها سابقًا لفتح قفل هذا الـ Mac Pro. كلمة السر الخاصة بك مشفرة ولا يمكن قراءتها بواسطة شركة Apple.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_ENROLL_DEVICE_TITLE_FORMAT_IPAD</Position>
+      <TranslationSet>
+        <base loc="en">Enter the passcode you use to unlock the iPad “%@”.</base>
+        <tran loc="ar">أدخل رمز الدخول الذي تستخدمه لفتح قفل الـ iPad \"%@\".</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_DEVICE_TITLE_MACBOOK_AIR</Position>
+      <TranslationSet>
+        <base loc="en">Enter Password for Other MacBook Air</base>
+        <tran loc="ar">أدخل كلمة سر الـ MacBook Air الآخر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_DEVICE_WRONG_WARN_NOT_LOCAL_TITLE_MACBOOK_AIR</Position>
+      <TranslationSet>
+        <base loc="en">Enter Password for Other MacBook Air</base>
+        <tran loc="ar">أدخل كلمة سر الـ MacBook Air الآخر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_FORGOT_ONE_TITLE_USE_RECOVERY_KEY_MAC_PRO</Position>
+      <TranslationSet>
+        <base loc="en">If you can’t remember the password for the Mac Pro “%@”, you can enter the password or passcode of one of your other devices, or use your 28-character recovery key.</base>
+        <tran loc="ar">إذا كنت لا تتذكر كلمة سر الـ Mac Pro ‏\"%@\"، يمكنك إدخال كلمة السر أو رمز الدخول لأحد أجهزتك الأخرى، أو استخدام مفتاح الاسترداد الخاص بك المكوّن من ٢٨ حرفًا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_ENROLL_DEVICE_THIS_MAC_MESSAGE_FORMAT_IPAD</Position>
+      <TranslationSet>
+        <base loc="en">Access to your account is protected by the passcode you previously used to unlock this iPad. Your passcode is encrypted and cannot be read by Apple.</base>
+        <tran loc="ar">الوصول إلى حسابك محمي برمز الدخول الذي استخدمته سابقًا لفتح قفل هذا الـ iPad. رمز الدخول الخاص بك مشفر ولا يمكن قراءته من قِبل شركة Apple.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_FORGOT_ONE_TITLE_USE_RECOVERY_KEY_MACBOOK_PRO</Position>
+      <TranslationSet>
+        <base loc="en">If you can’t remember the password for the MacBook Pro “%@”, you can enter the password or passcode of one of your other devices, or use your 28-character recovery key.</base>
+        <tran loc="ar">إذا كنت لا تتذكر كلمة سر الـ MacBook Pro ‏\"%@\"، يمكنك إدخال كلمة السر أو رمز الدخول لأحد أجهزتك الأخرى، أو استخدام مفتاح الاسترداد الخاص بك المكوّن من ٢٨ حرفًا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_DEVICE_TITLE_MACBOOK_PRO</Position>
+      <TranslationSet>
+        <base loc="en">Enter Password for Other MacBook Pro</base>
+        <tran loc="ar">أدخل كلمة سر الـ MacBook Pro الآخر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_DEVICE_WRONG_WARN_NOT_LOCAL_TITLE_MACBOOK_PRO</Position>
+      <TranslationSet>
+        <base loc="en">Enter Password for Other MacBook Pro</base>
+        <tran loc="ar">أدخل كلمة سر الـ MacBook Pro الآخر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_FORGOT_ONE_NO_OTHER_DEVICES_TITLE_NO_REMOTE_SERVER_RECOVER_IMAC</Position>
+      <TranslationSet>
+        <base loc="en">If you can’t remember the password for the iMac “%@”, you can still regain access to your Apple ID with account recovery.</base>
+        <tran loc="ar">إذا كنت لا تتذكر كلمة السر للـ iMac‏ \"%@\"، فلا يزال بإمكانك استعادة الوصول إلى Apple ID الخاص بك باستخدام ميزة استرداد الحساب.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_ENROLL_DEVICE_MESSAGE_FORMAT_MAC_PRO</Position>
+      <TranslationSet>
+        <base loc="en">Access to your account is protected by the password you use to unlock the Mac Pro “%@”. Your password is encrypted and cannot be read by Apple.</base>
+        <tran loc="ar">الوصول إلى حسابك محمي بكلمة السر التي تستخدمها لفتح قفل الـ Mac Pro‏ \"%@\". كلمة السر الخاصة بك مشفرة ولا يمكن قراءتها من قِبل شركة Apple.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_FORGOT_ONE_NO_OTHER_DEVICES_TITLE_REMOTE_USE_RECOVERY_KEY_IPOD_TOUCH</Position>
+      <TranslationSet>
+        <base loc="en">If you can’t remember the passcode for the iPod touch “%@”, you can use your 28-character recovery key.</base>
+        <tran loc="ar">إذا كنت لا تتذكر رمز دخول الـ iPod touch ‏\"%@\"، يمكنك استخدام مفتاح الاسترداد الخاص بك المكوّن من ٢٨ حرفًا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>RK_DEPLETED_ATTEMPTS_NO_DEVICES_ERROR_MESSAGE_IPOD_TOUCH</Position>
+      <TranslationSet>
+        <base loc="en">If you can’t remember the passcode for the iPod touch “%@”, you can use your 28-character recovery key.</base>
+        <tran loc="ar">إذا كنت لا تتذكر رمز دخول الـ iPod touch ‏\"%@\"، يمكنك استخدام مفتاح الاسترداد الخاص بك المكوّن من ٢٨ حرفًا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_FORGOT_ONE_NO_OTHER_DEVICES_TITLE_NO_REMOTE_SERVER_RECOVER_IPOD_TOUCH</Position>
+      <TranslationSet>
+        <base loc="en">If you can’t remember the passcode for the iPod touch “%@”, you can still regain access to your Apple ID with account recovery.</base>
+        <tran loc="ar">إذا كنت لا تتذكر رمز الدخول للـ iPod touch‏ \"%@\"، فلا يزال بإمكانك استعادة الوصول إلى Apple ID الخاص بك باستخدام ميزة استرداد الحساب.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_DEVICE_TITLE_IPAD</Position>
+      <TranslationSet>
+        <base loc="en">Enter iPad Passcode</base>
+        <tran loc="ar">أدخل رمز دخول الـ iPad</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_DEVICE_PASSCODE_WRONG_WARN_NOT_LOCAL_MAC_MINI</Position>
+      <TranslationSet>
+        <base loc="en">Enter the passcode for “%@”, which is not the password for this Mac mini.</base>
+        <tran loc="ar">أدخل رمز الدخول للـ \"%@\"، والذي يختلف عن كلمة السر لهذا الـ Mac mini.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_ENROLL_DEVICE_WAIT_OTHER_DEVICE_MAC</Position>
+      <TranslationSet>
+        <base loc="en">Go to one of your other devices signed in to iCloud to approve this Mac.</base>
+        <tran loc="ar">انتقل إلى أحد أجهزتك الأخرى المسجل عليها الدخول إلى iCloud للموافقة على هذا الـ Mac.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_DEVICE_HEADER_IPAD</Position>
+      <TranslationSet>
+        <base loc="en">Access to your account is protected by your iPad passcode</base>
+        <tran loc="ar">الوصول إلى حسابك محمي برمز دخول الـ iPad الخاص بك</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>REMOTE_SECRET_ENTRY_INCORRECT_IPAD</Position>
+      <TranslationSet>
+        <base loc="en">Enter the iPad passcode again.</base>
+        <tran loc="ar">أدخل رمز دخول الـ iPad مرة أخرى.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_FORGOT_ONE_NO_OTHER_DEVICES_TITLE_NO_REMOTE_SERVER_RECOVER_MACBOOK_PRO</Position>
+      <TranslationSet>
+        <base loc="en">If you can’t remember the password for the MacBook Pro “%@”, you can still regain access to your Apple ID with account recovery.</base>
+        <tran loc="ar">إذا كنت لا تتذكر كلمة السر للـ MacBook Pro ‏\"%@\"، فلا يزال بإمكانك استعادة إمكانية الوصول إلى الـ Apple ID الخاص بك من خلال استرداد الحساب.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_FORGOT_ONE_TITLE_FOLLOW_UP_IPHONE</Position>
+      <TranslationSet>
+        <base loc="en">If you can’t remember the passcode for the iPhone “%@”, you can enter the password or passcode of one of your other devices or reset your end-to-end encrypted data to finish setting up iCloud.</base>
+        <tran loc="ar">إذا كنت لا تتذكر رمز دخول الـ iPhone ‏\"%@\"، يمكنك إدخال كلمة السر أو رمز الدخول لأحد أجهزتك الأخرى أو إعادة تعيين بياناتك المشفرة بالكامل لإنهاء إعداد iCloud.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>REMOTE_SECRET_ENTRY_INCORRECT_MACBOOK_PRO</Position>
+      <TranslationSet>
+        <base loc="en">Enter the MacBook Pro password again.</base>
+        <tran loc="ar">أدخل كلمة سر الـ MacBook Pro مرة أخرى.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>IDMS_RECOVERY_DEVICE_MESSAGE_FORMAT_GENERIC</Position>
+      <TranslationSet>
+        <base loc="en">Your passcode is encrypted and cannot be read by Apple.</base>
+        <tran loc="ar">رمز الدخول الخاص بك مشفر ولا يمكن قراءته من قِبل شركة Apple.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>IDMS_RECOVERY_DEVICE_MESSAGE_FORMAT_IPAD</Position>
+      <TranslationSet>
+        <base loc="en">Your passcode is encrypted and cannot be read by Apple.</base>
+        <tran loc="ar">رمز الدخول الخاص بك مشفر ولا يمكن قراءته من قِبل شركة Apple.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>IDMS_RECOVERY_DEVICE_MESSAGE_FORMAT_IPHONE</Position>
+      <TranslationSet>
+        <base loc="en">Your passcode is encrypted and cannot be read by Apple.</base>
+        <tran loc="ar">رمز الدخول الخاص بك مشفر ولا يمكن قراءته من قِبل شركة Apple.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>IDMS_RECOVERY_DEVICE_MESSAGE_FORMAT_IPOD_TOUCH</Position>
+      <TranslationSet>
+        <base loc="en">Your passcode is encrypted and cannot be read by Apple.</base>
+        <tran loc="ar">رمز الدخول الخاص بك مشفر ولا يمكن قراءته من قِبل شركة Apple.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_FORGOT_ONE_TITLE_IPHONE</Position>
+      <TranslationSet>
+        <base loc="en">If you can’t remember the passcode for the iPhone “%@”, you can enter the password or passcode of one of your other devices.</base>
+        <tran loc="ar">إذا كنت لا تتذكر رمز الدخول للـ iPhone‏ \"%@\"، يمكنك إدخال كلمة السر أو رمز الدخول لأحد أجهزتك الأخرى.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_ENTER_SECRET_MACBOOK_AIR</Position>
+      <TranslationSet>
+        <base loc="en">Enter the passcode you use to unlock the MacBook Air “%@”. Your password is encrypted and cannot be read by Apple.</base>
+        <tran loc="ar">أدخل رمز الدخول الذي تستخدمه لفتح قفل الـ MacBook Air \"%@\". كلمة السر الخاصة بك مشفرة ولا يمكن قراءتها بواسطة شركة Apple.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_FORGOT_ONE_TITLE_USE_RECOVERY_KEY_MAC</Position>
+      <TranslationSet>
+        <base loc="en">If you can’t remember the password for the Mac “%@”, you can enter the password or passcode of one of your other devices, or use your 28-character recovery key.</base>
+        <tran loc="ar">إذا كنت لا تتذكر كلمة سر الـ Mac ‏\"%@\"، يمكنك إدخال كلمة السر أو رمز الدخول لأحد أجهزتك الأخرى، أو استخدام مفتاح الاسترداد الخاص بك المكوّن من ٢٨ حرفًا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_DEVICE_TITLE_OLD_IMAC</Position>
+      <TranslationSet>
+        <base loc="en">Enter Old Password</base>
+        <tran loc="ar">أدخل كلمة السر القديمة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_DEVICE_TITLE_OLD_MAC</Position>
+      <TranslationSet>
+        <base loc="en">Enter Old Password</base>
+        <tran loc="ar">أدخل كلمة السر القديمة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> ICDP_DEVICE_TITLE_OLD_*</Description>
+      <Position>ICDP_DEVICE_TITLE_OLD_MACBOOK</Position>
+      <TranslationSet>
+        <base loc="en">Enter Old Password</base>
+        <tran loc="ar">أدخل كلمة السر القديمة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_DEVICE_TITLE_OLD_MACBOOK_AIR</Position>
+      <TranslationSet>
+        <base loc="en">Enter Old Password</base>
+        <tran loc="ar">أدخل كلمة السر القديمة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_DEVICE_TITLE_OLD_MACBOOK_PRO</Position>
+      <TranslationSet>
+        <base loc="en">Enter Old Password</base>
+        <tran loc="ar">أدخل كلمة السر القديمة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_DEVICE_TITLE_OLD_MAC_MINI</Position>
+      <TranslationSet>
+        <base loc="en">Enter Old Password</base>
+        <tran loc="ar">أدخل كلمة السر القديمة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_DEVICE_TITLE_OLD_MAC_PRO</Position>
+      <TranslationSet>
+        <base loc="en">Enter Old Password</base>
+        <tran loc="ar">أدخل كلمة السر القديمة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_ENTER_SECRET_OLD_MAC_MINI</Position>
+      <TranslationSet>
+        <base loc="en">Enter the password you previously used to unlock this Mac mini. Your password is encrypted and cannot be read by Apple.</base>
+        <tran loc="ar">أدخل كلمة السر التي استخدمتها سابقًا لفتح قفل هذا الـ Mac mini. كلمة السر الخاصة بك مشفرة ولا يمكن قراءتها بواسطة شركة Apple.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_FORGOT_ONE_NO_OTHER_DEVICES_TITLE_REMOTE_AND_SERVER_RECOVER_IPAD</Position>
+      <TranslationSet>
+        <base loc="en">If you can’t remember the passcode for the iPad “%@”, you can approve this Mac using another device or regain access to your Apple ID with account recovery.</base>
+        <tran loc="ar">إذا كنت لا تتذكر رمز الدخول للـ iPad‏ \"%@\"، يمكنك الموافقة على هذا الـ Mac باستخدام جهاز آخر أو استعادة الوصول إلى Apple ID الخاص بك باستخدام ميزة استرداد الحساب.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_FORGOT_ONE_NO_OTHER_DEVICES_TITLE_REMOTE_AND_SERVER_RECOVER_MAC_MINI</Position>
+      <TranslationSet>
+        <base loc="en">If you can’t remember the password for the Mac mini “%@”, you can approve this Mac using another device or regain access to your Apple ID with account recovery.</base>
+        <tran loc="ar">إذا كنت لا تتذكر كلمة السر للـ Mac mini‏ \"%@\"، يمكنك الموافقة على هذا الـ Mac باستخدام جهاز آخر أو استعادة الوصول إلى Apple ID الخاص بك باستخدام ميزة استرداد الحساب.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_FORGOT_ONE_TITLE_USE_RECOVERY_KEY_IPHONE</Position>
+      <TranslationSet>
+        <base loc="en">If you can’t remember the passcode for the iPhone “%@”, you can enter the password or passcode of one of your other devices, or use your 28-character recovery key.</base>
+        <tran loc="ar">إذا كنت لا تتذكر رمز دخول الـ iPhone ‏\"%@\"، يمكنك إدخال كلمة السر أو رمز الدخول لأحد أجهزتك الأخرى، أو استخدام مفتاح الاسترداد الخاص بك المكوّن من ٢٨ حرفًا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_ENROLL_DEVICE_TITLE_FORMAT_IPOD_TOUCH</Position>
+      <TranslationSet>
+        <base loc="en">Enter the passcode you use to unlock the iPod “%@”.</base>
+        <tran loc="ar">أدخل رمز الدخول الذي تستخدمه لفتح قفل الـ iPod \"%@\".</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_DEVICE_PASSWORD_WRONG_WARN_NOT_LOCAL_MAC_PRO</Position>
+      <TranslationSet>
+        <base loc="en">Enter the passcode you use to unlock “%@”, which is not the password for this Mac Pro.</base>
+        <tran loc="ar">أدخل رمز الدخول الذي تستخدمه لفتح قفل \"%@\"، والذي يختلف عن كلمة السر لهذا الـ Mac Pro.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_ENROLL_DEVICE_WAIT_OTHER_DEVICE_IMAC</Position>
+      <TranslationSet>
+        <base loc="en">Go to one of your other devices signed in to iCloud to approve this iMac.</base>
+        <tran loc="ar">انتقل إلى أحد أجهزتك الأخرى المسجل عليها الدخول إلى iCloud للموافقة على هذا الـ iMac.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>REMOTE_SECRET_ENTRY_RECOVERY_ERROR_MESSAGE_MAC_PRO</Position>
+      <TranslationSet>
+        <base loc="en">There was an error verifying the password of your Mac Pro.</base>
+        <tran loc="ar">حدث خطأ أثناء التحقق من كلمة السر للـ Mac Pro الخاص بك.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> ICDP_ENROLL_DEVICE_WAIT_OTHER_DEVICE_</Description>
+      <Position>ICDP_ENROLL_DEVICE_WAIT_OTHER_DEVICE_MACBOOK</Position>
+      <TranslationSet>
+        <base loc="en">Go to one of your other devices signed in to iCloud to approve this MacBook.</base>
+        <tran loc="ar">انتقل إلى أحد أجهزتك الأخرى المسجل عليها الدخول إلى iCloud للموافقة على هذا الـ MacBook.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_FORGOT_SECRET_FORMAT_MACBOOK_AIR</Position>
+      <TranslationSet>
+        <base loc="en">Forgot MacBook Air password?</base>
+        <tran loc="ar">هل نسيت كلمة سر الـ MacBook Air؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>IDMS_RECOVERY_DEVICE_TITLE_FORMAT_IPAD</Position>
+      <TranslationSet>
+        <base loc="en">Enter the passcode for the iPad “%@”.</base>
+        <tran loc="ar">أدخل رمز دخول الـ iPad‏ \"%@\".</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_ENROLL_DEVICE_TITLE_FORMAT_MAC_PRO</Position>
+      <TranslationSet>
+        <base loc="en">Enter the password you use to unlock the Mac Pro “%@”.</base>
+        <tran loc="ar">أدخل كلمة السر التي تستخدمها لفتح قفل الـ Mac Pro \"%@\".</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_ENTER_SECRET_OLD_GENERIC</Position>
+      <TranslationSet>
+        <base loc="en">Enter the password you previously used to unlock this Mac. Your password is encrypted and cannot be read by Apple.</base>
+        <tran loc="ar">أدخل كلمة السر التي استخدمتها سابقًا لفتح قفل هذا الـ Mac. كلمة السر الخاصة بك مشفرة ولا يمكن قراءتها بواسطة شركة Apple.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_ENTER_SECRET_OLD_MAC</Position>
+      <TranslationSet>
+        <base loc="en">Enter the password you previously used to unlock this Mac. Your password is encrypted and cannot be read by Apple.</base>
+        <tran loc="ar">أدخل كلمة السر التي استخدمتها سابقًا لفتح قفل هذا الـ Mac. كلمة السر الخاصة بك مشفرة ولا يمكن قراءتها بواسطة شركة Apple.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>REMOTE_SECRET_ENTRY_RECOVERY_ERROR_MESSAGE_MAC</Position>
+      <TranslationSet>
+        <base loc="en">There was an error verifying the password of your Mac.</base>
+        <tran loc="ar">حدث خطأ أثناء التحقق من كلمة السر للـ Mac الخاص بك.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_ENTER_SECRET_OLD_IMAC</Position>
+      <TranslationSet>
+        <base loc="en">Enter the password you previously used to unlock this iMac. Your password is encrypted and cannot be read by Apple.</base>
+        <tran loc="ar">أدخل كلمة السر التي استخدمتها سابقًا لفتح قفل هذا الـ iMac. كلمة السر الخاصة بك مشفرة ولا يمكن قراءتها بواسطة شركة Apple.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> ICDP_DEVICE_PASSWORD_WRONG_WARN_NOT_LOCAL_*</Description>
+      <Position>ICDP_DEVICE_PASSWORD_WRONG_WARN_NOT_LOCAL_MACBOOK</Position>
+      <TranslationSet>
+        <base loc="en">Enter the passcode you use to unlock “%@”, which is not the password for this MacBook.</base>
+        <tran loc="ar">أدخل رمز الدخول الذي تستخدمه لفتح قفل \"%@\"، والذي يختلف عن كلمة السر لهذا الـ MacBook.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> ICDP_ENROLL_DEVICE_THIS_MAC_MESSAGE_FORMAT* </Description>
+      <Position>ICDP_ENROLL_DEVICE_THIS_MAC_MESSAGE_FORMAT_MACBOOK</Position>
+      <TranslationSet>
+        <base loc="en">Access to your account is protected by the password you previously used to unlock this MacBook. Your password is encrypted and cannot be read by Apple.</base>
+        <tran loc="ar">الوصول إلى حسابك محمي بكلمة السر التي استخدمتها سابقًا لفتح قفل هذا الـ MacBook. كلمة السر الخاصة بك مشفرة ولا يمكن قراءتها من قِبل شركة Apple.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_FORGOT_ONE_TITLE_USE_RECOVERY_KEY_IPOD_TOUCH</Position>
+      <TranslationSet>
+        <base loc="en">If you can’t remember the passcode for the iPod touch “%@”, you can enter the password or passcode of one of your other devices, or use your 28-character recovery key.</base>
+        <tran loc="ar">إذا كنت لا تتذكر رمز دخول الـ iPod touch ‏\"%@\"، يمكنك إدخال كلمة السر أو رمز الدخول لأحد أجهزتك الأخرى، أو استخدام مفتاح الاسترداد الخاص بك المكوّن من ٢٨ حرفًا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_ENTER_PASSCODE_NAME_ONLY</Position>
+      <TranslationSet>
+        <base loc="en">Enter the passcode for “%@”. Your passcode is encrypted and cannot be read by Apple.</base>
+        <tran loc="ar">أدخل رمز الدخول لـ \"%@\". رمز الدخول الخاص بك مشفر ولا يمكن قراءته من قِبل شركة Apple.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_ENTER_SECRET_GENERIC</Position>
+      <TranslationSet>
+        <base loc="en">Enter the passcode for “%@”. Your passcode is encrypted and cannot be read by Apple.</base>
+        <tran loc="ar">أدخل رمز الدخول لـ \"%@\". رمز الدخول الخاص بك مشفر ولا يمكن قراءته من قِبل شركة Apple.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_FORGOT_ONE_NO_OTHER_DEVICES_TITLE_NO_REMOTE_MAC_MINI</Position>
+      <TranslationSet>
+        <base loc="en">If you can’t remember the password for the Mac mini “%@”, you can still sign in but your end-to-end encrypted data will be temporarily unavailable.</base>
+        <tran loc="ar">إذا كنت لا تتذكر كلمة سر الـ Mac mini ‏\"%@\"، فلا يزال بإمكانك تسجيل الدخول ولكن ستصبح بياناتك المشفرة بالكامل غير متوفرة مؤقتًا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_FORGOT_ONE_NO_OTHER_DEVICES_TITLE_REMOTE_MAC_MINI</Position>
+      <TranslationSet>
+        <base loc="en">If you can’t remember the password for the Mac mini “%@”, you can still sign in but your end-to-end encrypted data will be temporarily unavailable.</base>
+        <tran loc="ar">إذا كنت لا تتذكر كلمة سر الـ Mac mini ‏\"%@\"، فلا يزال بإمكانك تسجيل الدخول ولكن ستصبح بياناتك المشفرة بالكامل غير متوفرة مؤقتًا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_ENROLL_DEVICE_WAIT_OTHER_DEVICE_MAC_PRO</Position>
+      <TranslationSet>
+        <base loc="en">Go to one of your other devices signed in to iCloud to approve this Mac Pro.</base>
+        <tran loc="ar">انتقل إلى أحد أجهزتك الأخرى المسجل عليها الدخول إلى iCloud للموافقة على هذا الـ Mac Pro.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_DEVICE_PASSWORD_WRONG_WARN_NOT_LOCAL_GENERIC</Position>
+      <TranslationSet>
+        <base loc="en">Enter the passcode you use to unlock “%@”, which is not the password for this Mac.</base>
+        <tran loc="ar">أدخل رمز الدخول الذي تستخدمه لفتح قفل \"%@\"، والذي يختلف عن كلمة السر لهذا الـ Mac.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_DEVICE_PASSWORD_WRONG_WARN_NOT_LOCAL_MAC</Position>
+      <TranslationSet>
+        <base loc="en">Enter the passcode you use to unlock “%@”, which is not the password for this Mac.</base>
+        <tran loc="ar">أدخل رمز الدخول الذي تستخدمه لفتح قفل \"%@\"، والذي يختلف عن كلمة السر لهذا الـ Mac.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_FORGOT_ONE_NO_OTHER_DEVICES_TITLE_REMOTE_AND_SERVER_RECOVER_MACBOOK_PRO</Position>
+      <TranslationSet>
+        <base loc="en">If you can’t remember the password for the MacBook Pro “%@”, you can approve this Mac using another device or regain access to your Apple ID with account recovery.</base>
+        <tran loc="ar">إذا كنت لا تتذكر كلمة السر للـ MacBook Pro‏ \"%@\"، يمكنك الموافقة على هذا الـ Mac باستخدام جهاز آخر أو استعادة الوصول إلى Apple ID الخاص بك من خلال استرداد الحساب.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_DEVICE_HEADER_MAC_MINI</Position>
+      <TranslationSet>
+        <base loc="en">Access to your account is protected by your Mac mini password</base>
+        <tran loc="ar">الوصول إلى حسابك محمي بكلمة سر الـ Mac mini الخاص بك</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_ENROLL_DEVICE_MESSAGE_FORMAT_IPHONE</Position>
+      <TranslationSet>
+        <base loc="en">Access to your account is protected by the passcode you use to unlock the iPhone “%@”. Your passcode is encrypted and cannot be read by Apple.</base>
+        <tran loc="ar">الوصول إلى حسابك محمي برمز الدخول الذي تستخدمه لفتح قفل الـ iPhone ‏\"%@\". رمز الدخول الخاص بك مشفر ولا يمكن قراءته من قِبل شركة Apple.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_DEVICE_PASSWORD_WRONG_WARN_NOT_LOCAL_MAC_MINI</Position>
+      <TranslationSet>
+        <base loc="en">Enter the passcode you use to unlock “%@”, which is not the password for this Mac mini.</base>
+        <tran loc="ar">أدخل رمز الدخول الذي تستخدمه لفتح قفل \"%@\"، والذي يختلف عن كلمة السر لهذا الـ Mac mini.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_FORGOT_SECRET_FORMAT_GENERIC</Position>
+      <TranslationSet>
+        <base loc="en">Forgot passcode?</base>
+        <tran loc="ar">هل نسيت رمز الدخول؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_FORGOT_ONE_TITLE_USE_RECOVERY_KEY_IMAC</Position>
+      <TranslationSet>
+        <base loc="en">If you can’t remember the password for the iMac “%@”, you can enter the password or passcode of one of your other devices, or use your 28-character recovery key.</base>
+        <tran loc="ar">إذا كنت لا تتذكر كلمة سر الـ iMac ‏\"%@\"، يمكنك إدخال كلمة السر أو رمز الدخول لأحد أجهزتك الأخرى، أو استخدام مفتاح الاسترداد الخاص بك المكوّن من ٢٨ حرفًا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_FORGOT_ONE_NO_OTHER_DEVICES_TITLE_REMOTE_AND_SERVER_RECOVER_GENERIC</Position>
+      <TranslationSet>
+        <base loc="en">If you can’t remember the passcode for “%@”, you can approve this Mac using another device or regain access to your Apple ID with account recovery.</base>
+        <tran loc="ar">إذا كنت لا تتذكر رمز الدخول للـ \"%@\"، يمكنك الموافقة على هذا الـ Mac باستخدام جهاز آخر أو استعادة الوصول إلى Apple ID الخاص بك باستخدام ميزة استرداد الحساب.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_FORGOT_SECRET_FORMAT_MAC_MINI</Position>
+      <TranslationSet>
+        <base loc="en">Forgot Mac mini password?</base>
+        <tran loc="ar">هل نسيت كلمة سر الـ Mac mini؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_DEVICE_PASSCODE_WRONG_WARN_NOT_LOCAL_MACBOOK_AIR</Position>
+      <TranslationSet>
+        <base loc="en">Enter the passcode for “%@”, which is not the password for this MacBook Air.</base>
+        <tran loc="ar">أدخل رمز الدخول للـ \"%@\"، والذي يختلف عن كلمة السر لهذا الـ MacBook Air.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>IDMS_RECOVERY_DEVICE_TITLE_FORMAT_IPHONE</Position>
+      <TranslationSet>
+        <base loc="en">Enter the passcode for the iPhone “%@”.</base>
+        <tran loc="ar">أدخل رمز دخول الـ iPhone‏ \"%@\".</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_FORGOT_SECRET_FORMAT_MAC_PRO</Position>
+      <TranslationSet>
+        <base loc="en">Forgot Mac Pro password?</base>
+        <tran loc="ar">هل نسيت كلمة سر الـ Mac Pro؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_DEVICE_HEADER_MAC</Position>
+      <TranslationSet>
+        <base loc="en">Access to your account is protected by your Mac password</base>
+        <tran loc="ar">الوصول إلى حسابك محمي بكلمة سر الـ Mac الخاص بك</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>REMOTE_SECRET_ENTRY_INCORRECT_IPOD_TOUCH</Position>
+      <TranslationSet>
+        <base loc="en">Enter the iPod passcode again.</base>
+        <tran loc="ar">أدخل رمز دخول الـ iPod مرة أخرى.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_ENTER_SECRET_OLD_MACBOOK_PRO</Position>
+      <TranslationSet>
+        <base loc="en">Enter the password you previously used to unlock this MacBook Pro. Your password is encrypted and cannot be read by Apple.</base>
+        <tran loc="ar">أدخل كلمة السر التي استخدمتها سابقًا لفتح قفل هذا الـ MacBook Pro. كلمة السر الخاصة بك مشفرة ولا يمكن قراءتها بواسطة شركة Apple.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_DEVICE_TITLE_OLD_GENERIC</Position>
+      <TranslationSet>
+        <base loc="en">Enter Old Passcode</base>
+        <tran loc="ar">أدخل رمز الدخول القديم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_DEVICE_TITLE_OLD_IPAD</Position>
+      <TranslationSet>
+        <base loc="en">Enter Old Passcode</base>
+        <tran loc="ar">أدخل رمز الدخول القديم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_DEVICE_TITLE_OLD_IPHONE</Position>
+      <TranslationSet>
+        <base loc="en">Enter Old Passcode</base>
+        <tran loc="ar">أدخل رمز الدخول القديم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_DEVICE_TITLE_OLD_IPOD_TOUCH</Position>
+      <TranslationSet>
+        <base loc="en">Enter Old Passcode</base>
+        <tran loc="ar">أدخل رمز الدخول القديم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>REMOTE_SECRET_ENTRY_INCORRECT_MAC_MINI</Position>
+      <TranslationSet>
+        <base loc="en">Enter the Mac mini password again.</base>
+        <tran loc="ar">أدخل كلمة سر الـ Mac mini مرة أخرى.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_ENROLL_DEVICE_THIS_MAC_MESSAGE_FORMAT_GENERIC</Position>
+      <TranslationSet>
+        <base loc="en">Access to your account is protected by the passcode you previously used to unlock this device. Your passcode is encrypted and cannot be read by Apple.</base>
+        <tran loc="ar">الوصول إلى حسابك محمي برمز الدخول الذي استخدمته سابقًا لفتح قفل هذا الجهاز. رمز الدخول الخاص بك مشفر ولا يمكن قراءته من قِبل شركة Apple.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_FORGOT_ONE_NO_OTHER_DEVICES_TITLE_NO_REMOTE_SERVER_RECOVER_MAC_PRO</Position>
+      <TranslationSet>
+        <base loc="en">If you can’t remember the password for the Mac Pro “%@”, you can still regain access to your Apple ID with account recovery.</base>
+        <tran loc="ar">إذا كنت لا تتذكر كلمة السر للـ Mac Pro‏ \"%@\"، فلا يزال بإمكانك استعادة الوصول إلى Apple ID الخاص بك باستخدام ميزة استرداد الحساب.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> REMOTE_SECRET_ENTRY_INCORRECT_*</Description>
+      <Position>REMOTE_SECRET_ENTRY_INCORRECT_MACBOOK</Position>
+      <TranslationSet>
+        <base loc="en">Enter the MacBook password again.</base>
+        <tran loc="ar">أدخل كلمة سر الـ MacBook مرة أخرى.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> REMOTE_SECRET_ENTRY_RECOVERY_ERROR_MESSAGE_*</Description>
+      <Position>REMOTE_SECRET_ENTRY_RECOVERY_ERROR_MESSAGE_MACBOOK</Position>
+      <TranslationSet>
+        <base loc="en">Enter the MacBook password again.</base>
+        <tran loc="ar">أدخل كلمة سر الـ MacBook مرة أخرى.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_ENROLL_DEVICE_THIS_MAC_MESSAGE_FORMAT_MAC_PRO</Position>
+      <TranslationSet>
+        <base loc="en">Access to your account is protected by the password you previously used to unlock this Mac Pro. Your password is encrypted and cannot be read by Apple.</base>
+        <tran loc="ar">الوصول إلى حسابك محمي بكلمة السر التي استخدمتها سابقًا لفتح قفل هذا الـ Mac Pro. كلمة السر الخاصة بك مشفرة ولا يمكن قراءتها من قِبل شركة Apple.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_ENTER_SECRET_IPAD</Position>
+      <TranslationSet>
+        <base loc="en">Enter the passcode for the iPad “%@”. Your passcode is encrypted and cannot be read by Apple.</base>
+        <tran loc="ar">أدخل رمز الدخول للـ iPad‏ \"%@\". رمز الدخول الخاص بك مشفر ولا يمكن قراءته من قِبل شركة Apple.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>REMOTE_SECRET_ENTRY_INCORRECT_MAC_PRO</Position>
+      <TranslationSet>
+        <base loc="en">Enter the Mac Pro password again.</base>
+        <tran loc="ar">أدخل كلمة سر الـ Mac Pro مرة أخرى.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_DEVICE_PASSCODE_WRONG_WARN_NOT_LOCAL_IMAC</Position>
+      <TranslationSet>
+        <base loc="en">Enter the passcode for “%@”, which is not the password for this iMac.</base>
+        <tran loc="ar">أدخل رمز الدخول للـ \"%@\"، والذي يختلف عن كلمة السر لهذا الـ iMac.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_FORGOT_ONE_TITLE_FOLLOW_UP_IMAC</Position>
+      <TranslationSet>
+        <base loc="en">If you can’t remember the password for the iMac “%@”, you can enter the password or passcode of one of your other devices or reset your end-to-end encrypted data to finish setting up iCloud.</base>
+        <tran loc="ar">إذا كنت لا تتذكر كلمة سر الـ iMac ‏\"%@\"، يمكنك إدخال كلمة السر أو رمز الدخول لأحد أجهزتك الأخرى أو إعادة تعيين بياناتك المشفرة بالكامل لإنهاء إعداد iCloud.</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>IASUtilities/System/Library/PrivateFrameworks/IASUtilities.framework/Versions/A/Resources/en.lproj/IASPickerViewController.strings</Filepath>
+    <TextItem>
+      <Description> Class = "NSButton"; ibExternalAccessibilityDescription = "Scroll Right"; ObjectID = "21"; </Description>
+      <Position>21.ibExternalAccessibilityDescription</Position>
+      <TranslationSet>
+        <base loc="en">Scroll Right</base>
+        <tran loc="ar">تمرير لليمين</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButton"; ibExternalAccessibilityDescription = "Scroll Left"; ObjectID = "40"; </Description>
+      <Position>40.ibExternalAccessibilityDescription</Position>
+      <TranslationSet>
+        <base loc="en">Scroll Left</base>
+        <tran loc="ar">تمرير لليسار</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>IASUtilities/System/Library/PrivateFrameworks/IASUtilities.framework/Versions/A/Resources/en.lproj/IASCountryCodes.strings</Filepath>
+    <TextItem>
+      <Description> $1 is the country code, $2 is the Country's name</Description>
+      <Position>ICLOUD_KEYCHAIN_COUNTRY_CODE_AND_NAME_TEMPLATE</Position>
+      <TranslationSet>
+        <base loc="en">+%1$@  –  %2$@</base>
+        <tran loc="ar">‏‎+%1$@‎  –  ‏%2$@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>North America</Position>
+      <TranslationSet>
+        <base loc="en">North America</base>
+        <tran loc="ar">أمريكا الشمالية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Europe</Position>
+      <TranslationSet>
+        <base loc="en">Europe</base>
+        <tran loc="ar">أوروبا</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Africa</Position>
+      <TranslationSet>
+        <base loc="en">Africa</base>
+        <tran loc="ar">إفريقيا</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Asia</Position>
+      <TranslationSet>
+        <base loc="en">Asia</base>
+        <tran loc="ar">آسيا</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>South America</Position>
+      <TranslationSet>
+        <base loc="en">South America</base>
+        <tran loc="ar">أمريكا الجنوبية</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+</Proj>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Proj>
+  <ProjName>TVAirPlay</ProjName>
+  <File>
+    <Filepath>TVAirPlay/Applications/TVAirPlay.app/en.lproj/Localizable.strings</Filepath>
+    <TextItem>
+      <Description> 
+  Localizable.strings
+  TVAirPlay
+
+  Created by Dale Taylor on 6/17/14.
+  Copyright (c) 2014-2015 Apple, Inc. All rights reserved.
+</Description>
+      <Position>TVAirPlayPINFormat</Position>
+      <TranslationSet>
+        <base loc="en">%@\n%@</base>
+        <tran loc="ar">‏%@\n‏%@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>TVAirPlayOK</Position>
+      <TranslationSet>
+        <base loc="en">OK</base>
+        <tran loc="ar">موافق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AirPlaySecurityVerifyFailureDialogText</Position>
+      <TranslationSet>
+        <base loc="en">This AirPlay connection requires iOS 7.1 or later,\n OS X 10.10 or later, or iTunes 11.2 or later.</base>
+        <tran loc="ar">يتطلب اتصال AirPlay نظام التشغيل iOS 7.1 أو أحدث،\n أو OS X 10.10 أو أحدث، أو iTunes 11.2 أو أحدث.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>TVAirPlayPINTitle</Position>
+      <TranslationSet>
+        <base loc="en">AirPlay Passcode</base>
+        <tran loc="ar">رمز دخول AirPlay</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AirPlaySecurityVerifyFailureDialogLabel</Position>
+      <TranslationSet>
+        <base loc="en">Device Requirements</base>
+        <tran loc="ar">متطلبات الجهاز</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>TVAirPlay/Applications/TVAirPlay.app/en.lproj/InfoPlist.strings</Filepath>
+    <TextItem>
+      <Description> Localized versions of Info.plist keys </Description>
+      <Position>CFBundleDisplayName</Position>
+      <TranslationSet>
+        <base loc="en">AirPlay</base>
+        <tran loc="ar">AirPlay</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CFBundleName</Position>
+      <TranslationSet>
+        <base loc="en">AirPlay</base>
+        <tran loc="ar">AirPlay</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+</Proj>

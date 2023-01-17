@@ -1,0 +1,3967 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Proj>
+  <ProjName>Health</ProjName>
+  <File>
+    <Filepath>Health/System/Library/PreferenceBundles/Privacy/HealthPrivacySettings.bundle/en.lproj/Localizable.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>MEASURE_LEVELS_FOOTER_TEXT</Position>
+      <TranslationSet>
+        <base loc="en">Your device does not record or save any sounds to measure audio levels. The Health app measures audio exposure through the following devices:</base>
+        <tran loc="ar">جهازك لا يسجِّل أو يحفظ أي صوت لقياس هذه المستويات. يقيس تطبيق صحتي التعرض للصوت عبر الأجهزة التالية:</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>INCLUDE_OTHER_HEADPHONES</Position>
+      <TranslationSet>
+        <base loc="en">Include Other Headphones</base>
+        <tran loc="ar">تضمين السماعات الأخرى</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>MEASURE_LEVELS_FOOTER_TEXT_GENERIC</Position>
+      <TranslationSet>
+        <base loc="en">• Apple EarPods</base>
+        <tran loc="ar">‏• Apple EarPods</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SOURCES_LIST_FOOTER</Position>
+      <TranslationSet>
+        <base loc="en">Apps that have requested access to your Health data will appear here.</base>
+        <tran loc="ar">التطبيقات التي طلبت الوصول إلى البيانات الصحية الخاصة بك ستظهر هنا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>MEASURE_LEVELS</Position>
+      <TranslationSet>
+        <base loc="en">Measure Levels</base>
+        <tran loc="ar">مستويات القياس</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>HEADPHONE_AUDIO_LEVELS</Position>
+      <TranslationSet>
+        <base loc="en">Headphone Audio Levels</base>
+        <tran loc="ar">مستويات صوت سماعات الرأس</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>INCLUDE_OTHER_HEADPHONES_FOOTER_TEXT_GENERIC</Position>
+      <TranslationSet>
+        <base loc="en">• Other devices plugged into your iPhone</base>
+        <tran loc="ar">• الأجهزة الأخرى المتصلة بالـ iPhone</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> %@ is the name of the headphone</Description>
+      <Position>INCLUDE_OTHER_HEADPHONE_HEADPHONE_LIST_%@</Position>
+      <TranslationSet>
+        <base loc="en">• %@</base>
+        <tran loc="ar">‏• %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>INCLUDE_OTHER_HEADPHONES_FOOTER_TEXT_IPHONE</Position>
+      <TranslationSet>
+        <base loc="en">The Health app can estimate audio levels for devices where a true sound level cannot be determined. These estimates are based on the volume level of your iPhone. This includes:</base>
+        <tran loc="ar">يمكن لتطبيق صحتي تقدير مستويات الصوت للأجهزة عندما يتعذر تحديد مستويات الصوت الحقيقية. هذه التقديرات تستند إلى مستوى صوت الـ iPhone. هذا يتضمن:</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 
+  Localizable.strings
+  HealthPrivacyService
+
+  Created by Allan Shortlidge on 7/17/14.
+  Copyright (c) 2014 Apple. All rights reserved.
+</Description>
+      <Position>SOURCES_VIEW_CONTROLLER_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Health</base>
+        <tran loc="ar">صحتي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>INCLUDE_OTHER_HEADPHONES_FOOTER_TEXT_IPAD</Position>
+      <TranslationSet>
+        <base loc="en">The Health app can estimate audio levels for devices where a true sound level cannot be determined. These estimates are based on the volume level of your iPad. This includes:</base>
+        <tran loc="ar">يمكن لتطبيق صحتي تقدير مستويات الصوت للأجهزة عندما يتعذر تحديد مستويات الصوت الحقيقية. هذه التقديرات تستند إلى مستوى صوت الـ iPad. هذا يتضمن:</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>INCLUDE_OTHER_HEADPHONES_FOOTER_TEXT_IPOD</Position>
+      <TranslationSet>
+        <base loc="en">The Health app can estimate audio levels for devices where a true sound level cannot be determined. These estimates are based on the volume level of your iPod touch. This includes:</base>
+        <tran loc="ar">يمكن لتطبيق صحتي تقدير مستويات الصوت للأجهزة عندما يتعذر تحديد مستويات الصوت الحقيقية. هذه التقديرات تستند إلى مستوى صوت الـ iPod touch. هذا يتضمن:</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>Health/System/Library/PrivateFrameworks/HealthToolbox.framework/en.lproj/WellnessDashboard-Localizable-Antimony.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>ATRIAL_FIBRILLATION_DETECTION_LAST_SAMPLE_%@</Position>
+      <TranslationSet>
+        <base loc="en">Notifications are on. Last sample collected and analyzed: %@</base>
+        <tran loc="ar">الإشعارات مشغّلة. تم جمع وتحليل آخر عينة في\n:‏ %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ATRIAL_FIBRILLATION_DETECTION_DISABLED_LEARN_MORE</Position>
+      <TranslationSet>
+        <base loc="en">Learn More…</base>
+        <tran loc="ar">معرفة المزيد…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ATRIAL_FIBRILLATION_DETECTION_FAVORITES_FOOTNOTE_NOT_FAVORITED</Position>
+      <TranslationSet>
+        <base loc="en">Favorites appear in Summary.</base>
+        <tran loc="ar">تظهر المفضلة في الملخص.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ATRIAL_FIBRILLATION_DETECTION_AVAILABLE_OFF_LINK</Position>
+      <TranslationSet>
+        <base loc="en">Turn on in the Apple Watch app.</base>
+        <tran loc="ar">تشغيل على تطبيق Apple Watch.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Atrial Fibrillation Room Sections </Description>
+      <Position>ATRIAL_FIBRILLATION_DETECTION_NOTIFICATIONS_SECTION_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Notifications</base>
+        <tran loc="ar">الإشعارات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> AFib Detection Setup modal view </Description>
+      <Position>ATRIAL_FIBRILLATION_DETECTION_SETUP_MODAL_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">What’s New in Health</base>
+        <tran loc="ar">ما الجديد في صحتي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ATRIAL_FIBRILLATION_DETECTION_UNAVAILABLE_LEARN_MORE_URL</Position>
+      <TranslationSet>
+        <base loc="en">https://www.apple.com/watchos/feature-availability/</base>
+        <tran loc="ar">https://www.apple.com/ae-ar/watchos/feature-availability/</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ATRIAL_FIBRILLATION_DETECTION_ABOUT_SECTION_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">About Atrial Fibrillation</base>
+        <tran loc="ar">حول الرجفان الأذيني</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ATRIAL_FIBRILLATION_DETECTION_MANAGE_SETTINGS_IN_WATCH</Position>
+      <TranslationSet>
+        <base loc="en">Manage Settings in Apple Watch App</base>
+        <tran loc="ar">إدارة الإعدادات في تطبيق Apple Watch</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ATRIAL_FIBRILLATION_DETECTION_ENABLED_NO_SAMPLES</Position>
+      <TranslationSet>
+        <base loc="en">Notifications are on. No samples collected or analyzed.</base>
+        <tran loc="ar">الإشعارات مشغلة. لم يتم جمع أو تحليل أي عينة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 
+  WellnessDashboard-Localizable-Antimony.strings
+  HealthKit
+
+  Created by Alexa VanHattum on 4/19/18.
+  Copyright © 2018 Apple. All rights reserved.
+
+ AFib Detection Setup View </Description>
+      <Position>ATRIAL_FIBRILLATION_DETECTION_SETUP_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Set Up Irregular Rhythm Notifications</base>
+        <tran loc="ar">إعداد إشعارات اضطراب النَّظْم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ATRIAL_FIBRILLATION_DETECTION_UNAVAILABLE_ON_ACTIVE_WATCH</Position>
+      <TranslationSet>
+        <base loc="en">This feature is not available on the watch you are currently wearing.</base>
+        <tran loc="ar">لا تتوفر هذه الميزة على الساعة التي ترتديها الآن.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Atrial Fibrillation Overview View Controller </Description>
+      <Position>ATRIAL_FIBRILLATION_EVENT_CELL_LABEL</Position>
+      <TranslationSet>
+        <base loc="en">Atrial Fibrillation</base>
+        <tran loc="ar">رجفان أذيني</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ATRIAL_FIBRILLATION_DETECTION_OPTIONS_SECTION_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Options</base>
+        <tran loc="ar">الخيارات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ATRIAL_FIBRILLATION_DETECTION_FAVORITES_FOOTNOTE_FAVORITED</Position>
+      <TranslationSet>
+        <base loc="en">Irregular Rhythm Notifications will appear as a Favorite in Summary.</base>
+        <tran loc="ar">ستظهر إشعارات اضطراب النَّظْم ضمن المفضلة في الملخص.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ATRIAL_FIBRILLATION_DETECTION_SETUP_MODAL_DISMISS_BUTTON_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Not Now</base>
+        <tran loc="ar">ليس الآن</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ATRIAL_FIBRILLATION_DETECTION_SETUP_MODAL_SUBTITLE</Position>
+      <TranslationSet>
+        <base loc="en">Irregular Rhythm Notifications</base>
+        <tran loc="ar">إشعارات اضطراب النَّظْم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ATRIAL_FIBRILLATION_DETECTION_SETUP_BODY</Position>
+      <TranslationSet>
+        <base loc="en">Apple Watch can notify you if it sees your heart beating with an irregular rhythm that may be atrial fibrillation.</base>
+        <tran loc="ar">يمكن أن ترسل لك Apple Watch إشعارًا عندما ترى اضطرابًا في نظم القلب قد يكون رجفانًا أذينيًا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ATRIAL_FIBRILLATION_DETECTION_SETUP_MODAL_BODY</Position>
+      <TranslationSet>
+        <base loc="en">Get a notification if your Apple Watch sees an irregular heart rhythm that may be atrial fibrillation.</base>
+        <tran loc="ar">ستتلقى إشعارًا إذا اكتشفت Apple Watch نظمًا قلبيًا غير منتظم قد يكون رجفانًا أذينيًا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ATRIAL_FIBRILLATION_DETECTION_REGULATORY_LABEL</Position>
+      <TranslationSet>
+        <base loc="en">About</base>
+        <tran loc="ar">حول</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ATRIAL_FIBRILLATION_DETECTION_AVAILABLE_OFF</Position>
+      <TranslationSet>
+        <base loc="en">Notifications are off.</base>
+        <tran loc="ar">الإشعارات متوقفة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ATRIAL_FIBRILLATION_DETECTION_SETUP_BUTTON_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Set Up Notifications</base>
+        <tran loc="ar">إعداد الإشعارات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ATRIAL_FIBRILLATION_DETECTION_SETUP_MODAL_ONBOARDING_BUTTON_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Set Up Notifications</base>
+        <tran loc="ar">إعداد الإشعارات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ATRIAL_FIBRILLATION_DETECTION_EDUCATION_SECTION_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Education</base>
+        <tran loc="ar">التعليم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> MobileAsset Disabled Banner </Description>
+      <Position>ATRIAL_FIBRILLATION_DETECTION_DISABLED_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Irregular Rhythm Notifications are no longer available</base>
+        <tran loc="ar">لم تعد إشعارات اضطراب النَّظْم متوفرة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ATRIAL_FIBRILLATION_DETECTION_HEART_AGE_GATED</Position>
+      <TranslationSet>
+        <base loc="en">Notifications not intended for use by people under 22 years old.</base>
+        <tran loc="ar">الإشعارات غير مصممة للاستخدام من قِبل الأشخاص الذين يقل عمرهم عن ٢٢ سنة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Atrial Fibrillation Availability </Description>
+      <Position>ATRIAL_FIBRILLATION_DETECTION_UNAVAILABLE_LEARN_MORE</Position>
+      <TranslationSet>
+        <base loc="en">Learn more.</base>
+        <tran loc="ar">اعرف المزيد.</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>Health/System/Library/NanoPreferenceBundles/Applications/BridgeHealthSettings.bundle/en.lproj/BridgeHealthSettings.strings</Filepath>
+    <TextItem>
+      <Description> 
+  BridgeHealthSettings.strings
+  HealthKit
+
+  Created by Netra Kenkarey on 4/1/19.
+  Copyright © 2019 Apple. All rights reserved.
+</Description>
+      <Position>HEALTH_LABEL</Position>
+      <TranslationSet>
+        <base loc="en">Health</base>
+        <tran loc="ar">صحتي</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>Health/System/Library/NanoPreferenceBundles/Applications/HeartRateSettings.bundle/en.lproj/HeartRateSettings.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>HEART_NOTIFICATION_TACHYCARDIA_FOOTER</Position>
+      <TranslationSet>
+        <base loc="en">Receive a notification when Apple Watch detects a heart rate that rises above %@ while you appear to have been inactive for 10 minutes.</base>
+        <tran loc="ar">تلقى إشعارًا عندما تكتشف الـ Apple Watch ارتفاعًا في معدل نبضات قلبك فوق %@ عندما يبدو أنك غير نشط لمدة ١٠ دقائق.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>HEART_NOTIFICATION_TACHYCARDIA_FOOTER_OFF</Position>
+      <TranslationSet>
+        <base loc="en">Receive a notification when Apple Watch detects a heart rate that rises above a selected threshold while you appear to have been inactive for 10 minutes.</base>
+        <tran loc="ar">تلقى إشعارًا عندما تكتشف الـ Apple Watch ارتفاعًا في معدل نبضات قلبك فوق الحد الذي اخترته عندما يبدو أنك غير نشط لمدة ١٠ دقائق.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description>
+  HeartRateSettings.strings
+  HealthKit
+
+  Created by Roxanne Brittain on 11/4/16.
+  Copyright © 2016 Apple Inc. All rights reserved.
+</Description>
+      <Position>HEART_NOTIFICATION_SECTION_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Heart Rate Notifications</base>
+        <tran loc="ar">إشعارات معدل نبض القلب</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>HEART_NOTIFICATION_COALESCING_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Notification Grouping</base>
+        <tran loc="ar">تجميع الإشعارات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>HEART_AGE_GATING_DESCRIPTION</Position>
+      <TranslationSet>
+        <base loc="en">Apple Watch can help you look after your heart.</base>
+        <tran loc="ar">يمكن لـ Apple Watch أن تساعدك في الاعتناء بقلبك.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> KB URL displaying details about why AFib notifications and/or the ECG app is disabled</Description>
+      <Position>FEATURE_DISABLED_REMOTELY_LINK_URL</Position>
+      <TranslationSet>
+        <base loc="en">https://support.apple.com/kb/HT208720</base>
+        <tran loc="ar">https://support.apple.com/kb/HT208720</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>HEART_NOTIFICATION_TACHYCARDIA_DISABLED</Position>
+      <TranslationSet>
+        <base loc="en">Disabled</base>
+        <tran loc="ar">مُعطَّلة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>HEART_NOTIFICATION_COALESCING_AUTO</Position>
+      <TranslationSet>
+        <base loc="en">Automatically</base>
+        <tran loc="ar">تلقائيًا</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Link text displayed when AFib notifications and/or the ECG app is disabled</Description>
+      <Position>FEATURE_DISABLED_REMOTELY_LINK</Position>
+      <TranslationSet>
+        <base loc="en">Learn more…</base>
+        <tran loc="ar">معرفة المزيد…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>HEART_NOTIFICATION_COALESCING_BY_APP</Position>
+      <TranslationSet>
+        <base loc="en">By App</base>
+        <tran loc="ar">حسب التطبيق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>HEART_NOTIFICATION_TACHYCARDIA_LABEL</Position>
+      <TranslationSet>
+        <base loc="en">High Heart Rate</base>
+        <tran loc="ar">معدل نبض القلب مرتفع</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>HEART_NOTIFICATION_COALESCING_OFF</Position>
+      <TranslationSet>
+        <base loc="en">Off</base>
+        <tran loc="ar">متوقف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>HEART_NOTIFICATION_TACHYCARDIA_OFF</Position>
+      <TranslationSet>
+        <base loc="en">Off</base>
+        <tran loc="ar">متوقف</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>Health/System/Library/NanoPreferenceBundles/Applications/HeartRateSettings.bundle/en.lproj/HeartRateSettings-Tortuga.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>HEART_AREA_DESCRIPTION_BRADYCARDIA</Position>
+      <TranslationSet>
+        <base loc="en">Apple Watch can help you look after your heart. You can get a notification if Apple Watch detects that your heart rate is high or low.</base>
+        <tran loc="ar">بإمكان Apple Watch مساعدتك في الاعتناء بصحة قلبك؛ إذ يمكنك تلقّي إشعار إذا اكتشفتْ Apple Watch أن معدل نبض قلبك مرتفع أو منخفض.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 
+  HeartRateSettings-Tortuga.strings
+  HealthKit
+
+  Created by Matthew Salesi on 4/30/18.
+  Copyright © 2018 Apple. All rights reserved.
+</Description>
+      <Position>PANE_TITLE_BRADYCARDIA</Position>
+      <TranslationSet>
+        <base loc="en">Heart</base>
+        <tran loc="ar">القلب</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>HEART_NOTIFICATION_BRADYCARDIA_FOOTER</Position>
+      <TranslationSet>
+        <base loc="en">Receive a notification when Apple Watch detects a heart rate that falls below %@ for 10 minutes.</base>
+        <tran loc="ar">تلقى إشعارًا عندما تكتشف Apple Watch انخفاضًا في معدل نبض القلب إلى أقل من %@ لمدة ١٠ دقائق.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>FEATURES_DISABLED_WRIST_DETECTION_MESSAGE</Position>
+      <TranslationSet>
+        <base loc="en">These features are not available because Wrist Detection has been turned off in Passcode settings.</base>
+        <tran loc="ar">هذه الميزات غير متوفرة لأنه تم إيقاف "اكتشاف المعصم" في إعدادات رمز الدخول.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>FEATURES_UNAVAILABLE_MESSAGE</Position>
+      <TranslationSet>
+        <base loc="en">These features are not available for all watches paired with this phone.</base>
+        <tran loc="ar">هذه الميزات غير متوفرة لكل الساعات المقترنة بهذا الهاتف.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>HEART_NOTIFICATION_BRADYCARDIA_FOOTER_OFF</Position>
+      <TranslationSet>
+        <base loc="en">Receive a notification when Apple Watch detects a heart rate that falls below a selected threshold for 10 minutes.</base>
+        <tran loc="ar">تلقى إشعارًا عندما تكتشف Apple Watch انخفاضًا أقل من الحد الذي اخترته عندما يبدو أنك غير نشط لمدة ١٠ دقائق.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>HEART_NOTIFICATION_BRADYCARDIA_LABEL</Position>
+      <TranslationSet>
+        <base loc="en">Low Heart Rate</base>
+        <tran loc="ar">معدل نبض القلب منخفض</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>HEART_AREA_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Heart Health</base>
+        <tran loc="ar">صحة القلب</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>HEART_AREA_DESCRIPTION</Position>
+      <TranslationSet>
+        <base loc="en">Apple Watch can help you look after your heart. You can get a notification if Apple Watch detects that your heart rate is high.</base>
+        <tran loc="ar">بإمكان Apple Watch مساعدتك في الاعتناء بصحة قلبك، إذ يمكنك تلقي إشعارًا إذا اكتشفت Apple Watch أن معدل نبض قلبك مرتفع.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>HEART_NOTIFICATION_BRADYCARDIA_DISABLED</Position>
+      <TranslationSet>
+        <base loc="en">Disabled</base>
+        <tran loc="ar">مُعطَّلة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>FEATURES_DISABLED_IN_PRIVACY_MESSAGE</Position>
+      <TranslationSet>
+        <base loc="en">These features are not available because Heart Rate has been turned off in Privacy settings.</base>
+        <tran loc="ar">هذه الميزات غير متوفرة نظرًا لإيقاف معدل نبض القلب في إعدادات الخصوصية.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> The portion of FEATURES_DISABLED_IN_PRIVACY_MESSAGE referring to the Privacy settings page. This text will be highlighted as a hyperlink to that page.</Description>
+      <Position>FEATURES_DISABLED_IN_PRIVACY_LINK</Position>
+      <TranslationSet>
+        <base loc="en">Privacy settings</base>
+        <tran loc="ar">إعدادات الخصوصية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>HEART_NOTIFICATION_BRADYCARDIA_OFF</Position>
+      <TranslationSet>
+        <base loc="en">Off</base>
+        <tran loc="ar">متوقف</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>Health/System/Library/PrivateFrameworks/HealthToolbox.framework/en.lproj/WellnessDashboard-Localizable.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>DELETE_ALL_ASSOCIATED_YES</Position>
+      <TranslationSet>
+        <base loc="en">Delete Workout &amp; Data</base>
+        <tran loc="ar">حذف التمرين والبيانات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SLEEP_INTERRUPTIONS_HEADER</Position>
+      <TranslationSet>
+        <base loc="en">INTERRUPTIONS</base>
+        <tran loc="ar">الانقطاعات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>OUT_OF_RANGE_ALERT_ERROR_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Data Limit</base>
+        <tran loc="ar">حد البيانات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SOURCES_SIRI_AND_APP_SUGGESTIONS_FOOTER</Position>
+      <TranslationSet>
+        <base loc="en">Allow information from “Health” to appear in search, and allow Siri to learn from and make suggestions based on this app.</base>
+        <tran loc="ar">السماح بظهور معلومات من تطبيق "صحتي" في البحث، والسماح لـ Siri بالتعلم من هذا التطبيق وتقديم اقتراحات استنادًا إليه.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Heart Display 
+ %1$@ = min heart rate, %2$@ = max heart rate, no units</Description>
+      <Position>HEART_RATE_RANGE</Position>
+      <TranslationSet>
+        <base loc="en">%1$@-%2$@</base>
+        <tran loc="ar">‪%1$@-%2$@‬</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Min/Max chart point selection text</Description>
+      <Position>MIN_LOWERCASE: </Position>
+      <TranslationSet>
+        <base loc="en">min: </base>
+        <tran loc="ar">الأدنى: </tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>BEDTIME_HEADER</Position>
+      <TranslationSet>
+        <base loc="en">BEDTIME</base>
+        <tran loc="ar">وقت النوم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Sources </Description>
+      <Position>SOURCES</Position>
+      <TranslationSet>
+        <base loc="en">Sources</base>
+        <tran loc="ar">المصادر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>MY_INFO</Position>
+      <TranslationSet>
+        <base loc="en">My Info</base>
+        <tran loc="ar">معلوماتي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>TIME_IN_BED_CONTEXT_BUTTON_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Avg. Time in Bed</base>
+        <tran loc="ar">متوسط الوقت الفعلي للنوم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>RESET_SHARING</Position>
+      <TranslationSet>
+        <base loc="en">Reset sharing</base>
+        <tran loc="ar">إعادة تعيين المشاركة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>blood_type_o+</Position>
+      <TranslationSet>
+        <base loc="en">O+</base>
+        <tran loc="ar">O+</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>BEDTIME_CONSISTENCY_CONTEXT_BUTTON_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Bedtime Consistency</base>
+        <tran loc="ar">انتظام وقت النوم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DELETE_ALL_ASSOCIATED_NO</Position>
+      <TranslationSet>
+        <base loc="en">Delete Workout Only</base>
+        <tran loc="ar">حذف التمرين فقط</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DATA_COLLECTION_MORE_INFO_BUTTON</Position>
+      <TranslationSet>
+        <base loc="en">Learn More…</base>
+        <tran loc="ar">معرفة المزيد…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CDA_IMPORT_NO_DOCUMENTS</Position>
+      <TranslationSet>
+        <base loc="en">No Clinical Documents were found to import.</base>
+        <tran loc="ar">لم يتم العثور على سجلات علاجية لاستيرادها.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SLEEP_FROM_HEADER</Position>
+      <TranslationSet>
+        <base loc="en">IN BED AT</base>
+        <tran loc="ar">في السرير الساعة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>blood_type_ab+</Position>
+      <TranslationSet>
+        <base loc="en">AB+</base>
+        <tran loc="ar">AB+</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CONNECTING</Position>
+      <TranslationSet>
+        <base loc="en">Connecting</base>
+        <tran loc="ar">جاري الاتصال</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CCD_SHARE_DATA_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Share CCD Report</base>
+        <tran loc="ar">مشاركة تقرير CCD</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SPLASH_SCREEN_TITLE_GRAPHS</Position>
+      <TranslationSet>
+        <base loc="en">New Graphs</base>
+        <tran loc="ar">رسوم بيانية جديدة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SOURCES_WATCH_PAIRED</Position>
+      <TranslationSet>
+        <base loc="en">Go to the Apple Watch app to change health data settings for this Apple Watch.</base>
+        <tran loc="ar">انتقل إلى تطبيق Apple Watch لتغيير إعدادات البيانات الصحية الخاصة بهذه الـ Apple Watch.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PRIVACY_SETTINGS</Position>
+      <TranslationSet>
+        <base loc="en">Privacy Settings</base>
+        <tran loc="ar">إعدادات الخصوصية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UPDATE_MEDICAL_ID</Position>
+      <TranslationSet>
+        <base loc="en">Update Medical ID</base>
+        <tran loc="ar">تحديث الهوية الطبية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Displayed below an inactive source in the "Share Data" screen</Description>
+      <Position>INACTIVE</Position>
+      <TranslationSet>
+        <base loc="en">Inactive</base>
+        <tran loc="ar">غير نشِط</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SOURCES_WATCH_UNPAIRED_IPHONE</Position>
+      <TranslationSet>
+        <base loc="en">This Apple Watch is no longer paired with this iPhone.</base>
+        <tran loc="ar">لم تعد Apple Watch مقترنة بهذا الـ iPhone.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> The text that shows up when no cards are enabled on the dashboard </Description>
+      <Position>DASHBOARD_EMPTY</Position>
+      <TranslationSet>
+        <base loc="en">Dashboard Empty</base>
+        <tran loc="ar">لوحة المعلومات فارغة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>BIRTHDATE</Position>
+      <TranslationSet>
+        <base loc="en">Date of Birth</base>
+        <tran loc="ar">تاريخ الميلاد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>BEDTIME_CONSISTENCY_REGULAR</Position>
+      <TranslationSet>
+        <base loc="en">Regular</base>
+        <tran loc="ar">عادي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DELETE_ALL_ASSOCIATED_YES_PLURAL</Position>
+      <TranslationSet>
+        <base loc="en">Delete Workouts &amp; Data</base>
+        <tran loc="ar">حذف التمارين والبيانات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ADD_DATA</Position>
+      <TranslationSet>
+        <base loc="en">Add Data</base>
+        <tran loc="ar">إضافة بيانات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Parameter is a separator string, like "/". The space should be on the left for RTL languages</Description>
+      <Position>MIN_MAX_SHORT %@</Position>
+      <TranslationSet>
+        <base loc="en">mn%@mx: </base>
+        <tran loc="ar">الأدنى%@الأقصى: </tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ALL_DATA_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">All Recorded Data</base>
+        <tran loc="ar">كافة البيانات المسجلة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DELETE_ALL_ASSOCIATED_MESSAGE</Position>
+      <TranslationSet>
+        <base loc="en">Do you also want to remove the health data that was recorded with this workout?</base>
+        <tran loc="ar">هل ترغب أيضًا في حذف بيانات الصحة التي تم تسجيلها مع هذا التمرين؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Title coming from Dashboard</Description>
+      <Position>TRENDS</Position>
+      <TranslationSet>
+        <base loc="en">Trends</base>
+        <tran loc="ar">مستويات الأداء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>MAX_LONG %@</Position>
+      <TranslationSet>
+        <base loc="en">Max: %@</base>
+        <tran loc="ar">الحد الأقصى: %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>HEALTH_PROFILE_DESCRIPTION</Position>
+      <TranslationSet>
+        <base loc="en">Your health profile is the basic information the app needs to provide you relevant information.</base>
+        <tran loc="ar">يحتوي ملف التعريف الصحي على المعلومات الأساسية التي يحتاجها التطبيق كي يوفر المعلومات ذات الصلة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>blood_type_ab-</Position>
+      <TranslationSet>
+        <base loc="en">AB-</base>
+        <tran loc="ar">AB-</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DELETE_ALL_BUTTON_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Delete All</base>
+        <tran loc="ar">حذف الكل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DELETE_ALL_ASSOCIATED_NO_PLURAL</Position>
+      <TranslationSet>
+        <base loc="en">Delete Workouts Only</base>
+        <tran loc="ar">حذف التمارين فقط</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CREATE_MEDICAL_ID</Position>
+      <TranslationSet>
+        <base loc="en">Create Medical ID</base>
+        <tran loc="ar">إنشاء هوية طبية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>RECOMMENDED_APPS</Position>
+      <TranslationSet>
+        <base loc="en">Recommended Apps</base>
+        <tran loc="ar">التطبيقات الموصى بها</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DATA_COLLECTION_MORE_INFO_DONE_BUTTON</Position>
+      <TranslationSet>
+        <base loc="en">Done</base>
+        <tran loc="ar">تم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DONE</Position>
+      <TranslationSet>
+        <base loc="en">Done</base>
+        <tran loc="ar">تم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>fitzpatrick_skin_type_II</Position>
+      <TranslationSet>
+        <base loc="en">Type II</base>
+        <tran loc="ar">النوع ٢</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UNINSTALLED_APPS</Position>
+      <TranslationSet>
+        <base loc="en">Uninstalled Apps</base>
+        <tran loc="ar">التطبيقات التي تمت إزالتها</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description>this will be followed by the display name; eg "Apps for Tracking Blood Pressure"</Description>
+      <Position>APP_SECTION_HEADER %@</Position>
+      <TranslationSet>
+        <base loc="en">Apps for Tracking %@</base>
+        <tran loc="ar">تطبيقات لتعقب %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>BEDTIME_CONSISTENCY_IRREGULAR</Position>
+      <TranslationSet>
+        <base loc="en">Irregular</base>
+        <tran loc="ar">غير منتظم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>MEDICAL_ID_CONSOLIDATION_ALERT_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Emergency SOS</base>
+        <tran loc="ar">طوارئ SOS</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>INTERRUPTIONS_CONTEXT_BUTTON_TITLE_DAY_SCOPE</Position>
+      <TranslationSet>
+        <base loc="en">Interruptions</base>
+        <tran loc="ar">الانقطاعات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>TIME_IN_BED_CONTEXT_BUTTON_TITLE_DAY_SCOPE</Position>
+      <TranslationSet>
+        <base loc="en">Time in Bed</base>
+        <tran loc="ar">الوقت الفعلي للنوم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> If the chart has no data, this will be the value text below the chart</Description>
+      <Position>CHART_NO_DATA</Position>
+      <TranslationSet>
+        <base loc="en">No Data</base>
+        <tran loc="ar">لا توجد بيانات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>EFFICIENCY_CONTEXT_BUTTON_VALUE_NO_DATA</Position>
+      <TranslationSet>
+        <base loc="en">No Data</base>
+        <tran loc="ar">لا توجد بيانات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>TODAY_NO_CONTENT_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">No Data</base>
+        <tran loc="ar">لا توجد بيانات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Display type detail App strings </Description>
+      <Position>APP_ALREADY_INSTALLED</Position>
+      <TranslationSet>
+        <base loc="en">Installed</base>
+        <tran loc="ar">مثبت</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>WHY_IMPORTANT_TEXT_SLEEP</Position>
+      <TranslationSet>
+        <base loc="en">Set a bedtime. Wake at the same time. Stay consistent.</base>
+        <tran loc="ar">حدد موعدًا للنوم، واستيقظ في نفس الموعد، وحافظ على الانتظام في تلك المواعيد.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>NO_RECORDED_DATA</Position>
+      <TranslationSet>
+        <base loc="en">No Recorded Data</base>
+        <tran loc="ar">لا توجد بيانات مسجلة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Splash Screen </Description>
+      <Position>SPLASH_SCREEN_MAIN_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">What’s New in Health</base>
+        <tran loc="ar">الجديد في صحتي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>EXPORT_PREPARING_MESSAGE</Position>
+      <TranslationSet>
+        <base loc="en">Preparing…</base>
+        <tran loc="ar">جاري التحضير…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Medical ID </Description>
+      <Position>MEDICAL_ID</Position>
+      <TranslationSet>
+        <base loc="en">Medical ID</base>
+        <tran loc="ar">الهوية الطبية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>STARTING_AT</Position>
+      <TranslationSet>
+        <base loc="en">Starting At</base>
+        <tran loc="ar">البدء عند</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Used to describe the Show All Data screen for a data type i.e. "Show All Height Data"</Description>
+      <Position>SHOW_ALL_DATA_UA_FORMAT</Position>
+      <TranslationSet>
+        <base loc="en">Show All %@ Data</base>
+        <tran loc="ar">إظهار كافة بيانات %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>LIST</Position>
+      <TranslationSet>
+        <base loc="en">List</base>
+        <tran loc="ar">قائمة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>blood_type_o-</Position>
+      <TranslationSet>
+        <base loc="en">O-</base>
+        <tran loc="ar">O-</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>fitzpatrick_skin_type_I</Position>
+      <TranslationSet>
+        <base loc="en">Type I</base>
+        <tran loc="ar">النوع ١</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description>This is the title of the health profile view controller</Description>
+      <Position>HEALTH_PROFILE_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Health Profile</base>
+        <tran loc="ar">الملف الشخصي لتطبيق صحتي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SHOW_ALL_RECORDS</Position>
+      <TranslationSet>
+        <base loc="en">Show All Records</base>
+        <tran loc="ar">عرض كل السجلات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>EFFICIENCY_CONTEXT_BUTTON_TITLE_DAY_SCOPE</Position>
+      <TranslationSet>
+        <base loc="en">Efficiency</base>
+        <tran loc="ar">الكفاءة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SPLASH_SCREEN_DESCRIPTION_HEART</Position>
+      <TranslationSet>
+        <base loc="en">View all the data about your heart in one place, such as workout, walking and resting heart rates.</base>
+        <tran loc="ar">الإطلاع على جميع البيانات المتعلقة بقلبك في مكان واحد، مثل بيانات معدل نبضات القلب أثناء التمرين والمشي والاستراحة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>MEDICAL_ID_CONSOLIDATION_LEARN_MORE_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">About Emergency SOS</base>
+        <tran loc="ar">حول طوارئ SOS</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CDA_IMPORT_DOCUMENT_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Clinical Documents</base>
+        <tran loc="ar">مستندات علاجية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>fitzpatrick_skin_type_IV</Position>
+      <TranslationSet>
+        <base loc="en">Type IV</base>
+        <tran loc="ar">النوع ٤</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Unit change confirmation strings </Description>
+      <Position>CONFIRM_UNIT_CHANGE %@</Position>
+      <TranslationSet>
+        <base loc="en">Are you sure you want to change units to %@?</base>
+        <tran loc="ar">هل أنت متأكد من رغبتك في تغيير الوحدات إلى %@؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>TIME_AWAKE_HEADER</Position>
+      <TranslationSet>
+        <base loc="en">Time Awake</base>
+        <tran loc="ar">فترة الاستيقاظ</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>MEDICAL_ID_CONSOLIDATION_ALERT_BODY_WATCH_ONLY</Position>
+      <TranslationSet>
+        <base loc="en">SOS and emergency contacts are now in your Medical ID in the Health app on iPhone. After you update your Apple Watch, all these contacts will be notified when you use Emergency SOS on Apple Watch.</base>
+        <tran loc="ar">تتوفر جهات اتصال الطوارئ وSOS الآن في "الهوية الطبية" الخاصة بك في تطبيق صحتي على الـ iPhone. وبعدما تقوم بتحديث الـ Apple Watch الخاصة بك، سيتم إعلام كل جهات الاتصال هذه عندما تستخدم طوارئ SOS على الـ Apple Watch.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ORGAN_DONATION</Position>
+      <TranslationSet>
+        <base loc="en">Organ Donation</base>
+        <tran loc="ar">التبرع بالأعضاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CCD_SHARED_WITH_APP</Position>
+      <TranslationSet>
+        <base loc="en">Shared With:</base>
+        <tran loc="ar">مشترك مع:</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CDA_IMPORT_SOME_INVALID_DOCUMENTS %@ %@</Position>
+      <TranslationSet>
+        <base loc="en">Note: %1$@ of %2$@ Clinical Documents were found to be invalid.</base>
+        <tran loc="ar">ملاحظة: %1$@ من %2$@ من السجلات العلاجية غير صالحة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>WHY_IMPORTANT_TEXT_FITNESS</Position>
+      <TranslationSet>
+        <base loc="en">Sit less. Move more. Get some exercise.</base>
+        <tran loc="ar">قلّل من وقت الجلوس، وزد من الحركة، وقم ببعض التمارين.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>OK</Position>
+      <TranslationSet>
+        <base loc="en">OK</base>
+        <tran loc="ar">موافق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>OUT_OF_RANGE_ALERT_OK</Position>
+      <TranslationSet>
+        <base loc="en">OK</base>
+        <tran loc="ar">موافق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SLEEP_ROOM_DESCRIPTION_PARAGRAPH_2</Position>
+      <TranslationSet>
+        <base loc="en">The “In Bed” period reflects the time period you are lying in bed with the intention to sleep. For most people, it starts when you turn the lights off and it ends when you get out of bed. The “Asleep” period reflects the period(s) you are asleep.</base>
+        <tran loc="ar">يقصد بوقت "في السرير" الفترة التي تستلقي فيها على السرير بنية النوم. يبدأ ذلك الوقت عند معظم الناس عند إطفاء الأنوار وينتهي بمغادرة السرير. أما مدة "النوم الفعلي" فيقصد بها الفترة او الفترات التي تقضيها في النوم فعليًا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SOURCES_SIRI_AND_APP_SUGGESTIONS</Position>
+      <TranslationSet>
+        <base loc="en">Search &amp; Siri Suggestions</base>
+        <tran loc="ar">البحث واقتراحات Siri</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>EXPORT_NO_DATA</Position>
+      <TranslationSet>
+        <base loc="en">Could not export data.</base>
+        <tran loc="ar">تعذر تصدير البيانات.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DELETE_ALL_ASSOCIATED_MESSAGE_PLURAL</Position>
+      <TranslationSet>
+        <base loc="en">Do you also want to remove the health data that was recorded with these workouts?</base>
+        <tran loc="ar">هل ترغب أيضًا في حذف بيانات الصحة التي تم تسجيلها مع هذه التمارين؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ADD</Position>
+      <TranslationSet>
+        <base loc="en">Add</base>
+        <tran loc="ar">إضافة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description>You can enter up to four days of mindful minutes at a time.</Description>
+      <Position>OUT_OF_RANGE_ALERT_SAMPLE_DURATION_ERROR_%@_%@</Position>
+      <TranslationSet>
+        <base loc="en">You can enter up to %1$@ of %2$@ at a time.</base>
+        <tran loc="ar">يمكنك إدخال لحد %1$@ من %2$@ في وقت واحد.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>LAST_NAME</Position>
+      <TranslationSet>
+        <base loc="en">Last Name</base>
+        <tran loc="ar">اسم العائلة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Sexual Activity Portrait Chart </Description>
+      <Position>LAST_ACTIVITY %@</Position>
+      <TranslationSet>
+        <base loc="en">Last Activity: %@</base>
+        <tran loc="ar">آخر نشاط: %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SPLASH_SCREEN_TITLE_ICLOUD</Position>
+      <TranslationSet>
+        <base loc="en">Health in iCloud</base>
+        <tran loc="ar">صحتي في iCloud</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>fitzpatrick_skin_type_V</Position>
+      <TranslationSet>
+        <base loc="en">Type V</base>
+        <tran loc="ar">النوع ٥</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>OUT_OF_RANGE_ALERT_TWO_ITEMS_FORMAT_%@_%@</Position>
+      <TranslationSet>
+        <base loc="en">You entered %1$@ and %2$@. Is this correct?</base>
+        <tran loc="ar">لقد أدخلت %1$@ و%2$@. هل هذا صحيح؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Landscape Charts 
+ Text for edit button in top right corner</Description>
+      <Position>EDIT_BUTTON_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Edit</base>
+        <tran loc="ar">تحرير</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>EFFICIENCY_CONTEXT_BUTTON_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Avg. Efficiency</base>
+        <tran loc="ar">متوسط الكفاءة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>WHEELCHAIR_USE_COREMOTION_TEXT_IPHONE</Position>
+      <TranslationSet>
+        <base loc="en">Track pushes instead of steps on Apple Watch in the Activity app, and in wheelchair workouts in the Workout app, and record them to Health. When this setting is on, your iPhone stops tracking steps.</base>
+        <tran loc="ar">قم بتعقب الدفعات بدلاً من الخطوات على الـ Apple Watch في تطبيق النشاط، وفي تمارين الكرسي المتحرك في تطبيق التمرين، وقم بتسجيلها في تطبيق صحتي. عند تشغيل هذا الإعداد، سيتوقف الـ iPhone عن تعقب الخطوات.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ADD_TO_FAVORITES</Position>
+      <TranslationSet>
+        <base loc="en">Add to Favorites</base>
+        <tran loc="ar">إضافة إلى المفضلة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> For Add Data in Sleep Analysis </Description>
+      <Position>STARTS</Position>
+      <TranslationSet>
+        <base loc="en">Starts</base>
+        <tran loc="ar">يبدأ</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Shown in date selector in form Jan 3, 2016 - Jan 7, 2016
+   ($1 -&gt; start of the interval, $2 -&gt; end of the interval) </Description>
+      <Position>DATE_SELECTION_SHORT_%@_%@</Position>
+      <TranslationSet>
+        <base loc="en">%1$@ \U2013 %2$@</base>
+        <tran loc="ar">‏%1$@ ‏\U2013 %2$@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>EXPORT_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Export Health Data</base>
+        <tran loc="ar">تصدير البيانات الصحية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>MEDICAL_ID_CONSOLIDATION_LEARN_MORE_BODY</Position>
+      <TranslationSet>
+        <base loc="en">When you use Emergency SOS, your device will attempt to call emergency services. To allow the dispatcher to assist you, this call may include your location, regardless of whether you enable Location Services. Once the call ends, you can choose to notify your emergency contacts with a message that says you have called emergency services. This message also includes your current location. You can manage your emergency contacts by editing your Medical ID in the Health app on iPhone.\n\nFor a limited period of time, your device will send updates to your emergency contacts as your location changes. You’ll receive a notification when this happens. You may stop these updates by selecting Stop Sharing in the notification.\n\nIf Location Services is disabled, it will be temporarily enabled in order to notify your emergency contacts with your location. If you don’t want to send your location to your emergency contacts, open Settings on your iPhone, tap Privacy, tap Location Services, tap System Services, and turn off Emergency SOS.</base>
+        <tran loc="ar">عندما تستخدم طوارئ SOS، سيحاول جهازك الاتصال بخدمات الطوارئ. للسماح للمرسل بمساعدتك، ربما تتضمن هذه المكالمة موقعك سواء أكانت خدمات الموقع قيد التشغيل على جهازك أم لا. وبمجرد انتهاء المكالمة، يمكنك اختيار إعلام جهات اتصال الطوارئ لديك برسالة توضح أنك اتصلت بخدمات الطوارئ. وتتضمن هذه الرسالة أيضًا موقعك الحالي. ويمكنك إدارة جهات اتصال الطوارئ لديك من خلال تحرير "الهوية الطبية" الخاصة بك في تطبيق صحتي على الـ iPhone.\n\nسيرسل جهازك - لفترة زمنية محدودة - تحديثات إلى جهات اتصال الطوارئ لديك كلما تغير موقعك، وسيصلك إشعار عندما يحدث ذلك. ويمكنك إيقاف هذه التحديثات بتحديد "إيقاف المشاركة" في الإشعار.\n\nفي حالة إيقاف خدمات الموقع، سيتم تمكينها مؤقتًا حتى يتم إعلام جهات اتصال الطوارئ بموقعك. وإذا كنت لا ترغب في إرسال موقعك إلى جهات اتصال الطوارئ لديك، افتح الإعدادات على الـ iPhone، واضغط على "الخصوصية"، ثم على "خدمات الموقع"، ثم "خدمات النظام"، وقم بإيقاف "طوارئ SOS".</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>OUT_OF_RANGE_ALERT_CONFIRM_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Confirm Data</base>
+        <tran loc="ar">تأكيد البيانات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>BEDTIME_CONSISTENCY_ON_TIME</Position>
+      <TranslationSet>
+        <base loc="en">On time</base>
+        <tran loc="ar">في الموعد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DATA_COLLECTION_ENABLE</Position>
+      <TranslationSet>
+        <base loc="en">Allow</base>
+        <tran loc="ar">سماح</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Shown when there is no value for a computed heart rate (same string as NanoLifestyle)</Description>
+      <Position>HEART_RATE_NO_VALUE</Position>
+      <TranslationSet>
+        <base loc="en">--</base>
+        <tran loc="ar">‏--</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>NO_DATA</Position>
+      <TranslationSet>
+        <base loc="en">--</base>
+        <tran loc="ar">‏--</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CANCEL</Position>
+      <TranslationSet>
+        <base loc="en">Cancel</base>
+        <tran loc="ar">إلغاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>HEALTH_DATA_CALENDAR_EXIT</Position>
+      <TranslationSet>
+        <base loc="en">Cancel</base>
+        <tran loc="ar">إلغاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>OUT_OF_RANGE_ALERT_CANCEL</Position>
+      <TranslationSet>
+        <base loc="en">Cancel</base>
+        <tran loc="ar">إلغاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Title displayed for lists of CCD documents </Description>
+      <Position>CCD_PROVIDER_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">CCD Documents</base>
+        <tran loc="ar">مستندات CCD</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SLEEP_GOAL_HEADER</Position>
+      <TranslationSet>
+        <base loc="en">GOAL</base>
+        <tran loc="ar">الهدف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>EXPORT_PROMPT</Position>
+      <TranslationSet>
+        <base loc="en">Are you sure that you want to export your data? This may take a few moments.</base>
+        <tran loc="ar">هل أنت متأكد من رغبتك في تصدير بياناتك؟ قد يستغرق هذا الإجراء بضع لحظات.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> For Workout Add Data </Description>
+      <Position>WORKOUT_TOTAL_DISTANCE_WITH_UNIT %@</Position>
+      <TranslationSet>
+        <base loc="en">Distance (%@)</base>
+        <tran loc="ar">المسافة ‏(%@)</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Recommended minimum hours of sleep per night</Description>
+      <Position>SLEEP_RECOMMENDED_MIN_HEADER</Position>
+      <TranslationSet>
+        <base loc="en">RECOMMENDED MINIMUM</base>
+        <tran loc="ar">الحد الأدنى الموصى به</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>APPS_LIST_HEADER</Position>
+      <TranslationSet>
+        <base loc="en">Apps</base>
+        <tran loc="ar">التطبيقات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SLEEP_ROOM_DESCRIPTION_PARAGRAPH_1</Position>
+      <TranslationSet>
+        <base loc="en">Sleep analysis provides insight into your sleeping habits. Sleep trackers and monitors can help you determine the amount of time you are in bed and asleep. These devices estimate your time in bed and your time asleep by analyzing changes in physical activity, including movement during the night. You can also keep track of your sleep by entering your own estimation of your bed time and sleep time manually.</base>
+        <tran loc="ar">يقدم تحليل النوم تحليلاً لعادات النوم الخاصة بك. يمكن لأدوات تعقب ومراقبة النوم مساعدتك في تحديد الوقت الذي قضيته في السرير وفي النوم. تقوم هذه الأجهزة بتقدير الوقت الذي قضيته في السرير والوقت الذي قضيته في النوم فعليًا من خلال تحليل التغييرات التي تتم في النشاط البدني، بما في ذلك الحركة أثناء الليل. ويمكنك أيضًا تعقب وقت نومك عن طريق إدخال تقديرك الخاص للوقت الذي تقضيه في السرير والوقت الذي تقضيه في النوم بشكل يدوي.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>WHY_IMPORTANT_TEXT_NUTRITION</Position>
+      <TranslationSet>
+        <base loc="en">Eat more real food. Eat less junk food. Mind the amount.</base>
+        <tran loc="ar">تناول المزيد من الطعام الصحي الحقيقي، والقليل من الأغذية غير الصحية، وانتبه للكميات.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Category View </Description>
+      <Position>THIS_WEEK</Position>
+      <TranslationSet>
+        <base loc="en">This Week</base>
+        <tran loc="ar">هذا الأسبوع</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>OLDER</Position>
+      <TranslationSet>
+        <base loc="en">Older</base>
+        <tran loc="ar">أقدم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Title for Workouts Show All Data </Description>
+      <Position>WORKOUTS</Position>
+      <TranslationSet>
+        <base loc="en">Workouts</base>
+        <tran loc="ar">التمارين</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CONTINUE</Position>
+      <TranslationSet>
+        <base loc="en">Continue</base>
+        <tran loc="ar">متابعة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SPLASH_SCREEN_TITLE_HEART</Position>
+      <TranslationSet>
+        <base loc="en">Heart Overview</base>
+        <tran loc="ar">عرض عام للقلب</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CCD_PLAIN_TEXT_VIEW</Position>
+      <TranslationSet>
+        <base loc="en">Report in Raw Form</base>
+        <tran loc="ar">تقرير في صيغة غير منسقة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>MIN_ONLY</Position>
+      <TranslationSet>
+        <base loc="en">min</base>
+        <tran loc="ar">الحد الأدنى</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Unit selection cell in type detail page</Description>
+      <Position>UNIT</Position>
+      <TranslationSet>
+        <base loc="en">Unit</base>
+        <tran loc="ar">وحدة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DELETE_ALL_ASSOCIATED_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Workout Data</base>
+        <tran loc="ar">بيانات التمرين</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Data collection post buddy </Description>
+      <Position>DATA_COLLECTION_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Improve Health &amp; Activity?</base>
+        <tran loc="ar">تحسين صحتي والنشاط</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>NO</Position>
+      <TranslationSet>
+        <base loc="en">No</base>
+        <tran loc="ar">لا</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>WHEELCHAIR_USE_COREMOTION_TEXT_IPOD</Position>
+      <TranslationSet>
+        <base loc="en">When this setting is on, your iPod touch stops tracking steps.</base>
+        <tran loc="ar">عند تشغيل هذا الإعداد، يتوقف الـ iPod touch عن تعقب الخطوات.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>THIS_MONTH</Position>
+      <TranslationSet>
+        <base loc="en">This Month</base>
+        <tran loc="ar">هذا الشهر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>WAKETIME_HEADER</Position>
+      <TranslationSet>
+        <base loc="en">WAKE TIME</base>
+        <tran loc="ar">وقت الاستيقاظ</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SPLASH_SCREEN_DESCRIPTION_ICLOUD</Position>
+      <TranslationSet>
+        <base loc="en">Securely store your data in iCloud and keep Health and Activity up to date on iPhone and Apple Watch.</base>
+        <tran loc="ar">خزن بياناتك بأمان في iCloud لتبقى بيانات الصحة والنشاط محدثّة على iPhone و Apple Watch.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DATA_TYPE_PROVIDERS_EXPLANATION</Position>
+      <TranslationSet>
+        <base loc="en">The sources above are allowed to update your %@ data. When multiple sources are available, one data source will be chosen based on the priority order listed above.</base>
+        <tran loc="ar">يسمح للمصادر المذكورة أعلاه بتحديث بيانات %@ الخاصة بك. عندما تكون المصادر المتعددة متاحة، وسيتم اختيار مصدر بيانات واحد على أساس ترتيب الأولويات المذكورة أعلاه.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> %1$@: the number of documents that were not valid; %2$@: the total number of documents for import
+ NSUserActivity Titles for Siri 
+ Used to prefix a data type and describe the action of logging a sample to the Health App i.e. "Log Weight"</Description>
+      <Position>LOG</Position>
+      <TranslationSet>
+        <base loc="en">Log</base>
+        <tran loc="ar">تسجيل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Must be a valid filename (must not contain : or /), .xml will be added to the end of this name</Description>
+      <Position>EXPORT_DATA_FILE_CDA</Position>
+      <TranslationSet>
+        <base loc="en">export_cda</base>
+        <tran loc="ar">export_cda</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>WHY_IMPORTANT_TEXT_HEART</Position>
+      <TranslationSet>
+        <base loc="en">Train it harder. Make it stronger. Keep it pumping.</base>
+        <tran loc="ar">تمرن باجتهاد. حافظ على لياقتك. استمر بإيقاع مرتفع.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SHOW_ON_DASHBOARD</Position>
+      <TranslationSet>
+        <base loc="en">Show on Dashboard</base>
+        <tran loc="ar">إظهار على لوحة المعلومات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>MALE</Position>
+      <TranslationSet>
+        <base loc="en">Male</base>
+        <tran loc="ar">ذكر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SPLASH_SCREEN_DESCRIPTION_GRAPHS</Position>
+      <TranslationSet>
+        <base loc="en">Clear, interactive views into your data make it easier to see changes over time.</base>
+        <tran loc="ar">الإطلاع على بيانات واضحة وتفاعلية يسهل رؤية التغيرات التي تحدث مع مرور الوقت.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> different from "NONE" to account for gender of 'apps'</Description>
+      <Position>APPS_NONE</Position>
+      <TranslationSet>
+        <base loc="en">None</base>
+        <tran loc="ar">لا شيء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> different from "NONE" to account for gender of 'devices'</Description>
+      <Position>DEVICES_NONE</Position>
+      <TranslationSet>
+        <base loc="en">None</base>
+        <tran loc="ar">لا شيء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>NONE</Position>
+      <TranslationSet>
+        <base loc="en">None</base>
+        <tran loc="ar">لا شيء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>NO_APPS_TO_SHOW</Position>
+      <TranslationSet>
+        <base loc="en">None</base>
+        <tran loc="ar">لا شيء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> different from "NONE" to account for gender of 'studies'</Description>
+      <Position>RESEARCH_STUDIES_NONE</Position>
+      <TranslationSet>
+        <base loc="en">None</base>
+        <tran loc="ar">لا شيء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SLEEP_INTERRUPTIONS_NONE</Position>
+      <TranslationSet>
+        <base loc="en">None</base>
+        <tran loc="ar">لا شيء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>WORKOUT_TOTAL_ENERGY_BURNED_WITH_UNIT %@</Position>
+      <TranslationSet>
+        <base loc="en">Active Energy (%@)</base>
+        <tran loc="ar">الطاقة وقت النشاط (%@)</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>blood_type_b-</Position>
+      <TranslationSet>
+        <base loc="en">B-</base>
+        <tran loc="ar">B-</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>HEALTH_PROFILE</Position>
+      <TranslationSet>
+        <base loc="en">Set up Health Profile</base>
+        <tran loc="ar">إعداد ملف التعريف الصحي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>WORKOUT_ACTIVITY_TYPE</Position>
+      <TranslationSet>
+        <base loc="en">Activity Type</base>
+        <tran loc="ar">نوع النشاط</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>EXPORT_PREPARING_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Exporting Health Data</base>
+        <tran loc="ar">جاري تصدير البيانات الصحية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Profile </Description>
+      <Position>DISMISS</Position>
+      <TranslationSet>
+        <base loc="en">Close</base>
+        <tran loc="ar">إغلاق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>WEIGHT</Position>
+      <TranslationSet>
+        <base loc="en">Weight</base>
+        <tran loc="ar">الوزن</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SLEEP_TO_HEADER</Position>
+      <TranslationSet>
+        <base loc="en">IN BED UNTIL</base>
+        <tran loc="ar">في السرير حتى</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CCD_NOT_SHARED_WITH_APP</Position>
+      <TranslationSet>
+        <base loc="en">Withheld From:</base>
+        <tran loc="ar">محجوب من:</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>EXPORT_SUBJECT</Position>
+      <TranslationSet>
+        <base loc="en">Health Data Export</base>
+        <tran loc="ar">تصدير البيانات الصحية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SOURCES_LOCAL_DEVICE_IPOD</Position>
+      <TranslationSet>
+        <base loc="en">Go to the Motion &amp; Fitness settings under Privacy in the Settings app to control fitness tracking on this iPod touch.</base>
+        <tran loc="ar">انتقل إلى إعدادات الحركة واللياقة أسفل قسم الخصوصية في تطبيق الإعدادات للتحكم في تعقب اللياقة على هذا الـ iPod touch.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DATA_COLLECTION_MESSAGE_SEED</Position>
+      <TranslationSet>
+        <base loc="en">Do you want to help Apple improve health and fitness features by sharing your activity, workout, and limited health-related data?  You can stop sharing any time in Settings.</base>
+        <tran loc="ar">هل ترغب في مساعدة Apple على تحسين ميزات الصحة واللياقة من خلال مشاركة بيانات النشاط والتمرين ومعلومات محدودة عن الصحة؟ يمكنك إيقاف المشاركة في أي وقت في الإعدادات.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>TIME_TO_FALL_ASLEEP_HEADER</Position>
+      <TranslationSet>
+        <base loc="en">TIME TO FALL ASLEEP</base>
+        <tran loc="ar">حان وقت النوم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UV_INDEX</Position>
+      <TranslationSet>
+        <base loc="en">UV Index</base>
+        <tran loc="ar">مؤشر الأشعة فوق البنفسجية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> For the context buttons in the sleep room </Description>
+      <Position>TIME_ASLEEP_CONTEXT_BUTTON_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Avg. Time Asleep</base>
+        <tran loc="ar">متوسط فترة النوم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CDA_IMPORT_ALERT_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Clinical Documents Import</base>
+        <tran loc="ar">استيراد مستندات علاجية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Must be a valid filename (must not contain : or /), .xml will be added to the end of this name</Description>
+      <Position>EXPORT_DATA_FILE_XML</Position>
+      <TranslationSet>
+        <base loc="en">export</base>
+        <tran loc="ar">تصدير</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Must be a valid filename (must not contain : or /), .zip will be added to the end of this name</Description>
+      <Position>EXPORT_DATE_FILE_ZIP</Position>
+      <TranslationSet>
+        <base loc="en">export</base>
+        <tran loc="ar">تصدير</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DATE</Position>
+      <TranslationSet>
+        <base loc="en">Date</base>
+        <tran loc="ar">التاريخ</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>EFFICIENCY_HEADER</Position>
+      <TranslationSet>
+        <base loc="en">EFFICIENCY</base>
+        <tran loc="ar">الكفاءة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> For detail view on Day View in Sleep Analysis</Description>
+      <Position>SLEEP_EFFICIENCY_HEADER</Position>
+      <TranslationSet>
+        <base loc="en">EFFICIENCY</base>
+        <tran loc="ar">الكفاءة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Today </Description>
+      <Position>TODAY</Position>
+      <TranslationSet>
+        <base loc="en">Today</base>
+        <tran loc="ar">اليوم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>BACK</Position>
+      <TranslationSet>
+        <base loc="en">Back</base>
+        <tran loc="ar">رجوع</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CDA_IMPORT_NO_VALID_DOCUMENTS</Position>
+      <TranslationSet>
+        <base loc="en">None of the import files are valid Clinical Documents.</base>
+        <tran loc="ar">ليس من بين الملفات التي تم استيرادها سجلات علاجية صالحة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>EXPORT_CANCELING_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Canceling Export…</base>
+        <tran loc="ar">جاري إلغاء التصدير…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>MEDICAL_ID_CONSOLIDATION_ALERT_BODY</Position>
+      <TranslationSet>
+        <base loc="en">SOS and emergency contacts are now in your Medical ID in the Health app on iPhone. After you update your Apple Watch, all these contacts will be notified when you use Emergency SOS on iPhone or Apple Watch.</base>
+        <tran loc="ar">تتوفر جهات اتصال الطوارئ وSOS الآن في "الهوية الطبية" الخاصة بك في تطبيق صحتي على الـ iPhone. وبعدما تقوم بتحديث الـ Apple Watch الخاصة بك، سيتم إعلام كل جهات الاتصال هذه عندما تستخدم طوارئ SOS على الـ iPhone أو الـ Apple Watch.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Order the title of the User Activity for the Manual Entry screen i.e. "Log Weight"</Description>
+      <Position>MANUAL_ENTRY_UA_FORMAT</Position>
+      <TranslationSet>
+        <base loc="en">%1@ %2@</base>
+        <tran loc="ar">%1@ %2@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>OUT_OF_RANGE_ALERT_CONFIRM</Position>
+      <TranslationSet>
+        <base loc="en">Confirm</base>
+        <tran loc="ar">تأكيد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Dashboard Table View Cell </Description>
+      <Position>DAILY_AVERAGE %@</Position>
+      <TranslationSet>
+        <base loc="en">Daily Average: %@</base>
+        <tran loc="ar">المتوسط اليومي: %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>BIOLOGICAL_SEX_NOT_SET</Position>
+      <TranslationSet>
+        <base loc="en">Not Set</base>
+        <tran loc="ar">لم يتم التعيين</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>BIRTHDATE_NOT_SET</Position>
+      <TranslationSet>
+        <base loc="en">Not Set</base>
+        <tran loc="ar">لم يتم التعيين</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>BLOOD_TYPE_NOT_SET</Position>
+      <TranslationSet>
+        <base loc="en">Not Set</base>
+        <tran loc="ar">لم يتم التعيين</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>FIRST_NAME_NOT_SET</Position>
+      <TranslationSet>
+        <base loc="en">Not Set</base>
+        <tran loc="ar">لم يتم التعيين</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>FITZPATRICK_SKIN_TYPE_NOT_SET</Position>
+      <TranslationSet>
+        <base loc="en">Not Set</base>
+        <tran loc="ar">لم يتم التعيين</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>LAST_NAME_NOT_SET</Position>
+      <TranslationSet>
+        <base loc="en">Not Set</base>
+        <tran loc="ar">لم يتم التعيين</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SHOW_ALL_DATA</Position>
+      <TranslationSet>
+        <base loc="en">Show All Data</base>
+        <tran loc="ar">إظهار كافة البيانات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>MEDICAL_ID_DESCRIPTION</Position>
+      <TranslationSet>
+        <base loc="en">A Medical ID provides medical information about you that may be important in an emergency, like allergies and medical conditions.\nThe Medical ID can be accessed from the emergency dialer without unlocking your phone.</base>
+        <tran loc="ar">توفر الهوية الطبية معلومات طبية عنك، وقد تكون تلك المعلومات مهمة في حالات الطوارئ، مثل الحساسية والحالات الصحية.\nيمكن الوصول للهوية الطبية من شاشة طلب الطوارئ دون فتح قفل الهاتف.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> FIRST_NAME and LAST_NAME also used in Profile. </Description>
+      <Position>FIRST_NAME</Position>
+      <TranslationSet>
+        <base loc="en">First Name</base>
+        <tran loc="ar">الاسم الأول</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>OUT_OF_RANGE_ALERT_ONE_ITEM_FORMAT_%@</Position>
+      <TranslationSet>
+        <base loc="en">You entered %@. Is this correct?</base>
+        <tran loc="ar">لقد أدخلت %@. هل هذا صحيح؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> This is used for producing strings such as '20 mins early' in which the %@ will be replaced with a length of time</Description>
+      <Position>BEDTIME_CONSISTENCY_EARLY</Position>
+      <TranslationSet>
+        <base loc="en">%@ early</base>
+        <tran loc="ar">‏%@ مبكرًا</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>fitzpatrick_skin_type_III</Position>
+      <TranslationSet>
+        <base loc="en">Type III</base>
+        <tran loc="ar">النوع ٣</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DATA_COLLECTION_DISABLE</Position>
+      <TranslationSet>
+        <base loc="en">Don’t Allow</base>
+        <tran loc="ar">عدم السماح</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>GET_STARTED</Position>
+      <TranslationSet>
+        <base loc="en">Get Started</base>
+        <tran loc="ar">البدء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>TODAY_NO_CONTENT_EXPLANATION</Position>
+      <TranslationSet>
+        <base loc="en">No data recorded for this day.</base>
+        <tran loc="ar">لا توجد بيانات مسجلة لهذا اليوم.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>TIME_ASLEEP_CONTEXT_BUTTON_TITLE_DAY_SCOPE</Position>
+      <TranslationSet>
+        <base loc="en">Time Asleep</base>
+        <tran loc="ar">فترة النوم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DEVICES_LIST_HEADER</Position>
+      <TranslationSet>
+        <base loc="en">Devices</base>
+        <tran loc="ar">الأجهزة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>blood_type_b+</Position>
+      <TranslationSet>
+        <base loc="en">B+</base>
+        <tran loc="ar">B+</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>EXPORT_YES</Position>
+      <TranslationSet>
+        <base loc="en">Export</base>
+        <tran loc="ar">تصدير</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description>You can enter up to four days at a time.</Description>
+      <Position>OUT_OF_RANGE_ALERT_DEFAULT_DURATION_ERROR_%@</Position>
+      <TranslationSet>
+        <base loc="en">You can enter up to %1$@ at a time.</base>
+        <tran loc="ar">يمكنك إدخال لحد %1$@ في وقت واحد.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>TIME_AWAKE_DURING_NIGHT_HEADER</Position>
+      <TranslationSet>
+        <base loc="en">TIME AWAKE DURING NIGHT</base>
+        <tran loc="ar">فترة الاستيقاظ أثناء الليل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SOURCES_LOCAL_DEVICE_IPHONE</Position>
+      <TranslationSet>
+        <base loc="en">Go to the Motion &amp; Fitness settings under Privacy in the Settings app to control fitness tracking on this iPhone.</base>
+        <tran loc="ar">انتقل إلى إعدادات الحركة واللياقة أسفل قسم الخصوصية في تطبيق الإعدادات للتحكم في تعقب اللياقة على هذا الـ iPhone.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AUTO_SCALE</Position>
+      <TranslationSet>
+        <base loc="en">Auto Scale</base>
+        <tran loc="ar">تحجيم تلقائي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>TIME</Position>
+      <TranslationSet>
+        <base loc="en">Time</base>
+        <tran loc="ar">الوقت</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Must be a valid directory name (must not contain : or /)</Description>
+      <Position>EXPORT_DATA_CR_DIRECTORY</Position>
+      <TranslationSet>
+        <base loc="en">clinical-records</base>
+        <tran loc="ar">clinical-records</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>BEDTIME_CONSISTENCY_HEADER</Position>
+      <TranslationSet>
+        <base loc="en">BEDTIME CONSISTENCY</base>
+        <tran loc="ar">انتظام وقت النوم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>WELCOME_TO_HEALTH_BODY_TEXT</Position>
+      <TranslationSet>
+        <base loc="en">Small steps become healthy habits when you see how they connect.</base>
+        <tran loc="ar">يمكن للخطوات الصغيرة أن تصبح عادات صحية عندما ترى كيف ترتبط ببعضها.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>TODAY_RESTORING_FROM_CLOUD_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Restoring from iCloud</base>
+        <tran loc="ar">تتم الاستعادة من iCloud</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Min/Max chart point selection text</Description>
+      <Position>MAX_LOWERCASE: </Position>
+      <TranslationSet>
+        <base loc="en">max: </base>
+        <tran loc="ar">الأقصى: </tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Display type descriptions </Description>
+      <Position>DESCRIPTION_HEADING</Position>
+      <TranslationSet>
+        <base loc="en">Description</base>
+        <tran loc="ar">الوصف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>YES</Position>
+      <TranslationSet>
+        <base loc="en">Yes</base>
+        <tran loc="ar">نعم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>MIN_LONG %@</Position>
+      <TranslationSet>
+        <base loc="en">Min: %@</base>
+        <tran loc="ar">الحد الأدنى: %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Add data for insulin delivery reason 
+ Proposed by health staff. Awaiting final HI delivery: &lt;rdar://problem/29449273&gt; </Description>
+      <Position>INSULIN_DELIVERY_REASON_HELP_TEXT</Position>
+      <TranslationSet>
+        <base loc="en">Basal insulin refers to the insulin used to regulate blood glucose between meals including during sleep. Bolus insulin refers to the insulin used to regulate blood glucose at meals and/or to acutely address high blood glucose.</base>
+        <tran loc="ar">الأنسولين القاعدي هو الأنسولين المستخدم لتنظيم الغلوكوز في الدم بين وجبات الطعام وأثناء النوم. أنسولين وقت الطعام هو الأنسولين الذي يؤخذ لتنظيم الغلوكوز في الدم أثناء تناول وجبات الطعام و/أو المعالجة المكثفة للغلوكوز المرتفع في الدم.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SHARE</Position>
+      <TranslationSet>
+        <base loc="en">Share</base>
+        <tran loc="ar">مشاركة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ON</Position>
+      <TranslationSet>
+        <base loc="en">On</base>
+        <tran loc="ar">تشغيل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>BEDTIME_CONSISTENCY_NONE</Position>
+      <TranslationSet>
+        <base loc="en">Unknown</base>
+        <tran loc="ar">غير معروف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>APPS_READ_ACCESS_HEADER</Position>
+      <TranslationSet>
+        <base loc="en">Apps Allowed to Read Data:</base>
+        <tran loc="ar">التطبيقات المسموح لها بقراءة البيانات:</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>MAX_ONLY</Position>
+      <TranslationSet>
+        <base loc="en">max</base>
+        <tran loc="ar">الحد الأقصى</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> C-CDA Reports </Description>
+      <Position>CCD_REPORT_VIEW</Position>
+      <TranslationSet>
+        <base loc="en">Standard Report</base>
+        <tran loc="ar">تقرير قياسي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Date range during point selection in the top right corner</Description>
+      <Position>DATE_RANGE %@ %@</Position>
+      <TranslationSet>
+        <base loc="en">%1$@ - %2$@</base>
+        <tran loc="ar">‏%1$@ - %2$@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Show All Data Min - Max format string. Min value goes in position 1, max value in position 2.</Description>
+      <Position>SHOW_ALL_DATA_MIN_MAX</Position>
+      <TranslationSet>
+        <base loc="en">%1$@ - %2$@</base>
+        <tran loc="ar">‏%1$@ - %2$@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>WHY_IMPORTANT_TEXT_MINDFULNESS</Position>
+      <TranslationSet>
+        <base loc="en">Quiet your mind. Relax your body. Be in the moment.</base>
+        <tran loc="ar">عليك بتصفية ذهنك، والاسترخاء بدنيًا، والتركيز في اللحظة الحالية.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Top left corner of landscape compare sheet</Description>
+      <Position>SELECT_ALL</Position>
+      <TranslationSet>
+        <base loc="en">Select All</base>
+        <tran loc="ar">تحديد الكل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>WATCH_VIDEO</Position>
+      <TranslationSet>
+        <base loc="en">Watch the Overview Video</base>
+        <tran loc="ar">شاهد الفيديو التعريفي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>HEALTH_DATA_CALENDAR</Position>
+      <TranslationSet>
+        <base loc="en">Health Data Calendar</base>
+        <tran loc="ar">تقويم البيانات الصحية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Means the last visible value</Description>
+      <Position>LAST_ONLY</Position>
+      <TranslationSet>
+        <base loc="en">Most Recent</base>
+        <tran loc="ar">الأحدث</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>FAVORITES</Position>
+      <TranslationSet>
+        <base loc="en">Favorites</base>
+        <tran loc="ar">المفضلة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ORGAN_DONATION_BODY</Position>
+      <TranslationSet>
+        <base loc="en">Organ and tissue donation provides a second chance at life for thousands of people.\n\nApple has partnered with Donate Life. Only they will see the information you submit.\n\nShould you wish to modify any details later, you can do so with your email log-in and Donate Life password.</base>
+        <tran loc="ar">يوفر التبرع بالأعضاء والأنسجة فرصة ثانية للحياة لآلاف من الناس.\n\nقامت Apple بالشراكة مع Donate Life. فقط سيشاهدوا المعلومات التي تقدمها.\n\n هل ترغب في تعديل أي تفاصيل لاحقًا، يمكنك أن تفعل ذلك باستخدام تسجيل الدخول لبريدك الإلكتروني وكلمة سر Donate Life.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>FEMALE</Position>
+      <TranslationSet>
+        <base loc="en">Female</base>
+        <tran loc="ar">أنثى</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Me Data </Description>
+      <Position>blood_type_a+</Position>
+      <TranslationSet>
+        <base loc="en">A+</base>
+        <tran loc="ar">A+</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UPDATE_HEALTH_DATA</Position>
+      <TranslationSet>
+        <base loc="en">Update Health Data</base>
+        <tran loc="ar">تحديث البيانات الصحية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>BED_TIME_HEADER</Position>
+      <TranslationSet>
+        <base loc="en">Bedtime</base>
+        <tran loc="ar">وقت النوم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SHARE_DATA_HEADER_CCD</Position>
+      <TranslationSet>
+        <base loc="en">Allow Clinical Documents Requests:</base>
+        <tran loc="ar">السماح بطلبات المستندات العلاجية:</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DATA_TYPE_SHARING_APPS_EXPLANATION</Position>
+      <TranslationSet>
+        <base loc="en">Share %@ data with apps listed above. As apps request access to your Health data, they will be added to the list.</base>
+        <tran loc="ar">مشاركة بيانات %@ مع التطبيقات المذكورة أعلاه. كلما طلبت التطبيقات الوصول لبياناتك الصحية، سوف تضاف إلى القائمة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>fitzpatrick_skin_type_VI</Position>
+      <TranslationSet>
+        <base loc="en">Type VI</base>
+        <tran loc="ar">النوع ٦</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>APPS_LIST_EXPLANATION</Position>
+      <TranslationSet>
+        <base loc="en">As apps request permission to update your Health data, they will be added to the list.</base>
+        <tran loc="ar">كلما طلبت التطبيقات إذنًا لتحديث بياناتك الصحية، فستتم إضافتها إلى القائمة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>HEIGHT</Position>
+      <TranslationSet>
+        <base loc="en">Height</base>
+        <tran loc="ar">الطول</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>WAKE_TIME_HEADER</Position>
+      <TranslationSet>
+        <base loc="en">Wake Time</base>
+        <tran loc="ar">وقت الاستيقاظ</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Landscape Compare 
+ Used in the title for the compare sheet</Description>
+      <Position>SELECTED</Position>
+      <TranslationSet>
+        <base loc="en">Selected</base>
+        <tran loc="ar">تم التحديد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CDA_IMPORT_PASSWORD_PROTECTED</Position>
+      <TranslationSet>
+        <base loc="en">Unable to import Clinical Documents because the archive is password protected or may be damaged.</base>
+        <tran loc="ar">غير قادر على استيراد السجلات العلاجية لأن الأرشيف محمي بكلمة سر أو قد يكون تالفًا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Must be a valid directory name (must not contain : or /)</Description>
+      <Position>EXPORT_DATA_DIRECTORY</Position>
+      <TranslationSet>
+        <base loc="en">apple_health_export</base>
+        <tran loc="ar">apple_health_export</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Dashboard </Description>
+      <Position>DASHBOARD</Position>
+      <TranslationSet>
+        <base loc="en">Dashboard</base>
+        <tran loc="ar">لوحة المعلومات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>INTERRUPTIONS_CONTEXT_BUTTON_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Avg. Interruptions</base>
+        <tran loc="ar">متوسط الانقطاعات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CALENDAR</Position>
+      <TranslationSet>
+        <base loc="en">Calendar</base>
+        <tran loc="ar">التقويم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Buddy </Description>
+      <Position>WELCOME_TO_HEALTH</Position>
+      <TranslationSet>
+        <base loc="en">Welcome to Health</base>
+        <tran loc="ar">مرحبًا بك في "صحتي"</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Top left corner of landscape compare sheet</Description>
+      <Position>DESELECT_ALL</Position>
+      <TranslationSet>
+        <base loc="en">Deselect All</base>
+        <tran loc="ar">إلغاء تحديد الكل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SEARCH</Position>
+      <TranslationSet>
+        <base loc="en">Search</base>
+        <tran loc="ar">بحث</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DASHBOARD_EMPTY_HELP</Position>
+      <TranslationSet>
+        <base loc="en">You can add dashboard items from Health Data.</base>
+        <tran loc="ar">يمكنك إضافة عناصر لوحة المعلومات من البيانات الصحية.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>HEALTH_DATA_LIST</Position>
+      <TranslationSet>
+        <base loc="en">Health Data List</base>
+        <tran loc="ar">قائمة البيانات الصحية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>blood_type_a-</Position>
+      <TranslationSet>
+        <base loc="en">A-</base>
+        <tran loc="ar">A-</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DELETE_ALL_CONFIRMATION_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Are you sure you want to delete all data points?</base>
+        <tran loc="ar">هل أنت متأكد من رغبتك في حذف كل نقاط البيانات؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> This is used for producing strings such as '20 mins late' in which the %@ will be replaced with a length of time</Description>
+      <Position>BEDTIME_CONSISTENCY_LATE</Position>
+      <TranslationSet>
+        <base loc="en">%@ late</base>
+        <tran loc="ar">‏%@ متأخرًا</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>OPTIONAL</Position>
+      <TranslationSet>
+        <base loc="en">Optional</base>
+        <tran loc="ar">اختياري</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Spotting Portrait Chart </Description>
+      <Position>LAST_RECORDED %@</Position>
+      <TranslationSet>
+        <base loc="en">Last Recorded: %@</base>
+        <tran loc="ar">آخر تسجيل: %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> These are to be used in the `OUT_OF_RANGE_ALERT_SAMPLE_DURATION_ERROR_%@_%@` error message and are extracted for localization languages that require context </Description>
+      <Position>OUT_OF_RANGE_ALERT_MINDFUL_MINUTES</Position>
+      <TranslationSet>
+        <base loc="en">mindful minutes</base>
+        <tran loc="ar">دقائق الانتباه الذهني</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DATA_SOURCES_HEADER</Position>
+      <TranslationSet>
+        <base loc="en">Data Sources:</base>
+        <tran loc="ar">مصادر البيانات:</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>OTHER</Position>
+      <TranslationSet>
+        <base loc="en">Other</base>
+        <tran loc="ar">أخرى</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>BEDTIME_CONSISTENCY_INFERRED_HEADER</Position>
+      <TranslationSet>
+        <base loc="en">INFERRED BEDTIME CONSISTENCY</base>
+        <tran loc="ar">نتائج انتظام وقت النوم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CHANGE_UNITS</Position>
+      <TranslationSet>
+        <base loc="en">Change Units</base>
+        <tran loc="ar">تغيير الوحدات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>OFF</Position>
+      <TranslationSet>
+        <base loc="en">Off</base>
+        <tran loc="ar">إيقاف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SOURCES_WATCH_UNPAIRED_IPOD</Position>
+      <TranslationSet>
+        <base loc="en">This Apple Watch is no longer paired with this iPod touch.</base>
+        <tran loc="ar">لم تعد هذه الـ Apple Watch مقترنة بهذا الـ iPod touch.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DETAIL_SECTION_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Report Details</base>
+        <tran loc="ar">تفاصيل التقرير</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Health Data </Description>
+      <Position>HEALTH_DATA</Position>
+      <TranslationSet>
+        <base loc="en">Health Data</base>
+        <tran loc="ar">البيانات الصحية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>NEXT</Position>
+      <TranslationSet>
+        <base loc="en">Next</base>
+        <tran loc="ar">التالي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Sleep Room custom descriptions texts  </Description>
+      <Position>SLEEP_ROOM_DESCRIPTION_PARAGRAPH_JOINT</Position>
+      <TranslationSet>
+        <base loc="en">\n\n</base>
+        <tran loc="ar">\n\n</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>THIS_YEAR</Position>
+      <TranslationSet>
+        <base loc="en">This Year</base>
+        <tran loc="ar">هذه السنة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ENDS</Position>
+      <TranslationSet>
+        <base loc="en">Ends</base>
+        <tran loc="ar">ينتهي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Health Document Import Document </Description>
+      <Position>CDA_IMPORT_DOCUMENT_IMPORT</Position>
+      <TranslationSet>
+        <base loc="en">Save</base>
+        <tran loc="ar">حفظ</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>Health/System/Library/PrivateFrameworks/HealthToolbox.framework/en.lproj/WellnessDashboard-Localizable-LimeAlmanac.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>RESEARCH_STUDIES_LIST_HEADER</Position>
+      <TranslationSet>
+        <base loc="en">Research Studies</base>
+        <tran loc="ar">الدراسات البحثية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>RESEARCH_STUDIES_LIST_EXPLANATION</Position>
+      <TranslationSet>
+        <base loc="en">As research studies request permission to read your data, they will be added to the list. You can review and manage all of the studies you are enrolled in by going to the Research app.</base>
+        <tran loc="ar">كلما طلبت دراسات بحثية الإذن بقراءة بياناتك، ستتم إضافتها إلى القائمة. يمكنك مراجعة وإدارة كل الدراسات التي تم تسجيلك فيها عن طريق الانتقال إلى تطبيق Research.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 
+  WellnessDashboard-Localizable-LimeAlmanac.strings
+  HealthKit
+
+  Created by Allan Shortlidge on 5/13/2019.
+  Copyright © 2019 Apple. All rights reserved.
+</Description>
+      <Position>DATA_TYPE_SHARING_RESEARCH_STUDIES_EXPLANATION</Position>
+      <TranslationSet>
+        <base loc="en">Share %@ data with the studies in Research listed above. As you authorize studies in the Research app they will be added to the list. You can review and manage all of the studies you are enrolled in by going to the Research app.</base>
+        <tran loc="ar">شارك بيانات %@ مع الدراسات المدرجة في Research أعلاه. كلما قمت بتخويل دراسات في تطبيق Research، ستتم إضافتها إلى القائمة. يمكنك مراجعة وإدارة كل الدراسات التي تم تسجيلك فيها عن طريق الانتقال إلى تطبيق Research.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>RESEARCH_STUDIES_READ_ACCESS_HEADER</Position>
+      <TranslationSet>
+        <base loc="en">Research Studies Allowed to Read Data:</base>
+        <tran loc="ar">الدراسات البحثية المسموح لها بقراءة البيانات:</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>Health/System/Library/NanoPreferenceBundles/Applications/BridgeHealthSettings.bundle/en.lproj/Localizable-tinker.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>SHARING_DISABLED_DESCRIPTION</Position>
+      <TranslationSet>
+        <base loc="en">This Apple Watch is no longer sharing its Health data with you.\n\nIn order to receive shared Health data from this watch you need to pair it with this device again.</base>
+        <tran loc="ar">هذه الـ Apple Watch لم تعد تشارك بيانات "صحتي" معك.\n\nلتستلم بيانات "صحتي" المشتركة من هذه الساعة، فعليك إقرانها مع هذا الجهاز مرة أخرى.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>WHEELCHAIR_USE_DESCRIPTION_FOOTER_TINKER_%@</Position>
+      <TranslationSet>
+        <base loc="en">Wheelchair lets %@ track pushes instead of steps in Activity and record wheelchair workouts in the Workout app. Pushes are also recorded to Health.</base>
+        <tran loc="ar">يسمح الكرسي المتحرك لـ %@ بتتبع الدَفْعات بدلاً من الخطوات في تطبيق النشاط، وبتسجيل التمارين في تطبيق التمرين. يتم تسجيل الدَفْعات في تطبيق صحتي.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>STOP_RECEIVING_SHARED_HEALTH_DATA_ALERT</Position>
+      <TranslationSet>
+        <base loc="en">Are you sure?\n\nTo share Health data in the future, you’ll have to unpair this Apple Watch and iPhone, and then pair them again.</base>
+        <tran loc="ar">هل أنت متأكد؟\n\nلمشاركة بيانات "صحتي" في المستقبل، عليك إلغاء اقتران ساعة Apple Watch والـ iPhone، ومن ثم إعادة إقرانهما مرة أخرى.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>STOP_RECEIVING_SHARED_HEALTH_DATA_%@</Position>
+      <TranslationSet>
+        <base loc="en">Stop Receiving %@’s Health Data</base>
+        <tran loc="ar">التوقف عن استلام بيانات "صحتي" لـ %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>STOP_RECEIVING_SHARED_HEALTH_DATA_DESCRIPTION_%@_%@_%@</Position>
+      <TranslationSet>
+        <base loc="en">This deletes any of %@’s data currently viewable in Health and turns off sharing of this data to this device. %@’s Health data can still be backed up to iCloud.\n\nIf you stop receiving data, you can no longer edit %@’s Medical ID and emergency contacts.</base>
+        <tran loc="ar">يؤدي هذا لحذف أي من بيانات %@ التي يمكن عرضها حاليًا في "صحتي"، ويؤدي لإيقاف مشاركة هذه البيانات مع هذا الجهاز. ما يزال بإمكانك إجراء نسخ احتياطي لبيانات صحتي لـ %@ على iCloud.\n\nإذا توقفت عن استلام بيانات، لا يعود بإمكانك تحرير الهوية الطبية وجهات اتصال الطوارئ لـ %@.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>MEDICAL_ID_EXPLANATION_TINKER_%@</Position>
+      <TranslationSet>
+        <base loc="en">In an emergency, first responders can look at %@’s Medical ID to get life-saving information.</base>
+        <tran loc="ar">في حالة الطوارئ، يستطيع أول المستجيبين الاطلاع على معلومات الهوية الطبية لـ %@ للحصول على معلومات تسهم في إنقاذ حياتك.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>VIEW_TINKER_HEALTH_DATA_IN_HEALTH_DESCRIPTION_%@</Position>
+      <TranslationSet>
+        <base loc="en">%@’s Health data is shared with your iPhone. You can view and delete data in the Health app.</base>
+        <tran loc="ar">تتم مشاركة بيانات "صحتي" لـ %@ مع الـ iPhone. يمكنك عرض وحذف البيانات في تطبيق صحتي.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 
+  Localizable-tinker.strings
+  HealthKit
+
+  Created by Netra Kenkarey on 5/29/19.
+  Copyright © 2019 Apple. All rights reserved.
+</Description>
+      <Position>VIEW_TINKER_HEALTH_DATA_IN_HEALTH_%@</Position>
+      <TranslationSet>
+        <base loc="en">View %@’s Health Data in Health…</base>
+        <tran loc="ar">عرض البيانات الصحية لـ %@ في تطبيق صحتي…</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>Health/System/Library/PrivateFrameworks/HealthToolbox.framework/en.lproj/InfoPlist.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>WDMedicalIdShortcutTitle</Position>
+      <TranslationSet>
+        <base loc="en">Medical ID</base>
+        <tran loc="ar">الهوية الطبية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Location Usage </Description>
+      <Position>NSLocationWhenInUseUsageDescription</Position>
+      <TranslationSet>
+        <base loc="en">Your location is used to find hospitals and health networks near you.</base>
+        <tran loc="ar">يستخدم موقعك الحالي لإظهار المشافي والشبكات القريبة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>WDTodayShortcutTitle</Position>
+      <TranslationSet>
+        <base loc="en">Today</base>
+        <tran loc="ar">اليوم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Localized versions of Info.plist keys 
+ Health App Name </Description>
+      <Position>CFBundleDisplayName</Position>
+      <TranslationSet>
+        <base loc="en">Legacy Health</base>
+        <tran loc="ar">Legacy Health</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>Health/System/Library/PrivateFrameworks/HealthToolbox.framework/en.lproj/WellnessDashboard-Localizable-Cinnamon.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>ECG_LEAD_NAME_I</Position>
+      <TranslationSet>
+        <base loc="en">Lead I</base>
+        <tran loc="ar">زاوية الموجة I</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ECG_SHARE_PDF_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Export a PDF for Your Doctor</base>
+        <tran loc="ar">تصدير مستند PDF للطبيب</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> ECG Room </Description>
+      <Position>ALL_DATA_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">All Data</base>
+        <tran loc="ar">كل البيانات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DELETE_ECG_SAMPLE_BUTTON_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Delete</base>
+        <tran loc="ar">حذف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ELECTROCARDIOGRAM_RECORDING_DISABLED_LEARN_MORE</Position>
+      <TranslationSet>
+        <base loc="en">Learn More…</base>
+        <tran loc="ar">معرفة المزيد…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ECG_CSV_DEVICE_VERSION_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Device</base>
+        <tran loc="ar">الجهاز</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ECG_CSV_RECORDING_DATE_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Recorded Date</base>
+        <tran loc="ar">تاريخ التسجيل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> ECG Room Footers </Description>
+      <Position>FAVORITES_SECTION_FOOTER_NOT_FAVORITED</Position>
+      <TranslationSet>
+        <base loc="en">Favorites appear in Summary.</base>
+        <tran loc="ar">تظهر المفضلة في الملخص.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> CSV Export </Description>
+      <Position>ECG_CSV_NAME_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Name</base>
+        <tran loc="ar">الاسم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ECG_CSV_DOB_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Date of Birth</base>
+        <tran loc="ar">تاريخ الميلاد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ALL_DATA_VIEW_CONTROLLER_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">All Recorded Data</base>
+        <tran loc="ar">كافة البيانات المسجلة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ECG_CSV_LEAD_NAME_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Lead</base>
+        <tran loc="ar">زاوية الموجة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ABOUT_SECTION_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">About Electrocardiograms</base>
+        <tran loc="ar">حول تسجيلات تخطيط القلب</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>INCONCLUSIVE_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Inconclusive</base>
+        <tran loc="ar">غير حاسمة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>FAVORITES_SECTION_FOOTER_FAVORITED</Position>
+      <TranslationSet>
+        <base loc="en">Electrocardiograms will appear as a Favorite in Summary.</base>
+        <tran loc="ar">ستظهر تسجيلات تخطيط القلب ضمن المفضلة في الملخص.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> ECG Setup modal view </Description>
+      <Position>ELECTROCARDIOGRAM_SETUP_MODAL_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">What’s New in Health</base>
+        <tran loc="ar">ما الجديد في صحتي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ELECTROCARDIOGRAM_SETUP_BODY</Position>
+      <TranslationSet>
+        <base loc="en">The ECG app records your heartbeat using the Digital Crown of your Apple Watch. The app then checks the recording for atrial fibrillation, a form of irregular rhythm.</base>
+        <tran loc="ar">يسجل تطبيق تخطيط القلب نبض قلبك باستخدام Digital Crown لـ Apple Watch، ثم يبحث التطبيق عن أي رجفان أذيني؛ وهو نظم قلبي غير منتظم.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ELECTROCARDIOGRAM_SETUP_MODAL_BODY</Position>
+      <TranslationSet>
+        <base loc="en">The ECG app records your heartbeat using the Digital Crown of your Apple Watch. The app then checks the recording for atrial fibrillation, a form of irregular rhythm.</base>
+        <tran loc="ar">يسجل تطبيق تخطيط القلب نبض قلبك باستخدام Digital Crown لـ Apple Watch، ثم يبحث التطبيق عن أي رجفان أذيني؛ وهو نظم قلبي غير منتظم.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ECG_CSV_SYMPTOMS_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Symptoms</base>
+        <tran loc="ar">الأعراض</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ECG_IN_CASE_OF_EMERGENCY</Position>
+      <TranslationSet>
+        <base loc="en">If you believe you’re having a heart attack or a medical emergency, call emergency services.</base>
+        <tran loc="ar">إذا كنت تعتقد أنك تمرّ بنوبة قلبية أو مشكلة طبية طارئة، فاتصل بخدمات الطوارئ.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Confirmation prompt for deleting a single ECG reading </Description>
+      <Position>DELETE_ECG_SAMPLE_CELL_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Delete Recording</base>
+        <tran loc="ar">حذف التسجيل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> ECG Room Sections </Description>
+      <Position>MORE_SECTION_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">More</base>
+        <tran loc="ar">المزيد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 
+  WellnessDashboard-Localizable-Cinnamon.strings
+  HealthKit
+
+  Created by Matthew Salesi on 1/2/18.
+  Copyright © 2018 Apple. All rights reserved.
+
+ Improve Health &amp; Activity Prompt </Description>
+      <Position>DATA_COLLECTION_MESSAGE</Position>
+      <TranslationSet>
+        <base loc="en">Do you want to help Apple improve health and fitness features by sharing your activity, workout, and health-related data such as physical activity levels, approximate location, heart-related measurements, or ECG classifications?\nYour data does not include any personally identifiable information. You can stop sharing any time in Settings.</base>
+        <tran loc="ar">هل ترغب في مساعدة Apple على تحسين ميزات الصحة واللياقة من خلال مشاركة بيانات النشاط والتمرين وبيانات متعلقة بالصحة مثل مستويات النشاط البدني والموقع التقريبي والقياسات المتعلقة بالقلب أو تصنيفات تخطيط القلب؟ لا تحتوي هذه البيانات على أية معلومات شخصية قد تكشف عن هويتك. يمكنك إيقاف مشاركة البيانات في أي وقت في الإعدادات.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Used as part of the file name of an exported PDF of an ECG. Example: "ECG 2018-06-03 10-00-00". Please avoid characters that would be invalid in a file name, such as /:&lt;&gt;*~.</Description>
+      <Position>PDF_FILE_NAME_PREFIX</Position>
+      <TranslationSet>
+        <base loc="en">ECG</base>
+        <tran loc="ar">تخطيط القلب</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ECG_CSV_UNIT_STRING</Position>
+      <TranslationSet>
+        <base loc="en">µV</base>
+        <tran loc="ar">µV</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ELECTROCARDIOGRAM_SETUP_BUTTON_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Set Up ECG App</base>
+        <tran loc="ar">إعداد تطبيق تخطيط القلب</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ELECTROCARDIOGRAM_SETUP_MODAL_ONBOARDING_BUTTON_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Set Up ECG App</base>
+        <tran loc="ar">إعداد تطبيق تخطيط القلب</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ELECTROCARDIOGRAM_SETUP_MODAL_SUBTITLE</Position>
+      <TranslationSet>
+        <base loc="en">You Can Take an ECG on Apple Watch.</base>
+        <tran loc="ar">يمكنك تسجيل تخطيط القلب على Apple Watch.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> ECG Room Setup view </Description>
+      <Position>ELECTROCARDIOGRAM_SETUP_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">You Can Take an ECG on Apple Watch.</base>
+        <tran loc="ar">يمكنك تسجيل تخطيط القلب على Apple Watch.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> PDF preview </Description>
+      <Position>PDF_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">PDF</base>
+        <tran loc="ar">PDF</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ECG_CSV_UNIT_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Unit</base>
+        <tran loc="ar">الوحدة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ELECTROCARDIOGRAM_SETUP_MODAL_DISMISS_BUTTON_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Dismiss</base>
+        <tran loc="ar">استبعاد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ECG_CSV_CLASSIFICATION_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Classification</base>
+        <tran loc="ar">التصنيف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ATRIAL_FIBRILLATION_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Atrial Fibrillation</base>
+        <tran loc="ar">رجفان أذيني</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>OPTIONS_SECTION_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Options</base>
+        <tran loc="ar">الخيارات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> ECG Room MobileAsset Recording Disabled Banner </Description>
+      <Position>ELECTROCARDIOGRAM_RECORDING_DISABLED_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">The ECG app is no longer available</base>
+        <tran loc="ar">ما عاد تطبيق تخطيط القلب متوفرًا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>HIGH_LOW_HEART_RATE_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Low and High Heart Rate</base>
+        <tran loc="ar">معدل نبض القلب المنخفض والمرتفع</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>REGULATORY_PANE_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">About</base>
+        <tran loc="ar">حول</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SINUS_RHYTHM_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Sinus Rhythm</base>
+        <tran loc="ar">نظم جيبي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>EDUCATION_SECTION_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Education</base>
+        <tran loc="ar">التعليم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DELETE_ECG_SAMPLE_ACTION_SHEET_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Are you sure you want to delete this recording?</base>
+        <tran loc="ar">هل ترغب بالتأكيد في حذف هذا التسجيل؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Detail View </Description>
+      <Position>ECG_DETAIL</Position>
+      <TranslationSet>
+        <base loc="en">ECG Detail</base>
+        <tran loc="ar">تفاصيل تخطيط القلب</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ECG_CSV_FREQUENCY_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Sample Rate</base>
+        <tran loc="ar">معدل العينة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ECG_CSV_SOFTWARE_VERSION_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Software Version</base>
+        <tran loc="ar">إصدار البرنامج</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>Health/System/Library/NanoTimeKit/ComplicationBundles/NanoMenstrualCyclesComplication.bundle/en.lproj/Localizable.strings</Filepath>
+    <TextItem>
+      <Description> 
+  Localizable.strings
+  HealthMenstrualCycles
+
+  Created by Dash Brittain on 3/20/19.
+  
+</Description>
+      <Position>APP_NAME</Position>
+      <TranslationSet>
+        <base loc="en">Cycle Tracking</base>
+        <tran loc="ar">تتبع الدورة</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>Health/System/Library/NanoPreferenceBundles/Applications/HeartRateSettings.bundle/en.lproj/HeartRateSettings-Cinnamon.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>ELECTROCARDIOGRAM_FOOTER</Position>
+      <TranslationSet>
+        <base loc="en">Once ECG is set up, the app will appear on your Apple Watch and you’ll be able to take a recording to look for atrial fibrillation, a form of irregular heart rhythm.</base>
+        <tran loc="ar">بمجرد إعداد تخطيط القلب، سيظهر التطبيق على Apple Watch وستتمكن من التسجيل للبحث عن أي رجفان أذيني؛ وهو نظم قلبي غير منتظم.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ELECTROCARDIOGRAM_SECTION_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">ECG</base>
+        <tran loc="ar">تخطيط القلب</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ELECTROCARDIOGRAM_ONBOARDING_BUTTON_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Set Up the ECG App in Health</base>
+        <tran loc="ar">إعداد تطبيق تخطيط القلب في "صحتي"</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>FEATURE_DISABLED_REMOTELY_CINNAMON</Position>
+      <TranslationSet>
+        <base loc="en">The ECG app is no longer available.</base>
+        <tran loc="ar">لم يعد تطبيق تخطيط القلب متوفرًا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 
+  HeartRateSettings-Cinnamon.strings
+  HealthKit
+
+  Created by Matthew Salesi on 2/18/18.
+  Copyright © 2018 Apple. All rights reserved.
+</Description>
+      <Position>HEART_AREA_DESCRIPTION_CINNAMON</Position>
+      <TranslationSet>
+        <base loc="en">Apple Watch can help you look after your heart. You can record an ECG to look for atrial fibrillation (AFib). You can also get a notification if Apple Watch detects that your heart rate is high or low.</base>
+        <tran loc="ar">بإمكان Apple Watch مساعدتك في الاعتناء بصحة قلبك؛ إذ يمكنك تسجيل تخطيط القلب لتحديد ما إذا كان لديك رجفان أذيني أم لا. كما يمكنك تلقّي إشعار إذا اكتشفت Apple Watch ارتفاعًا أو انخفاضًا في معدل نبض قلبك.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ELECTROCARDIOGRAM_HEALTH_ROOM_BUTTON_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">View Recorded ECGs in Health</base>
+        <tran loc="ar">عرض تخطيط القلب المسجل في "صحتي"</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ELECTROCARDIOGRAM_FOOTER_ONBOARDING_COMPLETED</Position>
+      <TranslationSet>
+        <base loc="en">Open the ECG app on your Apple Watch to take a recording and look for atrial fibrillation, a form of irregular heart rhythm.</base>
+        <tran loc="ar">افتح تطبيق تخطيط القلب على Apple Watch لإجراء تسجيل وللبحث عن أي رجفان أذيني؛ وهو نظم قلبي غير منتظم.</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>Health/System/Library/NanoPreferenceBundles/Applications/HeartRateSettings.bundle/en.lproj/HeartRateSettings-Antimony.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>HEART_NOTIFICATION_ATRIAL_FIBRILLATION_FOOTER_LINK</Position>
+      <TranslationSet>
+        <base loc="en">Learn more about Irregular Rhythm Notifications</base>
+        <tran loc="ar">اعرف المزيد عن إشعارات اضطراب النَّظْم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>HEART_NOTIFICATION_ATRIAL_FIBRILLATION_FOOTER</Position>
+      <TranslationSet>
+        <base loc="en">Receive a notification when Apple Watch identifies multiple heart rhythms that may be atrial fibrillation.</base>
+        <tran loc="ar">ستتلقى إشعارًا عندما تكتشف Apple Watch نظمًا قلبيًا غير منتظم قد يكون رجفانًا أذينيًا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>HEART_NOTIFICATION_ATRIAL_FIBRILLATION_SWITCH_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Irregular Rhythm</base>
+        <tran loc="ar">إيقاع غير منتظم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>HEART_NOTIFICATION_ATRIAL_FIBRILLATION_ONBOARDING_BUTTON_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Set Up Irregular Rhythm Notifications in Health</base>
+        <tran loc="ar">إعداد إشعارات اضطراب النَّظْم في تطبيق صحتي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>FEATURE_DISABLED_REMOTELY_ANTIMONY</Position>
+      <TranslationSet>
+        <base loc="en">Irregular rhythm notifications have been disabled.</base>
+        <tran loc="ar">تم تعطيل إشعارات اضطراب النَّظْم.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>HEART_NOTIFICATION_ATRIAL_FIBRILLATION_NEEDS_GEOLOCATION_FOOTER</Position>
+      <TranslationSet>
+        <base loc="en">Receive a notification when Apple Watch identifies multiple heart rhythms that may be atrial fibrillation. Irregular Rhythm Notifications may not be available in all regions.</base>
+        <tran loc="ar">ستتلقى إشعارًا عندما تكتشف Apple Watch نظمًا قلبيًا غير منتظم قد يكون رجفانًا أذينيًا. قد لا تكون إشعارات اضطراب النَّظْم متوفرة في جميع البلدان.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 
+  HeartRateSettings-Antimony.strings
+  HealthKit
+
+  Created by Matthew Salesi on 5/7/18.
+  Copyright © 2018 Apple. All rights reserved.
+</Description>
+      <Position>HEART_AREA_DESCRIPTION_ANTIMONY</Position>
+      <TranslationSet>
+        <base loc="en">Apple Watch can help you look after your heart. You can get a notification if Apple Watch identifies irregular heart rhythms that may be atrial fibrillation or if your heart rate is high or low.</base>
+        <tran loc="ar">بإمكان Apple Watch مساعدتك في الاعتناء بصحة قلبك؛ إذ يمكنك تلقّي إشعار إذا اكتشفتْ Apple Watch اضطرابات في النظم القلبي قد تكون رجفانًا أذينيًا، أو إذا كان هناك ارتفاع أو انخفاض في معدل نبض قلبك.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>HEART_AREA_DESCRIPTION_CINNAMON_ANTIMONY</Position>
+      <TranslationSet>
+        <base loc="en">Apple Watch can help you look after your heart. You can record an ECG to look for atrial fibrillation. You can also get a notification if Apple Watch identifies irregular heart rhythms that look like atrial fibrillation or if your heart rate is high or low.</base>
+        <tran loc="ar">بإمكان Apple Watch مساعدتك في الاعتناء بصحة قلبك؛ إذ يمكنك تسجيل تخطيط القلب لتحديد ما إذا كان لديك رجفان أذيني أم لا. يمكنك أيضًا أن تتلقى إشعارًا إذا اكتشفتْ Apple Watch اضطرابات في النظم القلبي قد تبدو كرجفان أذيني، أو إذا كان هناك ارتفاع أو انخفاض في معدل نبض قلبك.</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>Health/System/Library/UsageBundles/WellnessDashboardUsage.bundle/en.lproj/Localizable.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>DELETE_DATA</Position>
+      <TranslationSet>
+        <base loc="en">Delete Data</base>
+        <tran loc="ar">حذف البيانات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DELETE_HEALTH_DATA_MESSAGE_IPHONE</Position>
+      <TranslationSet>
+        <base loc="en">This will permanently delete all Health and Activity data and reset Health settings on this iPhone.</base>
+        <tran loc="ar">سيؤدي ذلك إلى حذف البيانات الصحية وبيانات النشاط نهائيًا وإعادة تعيين إعدادات "صحتي" على هذا الـ iPhone.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DELETE_HEALTH_DATA_MESSAGE_IPOD</Position>
+      <TranslationSet>
+        <base loc="en">This will permanently delete all Health and Activity data and reset Health settings on this iPod touch.</base>
+        <tran loc="ar">سيؤدي ذلك إلى حذف البيانات الصحية وبيانات النشاط نهائيًا وإعادة تعيين إعدادات "صحتي" على هذا الـ iPod touch.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CANCEL</Position>
+      <TranslationSet>
+        <base loc="en">Cancel</base>
+        <tran loc="ar">إلغاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DELETE_HEALTH_DATA</Position>
+      <TranslationSet>
+        <base loc="en">Delete Health Data</base>
+        <tran loc="ar">حذف البيانات الصحية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 
+  Localizable.strings
+  HealthKit
+
+  Created by Allan Shortlidge on 6/28/16.
+  Copyright © 2016 Apple. All rights reserved.
+</Description>
+      <Position>DATA</Position>
+      <TranslationSet>
+        <base loc="en">Data</base>
+        <tran loc="ar">البيانات</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>Health/System/Library/NanoPreferenceBundles/Applications/BridgeHealthSettings.bundle/en.lproj/Localizable.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>FEEDBACK_WHEELCHAIR_MORE_INFO_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Improve Wheelchair Mode</base>
+        <tran loc="ar">تحسين نمط الكرسي المتحرك</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PUSH_COUNT</Position>
+      <TranslationSet>
+        <base loc="en">Push Count</base>
+        <tran loc="ar">عدد الضغطات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DONE_BUTTON</Position>
+      <TranslationSet>
+        <base loc="en">Done</base>
+        <tran loc="ar">تم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>FEEDBACK_WHEELCHAIR_MORE_INFO_DONE</Position>
+      <TranslationSet>
+        <base loc="en">Done</base>
+        <tran loc="ar">تم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>WHEELCHAIR_USE</Position>
+      <TranslationSet>
+        <base loc="en">Wheelchair</base>
+        <tran loc="ar">كرسي متحرك</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>FEEDBACK_WHEELCHAIR_MORE_INFO</Position>
+      <TranslationSet>
+        <base loc="en">Learn More</base>
+        <tran loc="ar">لمعرفة المزيد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>NOTIFICATION_SETTINGS</Position>
+      <TranslationSet>
+        <base loc="en">Notification Settings</base>
+        <tran loc="ar">إعدادات الإشعارات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>MEDICAL_ID</Position>
+      <TranslationSet>
+        <base loc="en">Medical ID</base>
+        <tran loc="ar">الهوية الطبية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>FEEDBACK_WHEELCHAIR_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Help Improve Wheelchair Mode?</base>
+        <tran loc="ar">المساعدة في تحسين نمط الكرسي المتحرك؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>HEALTH_PROFILE</Position>
+      <TranslationSet>
+        <base loc="en">Health Profile</base>
+        <tran loc="ar">الملف الشخصي لتطبيق صحتي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>EDIT_BUTTON</Position>
+      <TranslationSet>
+        <base loc="en">Edit</base>
+        <tran loc="ar">تحرير</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>FEEDBACK_WHEELCHAIR_ALLOW</Position>
+      <TranslationSet>
+        <base loc="en">Allow</base>
+        <tran loc="ar">السماح</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CANCEL_BUTTON</Position>
+      <TranslationSet>
+        <base loc="en">Cancel</base>
+        <tran loc="ar">إلغاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>WHEELCHAIR_NO</Position>
+      <TranslationSet>
+        <base loc="en">No</base>
+        <tran loc="ar">لا</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>WHEELCHAIR_USE_DESCRIPTION_FOOTER</Position>
+      <TranslationSet>
+        <base loc="en">When the Wheelchair setting is on, your iPhone stops tracking steps. Apple Watch tracks pushes in the Activity app and in wheelchair workouts in the Workout app and records them to Health.</base>
+        <tran loc="ar">عند تشغيل إعداد الكرسي المتحرك، سيتوقف الـ iPhone عن تعقب خطواتك. وستقوم الـ Apple Watch بتعقب الدفعات في تطبيق النشاط وكذلك في تمارين الكرسي المتحرك في تطبيق التمرين، ثم تقوم بتسجيلها في "صحتي".</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>MALE</Position>
+      <TranslationSet>
+        <base loc="en">Male</base>
+        <tran loc="ar">ذكر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>WEIGHT</Position>
+      <TranslationSet>
+        <base loc="en">Weight</base>
+        <tran loc="ar">الوزن</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>FEEDBACK_WHEELCHAIR_DESCRIPTION</Position>
+      <TranslationSet>
+        <base loc="en">Do you want to help Apple improve health and fitness features by sending your wheelchair activity and workout data? You can change this later in Settings. </base>
+        <tran loc="ar">هل ترغب في مساعدة Apple على تحسين ميزات الصحة واللياقة من خلال إرسال بيانات أنشطة وتمارين الكرسي المتحرك؟ يمكنك تغيير ذلك لاحقًا في الإعدادات. </tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>LOADING</Position>
+      <TranslationSet>
+        <base loc="en">Loading…</base>
+        <tran loc="ar">جاري التحميل…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>BIOLOGICAL_SEX_NOT_SET</Position>
+      <TranslationSet>
+        <base loc="en">Not Set</base>
+        <tran loc="ar">لم يتم التعيين</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>BIRTHDATE_NOT_SET</Position>
+      <TranslationSet>
+        <base loc="en">Not Set</base>
+        <tran loc="ar">لم يتم التعيين</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>HEIGHT_NOT_SET</Position>
+      <TranslationSet>
+        <base loc="en">Not Set</base>
+        <tran loc="ar">لم يتم التعيين</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>WEIGHT_NOT_SET</Position>
+      <TranslationSet>
+        <base loc="en">Not Set</base>
+        <tran loc="ar">لم يتم التعيين</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>WHEELCHAIR_NOT_SET</Position>
+      <TranslationSet>
+        <base loc="en">Not Set</base>
+        <tran loc="ar">لم يتم التعيين</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>FEEDBACK_WHEELCHAIR_DENY</Position>
+      <TranslationSet>
+        <base loc="en">Don’t Allow</base>
+        <tran loc="ar">عدم السماح</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>MEDICAL_ID_EXPLANATION</Position>
+      <TranslationSet>
+        <base loc="en">In an emergency, first responders can look at your Medical ID to get life-saving information.</base>
+        <tran loc="ar">في حالة الطوارئ، يستطيع أول المستجيبين الاطلاع على معلومات هويتك الطبية للحصول على معلومات تسهم في إنقاذ حياتك.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>BIOLOGICAL_SEX</Position>
+      <TranslationSet>
+        <base loc="en">Sex</base>
+        <tran loc="ar">الجنس</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>BIRTHDATE</Position>
+      <TranslationSet>
+        <base loc="en">Birthdate</base>
+        <tran loc="ar">تاريخ الميلاد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>WHEELCHAIR_YES</Position>
+      <TranslationSet>
+        <base loc="en">Yes</base>
+        <tran loc="ar">نعم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>FEMALE</Position>
+      <TranslationSet>
+        <base loc="en">Female</base>
+        <tran loc="ar">أنثى</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>HEIGHT</Position>
+      <TranslationSet>
+        <base loc="en">Height</base>
+        <tran loc="ar">الطول</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 
+  Localizable.strings
+  HealthKit
+
+  Created by Netra Kenkarey on 1/29/19.
+  Copyright © 2019 Apple. All rights reserved.
+</Description>
+      <Position>HEALTH_LABEL</Position>
+      <TranslationSet>
+        <base loc="en">Health</base>
+        <tran loc="ar">صحتي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>VIEW_PRIMARY_HEALTH_DATA_IN_HEALTH</Position>
+      <TranslationSet>
+        <base loc="en">View My Health Data</base>
+        <tran loc="ar">عرض بياناتي الصحية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>OTHER</Position>
+      <TranslationSet>
+        <base loc="en">Other</base>
+        <tran loc="ar">أخرى</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>HEALTH_DATA_SECTION_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Health Data</base>
+        <tran loc="ar">البيانات الصحية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>FEEDBACK_WHEELCHAIR_MORE_INFO_DESCRIPTION</Position>
+      <TranslationSet>
+        <base loc="en">Improve Wheelchair Mode sends wheelchair workout and activity information from iPhone and Apple Watch to Apple in order to help Apple improve and understand the effectiveness of health and fitness features on Apple devices.  Your data will not be used for any other purpose, and does not include personally identifiable information.  This information includes wheelchair workout and activity data (such as roll hours, number of pushes, exercise minutes, and move ring completion percentage).\n\nBy enabling Improve Wheelchair Mode, you agree and consent to Apple’s and its subsidiaries’ and agents’ transmission, collection, maintenance, processing, and use of this information as described above.\n\nAt all times, information received by Apple will be treated in accordance with Apple’s Privacy Policy, which can be found at www.apple.com/privacy.</base>
+        <tran loc="ar">يرسل "تحسين نمط الكرسي المتحرك" معلومات تمارين وأنشطة الكرسي المتحرك من الـ iPhone والـ Apple Watch إلى Apple لمساعدة Apple في تحسين وإدراك مدى فعالية ميزات الصحة واللياقة على أجهزة Apple. لن تُستخدم بياناتك لأي غرض آخر، ولا تتضمن معلومات تدل على هويتك الشخصية. تشمل هذه المعلومات بيانات أنشطة وتمارين الكرسي المتحرك (مثل ساعات التحرك، وعدد الدفعات، ودقائق التمرين، والنسبة المئوية لإكمال حلقة الحركة).\n\nبتمكين تحسين نمط الكرسي المتحرك، فإنك توافق على أن تقوم Apple وشركاتها الفرعية ووكلاؤها بنقل هذه المعلومات وجمعها والاحتفاظ بها ومعالجتها واستخدامها على النحو المبين أعلاه.\n\nسيتم التعامل في جميع الأوقات مع المعلومات التي يتم جمعها بواسطة Apple وفقًا لسياسة خصوصية Apple، والتي يمكنك العثور عليها على الموقع:\nwww.apple.com/ae-ar/privacy</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SET_UP_MEDICAL_ID</Position>
+      <TranslationSet>
+        <base loc="en">Set Up Medical ID</base>
+        <tran loc="ar">إعداد الهوية الطبية</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>Health/System/Library/NanoPreferenceBundles/SetupBundles/HealthBridgeSetupPlugin.bundle/en.lproj/Localizable-tinker.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>TINKER_EMERGENCY_CONTACTS_TITLE_%@</Position>
+      <TranslationSet>
+        <base loc="en">%@’s Emergency Contacts</base>
+        <tran loc="ar">جهات اتصال الطوارئ لـ %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>TINKER_MEDICAL_ID_DETAIL_%@_%@</Position>
+      <TranslationSet>
+        <base loc="en">Lorem: when %@ uses Emergency SOS, their Medical ID is displayed on Apple Watch for emergency responders. %@ can view their Medical ID anytime, just press and hold the side button and drag the Medical ID slider to the right.</base>
+        <tran loc="ar">Lorem: when %@ uses Emergency SOS, their Medical ID is displayed on Apple Watch for emergency responders. %@ can view their Medical ID anytime, just press and hold the side button and drag the Medical ID slider to the right.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>HEALTH_LEARN_MORE_BUTTON</Position>
+      <TranslationSet>
+        <base loc="en">Learn More About Family Sharing and Health</base>
+        <tran loc="ar">اعرف المزيد عن المشاركة العائلية و"صحتي"</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description>
+  Localizable-tinker.strings
+  HealthKit
+
+  Created by Netra Kenkarey on 5/29/19.
+  Copyright © 2019 Apple. All rights reserved.
+
+ TODO &lt;rdar://problem/48897219&gt; [Tinker Health] HI To Deliver Copy for Bridge Setup Medical ID
+ Health </Description>
+      <Position>TINKER_HEALTH_TITLE_%@</Position>
+      <TranslationSet>
+        <base loc="en">%@’s Health</base>
+        <tran loc="ar">تطبيق صحتي الخاصة بـ %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>TINKER_HEALTH_DETAIL_%@_%@</Position>
+      <TranslationSet>
+        <base loc="en">Lorem: You can view %@’s health data in your Health app. This data will be shared with you until %@ turns 18 or stops sharing with you.</base>
+        <tran loc="ar">Lorem: You can view %@’s health data in your Health app. This data will be shared with you until %@ turns 18 or stops sharing with you.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>HEALTH_SUGGESTED_BUTTON_CONTINUE</Position>
+      <TranslationSet>
+        <base loc="en">Continue</base>
+        <tran loc="ar">متابعة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>TINKER_EMERGENCY_CONTACTS_DETAIL_%@_%@</Position>
+      <TranslationSet>
+        <base loc="en">Lorem: The emergency contacts below will receive a message saying that %@ has called emergency services when she uses Emergency SOS. These messages include %@’s current location</base>
+        <tran loc="ar">Lorem: The emergency contacts below will receive a message saying that %@ has called emergency services when she uses Emergency SOS. These messages include %@’s current location</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>TINKER_ADD_EMERGENCY_CONTACT</Position>
+      <TranslationSet>
+        <base loc="en">Add Emergency Contact</base>
+        <tran loc="ar">إضافة جهة اتصال عند الطوارئ</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Medical ID </Description>
+      <Position>TINKER_MEDICAL_ID_TITLE_%@</Position>
+      <TranslationSet>
+        <base loc="en">%@’s Medical ID</base>
+        <tran loc="ar">الهوية الطبية لـ %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>TINKER_MEDICAL_ID_SUGGESTED_BUTTON</Position>
+      <TranslationSet>
+        <base loc="en">Set Up Medical ID</base>
+        <tran loc="ar">إعداد الهوية الطبية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>TINKER_MEDICAL_ID_ALTERNATE_BUTTON</Position>
+      <TranslationSet>
+        <base loc="en">Set Up Later</base>
+        <tran loc="ar">الإعداد لاحقًا</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>Health/System/Library/PrivateFrameworks/HealthToolbox.framework/en.lproj/WellnessDashboard-Localizable.stringsdict</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>/DAYS_EXCEEDING_GOAL %d %d:dict/totalDays:dict/few:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%d days</base>
+        <tran loc="ar">‏%d أيام</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/DAYS_EXCEEDING_GOAL %d %d:dict/totalDays:dict/many:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%d days</base>
+        <tran loc="ar">‏%d يومًا</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/DAYS_EXCEEDING_GOAL %d %d:dict/totalDays:dict/one:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%d days</base>
+        <tran loc="ar">يوم واحد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/DAYS_EXCEEDING_GOAL %d %d:dict/totalDays:dict/other:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%d days</base>
+        <tran loc="ar">‏%d يوم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/DAYS_EXCEEDING_GOAL %d %d:dict/totalDays:dict/two:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%d days</base>
+        <tran loc="ar">يومين</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/DAYS_EXCEEDING_GOAL %d %d:dict/totalDays:dict/zero:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%d days</base>
+        <tran loc="ar">‏%d يوم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/SEXUAL_ACTIVITY_UNIT:dict/time:dict/few:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">times</base>
+        <tran loc="ar">مرات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/SEXUAL_ACTIVITY_UNIT:dict/time:dict/many:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">times</base>
+        <tran loc="ar">مرة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/SEXUAL_ACTIVITY_UNIT:dict/time:dict/other:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">times</base>
+        <tran loc="ar">مرة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/SEXUAL_ACTIVITY_UNIT:dict/time:dict/two:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">times</base>
+        <tran loc="ar">مرتان</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/SEXUAL_ACTIVITY_UNIT:dict/time:dict/zero:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">times</base>
+        <tran loc="ar">مرة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/SEXUAL_ACTIVITY_UNIT:dict/time:dict/one:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">time</base>
+        <tran loc="ar">الوقت</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/DAYS_EXCEEDING_GOAL %d %d:dict/NSStringLocalizedFormatKey:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%#@day@ of %#@totalDays@</base>
+        <tran loc="ar">‏%#@day@ من %#@totalDays@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/SEXUAL_ACTIVITY_UNIT:dict/NSStringLocalizedFormatKey:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%#@time@</base>
+        <tran loc="ar">%#@time@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/DAYS_EXCEEDING_GOAL %d %d:dict/day:dict/few:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%d</base>
+        <tran loc="ar">‏%d</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/DAYS_EXCEEDING_GOAL %d %d:dict/day:dict/many:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%d</base>
+        <tran loc="ar">‏%d</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/DAYS_EXCEEDING_GOAL %d %d:dict/day:dict/one:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%d</base>
+        <tran loc="ar">‏%d</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/DAYS_EXCEEDING_GOAL %d %d:dict/day:dict/other:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%d</base>
+        <tran loc="ar">‏%d</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/DAYS_EXCEEDING_GOAL %d %d:dict/day:dict/two:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%d</base>
+        <tran loc="ar">‏%d</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/DAYS_EXCEEDING_GOAL %d %d:dict/day:dict/zero:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%d</base>
+        <tran loc="ar">‏%d</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+</Proj>

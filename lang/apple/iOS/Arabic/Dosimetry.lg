@@ -1,0 +1,509 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Proj>
+  <ProjName>Dosimetry</ProjName>
+  <File>
+    <Filepath>Dosimetry/System/Library/NanoPreferenceBundles/Applications/DoseSettings.bundle/en.lproj/Localizable.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>THRESHOLD_FOOTER_OFF</Position>
+      <TranslationSet>
+        <base loc="en">Receive a notification when the average sound level over 3 minutes reaches or exceeds the set level.\n\nDaily limits are derived from World Health Organization recommendations.\n\nSound levels are measured in A-weighted decibels.</base>
+        <tran loc="ar">تلقى إشعارًا إذا وصل متوسط مستوى الضوضاء أو تجاوز المستوى المحدد لأكثر من ٣ دقائق.\n\nيتم استخلاص الحدود اليومية من توصيات منظمة الصحة العالمية.\nيتم قياس مستويات الأصوات بالديسيبل بمنحنى A-Weighting.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ENVIRONMENTAL_EXPOSURE_AREA_DESCRIPTION</Position>
+      <TranslationSet>
+        <base loc="en">Apple Watch can check sound levels nearby and notify you when they might affect your hearing.</base>
+        <tran loc="ar">يمكن لـ Apple Watch التحقق من مستويات الصوت المحيطة، ومتى قد تؤثر على صحة سمعك.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ENVIRONMENTAL_EXPOSURE_NOTIFICATION_NAME</Position>
+      <TranslationSet>
+        <base loc="en">Noise Threshold</base>
+        <tran loc="ar">حد الضوضاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>THRESHOLD_PANE_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Noise Threshold</base>
+        <tran loc="ar">حد الضوضاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ONBOARDING_CONTINUE</Position>
+      <TranslationSet>
+        <base loc="en">Enable</base>
+        <tran loc="ar">تمكين</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>THRESHOLD_LEVEL_INFO_90</Position>
+      <TranslationSet>
+        <base loc="en">Limit: 30min/day</base>
+        <tran loc="ar">الحد: ٣٠د/يوم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>THRESHOLD_FOOTER</Position>
+      <TranslationSet>
+        <base loc="en">Receive a notification when the average sound level over 3 minutes reaches or exceeds %@.\n\nDaily limits are derived from World Health Organization recommendations.\n\nSound levels are measured in A-weighted decibels.</base>
+        <tran loc="ar">تلقى إشعارًا إذا وصل متوسط مستوى الضوضاء أو تجاوز %@ لأكثر من ٣ دقائق.\n\nيتم استخلاص الحدود اليومية من توصيات منظمة الصحة العالمية.\nيتم قياس مستويات الأصوات بالديسيبل بمنحنى A-Weight</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>THRESHOLD_LEVEL_INFO_85</Position>
+      <TranslationSet>
+        <base loc="en">Limit: 1hr 45min/day</base>
+        <tran loc="ar">الحد: ساعة و ٤٥د/يوم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ENVIRONMENTAL_EXPOSURE_AREA_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Noise</base>
+        <tran loc="ar">الضوضاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 
+  Localizable.strings
+  Dose
+
+  Created by Tyrone Chen on 10/3/18.
+  Copyright © 2018 Apple Inc. All rights reserved.
+</Description>
+      <Position>MAIN_PANE_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Noise</base>
+        <tran loc="ar">الضوضاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>NOTIFICATION_COALESCING_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Notification Grouping</base>
+        <tran loc="ar">تجميع الإشعارات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>THRESHOLD_LEVEL_INFO_95</Position>
+      <TranslationSet>
+        <base loc="en">Limit: 10min/day</base>
+        <tran loc="ar">الحد: ١٠د/يوم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ENVIRONMENTAL_EXPOSURE_ENABLE_FOOTER</Position>
+      <TranslationSet>
+        <base loc="en">Use the microphone to measure environmental sound levels throughout the day. Your watch does not record or save any sounds to measure these levels.</base>
+        <tran loc="ar">استخدم الميكروفون لقياس مستويات الصوت المحيط على مدار اليوم. لا تسجِّل ساعتك أو تحفظ أي أصوات لقياس هذه المستويات.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>THRESHOLD_LEVEL_INFO_100</Position>
+      <TranslationSet>
+        <base loc="en">Limit: 3min/day</base>
+        <tran loc="ar">الحد: ٣د/يوم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ENVIRONMENTAL_EXPOSURE_ENABLE_NAME</Position>
+      <TranslationSet>
+        <base loc="en">Environmental Sound Measurements</base>
+        <tran loc="ar">قياسات الصوت المحيط</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>NOTIFICATION_COALESCING_AUTO</Position>
+      <TranslationSet>
+        <base loc="en">Automatically</base>
+        <tran loc="ar">تلقائيًا</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>TRESHOLD_OFF_INFO</Position>
+      <TranslationSet>
+        <base loc="en">No notifications</base>
+        <tran loc="ar">لا توجد إشعارات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ENVIRONMENTAL_EXPOSURE_NOTIFICATION_HEADER</Position>
+      <TranslationSet>
+        <base loc="en">Noise Notifications</base>
+        <tran loc="ar">إشعارات الضوضاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ONBOARDING_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Noise Notifications</base>
+        <tran loc="ar">إشعارات الضوضاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>NOTIFICATION_COALESCING_BY_APP</Position>
+      <TranslationSet>
+        <base loc="en">By App</base>
+        <tran loc="ar">حسب التطبيق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ONBOARDING_SUBTITLE</Position>
+      <TranslationSet>
+        <base loc="en">Apple Watch can check sound levels nearby and notify you when they might affect your hearing. This uses the microphone but does not record or save any sounds.</base>
+        <tran loc="ar">يمكن لـ Apple Watch التحقق من مستويات الصوت بالقرب منك وإعلامك عندما تكتشف أنها قد تؤثر في سلامة سمعك. تستخدم هذه الميزة الميكروفون لكنها لا تسجل أو تحفظ أي أصوات.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>LEARN_MORE_LINK</Position>
+      <TranslationSet>
+        <base loc="en">Learn more about these notifications.</base>
+        <tran loc="ar">اعرف أكثر عن هذه الإشعارات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ENVIRONMENTAL_EXPOSURE_NOTIFICATION_FOOTER</Position>
+      <TranslationSet>
+        <base loc="en">Receive a notification when Apple Watch identifies sound levels that could be harmful to your hearing.\n%@\n\nWater or wind can affect the accuracy of sound levels.</base>
+        <tran loc="ar">ستتلقى إشعارًا عندما تتعرف Apple Watch على مستويات صوت قد تكون مؤذية لسمعك.\n%@\n\nقد يؤدي التعرض للماء أو الريح إلى قياسات غير دقيقة لمستويات الصوت.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>THRESHOLD_LEVEL_INFO_80</Position>
+      <TranslationSet>
+        <base loc="en">Limit: 5hr 30min/day</base>
+        <tran loc="ar">الحد: ٥س و ٤٥د/يوم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>NOTIFICATION_COALESCING_OFF</Position>
+      <TranslationSet>
+        <base loc="en">Off</base>
+        <tran loc="ar">إيقاف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>TRESHOLD_OFF</Position>
+      <TranslationSet>
+        <base loc="en">Off</base>
+        <tran loc="ar">إيقاف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ONBOARDING_LATER</Position>
+      <TranslationSet>
+        <base loc="en">Set Up Later</base>
+        <tran loc="ar">الإعداد لاحقًا</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>Dosimetry/System/Library/NanoPreferenceBundles/Applications/DoseSettings.bundle/en.lproj/Localizable.stringsdict</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>/THRESHOLD_LEVEL:dict/decibels:dict/few:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%d decibels</base>
+        <tran loc="ar">‏%d ديسبل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/THRESHOLD_LEVEL:dict/decibels:dict/many:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%d decibels</base>
+        <tran loc="ar">‏%d ديسبل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/THRESHOLD_LEVEL:dict/decibels:dict/other:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%d decibels</base>
+        <tran loc="ar">‏%d ديسبل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/THRESHOLD_LEVEL:dict/decibels:dict/two:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%d decibels</base>
+        <tran loc="ar">‏%d ديسبل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/THRESHOLD_LEVEL:dict/decibels:dict/zero:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%d decibels</base>
+        <tran loc="ar">‏%d ديسبل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/THRESHOLD_LEVEL:dict/decibels:dict/one:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%d decibel</base>
+        <tran loc="ar">‏%d ديسبل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/THRESHOLD_LEVEL:dict/NSStringLocalizedFormatKey:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%#@decibels@</base>
+        <tran loc="ar">%#@decibels@</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>Dosimetry/System/Library/NanoPreferenceBundles/Applications/DoseSettings.bundle/en.lproj/InfoPlist.strings</Filepath>
+    <TextItem>
+      <Description> 
+  InfoPlist.strings
+  Dose
+
+  Created by Tu Nguyen on 5/22/19.
+  Copyright © 2019 Apple Inc. All rights reserved.
+</Description>
+      <Position>CFBundleDisplayName</Position>
+      <TranslationSet>
+        <base loc="en">Noise</base>
+        <tran loc="ar">الضوضاء</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>Dosimetry/System/Library/NanoTimeKit/ComplicationBundles/DoseComplicationsCompanion.bundle/en.lproj/Localizable.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>LOUD_LABEL</Position>
+      <TranslationSet>
+        <base loc="en">Loud</base>
+        <tran loc="ar">عالٍ</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>LEVEL_SHORT</Position>
+      <TranslationSet>
+        <base loc="en">%@dB</base>
+        <tran loc="ar">%@ ديسبل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SUSPENDED_LABEL</Position>
+      <TranslationSet>
+        <base loc="en">Suspended</base>
+        <tran loc="ar">معلقة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>BEZEL_SUSPENDED_LABEL</Position>
+      <TranslationSet>
+        <base loc="en">Noise Suspended</base>
+        <tran loc="ar">تم تعليق "الضوضاء"</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SETUP_NOISE</Position>
+      <TranslationSet>
+        <base loc="en">Set Up Noise</base>
+        <tran loc="ar">الإعداد ميزة الضوضاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>MEASUREMENTS_LABEL</Position>
+      <TranslationSet>
+        <base loc="en">Measurements</base>
+        <tran loc="ar">قياسات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>OK_LABEL</Position>
+      <TranslationSet>
+        <base loc="en">OK</base>
+        <tran loc="ar">تم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UNKNOWN_DECIBELS_LEVEL</Position>
+      <TranslationSet>
+        <base loc="en"> </base>
+        <tran loc="ar"> </tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SETUP_LONG</Position>
+      <TranslationSet>
+        <base loc="en">Tap to Set Up</base>
+        <tran loc="ar">اضغط للإعداد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 
+  Localizable.strings
+  Dose
+
+  Created by Tyrone Chen on 10/16/18.
+  Copyright © 2018 Apple Inc. All rights reserved.
+</Description>
+      <Position>APP_NAME</Position>
+      <TranslationSet>
+        <base loc="en">Noise</base>
+        <tran loc="ar">الضوضاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CLASSIFIER_SUSPENDED</Position>
+      <TranslationSet>
+        <base loc="en">Noise</base>
+        <tran loc="ar">الضوضاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>BEZEL_LABEL</Position>
+      <TranslationSet>
+        <base loc="en">%@ Noise Level</base>
+        <tran loc="ar">مستوى ضوضاء %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UNIT_LABEL_LONG</Position>
+      <TranslationSet>
+        <base loc="en">decibels</base>
+        <tran loc="ar">ديسيبل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>HEADER_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Noise Level</base>
+        <tran loc="ar">مستوى الضوضاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SETUP_SHORT</Position>
+      <TranslationSet>
+        <base loc="en">Set Up</base>
+        <tran loc="ar">إعداد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> i.e. OK, 74dB</Description>
+      <Position>LEVEL_SUMMARY</Position>
+      <TranslationSet>
+        <base loc="en">%@, %@dB</base>
+        <tran loc="ar">‏%@، %@ ديسيبل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UNIT_LABEL</Position>
+      <TranslationSet>
+        <base loc="en">dB</base>
+        <tran loc="ar">ديسيبل</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>Dosimetry/System/Library/NanoTimeKit/ComplicationBundles/DoseComplicationsCompanion.bundle/en.lproj/Localizable.stringsdict</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>/LEVEL_LONG:dict/decibels:dict/few:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%d decibels</base>
+        <tran loc="ar">‏%d ديسبل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/LEVEL_LONG:dict/decibels:dict/many:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%d decibels</base>
+        <tran loc="ar">‏%d ديسبل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/LEVEL_LONG:dict/decibels:dict/other:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%d decibels</base>
+        <tran loc="ar">‏%d ديسبل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/LEVEL_LONG:dict/decibels:dict/two:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%d decibels</base>
+        <tran loc="ar">‏%d ديسبل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/LEVEL_LONG:dict/decibels:dict/zero:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%d decibels</base>
+        <tran loc="ar">‏%d ديسبل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/LEVEL_LONG:dict/decibels:dict/one:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%d decibel</base>
+        <tran loc="ar">‏%d ديسبل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/LEVEL_LONG:dict/NSStringLocalizedFormatKey:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%#@decibels@</base>
+        <tran loc="ar">%#@decibels@</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+</Proj>

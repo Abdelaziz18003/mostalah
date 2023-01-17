@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Proj>
+  <ProjName>SystemVersion</ProjName>
+  <File>
+    <Filepath>SystemVersion/System/Library/CoreServices/SystemVersion.bundle/English.lproj/SystemVersion.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>Version</Position>
+      <TranslationSet>
+        <base loc="en">Version</base>
+        <tran loc="ar">الإصدار</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>FullVersionString</Position>
+      <TranslationSet>
+        <base loc="en">Version %@ (Build %@)</base>
+        <tran loc="ar">‫الإصدار %@ (البنية %@)‬</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Build</Position>
+      <TranslationSet>
+        <base loc="en">Build</base>
+        <tran loc="ar">البنية</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+</Proj>

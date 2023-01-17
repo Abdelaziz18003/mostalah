@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Proj>
+  <ProjName>NanoBackupDaemon</ProjName>
+  <File>
+    <Filepath>NanoBackupDaemon/System/Library/UsageBundles/NanoBackupUsage.bundle/en.lproj/Localization.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>REMOVE_ALL</Position>
+      <TranslationSet>
+        <base loc="en">Remove Now</base>
+        <tran loc="ar">إزالة الآن</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CANCEL</Position>
+      <TranslationSet>
+        <base loc="en">Cancel</base>
+        <tran loc="ar">إلغاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 
+  Localization.strings
+  NanoBackup
+
+  Created by Julien Poumailloux on 4/12/14.
+  Copyright (c) 2014 Apple Inc. All rights reserved.
+</Description>
+      <Position>NANO_BACKUPS</Position>
+      <TranslationSet>
+        <base loc="en">Apple Watch Backups</base>
+        <tran loc="ar">نسخ Apple Watch الاحتياطية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>REMOVE_ALL_BUTTON</Position>
+      <TranslationSet>
+        <base loc="en">Remove All Backups</base>
+        <tran loc="ar">إزالة كل النسخ الاحتياطية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>REMOVE_ALL_MESSAGE</Position>
+      <TranslationSet>
+        <base loc="en">This will delete all your Apple Watch backups.</base>
+        <tran loc="ar">سيؤدي ذلك إلى حذف جميع نسخ Apple Watch الاحتياطية.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Arguments: (1) case size, (2) enclosure material, (3) date the backup was taken
+ Example: "38mm case - Rose Gold - on 12/20/2014" </Description>
+      <Position>DESCRIPTION_FORMAT_%@_%@_%@</Position>
+      <TranslationSet>
+        <base loc="en">%1$@ - %2$@ on %3$@</base>
+        <tran loc="ar">‏%1$@ - ‏%2$@ بتاريخ %3$@</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+</Proj>

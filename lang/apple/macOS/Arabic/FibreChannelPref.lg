@@ -1,0 +1,623 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Proj>
+  <ProjName>FibreChannelPref</ProjName>
+  <File>
+    <Filepath>FibreChannelPref/System/Library/PreferencePanes/FibreChannel.prefPane/Contents/Resources/English.lproj/InfoPlist.strings</Filepath>
+    <TextItem>
+      <Description> Localized versions of Info.plist keys </Description>
+      <Position>CFBundleName</Position>
+      <TranslationSet>
+        <base loc="en">Fibre Channel</base>
+        <tran loc="ar">Fibre Channel</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>NSPrefPaneIconFile</Position>
+      <TranslationSet>
+        <base loc="en">Fibre Channel</base>
+        <tran loc="ar">Fibre Channel</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>NSPrefPaneIconLabel</Position>
+      <TranslationSet>
+        <base loc="en">Fibre Channel</base>
+        <tran loc="ar">Fibre Channel</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>NSHumanReadableCopyright</Position>
+      <TranslationSet>
+        <base loc="en">Copyright (c) 2010-2014, Apple Inc.</base>
+        <tran loc="ar">Copyright (c) 2010-2014 Apple Inc.</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>FibreChannelPref/System/Library/PreferencePanes/FibreChannel.prefPane/Contents/Resources/English.lproj/FibreChannelPref.strings</Filepath>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Automatic"; ObjectID = "311"; </Description>
+      <Position>311.title</Position>
+      <TranslationSet>
+        <base loc="en">Automatic</base>
+        <tran loc="ar">تلقائي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Automatic"; ObjectID = "319"; </Description>
+      <Position>319.title</Position>
+      <TranslationSet>
+        <base loc="en">Automatic</base>
+        <tran loc="ar">تلقائي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "WWPN:"; ObjectID = "100305"; </Description>
+      <Position>100305.title</Position>
+      <TranslationSet>
+        <base loc="en">WWPN:</base>
+        <tran loc="ar">:WWPN</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "System Font Text"; ObjectID = "100348"; </Description>
+      <Position>100348.title</Position>
+      <TranslationSet>
+        <base loc="en">System Font Text</base>
+        <tran loc="ar">نص خط النظام</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "System Font Text"; ObjectID = "100349"; </Description>
+      <Position>100349.title</Position>
+      <TranslationSet>
+        <base loc="en">System Font Text</base>
+        <tran loc="ar">نص خط النظام</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "System Font Text"; ObjectID = "200446"; </Description>
+      <Position>200446.title</Position>
+      <TranslationSet>
+        <base loc="en">System Font Text</base>
+        <tran loc="ar">نص خط النظام</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Arbitrated Loop"; ObjectID = "317"; </Description>
+      <Position>317.title</Position>
+      <TranslationSet>
+        <base loc="en">Arbitrated Loop</base>
+        <tran loc="ar">حلقة اختيارية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Choose..."; ObjectID = "100333"; </Description>
+      <Position>100333.title</Position>
+      <TranslationSet>
+        <base loc="en">Choose...</base>
+        <tran loc="ar">اختيار...</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Point to Point"; ObjectID = "318"; </Description>
+      <Position>318.title</Position>
+      <TranslationSet>
+        <base loc="en">Point to Point</base>
+        <tran loc="ar">نقطة إلى نقطة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Port Topology:"; ObjectID = "100314"; </Description>
+      <Position>100314.title</Position>
+      <TranslationSet>
+        <base loc="en">Port Topology:</base>
+        <tran loc="ar">طوبولوجيا المنفذ:</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSWindow"; title = "Hard Loop ID"; ObjectID = "104"; </Description>
+      <Position>104.title</Position>
+      <TranslationSet>
+        <base loc="en">Hard Loop ID</base>
+        <tran loc="ar">معرّف الحلقة الصلبة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "OK"; ObjectID = "100345"; </Description>
+      <Position>100345.title</Position>
+      <TranslationSet>
+        <base loc="en">OK</base>
+        <tran loc="ar">موافق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Port Speed:"; ObjectID = "100320"; </Description>
+      <Position>100320.title</Position>
+      <TranslationSet>
+        <base loc="en">Port Speed:</base>
+        <tran loc="ar">سرعة المنفذ:</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTabViewItem"; label = "View"; ObjectID = "300"; </Description>
+      <Position>300.label</Position>
+      <TranslationSet>
+        <base loc="en">View</base>
+        <tran loc="ar">عرض</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "1"; ObjectID = "100106"; </Description>
+      <Position>100106.title</Position>
+      <TranslationSet>
+        <base loc="en">1</base>
+        <tran loc="ar">١</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Enable Hard Loop ID"; ObjectID = "100366"; </Description>
+      <Position>100366.title</Position>
+      <TranslationSet>
+        <base loc="en">Enable Hard Loop ID</base>
+        <tran loc="ar">تمكين معرّف الحلقة الصلبة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTableColumn"; headerCell.title = "Fibre Channel Ports"; ObjectID = "402"; </Description>
+      <Position>402.headerCell.title</Position>
+      <TranslationSet>
+        <base loc="en">Fibre Channel Ports</base>
+        <tran loc="ar">منافذ Fibre Channel</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Cancel"; ObjectID = "100346"; </Description>
+      <Position>100346.title</Position>
+      <TranslationSet>
+        <base loc="en">Cancel</base>
+        <tran loc="ar">إلغاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTabViewItem"; label = "Tab"; ObjectID = "436"; </Description>
+      <Position>436.label</Position>
+      <TranslationSet>
+        <base loc="en">Tab</base>
+        <tran loc="ar">علامة تبويب</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Choose a hard loop ID:"; ObjectID = "100377"; </Description>
+      <Position>100377.title</Position>
+      <TranslationSet>
+        <base loc="en">Choose a hard loop ID:</base>
+        <tran loc="ar">اختيار معرّف الحلقة الصلبة:</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSWindow"; title = "&lt;&lt; do not localize &gt;&gt;"; ObjectID = "12"; </Description>
+      <Position>12.title</Position>
+      <TranslationSet>
+        <base loc="en">&lt;&lt; do not localize &gt;&gt;</base>
+        <tran loc="ar">&lt;&lt; do not localize &gt;&gt;</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenu"; title = "OtherViews"; ObjectID = "308"; </Description>
+      <Position>308.title</Position>
+      <TranslationSet>
+        <base loc="en">OtherViews</base>
+        <tran loc="ar">OtherViews</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenu"; title = "OtherViews"; ObjectID = "316"; </Description>
+      <Position>316.title</Position>
+      <TranslationSet>
+        <base loc="en">OtherViews</base>
+        <tran loc="ar">OtherViews</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Firmware:"; ObjectID = "200444"; </Description>
+      <Position>200444.title</Position>
+      <TranslationSet>
+        <base loc="en">Firmware:</base>
+        <tran loc="ar">البرنامج الثابت:</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "WWNN:"; ObjectID = "100322"; </Description>
+      <Position>100322.title</Position>
+      <TranslationSet>
+        <base loc="en">WWNN:</base>
+        <tran loc="ar">:WWNN</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSBox"; title = "Box"; ObjectID = "303"; </Description>
+      <Position>303.title</Position>
+      <TranslationSet>
+        <base loc="en">Box</base>
+        <tran loc="ar">صندوق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "100402"; </Description>
+      <Position>100402.title</Position>
+      <TranslationSet>
+        <base loc="en">Text Cell</base>
+        <tran loc="ar">خلية النص</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Hard Loop ID:"; ObjectID = "100312"; </Description>
+      <Position>100312.title</Position>
+      <TranslationSet>
+        <base loc="en">Hard Loop ID:</base>
+        <tran loc="ar">معرّف الحلقة الصلبة:</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>FibreChannelPref/System/Library/PreferencePanes/FibreChannel.prefPane/Contents/Resources/English.lproj/Localizable.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>Online</Position>
+      <TranslationSet>
+        <base loc="en">The port link is up.</base>
+        <tran loc="ar">رابط المنفذ قيد التشغيل.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>alert-no-cards</Position>
+      <TranslationSet>
+        <base loc="en">Make sure the Apple Fibre Channel card is properly installed and try again.</base>
+        <tran loc="ar">تأكد من صحة تركيب بطاقة Apple Fibre Channel ثم أعد المحاولة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Status string.</Description>
+      <Position>Offline</Position>
+      <TranslationSet>
+        <base loc="en">The port link is down.</base>
+        <tran loc="ar">رابط المنفذ متعطل.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ww-node-name-tooltip</Position>
+      <TranslationSet>
+        <base loc="en">World Wide Node Name</base>
+        <tran loc="ar">اسم نقطة توصيل الشبكة العالمية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>alert-fibreconfig-error</Position>
+      <TranslationSet>
+        <base loc="en">There was an error with the fibreconfig tool.</base>
+        <tran loc="ar">حدث خطأ في أداة fibreconfig.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> is replaced by one of the speed status strings below.
+ This is to allow for different placements within the
+ sentance of the status string.</Description>
+      <Position>link-status-nolink</Position>
+      <TranslationSet>
+        <base loc="en">No Link Established</base>
+        <tran loc="ar">لم يتم إنشاء أي رابط</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>unknown</Position>
+      <TranslationSet>
+        <base loc="en">&lt;unknown&gt;</base>
+        <tran loc="ar">&lt;غير معروف&gt;</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>restart-required</Position>
+      <TranslationSet>
+        <base loc="en">Restart required for settings to take effect.</base>
+        <tran loc="ar">إعادة التشغيل مطلوبة حتى يتم تنفيذ الإعدادات.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>alert-restart-required</Position>
+      <TranslationSet>
+        <base loc="en">A restart is required for new settings to take effect.  Would you like to restart now?</base>
+        <tran loc="ar">إعادة التشغيل مطلوبة حتى يتم تنفيذ الإعدادات الجديدة.  هل ترغب في إعادة التشغيل الآن؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> speed status menu string.</Description>
+      <Position>gigabit-per-second-menu-title</Position>
+      <TranslationSet>
+        <base loc="en">%d Gbps</base>
+        <tran loc="ar">‏%d غيغابت/ث</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Topology status string.
+ Note that the "&lt;&lt;replace&gt;&gt;" in this string</Description>
+      <Position>toplogy-status</Position>
+      <TranslationSet>
+        <base loc="en"> The port topology is set to &lt;&lt;replace&gt;&gt;.</base>
+        <tran loc="ar"> تم تعيين طوبولوجيا المنفذ على &lt;&lt;استبدال&gt;&gt;.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>automatic-arbitrated-loop</Position>
+      <TranslationSet>
+        <base loc="en">configure automatically and is currently Arbitrated Loop</base>
+        <tran loc="ar">التكوين تلقائيًا وهو حاليًا حلقة اختيارية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>arbitrated-loop</Position>
+      <TranslationSet>
+        <base loc="en">Arbitrated Loop</base>
+        <tran loc="ar">حلقة اختيارية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>alert-ok-button</Position>
+      <TranslationSet>
+        <base loc="en">OK</base>
+        <tran loc="ar">موافق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>alert-non-executeable-tool</Position>
+      <TranslationSet>
+        <base loc="en">The fibreconfig tool is not executable and may need to be reinstalled.</base>
+        <tran loc="ar">أداة fibreconfig غير قابلة للتنفيذ وقد يلزم إعادة تثبيتها.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>link-status-nolink-unsupported</Position>
+      <TranslationSet>
+        <base loc="en">No Link Established (Unsupported Cable)</base>
+        <tran loc="ar">لم يتم إنشاء أي رابط (الكبل غير مدعوم)</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>incompatible-driver</Position>
+      <TranslationSet>
+        <base loc="en">This application requires version 1.1.0 or later of AppleLSIFusionMPT.kext.  Please make sure you have installed the newest driver and try again.</base>
+        <tran loc="ar">يتطلب هذا التطبيق الإصدار 1.1.0 أو إصدار أحدث من AppleLSIFusionMPT.kext.  الرجاء التأكد من تثبيت أحدث برنامج تشغيل ثم إعادة المحاولة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>automatic-1-gigabit</Position>
+      <TranslationSet>
+        <base loc="en">configure automatically and is currently %d Gb/s</base>
+        <tran loc="ar">التكوين تلقائيًا وهو حاليًا %d غيغابت/ث</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>automatic-2-gigabit</Position>
+      <TranslationSet>
+        <base loc="en">configure automatically and is currently %d Gb/s</base>
+        <tran loc="ar">التكوين تلقائيًا وهو حاليًا %d غيغابت/ث</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>alert-cancel-button</Position>
+      <TranslationSet>
+        <base loc="en">Cancel</base>
+        <tran loc="ar">إلغاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>link-status-link-unsupported</Position>
+      <TranslationSet>
+        <base loc="en">Link Established (Unsupported Cable)</base>
+        <tran loc="ar">تم إنشاء الرابط (الكبل غير مدعوم)</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>automatic-point-to-point</Position>
+      <TranslationSet>
+        <base loc="en">configure automatically and is currently Point-to-Point</base>
+        <tran loc="ar">التكوين تلقائيًا وهو حاليًا نقطة إلى نقطة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>alert-no-button</Position>
+      <TranslationSet>
+        <base loc="en">No</base>
+        <tran loc="ar">لا</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>port-name-prefix</Position>
+      <TranslationSet>
+        <base loc="en">, Port </base>
+        <tran loc="ar">، المنفذ </tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> is replaced by one of the speed status strings below.
+ This is to allow for different placements within the
+ sentance of the status string.
+ topology status string.</Description>
+      <Position>point-to-point</Position>
+      <TranslationSet>
+        <base loc="en">Point-to-Point</base>
+        <tran loc="ar">نقطة إلى نقطة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Speed status string.
+ Note that the "&lt;&lt;replace&gt;&gt;" in this string</Description>
+      <Position>speed-status</Position>
+      <TranslationSet>
+        <base loc="en"> The speed is set to &lt;&lt;replace&gt;&gt;.</base>
+        <tran loc="ar"> تم تعيين السرعة على &lt;&lt;استبدال&gt;&gt;.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>speed-automatic</Position>
+      <TranslationSet>
+        <base loc="en">configure automatically</base>
+        <tran loc="ar">التكوين تلقائيًا</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>topology-automatic</Position>
+      <TranslationSet>
+        <base loc="en">configure automatically</base>
+        <tran loc="ar">التكوين تلقائيًا</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>alert-tool-title</Position>
+      <TranslationSet>
+        <base loc="en">fibreconfig Tool Error</base>
+        <tran loc="ar">خطأ في أداة fibreconfig</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ww-port-name-tooltip</Position>
+      <TranslationSet>
+        <base loc="en">World Wide Port Name</base>
+        <tran loc="ar">اسم منفذ الشبكة العالمية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>alert-restart-title</Position>
+      <TranslationSet>
+        <base loc="en">Restart system</base>
+        <tran loc="ar">إعادة تشغيل النظام</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>alert-yes-button</Position>
+      <TranslationSet>
+        <base loc="en">Yes</base>
+        <tran loc="ar">نعم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>default-filename</Position>
+      <TranslationSet>
+        <base loc="en">Fibre Channel Cards</base>
+        <tran loc="ar">بطاقات Fibre Channel</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>alert-missing-tool</Position>
+      <TranslationSet>
+        <base loc="en">The fibreconfig tool is missing.</base>
+        <tran loc="ar">أداة fibreconfig مفقودة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> speed status string.</Description>
+      <Position>1-gigabit-per-second</Position>
+      <TranslationSet>
+        <base loc="en">%d Gb/s</base>
+        <tran loc="ar">‏%d غيغابت/ث</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>2-gigabit-per-second</Position>
+      <TranslationSet>
+        <base loc="en">%d Gb/s</base>
+        <tran loc="ar">‏%d غيغابت/ث</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>slot-name-prefix</Position>
+      <TranslationSet>
+        <base loc="en">Slot </base>
+        <tran loc="ar">الفتحة </tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Misc Strings</Description>
+      <Position>fibre-channel-card-name</Position>
+      <TranslationSet>
+        <base loc="en">Fibre Channel Card</base>
+        <tran loc="ar">بطاقة Fibre Channel</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Alerts</Description>
+      <Position>incompatible-driver-title</Position>
+      <TranslationSet>
+        <base loc="en">Please install latest driver</base>
+        <tran loc="ar">الرجاء تثبيت أحدث برنامج تشغيل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>alert-no-cards-title</Position>
+      <TranslationSet>
+        <base loc="en">No Apple Fibre Channel card found</base>
+        <tran loc="ar">لم يتم العثور على أي بطاقة Apple Fibre Channel</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>external-device</Position>
+      <TranslationSet>
+        <base loc="en">External</base>
+        <tran loc="ar">خارجي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>link-status-link</Position>
+      <TranslationSet>
+        <base loc="en">Link Established</base>
+        <tran loc="ar">تم إنشاء الرابط</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>FibreChannelPref/System/Library/PreferencePanes/FibreChannel.prefPane/Contents/XPCServices/com.apple.prefpanel.fibrechannel.remoteservice.xpc/Contents/Resources/en.lproj/InfoPlist.strings</Filepath>
+    <TextItem>
+      <Description> Localized versions of Info.plist keys </Description>
+      <Position>CFBundleVisibleComponentName</Position>
+      <TranslationSet>
+        <base loc="en">System Preferences</base>
+        <tran loc="ar">تفضيلات النظام</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+</Proj>

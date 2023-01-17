@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Proj>
+  <ProjName>ApplicationFirewall</ProjName>
+  <File>
+    <Filepath>ApplicationFirewall/System/Library/Extensions/ALF.kext/Contents/Resources/English.lproj/InfoPlist.strings</Filepath>
+    <TextItem>
+      <Description> Localized versions of Info.plist keys </Description>
+      <Position>CFBundleName</Position>
+      <TranslationSet>
+        <base loc="en">ALF</base>
+        <tran loc="ar">ALF</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>NSHumanReadableCopyright</Position>
+      <TranslationSet>
+        <base loc="en">© Apple, 2006</base>
+        <tran loc="ar">© Apple, 2006</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>ApplicationFirewall/System/Library/CoreServices/ApplicationFirewall.bundle/Contents/Resources/English.lproj/Localizable.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>Do you want the application \\U201C%@\\U201D to accept incoming network connections?</Position>
+      <TranslationSet>
+        <base loc="en">Do you want the application “%@” to accept incoming network connections?</base>
+        <tran loc="ar">هل ترغب في أن يقوم التطبيق \"%@\" بقبول اتصالات الشبكة الواردة؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Always Allow</Position>
+      <TranslationSet>
+        <base loc="en">Allow</base>
+        <tran loc="ar">السماح</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Application Firewall</Position>
+      <TranslationSet>
+        <base loc="en">Application Firewall</base>
+        <tran loc="ar">جدار حماية التطبيق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Deny</Position>
+      <TranslationSet>
+        <base loc="en">Deny</base>
+        <tran loc="ar">رفض</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Clicking %@ may limit the application\\U2019s behavior. This setting can be changed in the Firewall pane of Security &amp; Privacy preferences.</Position>
+      <TranslationSet>
+        <base loc="en">Clicking %@ may limit the application’s behavior. This setting can be changed in the Firewall pane of Security &amp; Privacy preferences.</base>
+        <tran loc="ar">قد يؤدي النقر على %@ إلى تقييد إجراءات التطبيق. يمكن تغيير هذا الإعداد من قسم جدار الحماية في تفضيلات الأمان والخصوصية.</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+</Proj>

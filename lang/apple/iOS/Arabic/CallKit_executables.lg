@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Proj>
+  <ProjName>CallKit_executables</ProjName>
+  <File>
+    <Filepath>CallKit_executables/System/Library/PreferenceBundles/ClassificationAndReportingSettingsBundle.bundle/en.lproj/ILClassificationSettings.strings</Filepath>
+    <TextItem>
+      <Description> 
+  ILClassificationSettings.strings
+  ILClassificationSettings
+
+  Created by Spencer Lewson on 4/3/18.
+
+
+ Marketing name for the SMS/Call Classification and Reporting feature </Description>
+      <Position>REPORTING_MARKETING_NAME</Position>
+      <TranslationSet>
+        <base loc="en">SMS/Call Reporting</base>
+        <tran loc="ar">الإبلاغ عن المكالمات/رسائل SMS</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Enabling extension alert actions </Description>
+      <Position>ENABLE_EXTENSION</Position>
+      <TranslationSet>
+        <base loc="en">Enable</base>
+        <tran loc="ar">تمكين</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Misc button uses </Description>
+      <Position>CANCEL</Position>
+      <TranslationSet>
+        <base loc="en">Cancel</base>
+        <tran loc="ar">إلغاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Select that no extension is enabled </Description>
+      <Position>NO_EXTENSION_SELECTED</Position>
+      <TranslationSet>
+        <base loc="en">None</base>
+        <tran loc="ar">لا شيء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Enabling extension alert title (Enable SMS/Call Classification extension AppName) </Description>
+      <Position>EXTENSION_ENABLE_ALERT_TITLE_MARKETING_NAME_%@_EXTENSION_NAME_%@</Position>
+      <TranslationSet>
+        <base loc="en">Enable %@ extension %@?</base>
+        <tran loc="ar">هل ترغب في تمكين ملحق %@ لـ "%@"؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Enabling extension alert warning </Description>
+      <Position>EXTENSION_ENABLE_ALERT_WARNING_EXTENSION_NAME_%@</Position>
+      <TranslationSet>
+        <base loc="en">Enabling this %@ allows your device to send to the developer of this app information about your calls and text messages you choose to report.  For received calls that you report, the developer will receive information about the call, such as the caller’s number and the time of the call. For received text messages that you report, the developer will receive all of the text, content, and sender information. These messages may include verification codes from banks or other institutions, as well as other personal or sensitive information that may be in text messages.</base>
+        <tran loc="ar">سيسمح تمكين %@ لجهازك بإرسال معلومات إلى مطوّر هذا التطبيق عن المكالمات والرسائل النصية التي تختار أن تبلغ عنها. النسبة للمكالمات المستلمة التي تبلغ عنها،  سيستلم المطوّر معلومات عن المكالمة مثل رقم المتصل ووقت الاتصال. أما الرسائل النصية المستلمة التي تبلغ عنها، فسيستلم المطوّر كل نص الرسالة والمحتوى ومعلومات المتصل. وقد تتضمن محتويات تلك الرسائل رموز تحقق من البنوك أو غيرها من المؤسسات، إضافة إلى المعلومات الشخصية الحساسة التي قد تكون موجودة في الرسائل النصية.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>REPORTING_MARKETING_NAME_%@_EXTENSIONS</Position>
+      <TranslationSet>
+        <base loc="en">%@ Extensions</base>
+        <tran loc="ar">ملحقات %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Explanatory text presented in the settings </Description>
+      <Position>ABOUT_REPORT_EXTENSION_MARKETING_NAME_%@_%@_%@_%@_%@_NO_SELECTION_%@</Position>
+      <TranslationSet>
+        <base loc="en">About %@ Extensions\n\n%@ extensions provide a way for you to choose to report selected phone calls and incoming text messages to third-party developers. For received calls that you report, the developer will receive information about the call, such as the caller’s number and the time of the call. For received text messages that you report, the developer will receive all of the text, content, and sender information. These messages may include verification codes from banks or other institutions, as well as other personal or sensitive information that may be in text messages.\n\nIf you use a third-party provider’s %@ extension, you are subject to the app provider’s terms, privacy policy, and practices. We encourage you to learn about the terms, privacy policies, and practices of those third parties.\n\nYou may choose to disable a %@ extension at any time by going to Settings &gt; Phone &gt; %@ and selecting %@ in the list.</base>
+        <tran loc="ar">حول ملحقات %@\n\n تقدم لك ملحقات %@ طريقة للإبلاغ عن مكالمات ورسائل مستلمة محددة إلى مطوري التطبيقات الخارجية. بالنسبة للمكالمات المستلمة التي تبلغ عنها، سيستلم المطوّر معلومات عن المكالمة مثل رقم المتصل ووقت الاتصال. أما الرسائل النصية المستلمة التي تبلغ عنها، فسيستلم المطوّر كل نص الرسالة والمحتوى ومعلومات المتصل. وقد تتضمن محتويات تلك الرسائل رموز تحقق من البنوك أو غيرها من المؤسسات، إضافة إلى المعلومات الشخصية الحساسة التي قد تكون موجودة في الرسائل النصية.\n\nإذا اخترت ملحق %@ من مطوّر خارجي، فستكون خاضعًا للشروط والممارسات وسياسة الخصوصية الخاصة بالتطبيق. لذلك، يوصى بالاطلاع على الشروط والممارسات وسياسة الخصوصية المبتعة لدى هذه التطبيقات الخارجية. يمكنك أن تختار تعطيل ملحق %@ في أي وقت من الإعدادات &gt; الهاتف &gt; %@ واختيار %@ في القائمة.</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+</Proj>

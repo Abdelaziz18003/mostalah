@@ -1,0 +1,1263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Proj>
+  <ProjName>PineBoard</ProjName>
+  <File>
+    <Filepath>PineBoard/Applications/PineBoard.app/en.lproj/InfoPlist.strings</Filepath>
+    <TextItem>
+      <Description> Localized versions of Info.plist keys </Description>
+      <Position>NSLocationAlwaysUsageDescription</Position>
+      <TranslationSet>
+        <base loc="en">Your location is used to determine the time of day.</base>
+        <tran loc="ar">يتم استخدام موقعك لتحديد الوقت خلال اليوم.</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>PineBoard/Applications/PreBoard.app/en.lproj/Localizable.strings</Filepath>
+    <TextItem>
+      <Description> 
+  Localizable.strings
+  PreBoard
+
+  Created by Patrick McClaughry on 7/9/17.
+  Copyright © 2017 Apple. All rights reserved.
+</Description>
+      <Position>PREDialogTitle</Position>
+      <TranslationSet>
+        <base loc="en">Recovery Mode</base>
+        <tran loc="ar">وضع الاسترداد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PREConfirmationMessage</Position>
+      <TranslationSet>
+        <base loc="en">Are you sure you want to reset all settings?\nYou will have to set up your Apple TV again.</base>
+        <tran loc="ar">هل ترغب بالتأكيد في إعادة تعيين كل الإعدادات؟\nستحتاج إلى إعداد الـ Apple TV مجددًا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PRERestartButton</Position>
+      <TranslationSet>
+        <base loc="en">Restart</base>
+        <tran loc="ar">إعادة التشغيل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PRECancelButton</Position>
+      <TranslationSet>
+        <base loc="en">Cancel</base>
+        <tran loc="ar">إلغاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PREMainMessage</Position>
+      <TranslationSet>
+        <base loc="en">Your Apple TV seems to be experiencing problems.\nYou can reset all settings and accounts by selecting Reset All Settings.\nTo restart without resetting, choose Restart.</base>
+        <tran loc="ar">يبدو أن الـ Apple TV يواجه بعض المشاكل.\nيمكنك إعادة تعيين جميع الإعدادات والحسابات بتحديد "إعادة تعيين جميع الإعدادات".\nلإعادة التشغيل دون تنفيذ إعادة التعيين، اختر "إعادة التشغيل".</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PREResetAllSettingsButton</Position>
+      <TranslationSet>
+        <base loc="en">Reset All Settings</base>
+        <tran loc="ar">إعادة تعيين جميع الإعدادات</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>PineBoard/Applications/PineBoard.app/en.lproj/Localizable.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>RunningSysdiagnoseTitle</Position>
+      <TranslationSet>
+        <base loc="en">Running analytics…</base>
+        <tran loc="ar">جاري تشغيل التحليلات…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Remote Viewing &amp; Lockdown Connection</Description>
+      <Position>ScreenSharingAlertTitle</Position>
+      <TranslationSet>
+        <base loc="en">Allow Screen Sharing?</base>
+        <tran loc="ar">السماح بمشاركة الشاشة؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PSD2QRCodeSubitle</Position>
+      <TranslationSet>
+        <base loc="en">Scan this code with a QR reader:</base>
+        <tran loc="ar">امسح هذا الرمز ضوئيًا باستخدام قارئ QR:</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AppleID</Position>
+      <TranslationSet>
+        <base loc="en">Apple ID:</base>
+        <tran loc="ar">‏Apple ID:</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>OSUpdateNoUpdatesText</Position>
+      <TranslationSet>
+        <base loc="en">Your Apple TV is up to date.</base>
+        <tran loc="ar">يحتوي الـ Apple TV الخاص بك على آخر تحديث.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ScreenSharingAlertSubmessage</Position>
+      <TranslationSet>
+        <base loc="en">To remove this device, go to Settings &gt; Remotes and Devices &gt; Remote App and Devices.</base>
+        <tran loc="ar">لإزالة هذا الجهاز، الرجاء الذهاب إلى الإعدادات &gt;أجهزة التحكم والأجهزة الأخرى &gt;تطبيق Remote والأجهزة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> %@ is device name</Description>
+      <Position>ScreenSharingActiveBulletinTitle</Position>
+      <TranslationSet>
+        <base loc="en">Screen Sharing with %@</base>
+        <tran loc="ar">مشاركة الشاشة مع %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AXMenuClosedCaptionAction</Position>
+      <TranslationSet>
+        <base loc="en">Closed Captions</base>
+        <tran loc="ar">الشرح المكتوب لأحداث العرض</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PSD2DividerText</Position>
+      <TranslationSet>
+        <base loc="en">OR</base>
+        <tran loc="ar">أو</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>OSUpdateFailedSubtext</Position>
+      <TranslationSet>
+        <base loc="en">Try again later.</base>
+        <tran loc="ar">حاول مرة أخرى لاحقًا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 
+  Localizable.strings
+  Pinecrest
+
+  Created by Nimrod Gat on 6/4/13.
+  Copyright (c) 2013-2015 Apple. All rights reserved.
+
+ For reference, use smart single and double quotes in all places: ’ “”</Description>
+      <Position>ButtonAccept</Position>
+      <TranslationSet>
+        <base loc="en">Accept</base>
+        <tran loc="ar">قبول</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PIPMoveButtonAXTitle</Position>
+      <TranslationSet>
+        <base loc="en">Move Picture-in-Picture</base>
+        <tran loc="ar">نقل \"صورة داخل صورة\"</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Like 12.3 Internal (17J543), spaces are NBSP</Description>
+      <Position>OSUpdateVersionInternalWithBuild</Position>
+      <TranslationSet>
+        <base loc="en">%@ Internal (%@)</base>
+        <tran loc="ar">%@ داخلي (%@)</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>OSUpdateConfirmYesButDownloadedMenuItem</Position>
+      <TranslationSet>
+        <base loc="en">Install</base>
+        <tran loc="ar">تثبيت</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>OSUpdateAutoConfirmReadyPrompt</Position>
+      <TranslationSet>
+        <base loc="en">An update is available to %@. Do you want to update this Apple TV now?</base>
+        <tran loc="ar">يوجد تحديث متوفر لـ %@. هل ترغب في تحديث هذا الـ Apple TV الآن؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SiriDataSharingOptInText</Position>
+      <TranslationSet>
+        <base loc="en">Help Apple improve Siri and Dictation by allowing Apple to store audio of your Siri and Dictation interactions from this Apple TV. Apple may review a sample of stored audio. You can change this later in the settings.\n\nThis data is not associated with your Apple ID, and will only be stored for a limited period.</base>
+        <tran loc="ar">ساعد Apple في تحسين Siri والإملاء عبر السماح لها بتخزين صوت تفاعلاتك مع Siri والإملاء من هذا الـ Apple TV؛ علمًا بأن Apple قد تراجع عينة من الصوت المخزّن. يمكنك تغيير ذلك لاحقًا في الإعدادات.\n\nهذه البيانات غير مقترنة بالـ Apple ID، وسيتم تخزينها لفترة محددة فقط.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Signin</Position>
+      <TranslationSet>
+        <base loc="en">Sign In</base>
+        <tran loc="ar">تسجيل الدخول</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>OSUpdateRestoreNoFullReplacementText</Position>
+      <TranslationSet>
+        <base loc="en">Apple TV can’t download the latest update right now. Try again later.</base>
+        <tran loc="ar">لا يستطيع الـ Apple TV تنزيل آخر تحديث الآن. حاول مرة أخرى لاحقًا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AXMenuDisplayFilterLightSensitivityAction</Position>
+      <TranslationSet>
+        <base loc="en">Light Sensitivity</base>
+        <tran loc="ar">حساسية الضوء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Application Trust</Description>
+      <Position>AppProfileNotTrustedTitle</Position>
+      <TranslationSet>
+        <base loc="en">Untrusted Enterprise Developer</base>
+        <tran loc="ar">مطور مؤسسة غير موثوق فيه</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>IssueDataConfirmationCancelItem</Position>
+      <TranslationSet>
+        <base loc="en">Don’t Export</base>
+        <tran loc="ar">عدم التصدير</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AppProfileExpiredTitleWithNameFormat</Position>
+      <TranslationSet>
+        <base loc="en">“%@” Isn’t Available</base>
+        <tran loc="ar">‏"%@" غير متوفر.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>OSUpdateConfirmNotReadyPromptNoVersion</Position>
+      <TranslationSet>
+        <base loc="en">An update is available. Do you want to download and install it now?</base>
+        <tran loc="ar">يوجد تحديث متوفر. هل ترغب في تنزيله وتثبيته الآن؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>OSUpdateConfirmTitle</Position>
+      <TranslationSet>
+        <base loc="en">Apple TV Update</base>
+        <tran loc="ar">تحديث Apple TV</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>OSUpdateConfirmNotReadySubtextButDownloadedFR</Position>
+      <TranslationSet>
+        <base loc="en">This update may take some time to complete. Do not unplug your Apple TV while it prepares the update, restarts, and then installs the update.</base>
+        <tran loc="ar">قد يستغرق هذا التحديث بعض الوقت حتى يكتمل. لا تفصل الـ Apple TV أثناء تحضير التحديث ثم إعادة التشغيل وتثبيت التحديث.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ThermalNoticeSubtext</Position>
+      <TranslationSet>
+        <base loc="en">Apple TV needs to cool down.\nAs soon as your Apple TV is ready again, this message will disappear.</base>
+        <tran loc="ar">يجب ترك الـ Apple TV حتى يبرد.\nستختفي هذه الرسالة بمجرد أن يصبح الـ Apple TV جاهزًا مرة أخرى.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>OSUpdateAutoConfirmReadyPromptNoVersion</Position>
+      <TranslationSet>
+        <base loc="en">An update is available. Do you want to update this Apple TV now?</base>
+        <tran loc="ar">يوجد تحديث متوفر. هل ترغب في تحديث هذا الـ Apple TV الآن؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ScreenSharingAlertMessage</Position>
+      <TranslationSet>
+        <base loc="en">Your screen will be shown on %@ and may also be recorded.</base>
+        <tran loc="ar">ستظهر شاشتك على %@ وقد يتم تسجيلها.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Picture-in-Picture
+ Note: `%@` will be replaced with the TV button icon</Description>
+      <Position>PIPEditingHintMessage</Position>
+      <TranslationSet>
+        <base loc="en">Press %@ for Options</base>
+        <tran loc="ar">اضغط على ⁨%@⁩ لعرض الخيارات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>OSUpdateConfirmNotReadyButDownloadedPromptNoVersion</Position>
+      <TranslationSet>
+        <base loc="en">An update is available. Do you want to install it now?</base>
+        <tran loc="ar">يوجد تحديث متوفر. هل ترغب في تثبيته الآن؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>OSUpdateConfirmNotReadyButDownloadedPrompt</Position>
+      <TranslationSet>
+        <base loc="en">An update is available to %@. Do you want to install it now?</base>
+        <tran loc="ar">يوجد تحديث متوفر لـ %@. هل ترغب في تثبيته الآن؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PSD2PINCodeTitle</Position>
+      <TranslationSet>
+        <base loc="en">Visit Website</base>
+        <tran loc="ar">زيارة موقع الويب</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>BetaTestingHasEndedAlertMessage</Position>
+      <TranslationSet>
+        <base loc="en">Check the TestFlight app for any testing updates.</base>
+        <tran loc="ar">تحقق من وجود أي تحديثات تجريبية لتطبيق TestFlight.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PSD2PINCodeURLSubtitle</Position>
+      <TranslationSet>
+        <base loc="en">1. On another device, go to website:</base>
+        <tran loc="ar">١. على جهاز آخر، انتقل إلى موقع الويب:</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>StackShotTakenTitle</Position>
+      <TranslationSet>
+        <base loc="en">Stackshot saved.\nHold 6 seconds for analytics.</base>
+        <tran loc="ar">تم حفظ Stackshot.\nانتظر ٦ ثوانٍ حتى تظهر التحليلات.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AppProfileExpiredOK</Position>
+      <TranslationSet>
+        <base loc="en">OK</base>
+        <tran loc="ar">موافق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>BetaTestingHasEndedAlertDefaultButton</Position>
+      <TranslationSet>
+        <base loc="en">OK</base>
+        <tran loc="ar">موافق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ButtonOK</Position>
+      <TranslationSet>
+        <base loc="en">OK</base>
+        <tran loc="ar">موافق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>TVButtonBehaviorOK</Position>
+      <TranslationSet>
+        <base loc="en">OK</base>
+        <tran loc="ar">موافق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Device name for MobileGestalt
+ MobileGestalt reads this value out of PineBoard’s Info.plist, this becomes [UIDevice model]</Description>
+      <Position>DeviceName</Position>
+      <TranslationSet>
+        <base loc="en">Apple TV</base>
+        <tran loc="ar">Apple TV</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>OSUpdateConfirmReadySubtextFR</Position>
+      <TranslationSet>
+        <base loc="en">\n\nTo update now and automatically install future updates, select Update Automatically. Do not unplug your Apple TV while it restarts and installs the update, which may take some time to complete.</base>
+        <tran loc="ar">\n\nللتحديث الآن وتثبيت التحديثات المستقبلية تلقائيًا، حدد "التحديث تلقائيًا". لا تفصل الـ Apple TV أثناء إعادة التشغيل وتثبيت التحديث الذي قد يستغرق بعض الوقت حتى يكتمل.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>OSUpdateFailedServerProblemSubtext</Position>
+      <TranslationSet>
+        <base loc="en">The Apple TV update couldn’t be downloaded at this time. Try again later.</base>
+        <tran loc="ar">تعذر تنزيل تحديث Apple TV في الوقت الحالي. حاول مرة أخرى لاحقًا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DictationPrivacyTitle</Position>
+      <TranslationSet>
+        <base loc="en">About Privacy</base>
+        <tran loc="ar">حول الخصوصية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SiriPrivacyTitle</Position>
+      <TranslationSet>
+        <base loc="en">About Privacy</base>
+        <tran loc="ar">حول الخصوصية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>OSUpdateConfirmInstallEnableAutoMenuItem</Position>
+      <TranslationSet>
+        <base loc="en">Update Automatically</base>
+        <tran loc="ar">التحديث تلقائيًا</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description>Like 12.3 Internal, space is NBSP</Description>
+      <Position>OSUpdateVersionInternal</Position>
+      <TranslationSet>
+        <base loc="en">%@ Internal</base>
+        <tran loc="ar">%@ داخلي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AXMenuDisplayFilterReduceWhitePointAction</Position>
+      <TranslationSet>
+        <base loc="en">Reduce White Point</base>
+        <tran loc="ar">تقليل النقطة البيضاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ScreenSharingAlertAllowSession</Position>
+      <TranslationSet>
+        <base loc="en">Allow</base>
+        <tran loc="ar">السماح</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AppFreeDeveloperProfileNotTrustedCancel</Position>
+      <TranslationSet>
+        <base loc="en">Cancel</base>
+        <tran loc="ar">إلغاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AppProfileNotTrustedCancel</Position>
+      <TranslationSet>
+        <base loc="en">Cancel</base>
+        <tran loc="ar">إلغاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ButtonCancel</Position>
+      <TranslationSet>
+        <base loc="en">Cancel</base>
+        <tran loc="ar">إلغاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SiriOptInButton</Position>
+      <TranslationSet>
+        <base loc="en">Use Siri</base>
+        <tran loc="ar">استخدام Siri</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>OSUpdateConfirmInstallYesMenuItem</Position>
+      <TranslationSet>
+        <base loc="en">Update Now</base>
+        <tran loc="ar">التحديث الآن</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>TVPeripheralUpdateNow</Position>
+      <TranslationSet>
+        <base loc="en">Update Now</base>
+        <tran loc="ar">التحديث الآن</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ButtonPrevious</Position>
+      <TranslationSet>
+        <base loc="en">Previous</base>
+        <tran loc="ar">السابق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>IssueDataConfirmationMessage</Position>
+      <TranslationSet>
+        <base loc="en">Do you want to export the analytics data?\n\nYou can view your analytics data in\nSettings &gt; General &gt; Privacy &gt; Analytics Data.</base>
+        <tran loc="ar">هل ترغب في تصدير بيانات التحليلات؟\n\nيمكنك عرض بيانات التحليلات الخاصة بك في\nالإعدادات &gt; عام &gt; الخصوصية &gt; بيانات التحليلات.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>TVFeedOfferPlay</Position>
+      <TranslationSet>
+        <base loc="en">Play</base>
+        <tran loc="ar">تشغيل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DiagnosticLogPushSingleMessage</Position>
+      <TranslationSet>
+        <base loc="en">Sent 1 log to Apple.</base>
+        <tran loc="ar">تم إرسال سجل واحد إلى Apple.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>OSUpdateConfirmReadySubtext</Position>
+      <TranslationSet>
+        <base loc="en">\n\nTo update now and automatically install future updates, select Update Automatically. Do not unplug your Apple TV while it restarts and installs the update.</base>
+        <tran loc="ar">\n\nللتحديث الآن وتثبيت التحديثات المستقبلية تلقائيًا، حدد "التحديث تلقائيًا". لا تفصل الـ Apple TV أثناء إعادة التشغيل وتثبيت التحديث.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ButtonContinue</Position>
+      <TranslationSet>
+        <base loc="en">Continue</base>
+        <tran loc="ar">متابعة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>OSUpdateConfirmNotReadySubtext</Position>
+      <TranslationSet>
+        <base loc="en">Do not unplug your Apple TV while it downloads and prepares the update, restarts, and then installs the update.</base>
+        <tran loc="ar">لا تفصل الـ Apple TV أثناء تنزيل التحديث وتحضيره ثم إعادة التشغيل وتثبيت التحديث.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>RCUnconfiguredVolumeCancelMenuItem</Position>
+      <TranslationSet>
+        <base loc="en">No</base>
+        <tran loc="ar">لا</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AppFreeDeveloperProfileNotTrustedTitle</Position>
+      <TranslationSet>
+        <base loc="en">Untrusted Developer</base>
+        <tran loc="ar">مطور غير موثوق فيه</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>NoNetworkAlertSubtitle</Position>
+      <TranslationSet>
+        <base loc="en">Check your Internet connection</base>
+        <tran loc="ar">تحقق من اتصال الإنترنت لديك</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AppFreeDeveloperProfileNotTrustedBodyFormat</Position>
+      <TranslationSet>
+        <base loc="en">Your device management settings don’t allow apps from the developer “%@” on this Apple TV. This can be changed in Settings &gt; General.</base>
+        <tran loc="ar">لا تسمح إعدادات إدارة الجهاز لديك باستخدام تطبيقات من المطور "%@" على هذا الـ Apple TV. يمكن تغيير ذلك في الإعدادات &gt; عام.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ScreenshotCapturedTitle</Position>
+      <TranslationSet>
+        <base loc="en">Screenshot Taken</base>
+        <tran loc="ar">تم حفظ لقطة الشاشة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Siri Data Sharing</Description>
+      <Position>SiriDataSharingOptInTitle</Position>
+      <TranslationSet>
+        <base loc="en">Improve Siri &amp; Dictation</base>
+        <tran loc="ar">تحسين Siri والإملاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DictationTitle</Position>
+      <TranslationSet>
+        <base loc="en">Dictation</base>
+        <tran loc="ar">الإملاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PIPStopButtonAXTitle</Position>
+      <TranslationSet>
+        <base loc="en">Expand to full screen</base>
+        <tran loc="ar">توسيع إلى ملء الشاشة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AppStorageFullCancelButton</Position>
+      <TranslationSet>
+        <base loc="en">Close</base>
+        <tran loc="ar">إغلاق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ButtonSubmit</Position>
+      <TranslationSet>
+        <base loc="en">Submit</base>
+        <tran loc="ar">إرسال</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AXMenuZoomAction</Position>
+      <TranslationSet>
+        <base loc="en">Zoom</base>
+        <tran loc="ar">تكبير/تصغير</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ScreenRecordingStarted</Position>
+      <TranslationSet>
+        <base loc="en">Screen recording started…</base>
+        <tran loc="ar">بدأ تسجيل الشاشة…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ButtonDecline</Position>
+      <TranslationSet>
+        <base loc="en">Decline</base>
+        <tran loc="ar">رفض</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DictationOptOutButton</Position>
+      <TranslationSet>
+        <base loc="en">Don’t Use Dictation</base>
+        <tran loc="ar">عدم استخدام الإملاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AXMenuVoiceOverAction</Position>
+      <TranslationSet>
+        <base loc="en">VoiceOver</base>
+        <tran loc="ar">VoiceOver</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>TVButtonBehaviorFooter</Position>
+      <TranslationSet>
+        <base loc="en">You can change this at any time in Settings.</base>
+        <tran loc="ar">يمكنك تغيير هذا في الإعدادات في أي وقت.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CVVPlaceholder</Position>
+      <TranslationSet>
+        <base loc="en">CVV</base>
+        <tran loc="ar">CVV</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AppStorageFullTitle</Position>
+      <TranslationSet>
+        <base loc="en">Not Enough Storage</base>
+        <tran loc="ar">لا يوجد تخزين كافي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Issue Data Reporter</Description>
+      <Position>IssueDataConfirmationTitle</Position>
+      <TranslationSet>
+        <base loc="en">Analytics Complete</base>
+        <tran loc="ar">اكتملت التحليلات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SiriDataSharingOptOutButtonTitle</Position>
+      <TranslationSet>
+        <base loc="en">Not Now</base>
+        <tran loc="ar">ليس الآن</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>OSUpdateConfirmNotReadyButDownloadedSubtext</Position>
+      <TranslationSet>
+        <base loc="en">Do not unplug your Apple TV while it prepares the update, restarts, and then installs the update.</base>
+        <tran loc="ar">لا تفصل الـ Apple TV أثناء تحضير التحديث ثم إعادة التشغيل وتثبيت التحديث.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>TVButtonBehaviorMessage</Position>
+      <TranslationSet>
+        <base loc="en">When you press the Home button on your remote, it will now take you straight to Up Next in the Apple TV App. To go to the Home screen, press the Home button again or press and hold Menu.</base>
+        <tran loc="ar">عند الضغط على زر الشاشة الرئيسية في جهاز التحكم، ستنتقل مباشرة إلى "التالي" في تطبيق Apple TV. اضغط على زر الشاشة الرئيسية مرة أخرى أو اضغط مطولاً على زر القائمة للانتقال إلى الشاشة الرئيسية.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ScreenSharingAlertCancelSession</Position>
+      <TranslationSet>
+        <base loc="en">Don’t Allow</base>
+        <tran loc="ar">عدم السماح</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Like 12.3 (17J543), space is NBSP</Description>
+      <Position>OSUpdateVersionWithBuild</Position>
+      <TranslationSet>
+        <base loc="en">%@ (%@)</base>
+        <tran loc="ar">%@ (%@)</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>OSUpdateRestoreWaitingText</Position>
+      <TranslationSet>
+        <base loc="en">Preparing to clear all settings…</base>
+        <tran loc="ar">جاري التحضير لمسح كل الإعدادات…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Accessibility Menu</Description>
+      <Position>AXMenuReturnToMainMenuAction</Position>
+      <TranslationSet>
+        <base loc="en">Return to Main Menu</base>
+        <tran loc="ar">الرجوع إلى القائمة الرئيسية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PBSystemMenuSleepNowMessage</Position>
+      <TranslationSet>
+        <base loc="en">This will also turn off any connected devices.</base>
+        <tran loc="ar">سيؤدي هذا أيضًا إلى إيقاف أي أجهزة متصلة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AXMenuDisplayFilterColorAdjustmentsAction</Position>
+      <TranslationSet>
+        <base loc="en">Color Adjustments</base>
+        <tran loc="ar">تعديلات اللون</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>IssueDataConfirmationExportItem</Position>
+      <TranslationSet>
+        <base loc="en">Export</base>
+        <tran loc="ar">تصدير</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> App Launch</Description>
+      <Position>BetaTestingHasEndedAlertTitle</Position>
+      <TranslationSet>
+        <base loc="en">Testing for this app version has ended.</base>
+        <tran loc="ar">انتهت الفترة التجريبية لهذا الإصدار من التطبيق.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>NoNetworkAlertTitle</Position>
+      <TranslationSet>
+        <base loc="en">No Network Detected</base>
+        <tran loc="ar">لم يتم اكتشاف أي شبكة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SiriMessage</Position>
+      <TranslationSet>
+        <base loc="en">Siri helps you get things done just by asking. You can search for movies, check the weather, dictate text, and more.</base>
+        <tran loc="ar">يساعدك Siri في إنجاز الأشياء بمجرد الطلب. يمكنك البحث عن الأفلام، وتفقد معلومات الطقس، وإملاء النص، وما إلى ذلك.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>OSUpdateFailedNeedToRestartSubtext</Position>
+      <TranslationSet>
+        <base loc="en">To restart your Apple TV and try again, go to Settings &gt; System and choose Restart.</base>
+        <tran loc="ar">لإعادة تشغيل الـ Apple TV والمحاولة مرة أخرى، انتقل إلى الإعدادات &gt; النظام، ثم اختر إعادة التشغيل.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Password</Position>
+      <TranslationSet>
+        <base loc="en">Password: </base>
+        <tran loc="ar">كلمة السر: </tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>OSUpdateRestoreWaitingTitle</Position>
+      <TranslationSet>
+        <base loc="en">Restore</base>
+        <tran loc="ar">استعادة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ScreenSharingAlertUnknownDeviceMessage</Position>
+      <TranslationSet>
+        <base loc="en">Your Apple TV’s screen and activity are being shared.</base>
+        <tran loc="ar">تتم حاليًا مشاركة شاشة الـ Apple TV ونشاطه.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PBSystemMenuSleepNowButton</Position>
+      <TranslationSet>
+        <base loc="en">Sleep</base>
+        <tran loc="ar">إسبات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>OSUpdateConfirmInstallNoMenuItem</Position>
+      <TranslationSet>
+        <base loc="en">Update Later</base>
+        <tran loc="ar">التحديث لاحقًا</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>OSUpdateConfirmNoMenuItem</Position>
+      <TranslationSet>
+        <base loc="en">Update Later</base>
+        <tran loc="ar">التحديث لاحقًا</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>OSUpdateConfirmNotReadyPrompt</Position>
+      <TranslationSet>
+        <base loc="en">An update is available to %@. Do you want to download and install it now?</base>
+        <tran loc="ar">يوجد تحديث متوفر لـ %@. هل ترغب في تنزيله وتثبيته الآن؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ScreenSharingActiveUnknownDeviceBulletinTitle</Position>
+      <TranslationSet>
+        <base loc="en">Screen Sharing</base>
+        <tran loc="ar">مشاركة الشاشة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>RCUnconfiguredVolumeGoToSettingsMenuItem</Position>
+      <TranslationSet>
+        <base loc="en">Yes</base>
+        <tran loc="ar">نعم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>OSUpdateConfirmReadyPromptNoVersion</Position>
+      <TranslationSet>
+        <base loc="en">The update has finished downloading. Do you want to update this Apple TV now?</base>
+        <tran loc="ar">انتهى تنزيل التحديث. هل ترغب في تحديث هذا الـ Apple TV الآن؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AXMenuON</Position>
+      <TranslationSet>
+        <base loc="en">On</base>
+        <tran loc="ar">تشغيل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PSD2QRCodeTitle</Position>
+      <TranslationSet>
+        <base loc="en">Scan QR Code</base>
+        <tran loc="ar">مسح رمز QR ضوئيًا</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AXMenuDisplayFilterInvertColorsAction</Position>
+      <TranslationSet>
+        <base loc="en">Invert Colors</base>
+        <tran loc="ar">عكس الألوان</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SiriDataSharingOptInButtonTitle</Position>
+      <TranslationSet>
+        <base loc="en">Share Audio Recordings</base>
+        <tran loc="ar">مشاركة تسجيلات الصوت</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>OSUpdateFailedText</Position>
+      <TranslationSet>
+        <base loc="en">The update was not successful.</base>
+        <tran loc="ar">لم ينجح التحديث.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PSD2PINCodeSubtitle</Position>
+      <TranslationSet>
+        <base loc="en">2. When asked, enter code:</base>
+        <tran loc="ar">٢- أدخل الرمز التالي عند مطالبتك به:</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>TVPeripheralUpdateLater</Position>
+      <TranslationSet>
+        <base loc="en">Later</base>
+        <tran loc="ar">لاحقًا</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DiagnosticLogPushMultipleMessage</Position>
+      <TranslationSet>
+        <base loc="en">Sent %d logs to Apple.</base>
+        <tran loc="ar">تم إرسال %d من السجلات إلى Apple.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Like 12.3</Description>
+      <Position>OSUpdateVersion</Position>
+      <TranslationSet>
+        <base loc="en">%@</base>
+        <tran loc="ar">‏%@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AXMenuSwitchControlAction</Position>
+      <TranslationSet>
+        <base loc="en">Switch Control</base>
+        <tran loc="ar">التحكم بالتبديل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>RCUnconfiguredVolumeTitle</Position>
+      <TranslationSet>
+        <base loc="en">Volume Control</base>
+        <tran loc="ar">التحكم في مستوى الصوت</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>OSUpdateConfirmYesMenuItem</Position>
+      <TranslationSet>
+        <base loc="en">Download and Install</base>
+        <tran loc="ar">تنزيل وتثبيت</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Global System Menu</Description>
+      <Position>PBSystemMenuSleepNowTitle</Position>
+      <TranslationSet>
+        <base loc="en">Sleep Now?</base>
+        <tran loc="ar">الإسبات الآن؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>OSUpdateConfirmNotReadySubtextFR</Position>
+      <TranslationSet>
+        <base loc="en">This update may take some time to complete. Do not unplug your Apple TV while it downloads the update, restarts, and then installs the update.</base>
+        <tran loc="ar">قد يستغرق هذا التحديث بعض الوقت حتى يكتمل. لا تفصل الـ Apple TV أثناء تنزيل التحديث، إلى أن تتم إعادة التشغيل وتثبيت التحديث.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DictationOptInButton</Position>
+      <TranslationSet>
+        <base loc="en">Use Dictation</base>
+        <tran loc="ar">استخدام الإملاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>RCUnconfiguredVolumeMessage</Position>
+      <TranslationSet>
+        <base loc="en">You haven’t configured the volume control. Do you want to do that now?</base>
+        <tran loc="ar">لم تقم بتكوين التحكم في مستوى الصوت. هل ترغب في القيام بذلك الآن؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>OSUpdateConfirmReadyPrompt</Position>
+      <TranslationSet>
+        <base loc="en">The update to %@ has finished downloading. Do you want to update this Apple TV now?</base>
+        <tran loc="ar">انتهى تنزيل تحديث %@. هل ترغب في تحديث هذا الـ Apple TV الآن؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Data Reporting Service</Description>
+      <Position>DiagnosticLogPushTitle</Position>
+      <TranslationSet>
+        <base loc="en">Diagnostic Logs</base>
+        <tran loc="ar">سجلات التشخيص</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SiriOptOutButton</Position>
+      <TranslationSet>
+        <base loc="en">Don’t Use Siri</base>
+        <tran loc="ar">عدم استخدام Siri</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AXMenuAudioDescriptionAction</Position>
+      <TranslationSet>
+        <base loc="en">Audio Descriptions</base>
+        <tran loc="ar">الأوصاف الصوتية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AppStorageFullText</Position>
+      <TranslationSet>
+        <base loc="en">You can’t install any updates because the storage on this Apple TV is almost full. Delete some apps or manage your storage in Settings.</base>
+        <tran loc="ar">لا يمكنك تثبيت أي تحديثات لأن سعة التخزين على هذا الـ Apple TV أوشكت على الامتلاء. احذف بعض التطبيقات أو قم بإدارة سعة التخزين في الإعدادات.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DialogNoDefaultFocusButton</Position>
+      <TranslationSet>
+        <base loc="en">Select:</base>
+        <tran loc="ar">تحديد:</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SpeakerVolumeGenericTitle</Position>
+      <TranslationSet>
+        <base loc="en">Volume</base>
+        <tran loc="ar">مستوى الصوت</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DictationMessage</Position>
+      <TranslationSet>
+        <base loc="en">Dictation lets you use your voice to dictate text and spell user names and passwords instead of typing them.</base>
+        <tran loc="ar">يتيح لك الإملاء استخدام صوتك لإملاء النص وتهجئة أسماء المستخدمين وكلمات السر بدلًا من كتابتها.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AppStorageFullDefaultButton</Position>
+      <TranslationSet>
+        <base loc="en">Settings</base>
+        <tran loc="ar">الإعدادات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SiriTitle</Position>
+      <TranslationSet>
+        <base loc="en">Siri and Dictation</base>
+        <tran loc="ar">‏Siri والإملاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ThermalNoticeText</Position>
+      <TranslationSet>
+        <base loc="en">Your Apple TV is too hot.</base>
+        <tran loc="ar">الـ Apple TV ساخن جدًا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> PSD2</Description>
+      <Position>PSD2Title</Position>
+      <TranslationSet>
+        <base loc="en">Two Ways To Sign In</base>
+        <tran loc="ar">طريقتان لتسجيل الدخول</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> TV Button Behavior</Description>
+      <Position>TVButtonBehaviorTitle</Position>
+      <TranslationSet>
+        <base loc="en">Same Button, New Function</base>
+        <tran loc="ar">نفس الرز، بوظيفة جديدة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AXMenuOFF</Position>
+      <TranslationSet>
+        <base loc="en">Off</base>
+        <tran loc="ar">إيقاف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ButtonNext</Position>
+      <TranslationSet>
+        <base loc="en">Next</base>
+        <tran loc="ar">التالي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AppProfileNotTrustedBodyFormat</Position>
+      <TranslationSet>
+        <base loc="en">The developer “%@” isn’t trusted on this Apple TV. You have to trust them before their enterprise apps are available to you.</base>
+        <tran loc="ar">لم يتم الوثوق في المطور "%@" على هذا الـ Apple TV. يجب عليك الوثوق فيه قبل أن تصبح التطبيقات التابعة لمؤسسته متوفرة لك.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PIPCancelButtonAXTitle</Position>
+      <TranslationSet>
+        <base loc="en">Close Picture-in-Picture</base>
+        <tran loc="ar">إغلاق \"صورة داخل صورة\"</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>PineBoard/Applications/PineBoard.app/en.lproj/LocalizableSeed.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>SiriDataSharingOptOutReminderText</Position>
+      <TranslationSet>
+        <base loc="en">Lorem ipsum dolor. You can change this at any time in Settings &gt; Privacy &gt; Improve Siri &amp; Dictation</base>
+        <tran loc="ar">أبجد هوز حطي كلمن. يمكنك تغيير ذلك في أي وقت من الإعدادات &gt; الخصوصية &gt; تحسين Siri والإملاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 
+  LocalizableSeed.strings
+  PineBoard
+
+  Created by DAvid Pickford on 9/20/19.
+  Copyright © 2019 Apple. All rights reserved.
+
+ Put strings that should only appear in mainline, not seed builds, here.
+ Siri Data Sharing</Description>
+      <Position>SiriDataSharingOptOutReminderTitle</Position>
+      <TranslationSet>
+        <base loc="en">Dictation and Siri Improvements</base>
+        <tran loc="ar">تحسينات الإملاء و Siri</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SiriDataSharingOptInReminderTitle</Position>
+      <TranslationSet>
+        <base loc="en">Help Improve Dictation and Siri</base>
+        <tran loc="ar">المساعدة في تحسين الإملاء و Siri</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SiriDataSharingOptInReminderText</Position>
+      <TranslationSet>
+        <base loc="en">Lorem ipsum dolor sit amet, si consectetur adipiscing elit.</base>
+        <tran loc="ar">أبجد هوز حطي كلمن سعفص قرشت ثخذ ضظغ، أبجد هوز حطي كلمن.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SiriDataSharingOptInAllow</Position>
+      <TranslationSet>
+        <base loc="en">Allow</base>
+        <tran loc="ar">السماح</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SiriDataSharingOptOutReminderDismiss</Position>
+      <TranslationSet>
+        <base loc="en">Dismiss</base>
+        <tran loc="ar">استبعاد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SiriDataSharingOptInConfirmationTitle</Position>
+      <TranslationSet>
+        <base loc="en">Improve Dictation and Siri</base>
+        <tran loc="ar">تحسين الإملاء و Siri</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SiriDataSharingOptInDontAllow</Position>
+      <TranslationSet>
+        <base loc="en">Don’t Allow</base>
+        <tran loc="ar">عدم السماح</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SiriDataSharingOptInConfirmationText</Position>
+      <TranslationSet>
+        <base loc="en">Help improve Siri and Dictation by allowing Apple to store and learn from audio of your Siri interactions.\nApple uses computer-generated transcripts from all users to help improve Siri. All data collected is associated with a random identifier, not with account, and is stored for a limited period.</base>
+        <tran loc="ar">ساعد في تحسين Siri والإملاء بالسماح لـ Apple بتخزين صوت تفاعلاتك مع Siri والاستفادة منه.\nتستخدم Apple نسخًا نصية ينتجها الكمبيوتر من كل المستخدمين للمساعدة في تحسين Siri. ويتم ربط كل البيانات المجمعة بمعرّف عشوائي، وليس بحساب، ويتم تخزينها لفترة محددة.</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+</Proj>

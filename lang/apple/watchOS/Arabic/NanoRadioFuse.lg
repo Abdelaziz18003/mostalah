@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Proj>
+  <ProjName>NanoRadioFuse</ProjName>
+  <File>
+    <Filepath>NanoRadioFuse/System/Library/AppPlaceholders/NanoRadio.app/en.lproj/InfoPlist.strings</Filepath>
+    <TextItem>
+      <Description> Localized versions of Info.plist keys </Description>
+      <Position>CFBundleDisplayName</Position>
+      <TranslationSet>
+        <base loc="en">Radio</base>
+        <tran loc="ar">الراديو</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>NanoRadioFuse/private/var/staged_system_apps/NanoRadio.app/en.lproj/InfoPlist.strings</Filepath>
+    <TextItem>
+      <Description> Localized versions of Info.plist keys </Description>
+      <Position>CFBundleDisplayName</Position>
+      <TranslationSet>
+        <base loc="en">Radio</base>
+        <tran loc="ar">الراديو</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>NanoRadioFuse/private/var/staged_system_apps/NanoRadio.app/en.lproj/Localizable.strings</Filepath>
+    <TextItem>
+      <Description> Message displayed when device is offline. </Description>
+      <Position>OFFLINE_MESSAGE_WIFI</Position>
+      <TranslationSet>
+        <base loc="en">To play Radio, connect to a Wi-Fi or cellular network.</base>
+        <tran loc="ar">لتشغيل الراديو، يجب الاتصال بشبكة Wi-Fi أو شبكة خلوية.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Button title for user to try fetching radio content again. </Description>
+      <Position>TRY_AGAIN_BUTTON_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Try Again</base>
+        <tran loc="ar">حاول مرة أخرى</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Title for the 'On iPhone' item in the top level menu. </Description>
+      <Position>MENU_ON_IPHONE</Position>
+      <TranslationSet>
+        <base loc="en">On iPhone</base>
+        <tran loc="ar">على iPhone</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> App name in root level status bar. </Description>
+      <Position>TOP_LEVEL_APP_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Radio</base>
+        <tran loc="ar">الراديو</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Message for when we hit an error fetching contents. </Description>
+      <Position>GENERIC_ERROR_MESSAGE</Position>
+      <TranslationSet>
+        <base loc="en">We’ve run into a problem</base>
+        <tran loc="ar">حدثت لدينا مشكلة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Title displayed when we can't fetch contents because device is offline. </Description>
+      <Position>OFFLINE_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">No Internet</base>
+        <tran loc="ar">لا يوجد إنترنت</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Message displayed when device is offline (China SKUs). </Description>
+      <Position>OFFLINE_MESSAGE_WLAN</Position>
+      <TranslationSet>
+        <base loc="en">To play Radio, connect to a WLAN or cellular network.</base>
+        <tran loc="ar">لتشغيل الراديو، يجب الاتصال بشبكة WLAN أو شبكة خلوية.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Title for the 'Featured Stations' section header in the Station Guide. </Description>
+      <Position>STATION_GUIDE_FEATURED</Position>
+      <TranslationSet>
+        <base loc="en">Featured Stations</base>
+        <tran loc="ar">المحطات المميزة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Title for the 'Now Playing' item in the top level menu. </Description>
+      <Position>MENU_NOWPLAYING</Position>
+      <TranslationSet>
+        <base loc="en">Now Playing</base>
+        <tran loc="ar">قيد التشغيل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Message for when no iTunes account is set up. </Description>
+      <Position>NO_ACCOUNT_MESSAGE</Position>
+      <TranslationSet>
+        <base loc="en">Sign in to iTunes on your iPhone to listen to Radio.</base>
+        <tran loc="ar">قم بتسجيل الدخول إلى iTunes على الـ iPhone للاستماع إلى Radio.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Message for when no iTunes account is set up on the Watch. </Description>
+      <Position>NO_ACCOUNT_ON_WATCH_MESSAGE</Position>
+      <TranslationSet>
+        <base loc="en">Sign in to your Apple ID in General in the Apple Watch app on your iPhone.</base>
+        <tran loc="ar">سجل الدخول إلى Apple ID في "عام" في تطبيق Apple Watch على iPhone.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Title for the 'Stations' item in the top level menu. </Description>
+      <Position>MENU_STATIONS</Position>
+      <TranslationSet>
+        <base loc="en">Stations</base>
+        <tran loc="ar">المحطات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Title for the 'Genres' section header in the Station Guide. </Description>
+      <Position>STATION_GUIDE_GENRES</Position>
+      <TranslationSet>
+        <base loc="en">Genres</base>
+        <tran loc="ar">الأنواع</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+</Proj>

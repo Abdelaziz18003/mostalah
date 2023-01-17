@@ -1,0 +1,1957 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Proj>
+  <ProjName>AccessibilitySupport</ProjName>
+  <File>
+    <Filepath>AccessibilitySupport/System/Library/PrivateFrameworks/AccessibilitySupport.framework/Versions/A/Frameworks/AccessibilityEvents.framework/Versions/A/Resources/en.lproj/Localizable.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>radioButton.state.selected</Position>
+      <TranslationSet>
+        <base loc="en">selected</base>
+        <tran loc="ar">محدد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>toggleButton.state.selected</Position>
+      <TranslationSet>
+        <base loc="en">selected</base>
+        <tran loc="ar">محدد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description>
+  Localizable.strings
+  AccessibilitySupport
+
+  Created by Susumu Harada on 5/5/17.
+  Copyright © 2017 Apple Inc. All rights reserved.
+</Description>
+      <Position>checkbox.state.unchecked</Position>
+      <TranslationSet>
+        <base loc="en">unchecked</base>
+        <tran loc="ar">غير محدد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>radioButton.state.unselected</Position>
+      <TranslationSet>
+        <base loc="en">unselected</base>
+        <tran loc="ar">غير محدد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>toggleButton.state.unselected</Position>
+      <TranslationSet>
+        <base loc="en">unselected</base>
+        <tran loc="ar">غير محدد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>disclosureButton.state.collapsed</Position>
+      <TranslationSet>
+        <base loc="en">Collapsed</base>
+        <tran loc="ar">مطوي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>windowButton.close</Position>
+      <TranslationSet>
+        <base loc="en">Close</base>
+        <tran loc="ar">إغلاق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>windowButton.zoom</Position>
+      <TranslationSet>
+        <base loc="en">Zoom</base>
+        <tran loc="ar">تكبير/تصغير</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>windowButton.minimize</Position>
+      <TranslationSet>
+        <base loc="en">Minimize</base>
+        <tran loc="ar">تصغير</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Menu item shortcut character</Description>
+      <Position>menuItem.shortcut.space</Position>
+      <TranslationSet>
+        <base loc="en">Space</base>
+        <tran loc="ar">مسافة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Localized string that should be used to represent a pause within a spoken text.</Description>
+      <Position>speech.description.pause</Position>
+      <TranslationSet>
+        <base loc="en">, </base>
+        <tran loc="ar">‏، </tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>checkbox.state.checked</Position>
+      <TranslationSet>
+        <base loc="en">checked</base>
+        <tran loc="ar">تم تحديده</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>disclosureButton.state.expanded</Position>
+      <TranslationSet>
+        <base loc="en">Expanded</base>
+        <tran loc="ar">موسع</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>windowButton.fullScreen</Position>
+      <TranslationSet>
+        <base loc="en">Full Screen</base>
+        <tran loc="ar">ملء الشاشة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>checkbox.state.mixed</Position>
+      <TranslationSet>
+        <base loc="en">mixed</base>
+        <tran loc="ar">مختلط</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>AccessibilitySupport/System/Library/PrivateFrameworks/AccessibilitySupport.framework/Versions/A/Frameworks/AccessibilityVisuals.framework/Versions/A/Resources/en.lproj/Localizable.strings</Filepath>
+    <TextItem>
+      <Description> Label for the "OK" button that the user would click to finish resizing the zoom window </Description>
+      <Position>zoomWindow.resizingDoneButtonTitle.OK</Position>
+      <TranslationSet>
+        <base loc="en">OK</base>
+        <tran loc="ar">موافق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Default title for the title window </Description>
+      <Position>[Untitled]</Position>
+      <TranslationSet>
+        <base loc="en">[Untitled]</base>
+        <tran loc="ar">[بلا عنوان]</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Title for the caption text history window </Description>
+      <Position>Caption History</Position>
+      <TranslationSet>
+        <base loc="en">Caption History</base>
+        <tran loc="ar">سجل تاريخ الشرح المكتوب</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Default title for the menu window </Description>
+      <Position>[Untitled Menu]</Position>
+      <TranslationSet>
+        <base loc="en">[Untitled Menu]</base>
+        <tran loc="ar">[قائمة بلا عنوان]</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 
+  Localizable.strings
+  AccessibilityVisuals
+
+  Copyright © 2016 Apple Inc. All rights reserved.
+
+ Formatter that includes the menu title and typeahead filter text </Description>
+      <Position>%@ (%@)</Position>
+      <TranslationSet>
+        <base loc="en">%@ (%@)</base>
+        <tran loc="ar">%@ (%@)</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Title for the Braille history window </Description>
+      <Position>Braille History</Position>
+      <TranslationSet>
+        <base loc="en">Braille History</base>
+        <tran loc="ar">سجل تاريخ برايل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Placeholder text for the search window text field </Description>
+      <Position>Search</Position>
+      <TranslationSet>
+        <base loc="en">Search</base>
+        <tran loc="ar">بحث</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>AccessibilitySupport/System/Library/PrivateFrameworks/AccessibilitySupport.framework/Versions/A/Frameworks/AccessibilityFoundation.framework/Versions/A/Resources/en.lproj/AccessibilityFoundationLiteralOutput.strings</Filepath>
+    <TextItem>
+      <Description> ‶</Description>
+      <Position>UnicodeHex.00002036</Position>
+      <TranslationSet>
+        <base loc="en">reverse double prime</base>
+        <tran loc="ar">رئيسي مزدوج عكسي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UnicodeHex.00002318</Position>
+      <TranslationSet>
+        <base loc="en">command</base>
+        <tran loc="ar">الأوامر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description>  ́</Description>
+      <Position>UnicodeHex.00000301</Position>
+      <TranslationSet>
+        <base loc="en">acute accent</base>
+        <tran loc="ar">نبرة حادة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> §</Description>
+      <Position>UnicodeHex.000000a7</Position>
+      <TranslationSet>
+        <base loc="en">section symbol</base>
+        <tran loc="ar">رمز القسم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> ▼</Description>
+      <Position>UnicodeHex.000025bc</Position>
+      <TranslationSet>
+        <base loc="en">down-pointing black pointer</base>
+        <tran loc="ar">مؤشر أسود يشير لأسفل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UnicodeHex.000021df</Position>
+      <TranslationSet>
+        <base loc="en">page down</base>
+        <tran loc="ar">صفحة إلى أسفل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UnicodeHex.0000f72d</Position>
+      <TranslationSet>
+        <base loc="en">page down</base>
+        <tran loc="ar">صفحة إلى أسفل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UnicodeHex.00002326</Position>
+      <TranslationSet>
+        <base loc="en">forward delete</base>
+        <tran loc="ar">حذف للأمام</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UnicodeHex.0000f728</Position>
+      <TranslationSet>
+        <base loc="en">forward delete</base>
+        <tran loc="ar">حذف للأمام</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> ″</Description>
+      <Position>UnicodeHex.00002033</Position>
+      <TranslationSet>
+        <base loc="en">double prime</base>
+        <tran loc="ar">رئيسي مزدوج</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UnicodeHex.0000f711</Position>
+      <TranslationSet>
+        <base loc="en">F 14</base>
+        <tran loc="ar">F 14</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> ⅛</Description>
+      <Position>UnicodeHex.0000215b</Position>
+      <TranslationSet>
+        <base loc="en">one eighth</base>
+        <tran loc="ar">ثمن</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> ℉</Description>
+      <Position>UnicodeHex.00002109</Position>
+      <TranslationSet>
+        <base loc="en">degrees fahrenheit</base>
+        <tran loc="ar">درجات فهرنهايت</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> ~</Description>
+      <Position>UnicodeHex.0000007e</Position>
+      <TranslationSet>
+        <base loc="en">tilde</base>
+        <tran loc="ar">علامة تلدة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UnicodeHex.00000021</Position>
+      <TranslationSet>
+        <base loc="en">exclamation mark</base>
+        <tran loc="ar">علامة تعجب</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> ₠</Description>
+      <Position>UnicodeHex.000020a0</Position>
+      <TranslationSet>
+        <base loc="en">euro currency symbol</base>
+        <tran loc="ar">رمز العملة الأوروبية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> ½</Description>
+      <Position>UnicodeHex.000000bd</Position>
+      <TranslationSet>
+        <base loc="en">one half</base>
+        <tran loc="ar">نصف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> ►</Description>
+      <Position>UnicodeHex.000025ba</Position>
+      <TranslationSet>
+        <base loc="en">right-pointing black pointer</base>
+        <tran loc="ar">مؤشر أسود يشير لليمين</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UnicodeHex.00000005</Position>
+      <TranslationSet>
+        <base loc="en">page break</base>
+        <tran loc="ar">فاصل صفحة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UnicodeHex.0000000c</Position>
+      <TranslationSet>
+        <base loc="en">page break</base>
+        <tran loc="ar">فاصل صفحة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description>▷</Description>
+      <Position>UnicodeHex.000025b7</Position>
+      <TranslationSet>
+        <base loc="en">right-pointing triangle</base>
+        <tran loc="ar">مثلث يشير لليمين</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UnicodeHex.000021e7</Position>
+      <TranslationSet>
+        <base loc="en">shift</base>
+        <tran loc="ar">العالي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> ÷</Description>
+      <Position>UnicodeHex.000000f7</Position>
+      <TranslationSet>
+        <base loc="en">divided by</base>
+        <tran loc="ar">مقسومًا على</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UnicodeHex.0000000a</Position>
+      <TranslationSet>
+        <base loc="en">new line</base>
+        <tran loc="ar">سطر جديد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UnicodeHex.00002213</Position>
+      <TranslationSet>
+        <base loc="en">minus or plus</base>
+        <tran loc="ar">ناقص أو زائد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UnicodeHex.00000027</Position>
+      <TranslationSet>
+        <base loc="en">apostrophe</base>
+        <tran loc="ar">فاصلة عليا</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UnicodeHex.0000f713</Position>
+      <TranslationSet>
+        <base loc="en">F 16</base>
+        <tran loc="ar">F 16</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description>”</Description>
+      <Position>UnicodeHex.0000201d</Position>
+      <TranslationSet>
+        <base loc="en">right double quotation mark</base>
+        <tran loc="ar">علامة تنصيص مزدوجة يمنى</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UnicodeHex.00002325</Position>
+      <TranslationSet>
+        <base loc="en">option</base>
+        <tran loc="ar">الاختيار</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description>▿</Description>
+      <Position>UnicodeHex.000025bf</Position>
+      <TranslationSet>
+        <base loc="en">down-pointing small triangle</base>
+        <tran loc="ar">مثلث صغير يشير لأسفل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description>«</Description>
+      <Position>UnicodeHex.000000ab</Position>
+      <TranslationSet>
+        <base loc="en">left-pointing double arrow</base>
+        <tran loc="ar">سهم مزدوج يشير لليسار</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UnicodeHex.0000f70b</Position>
+      <TranslationSet>
+        <base loc="en">F8</base>
+        <tran loc="ar">F8</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UnicodeHex.00002190</Position>
+      <TranslationSet>
+        <base loc="en">left arrow</base>
+        <tran loc="ar">سهم إلى اليسار</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UnicodeHex.000021e0</Position>
+      <TranslationSet>
+        <base loc="en">left arrow</base>
+        <tran loc="ar">سهم إلى اليسار</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UnicodeHex.0000f702</Position>
+      <TranslationSet>
+        <base loc="en">left arrow</base>
+        <tran loc="ar">سهم إلى اليسار</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UnicodeHex.0000f70d</Position>
+      <TranslationSet>
+        <base loc="en">F 10</base>
+        <tran loc="ar">F 10</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UnicodeHex.00000008</Position>
+      <TranslationSet>
+        <base loc="en">delete</base>
+        <tran loc="ar">حذف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UnicodeHex.0000007f</Position>
+      <TranslationSet>
+        <base loc="en">delete</base>
+        <tran loc="ar">حذف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UnicodeHex.0000232b</Position>
+      <TranslationSet>
+        <base loc="en">delete</base>
+        <tran loc="ar">حذف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UnicodeHex.0000fffc</Position>
+      <TranslationSet>
+        <base loc="en">object replacement character</base>
+        <tran loc="ar">الحرف البديل للكائن</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UnicodeHex.0000002e</Position>
+      <TranslationSet>
+        <base loc="en">period</base>
+        <tran loc="ar">نقطة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> ‷</Description>
+      <Position>UnicodeHex.00002037</Position>
+      <TranslationSet>
+        <base loc="en">reverse triple prime</base>
+        <tran loc="ar">رئيسي ثلاثي عكسي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UnicodeHex.00002022</Position>
+      <TranslationSet>
+        <base loc="en">bullet</base>
+        <tran loc="ar">تعداد نقطي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description>⏏</Description>
+      <Position>UnicodeHex.000023cf</Position>
+      <TranslationSet>
+        <base loc="en">eject</base>
+        <tran loc="ar">إخراج</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description>◀</Description>
+      <Position>UnicodeHex.000025c0</Position>
+      <TranslationSet>
+        <base loc="en">left-pointing black triangle</base>
+        <tran loc="ar">مثلث أسود يشير لليسار</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UnicodeHex.0000005b</Position>
+      <TranslationSet>
+        <base loc="en">left bracket</base>
+        <tran loc="ar">قوس أيسر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> ¨</Description>
+      <Position>UnicodeHex.000000a8</Position>
+      <TranslationSet>
+        <base loc="en">diaeresis</base>
+        <tran loc="ar">diaeresis</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description>  ̈</Description>
+      <Position>UnicodeHex.00000308</Position>
+      <TranslationSet>
+        <base loc="en">diaeresis</base>
+        <tran loc="ar">diaeresis</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description>▻</Description>
+      <Position>UnicodeHex.000025bb</Position>
+      <TranslationSet>
+        <base loc="en">right-pointing pointer</base>
+        <tran loc="ar">مؤشر يشير لليمين</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Unicode character to spoken word
+ NOTE:  must use lower case letters in hex values
+ Enter in the 32bit KC normailzation form of the character
+ Also, when editing please paste the character next to the string (when it is printable) in a comment</Description>
+      <Position>UnicodeHex.00000003</Position>
+      <TranslationSet>
+        <base loc="en">enter</base>
+        <tran loc="ar">إدخال</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UnicodeHex.00002324</Position>
+      <TranslationSet>
+        <base loc="en">enter</base>
+        <tran loc="ar">إدخال</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> ¾</Description>
+      <Position>UnicodeHex.000000be</Position>
+      <TranslationSet>
+        <base loc="en">three fourths</base>
+        <tran loc="ar">ثلاثة أرباع</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 
+  AccessibilityFoundationLiteralOutput.strings
+  AccessibilityFoundation
+
+  Created by Greg Hughes on 3/8/13.
+  Copyright (c) 2013 Apple Inc. All rights reserved.
+
+ ie, "e with acute accent"</Description>
+      <Position>with</Position>
+      <TranslationSet>
+        <base loc="en">with</base>
+        <tran loc="ar">مع</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> ‴</Description>
+      <Position>UnicodeHex.00002034</Position>
+      <TranslationSet>
+        <base loc="en">triple prime</base>
+        <tran loc="ar">رئيسي ثلاثي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UnicodeHex.0000000d</Position>
+      <TranslationSet>
+        <base loc="en">return</base>
+        <tran loc="ar">الرجوع</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UnicodeHex.000021a9</Position>
+      <TranslationSet>
+        <base loc="en">return</base>
+        <tran loc="ar">الرجوع</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UnicodeHex.0000f70f</Position>
+      <TranslationSet>
+        <base loc="en">F 12</base>
+        <tran loc="ar">F 12</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> £</Description>
+      <Position>UnicodeHex.000000a3</Position>
+      <TranslationSet>
+        <base loc="en">pound</base>
+        <tran loc="ar">جنيه</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> ￡</Description>
+      <Position>UnicodeHex.0000ffe1</Position>
+      <TranslationSet>
+        <base loc="en">pound</base>
+        <tran loc="ar">جنيه</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UnicodeHex.0000f802</Position>
+      <TranslationSet>
+        <base loc="en">left pencil</base>
+        <tran loc="ar">قلم أيسر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UnicodeHex.00000018</Position>
+      <TranslationSet>
+        <base loc="en">cancel</base>
+        <tran loc="ar">إلغاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description>▸</Description>
+      <Position>UnicodeHex.000025b8</Position>
+      <TranslationSet>
+        <base loc="en">right-pointing small triangle</base>
+        <tran loc="ar">مثلث صغير يشير لليمين</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> ▹</Description>
+      <Position>UnicodeHex.000025b9</Position>
+      <TranslationSet>
+        <base loc="en">right-pointing small triangle</base>
+        <tran loc="ar">مثلث صغير يشير لليمين</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UnicodeHex.00002198</Position>
+      <TranslationSet>
+        <base loc="en">end</base>
+        <tran loc="ar">النهاية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UnicodeHex.0000f72b</Position>
+      <TranslationSet>
+        <base loc="en">end</base>
+        <tran loc="ar">النهاية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UnicodeHex.00000028</Position>
+      <TranslationSet>
+        <base loc="en">left parenthesis</base>
+        <tran loc="ar">قوس هلالي أيسر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> ‘</Description>
+      <Position>UnicodeHex.00002018</Position>
+      <TranslationSet>
+        <base loc="en">left single quotation mark</base>
+        <tran loc="ar">علامة تنصيص فردية يسرى</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UnicodeHex.0000f707</Position>
+      <TranslationSet>
+        <base loc="en">F4</base>
+        <tran loc="ar">F4</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> ∞</Description>
+      <Position>UnicodeHex.0000221e</Position>
+      <TranslationSet>
+        <base loc="en">infinite</base>
+        <tran loc="ar">لا نهائي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description>◁</Description>
+      <Position>UnicodeHex.000025c1</Position>
+      <TranslationSet>
+        <base loc="en">left-pointing triangle</base>
+        <tran loc="ar">مثلث يشير لليسار</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> ⅞</Description>
+      <Position>UnicodeHex.0000215e</Position>
+      <TranslationSet>
+        <base loc="en">seven eighths</base>
+        <tran loc="ar">سبعة أثمان</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UnicodeHex.0000003f</Position>
+      <TranslationSet>
+        <base loc="en">question mark</base>
+        <tran loc="ar">علامة استفهام</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description>▲</Description>
+      <Position>UnicodeHex.000025b2</Position>
+      <TranslationSet>
+        <base loc="en">up-pointing black triangle</base>
+        <tran loc="ar">مثلث أسود يشير لأعلى</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> ℞</Description>
+      <Position>UnicodeHex.0000211e</Position>
+      <TranslationSet>
+        <base loc="en">prescription sign</base>
+        <tran loc="ar">علامة الوصفة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> ⅔</Description>
+      <Position>UnicodeHex.00002154</Position>
+      <TranslationSet>
+        <base loc="en">two thirds</base>
+        <tran loc="ar">ثلثين</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UnicodeHex.0000f709</Position>
+      <TranslationSet>
+        <base loc="en">F6</base>
+        <tran loc="ar">F6</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UnicodeHex.0000005e</Position>
+      <TranslationSet>
+        <base loc="en">caret</base>
+        <tran loc="ar">علامة إقحام</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UnicodeHex.00000004</Position>
+      <TranslationSet>
+        <base loc="en">section break</base>
+        <tran loc="ar">فاصل قسم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> ⅝</Description>
+      <Position>UnicodeHex.0000215d</Position>
+      <TranslationSet>
+        <base loc="en">five eighths</base>
+        <tran loc="ar">خمسة أثمان</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UnicodeHex.0000005d</Position>
+      <TranslationSet>
+        <base loc="en">right bracket</base>
+        <tran loc="ar">قوس أيمن</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UnicodeHex.0000005c</Position>
+      <TranslationSet>
+        <base loc="en">backslash</base>
+        <tran loc="ar">خط مائل للخلف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UnicodeHex.0000003a</Position>
+      <TranslationSet>
+        <base loc="en">colon</base>
+        <tran loc="ar">نقطتان</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> ¼</Description>
+      <Position>UnicodeHex.000000bc</Position>
+      <TranslationSet>
+        <base loc="en">one fourth</base>
+        <tran loc="ar">ربع</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UnicodeHex.00002192</Position>
+      <TranslationSet>
+        <base loc="en">right arrow</base>
+        <tran loc="ar">سهم إلى اليمين</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UnicodeHex.000021e2</Position>
+      <TranslationSet>
+        <base loc="en">right arrow</base>
+        <tran loc="ar">سهم إلى اليمين</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UnicodeHex.0000f703</Position>
+      <TranslationSet>
+        <base loc="en">right arrow</base>
+        <tran loc="ar">سهم إلى اليمين</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UnicodeHex.0000000b</Position>
+      <TranslationSet>
+        <base loc="en">vertical tab</base>
+        <tran loc="ar">علامة تبويب رأسية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UnicodeHex.00000020</Position>
+      <TranslationSet>
+        <base loc="en">space</base>
+        <tran loc="ar">مسافة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Mail.app uses this sometimes for space &lt;rdar://problem/9082100&gt;</Description>
+      <Position>UnicodeHex.000000a0</Position>
+      <TranslationSet>
+        <base loc="en">space</base>
+        <tran loc="ar">مسافة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UnicodeHex.0000002a</Position>
+      <TranslationSet>
+        <base loc="en">star</base>
+        <tran loc="ar">نجمة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UnicodeHex.0000001b</Position>
+      <TranslationSet>
+        <base loc="en">escape</base>
+        <tran loc="ar">هروب</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UnicodeHex.0000238b</Position>
+      <TranslationSet>
+        <base loc="en">escape</base>
+        <tran loc="ar">هروب</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UnicodeHex.0000f715</Position>
+      <TranslationSet>
+        <base loc="en">F 18</base>
+        <tran loc="ar">F 18</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UnicodeHex.0000005f</Position>
+      <TranslationSet>
+        <base loc="en">underline</base>
+        <tran loc="ar">تسطير</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> ‵</Description>
+      <Position>UnicodeHex.00002035</Position>
+      <TranslationSet>
+        <base loc="en">reverse prime</base>
+        <tran loc="ar">رئيسي عكسي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> ‱</Description>
+      <Position>UnicodeHex.00002031</Position>
+      <TranslationSet>
+        <base loc="en">per ten thousand sign</base>
+        <tran loc="ar">لكل علامة عشرة آلاف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UnicodeHex.00002196</Position>
+      <TranslationSet>
+        <base loc="en">home</base>
+        <tran loc="ar">البداية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UnicodeHex.0000f729</Position>
+      <TranslationSet>
+        <base loc="en">home</base>
+        <tran loc="ar">البداية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description>△</Description>
+      <Position>UnicodeHex.000025b3</Position>
+      <TranslationSet>
+        <base loc="en">up-pointing triangle</base>
+        <tran loc="ar">مثلث يشير لأعلى</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UnicodeHex.00002265</Position>
+      <TranslationSet>
+        <base loc="en">greater-than or equal to</base>
+        <tran loc="ar">أكبر من أو يساوي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UnicodeHex.0000003e</Position>
+      <TranslationSet>
+        <base loc="en">greater than</base>
+        <tran loc="ar">أكبر من</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description>#</Description>
+      <Position>UnicodeHex.00000023</Position>
+      <TranslationSet>
+        <base loc="en">number</base>
+        <tran loc="ar">رقم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description>﹟</Description>
+      <Position>UnicodeHex.0000FE5F</Position>
+      <TranslationSet>
+        <base loc="en">number</base>
+        <tran loc="ar">رقم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description>＃</Description>
+      <Position>UnicodeHex.0000FF03</Position>
+      <TranslationSet>
+        <base loc="en">number</base>
+        <tran loc="ar">رقم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> ‒</Description>
+      <Position>UnicodeHex.0000fe58</Position>
+      <TranslationSet>
+        <base loc="en">small en dash</base>
+        <tran loc="ar">شرطة قصيرة صغيرة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UnicodeHex.000021ea</Position>
+      <TranslationSet>
+        <base loc="en">caps lock</base>
+        <tran loc="ar">تثبيت العالي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> ℡</Description>
+      <Position>UnicodeHex.00002121</Position>
+      <TranslationSet>
+        <base loc="en">telephone sign</base>
+        <tran loc="ar">علامة الهاتف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UnicodeHex.00000026</Position>
+      <TranslationSet>
+        <base loc="en">ampersand</base>
+        <tran loc="ar">علامة عطف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UnicodeHex.0000f705</Position>
+      <TranslationSet>
+        <base loc="en">F2</base>
+        <tran loc="ar">F2</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description>€</Description>
+      <Position>UnicodeHex.000020ac</Position>
+      <TranslationSet>
+        <base loc="en">euro</base>
+        <tran loc="ar">يورو</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description>▾</Description>
+      <Position>UnicodeHex.000025be</Position>
+      <TranslationSet>
+        <base loc="en">down-pointing small black triangle</base>
+        <tran loc="ar">مثلث أسود صغير يشير لأسفل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UnicodeHex.0000003d</Position>
+      <TranslationSet>
+        <base loc="en">equals</base>
+        <tran loc="ar">يساوي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> ℠</Description>
+      <Position>UnicodeHex.00002120</Position>
+      <TranslationSet>
+        <base loc="en">service mark sign</base>
+        <tran loc="ar">إشارة علامة الخدمة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> ℻</Description>
+      <Position>UnicodeHex.00002138</Position>
+      <TranslationSet>
+        <base loc="en">fax sign</base>
+        <tran loc="ar">علامة الفاكس</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UnicodeHex.0000003c</Position>
+      <TranslationSet>
+        <base loc="en">less than</base>
+        <tran loc="ar">أقل من</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UnicodeHex.0000f714</Position>
+      <TranslationSet>
+        <base loc="en">F 17</base>
+        <tran loc="ar">F 17</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UnicodeHex.00000009</Position>
+      <TranslationSet>
+        <base loc="en">tab</base>
+        <tran loc="ar">الحقول</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UnicodeHex.000021e5</Position>
+      <TranslationSet>
+        <base loc="en">tab</base>
+        <tran loc="ar">الحقول</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UnicodeHex.00002303</Position>
+      <TranslationSet>
+        <base loc="en">control</base>
+        <tran loc="ar">تحكم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UnicodeHex.0000003b</Position>
+      <TranslationSet>
+        <base loc="en">semicolon</base>
+        <tran loc="ar">فاصلة منقوطة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UnicodeHex.00000007</Position>
+      <TranslationSet>
+        <base loc="en">layout break</base>
+        <tran loc="ar">فاصل المخطط</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> ×</Description>
+      <Position>UnicodeHex.000000d7</Position>
+      <TranslationSet>
+        <base loc="en">times</base>
+        <tran loc="ar">ضرب</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UnicodeHex.0000007c</Position>
+      <TranslationSet>
+        <base loc="en">vertical line</base>
+        <tran loc="ar">خط أفقي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UnicodeHex.00000025</Position>
+      <TranslationSet>
+        <base loc="en">percent</base>
+        <tran loc="ar">النسبة المئوية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> ©</Description>
+      <Position>UnicodeHex.000000a9</Position>
+      <TranslationSet>
+        <base loc="en">copyright sign</base>
+        <tran loc="ar">علامة حقوق الملكية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UnicodeHex.00002212</Position>
+      <TranslationSet>
+        <base loc="en">minus</base>
+        <tran loc="ar">ناقص</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> ±</Description>
+      <Position>UnicodeHex.000000b1</Position>
+      <TranslationSet>
+        <base loc="en">plus or minus</base>
+        <tran loc="ar">زائد أو ناقص</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description>◂</Description>
+      <Position>UnicodeHex.000025c2</Position>
+      <TranslationSet>
+        <base loc="en">left-pointing small black triangle</base>
+        <tran loc="ar">مثلث أسود صغير يشير لليسار</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UnicodeHex.00002260</Position>
+      <TranslationSet>
+        <base loc="en">not equals</base>
+        <tran loc="ar">لا يساوي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UnicodeHex.00002327</Position>
+      <TranslationSet>
+        <base loc="en">clear</base>
+        <tran loc="ar">مسح</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UnicodeHex.0000f739</Position>
+      <TranslationSet>
+        <base loc="en">clear</base>
+        <tran loc="ar">مسح</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UnicodeHex.0000f712</Position>
+      <TranslationSet>
+        <base loc="en">F 15</base>
+        <tran loc="ar">F 15</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description>◃</Description>
+      <Position>UnicodeHex.000025c3</Position>
+      <TranslationSet>
+        <base loc="en">left-pointing small triangle</base>
+        <tran loc="ar">مثلث صغير يشير لليسار</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description>’</Description>
+      <Position>UnicodeHex.00002019</Position>
+      <TranslationSet>
+        <base loc="en">right single quotation mark</base>
+        <tran loc="ar">علامة تنصيص فردية يمنى</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> ¥</Description>
+      <Position>UnicodeHex.000000a5</Position>
+      <TranslationSet>
+        <base loc="en">yen</base>
+        <tran loc="ar">ين</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> ￥</Description>
+      <Position>UnicodeHex.0000ffe5</Position>
+      <TranslationSet>
+        <base loc="en">yen</base>
+        <tran loc="ar">ين</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description>◄</Description>
+      <Position>UnicodeHex.000025c4</Position>
+      <TranslationSet>
+        <base loc="en">left-pointing black pointer</base>
+        <tran loc="ar">مؤشر أسود يشير لليسار</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description>▽</Description>
+      <Position>UnicodeHex.000025bd</Position>
+      <TranslationSet>
+        <base loc="en">down-pointing pointer</base>
+        <tran loc="ar">مؤشر يشير لأسفل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UnicodeHex.0000f710</Position>
+      <TranslationSet>
+        <base loc="en">F 13</base>
+        <tran loc="ar">F 13</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UnicodeHex.0000007b</Position>
+      <TranslationSet>
+        <base loc="en">left brace</base>
+        <tran loc="ar">قوس متعرج أيسر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description>◅</Description>
+      <Position>UnicodeHex.000025c5</Position>
+      <TranslationSet>
+        <base loc="en">left-pointing pointer</base>
+        <tran loc="ar">مؤشر يشير لليسار</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UnicodeHex.0000270e</Position>
+      <TranslationSet>
+        <base loc="en">pencil</base>
+        <tran loc="ar">قلم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> ℅</Description>
+      <Position>UnicodeHex.00002105</Position>
+      <TranslationSet>
+        <base loc="en">care of</base>
+        <tran loc="ar">عناية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UnicodeHex.0000002b</Position>
+      <TranslationSet>
+        <base loc="en">plus</base>
+        <tran loc="ar">زائد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description>°</Description>
+      <Position>UnicodeHex.000000b0</Position>
+      <TranslationSet>
+        <base loc="en">degrees</base>
+        <tran loc="ar">درجات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Localizers: this is a "masculine ordinal indicator", however in English it is generally used interchangeably with the degree symbol, in other languages it should probably be "masculine ordinal indicator"
+º</Description>
+      <Position>UnicodeHex.000000ba</Position>
+      <TranslationSet>
+        <base loc="en">degrees</base>
+        <tran loc="ar">درجات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UnicodeHex.0000f70c</Position>
+      <TranslationSet>
+        <base loc="en">F9</base>
+        <tran loc="ar">F9</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UnicodeHex.00002193</Position>
+      <TranslationSet>
+        <base loc="en">down arrow</base>
+        <tran loc="ar">سهم إلى الأسفل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UnicodeHex.000021e3</Position>
+      <TranslationSet>
+        <base loc="en">down arrow</base>
+        <tran loc="ar">سهم إلى الأسفل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UnicodeHex.0000f701</Position>
+      <TranslationSet>
+        <base loc="en">down arrow</base>
+        <tran loc="ar">سهم إلى الأسفل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UnicodeHex.0000f70e</Position>
+      <TranslationSet>
+        <base loc="en">F 11</base>
+        <tran loc="ar">F 11</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> —</Description>
+      <Position>UnicodeHex.00002014</Position>
+      <TranslationSet>
+        <base loc="en">em dash</base>
+        <tran loc="ar">شرطة طويلة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description>▵</Description>
+      <Position>UnicodeHex.000025b5</Position>
+      <TranslationSet>
+        <base loc="en">up-pointing small triangle</base>
+        <tran loc="ar">مثلث صغير يشير لأعلى</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> ―</Description>
+      <Position>UnicodeHex.00002015</Position>
+      <TranslationSet>
+        <base loc="en">horizontal bar</base>
+        <tran loc="ar">شريط أفقي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> “</Description>
+      <Position>UnicodeHex.0000201c</Position>
+      <TranslationSet>
+        <base loc="en">left double quotation mark</base>
+        <tran loc="ar">علامة تنصيص مزدوجة يسرى</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description>★ (This is used by iTunes for song ratings)</Description>
+      <Position>UnicodeHex.00002605</Position>
+      <TranslationSet>
+        <base loc="en">Black Star</base>
+        <tran loc="ar">نجمة سوداء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UnicodeHex.00002264</Position>
+      <TranslationSet>
+        <base loc="en">less-than or equal to</base>
+        <tran loc="ar">أقل من أو يساوي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description>»</Description>
+      <Position>UnicodeHex.000000bb</Position>
+      <TranslationSet>
+        <base loc="en">right-pointing double arrow</base>
+        <tran loc="ar">سهم مزدوج يشير لليمين</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> ... this is the KC normalization of an ellipsis (…)</Description>
+      <Position>UnicodeHex.0000002e0000002e0000002e</Position>
+      <TranslationSet>
+        <base loc="en">ellipsis</base>
+        <tran loc="ar">علامة قطع</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> … This should never actually be used, because it does not match the KC normalization</Description>
+      <Position>UnicodeHex.00002026</Position>
+      <TranslationSet>
+        <base loc="en">ellipsis</base>
+        <tran loc="ar">علامة قطع</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UnicodeHex.0000f70a</Position>
+      <TranslationSet>
+        <base loc="en">F7</base>
+        <tran loc="ar">F7</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> ⅜</Description>
+      <Position>UnicodeHex.0000215c</Position>
+      <TranslationSet>
+        <base loc="en">three eighths</base>
+        <tran loc="ar">ثلاثة أثمان</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UnicodeHex.00000040</Position>
+      <TranslationSet>
+        <base loc="en">at</base>
+        <tran loc="ar">في</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description>ª</Description>
+      <Position>UnicodeHex.000000aa</Position>
+      <TranslationSet>
+        <base loc="en">feminine ordinal indicator</base>
+        <tran loc="ar">مؤشر عدد ترتيبي مؤنث</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> ™</Description>
+      <Position>UnicodeHex.00002122</Position>
+      <TranslationSet>
+        <base loc="en">trademark</base>
+        <tran loc="ar">العلامة التجارية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> ®"</Description>
+      <Position>UnicodeHex.000000ae</Position>
+      <TranslationSet>
+        <base loc="en">registered sign</base>
+        <tran loc="ar">علامة مسجلة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UnicodeHex.00000029</Position>
+      <TranslationSet>
+        <base loc="en">right parenthesis</base>
+        <tran loc="ar">قوس هلالي أيمن</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UnicodeHex.00000024</Position>
+      <TranslationSet>
+        <base loc="en">dollar</base>
+        <tran loc="ar">دولار</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> №</Description>
+      <Position>UnicodeHex.00002116</Position>
+      <TranslationSet>
+        <base loc="en">numero sign</base>
+        <tran loc="ar">إشارة الرقم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UnicodeHex.0000002c</Position>
+      <TranslationSet>
+        <base loc="en">comma</base>
+        <tran loc="ar">فاصلة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Question mark with combining circle, as used in the International Keyboard Viewer</Description>
+      <Position>UnicodeHex.0000003f000020dd</Position>
+      <TranslationSet>
+        <base loc="en">help</base>
+        <tran loc="ar">مساعدة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UnicodeHex.0000f746</Position>
+      <TranslationSet>
+        <base loc="en">help</base>
+        <tran loc="ar">مساعدة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UnicodeHex.0000002d</Position>
+      <TranslationSet>
+        <base loc="en">hyphen</base>
+        <tran loc="ar">واصلة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UnicodeHex.000021de</Position>
+      <TranslationSet>
+        <base loc="en">page up</base>
+        <tran loc="ar">صفحة إلى أعلى</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UnicodeHex.0000f72c</Position>
+      <TranslationSet>
+        <base loc="en">page up</base>
+        <tran loc="ar">صفحة إلى أعلى</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> ℃</Description>
+      <Position>UnicodeHex.00002103</Position>
+      <TranslationSet>
+        <base loc="en">degrees celsius</base>
+        <tran loc="ar">درجات مئوية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> ℗</Description>
+      <Position>UnicodeHex.00002117</Position>
+      <TranslationSet>
+        <base loc="en">sound recording copyright sign</base>
+        <tran loc="ar">علامة حقوق ملكية تسجيل الصوت</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> ▶</Description>
+      <Position>UnicodeHex.000025b6</Position>
+      <TranslationSet>
+        <base loc="en">right-pointing black triangle</base>
+        <tran loc="ar">مثلث أسود يشير لليمين</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description>▴</Description>
+      <Position>UnicodeHex.000025b4</Position>
+      <TranslationSet>
+        <base loc="en">up-pointing small black triangle</base>
+        <tran loc="ar">مثلث أسود صغير يشير لأعلى</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UnicodeHex.0000f708</Position>
+      <TranslationSet>
+        <base loc="en">F5</base>
+        <tran loc="ar">F5</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description>‒</Description>
+      <Position>UnicodeHex.00002012</Position>
+      <TranslationSet>
+        <base loc="en">figure dash</base>
+        <tran loc="ar">شرطة رقمية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description>–</Description>
+      <Position>UnicodeHex.00002013</Position>
+      <TranslationSet>
+        <base loc="en">en dash</base>
+        <tran loc="ar">شرطة قصيرة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UnicodeHex.0000002f</Position>
+      <TranslationSet>
+        <base loc="en">forward slash</base>
+        <tran loc="ar">خط مائل للأمام</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> ´</Description>
+      <Position>UnicodeHex.000000b4</Position>
+      <TranslationSet>
+        <base loc="en">prime</base>
+        <tran loc="ar">طباعة مثلى</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> ′</Description>
+      <Position>UnicodeHex.00002032</Position>
+      <TranslationSet>
+        <base loc="en">prime</base>
+        <tran loc="ar">طباعة مثلى</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UnicodeHex.00000022</Position>
+      <TranslationSet>
+        <base loc="en">quotation mark</base>
+        <tran loc="ar">علامة اقتباس</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UnicodeHex.00000060</Position>
+      <TranslationSet>
+        <base loc="en">accent</base>
+        <tran loc="ar">علامة تشكيل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UnicodeHex.0000f706</Position>
+      <TranslationSet>
+        <base loc="en">F3</base>
+        <tran loc="ar">F3</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UnicodeHex.0000007d</Position>
+      <TranslationSet>
+        <base loc="en">right brace</base>
+        <tran loc="ar">قوس متعرج أيمن</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UnicodeHex.0000f8ff</Position>
+      <TranslationSet>
+        <base loc="en">Apple</base>
+        <tran loc="ar">Apple</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> ¢</Description>
+      <Position>UnicodeHex.000000a2</Position>
+      <TranslationSet>
+        <base loc="en">cents</base>
+        <tran loc="ar">سنتات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> ￠</Description>
+      <Position>UnicodeHex.0000ffe0</Position>
+      <TranslationSet>
+        <base loc="en">cents</base>
+        <tran loc="ar">سنتات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> ¶</Description>
+      <Position>UnicodeHex.000000b6</Position>
+      <TranslationSet>
+        <base loc="en">pilcrow</base>
+        <tran loc="ar">علامة فقرة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UnicodeHex.00002713</Position>
+      <TranslationSet>
+        <base loc="en">check mark</base>
+        <tran loc="ar">علامة تحديد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UnicodeHex.00002191</Position>
+      <TranslationSet>
+        <base loc="en">up arrow</base>
+        <tran loc="ar">سهم إلى أعلى</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UnicodeHex.000021e1</Position>
+      <TranslationSet>
+        <base loc="en">up arrow</base>
+        <tran loc="ar">سهم إلى أعلى</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UnicodeHex.0000f700</Position>
+      <TranslationSet>
+        <base loc="en">up arrow</base>
+        <tran loc="ar">سهم إلى أعلى</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> ⅓</Description>
+      <Position>UnicodeHex.00002153</Position>
+      <TranslationSet>
+        <base loc="en">one third</base>
+        <tran loc="ar">ثلث</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UnicodeHex.0000f716</Position>
+      <TranslationSet>
+        <base loc="en">F 19</base>
+        <tran loc="ar">F 19</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 𝄞</Description>
+      <Position>UnicodeHex.0001d11e</Position>
+      <TranslationSet>
+        <base loc="en">Gee Clef</base>
+        <tran loc="ar">Gee Clef</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> ‰</Description>
+      <Position>UnicodeHex.00002030</Position>
+      <TranslationSet>
+        <base loc="en">per mille sign</base>
+        <tran loc="ar">علامة في الألف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> VoiceOver specific key mappings</Description>
+      <Position>UnicodeHex.0000f704</Position>
+      <TranslationSet>
+        <base loc="en">F1</base>
+        <tran loc="ar">F1</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>AccessibilitySupport/System/Library/PrivateFrameworks/AccessibilitySupport.framework/Versions/A/Frameworks/AccessibilityFoundation.framework/Versions/A/Resources/en.lproj/Localizable.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>radioButton.state.selected</Position>
+      <TranslationSet>
+        <base loc="en">selected</base>
+        <tran loc="ar">محدد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>toggleButton.state.selected</Position>
+      <TranslationSet>
+        <base loc="en">selected</base>
+        <tran loc="ar">محدد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description>
+  Localizable.strings
+  AccessibilitySupport
+
+  Created by Susumu Harada on 5/5/17.
+  Copyright © 2017 Apple Inc. All rights reserved.
+</Description>
+      <Position>checkbox.state.unchecked</Position>
+      <TranslationSet>
+        <base loc="en">unchecked</base>
+        <tran loc="ar">غير محدد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>radioButton.state.unselected</Position>
+      <TranslationSet>
+        <base loc="en">unselected</base>
+        <tran loc="ar">غير محدد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>toggleButton.state.unselected</Position>
+      <TranslationSet>
+        <base loc="en">unselected</base>
+        <tran loc="ar">غير محدد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>disclosureButton.state.collapsed</Position>
+      <TranslationSet>
+        <base loc="en">Collapsed</base>
+        <tran loc="ar">مطوي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>windowButton.close</Position>
+      <TranslationSet>
+        <base loc="en">Close</base>
+        <tran loc="ar">إغلاق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>windowButton.zoom</Position>
+      <TranslationSet>
+        <base loc="en">Zoom</base>
+        <tran loc="ar">تكبير/تصغير</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>windowButton.minimize</Position>
+      <TranslationSet>
+        <base loc="en">Minimize</base>
+        <tran loc="ar">تصغير</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Menu item shortcut character</Description>
+      <Position>menuItem.shortcut.space</Position>
+      <TranslationSet>
+        <base loc="en">Space</base>
+        <tran loc="ar">مسافة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Localized string that should be used to represent a pause within a spoken text.</Description>
+      <Position>speech.description.pause</Position>
+      <TranslationSet>
+        <base loc="en">, </base>
+        <tran loc="ar">‏، </tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>checkbox.state.checked</Position>
+      <TranslationSet>
+        <base loc="en">checked</base>
+        <tran loc="ar">تم تحديده</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>disclosureButton.state.expanded</Position>
+      <TranslationSet>
+        <base loc="en">Expanded</base>
+        <tran loc="ar">موسع</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>windowButton.fullScreen</Position>
+      <TranslationSet>
+        <base loc="en">Full Screen</base>
+        <tran loc="ar">ملء الشاشة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>checkbox.state.mixed</Position>
+      <TranslationSet>
+        <base loc="en">mixed</base>
+        <tran loc="ar">مختلط</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+</Proj>

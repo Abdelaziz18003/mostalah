@@ -1,0 +1,518 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Proj>
+  <ProjName>AirTraffic</ProjName>
+  <File>
+    <Filepath>AirTraffic/System/Library/PrivateFrameworks/AirTraffic.framework/en.lproj/AirTraffic.strings</Filepath>
+    <TextItem>
+      <Description> 
+  AirTraffic.strings
+  AirTraffic
+
+  Created by Ted Schmidt on 7/13/11.
+  Copyright 2011 Apple, Inc. All rights reserved.
+</Description>
+      <Position>ITUNES_SYNC</Position>
+      <TranslationSet>
+        <base loc="en">iTunes Sync</base>
+        <tran loc="ar">مزامنة iTunes</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>APP_INSTALL_FAIL_PROFILE_FORMAT</Position>
+      <TranslationSet>
+        <base loc="en">‘%@’ failed to install.</base>
+        <tran loc="ar">فشل تثبيت "%@".</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ITUNES_SYNC_IN_PROGRESS</Position>
+      <TranslationSet>
+        <base loc="en">iTunes Sync in Progress</base>
+        <tran loc="ar">جاري تزامن iTunes</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>NUM_ITEMS_FORMAT_PLURAL</Position>
+      <TranslationSet>
+        <base loc="en">%@ items could not be synced. See iTunes for more information.</base>
+        <tran loc="ar">تعذر مزامنة %@ من العناصر. للمزيد من المعلومات انظر iTunes.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICLOUD_RESTORE</Position>
+      <TranslationSet>
+        <base loc="en">iCloud Restore</base>
+        <tran loc="ar">استعادة iCloud</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>NUM_ITEMS_FORMAT_SINGLE</Position>
+      <TranslationSet>
+        <base loc="en">%@ item could not be synced. See iTunes for more information.</base>
+        <tran loc="ar">تعذر مزامنة %@ من العناصر. للمزيد من المعلومات انظر iTunes.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>WAIT_FOR_FINISH_FORMAT_DEVICE</Position>
+      <TranslationSet>
+        <base loc="en">Wait for iTunes to finish syncing your content before disconnecting your %@.</base>
+        <tran loc="ar">قم بانتظار iTunes لإنهاء مزامنة المحتوى الخاص بك قبل قطع اتصال الـ %@ الخاص بك.</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>AirTraffic/System/Library/PreferenceBundles/AirTrafficSettings.bundle/en.lproj/AirTrafficSettings.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>ASSET_TYPE_ITUNESUVIDEOS</Position>
+      <TranslationSet>
+        <base loc="en">iTunes U Videos</base>
+        <tran loc="ar">فيديوهات iTunes U</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>HEADER_TEXT_WIFI_IPAD</Position>
+      <TranslationSet>
+        <base loc="en">Automatically sync with iTunes on your computer when your iPad is plugged in to power and connected to Wi‑Fi.</base>
+        <tran loc="ar">التزامن تلقائيًا مع iTunes على الكمبيوتر الخاص بك عندما يكون الـ iPad الخاص بك موصولًا بالطاقة ومتصلًا بالـ Wi‑Fi.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ITUNES_WLAN_SYNC</Position>
+      <TranslationSet>
+        <base loc="en">iTunes WLAN Sync</base>
+        <tran loc="ar">مزامنة iTunes WLAN</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ITUNES_WLAN_SYNC_SHORT</Position>
+      <TranslationSet>
+        <base loc="en">iTunes WLAN Sync</base>
+        <tran loc="ar">مزامنة iTunes WLAN</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ITUNES_WLAN_SYNC_SHORT_IPAD</Position>
+      <TranslationSet>
+        <base loc="en">iTunes WLAN Sync</base>
+        <tran loc="ar">مزامنة iTunes WLAN</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>HEADER_TEXT_WLAN_IPHONE</Position>
+      <TranslationSet>
+        <base loc="en">Automatically sync with iTunes on your computer when your iPhone is plugged in to power and connected to WLAN.</base>
+        <tran loc="ar">التزامن تلقائيًا مع iTunes على الكمبيوتر الخاص بك عندما يكون الـ iPhone الخاص بك موصولًا بالطاقة ومتصلًا بـ WLAN.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ASSET_TYPE_BOOKS</Position>
+      <TranslationSet>
+        <base loc="en">Books</base>
+        <tran loc="ar">الكتب</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>LOOKING_FOR_HOST_NO_NAME</Position>
+      <TranslationSet>
+        <base loc="en">Looking for host…</base>
+        <tran loc="ar">جاري البحث عن مضيف…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>LAST_SYNC</Position>
+      <TranslationSet>
+        <base loc="en">Last Sync:</base>
+        <tran loc="ar">آخر مزامنة:</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>HEADER_TEXT_WLAN_IPOD_TOUCH</Position>
+      <TranslationSet>
+        <base loc="en">Automatically sync with iTunes on your computer when your iPod touch is plugged in to power and connected to WLAN.</base>
+        <tran loc="ar">التزامن تلقائيًا مع iTunes على الكمبيوتر الخاص بك عندما يكون الـ iPod touch الخاص بك موصولًا بالطاقة ومتصلًا بـ WLAN.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ASSET_TYPE_MUSIC</Position>
+      <TranslationSet>
+        <base loc="en">Music</base>
+        <tran loc="ar">الموسيقى</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>INSTALLING</Position>
+      <TranslationSet>
+        <base loc="en">Installing %d of %d: “%@”</base>
+        <tran loc="ar">يتم تثبيت %d من ‏%d: "‏%@"</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ITUNES_WLAN_CONNECT_IPHONE</Position>
+      <TranslationSet>
+        <base loc="en">To enable WLAN syncing with iTunes, connect to iTunes on your computer using a cable and click “Sync with this iPhone over WLAN”.</base>
+        <tran loc="ar">لتمكين مزامنة WLAN مع iTunes، قم بالتوصيل مع iTunes على الكمبيوتر الخاص بك باستخدام كبل ثم النقر على "مزامنة مع هذا الـ iPhone عبر WLAN".</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ITUNES_WIFI_SYNC</Position>
+      <TranslationSet>
+        <base loc="en">iTunes Wi-Fi Sync</base>
+        <tran loc="ar">مزامنة iTunes عبر Wi-Fi</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ITUNES_WIFI_SYNC_SHORT</Position>
+      <TranslationSet>
+        <base loc="en">iTunes Wi-Fi Sync</base>
+        <tran loc="ar">مزامنة iTunes عبر Wi-Fi</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ITUNES_WIFI_SYNC_SHORT_IPAD</Position>
+      <TranslationSet>
+        <base loc="en">iTunes Wi-Fi Sync</base>
+        <tran loc="ar">مزامنة iTunes عبر Wi-Fi</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>HEADER_TEXT_WLAN_IPAD</Position>
+      <TranslationSet>
+        <base loc="en">Automatically sync with iTunes on your computer when your iPad is plugged in to power and connected to WLAN.</base>
+        <tran loc="ar">التزامن تلقائيًا مع iTunes على الكمبيوتر الخاص بك عندما يكون الـ iPad الخاص بك موصولًا بالطاقة ومتصلًا بـ WLAN.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ASSET_TYPE_AUDIOBOOKS</Position>
+      <TranslationSet>
+        <base loc="en">Audiobooks</base>
+        <tran loc="ar">الكتب الصوتية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CANCEL_SYNC</Position>
+      <TranslationSet>
+        <base loc="en">Cancel Sync</base>
+        <tran loc="ar">إلغاء المزامنة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>HEADER_TEXT_WIFI_IPHONE</Position>
+      <TranslationSet>
+        <base loc="en">Automatically sync with iTunes on your computer when your iPhone is plugged in to power and connected to Wi‑Fi.</base>
+        <tran loc="ar">التزامن تلقائيًا مع iTunes على الكمبيوتر الخاص بك عندما يكون الـ iPhone الخاص بك موصولًا بالطاقة ومتصلًا بالـ Wi‑Fi.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ITUNES_WIFI_CONNECT_IPHONE</Position>
+      <TranslationSet>
+        <base loc="en">To enable Wi-Fi syncing with iTunes, connect to iTunes on your computer using a cable and click “Sync with this iPhone over Wi‑Fi”.</base>
+        <tran loc="ar">لتمكين مزامنة Wi-Fi مع iTunes، قم بالتوصيل مع iTunes على الكمبيوتر الخاص بك باستخدام كبل ثم النقر على "مزامنة مع هذا الـ iPhone عبر الـ Wi-Fi".</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ASSET_TYPE_TVSHOWS</Position>
+      <TranslationSet>
+        <base loc="en">TV Shows</base>
+        <tran loc="ar">برامج التلفاز</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>COPYING</Position>
+      <TranslationSet>
+        <base loc="en">Copying %d of %d: “%@”</base>
+        <tran loc="ar">نسخ %d من ‏%d: "‏%@"</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SYNCED_ASSET_TWO_ITEMS_CONJUCTION</Position>
+      <TranslationSet>
+        <base loc="en"> and </base>
+        <tran loc="ar"> و </tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Asset types</Description>
+      <Position>ASSET_TYPE_APPLICATIONS</Position>
+      <TranslationSet>
+        <base loc="en">Apps</base>
+        <tran loc="ar">التطبيقات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SYNCING</Position>
+      <TranslationSet>
+        <base loc="en">Syncing...</base>
+        <tran loc="ar">جاري المزامنة...</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>STEP_N_OF_N</Position>
+      <TranslationSet>
+        <base loc="en">Step %d of %d</base>
+        <tran loc="ar">الخطوة %d من %d</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SYNC_STAGE_METADATA</Position>
+      <TranslationSet>
+        <base loc="en">Metadata</base>
+        <tran loc="ar">بيانات التعريف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>WAITING_FOR_HOST</Position>
+      <TranslationSet>
+        <base loc="en">Waiting for %@…</base>
+        <tran loc="ar">الانتظار لـ %@…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ITUNES_WIFI_CONNECT_IPOD_TOUCH</Position>
+      <TranslationSet>
+        <base loc="en">To enable Wi-Fi syncing with iTunes, connect to iTunes on your computer using a cable and click “Sync with this iPod over Wi‑Fi”.</base>
+        <tran loc="ar">لتمكين مزامنة Wi-Fi مع iTunes، قم بالتوصيل مع iTunes على الكمبيوتر الخاص بك باستخدام كبل ثم النقر على "مزامنة مع هذا الـ iPod عبر الـ Wi-Fi".</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>HEADER_TEXT_WIFI_IPOD_TOUCH</Position>
+      <TranslationSet>
+        <base loc="en">Automatically sync with iTunes on your computer when your iPod touch is plugged in to power and connected to Wi‑Fi.</base>
+        <tran loc="ar">التزامن تلقائيًا مع iTunes على الكمبيوتر الخاص بك عندما يكون الـ iPod touch الخاص بك موصولًا بالطاقة ومتصلًا بالـ Wi‑Fi.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ASSET_TYPE_VIDEOPODCASTS</Position>
+      <TranslationSet>
+        <base loc="en">Video Podcasts</base>
+        <tran loc="ar">فيديو بودكاست</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ASSET_TYPE_ITUNESU</Position>
+      <TranslationSet>
+        <base loc="en">iTunes U</base>
+        <tran loc="ar">iTunes U</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ASSET_TYPE_MOVIES</Position>
+      <TranslationSet>
+        <base loc="en">Movies</base>
+        <tran loc="ar">الأفلام</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ASSET_TYPE_PODCASTS</Position>
+      <TranslationSet>
+        <base loc="en">Podcasts</base>
+        <tran loc="ar">بودكاست</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SYNCED_ASSET_CONJUCTION</Position>
+      <TranslationSet>
+        <base loc="en">, and </base>
+        <tran loc="ar">‏، و </tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ITUNES_WIFI_CONNECT_IPAD</Position>
+      <TranslationSet>
+        <base loc="en">To enable Wi-Fi syncing with iTunes, connect to iTunes on your computer using a cable and click “Sync with this iPad over Wi‑Fi”.</base>
+        <tran loc="ar">لتمكين مزامنة Wi-Fi مع iTunes، قم بالتوصيل مع iTunes على الكمبيوتر الخاص بك باستخدام كبل ثم النقر على "مزامنة مع هذا الـ iPad عبر الـ Wi-Fi".</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>NOT_CONNECTED_TEXT</Position>
+      <TranslationSet>
+        <base loc="en">Sync will resume when “%@” is available.</base>
+        <tran loc="ar">سيتم استكمال المزامنة عندما يكون "‏%@" جاهزًا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ASSET_TYPE_MUSICVIDEOS</Position>
+      <TranslationSet>
+        <base loc="en">Music Videos</base>
+        <tran loc="ar">مقاطع الفيديو الموسيقية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>STEP_N_OF_N_WITH_STATUS</Position>
+      <TranslationSet>
+        <base loc="en">Step %d of %d: %@</base>
+        <tran loc="ar">الخطوة %d من %d: %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SYNC_NOW</Position>
+      <TranslationSet>
+        <base loc="en">Sync Now</base>
+        <tran loc="ar">مزامنة الآن</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SYNCED_ASSET_SEPARATOR</Position>
+      <TranslationSet>
+        <base loc="en">, </base>
+        <tran loc="ar">‏، </tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ASSET_TYPE_PHOTOS</Position>
+      <TranslationSet>
+        <base loc="en">Photos</base>
+        <tran loc="ar">الصور</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 
+  AirTrafficSettings.strings
+  AirTraffic
+
+  Created by Pete Rossi on 3/10/11.
+  Copyright 2011 Apple Inc. All rights reserved.
+</Description>
+      <Position>SYNC_STAGE_PREP</Position>
+      <TranslationSet>
+        <base loc="en">Preparing</base>
+        <tran loc="ar">الإعداد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ASSET_TYPE_DATA</Position>
+      <TranslationSet>
+        <base loc="en">Data</base>
+        <tran loc="ar">البيانات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ITUNES_WLAN_CONNECT_IPAD</Position>
+      <TranslationSet>
+        <base loc="en">To enable WLAN syncing with iTunes, connect to iTunes on your computer using a cable and click “Sync with this iPad over WLAN”.</base>
+        <tran loc="ar">لتمكين مزامنة WLAN مع iTunes، قم بالتوصيل مع iTunes على الكمبيوتر الخاص بك باستخدام كبل ثم النقر على "مزامنة مع هذا الـ iPad عبر WLAN".</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ASSET_TYPE_MEDIA</Position>
+      <TranslationSet>
+        <base loc="en">Media</base>
+        <tran loc="ar">الوسائط</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SYNC_STAGE_ASSETS</Position>
+      <TranslationSet>
+        <base loc="en">Syncing %@</base>
+        <tran loc="ar">مزامنة %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SYNC_STAGE_RECONCILE</Position>
+      <TranslationSet>
+        <base loc="en">Reconciling</base>
+        <tran loc="ar">تسوية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>LAST_SYNC_AT</Position>
+      <TranslationSet>
+        <base loc="en">at</base>
+        <tran loc="ar">في</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ASSET_SYNC</Position>
+      <TranslationSet>
+        <base loc="en">Syncing %@ to “%@”</base>
+        <tran loc="ar">مزامنة %@ إلى "%@"</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>LOOKING_FOR_HOST</Position>
+      <TranslationSet>
+        <base loc="en">Looking for %@…</base>
+        <tran loc="ar">جاري البحث عن %@…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ITUNES_WLAN_CONNECT_IPOD_TOUCH</Position>
+      <TranslationSet>
+        <base loc="en">To enable WLAN syncing with iTunes, connect to iTunes on your computer using a cable and click “Sync with this iPod over WLAN”.</base>
+        <tran loc="ar">لتمكين مزامنة WLAN مع iTunes، قم بالتوصيل مع iTunes على الكمبيوتر الخاص بك باستخدام كبل ثم النقر على "مزامنة مع هذا الـ iPod عبر WLAN".</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ASSET_TYPE_TONES</Position>
+      <TranslationSet>
+        <base loc="en">Tones</base>
+        <tran loc="ar">النغمات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ASSET_TYPE_VOICEMEMOS</Position>
+      <TranslationSet>
+        <base loc="en">Voice Memos</base>
+        <tran loc="ar">المذكرات الصوتية</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+</Proj>

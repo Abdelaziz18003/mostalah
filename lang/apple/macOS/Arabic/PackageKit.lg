@@ -1,0 +1,1632 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Proj>
+  <ProjName>PackageKit</ProjName>
+  <File>
+    <Filepath>PackageKit/System/Library/PrivateFrameworks/PackageKit.framework/Versions/A/Resources/en.lproj/PKDistribution.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>DISTRIBUTION_CHOICE_ID_CONFLICT</Position>
+      <TranslationSet>
+        <base loc="en">The choice identifier \U201C%@\U201D is already being used by another choice. Choice identifiers must be unique.</base>
+        <tran loc="ar">معرّف الاختيار \U201C%@\U201D مستخدم بالفعل من قبل اختيار آخر. يجب أن تكون معرّفات الاختيار فريدة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DISTRIBUTION_CHOICE_ID_EMPTY</Position>
+      <TranslationSet>
+        <base loc="en">The choice identifier cannot be empty or missing.</base>
+        <tran loc="ar">لا يمكن أن يكون معرّف الاختيار فارغًا أو مفقودًا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DISTRIBUTION_DOCUMENT_INVALID</Position>
+      <TranslationSet>
+        <base loc="en">This document is not a valid distribution.</base>
+        <tran loc="ar">هذا المستند غير صالح للتوزيع.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DISTRIBUTION_DOCUMENT_EMPTY</Position>
+      <TranslationSet>
+        <base loc="en">This installer document is empty.</base>
+        <tran loc="ar">المستند الخاص بهذا المثبّت فارغ.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DISTRIBUTION_VERSION_ERROR</Position>
+      <TranslationSet>
+        <base loc="en">This installer document requires a newer version of the OS\U00A0X Installer (version %@ is required, version %@ is supported).</base>
+        <tran loc="ar">يتطلب مستند المثبت هذا إصدارًا أحدث من مثبّت OS\U00A0X (الإصدار %@ مطلوب، الإصدار %@ مدعوم).</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>PackageKit/System/Library/PrivateFrameworks/PackageKit.framework/Frameworks/PackageUIKit.framework/Versions/A/Resources/en.lproj/Localizable.strings</Filepath>
+    <TextItem>
+      <Description>
+ Localizable.strings
+ PackageKit
+ 
+ Created by scento on 4/10/12.
+ Copyright (c) 2012 Apple Inc. All rights reserved.
+ </Description>
+      <Position>You can not install on this disk.</Position>
+      <TranslationSet>
+        <base loc="en">You can not install on this disk.</base>
+        <tran loc="ar">لا يمكنك التثبيت على هذا القرص.</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>PackageKit/System/Library/SystemProfiler/SPInstallHistoryReporter.spreporter/Contents/Resources/en.lproj/Localizable.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>install_version</Position>
+      <TranslationSet>
+        <base loc="en">Version</base>
+        <tran loc="ar">الإصدار</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>_name</Position>
+      <TranslationSet>
+        <base loc="en">Software Name</base>
+        <tran loc="ar">اسم البرنامج</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 
+  Localizable.strings
+  SPInstallHistoryReporter
+
+  Created by Randy Saldinger on 2/16/12.
+  Copyright (c) 2012 Apple Inc. All rights reserved.
+</Description>
+      <Position>SPInstallHistoryDataType</Position>
+      <TranslationSet>
+        <base loc="en">Installations</base>
+        <tran loc="ar">التثبيتات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>package_source</Position>
+      <TranslationSet>
+        <base loc="en">Source</base>
+        <tran loc="ar">المصدر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>install_date</Position>
+      <TranslationSet>
+        <base loc="en">Install Date</base>
+        <tran loc="ar">تاريخ التثبيت</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>package_source_other</Position>
+      <TranslationSet>
+        <base loc="en">3rd Party</base>
+        <tran loc="ar">جهة خارجية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>package_source_appstore</Position>
+      <TranslationSet>
+        <base loc="en">Mac App Store</base>
+        <tran loc="ar">Mac App Store</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>package_source_apple</Position>
+      <TranslationSet>
+        <base loc="en">Apple</base>
+        <tran loc="ar">Apple</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>PackageKit/System/Library/PrivateFrameworks/PackageKit.framework/Versions/A/Resources/en.lproj/PKSignedContainer.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>OUT_OF_SPACE_ERROR</Position>
+      <TranslationSet>
+        <base loc="en">The archive “%@” can’t be expanded because the selected volume doesn’t have enough free space.</base>
+        <tran loc="ar">لا يمكن توسيع الأرشيف \"%@\" نظرًا لعدم توفر مساحة خالية كافية على وحدة التخزين المحددة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ARCHIVE_KEY_ERROR</Position>
+      <TranslationSet>
+        <base loc="en">The archive can’t be written to “%@”, because there was a problem creating the signature.</base>
+        <tran loc="ar">لا يمكن كتابة الأرشيف إلى \"%@\"، بسبب حدوث مشكلة في إنشاء التوقيع.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>EXPAND_ERROR</Position>
+      <TranslationSet>
+        <base loc="en">The archive “%@” is damaged and can’t be expanded.</base>
+        <tran loc="ar">الأرشيف \"%@\" تالف ولا يمكن توسيعه.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 
+  PKSignedContainer.strings
+  PackageKit
+
+  Copyright (c) 2011 Apple Inc. All rights reserved.
+</Description>
+      <Position>CHECKING</Position>
+      <TranslationSet>
+        <base loc="en">Verifying digital signature…</base>
+        <tran loc="ar">يتم الآن التحقق من التوقيع الرقمي...</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ASSESSMENT_RO_ERROR</Position>
+      <TranslationSet>
+        <base loc="en">The archive “%@” is on the disk “%@” which can’t be changed. Drag it to another disk and open it again.</base>
+        <tran loc="ar">الأرشيف \"%@\" موجود على القرص \"%@\" الذي لا يمكن تغييره. اسحبه إلى قرص آخر وافتحه مرة أخرى.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>VERSION_ERROR</Position>
+      <TranslationSet>
+        <base loc="en">The archive “%@” uses features from a newer version of this software and can’t be expanded.</base>
+        <tran loc="ar">يستخدم الأرشيف \"%@\" ميزات من إصدار أحدث لهذا البرنامج ولا يمكن توسيعه.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ASSESSMENT_ERROR</Position>
+      <TranslationSet>
+        <base loc="en">The archive “%@” comes from an unidentified developer.</base>
+        <tran loc="ar">الأرشيف \"%@\"يأتي من مطور غير معلوم.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SHOVE_PAYLOAD_ERROR</Position>
+      <TranslationSet>
+        <base loc="en">The archive “%@” failed to be moved to the final destination due to the error: %@.</base>
+        <tran loc="ar">فشل نقل الأرشيف \"%@\" إلى الوجهة النهائية بسبب الفشل: %@.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>NON_APPLE_TRUST_ERROR</Position>
+      <TranslationSet>
+        <base loc="en">The archive “%@” does not come from Apple.</base>
+        <tran loc="ar">مصدر الأرشيف \"%@\" ليس Apple.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SANDBOX_CREATION_ERROR</Position>
+      <TranslationSet>
+        <base loc="en">A temporary directory could not be created for the archive “%@”.</base>
+        <tran loc="ar">تعذر إنشاء دليل مؤقت للأرشيف \"%@\".</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>NO_TEMP_DIR_ERROR</Position>
+      <TranslationSet>
+        <base loc="en">A temporary directory could not be found for the archive “%@”.</base>
+        <tran loc="ar">تعذر العثور على دليل مؤقت للأرشيف \"%@\".</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ARCHIVING</Position>
+      <TranslationSet>
+        <base loc="en">Compressing items into “%@”</base>
+        <tran loc="ar">يتم الآن ضغط العناصر إلى \"%@\"</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>EXPANDING</Position>
+      <TranslationSet>
+        <base loc="en">Expanding items from “%@”</base>
+        <tran loc="ar">يتم الآن توسيع العناصر من \"%@\"</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>PackageKit/System/Library/PrivateFrameworks/PackageKit.framework/Versions/A/Resources/en.lproj/PKTimeRemainingFormatter.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>&lt;n&gt; seconds</Position>
+      <TranslationSet>
+        <base loc="en">%@ seconds</base>
+        <tran loc="ar">%@ من الثواني</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>a minute</Position>
+      <TranslationSet>
+        <base loc="en">a minute</base>
+        <tran loc="ar">دقيقة </tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UnknownTime</Position>
+      <TranslationSet>
+        <base loc="en">--</base>
+        <tran loc="ar">--</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>an hour</Position>
+      <TranslationSet>
+        <base loc="en">an hour</base>
+        <tran loc="ar">ساعة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Less than a minute</Position>
+      <TranslationSet>
+        <base loc="en">Less than a minute</base>
+        <tran loc="ar">أقل من دقيقة واحدة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>&lt;n&gt; hours</Position>
+      <TranslationSet>
+        <base loc="en">%@ hours</base>
+        <tran loc="ar">%@ من الساعات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>&lt;n&gt; minutes</Position>
+      <TranslationSet>
+        <base loc="en">%@ minutes</base>
+        <tran loc="ar">%@ من الدقائق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>About &lt;time&gt;</Position>
+      <TranslationSet>
+        <base loc="en">About %@</base>
+        <tran loc="ar">حوالي %@</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>PackageKit/System/Library/PrivateFrameworks/PackageKit.framework/Versions/A/Resources/en.lproj/PKCheckErrors.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>Script \"%@\" is not a Mach-O executable and cannot be read as text</Position>
+      <TranslationSet>
+        <base loc="en">Script \"%@\" is not a Mach-O executable and cannot be read as text</base>
+        <tran loc="ar">البرنامج النصي \"%@\" ليس ملف Mach-O قابل للتنفيذ ولا يمكن قراءته كنص</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>No choices defined for %@ or default UI</Position>
+      <TranslationSet>
+        <base loc="en">No choices defined for %@ or default UI</base>
+        <tran loc="ar">لم يتم تعريف اختيارات لـ %@ أو واجهة المستخدم الافتراضية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Bundle at \"%@\" has version %@ in PackageInfo, but %@ in Payload</Position>
+      <TranslationSet>
+        <base loc="en">Bundle at \"%@\" has version %@ in PackageInfo, but %@ in Payload</base>
+        <tran loc="ar">الحزمة في \"%@\" لديها الإصدار \"%@\" في PackageInfo، ولكنه \"%@\" في الحمولة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>No choices defined for %@ UI</Position>
+      <TranslationSet>
+        <base loc="en">No choices defined for %@ UI</base>
+        <tran loc="ar">لم يتم تعريف اختيارات لواجهة مستخدم %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Bundle at \"%@\" declared twice in PackageInfo (with identifiers \"%@\" and \"%@\")</Position>
+      <TranslationSet>
+        <base loc="en">Bundle at \"%@\" declared twice in PackageInfo (with identifiers \"%@\" and \"%@\")</base>
+        <tran loc="ar">الحزمة  في \"%@\" تم الإعلان عنها مرتين في PackageInfo (مع المعرّفات \"%@\" و\"%@\")</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Path \"%@\" in Bom is missing from Payload</Position>
+      <TranslationSet>
+        <base loc="en">Path \"%@\" in Bom is missing from Payload</base>
+        <tran loc="ar">المسار \"%@\" في شجرة المواد مفقود من الحمولة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Bundle at \"%@\" has inconsistent %@ values: \"%@\" in Info.plist, \"%@\" in version.plist. If a key is present in both version.plist and Info.plist, the values must match exactly.</Position>
+      <TranslationSet>
+        <base loc="en">Bundle at \"%@\" has inconsistent %@ values: \"%@\" in Info.plist, \"%@\" in version.plist. If a key is present in both version.plist and Info.plist, the values must match exactly.</base>
+        <tran loc="ar">الحزمة في \"%@\" لديها قيم %@ غير متسقة/ \"%@\" الموجود في Info.plist، \"%@\" في version.plist. إذا وجد مفتاح في كل من version.plist وInfo.plist فيجب أن تتطابق القيم تمامًا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> PKPayloadCopier errors </Description>
+      <Position>Block-compressed payload operation failed</Position>
+      <TranslationSet>
+        <base loc="en">Block-compressed payload operation failed</base>
+        <tran loc="ar">فشلت عملية حمولة الضغط الكُتلي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Script \"%@\" is missing the interpreter path in its #! header</Position>
+      <TranslationSet>
+        <base loc="en">Script \"%@\" is missing the interpreter path in its #! header</base>
+        <tran loc="ar">البرنامج النصي \"%@\" ينقصه مسار المترجم في (#!) العنوان</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>External package URL \"%@\" for pkg-ref \"%@\" is not allowed (expected #name.pkg form)</Position>
+      <TranslationSet>
+        <base loc="en">External package URL \"%@\" for pkg-ref \"%@\" is not allowed (expected #name.pkg form)</base>
+        <tran loc="ar">عنوان URL الحزمة الخارجية \"%@\" لمرجع الحزمة \"%@\" غير مسموح به (الصيغة المتوقعة ‎.pkgاسم#)</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description>
+   PKCheckErrors.strings
+   
+   Localization Note: These strings are used by developer tools only.
+
+ Generic Recovery Actions </Description>
+      <Position>Cancel</Position>
+      <TranslationSet>
+        <base loc="en">Cancel</base>
+        <tran loc="ar">إلغاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Package has Payload but no Bom</Position>
+      <TranslationSet>
+        <base loc="en">Package has Payload but no Bom</base>
+        <tran loc="ar">للحزمة حمولة ولكن ليس لديها شجرة مواد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Prefix used for package identifier-specific errors </Description>
+      <Position>Package \"%@\": %@</Position>
+      <TranslationSet>
+        <base loc="en">Package \"%@\": %@</base>
+        <tran loc="ar">الحزمة \"%@\": %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>An incomplete bundle at \"%@\" in Payload is declared as an upgrade in PackageInfo; an upgrade bundle must be complete.</Position>
+      <TranslationSet>
+        <base loc="en">An incomplete bundle at \"%@\" in Payload is declared as an upgrade in PackageInfo; an upgrade bundle must be complete.</base>
+        <tran loc="ar">تم الإعلان عن حزمة غير مكتملة في الحمولة في \"%@\" كترقية في PackageInfo؛ يجب على حزم الترقية أن تكون مكتملة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Fix</Position>
+      <TranslationSet>
+        <base loc="en">Fix</base>
+        <tran loc="ar">إصلاح</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Bundle at \"%@\" in Payload not declared in PackageInfo</Position>
+      <TranslationSet>
+        <base loc="en">Bundle at \"%@\" in Payload not declared in PackageInfo</base>
+        <tran loc="ar">الحزمة في \"%@\" في الحمولة غير معلنة في PackageInfo</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Package has Bom but no Payload</Position>
+      <TranslationSet>
+        <base loc="en">Package has Bom but no Payload</base>
+        <tran loc="ar">للحزمة شجرة مواد ولكن ليس لديها حمولة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Script \"%@\" references non-existant interpreter \"%@\" in its #! header</Position>
+      <TranslationSet>
+        <base loc="en">Script \"%@\" references non-existant interpreter \"%@\" in its #! header</base>
+        <tran loc="ar">يشير البرنامج النصي \"%@\" إلى مترجم غير موجود \"%@\" في #! عنوانه</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>For package URL \"%@\" for pkg-ref \"%@\", no package found in product at \"%@\"</Position>
+      <TranslationSet>
+        <base loc="en">For package URL \"%@\" for pkg-ref \"%@\", no package found in product at \"%@\"</base>
+        <tran loc="ar">لعنوان الحزمة \"%@\" لمرجع الحزمة \"%@\"، لم يتم العثور على حزمة في المنتج عند \"%@\"</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Script \"%@\" does not have executable bit set</Position>
+      <TranslationSet>
+        <base loc="en">Script \"%@\" does not have executable bit set</base>
+        <tran loc="ar">البرنامج النصي \"%@\" ليس لديه مجموعة بت قابلة للتنفيذ</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Path \"%@\" has %@ value %@ in Bom, %@ in Payload</Position>
+      <TranslationSet>
+        <base loc="en">Path \"%@\" has %@ value %@ in Bom, %@ in Payload</base>
+        <tran loc="ar">المسار \"%@\" له %@ قيمة %@ في شجرة المواد، %@ في الحمولة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Scripts archive is present but unused (no script references in PackageInfo)</Position>
+      <TranslationSet>
+        <base loc="en">Scripts archive is present but unused (no script references in PackageInfo)</base>
+        <tran loc="ar">أرشيف البرامج النصية موجود لكنه غير مستخدم (لا توجد مراجع لبرامج نصية في PackageInfo)</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Path \"%@\" in Payload is missing from Bom</Position>
+      <TranslationSet>
+        <base loc="en">Path \"%@\" in Payload is missing from Bom</base>
+        <tran loc="ar">المسار \"%@\" في الحمولة مفقود من شجرة المواد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> PKProductChecker errors </Description>
+      <Position>No package URL for pkg-ref \"%@\"</Position>
+      <TranslationSet>
+        <base loc="en">No package URL for pkg-ref \"%@\"</base>
+        <tran loc="ar">لا يوجد URL للحزمة لمرجع الحزمة \"%@\"</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Bundle at \"%@\" declared in PackageInfo is missing from Payload</Position>
+      <TranslationSet>
+        <base loc="en">Bundle at \"%@\" declared in PackageInfo is missing from Payload</base>
+        <tran loc="ar">الحزمة  في \"%@\" المعلن عنها كترقية في PackageInfo مفقود من الحمولة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>No choices defined for default UI</Position>
+      <TranslationSet>
+        <base loc="en">No choices defined for default UI</base>
+        <tran loc="ar">لم يتم تعريف اختيارات لواجهة المستخدم الافتراضية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Script \"%@\" referenced by component \"%@\" not found</Position>
+      <TranslationSet>
+        <base loc="en">Script \"%@\" referenced by component \"%@\" not found</base>
+        <tran loc="ar">لم يتم العثور على البرنامج النصي \"%@\" المشار إليه من قبل المكوّن \"%@\"</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Package URL \"%@\" for pkg-ref \"%@\" not found at path \"%@\"</Position>
+      <TranslationSet>
+        <base loc="en">Package URL \"%@\" for pkg-ref \"%@\" not found at path \"%@\"</base>
+        <tran loc="ar">عنوان الحزمة \"%@\" لمرجع الحزمة \"%@\" لم يتم العثور عليه في المسار \"%@\"</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Bundle at \"%@\" has identifier \"%@\" in PackageInfo, but \"%@\" in Payload</Position>
+      <TranslationSet>
+        <base loc="en">Bundle at \"%@\" has identifier \"%@\" in PackageInfo, but \"%@\" in Payload</base>
+        <tran loc="ar">الحزمة في \"%@\" لديها المعرّف \"%@\" في PackageInfo، ولكنه \"%@\" في الحمولة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Script \"%@\" is missing the interpreter (#!) header</Position>
+      <TranslationSet>
+        <base loc="en">Script \"%@\" is missing the interpreter (#!) header</base>
+        <tran loc="ar">البرنامج النصي \"%@\" ينقصه  مترجم (#!) العنوان</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Package URL \"%@\" for pkg-ref \"%@\" uses unsupported scheme %@</Position>
+      <TranslationSet>
+        <base loc="en">Package URL \"%@\" for pkg-ref \"%@\" uses unsupported scheme %@</base>
+        <tran loc="ar">عنوان URL الحزمة \"%@\" لمرجع الحزمة \"%@\" يستخدم مخطط غير مدعوم %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> PKPackageChecker errors </Description>
+      <Position>Bad or missing PackageInfo in \"%@\"</Position>
+      <TranslationSet>
+        <base loc="en">Bad or missing PackageInfo in \"%@\"</base>
+        <tran loc="ar">‏PackageInfo غير صالحة أو مفقودة في \"%@\"</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>PackageKit/System/Library/PrivateFrameworks/PackageKit.framework/Versions/A/Resources/en.lproj/PKInstallError.strings</Filepath>
+    <TextItem>
+      <Description> PKInstallPackageScriptError </Description>
+      <Position>112</Position>
+      <TranslationSet>
+        <base loc="en">An error occurred while running scripts from the package “%@”.</base>
+        <tran loc="ar">حدث خطأ أثناء تشغيل برامج نصية من الحزمة \"%@\".</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> PKInstallShoveError </Description>
+      <Position>120</Position>
+      <TranslationSet>
+        <base loc="en">An unexpected error occurred while moving files to the final destination.</base>
+        <tran loc="ar">حدث خطأ غير متوقع أثناء نقل الملفات إلى الوجهة الأخيرة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> PKInstallAtomicUpdateCodeSignatureError </Description>
+      <Position>123</Position>
+      <TranslationSet>
+        <base loc="en">The update was canceled because the application integrity could not be verified.</base>
+        <tran loc="ar">تم إلغاء التحديث بسبب تعذر التحقق من تكامل التطبيق.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> PKInstallPackageExtractionError </Description>
+      <Position>110</Position>
+      <TranslationSet>
+        <base loc="en">An error occurred while extracting files from the package “%@”.</base>
+        <tran loc="ar">حدث خطأ أثناء استخراج ملفات من الحزمة \"%@\".</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> PKInstallPackageContainsReadOnlyContent </Description>
+      <Position>501</Position>
+      <TranslationSet>
+        <base loc="en">The package is attempting to install content to the system volume.</base>
+        <tran loc="ar">تحاول الحزمة تثبيت محتوى على وحدة تخزين النظام.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> PKInstallPackageRequiredFileMismatchError </Description>
+      <Position>103</Position>
+      <TranslationSet>
+        <base loc="en">The package “%@” is not appropriate for your system.</base>
+        <tran loc="ar">الحزمة \"%@\" غير مناسبة لنظامك.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> PKInstallAtomicUpdateOtherError </Description>
+      <Position>125</Position>
+      <TranslationSet>
+        <base loc="en">The update was canceled because the previous copy of the application is damaged.</base>
+        <tran loc="ar">تم إلغاء التحديث لأن النسخة السابقة من التطبيق تالفة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> PKInstallPackageRequiresDistributionCheck </Description>
+      <Position>109</Position>
+      <TranslationSet>
+        <base loc="en">The package “%@” requires additional components and cannot be installed independently. Contact the software manufacturer for assistance.</base>
+        <tran loc="ar">تتطلب الحزمة \"%@\" مكوّنات أخرى إضافية ولا يمكن تثبيتها بمفردها. اتصل بالشركة المصنّعة للبرنامج للحصول على المساعدة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> PKInstallPackageRestrictedRootError </Description>
+      <Position>119</Position>
+      <TranslationSet>
+        <base loc="en">An error occurred while setting file attributes.</base>
+        <tran loc="ar">حدث خطأ أثناء تعيين سمات الملف.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> PKInstallPackageInvalidSignatureError </Description>
+      <Position>105</Position>
+      <TranslationSet>
+        <base loc="en">The package “%@” has an invalid signature.</base>
+        <tran loc="ar">تحتوي الحزمة \"%@\" على توقيع غير صالح.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> PKInstallDYLDCacheUpdateError </Description>
+      <Position>113</Position>
+      <TranslationSet>
+        <base loc="en">An error occurred while optimizing the time to open applications.</base>
+        <tran loc="ar">حدث خطأ أثناء تحسين وقت فتح التطبيقات.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> PKInstallMissingRequestError (this is really API misuse, not a user-facing issue) </Description>
+      <Position>108</Position>
+      <TranslationSet>
+        <base loc="en">No packages were specified for install.</base>
+        <tran loc="ar">لم يتم تحديد أي حزم للتثبيت.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> PKInstallEnsurePrebootUpdatedError </Description>
+      <Position>127</Position>
+      <TranslationSet>
+        <base loc="en">Failed to update preboot volume.</base>
+        <tran loc="ar">فشل تحديث وحدة تخزين ما قبل الإقلاع.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> PKInstallPackageUntrustedCertificateError </Description>
+      <Position>102</Position>
+      <TranslationSet>
+        <base loc="en">The package “%@” is untrusted.</base>
+        <tran loc="ar">الحزمة \"%@\" غير موثوق بها.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> PKInstallOutOfSpaceError </Description>
+      <Position>107</Position>
+      <TranslationSet>
+        <base loc="en">There is not enough space available on “%@” to install the software. An additional %@ is required.</base>
+        <tran loc="ar">لا توجد مساحة متاحة كافية على \"%@\" لتثبيت البرنامج. يلزم %@ إضافية.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> PKInstallPackageNotSignedError </Description>
+      <Position>101</Position>
+      <TranslationSet>
+        <base loc="en">The package “%@” is not signed.</base>
+        <tran loc="ar">الحزمة \"%@\" غير موقعة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> PKInstallProtectedFileManifestError </Description>
+      <Position>126</Position>
+      <TranslationSet>
+        <base loc="en">An error occurred while extracting files from the package “%@”. The protected file manifest is damaged or missing.</base>
+        <tran loc="ar">حدث خطأ أثناء استخراج الملفات من الحزمة \"%@\". بيان الملف المحمي تالف أو مفقود.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> PKInstallNotAuthorizedError </Description>
+      <Position>100</Position>
+      <TranslationSet>
+        <base loc="en">Authorization is required to install the packages.</base>
+        <tran loc="ar">يلزم التخويل لتثبيت الحزم.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> PKInstallProtectedContentError (this is API misuse) </Description>
+      <Position>150</Position>
+      <TranslationSet>
+        <base loc="en">No packages were eligible for install. Contact the software manufacturer for assistance.</base>
+        <tran loc="ar">لم يكن هناك أي تطبيقات مؤهلة للتثبيت. اتصل بالشركة المصنّعة للبرنامج للحصول على المساعدة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> PKInstallNonProtectedContentError (this is API misuse) </Description>
+      <Position>151</Position>
+      <TranslationSet>
+        <base loc="en">No packages were eligible for install. Contact the software manufacturer for assistance.</base>
+        <tran loc="ar">لم يكن هناك أي تطبيقات مؤهلة للتثبيت. اتصل بالشركة المصنّعة للبرنامج للحصول على المساعدة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> PKInstallLSRegisterError </Description>
+      <Position>122</Position>
+      <TranslationSet>
+        <base loc="en">An error occurred while registering updated applications with the system.</base>
+        <tran loc="ar">حدث خطأ أثناء تسجيل التطبيقات المحدّثة مع النظام.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> PKInstallPackagePatchError </Description>
+      <Position>111</Position>
+      <TranslationSet>
+        <base loc="en">An error occurred while applying patches from the package “%@”.</base>
+        <tran loc="ar">حدث خطأ أثناء تطبيق تصحيحات من الحزمة \"%@\".</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> PKInstallPackageFailsToMeetSystemPolicy </Description>
+      <Position>500</Position>
+      <TranslationSet>
+        <base loc="en">The package %@ fails to meet Gatekeeper policy.</base>
+        <tran loc="ar">فشلت الحزمة %@ في التوافق مع سياسة Gatekeeper.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> PKInstallPackageUnreadableError </Description>
+      <Position>106</Position>
+      <TranslationSet>
+        <base loc="en">The package “%@” is missing or invalid.</base>
+        <tran loc="ar">الحزمة \"%@\" مفقودة أو غير صالحة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> PKInstallInformSystemPolicyOperationError </Description>
+      <Position>128</Position>
+      <TranslationSet>
+        <base loc="en">An error occured while registering installation with Gatekeeper.</base>
+        <tran loc="ar">حدث خطأ أثناء تسجيل التثبيت لدى Gatekeeper.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> PKInstallPackageMinimumSystemVersionError </Description>
+      <Position>104</Position>
+      <TranslationSet>
+        <base loc="en">The package “%@” requires a newer system version.</base>
+        <tran loc="ar">الحزمة \"%@\" تتطلب وجود إصدار أحدث من النظام.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> PKInstallStageCodeSignatureError (not a user-facing error string) </Description>
+      <Position>124</Position>
+      <TranslationSet>
+        <base loc="en">The update preparation was canceled because the application integrity could not be verified.</base>
+        <tran loc="ar">تم إلغاء التحضير للتحديث بسبب تعذر التحقق من تكامل التطبيق.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> PKInstallDeferredSetupError </Description>
+      <Position>114</Position>
+      <TranslationSet>
+        <base loc="en">An error occurred while setting up files for deferred installation.</base>
+        <tran loc="ar">حدث خطأ أثناء إعداد الملفات لتثبيت مؤجل.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> PKInstallCantConnectToDaemonError </Description>
+      <Position>200</Position>
+      <TranslationSet>
+        <base loc="en">There was a problem with the system installer tool.</base>
+        <tran loc="ar">حدثت مشكلة في أداة مثبّت النظام.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> PKInstallKextCacheError </Description>
+      <Position>121</Position>
+      <TranslationSet>
+        <base loc="en">An error occurred while updating system extension information.</base>
+        <tran loc="ar">حدث خطأ أثناء تحديث معلومات ملحق النظام.</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>PackageKit/System/Library/PrivateFrameworks/PackageKit.framework/Frameworks/PackageUIKit.framework/Versions/A/Resources/en.lproj/PUKApplicationCloser.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>WILL_QUIT_CURRENT_USER_MSG</Position>
+      <TranslationSet>
+        <base loc="en">%@\n\nIf you don’t want to close these applications now, choose Cancel.</base>
+        <tran loc="ar">‏%@\n\nإذا كنت لا ترغب في إغلاق هذه التطبيقات الآن، فاختر إلغاء.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> other button titles </Description>
+      <Position>MUST_CLOSE_CONTINUE_BUTTON_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Try Again</base>
+        <tran loc="ar">محاولة مرة أخرى</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> single plugin running for single app under current user </Description>
+      <Position>MUST_CLOSE_SINGLE_PLUGIN_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">%@ is using the %@ extension, which must be closed before the software can be installed.</base>
+        <tran loc="ar">يقوم %@ باستخدام ملحق %@، والذي يجب إغلاقه حتى يمكن تثبيت البرنامج.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> both current user and others have open applications </Description>
+      <Position>MUST_CLOSE_CURRENT_AND_OTHER_USERS_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">These applications must be closed before the software can be installed. They are also being used by %@.</base>
+        <tran loc="ar">يجب إغلاق هذه التطبيقات قبل تثبيت البرنامج. وهي أيضًا قيد الاستخدام من قبل %@.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> only other users have open applications </Description>
+      <Position>MUST_CLOSE_OTHER_USERS_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">These applications are being used by %@, and must be closed before the software can be installed:</base>
+        <tran loc="ar">التطبيقات قيد الاستخدام من قبل %@، ويجب إغلاقها قبل تثبيت البرنامج:</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>MUST_CLOSE_SWITCH_USER_BUTTON_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Switch User…</base>
+        <tran loc="ar">تبديل المستخدم...</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SINGLE_WILL_QUIT_CURRENT_USER_MSG</Position>
+      <TranslationSet>
+        <base loc="en">If you don’t want to close this application now, choose Cancel.</base>
+        <tran loc="ar">إذا كنت لا ترغب في إغلاق هذا التطبيق الآن، فاختر إلغاء.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> only current user has open applications but they refused to quit by events </Description>
+      <Position>MUST_CLOSE_CURRENT_USER_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">These applications must be closed before the software can be installed:</base>
+        <tran loc="ar">يجب إغلاق هذه التطبيقات قبل تثبيت البرنامج:</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description>
+ PUKApplicationCloser.strings
+ PackageKit
+ 
+ only current user has open application(s): SINGLE_-prefixed versions are for case with a single application </Description>
+      <Position>WILL_QUIT_CURRENT_USER_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">These applications must be closed before the software can be installed:</base>
+        <tran loc="ar">يجب إغلاق هذه التطبيقات قبل تثبيت البرنامج:</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>MUST_CLOSE_SINGLE_PLUGIN_MSG</Position>
+      <TranslationSet>
+        <base loc="en">Close the %@ extension and try again. If you don’t want to close this extension now, choose Cancel.</base>
+        <tran loc="ar">أغلق ملحق %@ ثم حاول مرة أخرى. إذا كنت لا ترغب في إغلاق هذا الملحق الآن، فاختر إلغاء.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>MUST_CLOSE_CANCEL_BUTTON_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Cancel</base>
+        <tran loc="ar">إلغاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>WILL_QUIT_CANCEL_BUTTON_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Cancel</base>
+        <tran loc="ar">إلغاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>WILL_QUIT_CONTINUE_BUTTON_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Close Applications and Install</base>
+        <tran loc="ar">إغلاق التطبيقات ثم التثبيت</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> disabled button titles while waiting for application to close </Description>
+      <Position>WAITING_FOR_QUIT_BUTTON_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Closing Applications…</base>
+        <tran loc="ar">يتم الآن إغلاق التطبيقات…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> combines names 1 through n-1 (comma-separated) with name n </Description>
+      <Position>MUST_CLOSE_MULTIPLE_USERS_LIST</Position>
+      <TranslationSet>
+        <base loc="en">%@ and %@</base>
+        <tran loc="ar">%@ و%@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>MUST_CLOSE_CURRENT_AND_OTHER_USERS_MSG</Position>
+      <TranslationSet>
+        <base loc="en">%@\n\nClose these applications in your account, and in the other users’ accounts, and then try again. If you don’t want to close these applications now, choose Cancel.</base>
+        <tran loc="ar">‏%@\n\nأغلق هذه التطبيقات في حسابك، وفي حسابات المستخدمين الآخرين، ثم حاول مرة أخرى. إذا كنت لا ترغب في إغلاق هذه التطبيقات الآن، فاختر إلغاء.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>MUST_CLOSE_CURRENT_AND_OTHER_USER_MSG</Position>
+      <TranslationSet>
+        <base loc="en">%@\n\nClose these applications in your account, and in the other user’s account, and then try again. If you don’t want to close these applications now, choose Cancel.</base>
+        <tran loc="ar">‏%@\n\nأغلق هذه التطبيقات في حسابك، وفي حساب المستخدم الآخر، ثم حاول مرة أخرى. إذا كنت لا ترغب في إغلاق هذه التطبيقات الآن، فاختر إلغاء.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SINGLE_WAITING_FOR_QUIT_BUTTON_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Closing Application…</base>
+        <tran loc="ar">يتم الآن إغلاق التطبيق…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>MUST_CLOSE_OTHER_USERS_MSG</Position>
+      <TranslationSet>
+        <base loc="en">%@\n\nSwitch users to close these applications and try again. If you can’t close the other users’ applications now, choose Cancel.</base>
+        <tran loc="ar">‏%@\n\nقم بتبديل المستخدمين لإغلاق هذه التطبيقات ثم حاول مرة أخرى. إذا لم يكن بإمكانك إغلاق تطبيقات المستخدمين الآخرين الآن، فاختر إلغاء.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>MUST_LOG_OUT_MULTIPLE_USERS_MSG</Position>
+      <TranslationSet>
+        <base loc="en">Switch users to log each user out and try again. If you can’t log these users out now, choose Cancel.</base>
+        <tran loc="ar">قم بتبديل المستخدمين لتسجيل خروج كل مستخدم ثم حاول مرة أخرى. إذا لم يكن بإمكانك تسجيل خروج هؤلاء المستخدمين الآن، فاختر إلغاء.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>MUST_CLOSE_MULTIPLE_PLUGINS_MSG</Position>
+      <TranslationSet>
+        <base loc="en">%@\n\nIf you don’t want to close these extensions now, choose Cancel.</base>
+        <tran loc="ar">‏%@\n\nإذا كنت لا ترغب في إغلاق هذه الملحقات الآن، فاختر إلغاء.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SINGLE_WILL_QUIT_CONTINUE_BUTTON_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Close Application and Install</base>
+        <tran loc="ar">قم بإغلاق التطبيق ثم قم بالتثبيت</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> multiple users must be logged out </Description>
+      <Position>MUST_LOG_OUT_MULTIPLE_USERS_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">The users %@ must be logged out before the software can be installed.</base>
+        <tran loc="ar">يجب تسجيل خروج المستخدمين %@ حتى يمكن تثبيت البرنامج.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> combined name of other user full names (%2$@ in titles) 
+ combines names 1 through n-1 </Description>
+      <Position>MUST_CLOSE_MULTIPLE_USERS_SEPARATOR</Position>
+      <TranslationSet>
+        <base loc="en">, </base>
+        <tran loc="ar">، </tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> multiple plugins running for single app under current user </Description>
+      <Position>MUST_CLOSE_MULTIPLE_PLUGINS_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">%@ is using these extensions, which must be closed before the software can be installed:</base>
+        <tran loc="ar">يقوم %@ باستخدام هذه الملحقات، والتي يجب إغلاقها حتى يمكن تثبيت البرنامج:</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>MUST_CLOSE_CURRENT_USER_MSG</Position>
+      <TranslationSet>
+        <base loc="en">%@\n\nClose these applications and try again.</base>
+        <tran loc="ar">%@\n\nقم بغلق هذه التطبيقات ثم أعد المحاولة.‏</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>MUST_CLOSE_OTHER_USER_MSG</Position>
+      <TranslationSet>
+        <base loc="en">%@\n\nSwitch users to close these applications and try again. If you can’t close the other user’s applications now, choose Cancel.</base>
+        <tran loc="ar">‏%@\n\nقم بتبديل المستخدمين لإغلاق هذه التطبيقات ثم حاول مرة أخرى. إذا لم يكن بإمكانك إغلاق تطبيقات المستخدمين الآخرين الآن، فاختر إلغاء.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> one user must be logged out </Description>
+      <Position>MUST_LOG_OUT_SINGLE_USER_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">The user %@ must be logged out before the software can be installed.</base>
+        <tran loc="ar">يجب تسجيل خروج المستخدم %@ حتى يمكن تثبيت البرنامج.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SINGLE_WILL_QUIT_CURRENT_USER_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">%@ must be closed before the software can be installed.</base>
+        <tran loc="ar">يجب إغلاق %@ قبل تثبيت البرنامج.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>MUST_LOG_OUT_SINGLE_USER_MSG</Position>
+      <TranslationSet>
+        <base loc="en">Switch users to log %@ out and try again. If you can’t log this user out now, choose Cancel.</base>
+        <tran loc="ar">قم بتبديل المستخدمين لتسجيل خروج %@ ثم حاول مرة أخرى. إذا لم يكن بإمكانك تسجيل خروج هذا المستخدم الآن، فاختر إلغاء.</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>PackageKit/System/Library/CoreServices/Install in Progress.app/Contents/Resources/en.lproj/MainMenu.strings</Filepath>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Install Status"; ObjectID = "56"; </Description>
+      <Position>56.title</Position>
+      <TranslationSet>
+        <base loc="en">Install Status</base>
+        <tran loc="ar">حالة التثبيت</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenu"; title = "Install Status"; ObjectID = "57"; </Description>
+      <Position>57.title</Position>
+      <TranslationSet>
+        <base loc="en">Install Status</base>
+        <tran loc="ar">حالة التثبيت</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "About Install Status"; ObjectID = "58"; </Description>
+      <Position>58.title</Position>
+      <TranslationSet>
+        <base loc="en">About Install Status</base>
+        <tran loc="ar">حول حالة التثبيت</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Quit Install Status"; ObjectID = "136"; </Description>
+      <Position>136.title</Position>
+      <TranslationSet>
+        <base loc="en">Quit Install Status</base>
+        <tran loc="ar">إنهاء حالة التثبيت</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenu"; title = "Services"; ObjectID = "130"; </Description>
+      <Position>130.title</Position>
+      <TranslationSet>
+        <base loc="en">Services</base>
+        <tran loc="ar">خدمات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Services"; ObjectID = "131"; </Description>
+      <Position>131.title</Position>
+      <TranslationSet>
+        <base loc="en">Services</base>
+        <tran loc="ar">خدمات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Show All"; ObjectID = "150"; </Description>
+      <Position>150.title</Position>
+      <TranslationSet>
+        <base loc="en">Show All</base>
+        <tran loc="ar">إظهار الكل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Hide Install Status"; ObjectID = "134"; </Description>
+      <Position>134.title</Position>
+      <TranslationSet>
+        <base loc="en">Hide Install Status</base>
+        <tran loc="ar">إخفاء حالة التثبيت</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "&lt;&lt;do not localize&gt;&gt;"; ObjectID = "1048"; </Description>
+      <Position>1048.title</Position>
+      <TranslationSet>
+        <base loc="en">&lt;&lt;do not localize&gt;&gt;</base>
+        <tran loc="ar">&lt;&lt;do not localize&gt;&gt;</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Zoom"; ObjectID = "239"; </Description>
+      <Position>239.title</Position>
+      <TranslationSet>
+        <base loc="en">Zoom</base>
+        <tran loc="ar">تكبير/تصغير</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Preferences…"; ObjectID = "129"; </Description>
+      <Position>129.title</Position>
+      <TranslationSet>
+        <base loc="en">Preferences…</base>
+        <tran loc="ar">تفضيلات…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Minimize"; ObjectID = "23"; </Description>
+      <Position>23.title</Position>
+      <TranslationSet>
+        <base loc="en">Minimize</base>
+        <tran loc="ar">تصغير</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Hide Others"; ObjectID = "145"; </Description>
+      <Position>145.title</Position>
+      <TranslationSet>
+        <base loc="en">Hide Others</base>
+        <tran loc="ar">إخفاء الأخرى</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Window"; ObjectID = "19"; </Description>
+      <Position>19.title</Position>
+      <TranslationSet>
+        <base loc="en">Window</base>
+        <tran loc="ar">نافذة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenu"; title = "Window"; ObjectID = "24"; </Description>
+      <Position>24.title</Position>
+      <TranslationSet>
+        <base loc="en">Window</base>
+        <tran loc="ar">نافذة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Help"; ObjectID = "490"; </Description>
+      <Position>490.title</Position>
+      <TranslationSet>
+        <base loc="en">Help</base>
+        <tran loc="ar">مساعدة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenu"; title = "AMainMenu"; ObjectID = "29"; </Description>
+      <Position>29.title</Position>
+      <TranslationSet>
+        <base loc="en">AMainMenu</base>
+        <tran loc="ar">قائمة رئيسية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Bring All to Front"; ObjectID = "5"; </Description>
+      <Position>5.title</Position>
+      <TranslationSet>
+        <base loc="en">Bring All to Front</base>
+        <tran loc="ar">إحضار الكل إلى الأمام</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>PackageKit/System/Library/CoreServices/Install in Progress.app/Contents/Resources/en.lproj/Localizable.strings</Filepath>
+    <TextItem>
+      <Description> If we have an install description, this combines it (arg1) with the generic info (arg2) </Description>
+      <Position>COMBINED_INFO</Position>
+      <TranslationSet>
+        <base loc="en">%@ %@</base>
+        <tran loc="ar">%@ %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Detailed status used briefly at 100% progress bar </Description>
+      <Position>INSTALL_DONE</Position>
+      <TranslationSet>
+        <base loc="en">Installation complete</base>
+        <tran loc="ar">اكتمل التثبيت</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>INSTALLING_TWO</Position>
+      <TranslationSet>
+        <base loc="en">%@ and %@ are being installed.</base>
+        <tran loc="ar">يتم الآن تثبيت %@ و%@.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> arg1 is names 1 through n-1, separated by INSTALLING_MORE_SEP; arg2 is name n </Description>
+      <Position>INSTALLING_MORE</Position>
+      <TranslationSet>
+        <base loc="en">%@, and %@ are being installed.</base>
+        <tran loc="ar">يتم الآن تثبيت %@، و%@.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SHUTDOWN_BUTTON</Position>
+      <TranslationSet>
+        <base loc="en">Shut Down</base>
+        <tran loc="ar">إيقاف التشغيل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Primary alert messages </Description>
+      <Position>CANT_RESTART</Position>
+      <TranslationSet>
+        <base loc="en">Your computer can’t be restarted now, because software is being installed.</base>
+        <tran loc="ar">لا يمكن إعادة تشغيل الكمبيوتر الآن، لأن البرنامج قيد التثبيت.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Buttons </Description>
+      <Position>RESTART_BUTTON</Position>
+      <TranslationSet>
+        <base loc="en">Restart</base>
+        <tran loc="ar">إعادة التشغيل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CANCEL_BUTTON</Position>
+      <TranslationSet>
+        <base loc="en">Cancel</base>
+        <tran loc="ar">إلغاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CANT_SHUTDOWN_INFO</Position>
+      <TranslationSet>
+        <base loc="en">Interrupting the install may damage your computer. You can shut down when the install is complete.</base>
+        <tran loc="ar">مقاطعة التثبيت قد تؤدي إلى إتلاف الكمبيوتر. يمكنك إيقاف التشغيل بعد اكتمال التثبيت.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Alternate alert messages used once install has finished </Description>
+      <Position>OKAY_TO_RESTART</Position>
+      <TranslationSet>
+        <base loc="en">The install is complete. It is okay to restart your computer now.</base>
+        <tran loc="ar">اكتمل التثبيت. تستطيع إعادة تشغيل الكمبيوتر الآن.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>INSTALLING_MORE_SEP</Position>
+      <TranslationSet>
+        <base loc="en">, </base>
+        <tran loc="ar">، </tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Generic informational messages </Description>
+      <Position>CANT_RESTART_INFO</Position>
+      <TranslationSet>
+        <base loc="en">Interrupting the install may damage your computer. You can restart when the install is complete.</base>
+        <tran loc="ar">مقاطعة التثبيت قد تؤدي إلى إتلاف الكمبيوتر. يمكنك إعادة التشغيل بعد اكتمال التثبيت.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>OKAY_TO_SHUTDOWN</Position>
+      <TranslationSet>
+        <base loc="en">The install is complete. It is okay to shut down your computer now.</base>
+        <tran loc="ar">اكتمل التثبيت. تستطيع إيقاف تشغيل الكمبيوتر الآن.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 
+  Localizable.strings
+  PackageKit
+
+  Created by Randy Saldinger on 2/13/12.
+  Copyright (c) 2012 Apple Inc. All rights reserved.
+
+ Variations on the description of what is being installed (used in info message) </Description>
+      <Position>INSTALLING_ONE</Position>
+      <TranslationSet>
+        <base loc="en">%@ is being installed.</base>
+        <tran loc="ar">يتم الآن تثبيت %@.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CANT_SHUTDOWN</Position>
+      <TranslationSet>
+        <base loc="en">Your computer can’t be shut down now, because software is being installed.</base>
+        <tran loc="ar">لا يمكن إيقاف تشغيل الكمبيوتر الآن، لأن البرنامج قيد التثبيت.</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>PackageKit/System/Library/PrivateFrameworks/PackageKit.framework/Versions/A/Resources/en.lproj/PKSigningIdentity.strings</Filepath>
+    <TextItem>
+      <Description> 
+  PKSigningIdentity.strings
+  PackageKit
+
+  Created by Randy Saldinger on 2/27/12.
+  Copyright (c) 2012 Apple Inc. All rights reserved.
+
+ These are strictly developer-level strings, so localization into languages that we don't localize developer
+ tools into is probably not necessary.</Description>
+      <Position>NO_IDENTITY_MATCH</Position>
+      <TranslationSet>
+        <base loc="en">Could not find appropriate signing identity for “%@”.</base>
+        <tran loc="ar">تعذر العثور على هوية توقيع مناسبة لـ \"%@\".</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>NEED_APPLICATION_IDENTITY</Position>
+      <TranslationSet>
+        <base loc="en">An application signing identity (not an installer signing identity) is required for signing bundle-style products.</base>
+        <tran loc="ar">يلزم هوية توقيع للتطبيق (لا هوية توقيع للمثبت) لتوقيع المنتجات ذات نمط الحزمة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>NO_IDENTITY_MATCH_IN_KEYCHAIN</Position>
+      <TranslationSet>
+        <base loc="en">Could not find appropriate signing identity for “%@” in keychain at “%@”.</base>
+        <tran loc="ar">تعذر العثور على هوية توقيع مناسبة لـ \"%@\" في سلسلة المفاتيح عند \"%@\".</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>NEED_INSTALLER_IDENTITY</Position>
+      <TranslationSet>
+        <base loc="en">An installer signing identity (not an application signing identity) is required for signing flat-style products.</base>
+        <tran loc="ar">يلزم هوية توقيع للمثبت (لا هوية توقيع تطبيق) لتوقيع المنتجات ذات النمط المسطح.</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>PackageKit/System/Library/PrivateFrameworks/PackageKit.framework/Versions/A/Resources/en.lproj/InfoPlist.strings</Filepath>
+    <TextItem>
+      <Description> Localized versions of Info.plist keys </Description>
+      <Position>NSHumanReadableCopyright</Position>
+      <TranslationSet>
+        <base loc="en">© Apple, 2014</base>
+        <tran loc="ar">© Apple, 2014</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>PackageKit/System/Library/PrivateFrameworks/PackageKit.framework/Versions/A/Resources/en.lproj/PKInstall.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>PKInstallDeferredSetupState</Position>
+      <TranslationSet>
+        <base loc="en">Moving items into place…</base>
+        <tran loc="ar">جاري نقل العناصر إلى مكانها…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PKInstallShoveState</Position>
+      <TranslationSet>
+        <base loc="en">Moving items into place…</base>
+        <tran loc="ar">جاري نقل العناصر إلى مكانها…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PKInstallRegisterApplicationsState</Position>
+      <TranslationSet>
+        <base loc="en">Registering updated applications…</base>
+        <tran loc="ar">تسجيل التطبيقات المحدّثة…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PKInstallCommitFilesState</Position>
+      <TranslationSet>
+        <base loc="en">Preparing to install…</base>
+        <tran loc="ar">يتم الآن التحضير للتثبيت…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PKInstallPrepareState</Position>
+      <TranslationSet>
+        <base loc="en">Preparing to install…</base>
+        <tran loc="ar">يتم الآن التحضير للتثبيت…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PKInstallPackageRunPostinstallScriptState</Position>
+      <TranslationSet>
+        <base loc="en">Running package scripts…</base>
+        <tran loc="ar">يتم الآن تشغيل البرامج النصية للحزم...</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PKInstallPackageRunPreinstallScriptState</Position>
+      <TranslationSet>
+        <base loc="en">Running package scripts…</base>
+        <tran loc="ar">يتم الآن تشغيل البرامج النصية للحزم...</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PKInstallPackageWriteReceiptState</Position>
+      <TranslationSet>
+        <base loc="en">Writing package receipts…</base>
+        <tran loc="ar">يتم الآن كتابة إيصالات الحزم…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PKInstallPackageRelocateComponentsState</Position>
+      <TranslationSet>
+        <base loc="en">Finding moved applications…</base>
+        <tran loc="ar">يتم الآن البحث عن تطبيقات تم نقلها…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PKInstallUpdatePrebootState</Position>
+      <TranslationSet>
+        <base loc="en">Updating preboot volume…</base>
+        <tran loc="ar">يتم الآن تحديث وحدة تخزين ما قبل الإقلاع…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PKInstallPackageExtractPayloadState</Position>
+      <TranslationSet>
+        <base loc="en">Writing files…</base>
+        <tran loc="ar">يتم الآن كتابة الملفات...</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PKInstallPackagePatchFilesState</Position>
+      <TranslationSet>
+        <base loc="en">Writing files…</base>
+        <tran loc="ar">يتم الآن كتابة الملفات...</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PKInstallPackageWriteAppStoreReceiptState</Position>
+      <TranslationSet>
+        <base loc="en">Writing files…</base>
+        <tran loc="ar">يتم الآن كتابة الملفات...</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PKInstallCleanUpState</Position>
+      <TranslationSet>
+        <base loc="en">Cleaning up…</base>
+        <tran loc="ar">يتم الآن التنظيف...</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PKInstallRegisterSystemComponentsState</Position>
+      <TranslationSet>
+        <base loc="en">Registering updated components…</base>
+        <tran loc="ar">تسجيل المكوّنات المحدّثة...</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PKInstallInformSystemPolicyState</Position>
+      <TranslationSet>
+        <base loc="en">Registering package with system…</base>
+        <tran loc="ar">جاري تسجيل الحزمة لدى النظام…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PKInstallDeleteObsoleteFilesState</Position>
+      <TranslationSet>
+        <base loc="en">Removing old files…</base>
+        <tran loc="ar">يتم الآن إزالة الملفات القديمة…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PKInstallPreflightState</Position>
+      <TranslationSet>
+        <base loc="en">Validating packages…</base>
+        <tran loc="ar">يتم الآن التحقق من صحة الحزم...</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Status strings for PKInstallState values </Description>
+      <Position>PKInstallIdleState</Position>
+      <TranslationSet>
+        <base loc="en">Waiting for other installations to complete…</base>
+        <tran loc="ar">يتم الآن انتظار اكتمال عمليات التثبيت الأخرى…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PKInstallRestrictedRootSetState</Position>
+      <TranslationSet>
+        <base loc="en">Restricting system files…</base>
+        <tran loc="ar">جاري تقييد ملفات النظام…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PKInstallCacheEmbeddedContentState</Position>
+      <TranslationSet>
+        <base loc="en">Optimizing system for installed software…</base>
+        <tran loc="ar">يتم الآن تحسين النظام للبرامج المثبتة...</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PKInstallOptimizeFilesState</Position>
+      <TranslationSet>
+        <base loc="en">Optimizing system for installed software…</base>
+        <tran loc="ar">يتم الآن تحسين النظام للبرامج المثبتة...</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>PackageKit/System/Library/PrivateFrameworks/PackageKit.framework/Versions/A/Resources/en.lproj/PKDataSizeFormatter.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>KB</Position>
+      <TranslationSet>
+        <base loc="en">KB</base>
+        <tran loc="ar">ك.ب.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>IntegerFormat</Position>
+      <TranslationSet>
+        <base loc="en">%@ %@</base>
+        <tran loc="ar">%@ %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>B</Position>
+      <TranslationSet>
+        <base loc="en">B</base>
+        <tran loc="ar">ب</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UnknownSize</Position>
+      <TranslationSet>
+        <base loc="en">--</base>
+        <tran loc="ar">--</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>GB</Position>
+      <TranslationSet>
+        <base loc="en">GB</base>
+        <tran loc="ar">غ.ب.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>MB</Position>
+      <TranslationSet>
+        <base loc="en">MB</base>
+        <tran loc="ar">م.ب.</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+</Proj>

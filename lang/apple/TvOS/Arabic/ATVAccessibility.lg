@@ -1,0 +1,4507 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Proj>
+  <ProjName>ATVAccessibility</ProjName>
+  <File>
+    <Filepath>ATVAccessibility/System/Library/PreferenceBundles/AccessibilitySettings.bundle/en.lproj/InfoPlist.strings</Filepath>
+    <TextItem>
+      <Description> 
+  InfoPlist.strings
+  AccessibilitySettings
+
+  Created by Darren Minifie on 5/22/16.
+  Copyright © 2016 Apple Inc. All rights reserved.
+</Description>
+      <Position>CFBundleDisplayName</Position>
+      <TranslationSet>
+        <base loc="en">Accessibility</base>
+        <tran loc="ar">تسهيلات الاستخدام</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CFBundleName</Position>
+      <TranslationSet>
+        <base loc="en">Accessibility</base>
+        <tran loc="ar">تسهيلات الاستخدام</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>ATVAccessibility/System/Library/AccessibilityBundles/TVPlayback.axbundle/en.lproj/Accessibility.strings</Filepath>
+    <TextItem>
+      <Description> e.g. Rewinding, 8 x</Description>
+      <Position>tv.player.rewinding</Position>
+      <TranslationSet>
+        <base loc="en">Rewinding, %@ x</base>
+        <tran loc="ar">ترجيع، %@ ‏x</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>repeat.all</Position>
+      <TranslationSet>
+        <base loc="en">All</base>
+        <tran loc="ar">الكل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> e.g. 0:19 elapsed</Description>
+      <Position>media.time.elapsed</Position>
+      <TranslationSet>
+        <base loc="en">%@ elapsed</base>
+        <tran loc="ar">انقضى %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>repeat.button</Position>
+      <TranslationSet>
+        <base loc="en">Repeat</base>
+        <tran loc="ar">تكرار</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>transport.bar.label</Position>
+      <TranslationSet>
+        <base loc="en">Track Position</base>
+        <tran loc="ar">موضع المسار</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>repeat.one</Position>
+      <TranslationSet>
+        <base loc="en">One</base>
+        <tran loc="ar">واحد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>options.button.label</Position>
+      <TranslationSet>
+        <base loc="en">Options</base>
+        <tran loc="ar">الخيارات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>shuffle.button</Position>
+      <TranslationSet>
+        <base loc="en">Shuffle</base>
+        <tran loc="ar">عشوائي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>time.of.track.position</Position>
+      <TranslationSet>
+        <base loc="en">%@ of %@</base>
+        <tran loc="ar">‏%@ من %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>shuffle.on</Position>
+      <TranslationSet>
+        <base loc="en">On</base>
+        <tran loc="ar">تشغيل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>tv.player.paused</Position>
+      <TranslationSet>
+        <base loc="en">Paused</base>
+        <tran loc="ar">تم الإيقاف مؤقتًا</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Will be used by VoiceOver for announcements </Description>
+      <Position>tv.player.stopped</Position>
+      <TranslationSet>
+        <base loc="en">Stopped</base>
+        <tran loc="ar">تم الإيقاف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> e.g. 2:19 remaining</Description>
+      <Position>media.time.remaining</Position>
+      <TranslationSet>
+        <base loc="en">%@ remaining</base>
+        <tran loc="ar">متبقٍ %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>tv.player.playing</Position>
+      <TranslationSet>
+        <base loc="en">Playing</base>
+        <tran loc="ar">تشغيل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>repeat.off</Position>
+      <TranslationSet>
+        <base loc="en">Off</base>
+        <tran loc="ar">إيقاف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>shuffle.off</Position>
+      <TranslationSet>
+        <base loc="en">Off</base>
+        <tran loc="ar">إيقاف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>tv.player.fastforwarding</Position>
+      <TranslationSet>
+        <base loc="en">Fast Forwarding, %@ x</base>
+        <tran loc="ar">تقديم سريع، %@ ‏x</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>ATVAccessibility/System/Library/AccessibilityBundles/Audio Routing Module.axbundle/en.lproj/Accessibility.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>now.playing.module.title</Position>
+      <TranslationSet>
+        <base loc="en">Now Playing</base>
+        <tran loc="ar">قيد التشغيل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>sleep.module.title</Position>
+      <TranslationSet>
+        <base loc="en">Sleep</base>
+        <tran loc="ar">النوم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>airplay.routing.module.title</Position>
+      <TranslationSet>
+        <base loc="en">Playback Destination</base>
+        <tran loc="ar">وجهة التشغيل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>search.module.title</Position>
+      <TranslationSet>
+        <base loc="en">Search</base>
+        <tran loc="ar">بحث</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>ATVAccessibility/System/Library/AccessibilityBundles/TVPhotos.axbundle/en.lproj/Accessibility.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>dismissing.fullscreen.photo</Position>
+      <TranslationSet>
+        <base loc="en">Dismissing full screen photo</base>
+        <tran loc="ar">استبعاد صورة في وضع ملء الشاشة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>asset.type.video.hd</Position>
+      <TranslationSet>
+        <base loc="en">HD video</base>
+        <tran loc="ar">فيديو HD</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>showing.fullscreen.photo</Position>
+      <TranslationSet>
+        <base loc="en">Showing full screen photo</base>
+        <tran loc="ar">إظهار الصورة في وضع ملء الشاشة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Will be used by VoiceOver for announcements </Description>
+      <Position>asset.type.photo.panorama</Position>
+      <TranslationSet>
+        <base loc="en">Panorama</base>
+        <tran loc="ar">بانوراما</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>asset.type.video.slomo</Position>
+      <TranslationSet>
+        <base loc="en">Slow motion video</base>
+        <tran loc="ar">فيديو بالحركة البطيئة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> e.g. Photo Five</Description>
+      <Position>generic.photo.label</Position>
+      <TranslationSet>
+        <base loc="en">Photo %@</base>
+        <tran loc="ar">صورة %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>asset.type.video.timelapse</Position>
+      <TranslationSet>
+        <base loc="en">Time lapse video</base>
+        <tran loc="ar">فيديو بالتسلسل الزمني</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>ATVAccessibility/System/Library/AccessibilityBundles/TVSettings.axbundle/en.lproj/Accessibility.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>audio.route.speakers</Position>
+      <TranslationSet>
+        <base loc="en">Speakers</base>
+        <tran loc="ar">السماعات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>device.charging</Position>
+      <TranslationSet>
+        <base loc="en">Charging</base>
+        <tran loc="ar">جاري الشحن</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>battery.percent.device</Position>
+      <TranslationSet>
+        <base loc="en">%@ battery level</base>
+        <tran loc="ar">مستوى شحن البطارية %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>audio.route.television</Position>
+      <TranslationSet>
+        <base loc="en">Television</base>
+        <tran loc="ar">التلفاز</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Will be used by VoiceOver for announcements </Description>
+      <Position>tv.color.bars.description</Position>
+      <TranslationSet>
+        <base loc="en">Standard set of calibration color bars</base>
+        <tran loc="ar">مجموعة قياسية من أشرطة المعايرة الملونة</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>ATVAccessibility/System/Library/AccessibilityBundles/Now Playing Module.axbundle/en.lproj/Accessibility.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>now.playing.module.title</Position>
+      <TranslationSet>
+        <base loc="en">Now Playing</base>
+        <tran loc="ar">قيد التشغيل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>sleep.module.title</Position>
+      <TranslationSet>
+        <base loc="en">Sleep</base>
+        <tran loc="ar">النوم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>airplay.routing.module.title</Position>
+      <TranslationSet>
+        <base loc="en">Playback Destination</base>
+        <tran loc="ar">وجهة التشغيل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>search.module.title</Position>
+      <TranslationSet>
+        <base loc="en">Search</base>
+        <tran loc="ar">بحث</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>ATVAccessibility/System/Library/AccessibilityBundles/TVMusic.axbundle/en.lproj/Accessibility.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>go.to.artist.button.label</Position>
+      <TranslationSet>
+        <base loc="en">Go To Artist</base>
+        <tran loc="ar">انتقال إلى الفنان</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>table.index.label</Position>
+      <TranslationSet>
+        <base loc="en">Index</base>
+        <tran loc="ar">الفهرس</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>more.button.label</Position>
+      <TranslationSet>
+        <base loc="en">More</base>
+        <tran loc="ar">المزيد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>decrement.index.custom.action.name</Position>
+      <TranslationSet>
+        <base loc="en">Previous Section</base>
+        <tran loc="ar">القسم السابق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>lyrics.button.label</Position>
+      <TranslationSet>
+        <base loc="en">Lyrics</base>
+        <tran loc="ar">كلمات الأغنية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Will be used by VoiceOver for announcements </Description>
+      <Position>add.to.library.button.label</Position>
+      <TranslationSet>
+        <base loc="en">Add to library</base>
+        <tran loc="ar">إضافة إلى المكتبة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>increment.index.custom.action.name</Position>
+      <TranslationSet>
+        <base loc="en">Next Section</base>
+        <tran loc="ar">القسم التالي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>shuffle.button.label</Position>
+      <TranslationSet>
+        <base loc="en">Shuffle</base>
+        <tran loc="ar">عشوائي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>explicit.attribute.label</Position>
+      <TranslationSet>
+        <base loc="en">Explicit</base>
+        <tran loc="ar">فاضح</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>video.attribute.label</Position>
+      <TranslationSet>
+        <base loc="en">Video</base>
+        <tran loc="ar">فيديو</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>context.menu.button.label</Position>
+      <TranslationSet>
+        <base loc="en">Actions</base>
+        <tran loc="ar">الإجراءات</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>ATVAccessibility/System/Library/AccessibilityBundles/TVNowPlayingService.axbundle/en.lproj/Accessibility.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>destination.cell.hint</Position>
+      <TranslationSet>
+        <base loc="en">Move down to choose a route. Move left or right to manage other devices. Use the volume up and down buttons to adjust the volume on this device</base>
+        <tran loc="ar">تحرك للأسفل لاختيار منفذ. تحرك لليمين أو لليسار لإدارة الأجهزة الأخرى. استخدم زرّي رفع وخفض الصوت لضبط مستوى الصوت على هذا الجهاز.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>destination.cell.type</Position>
+      <TranslationSet>
+        <base loc="en">Device</base>
+        <tran loc="ar">الجهاز</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>volume.slider.hint</Position>
+      <TranslationSet>
+        <base loc="en">Press menu to dismiss</base>
+        <tran loc="ar">اضغط على القائمة للاستبعاد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>RouteDeviceTypePowerBeats</Position>
+      <TranslationSet>
+        <base loc="en">Powerbeats</base>
+        <tran loc="ar">‏Powerbeats</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>RouteDeviceTypeAppleTV</Position>
+      <TranslationSet>
+        <base loc="en">Apple TV</base>
+        <tran loc="ar">Apple TV</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Volume 25%</Description>
+      <Position>volume.level.description</Position>
+      <TranslationSet>
+        <base loc="en">Volume %@</base>
+        <tran loc="ar">مستوى الصوت %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>RouteDeviceTypeBeatsSolo</Position>
+      <TranslationSet>
+        <base loc="en">Beats Solo</base>
+        <tran loc="ar">‏Beats Solo</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>RouteDeviceTypeBeatsX</Position>
+      <TranslationSet>
+        <base loc="en">Beats X</base>
+        <tran loc="ar">‏Beats X</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>RouteDeviceTypeAirPort</Position>
+      <TranslationSet>
+        <base loc="en">AirPort</base>
+        <tran loc="ar">‏AirPort</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>route.cell.type</Position>
+      <TranslationSet>
+        <base loc="en">Route</base>
+        <tran loc="ar">مخرج</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>route.cell.hint</Position>
+      <TranslationSet>
+        <base loc="en">Press and hold select to change volume</base>
+        <tran loc="ar">اضغط مطولاً مع التحديد لتغيير مستوى الصوت</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>audio.route.is.multiroute</Position>
+      <TranslationSet>
+        <base loc="en">Multi-route</base>
+        <tran loc="ar">منافذ متعددة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>music.bar.state.paused</Position>
+      <TranslationSet>
+        <base loc="en">Paused</base>
+        <tran loc="ar">تم الإيقاف مؤقتًا</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>route.connected</Position>
+      <TranslationSet>
+        <base loc="en">Connected</base>
+        <tran loc="ar">متصل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Will be used by VoiceOver for announcements </Description>
+      <Position>music.bar.state.playing</Position>
+      <TranslationSet>
+        <base loc="en">Playing</base>
+        <tran loc="ar">جاري التشغيل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>RouteDeviceTypeHomePod</Position>
+      <TranslationSet>
+        <base loc="en">HomePod</base>
+        <tran loc="ar">‏HomePod</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>RouteDeviceTypeHomePodPair</Position>
+      <TranslationSet>
+        <base loc="en">HomePod</base>
+        <tran loc="ar">‏HomePod</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>RouteDeviceTypeSpeaker</Position>
+      <TranslationSet>
+        <base loc="en">Speaker</base>
+        <tran loc="ar">السماعة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>RouteDeviceTypeAirPods</Position>
+      <TranslationSet>
+        <base loc="en">AirPods</base>
+        <tran loc="ar">‏AirPods</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>ATVAccessibility/System/Library/AccessibilityBundles/PineBoard.axbundle/en.lproj/Accessibility.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>app.switcher.homescreen.label</Position>
+      <TranslationSet>
+        <base loc="en">Home</base>
+        <tran loc="ar">الشاشة الرئيسية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description>e.g. "Closing Netflix"</Description>
+      <Position>closing.app.announcement</Position>
+      <TranslationSet>
+        <base loc="en">Closing %@</base>
+        <tran loc="ar">جاري إغلاق %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>dismiss.airplay.announcement</Position>
+      <TranslationSet>
+        <base loc="en">Finished AirPlay</base>
+        <tran loc="ar">انتهى AirPlay</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>close.app.action</Position>
+      <TranslationSet>
+        <base loc="en">Close App</base>
+        <tran loc="ar">إغلاق التطبيق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>app.switcher.app.hint</Position>
+      <TranslationSet>
+        <base loc="en">Use the Actions rotor to close %@</base>
+        <tran loc="ar">استخدم دوار الإجراءات لإغلاق %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>app.switcher</Position>
+      <TranslationSet>
+        <base loc="en">App Switcher</base>
+        <tran loc="ar">مُبدّل التطبيق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>present.airplay.announcement</Position>
+      <TranslationSet>
+        <base loc="en">Receiving AirPlay</base>
+        <tran loc="ar">جاري استلام AirPlay</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>ATVAccessibility/System/Library/AccessibilityBundles/HeadBoard.axbundle/en.lproj/Accessibility.stringsdict</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>/app.badge.numeric.value.generic:dict/items:dict/few:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%d new items</base>
+        <tran loc="ar">‏%d عناصر جديدة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/app.badge.numeric.value.generic:dict/items:dict/many:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%d new items</base>
+        <tran loc="ar">‏%d عنصرًا جديدًا</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/app.badge.numeric.value.generic:dict/items:dict/other:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%d new items</base>
+        <tran loc="ar">‏%d عنصر جديد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/app.badge.numeric.value.generic:dict/items:dict/two:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%d new items</base>
+        <tran loc="ar">عنصران جديدان</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/app.badge.numeric.value.generic:dict/items:dict/zero:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%d new items</base>
+        <tran loc="ar">‏%d عنصر جديد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/app.badge.numeric.value.update:dict/updates:dict/few:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%d new updates</base>
+        <tran loc="ar">‏%d تحديثات جديدة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/app.badge.numeric.value.update:dict/updates:dict/many:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%d new updates</base>
+        <tran loc="ar">‏%d تحديثًا جديدًا</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/app.badge.numeric.value.update:dict/updates:dict/other:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%d new updates</base>
+        <tran loc="ar">‏%d تحديث جديد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/app.badge.numeric.value.update:dict/updates:dict/two:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%d new updates</base>
+        <tran loc="ar">تحديثان جديدان</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/app.badge.numeric.value.update:dict/updates:dict/zero:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%d new updates</base>
+        <tran loc="ar">‏%d تحديث جديد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/folder.items:dict/items:dict/few:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%d items</base>
+        <tran loc="ar">‏%d عناصر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/folder.items:dict/items:dict/many:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%d items</base>
+        <tran loc="ar">‏%d عنصرًا</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/folder.items:dict/items:dict/other:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%d items</base>
+        <tran loc="ar">‏%d عنصر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/folder.items:dict/items:dict/two:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%d items</base>
+        <tran loc="ar">عنصران</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/folder.items:dict/items:dict/zero:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%d items</base>
+        <tran loc="ar">‏%d عنصر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/app.badge.numeric.value.update:dict/updates:dict/one:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%d new update</base>
+        <tran loc="ar">تحديث واحد جديد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/app.badge.numeric.value.app:dict/NSStringLocalizedFormatKey:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%#@apps@</base>
+        <tran loc="ar">%#@apps@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/folder.items:dict/items:dict/one:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%d item</base>
+        <tran loc="ar">عنصر واحد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/app.badge.numeric.value.movie:dict/NSStringLocalizedFormatKey:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%#@movies@</base>
+        <tran loc="ar">%#@movies@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/app.badge.numeric.value.app:dict/apps:dict/few:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%d new app updates</base>
+        <tran loc="ar">‏%d تحديثات جديدة للتطبيقات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/app.badge.numeric.value.app:dict/apps:dict/many:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%d new app updates</base>
+        <tran loc="ar">‏%d تحديثًا جديدًا للتطبيقات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/app.badge.numeric.value.app:dict/apps:dict/other:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%d new app updates</base>
+        <tran loc="ar">‏%d تحديث جديد للتطبيقات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/app.badge.numeric.value.app:dict/apps:dict/two:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%d new app updates</base>
+        <tran loc="ar">تحديثان جديدان للتطبيقات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/app.badge.numeric.value.app:dict/apps:dict/zero:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%d new app updates</base>
+        <tran loc="ar">‏%d تحديث جديد للتطبيقات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/app.badge.numeric.value.movie:dict/movies:dict/one:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%d new movie</base>
+        <tran loc="ar">فيلم واحد جديد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/app.badge.numeric.value.episode:dict/episodes:dict/one:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%d new episode</base>
+        <tran loc="ar">حلقة واحدة جديدة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/app.badge.numeric.value.episode:dict/episodes:dict/few:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%d new episodes</base>
+        <tran loc="ar">‏%d حلقات جديدة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/app.badge.numeric.value.episode:dict/episodes:dict/many:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%d new episodes</base>
+        <tran loc="ar">‏%d حلقة جديدة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/app.badge.numeric.value.episode:dict/episodes:dict/other:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%d new episodes</base>
+        <tran loc="ar">‏%d حلقة جديدة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/app.badge.numeric.value.episode:dict/episodes:dict/two:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%d new episodes</base>
+        <tran loc="ar">حلقتان جديدتان</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/app.badge.numeric.value.episode:dict/episodes:dict/zero:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%d new episodes</base>
+        <tran loc="ar">‏%d حلقة جديدة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/app.badge.numeric.value.movie:dict/movies:dict/few:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%d new movies</base>
+        <tran loc="ar">‏%d أفلام جديدة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/app.badge.numeric.value.movie:dict/movies:dict/many:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%d new movies</base>
+        <tran loc="ar">‏%d فيلمًا جديدًا</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/app.badge.numeric.value.movie:dict/movies:dict/other:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%d new movies</base>
+        <tran loc="ar">‏%d فيلم جديد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/app.badge.numeric.value.movie:dict/movies:dict/two:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%d new movies</base>
+        <tran loc="ar">فيلمان جديدان</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/app.badge.numeric.value.movie:dict/movies:dict/zero:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%d new movies</base>
+        <tran loc="ar">‏%d فيلم جديد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/app.badge.numeric.value.update:dict/NSStringLocalizedFormatKey:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%#@updates@</base>
+        <tran loc="ar">%#@updates@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/app.badge.numeric.value.episode:dict/NSStringLocalizedFormatKey:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%#@episodes@</base>
+        <tran loc="ar">%#@episodes@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/app.badge.numeric.value.generic:dict/NSStringLocalizedFormatKey:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%#@items@</base>
+        <tran loc="ar">%#@items@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/folder.items:dict/NSStringLocalizedFormatKey:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%#@items@</base>
+        <tran loc="ar">%#@items@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/app.badge.numeric.value.generic:dict/items:dict/one:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%d new item</base>
+        <tran loc="ar">عنصر واحد جديد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/app.badge.numeric.value.app:dict/apps:dict/one:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%d new app update</base>
+        <tran loc="ar">تحديث واحد جديد للتطبيقات</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>ATVAccessibility/System/Library/AccessibilityBundles/TVSystemBulletinService.axbundle/en.lproj/Accessibility.strings</Filepath>
+    <TextItem>
+      <Description> e.g. when a bulleton-like box appears in the top-right, we will speak "Alert: some notification text"</Description>
+      <Position>alert.notification</Position>
+      <TranslationSet>
+        <base loc="en">Alert: %@</base>
+        <tran loc="ar">تنبيه: %@</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>ATVAccessibility/System/Library/AccessibilityBundles/People Picker Module.axbundle/en.lproj/Accessibility.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>now.playing.module.title</Position>
+      <TranslationSet>
+        <base loc="en">Now Playing</base>
+        <tran loc="ar">قيد التشغيل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>sleep.module.title</Position>
+      <TranslationSet>
+        <base loc="en">Sleep</base>
+        <tran loc="ar">النوم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>airplay.routing.module.title</Position>
+      <TranslationSet>
+        <base loc="en">Playback Destination</base>
+        <tran loc="ar">وجهة التشغيل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>search.module.title</Position>
+      <TranslationSet>
+        <base loc="en">Search</base>
+        <tran loc="ar">بحث</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>ATVAccessibility/System/Library/AccessibilityBundles/TVPodcasts.axbundle/en.lproj/Accessibility.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>now.playing</Position>
+      <TranslationSet>
+        <base loc="en">Now playing</base>
+        <tran loc="ar">جاري التشغيل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>unplayed</Position>
+      <TranslationSet>
+        <base loc="en">Unplayed</base>
+        <tran loc="ar">لم يتم التشغيل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>partially.played</Position>
+      <TranslationSet>
+        <base loc="en">Partially played</base>
+        <tran loc="ar">تم التشغيل جزئيًا</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>ATVAccessibility/System/Library/AccessibilityBundles/TVAppStore.axbundle/en.lproj/Accessibility.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>buy.button.processing.value</Position>
+      <TranslationSet>
+        <base loc="en">Processing</base>
+        <tran loc="ar">جاري المعالجة</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>ATVAccessibility/System/Library/AccessibilityBundles/HeadBoard.axbundle/en.lproj/Accessibility.strings</Filepath>
+    <TextItem>
+      <Description> Will be used by VoiceOver for announcements 
+ We say 'items' and not 'apps' like on iOS because it looks
+ from the code like folders within folders is a possibility
+ Sports folder</Description>
+      <Position>folder.label</Position>
+      <TranslationSet>
+        <base loc="en">%@ folder</base>
+        <tran loc="ar">مجلد %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>no.top.shelf.content.available</Position>
+      <TranslationSet>
+        <base loc="en">No top-shelf content</base>
+        <tran loc="ar">لا يوجد محتوى صف علوي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>row.column.description</Position>
+      <TranslationSet>
+        <base loc="en">Row %1$@, Column %2$@</base>
+        <tran loc="ar">‏الصف %1$@، العمود %2$@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description>e.g. Opening Sports Folder</Description>
+      <Position>opening.folder.announcement</Position>
+      <TranslationSet>
+        <base loc="en">Opening %@ Folder</base>
+        <tran loc="ar">فتح مجلد %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description>e.g. Before TV Shows</Description>
+      <Position>after.cell.announcement</Position>
+      <TranslationSet>
+        <base loc="en">After %@</base>
+        <tran loc="ar">بعد %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>apps.guide.element</Position>
+      <TranslationSet>
+        <base loc="en">Apps</base>
+        <tran loc="ar">التطبيقات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>app.in.beta.value</Position>
+      <TranslationSet>
+        <base loc="en">Beta</base>
+        <tran loc="ar">تجريبي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>app.recently.updated.value</Position>
+      <TranslationSet>
+        <base loc="en">Recently Updated</base>
+        <tran loc="ar">المحدثة مؤخرًا</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>percentage.played</Position>
+      <TranslationSet>
+        <base loc="en">%@ played</base>
+        <tran loc="ar">تم تشغيل %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description>e.g. Closing Sports Folder</Description>
+      <Position>closing.folder.announcement</Position>
+      <TranslationSet>
+        <base loc="en">Closing %@ Folder</base>
+        <tran loc="ar">إغلاق مجلد %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>row.column.description.abbreviated</Position>
+      <TranslationSet>
+        <base loc="en">r%1$@c%2$@</base>
+        <tran loc="ar">ص%1$@ع%2$@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>begin.moving.cell.announcement</Position>
+      <TranslationSet>
+        <base loc="en">Started Moving</base>
+        <tran loc="ar">بدأ النقل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> This is the top conent area that appears when you focus on an app in the top row. I think 'top shelf' is our
+ internal name for this area. Let's describe it as "Featured" to a VO user</Description>
+      <Position>top.shelf.guide.element</Position>
+      <TranslationSet>
+        <base loc="en">Featured</base>
+        <tran loc="ar">مميز</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description>e.g. Before TV Shows</Description>
+      <Position>before.cell.announcement</Position>
+      <TranslationSet>
+        <base loc="en">Before %@</base>
+        <tran loc="ar">قبل %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>app.options.hint</Position>
+      <TranslationSet>
+        <base loc="en">Press play for options</base>
+        <tran loc="ar">اضغط على تشغيل للخيارات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>end.moving.cell.announcement</Position>
+      <TranslationSet>
+        <base loc="en">Finished Moving</base>
+        <tran loc="ar">انتهى النقل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>top.shelf.content.available</Position>
+      <TranslationSet>
+        <base loc="en">Top-shelf content available</base>
+        <tran loc="ar">محتوى الصف العلوي متوفر</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>ATVAccessibility/System/Library/AccessibilityBundles/TVContentPartnerKitUI.axbundle/en.lproj/Accessibility.strings</Filepath>
+    <TextItem>
+      <Description>e.g. Starting with James Bond</Description>
+      <Position>tvck.search.first.item</Position>
+      <TranslationSet>
+        <base loc="en">Starting with %@</base>
+        <tran loc="ar">البدء بـ %@</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>ATVAccessibility/System/Library/AccessibilityBundles/TVSystemMenuService.axbundle/en.lproj/Accessibility.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>now.playing.module.title</Position>
+      <TranslationSet>
+        <base loc="en">Now Playing</base>
+        <tran loc="ar">قيد التشغيل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>sleep.module.title</Position>
+      <TranslationSet>
+        <base loc="en">Sleep</base>
+        <tran loc="ar">النوم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>airplay.routing.module.title</Position>
+      <TranslationSet>
+        <base loc="en">Playback Destination</base>
+        <tran loc="ar">وجهة التشغيل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>search.module.title</Position>
+      <TranslationSet>
+        <base loc="en">Search</base>
+        <tran loc="ar">بحث</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>ATVAccessibility/System/Library/AccessibilityBundles/ATVLegacyContentKit.axbundle/en.lproj/Accessibility.strings</Filepath>
+    <TextItem>
+      <Description> Will be used by VoiceOver for announcements 
+ Element Video Formats:</Description>
+      <Position>SuperHD</Position>
+      <TranslationSet>
+        <base loc="en">Super HD</base>
+        <tran loc="ar">‏Super HD</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>closed.captions.label</Position>
+      <TranslationSet>
+        <base loc="en">Closed Captions</base>
+        <tran loc="ar">الشرح المكتوب لأحداث العرض</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description>Spoken description for the 'full blue dot' in legacy content feed apps</Description>
+      <Position>unplayed</Position>
+      <TranslationSet>
+        <base loc="en">Unplayed</base>
+        <tran loc="ar">لم يتم التشغيل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description>Spoken description for progress bars in legacy content feed apps, e.g. "58% complete"</Description>
+      <Position>progress.format</Position>
+      <TranslationSet>
+        <base loc="en">%@ complete</base>
+        <tran loc="ar">اكتمل %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>HD</Position>
+      <TranslationSet>
+        <base loc="en">HD</base>
+        <tran loc="ar">‏HD</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description>Spoken description for the 'half full blue dot' in legacy content feed apps</Description>
+      <Position>partially.played</Position>
+      <TranslationSet>
+        <base loc="en">Partially played</base>
+        <tran loc="ar">تم التشغيل جزئيًا</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Element Audio Formats:</Description>
+      <Position>dolbyDigital</Position>
+      <TranslationSet>
+        <base loc="en">Dolby Digital</base>
+        <tran loc="ar">Dolby Digital</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>ATVAccessibility/System/Library/PreferenceBundles/AccessibilitySettings.bundle/en.lproj/Accessibility.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>AXVoiceOverStartPracticeTitle</Position>
+      <TranslationSet>
+        <base loc="en">Start VoiceOver Practice</base>
+        <tran loc="ar">بدء ممارسة VoiceOver</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AXIncreaseContrastTitle</Position>
+      <TranslationSet>
+        <base loc="en">Increase Contrast</base>
+        <tran loc="ar">زيادة التباين</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SCANNING_SPEED_ADJUST_INSTRUCTIONS</Position>
+      <TranslationSet>
+        <base loc="en">Slide to adjust scanning speed</base>
+        <tran loc="ar">قم بالتمرير لضبط سرعة المسح</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AXBrailleChooseDisplayDescription</Position>
+      <TranslationSet>
+        <base loc="en">Choose a Braille Display</base>
+        <tran loc="ar">اختيار شاشة عرض برايل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AXFocusStyleHighContrast</Position>
+      <TranslationSet>
+        <base loc="en">High Contrast</base>
+        <tran loc="ar">تباين عالٍ</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AXColorFilterColorTintHueAdjustInstructions</Position>
+      <TranslationSet>
+        <base loc="en">Slide to adjust color tint hue</base>
+        <tran loc="ar">قم بالتمرير لضبط تدرج الدرجة الخفيفة من اللون</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AXCaptionColorWhite</Position>
+      <TranslationSet>
+        <base loc="en">White</base>
+        <tran loc="ar">أبيض</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AXCaptionMappedFontProportionalSerifTitle</Position>
+      <TranslationSet>
+        <base loc="en">Serif</base>
+        <tran loc="ar">Serif</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AXCaptionTextSizeSmall</Position>
+      <TranslationSet>
+        <base loc="en">Small</base>
+        <tran loc="ar">صغير</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AXColorFilterGreenAdjustIntensityInstructions</Position>
+      <TranslationSet>
+        <base loc="en">Slide to adjust green/red intensity</base>
+        <tran loc="ar">قم بالتمرير لضبط شدة اللون الأخضر/الأحمر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AXAccessibilityMenuDescription</Position>
+      <TranslationSet>
+        <base loc="en">To access Accessibility options, press Menu three times.</base>
+        <tran loc="ar">للوصول إلى خيارات تسهيلات الاستخدام، اضغط على زر القائمة ثلاث مرات.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AXBrailleTranslationAddNewLanguageDescription</Position>
+      <TranslationSet>
+        <base loc="en">Braille tables added here will appear in the Braille Tables rotor in VoiceOver</base>
+        <tran loc="ar">جداول برايل المضافة هنا ستظهر في دوار جداول برايل في VoiceOver</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AXCaptionMappedFontCasualTitle</Position>
+      <TranslationSet>
+        <base loc="en">Casual</base>
+        <tran loc="ar">Casual</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AVAudioOutputTitle</Position>
+      <TranslationSet>
+        <base loc="en">Audio Mode</base>
+        <tran loc="ar">وضع الصوت</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AXColorPurple</Position>
+      <TranslationSet>
+        <base loc="en">Purple</base>
+        <tran loc="ar">أرجواني</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AXSpeechPronunciationLanguageAllOption</Position>
+      <TranslationSet>
+        <base loc="en">All</base>
+        <tran loc="ar">الكل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> some voices are default + enhanced on the server.</Description>
+      <Position>COMBINED_DOWNLOAD_VOICE_REQUIRES</Position>
+      <TranslationSet>
+        <base loc="en">Default and Enhanced voices require %@ download</base>
+        <tran loc="ar">تتطلب الأصوات الافتراضية والمعززة تنزيل %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Display Filters </Description>
+      <Position>AXDisplayFiltersTitle</Position>
+      <TranslationSet>
+        <base loc="en">Display Accommodations</base>
+        <tran loc="ar">تسهيلات الشاشة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AXVisionSectionTitle</Position>
+      <TranslationSet>
+        <base loc="en">Vision</base>
+        <tran loc="ar">الرؤية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description>This string represents the caption style default name. The first argument is the prefix "Style" and the second argument is the style number, the number is incremented by 1 each time a new style is created.</Description>
+      <Position>AXCaptionStyleDefaultProfileName</Position>
+      <TranslationSet>
+        <base loc="en">%@ %@</base>
+        <tran loc="ar">‏%@ ‏%@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AXSpeechPronunciationReplacementTitle</Position>
+      <TranslationSet>
+        <base loc="en">Replacement</base>
+        <tran loc="ar">استبدال</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AXClosedCaptionsTitle</Position>
+      <TranslationSet>
+        <base loc="en">Closed Captions</base>
+        <tran loc="ar">الشرح المكتوب لأحداث العرض</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AXUsePitchDescription</Position>
+      <TranslationSet>
+        <base loc="en">To help distinguish context, VoiceOver can change the pitch when speaking.</base>
+        <tran loc="ar">للمساعدة في تمييز السياق، يمكن لـ VoiceOver تغيير حدة الصوت عند النطق.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AXBrailleContracted</Position>
+      <TranslationSet>
+        <base loc="en">Contracted</base>
+        <tran loc="ar">مختصرة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AXBrailleTranslationAddNewLanguageTitle</Position>
+      <TranslationSet>
+        <base loc="en">Add Braille Table</base>
+        <tran loc="ar">إضافة جدول برايل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AXZoomMaxLevelTitle</Position>
+      <TranslationSet>
+        <base loc="en">Maximum Zoom Level</base>
+        <tran loc="ar">الحد الأقصى لمستوى التكبير/التصغير</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>LONG_PRESS_ADJUST_INSTRUCTIONS</Position>
+      <TranslationSet>
+        <base loc="en">Slide to adjust Long Press duration</base>
+        <tran loc="ar">قم بالتمرير لضبط مدة الضغط المطول</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ENHANCED</Position>
+      <TranslationSet>
+        <base loc="en">Enhanced</base>
+        <tran loc="ar">مُحسّن</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AXSpeechDeletePronunciationPromptTitle</Position>
+      <TranslationSet>
+        <base loc="en">Delete Pronunciation</base>
+        <tran loc="ar">حذف النطق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>TAP_BEHAVIOR_AUTO_TIMEOUT_ADJUST_INSTRUCTIONS</Position>
+      <TranslationSet>
+        <base loc="en">Slide to adjust Auto Press timeout</base>
+        <tran loc="ar">قم بالتمرير لضبط مهلة الضغط التلقائي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AXSpeechPronunciationLanguageMultipleOption</Position>
+      <TranslationSet>
+        <base loc="en">Multiple</base>
+        <tran loc="ar">متعددة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AXCaptionExistsFormat</Position>
+      <TranslationSet>
+        <base loc="en">“%@” already exists. Choose another name.</base>
+        <tran loc="ar">‏"%@" موجود بالفعل. اختر اسمًا آخر.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AXVoiceOverVerbosityTitle</Position>
+      <TranslationSet>
+        <base loc="en">Verbosity</base>
+        <tran loc="ar">الإسهاب</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AXCaptionBackgroundOpacity100</Position>
+      <TranslationSet>
+        <base loc="en">100%</base>
+        <tran loc="ar">‏١٠٠٪‏</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AXCaptionTextHighlightOpacity100</Position>
+      <TranslationSet>
+        <base loc="en">100%</base>
+        <tran loc="ar">‏١٠٠٪‏</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>STEP_REPEAT_ADJUST_INSTRUCTIONS</Position>
+      <TranslationSet>
+        <base loc="en">Slide to adjust Move Repeat interval</base>
+        <tran loc="ar">قم بالتمرير لضبط الفاصل الزمني لتكرار النقل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AXCAptionVideoOverrideTitle</Position>
+      <TranslationSet>
+        <base loc="en">Video Overrides Style</base>
+        <tran loc="ar">نمط تجاوز الفيديو</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AXVoiceOverVoiceTitle</Position>
+      <TranslationSet>
+        <base loc="en">Voice</base>
+        <tran loc="ar">الصوت</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AXAudioDescriptionsDescription</Position>
+      <TranslationSet>
+        <base loc="en">When available, automatically play audio descriptions.</base>
+        <tran loc="ar">تشغيل الأوصاف الصوتية تلقائيًا، عندما تكون متوفرة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Automatically added by ronstrings at 02:20PM on July 14, 2014 </Description>
+      <Position>APEnabledTitle</Position>
+      <TranslationSet>
+        <base loc="en">AirPlay</base>
+        <tran loc="ar">AirPlay</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AXCaptionStyleTextOpacityTitle</Position>
+      <TranslationSet>
+        <base loc="en">Text Opacity</base>
+        <tran loc="ar">تعتيم النص</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AXCaptionTextOpacitySemiTransparent</Position>
+      <TranslationSet>
+        <base loc="en">Semi-Transparent</base>
+        <tran loc="ar">نصف شفاف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>IGNORE_REPEAT_ADJUST_INSTRUCTIONS</Position>
+      <TranslationSet>
+        <base loc="en">Slide to adjust Ignore Repeat duration</base>
+        <tran loc="ar">قم بالتمرير لضبط مدة تجاهل التكرار</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> File size is inserted into this string '20MB'</Description>
+      <Position>PREPARE_PREMIUM_DOWNLOAD</Position>
+      <TranslationSet>
+        <base loc="en">Preparing to download…</base>
+        <tran loc="ar">جاري الإعداد للتنزيل…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AXBrailleStatusCellTitle</Position>
+      <TranslationSet>
+        <base loc="en">Status Cell</base>
+        <tran loc="ar">خلية الحالة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AXCaptionTextEdgeStyleDropShadow</Position>
+      <TranslationSet>
+        <base loc="en">Drop Shadow</base>
+        <tran loc="ar">ظل خلفي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AXLightSensitivityIntensityAdjustInstructions</Position>
+      <TranslationSet>
+        <base loc="en">Slide to adjust light sensitivity intensity</base>
+        <tran loc="ar">قم بالتمرير لضبط شدة حساسية الضوء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AXCaptionStyleBackgroundColorOverrideDescription</Position>
+      <TranslationSet>
+        <base loc="en">Use the color specified in the video.</base>
+        <tran loc="ar">استخدام اللون المحدد في الفيديو.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AXCaptionStyleColorOverrideDescription</Position>
+      <TranslationSet>
+        <base loc="en">Use the color specified in the video.</base>
+        <tran loc="ar">استخدام اللون المحدد في الفيديو.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AXCaptionStyleTextEdgeStyleTitle</Position>
+      <TranslationSet>
+        <base loc="en">Text Edge Style</base>
+        <tran loc="ar">نمط حواف النص</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AXLightSensitivityTitle</Position>
+      <TranslationSet>
+        <base loc="en">Light Sensitivity</base>
+        <tran loc="ar">حساسية الضوء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AXCaptionStyleDefaultCustomNamePrefix</Position>
+      <TranslationSet>
+        <base loc="en">Style</base>
+        <tran loc="ar">النمط</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AXCaptionStyleTitle</Position>
+      <TranslationSet>
+        <base loc="en">Style</base>
+        <tran loc="ar">النمط</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AXCaptionDefaultValueFormat</Position>
+      <TranslationSet>
+        <base loc="en">%@ (Default)</base>
+        <tran loc="ar">‏%@‏ (افتراضي)</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DEFAULT_VOICE_WITH_NAME</Position>
+      <TranslationSet>
+        <base loc="en">%@ (Default)</base>
+        <tran loc="ar">‏%@ (افتراضي)</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AXColorTurquoise</Position>
+      <TranslationSet>
+        <base loc="en">Turquoise</base>
+        <tran loc="ar">تركواز</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AXCaptionTooShortError</Position>
+      <TranslationSet>
+        <base loc="en">Enter a name for this custom caption style.</base>
+        <tran loc="ar">أدخل اسمًا لنمط التسمية التوضيحية المخصص هذا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Hearing </Description>
+      <Position>AXHearingSectionTitle</Position>
+      <TranslationSet>
+        <base loc="en">Hearing</base>
+        <tran loc="ar">السمع</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AXCaptionStyleBackgroundSectionTitle</Position>
+      <TranslationSet>
+        <base loc="en">Background</base>
+        <tran loc="ar">الخلفية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AXBoldTextRestartTitle</Position>
+      <TranslationSet>
+        <base loc="en">Restart Required</base>
+        <tran loc="ar">إعادة التشغيل مطلوبة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AXColorOrange</Position>
+      <TranslationSet>
+        <base loc="en">Orange</base>
+        <tran loc="ar">برتقالي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AXCaptionMappedFontMonospaceSerifTitle</Position>
+      <TranslationSet>
+        <base loc="en">Monospaced Serif</base>
+        <tran loc="ar">Monospaced Serif</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AXVoiceOverMediaDescriptionsTitle</Position>
+      <TranslationSet>
+        <base loc="en">Media Descriptions</base>
+        <tran loc="ar">أوصاف الوسائط</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AXBrailleDisplayInputTitle</Position>
+      <TranslationSet>
+        <base loc="en">Input</base>
+        <tran loc="ar">إدخال</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> i.e. this is the string the user is replacing</Description>
+      <Position>AXSpeechPronunciationOriginalStringTitle</Position>
+      <TranslationSet>
+        <base loc="en">Phrase</base>
+        <tran loc="ar">عبارة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AXVoiceOverMediaDescriptionsDescription</Position>
+      <TranslationSet>
+        <base loc="en">Determines how Closed Captions + SDH are output during media playback.</base>
+        <tran loc="ar">تحديد كيفية إخراج الشرح المكتوب لأحداث العرض + ‏SDH أثناء تشغيل الوسائط.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AXCaptionTextOpacityTransparent</Position>
+      <TranslationSet>
+        <base loc="en">Transparent</base>
+        <tran loc="ar">شفاف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AXCaptionTextOpacityOpaque</Position>
+      <TranslationSet>
+        <base loc="en">Opaque</base>
+        <tran loc="ar">غير شفاف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AXBrailleAlertDisplayDurationDescription</Position>
+      <TranslationSet>
+        <base loc="en">The duration that an alert will be visible on your Braille display.</base>
+        <tran loc="ar">المدة التي يكون خلالها التنبيه مرئيًا على شاشة برايل لديك.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AXVoiceOverPracticeDetails</Position>
+      <TranslationSet>
+        <base loc="en">Perform gestures on your Apple remote to learn about VoiceOver.\n • Flick up, down, left or right to move focus.\n • Rotate two fingers to change the VoiceOver rotor.\n</base>
+        <tran loc="ar">يمكنك تنفيذ الإيماءات على جهاز تحكم Apple للتعرُّف على VoiceOver.\n • قلّب لأعلى أو لأسفل أو يمينًا أو يسارًا لنقل التركيز.\n • قم بتدوير إصبعين لتغيير دوّار VoiceOver.\n</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AXCaptionEditStyles</Position>
+      <TranslationSet>
+        <base loc="en">Edit Styles</base>
+        <tran loc="ar">تحرير الأنماط</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AXCaptionMappedFontDescription</Position>
+      <TranslationSet>
+        <base loc="en">Select a font style as the default for video subtitles.</base>
+        <tran loc="ar">تحديد نمط الخط الافتراضي لترجمة الفيديو.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AXBrailleTitle</Position>
+      <TranslationSet>
+        <base loc="en">Braille</base>
+        <tran loc="ar">طريقة برايل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AXCaptionExampleText</Position>
+      <TranslationSet>
+        <base loc="en">Subtitles will look like this.</base>
+        <tran loc="ar">ستظهر الترجمة بهذا الشكل.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AXCaptionStyleFontTitle</Position>
+      <TranslationSet>
+        <base loc="en">Font</base>
+        <tran loc="ar">الخط</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AXCaptionMappedFontCursiveTitle</Position>
+      <TranslationSet>
+        <base loc="en">Script</base>
+        <tran loc="ar">Script</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AXMenuAskValue</Position>
+      <TranslationSet>
+        <base loc="en">Ask</base>
+        <tran loc="ar">اسأل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AXZoomLevelFormat</Position>
+      <TranslationSet>
+        <base loc="en">%@x</base>
+        <tran loc="ar">‏‪%@x‬</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> This represents the same content as AXZoomLevelFormat, but is spoken by VoiceOver reather than read visually</Description>
+      <Position>AXZoomLevelFormat_Spoken</Position>
+      <TranslationSet>
+        <base loc="en">%@x</base>
+        <tran loc="ar">‏‪%@x‬</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AVHDMIOutputAuto</Position>
+      <TranslationSet>
+        <base loc="en">Auto</base>
+        <tran loc="ar">تلقائي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AVSubtitleModeAuto</Position>
+      <TranslationSet>
+        <base loc="en">Auto</base>
+        <tran loc="ar">تلقائي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AXCaptionMappedFontProportionalSansSerifTitle</Position>
+      <TranslationSet>
+        <base loc="en">Sans Serif</base>
+        <tran loc="ar">Sans Serif</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AXCaptionColorRed</Position>
+      <TranslationSet>
+        <base loc="en">Red</base>
+        <tran loc="ar">أحمر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AXColorRed</Position>
+      <TranslationSet>
+        <base loc="en">Red</base>
+        <tran loc="ar">أحمر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AXGenericPromptOK</Position>
+      <TranslationSet>
+        <base loc="en">OK</base>
+        <tran loc="ar">موافق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 
+  Accessibility.strings
+  AccessibilitySettings
+
+  Created by Darren Minifie on 10/16/15.
+  Copyright © 2015 Apple Inc. All rights reserved.
+
+ --------------------------------------------------------------
+ Accessibility Native Strings
+ --------------------------------------------------------------
+ --------------------------------------------------------------
+ Strings from TVSettings
+ Once the TVSettings / AX code merges
+ for Union, we need to go through the following
+ strings and vet them. Some may not be used
+ --------------------------------------------------------------
+ For reference, use smart single and double quotes in all places: ’ “”</Description>
+      <Position>OK</Position>
+      <TranslationSet>
+        <base loc="en">OK</base>
+        <tran loc="ar">موافق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SettingsOK</Position>
+      <TranslationSet>
+        <base loc="en">OK</base>
+        <tran loc="ar">موافق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>voices.siri.delete.dismiss</Position>
+      <TranslationSet>
+        <base loc="en">OK</base>
+        <tran loc="ar">موافق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AXCaptionStyleBackgroundColorTitle</Position>
+      <TranslationSet>
+        <base loc="en">Color</base>
+        <tran loc="ar">اللون</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AXCaptionStyleColorTitle</Position>
+      <TranslationSet>
+        <base loc="en">Color</base>
+        <tran loc="ar">اللون</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> i.e. this is the string that will replace the original</Description>
+      <Position>AXSpeechPronunciationReplacementStringTitle</Position>
+      <TranslationSet>
+        <base loc="en">Substitution</base>
+        <tran loc="ar">البديل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DOWNLOAD_ERROR_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Download Error</base>
+        <tran loc="ar">خطأ في التنزيل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AXBrailleSixDot</Position>
+      <TranslationSet>
+        <base loc="en">Uncontracted Six-dot</base>
+        <tran loc="ar">سداسي النقاط غير مختصر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AXBrailleStatusCellLeft</Position>
+      <TranslationSet>
+        <base loc="en">Left</base>
+        <tran loc="ar">يسار</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AXAccessibilityMenuOptionsSectionTitle</Position>
+      <TranslationSet>
+        <base loc="en">Triple-Click Menu For</base>
+        <tran loc="ar">النقر ثلاث مرات على زر Menu لـ</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AXCaptionStyleTextEdgeOverrideDescription</Position>
+      <TranslationSet>
+        <base loc="en">Use the text edge style specified in the video.</base>
+        <tran loc="ar">استخدام نمط حواف النص المحدد في الفيديو.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AXSpeechAddPronunciationButtonTitle</Position>
+      <TranslationSet>
+        <base loc="en">Add Pronunciation</base>
+        <tran loc="ar">إضافة طريقة نطق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AXCaptionBackgroundOpacity50</Position>
+      <TranslationSet>
+        <base loc="en">50%</base>
+        <tran loc="ar">‏٥٠٪‏</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AXCaptionTextHighlightOpacity50</Position>
+      <TranslationSet>
+        <base loc="en">50%</base>
+        <tran loc="ar">‏٥٠٪‏</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ENHANCED_LANGUAGE</Position>
+      <TranslationSet>
+        <base loc="en">Enhanced Quality</base>
+        <tran loc="ar">جودة محسّنة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AXCaptionsAndSDHDescription</Position>
+      <TranslationSet>
+        <base loc="en">When available, use closed captions or subtitles for the deaf and hard of hearing (SDH).</base>
+        <tran loc="ar">استخدام الشرح المكتوب لأحداث العرض أو الترجمة للصم وضعاف السمع (SDH)، في حالة توفرهما.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AXCaptionStyleTextOpacityOverrideDescription</Position>
+      <TranslationSet>
+        <base loc="en">Use the text opacity specified in the video.</base>
+        <tran loc="ar">استخدام تعتيم النص المحدد في الفيديو.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> e.g. the intensity of a filter</Description>
+      <Position>AXIntensityTitle</Position>
+      <TranslationSet>
+        <base loc="en">Intensity</base>
+        <tran loc="ar">شدة اللون</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AXVoiceOverSpeakDetectedTextTitle</Position>
+      <TranslationSet>
+        <base loc="en">Speak Detected Text</base>
+        <tran loc="ar">نطق النص المحدد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Downloading '42.5 of 45.5 MB'</Description>
+      <Position>VOICE_DOWNLOADING_PROGRESS</Position>
+      <TranslationSet>
+        <base loc="en">Downloaded %@</base>
+        <tran loc="ar">تم تنزيل %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AXReduceWhitePointTitle</Position>
+      <TranslationSet>
+        <base loc="en">Reduce White Point</base>
+        <tran loc="ar">تقليل النقطة البيضاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CANT_DOWNLOAD_VOICE</Position>
+      <TranslationSet>
+        <base loc="en">Connect to a Wi-Fi network in order to download the Enhanced Quality voice.</base>
+        <tran loc="ar">قم بالاتصال بشبكة Wi-Fi بهدف تنزيل الصوت ذي الجودة المحسّنة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AXVoiceOverSpeakDetectedTextDescription</Position>
+      <TranslationSet>
+        <base loc="en">Determines whether automatically detected text in the focused item is spoken.</base>
+        <tran loc="ar">تحديد ما إذا كان سيتم نطق النص المحدد تلقائيًا في عنصر التركيز أم لا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AXCaptionStyleTextHighlightTitle</Position>
+      <TranslationSet>
+        <base loc="en">Text Highlight</base>
+        <tran loc="ar">تمييز النص</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Placeholder when not enough info about a voice is available.</Description>
+      <Position>PREMIUM_INFO_NOT_AVAILABLE</Position>
+      <TranslationSet>
+        <base loc="en">Retrieving info…</base>
+        <tran loc="ar">جاري استرداد المعلومات…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AXBrailleAlertDisplayDurationTitle</Position>
+      <TranslationSet>
+        <base loc="en">Alert Display Duration</base>
+        <tran loc="ar">مدة عرض التنبيه</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AXVoiceOverPracticeIsRunningTitle</Position>
+      <TranslationSet>
+        <base loc="en">VoiceOver Practice Active</base>
+        <tran loc="ar">ممارسة VoiceOver نشطة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AXColorFilterBlueAdjustIntensityInstructions</Position>
+      <TranslationSet>
+        <base loc="en">Slide to adjust blue/yellow intensity</base>
+        <tran loc="ar">قم بالتمرير لضبط شدة اللون الأزرق/الأصفر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AXCaptionStyleFontOverrideDescription</Position>
+      <TranslationSet>
+        <base loc="en">Use the font specified in the video.</base>
+        <tran loc="ar">استخدام الخط المحدد في الفيديو.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AXBoldTextRestartCancel</Position>
+      <TranslationSet>
+        <base loc="en">Cancel</base>
+        <tran loc="ar">إلغاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AXGenericPromptCancel</Position>
+      <TranslationSet>
+        <base loc="en">Cancel</base>
+        <tran loc="ar">إلغاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Cancel</Position>
+      <TranslationSet>
+        <base loc="en">Cancel</base>
+        <tran loc="ar">إلغاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AXAudioBalanceValueCenter</Position>
+      <TranslationSet>
+        <base loc="en">Center</base>
+        <tran loc="ar">الوسط</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AXColorViolet</Position>
+      <TranslationSet>
+        <base loc="en">Violet</base>
+        <tran loc="ar">بنفسجي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AXCaptionColorGreen</Position>
+      <TranslationSet>
+        <base loc="en">Green</base>
+        <tran loc="ar">أخضر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AXColorGreen</Position>
+      <TranslationSet>
+        <base loc="en">Green</base>
+        <tran loc="ar">أخضر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AXCaptionMappedFontMonospaceSansSerifTitle</Position>
+      <TranslationSet>
+        <base loc="en">Monospaced Sans Serif</base>
+        <tran loc="ar">Monospaced Sans Serif</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AXSpeechPronunciationPlayButtonTitle</Position>
+      <TranslationSet>
+        <base loc="en">Play</base>
+        <tran loc="ar">تشغيل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AXAccessibilityMenuTitle</Position>
+      <TranslationSet>
+        <base loc="en">Accessibility Shortcut</base>
+        <tran loc="ar">اختصار تسهيلات الاستخدام</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AXCaptionColorBlack</Position>
+      <TranslationSet>
+        <base loc="en">Black</base>
+        <tran loc="ar">أسود</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AXCaptionStyleDescriptionEditingInstructions</Position>
+      <TranslationSet>
+        <base loc="en">Edit the name for this style.</base>
+        <tran loc="ar">قم بتحرير اسم هذا النمط.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AXColorHueTitle</Position>
+      <TranslationSet>
+        <base loc="en">Hue</base>
+        <tran loc="ar">تدرج اللون</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DELAY_AFTER_INPUT_ADJUST_INSTRUCTIONS</Position>
+      <TranslationSet>
+        <base loc="en">Slide to adjust Pause on First Item duration</base>
+        <tran loc="ar">قم بالتمرير لضبط مدة الإيقاف المؤقت على أول عنصر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AXBoldTextRestartContinue</Position>
+      <TranslationSet>
+        <base loc="en">Continue</base>
+        <tran loc="ar">متابعة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Continue</Position>
+      <TranslationSet>
+        <base loc="en">Continue</base>
+        <tran loc="ar">متابعة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Switch name - Switch action </Description>
+      <Position>AXSwitchTitleFormat</Position>
+      <TranslationSet>
+        <base loc="en">%@ - %@</base>
+        <tran loc="ar">‏%@ - ‏%@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>REQUIRE_HOLD_ADJUST_INSTRUCTIONS</Position>
+      <TranslationSet>
+        <base loc="en">Slide to adjust Hold Duration</base>
+        <tran loc="ar">قم بالتمرير لضبط مدة الإمساك</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AXUseSoundEffects</Position>
+      <TranslationSet>
+        <base loc="en">Use Sound Effects</base>
+        <tran loc="ar">استخدام مؤثرات صوتية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AXCaptionTextEdgeStyleDepressed</Position>
+      <TranslationSet>
+        <base loc="en">Depressed</base>
+        <tran loc="ar">منخفض</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SettingsNO</Position>
+      <TranslationSet>
+        <base loc="en">No</base>
+        <tran loc="ar">لا</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AXAudioBalanceItemTitle</Position>
+      <TranslationSet>
+        <base loc="en">Balance</base>
+        <tran loc="ar">الموازنة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AXSpeechPronunciationAddReplacementPromptTitle</Position>
+      <TranslationSet>
+        <base loc="en">Add Replacement</base>
+        <tran loc="ar">إضافة بديل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AVAudioLanguageTitle</Position>
+      <TranslationSet>
+        <base loc="en">Audio Language</base>
+        <tran loc="ar">لغة الصوت</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AXCaptionTextSizeExtraSmall</Position>
+      <TranslationSet>
+        <base loc="en">Extra Small</base>
+        <tran loc="ar">صغير جدًا</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AXColorFilterGreenAdjustTitle</Position>
+      <TranslationSet>
+        <base loc="en">Green/Red Filter</base>
+        <tran loc="ar">فلتر الأخضر/الأحمر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AXBrailleTranslationDeleteTableTitle</Position>
+      <TranslationSet>
+        <base loc="en">Are you sure you want to delete “%@”?</base>
+        <tran loc="ar">هل ترغب بالتأكيد في حذف "%@"؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> substitution is caption style name</Description>
+      <Position>AXDeleteCustomCaptionStyleTitle</Position>
+      <TranslationSet>
+        <base loc="en">Are you sure you want to delete “%@”?</base>
+        <tran loc="ar">هل ترغب بالتأكيد في حذف "%@"؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AXVoiceOverPracticeTitle</Position>
+      <TranslationSet>
+        <base loc="en">VoiceOver Help</base>
+        <tran loc="ar">مساعدة VoiceOver</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AXCaptionTextSizeMedium</Position>
+      <TranslationSet>
+        <base loc="en">Medium</base>
+        <tran loc="ar">متوسط</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AXCaptionMappedFontSmallCapitalTitle</Position>
+      <TranslationSet>
+        <base loc="en">Small Caps</base>
+        <tran loc="ar">أحرف استهلالية صغيرة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AXColorFilterRedAdjustTitle</Position>
+      <TranslationSet>
+        <base loc="en">Red/Green Filter</base>
+        <tran loc="ar">فلتر الأحمر/الأخضر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AXBrailleTranslationAddNewLanguage</Position>
+      <TranslationSet>
+        <base loc="en">Add Braille Table…</base>
+        <tran loc="ar">إضافة جدول برايل…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AXCaptionTextEdgeStyleNone</Position>
+      <TranslationSet>
+        <base loc="en">None</base>
+        <tran loc="ar">لا شيء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AXCaptionVideoOverrideSectionTitle</Position>
+      <TranslationSet>
+        <base loc="en">Video Override</base>
+        <tran loc="ar">تجاوز الفيديو</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AXAutomaticBrailleTranslation</Position>
+      <TranslationSet>
+        <base loc="en">Automatic Translation</base>
+        <tran loc="ar">ترجمة تلقائية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>GeneralAppearanceSectionTitle</Position>
+      <TranslationSet>
+        <base loc="en">Appearance</base>
+        <tran loc="ar">المظهر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AXZoomTitle</Position>
+      <TranslationSet>
+        <base loc="en">Zoom</base>
+        <tran loc="ar">التكبير/التصغير</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AXBoldTextTitle</Position>
+      <TranslationSet>
+        <base loc="en">Bold Text</base>
+        <tran loc="ar">نص عريض</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AXZoomDescription</Position>
+      <TranslationSet>
+        <base loc="en">• Press the Touch surface three times to zoom in and out.\n• Double tap and slide with two fingers to adjust zoom level.\n• Tap with two fingers to enable the zoom drag mode.\n• Drag to move around the screen.\n• When zoomed, tap near the edges to move selection.</base>
+        <tran loc="ar">• اضغط على سطح Touch ثلاث مرات للتكبير أو التصغير.\n• اضغط مرتين وقم بالتمرير بإصبعين لضبط مستوى التكبير/التصغير.\n• اضغط بإصبعين لتمكين وضع السحب للتكبير/التصغير.\n• اسحب للتنقل عبر الشاشة.\n• عند التكبير، اضغط بالقرب من الحواف لتحريك التحديد.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AXReduceMotionAutoplayVideoPreviewsDescription</Position>
+      <TranslationSet>
+        <base loc="en">Allows video content to auto-play in apps like TV.</base>
+        <tran loc="ar">السماح بالتشغيل التلقائي لمحتوى الفيديوهات في تطبيقات مثل تطبيق Apple TV.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AXFocusStyleTitle</Position>
+      <TranslationSet>
+        <base loc="en">Focus Style</base>
+        <tran loc="ar">نمط التركيز</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AXCaptionFontCourier</Position>
+      <TranslationSet>
+        <base loc="en">Courier</base>
+        <tran loc="ar">Courier</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AXCaptionCreateNewStyleTitle</Position>
+      <TranslationSet>
+        <base loc="en">New Style</base>
+        <tran loc="ar">نمط جديد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AXCaptionColorYellow</Position>
+      <TranslationSet>
+        <base loc="en">Yellow</base>
+        <tran loc="ar">أصفر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AXColorYellow</Position>
+      <TranslationSet>
+        <base loc="en">Yellow</base>
+        <tran loc="ar">أصفر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AXSpeechPronunciationAddPhrasePromptTitle</Position>
+      <TranslationSet>
+        <base loc="en">Add Phrase</base>
+        <tran loc="ar">إضافة عبارة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AXAudioSectionTitle</Position>
+      <TranslationSet>
+        <base loc="en">Audio</base>
+        <tran loc="ar">الصوت</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AXReduceTransparencyTitle</Position>
+      <TranslationSet>
+        <base loc="en">Reduce Transparency</base>
+        <tran loc="ar">تقليل الشفافية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AXMonoAudioItemTitle</Position>
+      <TranslationSet>
+        <base loc="en">Mono Audio</base>
+        <tran loc="ar">صوت أحادي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AXGeneralSectionTitle</Position>
+      <TranslationSet>
+        <base loc="en">General</base>
+        <tran loc="ar">عام</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AXCaptionFontHelvetica</Position>
+      <TranslationSet>
+        <base loc="en">Helvetica</base>
+        <tran loc="ar">Helvetica</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>VOICE_PLAY_INSTRUCTIONS</Position>
+      <TranslationSet>
+        <base loc="en">Press the Play button to hear the voice.</base>
+        <tran loc="ar">اضغط على زر التشغيل لسماع الصوت.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AXSpeechPronunciationReplacementDescription</Position>
+      <TranslationSet>
+        <base loc="en">Type out how the phrase should be pronounced.</base>
+        <tran loc="ar">كتابة كيف يجب نطق هذه العبارة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AXVoiceOverTitle</Position>
+      <TranslationSet>
+        <base loc="en">VoiceOver</base>
+        <tran loc="ar">VoiceOver</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DEFAULT_LANGUAGE</Position>
+      <TranslationSet>
+        <base loc="en">Default Quality</base>
+        <tran loc="ar">جودة افتراضية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AXCaptionBackgroundOpacity0</Position>
+      <TranslationSet>
+        <base loc="en">0%</base>
+        <tran loc="ar">‏٠٪‏</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AXCaptionTextHighlightOpacity0</Position>
+      <TranslationSet>
+        <base loc="en">0%</base>
+        <tran loc="ar">‏٠٪‏</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AXVoiceOverDoubleClickTimeout</Position>
+      <TranslationSet>
+        <base loc="en">Double-click Timeout</base>
+        <tran loc="ar">مهلة النقر مرتين</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AXReduceMotionTitle</Position>
+      <TranslationSet>
+        <base loc="en">Reduce Motion</base>
+        <tran loc="ar">تقليل الحركة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AXLightSensitivityDescription</Position>
+      <TranslationSet>
+        <base loc="en">Light sensitivity adjustments provide support for users who prefer a dimmer display.</base>
+        <tran loc="ar">توفر تعديلات حساسية الضوء الدعم للمستخدمين الذين يفضلون شاشة أكثر تعتيمًا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AXCaptionStyleTextHighlightOverrideDescription</Position>
+      <TranslationSet>
+        <base loc="en">Use the text-highlight style specified in the video.</base>
+        <tran loc="ar">استخدام نمط تمييز النص المحدد في الفيديو.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AXColorFilterRedOnBlackTitle</Position>
+      <TranslationSet>
+        <base loc="en">Red On Black</base>
+        <tran loc="ar">أحمر على أسود</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AXCaptionBackgroundOpacity25</Position>
+      <TranslationSet>
+        <base loc="en">25%</base>
+        <tran loc="ar">‏٢٥٪‏</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AXCaptionTextHighlightOpacity25</Position>
+      <TranslationSet>
+        <base loc="en">25%</base>
+        <tran loc="ar">‏٢٥٪‏</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Requires 400MB download.</Description>
+      <Position>DOWNLOADED_VOICE_REQUIRES</Position>
+      <TranslationSet>
+        <base loc="en">Requires %@ download</base>
+        <tran loc="ar">يتطلب تنزيل %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Deleted 'Tom'</Description>
+      <Position>DELETED_VOICE</Position>
+      <TranslationSet>
+        <base loc="en">Deleted %@</base>
+        <tran loc="ar">تم حذف %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AXSubtitlesAndCaptiontingTitle</Position>
+      <TranslationSet>
+        <base loc="en">Subtitles and Captioning</base>
+        <tran loc="ar">الترجمة والشرح المكتوب</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AXColorFiltersTitle</Position>
+      <TranslationSet>
+        <base loc="en">Color Filters</base>
+        <tran loc="ar">فلاتر الألوان</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DOWNLOADED_VOICE_NEEDS_INTERNET_WLAN</Position>
+      <TranslationSet>
+        <base loc="en">Requires WLAN connection to download</base>
+        <tran loc="ar">يلزم توفر اتصال WLAN للتنزيل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AXBrailleStatusCellRight</Position>
+      <TranslationSet>
+        <base loc="en">Right</base>
+        <tran loc="ar">يمين</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AXSpeechPronunciationLanguageTitle</Position>
+      <TranslationSet>
+        <base loc="en">Language</base>
+        <tran loc="ar">اللغة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AXCaptionFontAvenir</Position>
+      <TranslationSet>
+        <base loc="en">Avenir</base>
+        <tran loc="ar">Avenir</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AXReduceWhitePointAdjustIntensityInstructions</Position>
+      <TranslationSet>
+        <base loc="en">Slide to adjust white point intensity</base>
+        <tran loc="ar">قم بالتمرير لضبط شدة لون النقطة البيضاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AXSpeechRateTitle</Position>
+      <TranslationSet>
+        <base loc="en">Speech Rate</base>
+        <tran loc="ar">معدل التكلم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AXBoldTextRestartMessage</Position>
+      <TranslationSet>
+        <base loc="en">Your Apple TV will restart now to apply these settings.</base>
+        <tran loc="ar">ستتم إعادة تشغيل الـ Apple TV الآن لتطبيق هذه الإعدادات.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CANT_DOWNLOAD_VOICE_WLAN</Position>
+      <TranslationSet>
+        <base loc="en">Connect to a WLAN network in order to download the Enhanced Quality voice.</base>
+        <tran loc="ar">قم بالاتصال بشبكة WLAN بهدف تنزيل الصوت ذي الجودة المحسّنة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SCAN_TIMEOUT_ADJUST_INSTRUCTIONS</Position>
+      <TranslationSet>
+        <base loc="en">Slide to adjust Auto Hide timeout</base>
+        <tran loc="ar">قم بالتمرير لضبط مهلة الإخفاء التلقائي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DOWNLOADED_VOICE_REQUIRES_NOT_ENOUGH</Position>
+      <TranslationSet>
+        <base loc="en">Insufficient disk space for %@ download.</base>
+        <tran loc="ar">مساحة القرص غير كافية لتنزيل %@.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> The name of the output device is in the parens here</Description>
+      <Position>AXSpeechChannels</Position>
+      <TranslationSet>
+        <base loc="en">Speech Channels (%@)</base>
+        <tran loc="ar">قنوات الكلام (%@)</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AXInteractionSectionTitle</Position>
+      <TranslationSet>
+        <base loc="en">Motor</base>
+        <tran loc="ar">العصبية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AXCaptionFontMenlo</Position>
+      <TranslationSet>
+        <base loc="en">Menlo</base>
+        <tran loc="ar">Menlo</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DWELL_TIME_ADJUST_INSTRUCTIONS</Position>
+      <TranslationSet>
+        <base loc="en">Slide to adjust Dwell duration</base>
+        <tran loc="ar">قم بالتمرير لضبط مدة المكوث</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AXCaptionTextSizeExtraLarge</Position>
+      <TranslationSet>
+        <base loc="en">Extra Large</base>
+        <tran loc="ar">كبير جدًا</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AXBrailleEightDot</Position>
+      <TranslationSet>
+        <base loc="en">Uncontracted Eight-dot</base>
+        <tran loc="ar">ثماني النقاط غير مختصر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AXBrailleTranslationTitle</Position>
+      <TranslationSet>
+        <base loc="en">Braille Tables</base>
+        <tran loc="ar">جداول برايل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AXAudioBalanceSliderInstructions</Position>
+      <TranslationSet>
+        <base loc="en">Slide to adjust audio balance</base>
+        <tran loc="ar">قم بالتمرير لضبط توازن الصوت</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AXAudioChannels</Position>
+      <TranslationSet>
+        <base loc="en">Audio Channels</base>
+        <tran loc="ar">قنوات الصوت</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AXCaptionStyleDescriptionTitle</Position>
+      <TranslationSet>
+        <base loc="en">Description</base>
+        <tran loc="ar">الوصف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AXSwitchTitleFormatWithRemoteDevice</Position>
+      <TranslationSet>
+        <base loc="en">%@ (%@)</base>
+        <tran loc="ar">‏%@ ‏(%@)</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AXCaptionBackgroundOpacity75</Position>
+      <TranslationSet>
+        <base loc="en">75%</base>
+        <tran loc="ar">‏٧٥٪‏</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AXCaptionTextHighlightOpacity75</Position>
+      <TranslationSet>
+        <base loc="en">75%</base>
+        <tran loc="ar">‏٧٥٪‏</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SettingsYES</Position>
+      <TranslationSet>
+        <base loc="en">Yes</base>
+        <tran loc="ar">نعم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AccessibilityTitle</Position>
+      <TranslationSet>
+        <base loc="en">Accessibility</base>
+        <tran loc="ar">تسهيلات الاستخدام</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SettingsON</Position>
+      <TranslationSet>
+        <base loc="en">On</base>
+        <tran loc="ar">تشغيل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AXInvertColorsTitle</Position>
+      <TranslationSet>
+        <base loc="en">Invert Colors</base>
+        <tran loc="ar">عكس الألوان</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AXCaptionStyleTextSectionTitle</Position>
+      <TranslationSet>
+        <base loc="en">Text</base>
+        <tran loc="ar">النص</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AXColorFilterColorTintTitle</Position>
+      <TranslationSet>
+        <base loc="en">Color Tint</base>
+        <tran loc="ar">الدرجة اللونية الخفيفة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AXColorFilterRedAdjustIntensityInstructions</Position>
+      <TranslationSet>
+        <base loc="en">Slide to adjust red/green intensity</base>
+        <tran loc="ar">قم بالتمرير لضبط شدة اللون الأحمر/الأخضر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AXCaptionColorCyan</Position>
+      <TranslationSet>
+        <base loc="en">Cyan</base>
+        <tran loc="ar">سماوي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AXCaptionsAndSDHTitle</Position>
+      <TranslationSet>
+        <base loc="en">Closed Captions and SDH</base>
+        <tran loc="ar">الشرح المكتوب لأحداث العرض وSDH</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AXColorIndigo</Position>
+      <TranslationSet>
+        <base loc="en">Indigo</base>
+        <tran loc="ar">نيلي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AXMotionTitle</Position>
+      <TranslationSet>
+        <base loc="en">Motion</base>
+        <tran loc="ar">الحركة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AXCaptionColorMagenta</Position>
+      <TranslationSet>
+        <base loc="en">Magenta</base>
+        <tran loc="ar">ماجنتي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ENHANCED_VOICE_WITH_NAME</Position>
+      <TranslationSet>
+        <base loc="en">%@ (Enhanced)</base>
+        <tran loc="ar">%@ (محسّن)</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AXCaptionTextSizeLarge</Position>
+      <TranslationSet>
+        <base loc="en">Large</base>
+        <tran loc="ar">كبير</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AXColorFilterBlueAdjustTitle</Position>
+      <TranslationSet>
+        <base loc="en">Blue/Yellow Filter</base>
+        <tran loc="ar">فلتر الأزرق/الأصفر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AXColorFiltersDescription</Position>
+      <TranslationSet>
+        <base loc="en">Color filters can be used to differentiate colors by users who are color blind and aid users who have difficulty reading text on the display.</base>
+        <tran loc="ar">يمكن استخدام فلاتر الألوان للتمييز بين الألوان بواسطة المستخدمين الذين يعانون من عمى الألوان، وكذلك لمساعدة المستخدمين الذين لديهم صعوبات في قراءة النص على الشاشة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DOWNLOADED_VOICE_USING</Position>
+      <TranslationSet>
+        <base loc="en">Using %@</base>
+        <tran loc="ar">باستخدام %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DOWNLOADED_VOICE_NEEDS_INTERNET_WIFI</Position>
+      <TranslationSet>
+        <base loc="en">Requires Wi-Fi connection to download</base>
+        <tran loc="ar">يلزم توفر اتصال Wi-Fi للتنزيل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AXCaptionStyleSizeOverrideDescription</Position>
+      <TranslationSet>
+        <base loc="en">Use the size specified in the video.</base>
+        <tran loc="ar">استخدام الحجم المحدد في الفيديو.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AXVoiceOverRotorTitle</Position>
+      <TranslationSet>
+        <base loc="en">Rotor</base>
+        <tran loc="ar">الدوَّار</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AXAudioChannelDescription</Position>
+      <TranslationSet>
+        <base loc="en">Choose the audio channels for VoiceOver speech.</base>
+        <tran loc="ar">اختيار قنوات الصوت لصوت التكلم في VoiceOver.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AXCaptionStyleBackgroundOpacityTitle</Position>
+      <TranslationSet>
+        <base loc="en">Opacity</base>
+        <tran loc="ar">معدل التعتيم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AXCaptionTextHighlightOpacitySectionTitle</Position>
+      <TranslationSet>
+        <base loc="en">Opacity</base>
+        <tran loc="ar">التعتيم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 55% Right</Description>
+      <Position>AXAudioBalanceValueRight</Position>
+      <TranslationSet>
+        <base loc="en">%@ Right</base>
+        <tran loc="ar">اليمين: %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AXBrailleChooseDisplayTitle</Position>
+      <TranslationSet>
+        <base loc="en">Braille Display</base>
+        <tran loc="ar">شاشة عرض برايل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AXUsePitchTitle</Position>
+      <TranslationSet>
+        <base loc="en">Use Pitch</base>
+        <tran loc="ar">استخدام حدة الصوت</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AXCaptionTextEdgeStyleRaise</Position>
+      <TranslationSet>
+        <base loc="en">Raised</base>
+        <tran loc="ar">مرتفع</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> e.g. "HDMI 1 (Left)"</Description>
+      <Position>AXVoiceOverAudioChannelNameAndDescription</Position>
+      <TranslationSet>
+        <base loc="en">%1$@ (%2$@)</base>
+        <tran loc="ar">‏%1$@ (‏%2$@)</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AXCaptionFontCopperplate</Position>
+      <TranslationSet>
+        <base loc="en">Copperplate</base>
+        <tran loc="ar">‏GeezaPro</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AXSpeechPronunciationAddPhrasePromptMessage</Position>
+      <TranslationSet>
+        <base loc="en">Add the phrase you would like to replace</base>
+        <tran loc="ar">قم بإضافة العبارة التي ترغب في استبدالها</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AXColorFilterColorTintIntensityAdjustInstructions</Position>
+      <TranslationSet>
+        <base loc="en">Slide to adjust color tint intensity</base>
+        <tran loc="ar">قم بالتمرير لضبط شدة الدرجة الخفيفة من اللون</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AXZoomMaxLevelSliderInstructions</Position>
+      <TranslationSet>
+        <base loc="en">Slide to adjust maximum Zoom level</base>
+        <tran loc="ar">قم بالتمرير لضبط الحد الأقصى لمستوى التكبير/التصغير</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AVAudioLanguageDefault</Position>
+      <TranslationSet>
+        <base loc="en">Default</base>
+        <tran loc="ar">افتراضي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AXFocusStyleDefault</Position>
+      <TranslationSet>
+        <base loc="en">Default</base>
+        <tran loc="ar">افتراضي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DEFAULT</Position>
+      <TranslationSet>
+        <base loc="en">Default</base>
+        <tran loc="ar">افتراضي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AXAudioDescriptionsTitle</Position>
+      <TranslationSet>
+        <base loc="en">Audio Descriptions</base>
+        <tran loc="ar">الأوصاف الصوتية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AXSpeechSectionTitle</Position>
+      <TranslationSet>
+        <base loc="en">Speech</base>
+        <tran loc="ar">التكلم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AVDolbyDigitalTitle</Position>
+      <TranslationSet>
+        <base loc="en">Dolby Digital</base>
+        <tran loc="ar">Dolby Digital</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AXSpeechPronunciationApplyToAllAppsTitle</Position>
+      <TranslationSet>
+        <base loc="en">Apply to all apps</base>
+        <tran loc="ar">تطبيق على كل التطبيقات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 25% Left</Description>
+      <Position>AXAudioBalanceValueLeft</Position>
+      <TranslationSet>
+        <base loc="en">%@ Left</base>
+        <tran loc="ar">اليسار: %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AXColorFilterGrayscaleTitle</Position>
+      <TranslationSet>
+        <base loc="en">Grayscale</base>
+        <tran loc="ar">تدرج الرمادي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AXReduceMotionAutoplayVideoPreviewsTitle</Position>
+      <TranslationSet>
+        <base loc="en">Auto-Play Video Previews</base>
+        <tran loc="ar">تشغيل معاينة الفيديو تلقائيًا</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AXBrailleTranslationDefaultLanguageTitle</Position>
+      <TranslationSet>
+        <base loc="en">Default Braille Table</base>
+        <tran loc="ar">جدول برايل الافتراضي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AXCaptionTextEdgeStyleUniform</Position>
+      <TranslationSet>
+        <base loc="en">Uniform</base>
+        <tran loc="ar">منتظم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>subtitle.preview.label.spoken</Position>
+      <TranslationSet>
+        <base loc="en">Subtitle Preview</base>
+        <tran loc="ar">معاينة العنوان الفرعي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AXCaptionMappedFontsSectionTitle</Position>
+      <TranslationSet>
+        <base loc="en">Advanced</base>
+        <tran loc="ar">متقدم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AXCaptionStyleAdvancedSectionTitle</Position>
+      <TranslationSet>
+        <base loc="en">Advanced</base>
+        <tran loc="ar">متقدم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AXSpeechRateAdjustInstructions</Position>
+      <TranslationSet>
+        <base loc="en">Swipe to adjust speech rate</base>
+        <tran loc="ar">قم بالتمرير لضبط معدل التكلم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AXBrailleDisplayOutputTitle</Position>
+      <TranslationSet>
+        <base loc="en">Output</base>
+        <tran loc="ar">الإخراج</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>NOT_ENOUGH_SPACE</Position>
+      <TranslationSet>
+        <base loc="en">Insufficient Disk Space</base>
+        <tran loc="ar">مساحة القرص غير كافية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AXReduceWhitePointDescription</Position>
+      <TranslationSet>
+        <base loc="en">Reduce the intensity of bright colors.</base>
+        <tran loc="ar">خفض شدة الألوان الساطعة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Pronunciation Strings</Description>
+      <Position>AXSpeechPronunciationsTitle</Position>
+      <TranslationSet>
+        <base loc="en">Pronunciations</base>
+        <tran loc="ar">طرق النطق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PREMIUM_DOWNLOAD_ANOTHER_ASSET_IS_DOWNLOADING</Position>
+      <TranslationSet>
+        <base loc="en">Another download is in progress…</base>
+        <tran loc="ar">هناك عملية تنزيل أخرى قيد التقدم…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AXSpeechPronunciationIgnoreCaseTitle</Position>
+      <TranslationSet>
+        <base loc="en">Ignore case</base>
+        <tran loc="ar">تجاهل الحالة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AXCaptionStyleSizeTitle</Position>
+      <TranslationSet>
+        <base loc="en">Size</base>
+        <tran loc="ar">الحجم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AVSubtitleModeOff</Position>
+      <TranslationSet>
+        <base loc="en">Off</base>
+        <tran loc="ar">إيقاف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AXBrailleStatusCellOff</Position>
+      <TranslationSet>
+        <base loc="en">Off</base>
+        <tran loc="ar">إيقاف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SettingsOFF</Position>
+      <TranslationSet>
+        <base loc="en">Off</base>
+        <tran loc="ar">إيقاف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AXCaptionStyleBackgroundOpacityOverrideDescription</Position>
+      <TranslationSet>
+        <base loc="en">Use the opacity specified in the video.</base>
+        <tran loc="ar">استخدام الشفافية المحددة في الفيديو.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AXCaptionColorBlue</Position>
+      <TranslationSet>
+        <base loc="en">Blue</base>
+        <tran loc="ar">أزرق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AXColorBlue</Position>
+      <TranslationSet>
+        <base loc="en">Blue</base>
+        <tran loc="ar">أزرق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Add a replacement for "Apple Wifi"</Description>
+      <Position>AXSpeechPronunciationAddReplacementPromptMessage</Position>
+      <TranslationSet>
+        <base loc="en">Add a replacement for \"%@\"</base>
+        <tran loc="ar">إضافة بديل لـ "%@"</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AXCaptionFontTrebuchet</Position>
+      <TranslationSet>
+        <base loc="en">Trebuchet</base>
+        <tran loc="ar">Trebuchet</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>ATVAccessibility/System/Library/AccessibilityBundles/HeadBoardUI.axbundle/en.lproj/Accessibility.stringsdict</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>/app.badge.numeric.value.generic:dict/items:dict/few:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%d new items</base>
+        <tran loc="ar">‏%d عناصر جديدة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/app.badge.numeric.value.generic:dict/items:dict/many:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%d new items</base>
+        <tran loc="ar">‏%d عنصرًا جديدًا</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/app.badge.numeric.value.generic:dict/items:dict/other:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%d new items</base>
+        <tran loc="ar">‏%d عنصر جديد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/app.badge.numeric.value.generic:dict/items:dict/two:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%d new items</base>
+        <tran loc="ar">عنصران جديدان</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/app.badge.numeric.value.generic:dict/items:dict/zero:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%d new items</base>
+        <tran loc="ar">‏%d عنصر جديد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/app.badge.numeric.value.update:dict/updates:dict/few:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%d new updates</base>
+        <tran loc="ar">‏%d تحديثات جديدة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/app.badge.numeric.value.update:dict/updates:dict/many:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%d new updates</base>
+        <tran loc="ar">‏%d تحديثًا جديدًا</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/app.badge.numeric.value.update:dict/updates:dict/other:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%d new updates</base>
+        <tran loc="ar">‏%d تحديث جديد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/app.badge.numeric.value.update:dict/updates:dict/two:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%d new updates</base>
+        <tran loc="ar">تحديثان جديدان</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/app.badge.numeric.value.update:dict/updates:dict/zero:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%d new updates</base>
+        <tran loc="ar">‏%d تحديث جديد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/folder.items:dict/items:dict/few:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%d items</base>
+        <tran loc="ar">‏%d عناصر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/folder.items:dict/items:dict/many:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%d items</base>
+        <tran loc="ar">‏%d عنصرًا</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/folder.items:dict/items:dict/other:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%d items</base>
+        <tran loc="ar">‏%d عنصر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/folder.items:dict/items:dict/two:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%d items</base>
+        <tran loc="ar">عنصران</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/folder.items:dict/items:dict/zero:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%d items</base>
+        <tran loc="ar">‏%d عنصر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/app.badge.numeric.value.update:dict/updates:dict/one:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%d new update</base>
+        <tran loc="ar">تحديث واحد جديد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/app.badge.numeric.value.app:dict/NSStringLocalizedFormatKey:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%#@apps@</base>
+        <tran loc="ar">%#@apps@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/folder.items:dict/items:dict/one:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%d item</base>
+        <tran loc="ar">عنصر واحد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/app.badge.numeric.value.movie:dict/NSStringLocalizedFormatKey:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%#@movies@</base>
+        <tran loc="ar">%#@movies@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/app.badge.numeric.value.app:dict/apps:dict/few:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%d new app updates</base>
+        <tran loc="ar">‏%d تحديثات جديدة للتطبيقات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/app.badge.numeric.value.app:dict/apps:dict/many:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%d new app updates</base>
+        <tran loc="ar">‏%d تحديثًا جديدًا للتطبيقات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/app.badge.numeric.value.app:dict/apps:dict/other:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%d new app updates</base>
+        <tran loc="ar">‏%d تحديث جديد للتطبيقات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/app.badge.numeric.value.app:dict/apps:dict/two:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%d new app updates</base>
+        <tran loc="ar">تحديثان جديدان للتطبيقات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/app.badge.numeric.value.app:dict/apps:dict/zero:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%d new app updates</base>
+        <tran loc="ar">‏%d تحديث جديد للتطبيقات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/app.badge.numeric.value.movie:dict/movies:dict/one:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%d new movie</base>
+        <tran loc="ar">فيلم واحد جديد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/app.badge.numeric.value.episode:dict/episodes:dict/one:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%d new episode</base>
+        <tran loc="ar">حلقة واحدة جديدة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/app.badge.numeric.value.episode:dict/episodes:dict/few:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%d new episodes</base>
+        <tran loc="ar">‏%d حلقات جديدة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/app.badge.numeric.value.episode:dict/episodes:dict/many:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%d new episodes</base>
+        <tran loc="ar">‏%d حلقة جديدة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/app.badge.numeric.value.episode:dict/episodes:dict/other:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%d new episodes</base>
+        <tran loc="ar">‏%d حلقة جديدة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/app.badge.numeric.value.episode:dict/episodes:dict/two:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%d new episodes</base>
+        <tran loc="ar">حلقتان جديدتان</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/app.badge.numeric.value.episode:dict/episodes:dict/zero:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%d new episodes</base>
+        <tran loc="ar">‏%d حلقة جديدة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/app.badge.numeric.value.movie:dict/movies:dict/few:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%d new movies</base>
+        <tran loc="ar">‏%d أفلام جديدة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/app.badge.numeric.value.movie:dict/movies:dict/many:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%d new movies</base>
+        <tran loc="ar">‏%d فيلمًا جديدًا</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/app.badge.numeric.value.movie:dict/movies:dict/other:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%d new movies</base>
+        <tran loc="ar">‏%d فيلم جديد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/app.badge.numeric.value.movie:dict/movies:dict/two:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%d new movies</base>
+        <tran loc="ar">فيلمان جديدان</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/app.badge.numeric.value.movie:dict/movies:dict/zero:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%d new movies</base>
+        <tran loc="ar">‏%d فيلم جديد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/app.badge.numeric.value.update:dict/NSStringLocalizedFormatKey:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%#@updates@</base>
+        <tran loc="ar">%#@updates@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/app.badge.numeric.value.episode:dict/NSStringLocalizedFormatKey:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%#@episodes@</base>
+        <tran loc="ar">%#@episodes@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/app.badge.numeric.value.generic:dict/NSStringLocalizedFormatKey:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%#@items@</base>
+        <tran loc="ar">%#@items@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/folder.items:dict/NSStringLocalizedFormatKey:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%#@items@</base>
+        <tran loc="ar">%#@items@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/app.badge.numeric.value.generic:dict/items:dict/one:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%d new item</base>
+        <tran loc="ar">عنصر واحد جديد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/app.badge.numeric.value.app:dict/apps:dict/one:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%d new app update</base>
+        <tran loc="ar">تحديث واحد جديد للتطبيقات</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>ATVAccessibility/System/Library/AccessibilityBundles/Sleep Module.axbundle/en.lproj/Accessibility.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>now.playing.module.title</Position>
+      <TranslationSet>
+        <base loc="en">Now Playing</base>
+        <tran loc="ar">قيد التشغيل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>sleep.module.title</Position>
+      <TranslationSet>
+        <base loc="en">Sleep</base>
+        <tran loc="ar">النوم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>airplay.routing.module.title</Position>
+      <TranslationSet>
+        <base loc="en">Playback Destination</base>
+        <tran loc="ar">وجهة التشغيل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>search.module.title</Position>
+      <TranslationSet>
+        <base loc="en">Search</base>
+        <tran loc="ar">بحث</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>ATVAccessibility/System/Library/AccessibilityBundles/ATVLegacyContentKit.axbundle/en.lproj/Accessibility.stringsdict</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>/star.rating.tvkit:dict/NSStringLocalizedFormatKey:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%#@stars@</base>
+        <tran loc="ar">%#@stars@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/star.rating.tvkit:dict/stars:dict/few:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%d stars</base>
+        <tran loc="ar">‏%d نجوم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/star.rating.tvkit:dict/stars:dict/many:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%d stars</base>
+        <tran loc="ar">‏%d نجمة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/star.rating.tvkit:dict/stars:dict/other:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%d stars</base>
+        <tran loc="ar">‏%d نجمة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/star.rating.tvkit:dict/stars:dict/two:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%d stars</base>
+        <tran loc="ar">نجمتان</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/star.rating.tvkit:dict/stars:dict/zero:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%d stars</base>
+        <tran loc="ar">‏%d نجمة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/star.rating.tvkit:dict/stars:dict/one:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%d star</base>
+        <tran loc="ar">نجمة واحدة</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>ATVAccessibility/System/Library/AccessibilityBundles/TVContentPartnerKitUI.axbundle/en.lproj/Accessibility.stringsdict</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>/item.badge.numeric.value.generic:dict/items:dict/few:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%d new items</base>
+        <tran loc="ar">‏%d عناصر جديدة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/item.badge.numeric.value.generic:dict/items:dict/many:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%d new items</base>
+        <tran loc="ar">‏%d عنصرًا جديدًا</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/item.badge.numeric.value.generic:dict/items:dict/other:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%d new items</base>
+        <tran loc="ar">‏%d عنصر جديد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/item.badge.numeric.value.generic:dict/items:dict/two:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%d new items</base>
+        <tran loc="ar">عنصران جديدان</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/item.badge.numeric.value.generic:dict/items:dict/zero:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%d new items</base>
+        <tran loc="ar">‏%d عنصر جديد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/item.badge.numeric.value.generic:dict/NSStringLocalizedFormatKey:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%#@items@</base>
+        <tran loc="ar">%#@items@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/item.badge.numeric.value.generic:dict/items:dict/one:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%d new item</base>
+        <tran loc="ar">عنصر واحد جديد</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>ATVAccessibility/System/Library/AccessibilityBundles/Search Module.axbundle/en.lproj/Accessibility.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>now.playing.module.title</Position>
+      <TranslationSet>
+        <base loc="en">Now Playing</base>
+        <tran loc="ar">قيد التشغيل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>sleep.module.title</Position>
+      <TranslationSet>
+        <base loc="en">Sleep</base>
+        <tran loc="ar">النوم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>airplay.routing.module.title</Position>
+      <TranslationSet>
+        <base loc="en">Playback Destination</base>
+        <tran loc="ar">وجهة التشغيل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>search.module.title</Position>
+      <TranslationSet>
+        <base loc="en">Search</base>
+        <tran loc="ar">بحث</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>ATVAccessibility/System/Library/AccessibilityBundles/TVSettingKit.axbundle/en.lproj/Accessibility.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>tv.in.progress</Position>
+      <TranslationSet>
+        <base loc="en">In Progress</base>
+        <tran loc="ar">قيد التقدم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>tv.top.menu.hint</Position>
+      <TranslationSet>
+        <base loc="en">Move down to interact with content</base>
+        <tran loc="ar">تحرك لأسفل للتفاعل مع المحتوى</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> e.g. "640 by 480, at 60 hertz"</Description>
+      <Position>tv.resolution.pixels</Position>
+      <TranslationSet>
+        <base loc="en">%1$@ by %2$@, at %3$@ hertz</base>
+        <tran loc="ar">‏%1$@ في %2$@، بمعدل %3$@ هرتز</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> e.g. "one of five"</Description>
+      <Position>tv.segment.control.info</Position>
+      <TranslationSet>
+        <base loc="en">%@ of %@</base>
+        <tran loc="ar">‏%@ من %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> These strings are to help VoiceOver do a better job of speaking the cells that
+ let you choose your resolution
+ e.g. "720 P, at 60 hertz"</Description>
+      <Position>tv.resolution.scan.no.hd</Position>
+      <TranslationSet>
+        <base loc="en">%1$@ P, at %2$@ hertz</base>
+        <tran loc="ar">‏%1$@بكسل، بمعدل %2$@ هرتز</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> e.g. "720 P, HD, at 60 hertz"</Description>
+      <Position>tv.resolution.scan.hd</Position>
+      <TranslationSet>
+        <base loc="en">%1$@ P, HD, at %2$@ hertz</base>
+        <tran loc="ar">‏‪%1$@ P‬، ‏HD، بمعدل %2$@ هرتز</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>tv.top.menu.label</Position>
+      <TranslationSet>
+        <base loc="en">Menu</base>
+        <tran loc="ar">القائمة</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>ATVAccessibility/System/Library/AccessibilityBundles/TVKit.axbundle/en.lproj/Accessibility.stringsdict</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>/star.rating.tvkit:dict/NSStringLocalizedFormatKey:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%#@stars@</base>
+        <tran loc="ar">%#@stars@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/star.rating.tvkit:dict/stars:dict/few:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%d stars</base>
+        <tran loc="ar">‏%d نجوم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/star.rating.tvkit:dict/stars:dict/many:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%d stars</base>
+        <tran loc="ar">‏%d نجمة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/star.rating.tvkit:dict/stars:dict/other:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%d stars</base>
+        <tran loc="ar">‏%d نجمة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/star.rating.tvkit:dict/stars:dict/two:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%d stars</base>
+        <tran loc="ar">نجمتان</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/star.rating.tvkit:dict/stars:dict/zero:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%d stars</base>
+        <tran loc="ar">‏%d نجمة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/star.rating.tvkit:dict/stars:dict/one:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%d star</base>
+        <tran loc="ar">نجمة واحدة</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>ATVAccessibility/System/Library/AccessibilityBundles/HeadBoardUI.axbundle/en.lproj/Accessibility.strings</Filepath>
+    <TextItem>
+      <Description> Will be used by VoiceOver for announcements 
+ We say 'items' and not 'apps' like on iOS because it looks
+ from the code like folders within folders is a possibility
+ Sports folder</Description>
+      <Position>folder.label</Position>
+      <TranslationSet>
+        <base loc="en">%@ folder</base>
+        <tran loc="ar">مجلد %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>no.top.shelf.content.available</Position>
+      <TranslationSet>
+        <base loc="en">No top-shelf content</base>
+        <tran loc="ar">لا يوجد محتوى صف علوي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>row.column.description</Position>
+      <TranslationSet>
+        <base loc="en">Row %1$@, Column %2$@</base>
+        <tran loc="ar">‏الصف %1$@، العمود %2$@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description>e.g. Opening Sports Folder</Description>
+      <Position>opening.folder.announcement</Position>
+      <TranslationSet>
+        <base loc="en">Opening %@ Folder</base>
+        <tran loc="ar">فتح مجلد %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description>e.g. Before TV Shows</Description>
+      <Position>after.cell.announcement</Position>
+      <TranslationSet>
+        <base loc="en">After %@</base>
+        <tran loc="ar">بعد %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>apps.guide.element</Position>
+      <TranslationSet>
+        <base loc="en">Apps</base>
+        <tran loc="ar">التطبيقات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>app.in.beta.value</Position>
+      <TranslationSet>
+        <base loc="en">Beta</base>
+        <tran loc="ar">تجريبي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>app.recently.updated.value</Position>
+      <TranslationSet>
+        <base loc="en">Recently Updated</base>
+        <tran loc="ar">المحدثة مؤخرًا</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>percentage.played</Position>
+      <TranslationSet>
+        <base loc="en">%@ played</base>
+        <tran loc="ar">تم تشغيل %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description>e.g. Closing Sports Folder</Description>
+      <Position>closing.folder.announcement</Position>
+      <TranslationSet>
+        <base loc="en">Closing %@ Folder</base>
+        <tran loc="ar">إغلاق مجلد %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>row.column.description.abbreviated</Position>
+      <TranslationSet>
+        <base loc="en">r%1$@c%2$@</base>
+        <tran loc="ar">ص%1$@ع%2$@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>begin.moving.cell.announcement</Position>
+      <TranslationSet>
+        <base loc="en">Started Moving</base>
+        <tran loc="ar">بدأ النقل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> This is the top conent area that appears when you focus on an app in the top row. I think 'top shelf' is our
+ internal name for this area. Let's describe it as "Featured" to a VO user</Description>
+      <Position>top.shelf.guide.element</Position>
+      <TranslationSet>
+        <base loc="en">Featured</base>
+        <tran loc="ar">مميز</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description>e.g. Before TV Shows</Description>
+      <Position>before.cell.announcement</Position>
+      <TranslationSet>
+        <base loc="en">Before %@</base>
+        <tran loc="ar">قبل %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>app.options.hint</Position>
+      <TranslationSet>
+        <base loc="en">Press play for options</base>
+        <tran loc="ar">اضغط على تشغيل للخيارات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>end.moving.cell.announcement</Position>
+      <TranslationSet>
+        <base loc="en">Finished Moving</base>
+        <tran loc="ar">انتهى النقل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>top.shelf.content.available</Position>
+      <TranslationSet>
+        <base loc="en">Top-shelf content available</base>
+        <tran loc="ar">محتوى الصف العلوي متوفر</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>ATVAccessibility/System/Library/AccessibilityBundles/TVKit.axbundle/en.lproj/Accessibility.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>tv.wifi.strength.strong</Position>
+      <TranslationSet>
+        <base loc="en">Strong Signal</base>
+        <tran loc="ar">إشارة قوية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>tv.freshness.rotten</Position>
+      <TranslationSet>
+        <base loc="en">Rotten</base>
+        <tran loc="ar">تقييم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>tv.freshness.certified.fresh</Position>
+      <TranslationSet>
+        <base loc="en">Certified Fresh</base>
+        <tran loc="ar">‏Certified Fresh</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>tv.wifi.secure</Position>
+      <TranslationSet>
+        <base loc="en">Secure</base>
+        <tran loc="ar">آمن</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>tv.in.progress</Position>
+      <TranslationSet>
+        <base loc="en">In Progress</base>
+        <tran loc="ar">قيد التقدم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>tv.wifi.strength.very.weak</Position>
+      <TranslationSet>
+        <base loc="en">Very Weak Signal</base>
+        <tran loc="ar">إشارة ضعيفة جدًا</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>tv.wifi.strength.weak</Position>
+      <TranslationSet>
+        <base loc="en">Weak Signal</base>
+        <tran loc="ar">إشارة ضعيفة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>tv.wifi.strength.very.strong</Position>
+      <TranslationSet>
+        <base loc="en">Very Strong Signal</base>
+        <tran loc="ar">إشارة قوية جدًا</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>star.rating.hint</Position>
+      <TranslationSet>
+        <base loc="en">Swipe left or right to rate</base>
+        <tran loc="ar">قم بالتحريك لليسار أو اليمين للتقييم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>tv.top.menu.hint</Position>
+      <TranslationSet>
+        <base loc="en">Move down to interact with content</base>
+        <tran loc="ar">تحرك لأسفل للتفاعل مع المحتوى</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>chapters.header.label</Position>
+      <TranslationSet>
+        <base loc="en">Chapters</base>
+        <tran loc="ar">الفصول</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>label.no.value</Position>
+      <TranslationSet>
+        <base loc="en">No Value</base>
+        <tran loc="ar">لا توجد قيمة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>tv.tomato.rating</Position>
+      <TranslationSet>
+        <base loc="en">Tomato Rating</base>
+        <tran loc="ar">‏Rotten Tomato</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> e.g. "one of five"</Description>
+      <Position>tv.segment.control.info</Position>
+      <TranslationSet>
+        <base loc="en">%@ of %@</base>
+        <tran loc="ar">‏%@ من %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>tv.expanding.text.view.generic.label</Position>
+      <TranslationSet>
+        <base loc="en">Description</base>
+        <tran loc="ar">الوصف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>explicit</Position>
+      <TranslationSet>
+        <base loc="en">Explicit</base>
+        <tran loc="ar">فاضح</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>tv.wifi.strength.moderate</Position>
+      <TranslationSet>
+        <base loc="en">Moderate Signal</base>
+        <tran loc="ar">إشارة معتدلة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>tv.freshness.fresh</Position>
+      <TranslationSet>
+        <base loc="en">Fresh</base>
+        <tran loc="ar">Fresh</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>tv.top.menu.label</Position>
+      <TranslationSet>
+        <base loc="en">Menu</base>
+        <tran loc="ar">القائمة</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>ATVAccessibility/System/Library/AccessibilityBundles/Setup.axbundle/en.lproj/Accessibility.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>choice.header.button.hint</Position>
+      <TranslationSet>
+        <base loc="en">Swipe right to hear options</base>
+        <tran loc="ar">قم بالتحريك لليسار لسماع الخيارات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>privacy.icon</Position>
+      <TranslationSet>
+        <base loc="en">Personal Data Use</base>
+        <tran loc="ar">استخدام البيانات الشخصية</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>ATVAccessibility/System/Library/AccessibilityBundles/TVIdleScreen.axbundle/en.lproj/Accessibility.strings</Filepath>
+    <TextItem>
+      <Description> Will be used by VoiceOver for announcements 
+ e.g. Screen Saver, San Francisco</Description>
+      <Position>screen.saver.announcement</Position>
+      <TranslationSet>
+        <base loc="en">Screen Saver, %@</base>
+        <tran loc="ar">شاشة التوقف، %@</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>ATVAccessibility/System/Library/AccessibilityBundles/TVServices.axbundle/en.lproj/Accessibility.strings</Filepath>
+    <TextItem>
+      <Description> e.g. Rewinding, 8 x</Description>
+      <Position>tv.player.rewinding</Position>
+      <TranslationSet>
+        <base loc="en">Rewinding, %@ x</base>
+        <tran loc="ar">ترجيع، %@ ‏x</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>tv.player.paused</Position>
+      <TranslationSet>
+        <base loc="en">Paused</base>
+        <tran loc="ar">تم الإيقاف مؤقتًا</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>tv.player.stopped</Position>
+      <TranslationSet>
+        <base loc="en">Stopped</base>
+        <tran loc="ar">تم الإيقاف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>tv.player.playing</Position>
+      <TranslationSet>
+        <base loc="en">Playing</base>
+        <tran loc="ar">تشغيل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>tv.player.fastforwarding</Position>
+      <TranslationSet>
+        <base loc="en">Fast Forwarding, %@ x</base>
+        <tran loc="ar">تقديم سريع، %@ ‏x</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+</Proj>

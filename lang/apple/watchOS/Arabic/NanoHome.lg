@@ -1,0 +1,574 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Proj>
+  <ProjName>NanoHome</ProjName>
+  <File>
+    <Filepath>NanoHome/private/var/staged_system_apps/NanoHome.app/en.lproj/InfoPlist.strings</Filepath>
+    <TextItem>
+      <Description> 
+  InfoPlist.strings
+  NanoHome
+
+  Created by James Yopp on 3/15/16.
+  Copyright © 2016 Apple Inc. All rights reserved.
+</Description>
+      <Position>CFBundleDisplayName</Position>
+      <TranslationSet>
+        <base loc="en">Home</base>
+        <tran loc="ar">المنزل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CFBundleName</Position>
+      <TranslationSet>
+        <base loc="en">Home</base>
+        <tran loc="ar">المنزل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>NSLocationWhenInUseUsageDescription</Position>
+      <TranslationSet>
+        <base loc="en">Home uses your location to let you set up accessory automations like turning off the lights when you leave your house.</base>
+        <tran loc="ar">يستخدم "المنزل" موقعك للسماح لك بإعداد عمليات التحكم التلقائي في الملحقات، مثل إيقاف تشغيل الأضواء عند مغادرة منزلك.</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>NanoHome/System/Library/Carousel/BulletinContents/NanoHomeBulletinContent.bundle/en.lproj/Localizable.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>LIGHTS_ON%@</Position>
+      <TranslationSet>
+        <base loc="en">%@ On</base>
+        <tran loc="ar">‏%@: قيد التشغيل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ALARM_DISARM%@</Position>
+      <TranslationSet>
+        <base loc="en">Disarm %@</base>
+        <tran loc="ar">إلغاء تجهيز %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DO_YOU_WANT_TO_RUN_AUTOMATION_NOW_RUN</Position>
+      <TranslationSet>
+        <base loc="en">Run</base>
+        <tran loc="ar">تشغيل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DOOR_CLOSE%@</Position>
+      <TranslationSet>
+        <base loc="en">Close %@</base>
+        <tran loc="ar">إغلاق %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DO_YOU_WANT_TO_RUN_AUTOMATION_NOW_BODY</Position>
+      <TranslationSet>
+        <base loc="en">Do you want to run “%@“ now?</base>
+        <tran loc="ar">هل ترغب في تشغيل "%@" الآن؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DO_YOU_WANT_TO_RUN_AUTOMATION_NOW_DO_NOT_RUN</Position>
+      <TranslationSet>
+        <base loc="en">Don't Run</base>
+        <tran loc="ar">عدم التشغيل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>VIEW_CAMERA_CLIP_TEXT</Position>
+      <TranslationSet>
+        <base loc="en">To view this camera clip, open the Home app on your iPhone.</base>
+        <tran loc="ar">لعرض مقطع الكاميرا هذا، افتح تطبيق المنزل على الـ iPhone.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>LOCK_UNLOCK%@</Position>
+      <TranslationSet>
+        <base loc="en">Unlock %@</base>
+        <tran loc="ar">فتح قفل %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DOOR_OPEN%@</Position>
+      <TranslationSet>
+        <base loc="en">Open %@</base>
+        <tran loc="ar">فتح %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CAMERA_LIVE</Position>
+      <TranslationSet>
+        <base loc="en">LIVE</base>
+        <tran loc="ar">مباشر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ACTION_UNKNOWN%@</Position>
+      <TranslationSet>
+        <base loc="en">%@</base>
+        <tran loc="ar">%@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 
+  Localizable.strings
+  NanoHome
+
+  Created by James Yopp on 4/29/16.
+  Copyright © 2016 Apple Inc. All rights reserved.
+</Description>
+      <Position>LOCK_LOCK%@</Position>
+      <TranslationSet>
+        <base loc="en">Lock %@</base>
+        <tran loc="ar">قفل %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>LIGHTS_OFF%@</Position>
+      <TranslationSet>
+        <base loc="en">%@ Off</base>
+        <tran loc="ar">‏%@: قيد الإيقاف</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>NanoHome/private/var/staged_system_apps/NanoHome.app/en.lproj/Localizable.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>TITLE_SCENES</Position>
+      <TranslationSet>
+        <base loc="en">Scenes</base>
+        <tran loc="ar">المشاهد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>TITLE_CHANGE_HOME</Position>
+      <TranslationSet>
+        <base loc="en">Homes</base>
+        <tran loc="ar">المنازل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>TITLE_STATUS</Position>
+      <TranslationSet>
+        <base loc="en">Status</base>
+        <tran loc="ar">الحالة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CAMERA_TIMESTAMP_CURRENT</Position>
+      <TranslationSet>
+        <base loc="en">Just now</base>
+        <tran loc="ar">الآن</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CONTROL_VALUE_UNAVAILABLE</Position>
+      <TranslationSet>
+        <base loc="en">–</base>
+        <tran loc="ar">–</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>QUICKCONTROLS_DONE</Position>
+      <TranslationSet>
+        <base loc="en">Done</base>
+        <tran loc="ar">تم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CAMERA_TIMESTAMP_UNAVAILABLE</Position>
+      <TranslationSet>
+        <base loc="en">Some time ago</base>
+        <tran loc="ar">منذ فترة وجيزة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>NO_ACCESSORIES_MESSAGE</Position>
+      <TranslationSet>
+        <base loc="en">Add accessories using the Home app on your iPhone.</base>
+        <tran loc="ar">قم بإضافة ملحقات باستخدام تطبيق "المنزل" على الـ iPhone الخاص بك.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>NO_ACCESSORIES_HEADING</Position>
+      <TranslationSet>
+        <base loc="en">No Accessories</base>
+        <tran loc="ar">لا توجد ملحقات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>TITLE_CAMERAS</Position>
+      <TranslationSet>
+        <base loc="en">Cameras</base>
+        <tran loc="ar">الكاميرات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CAMERA_ERROR</Position>
+      <TranslationSet>
+        <base loc="en">Unavailable</base>
+        <tran loc="ar">غير متوفرة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>TITLE_NO_HOME</Position>
+      <TranslationSet>
+        <base loc="en">Home</base>
+        <tran loc="ar">المنزل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>TITLE_ACCESSORIES</Position>
+      <TranslationSet>
+        <base loc="en">Accessories</base>
+        <tran loc="ar">الملحقات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ACTION_CHANGE_HOME</Position>
+      <TranslationSet>
+        <base loc="en">Change Home</base>
+        <tran loc="ar">تغيير المنزل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CAMERA_LIVE</Position>
+      <TranslationSet>
+        <base loc="en">LIVE</base>
+        <tran loc="ar">مباشر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>NO_HOME_MESSAGE</Position>
+      <TranslationSet>
+        <base loc="en">Set up HomeKit Accessories using the Home app on your iPhone.</base>
+        <tran loc="ar">قم بإعداد ملحقات HomeKit باستخدام تطبيق "المنزل" على الـ iPhone الخاص بك.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> locale-specific parameters 
+ Most languages should have this set to "1". This is expected to be set to "0" only for locales, such as all English variants, where you don't want hyphenation in the scene cell. 
+ For example, in English we don't want "Morning" in "Good Morning" to be hyphenated </Description>
+      <Position>USE_HYPHENATION_FOR_SCENE_CELL</Position>
+      <TranslationSet>
+        <base loc="en">0</base>
+        <tran loc="ar">0</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>TITLE_URGENT</Position>
+      <TranslationSet>
+        <base loc="en">Urgent</base>
+        <tran loc="ar">عاجل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CAMERA_CONNECTING</Position>
+      <TranslationSet>
+        <base loc="en">Connecting…</base>
+        <tran loc="ar">جاري الاتصال…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 
+  Localizable.strings
+  NanoHome
+
+  Created by Josh Weinberg on 8/4/16.
+  Copyright © 2016 Apple. All rights reserved.
+</Description>
+      <Position>TITLE_CONNECTING</Position>
+      <TranslationSet>
+        <base loc="en">Connecting…</base>
+        <tran loc="ar">جاري الاتصال…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>NO_HOME_HEADING</Position>
+      <TranslationSet>
+        <base loc="en">No Home Found</base>
+        <tran loc="ar">لم يتم العثور على منزل</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>NanoHome/private/var/staged_system_apps/NanoHome.app/en.lproj/Localizable.stringsdict</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>/CAMERA_TIMESTAMP_HOURS_AGO:dict/hours:dict/one:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%d hour ago</base>
+        <tran loc="ar">منذ ساعة واحدة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/CAMERA_TIMESTAMP_DAYS_AGO:dict/days:dict/one:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%d day ago</base>
+        <tran loc="ar">منذ يوم واحد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/CAMERA_TIMESTAMP_HOURS_AGO:dict/hours:dict/few:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%d hours ago</base>
+        <tran loc="ar">منذ %d ساعات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/CAMERA_TIMESTAMP_HOURS_AGO:dict/hours:dict/many:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%d hours ago</base>
+        <tran loc="ar">منذ %d ساعة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/CAMERA_TIMESTAMP_HOURS_AGO:dict/hours:dict/other:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%d hours ago</base>
+        <tran loc="ar">منذ %d ساعة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/CAMERA_TIMESTAMP_HOURS_AGO:dict/hours:dict/two:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%d hours ago</base>
+        <tran loc="ar">منذ ساعتين</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/CAMERA_TIMESTAMP_HOURS_AGO:dict/hours:dict/zero:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%d hours ago</base>
+        <tran loc="ar">منذ %d ساعة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/CAMERA_TIMESTAMP_MINUTES_AGO:dict/minutes:dict/few:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%d mins ago</base>
+        <tran loc="ar">منذ %d دقائق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/CAMERA_TIMESTAMP_MINUTES_AGO:dict/minutes:dict/many:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%d mins ago</base>
+        <tran loc="ar">منذ %d دقيقة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/CAMERA_TIMESTAMP_MINUTES_AGO:dict/minutes:dict/other:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%d mins ago</base>
+        <tran loc="ar">منذ %d دقيقة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/CAMERA_TIMESTAMP_MINUTES_AGO:dict/minutes:dict/two:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%d mins ago</base>
+        <tran loc="ar">منذ دقيقتين</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/CAMERA_TIMESTAMP_MINUTES_AGO:dict/minutes:dict/zero:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%d mins ago</base>
+        <tran loc="ar">منذ %d دقيقة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/CAMERA_TIMESTAMP_HOURS_AGO:dict/NSStringLocalizedFormatKey:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%#@hours@</base>
+        <tran loc="ar">%#@hours@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/CAMERA_TIMESTAMP_MINUTES_AGO:dict/minutes:dict/one:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%d min ago</base>
+        <tran loc="ar">منذ دقيقة واحدة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/CAMERA_TIMESTAMP_DAYS_AGO:dict/NSStringLocalizedFormatKey:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%#@days@</base>
+        <tran loc="ar">%#@days@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/CAMERA_TIMESTAMP_MINUTES_AGO:dict/NSStringLocalizedFormatKey:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%#@minutes@</base>
+        <tran loc="ar">%#@minutes@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/CAMERA_TIMESTAMP_DAYS_AGO:dict/days:dict/few:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%d days ago</base>
+        <tran loc="ar">منذ %d أيام</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/CAMERA_TIMESTAMP_DAYS_AGO:dict/days:dict/many:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%d days ago</base>
+        <tran loc="ar">منذ %d يومًا</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/CAMERA_TIMESTAMP_DAYS_AGO:dict/days:dict/other:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%d days ago</base>
+        <tran loc="ar">منذ %d يوم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/CAMERA_TIMESTAMP_DAYS_AGO:dict/days:dict/two:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%d days ago</base>
+        <tran loc="ar">منذ يومين</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/CAMERA_TIMESTAMP_DAYS_AGO:dict/days:dict/zero:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%d days ago</base>
+        <tran loc="ar">منذ %d يوم</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>NanoHome/System/Library/Carousel/Alerts/NanoHomeCarouselAlert.bundle/en.lproj/Localizable.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>LOCATION_AUTOMATION_FAILURE_ALERT_ACTION_OPEN_HOME</Position>
+      <TranslationSet>
+        <base loc="en">Open Home</base>
+        <tran loc="ar">فتح المنزل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>LOCATION_AUTOMATION_FAILURE_ALERT_ACTION_DISMISS</Position>
+      <TranslationSet>
+        <base loc="en">Dismiss</base>
+        <tran loc="ar">استبعاد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>LOCATION_AUTOMATION_FAILURE_ALERT_EXECUTION_ERROR_BODY</Position>
+      <TranslationSet>
+        <base loc="en">“%@“ did not run.</base>
+        <tran loc="ar">لم يتم تشغيل "%@".</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 
+  Localizable.strings
+  NanoHome
+
+  Created by Andreas Schobel on 7/29/16.
+  Copyright © 2016 Apple Inc. All rights reserved.
+</Description>
+      <Position>LOCATION_AUTOMATION_FAILURE_ALERT_TITLE_COULD_NOT_RUN_AUTOMATION</Position>
+      <TranslationSet>
+        <base loc="en">Could Not Run Automation</base>
+        <tran loc="ar">تعذر تشغيل التحكم التلقائي</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>NanoHome/System/Library/AppPlaceholders/NanoHome.app/en.lproj/InfoPlist.strings</Filepath>
+    <TextItem>
+      <Description> 
+  InfoPlist.strings
+  NanoHome
+
+  Created by James Yopp on 3/15/16.
+  Copyright © 2016 Apple Inc. All rights reserved.
+</Description>
+      <Position>CFBundleDisplayName</Position>
+      <TranslationSet>
+        <base loc="en">Home</base>
+        <tran loc="ar">المنزل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CFBundleName</Position>
+      <TranslationSet>
+        <base loc="en">Home</base>
+        <tran loc="ar">المنزل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>NSLocationWhenInUseUsageDescription</Position>
+      <TranslationSet>
+        <base loc="en">Home uses your location to let you set up accessory automations like turning off the lights when you leave your house.</base>
+        <tran loc="ar">يستخدم "المنزل" موقعك للسماح لك بإعداد عمليات التحكم التلقائي في الملحقات، مثل إيقاف تشغيل الأضواء عند مغادرة منزلك.</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+</Proj>

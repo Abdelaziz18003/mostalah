@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Proj>
+  <ProjName>ClockKitUI</ProjName>
+  <File>
+    <Filepath>ClockKitUI/System/Library/PrivateFrameworks/ClockKitUI.framework/en.lproj/ClockKitUI.strings</Filepath>
+    <TextItem>
+      <Description> 
+  ClockKitUI.strings
+  NanoTimeKit
+
+  Created by August Joki on 8/27/15.
+  Copyright © 2015 Apple Inc. All rights reserved.
+
+ Wheels of Time
+ Alarm wheels of time style </Description>
+      <Position>WOT_24HR_TEXT</Position>
+      <TranslationSet>
+        <base loc="en">24 HR</base>
+        <tran loc="ar">٢٤ ساعة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>WOT_MINUTE_LABEL</Position>
+      <TranslationSet>
+        <base loc="en">MIN</base>
+        <tran loc="ar">دقيقة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>WOT_CANCEL_BUTTON</Position>
+      <TranslationSet>
+        <base loc="en">Cancel</base>
+        <tran loc="ar">إلغاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>WOT_START_BUTTON</Position>
+      <TranslationSet>
+        <base loc="en">Start</base>
+        <tran loc="ar">بدء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>WOT_COLON_LABEL</Position>
+      <TranslationSet>
+        <base loc="en">:</base>
+        <tran loc="ar">:</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Shared strings </Description>
+      <Position>WOT_SET_BUTTON</Position>
+      <TranslationSet>
+        <base loc="en">Set</base>
+        <tran loc="ar">تعيين</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Timer wheels of time style </Description>
+      <Position>WOT_HOUR_LABEL</Position>
+      <TranslationSet>
+        <base loc="en">HR</base>
+        <tran loc="ar">ساعة</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+</Proj>

@@ -1,0 +1,4044 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Proj>
+  <ProjName>Spotlight</ProjName>
+  <File>
+    <Filepath>Spotlight/System/Library/Frameworks/CoreSpotlight.framework/en.lproj/schema.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemNumberOfPages.Description</Position>
+      <TranslationSet>
+        <base loc="en">Number of pages in the document</base>
+        <tran loc="ar">عدد الصفحات في المستند</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemContributors.ShortName</Position>
+      <TranslationSet>
+        <base loc="en">by,contributor,author,with</base>
+        <tran loc="ar">بواسطة،مساهم،مؤلف،مع</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemVersion.Description</Position>
+      <TranslationSet>
+        <base loc="en">Version number of this item</base>
+        <tran loc="ar">رقم إصدار هذا العنصر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemStarRating.ShortName</Position>
+      <TranslationSet>
+        <base loc="en">starrating</base>
+        <tran loc="ar">تصنيف_نجمي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemFNumber.Description</Position>
+      <TranslationSet>
+        <base loc="en">Focal length of the lens divided by the diameter of the aperture</base>
+        <tran loc="ar">البُعد البؤري للعدسة مقسومًا على قطر فتحة العدسة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemExposureTimeSeconds.ShortName</Position>
+      <TranslationSet>
+        <base loc="en">exposuretime,time</base>
+        <tran loc="ar">وقت_التعرض_للضوء،وقت</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemExposureTimeString.ShortName</Position>
+      <TranslationSet>
+        <base loc="en">exposuretime,time</base>
+        <tran loc="ar">وقت_التعرض_للضوء،وقت</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemMusicalInstrumentName.ShortName</Position>
+      <TranslationSet>
+        <base loc="en">instrument,instrumentname</base>
+        <tran loc="ar">الآلة_الموسيقية،اسم_الآلة_الموسيقية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemRatingDescription.ShortName</Position>
+      <TranslationSet>
+        <base loc="en">ratingdesc</base>
+        <tran loc="ar">ratingdesc</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemStateOrProvince.ShortName</Position>
+      <TranslationSet>
+        <base loc="en">state,province</base>
+        <tran loc="ar">ولاية،مقاطعة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemCopyright.Description</Position>
+      <TranslationSet>
+        <base loc="en">Copyright information about this item</base>
+        <tran loc="ar">معلومات حقوق النشر لهذا العنصر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemAlbum</Position>
+      <TranslationSet>
+        <base loc="en">Album</base>
+        <tran loc="ar">الألبوم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemEmailAddresses</Position>
+      <TranslationSet>
+        <base loc="en">Email addresses</base>
+        <tran loc="ar">عناوين البريد الإلكتروني</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemDisplayName</Position>
+      <TranslationSet>
+        <base loc="en">Display name</base>
+        <tran loc="ar">اسم العرض</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemColorSpace.Description</Position>
+      <TranslationSet>
+        <base loc="en">Color space model of this image</base>
+        <tran loc="ar">نموذج مساحة اللون لهذه الصورة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Attribute short names
+ 
+*
+ 
+* In the form of Attribute.ShortName
+ 
+* "." is not a valid character in an Attribute name.
+ 
+* These strings should all be short and 1 word with no spaces in them.
+ 
+*
+ 
+* If there is more than one, they must be separated by an ASCII comma, U+002C.
+ 
+* Any may be entered by the user as a prefix to match all attributes that list that prefix.
+ 
+* For example, from:Peter matches all attributes that list "from" as a short name.
+ 
+*
+ 
+* The first short name listed may be displayed to the user as a short name of that attribute.
+ 
+* However, this can be overridden by defining an Attribute.ShortDisplayName (see below).
+ 
+* Overriding is recommended in cases where short names require spaces for readability.
+ 
+*
+ </Description>
+      <Position>kMDItemKeywords.ShortName</Position>
+      <TranslationSet>
+        <base loc="en">keyword</base>
+        <tran loc="ar">كلمة مفتاحية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemLyricist.Description</Position>
+      <TranslationSet>
+        <base loc="en">Lyricist of the song in the audio file</base>
+        <tran loc="ar">مؤلف كلمات الأغنية الموجودة في ملف الصوت</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemRedEyeOnOff.ShortName</Position>
+      <TranslationSet>
+        <base loc="en">redeye</base>
+        <tran loc="ar">عين_حمراء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemRecipientAddresses.Description</Position>
+      <TranslationSet>
+        <base loc="en">Addresses for recipients of this item</base>
+        <tran loc="ar">عناوين مستلمي هذا العنصر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemContentCreationDate.ShortName</Position>
+      <TranslationSet>
+        <base loc="en">contentcreated,created,date</base>
+        <tran loc="ar">تاريخ،إنشاء،إنشاء_المحتوى</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemStateOrProvince</Position>
+      <TranslationSet>
+        <base loc="en">State or Province</base>
+        <tran loc="ar">الولاية أو المقاطعة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemArtist.Description</Position>
+      <TranslationSet>
+        <base loc="en">Artist for media</base>
+        <tran loc="ar">فنان الوسائط</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemVendorName.ShortName</Position>
+      <TranslationSet>
+        <base loc="en">vendorname</base>
+        <tran loc="ar">vendorname</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemResolutionHeightDPI</Position>
+      <TranslationSet>
+        <base loc="en">Resolution height</base>
+        <tran loc="ar">ارتفاع الدقة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemMusicalGenre</Position>
+      <TranslationSet>
+        <base loc="en">Musical genre</base>
+        <tran loc="ar">النوع الموسيقي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemKeySignature.ShortName</Position>
+      <TranslationSet>
+        <base loc="en">key,keysignature</base>
+        <tran loc="ar">مفتاح،المفتاح،مفاتيح،المفاتيح</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemURL.Description</Position>
+      <TranslationSet>
+        <base loc="en">URL of this item</base>
+        <tran loc="ar">عنوان URL لهذا العنصر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemStarRating</Position>
+      <TranslationSet>
+        <base loc="en">Rating</base>
+        <tran loc="ar">التقييم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemPhysicalSize</Position>
+      <TranslationSet>
+        <base loc="en">Physical size</base>
+        <tran loc="ar">الحجم الفعلي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemAuthorAddresses</Position>
+      <TranslationSet>
+        <base loc="en">Author addresses</base>
+        <tran loc="ar">عناوين المؤلف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>mailbox.trash</Position>
+      <TranslationSet>
+        <base loc="en">Mailbox Trash</base>
+        <tran loc="ar">صندوق بريد سلة المهملات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemMusicalInstrumentCategory.ShortName</Position>
+      <TranslationSet>
+        <base loc="en">instrument,instrumentcategory</base>
+        <tran loc="ar">الآلة_الموسيقية،فئة_الآلة_الموسيقية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemLastUsedDate.Description</Position>
+      <TranslationSet>
+        <base loc="en">Date when this item was last used</base>
+        <tran loc="ar">تاريخ آخر استخدام لهذا العنصر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemTotalBitRate.Description</Position>
+      <TranslationSet>
+        <base loc="en">Combined bit rate of the audio and video in the media</base>
+        <tran loc="ar">ضم معدل البت للصوت والفيديو في الوسائط</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>mailbox.sent.Description</Position>
+      <TranslationSet>
+        <base loc="en">Sent mailbox identifier</base>
+        <tran loc="ar">معرّف صندوق بريد "المرسلة"</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemFocalLength.Description</Position>
+      <TranslationSet>
+        <base loc="en">Focal length of the lens in millimeters (mm)</base>
+        <tran loc="ar">البعد البؤري للعدسة بالميليمتر (مم)</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemRecipientEmailAddresses</Position>
+      <TranslationSet>
+        <base loc="en">Recipient Email addresses</base>
+        <tran loc="ar">عناوين البريد الإلكتروني للمستلمين</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemEncodingApplications</Position>
+      <TranslationSet>
+        <base loc="en">Encoding software</base>
+        <tran loc="ar">برنامج الترميز</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemComposer.Description</Position>
+      <TranslationSet>
+        <base loc="en">Composer of the song in the audio file</base>
+        <tran loc="ar">ملحن الأغنية في ملف الصوت</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemExecutablePlatform.Description</Position>
+      <TranslationSet>
+        <base loc="en">Platform the item requires to execute</base>
+        <tran loc="ar">النظام الأساسي الذي يحتاجه العنصر للتنفيذ</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemExposureProgram.ShortName</Position>
+      <TranslationSet>
+        <base loc="en">exposure,exposureprogram</base>
+        <tran loc="ar">برنامج التعرض للضوء،التعرض للضوء،تعرض للضوء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemPurchaseDate.Description</Position>
+      <TranslationSet>
+        <base loc="en">Date this item was purchased</base>
+        <tran loc="ar">تاريخ شراء هذا العنصر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemColorSpace.ShortName</Position>
+      <TranslationSet>
+        <base loc="en">colorspace</base>
+        <tran loc="ar">مساحة_لون</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemEditors.ShortName</Position>
+      <TranslationSet>
+        <base loc="en">editor</base>
+        <tran loc="ar">محرر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemVersion</Position>
+      <TranslationSet>
+        <base loc="en">Version</base>
+        <tran loc="ar">الإصدار</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Major</Position>
+      <TranslationSet>
+        <base loc="en">Major</base>
+        <tran loc="ar">كبير</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemRights</Position>
+      <TranslationSet>
+        <base loc="en">Rights</base>
+        <tran loc="ar">الحقوق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemOrganizations.Description</Position>
+      <TranslationSet>
+        <base loc="en">Organizations that created the document</base>
+        <tran loc="ar">المؤسسات التي أنشأت المستند</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemEmailAddresses.ShortName</Position>
+      <TranslationSet>
+        <base loc="en">email,mail</base>
+        <tran loc="ar">بريد إلكتروني،بريد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Names for FS attributes </Description>
+      <Position>kMDItemPath.ShortName</Position>
+      <TranslationSet>
+        <base loc="en">path</base>
+        <tran loc="ar">المسار</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemPhoneNumbers.ShortName</Position>
+      <TranslationSet>
+        <base loc="en">phone,phonenumber</base>
+        <tran loc="ar">الهاتف،رقم_الهاتف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemProjects</Position>
+      <TranslationSet>
+        <base loc="en">Projects</base>
+        <tran loc="ar">المشاريع</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemFonts.Description</Position>
+      <TranslationSet>
+        <base loc="en">Fonts used in this item</base>
+        <tran loc="ar">الخطوط المستخدمة في هذا العنصر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemAlbum.Description</Position>
+      <TranslationSet>
+        <base loc="en">Title for a collection of media, such as a record album</base>
+        <tran loc="ar">عنوان مجموعة من الوسائط، مثل ألبوم أغاني مسجلة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemPixelHeight.ShortName</Position>
+      <TranslationSet>
+        <base loc="en">pixelheight,height</base>
+        <tran loc="ar">ارتفاع_بالبكسل،ارتفاع</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemOrganizations</Position>
+      <TranslationSet>
+        <base loc="en">Organizations</base>
+        <tran loc="ar">المؤسسات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemMailboxes.Description</Position>
+      <TranslationSet>
+        <base loc="en">Mailbox identifiers for this item</base>
+        <tran loc="ar">معرّفات صناديق البريد لهذا العنصر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemAuthors</Position>
+      <TranslationSet>
+        <base loc="en">Authors</base>
+        <tran loc="ar">المؤلفون</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemOrientation</Position>
+      <TranslationSet>
+        <base loc="en">Orientation</base>
+        <tran loc="ar">الاتجاه</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemRecipients.Description</Position>
+      <TranslationSet>
+        <base loc="en">Recipients of this item</base>
+        <tran loc="ar">مستلمو هذا العنصر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemAudiences.Description</Position>
+      <TranslationSet>
+        <base loc="en">Who the document is intended for</base>
+        <tran loc="ar">الشخص المستهدف من هذا المستند</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemCreator</Position>
+      <TranslationSet>
+        <base loc="en">Content Creator</base>
+        <tran loc="ar">مُنشئ المحتوى</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Synthetic names for search syntax 
+ scope to folders with a given display name </Description>
+      <Position>_kMDItemPathDisplayNames.ShortName</Position>
+      <TranslationSet>
+        <base loc="en">in,scope</base>
+        <tran loc="ar">في،النطاق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemPageWidth.Description</Position>
+      <TranslationSet>
+        <base loc="en">Width of the document page in points</base>
+        <tran loc="ar">عرض صفحة المستند بالنقاط</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemWhereFroms.ShortName</Position>
+      <TranslationSet>
+        <base loc="en">from,source,wherefrom</base>
+        <tran loc="ar">المصدر،مصدر،من</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemPublishers.ShortName</Position>
+      <TranslationSet>
+        <base loc="en">publisher</base>
+        <tran loc="ar">ناشر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemTextContent.Description</Position>
+      <TranslationSet>
+        <base loc="en">Text content of this item</base>
+        <tran loc="ar">المحتوى النصي لهذا العنصر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemDateAdded.ShortName</Position>
+      <TranslationSet>
+        <base loc="en">dateadded,added,date</base>
+        <tran loc="ar">تاريخ_الإضافة،تمت_الإضافة،تاريخ</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemUserTags.ShortName</Position>
+      <TranslationSet>
+        <base loc="en">tag</base>
+        <tran loc="ar">العلامة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemAuthorPersons</Position>
+      <TranslationSet>
+        <base loc="en">Author persons</base>
+        <tran loc="ar">الأشخاص المؤلفون</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemPixelWidth</Position>
+      <TranslationSet>
+        <base loc="en">Pixel width</base>
+        <tran loc="ar">العرض بالبكسل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemIsApplicationManaged</Position>
+      <TranslationSet>
+        <base loc="en">Is Application Managed</base>
+        <tran loc="ar">تطبيق تتم إدارته</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemDocumentContainer</Position>
+      <TranslationSet>
+        <base loc="en">Document Container</base>
+        <tran loc="ar">حاوية المستندات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemHasAlphaChannel.Description</Position>
+      <TranslationSet>
+        <base loc="en">Whether the image has an Alpha channel</base>
+        <tran loc="ar">ما إذا كانت للصورة قناة ألفا أم لا</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemLatitude</Position>
+      <TranslationSet>
+        <base loc="en">Latitude</base>
+        <tran loc="ar">خط العرض</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemAppleLoopsRootKey.Description</Position>
+      <TranslationSet>
+        <base loc="en">Shows the loop’s original key. The key is the root note or tonic for the loop, and does not include the scale type</base>
+        <tran loc="ar">إظهار المقام الأصلي للتكرار الحلقي. المقام هو النغمة الأساسية أو القرار الموسيقي للتكرار الحلقي، ولا يتضمن نوع التدرج</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemTempo</Position>
+      <TranslationSet>
+        <base loc="en">Tempo</base>
+        <tran loc="ar">درجة السرعة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemStartDate.ShortName</Position>
+      <TranslationSet>
+        <base loc="en">startdate,date</base>
+        <tran loc="ar">تاريخ بدء،تاريخ</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemKeySignature.Description</Position>
+      <TranslationSet>
+        <base loc="en">Musical key of the song in the audio file</base>
+        <tran loc="ar">المقام الموسيقى للأغنية الموجودة في ملف الصوت</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemDocumentContainer.Description</Position>
+      <TranslationSet>
+        <base loc="en">Containing folder of item</base>
+        <tran loc="ar">المجلد الذي يحتوي على العنصر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemBitsPerSample.Description</Position>
+      <TranslationSet>
+        <base loc="en">Number of bits per sample</base>
+        <tran loc="ar">عدد وحدات البت لكل عينة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemCreator.ShortName</Position>
+      <TranslationSet>
+        <base loc="en">creator</base>
+        <tran loc="ar">المُنشئ</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemMaxAperture.ShortName</Position>
+      <TranslationSet>
+        <base loc="en">maxaperture</base>
+        <tran loc="ar">أقصى_حد_لفتحة_العدسة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>NeitherKey</Position>
+      <TranslationSet>
+        <base loc="en">NeitherKey</base>
+        <tran loc="ar">NeitherKey</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>mailbox.inbox</Position>
+      <TranslationSet>
+        <base loc="en">Mailbox Inbox</base>
+        <tran loc="ar">صندوق البريد الوارد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemExecutablePlatform</Position>
+      <TranslationSet>
+        <base loc="en">Executable Platform</base>
+        <tran loc="ar">النظام الأساسي التنفيذي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemStartDate</Position>
+      <TranslationSet>
+        <base loc="en">Start date</base>
+        <tran loc="ar">تاريخ البدء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>mailbox.inbox.Description</Position>
+      <TranslationSet>
+        <base loc="en">Inbox mailbox identifier</base>
+        <tran loc="ar">معرّف صندوق البريد الوارد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemProducer.Description</Position>
+      <TranslationSet>
+        <base loc="en">Producer of this item</base>
+        <tran loc="ar">منتِج هذا العنصر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemRecordingYear.Description</Position>
+      <TranslationSet>
+        <base loc="en">Year the item was recorded</base>
+        <tran loc="ar">سنة تسجيل العنصر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemIsApplicationManaged.ShortName</Position>
+      <TranslationSet>
+        <base loc="en">appmanaged</base>
+        <tran loc="ar">appmanaged</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemCopyright.ShortName</Position>
+      <TranslationSet>
+        <base loc="en">copyright</base>
+        <tran loc="ar">حقوق_النشر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemEncodingApplications.ShortName</Position>
+      <TranslationSet>
+        <base loc="en">encoder,encodedby,encodingapplication</base>
+        <tran loc="ar">أداة ترميز،أداة الترميز،أدوات الترميز،أدوات الترميز،تم الترميز بواسطة، تطبيق الترميز</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemMeteringMode</Position>
+      <TranslationSet>
+        <base loc="en">Metering mode</base>
+        <tran loc="ar">وضع القياس</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemMaxAperture</Position>
+      <TranslationSet>
+        <base loc="en">Max aperture</base>
+        <tran loc="ar">الحد الأقصى لفتحة العدسة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemOrientation.ShortName</Position>
+      <TranslationSet>
+        <base loc="en">orientation</base>
+        <tran loc="ar">اتجاه</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemContentRating.ShortName</Position>
+      <TranslationSet>
+        <base loc="en">explicit,clean,rating,contentrating</base>
+        <tran loc="ar">صريح،فاضح،نظيف،تقييم،تقييم المحتوى</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemAltitude.Description</Position>
+      <TranslationSet>
+        <base loc="en">The altitude of the item in meters above sea level, expressed using the WGS84 datum. Negative values lie below sea level.</base>
+        <tran loc="ar">تم التعبير عن ارتفاع العنصر عن مستوى البحر بالأمتار باستخدام بيانات WGS84. القيم السلبية موجودة تحت مستوى سطح البحر.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemAccountHandles</Position>
+      <TranslationSet>
+        <base loc="en">Account handles</base>
+        <tran loc="ar">معالجات الحساب</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemContentModificationDate</Position>
+      <TranslationSet>
+        <base loc="en">Content modified</base>
+        <tran loc="ar">تاريخ تعديل المحتوى</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemPerformers</Position>
+      <TranslationSet>
+        <base loc="en">Performers</base>
+        <tran loc="ar">المؤدون</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemPerformers.Description</Position>
+      <TranslationSet>
+        <base loc="en">Performers</base>
+        <tran loc="ar">المؤدون</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemAcquisitionModel</Position>
+      <TranslationSet>
+        <base loc="en">Device model</base>
+        <tran loc="ar">طراز الجهاز</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemRecipientAddresses.ShortName</Position>
+      <TranslationSet>
+        <base loc="en">to</base>
+        <tran loc="ar">إلى</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemFinderComment.ShortName</Position>
+      <TranslationSet>
+        <base loc="en">comment,spotlightcomment</base>
+        <tran loc="ar">تعليق،تعليق_spotlight</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemEditors</Position>
+      <TranslationSet>
+        <base loc="en">Editors</base>
+        <tran loc="ar">المحررون</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemRights.ShortName</Position>
+      <TranslationSet>
+        <base loc="en">rights</base>
+        <tran loc="ar">حقوق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemBitsPerSample.ShortName</Position>
+      <TranslationSet>
+        <base loc="en">bitspersample,bps</base>
+        <tran loc="ar">وحدات البت لكل عينة،bps، بت في الثانية، بت/ثانية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemPhoneNumbers.Description</Position>
+      <TranslationSet>
+        <base loc="en">Phone numbers associated with this item</base>
+        <tran loc="ar">أرقام الهواتف المقترنة بهذا العنصر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemContentCreationDate.Description</Position>
+      <TranslationSet>
+        <base loc="en">Date when the content of this item was created</base>
+        <tran loc="ar">تاريخ إنشاء محتوى هذا العنصر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemHasAlphaChannel.ShortName</Position>
+      <TranslationSet>
+        <base loc="en">alpha</base>
+        <tran loc="ar">ألفا</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemPageHeight</Position>
+      <TranslationSet>
+        <base loc="en">Page height</base>
+        <tran loc="ar">ارتفاع الصفحة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemAudioTrackNumber</Position>
+      <TranslationSet>
+        <base loc="en">Track number</base>
+        <tran loc="ar">رقم المسار</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemSubject.ShortName</Position>
+      <TranslationSet>
+        <base loc="en">subject,title,name</base>
+        <tran loc="ar">موضوع,عنوان,اسم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemKeySignature</Position>
+      <TranslationSet>
+        <base loc="en">Key signature</base>
+        <tran loc="ar">دليل مقام</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemCity.Description</Position>
+      <TranslationSet>
+        <base loc="en">City of the item</base>
+        <tran loc="ar">مدينة العنصر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Looping</Position>
+      <TranslationSet>
+        <base loc="en">Looping</base>
+        <tran loc="ar">متكرر حلقيًا</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Aperture</Position>
+      <TranslationSet>
+        <base loc="en">Aperture</base>
+        <tran loc="ar">فتحة العدسة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemPlayCount</Position>
+      <TranslationSet>
+        <base loc="en">Play Count</base>
+        <tran loc="ar">عدد مرات التشغيل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemSubThoroughfare</Position>
+      <TranslationSet>
+        <base loc="en">Sub Thoroughfare</base>
+        <tran loc="ar">طريق فرعي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemContactKeywords.Description</Position>
+      <TranslationSet>
+        <base loc="en">Contacts associated with this item</base>
+        <tran loc="ar">جهات الاتصال المقترنة بهذا العنصر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemAudioEncodingApplication</Position>
+      <TranslationSet>
+        <base loc="en">Audio encoding application</base>
+        <tran loc="ar">تطبيق ترميز الصوت</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemCoverage.Description</Position>
+      <TranslationSet>
+        <base loc="en">Extent or scope of the content of the document</base>
+        <tran loc="ar">مدى محتوى المستند أو نطاقه</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemIsLocal</Position>
+      <TranslationSet>
+        <base loc="en">Is Local</base>
+        <tran loc="ar">محلي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemExecutablePlatform.ShortName</Position>
+      <TranslationSet>
+        <base loc="en">platform</base>
+        <tran loc="ar">النظام_الأساسي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemIdentifier</Position>
+      <TranslationSet>
+        <base loc="en">Identifier</base>
+        <tran loc="ar">المعرّف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemEXIFVersion.Description</Position>
+      <TranslationSet>
+        <base loc="en">Version of EXIF used to generate the metadata</base>
+        <tran loc="ar">إصدار EXIF المستخدم في إنشاء بيانات التعريف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemResolutionWidthDPI.ShortName</Position>
+      <TranslationSet>
+        <base loc="en">widthdpi,dpi</base>
+        <tran loc="ar">عرض_بالنقطة_في_البوصة،نقطة_في_بوصة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemRights.Description</Position>
+      <TranslationSet>
+        <base loc="en">Link to information about the rights held on the document</base>
+        <tran loc="ar">رابط يؤدي إلى معلومات حول الحقوق الخاصة بالمستند</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemContributors.Description</Position>
+      <TranslationSet>
+        <base loc="en">People or organizations contributing to the content of the document</base>
+        <tran loc="ar">الأفراد أو المؤسسات المساهمة في محتوى المستند</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemWhereFroms.Description</Position>
+      <TranslationSet>
+        <base loc="en">Where the item came from</base>
+        <tran loc="ar">مصدر العنصر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemDurationSeconds.Description</Position>
+      <TranslationSet>
+        <base loc="en">Duration of this item in seconds</base>
+        <tran loc="ar">مدة هذا العنصر بالثواني</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemLongitude.ShortName</Position>
+      <TranslationSet>
+        <base loc="en">longitude</base>
+        <tran loc="ar">خط_الطول</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemCodecs.ShortName</Position>
+      <TranslationSet>
+        <base loc="en">codec</base>
+        <tran loc="ar">برنامج_ترميز</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemEXIFVersion</Position>
+      <TranslationSet>
+        <base loc="en">EXIF version</base>
+        <tran loc="ar">إصدار EXIF</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemHasAlphaChannel</Position>
+      <TranslationSet>
+        <base loc="en">Alpha channel</base>
+        <tran loc="ar">قناة ألفا</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemTitle</Position>
+      <TranslationSet>
+        <base loc="en">Title</base>
+        <tran loc="ar">العنوان</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemFocalLength</Position>
+      <TranslationSet>
+        <base loc="en">Focal length</base>
+        <tran loc="ar">البعد البؤري</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemAudiences</Position>
+      <TranslationSet>
+        <base loc="en">Audiences</base>
+        <tran loc="ar">المستمعون</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemCity.ShortName</Position>
+      <TranslationSet>
+        <base loc="en">city</base>
+        <tran loc="ar">مدينة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemFNumber.ShortName</Position>
+      <TranslationSet>
+        <base loc="en">fnumber,fstop</base>
+        <tran loc="ar">الرقم_البؤري،فتحة_العدسة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemIdentifier.ShortName</Position>
+      <TranslationSet>
+        <base loc="en">id</base>
+        <tran loc="ar">المعرّف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemAudioChannelCount.Description</Position>
+      <TranslationSet>
+        <base loc="en">Number of channels in the file\’s audio data</base>
+        <tran loc="ar">عدد القنوات في البيانات الصوتية للملف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemColorSpace</Position>
+      <TranslationSet>
+        <base loc="en">Color space</base>
+        <tran loc="ar">مساحة اللون</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemEndDate.Description</Position>
+      <TranslationSet>
+        <base loc="en">Date this item ends</base>
+        <tran loc="ar">تاريخ انتهاء هذا العنصر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemInstructions.ShortName</Position>
+      <TranslationSet>
+        <base loc="en">instructions</base>
+        <tran loc="ar">إرشادات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemTheme</Position>
+      <TranslationSet>
+        <base loc="en">Theme</base>
+        <tran loc="ar">السمة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemComment.Description</Position>
+      <TranslationSet>
+        <base loc="en">Comments about this item</base>
+        <tran loc="ar">تعليقات حول هذا العنصر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemAccountType.Description</Position>
+      <TranslationSet>
+        <base loc="en">Type of account for this item</base>
+        <tran loc="ar">نوع الحساب لهذا العنصر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemAuthorAddresses.Description</Position>
+      <TranslationSet>
+        <base loc="en">Addresses for authors of this item</base>
+        <tran loc="ar">عناوين مؤلفي هذا العنصر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemAltitude</Position>
+      <TranslationSet>
+        <base loc="en">Altitude</base>
+        <tran loc="ar">الارتفاع</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 
+  schema.strings
+  CoreSpotlight
+
+  Copyright © 2015 Apple. All rights reserved.
+</Description>
+      <Position>kMDItemKeywords</Position>
+      <TranslationSet>
+        <base loc="en">Keywords</base>
+        <tran loc="ar">الكلمات المفتاحية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemEndDate</Position>
+      <TranslationSet>
+        <base loc="en">End date</base>
+        <tran loc="ar">تاريخ الانتهاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemExposureMode</Position>
+      <TranslationSet>
+        <base loc="en">Exposure mode</base>
+        <tran loc="ar">وضع التعرض للضوء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemAudioEncodingApplication.Description</Position>
+      <TranslationSet>
+        <base loc="en">Name of the application that encoded the data in the audio file</base>
+        <tran loc="ar">اسم التطبيق الذي قام بترميز البيانات في ملف الصوت</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemFonts.ShortName</Position>
+      <TranslationSet>
+        <base loc="en">font</base>
+        <tran loc="ar">خط</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemPixelCount.Description</Position>
+      <TranslationSet>
+        <base loc="en">Total number of pixels in the document</base>
+        <tran loc="ar">إجمالي عدد وحدات البكسل في المستند</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemEXIFVersion.ShortName</Position>
+      <TranslationSet>
+        <base loc="en">exifversion</base>
+        <tran loc="ar">إصدار_exif</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemIsGeneralMIDISequence</Position>
+      <TranslationSet>
+        <base loc="en">General MIDI sequence</base>
+        <tran loc="ar">تسلسل MIDI العام</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemAppleLoopDescriptors.Description</Position>
+      <TranslationSet>
+        <base loc="en">Keywords describing the mood and other aspects of the loop</base>
+        <tran loc="ar">كلمات مفتاحية تصف الوضع وجوانب أخرى للتكرار الحلقي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemImportantDates</Position>
+      <TranslationSet>
+        <base loc="en">Important dates</base>
+        <tran loc="ar">التواريخ المهمة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemAccountHandles.Description</Position>
+      <TranslationSet>
+        <base loc="en">Handles for account of this item</base>
+        <tran loc="ar">معالجات حساب هذا العنصر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemContentModificationDate.ShortName</Position>
+      <TranslationSet>
+        <base loc="en">contentmodified,modified,date</base>
+        <tran loc="ar">تاريخ،تعديل،تعديل_المحتوى</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemAuthors.Description</Position>
+      <TranslationSet>
+        <base loc="en">Authors of this item</base>
+        <tran loc="ar">مؤلفو هذا العنصر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemAppStoreCategory</Position>
+      <TranslationSet>
+        <base loc="en">Category</base>
+        <tran loc="ar">الفئة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemCity</Position>
+      <TranslationSet>
+        <base loc="en">City</base>
+        <tran loc="ar">المدينة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemAcquisitionMake.Description</Position>
+      <TranslationSet>
+        <base loc="en">Make of the device used to acquire this document</base>
+        <tran loc="ar">إنشاء الجهاز المستخدم لاكتساب هذا المستند</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>BothKeys</Position>
+      <TranslationSet>
+        <base loc="en">BothKeys</base>
+        <tran loc="ar">BothKeys</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AnyKey</Position>
+      <TranslationSet>
+        <base loc="en">AnyKey</base>
+        <tran loc="ar">AnyKey</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemRatingDescription.Description</Position>
+      <TranslationSet>
+        <base loc="en">Description of user rating</base>
+        <tran loc="ar">وصف تقييم المستخدم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemSecurityMethod</Position>
+      <TranslationSet>
+        <base loc="en">Security</base>
+        <tran loc="ar">تأمين</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Partial</Position>
+      <TranslationSet>
+        <base loc="en">Partial</base>
+        <tran loc="ar">جزئي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemDurationSeconds</Position>
+      <TranslationSet>
+        <base loc="en">Duration</base>
+        <tran loc="ar">المدة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemContentModificationDate.Description</Position>
+      <TranslationSet>
+        <base loc="en">Date when the content of this item was modified</base>
+        <tran loc="ar">تاريخ تعديل محتوى هذا العنصر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemTimeSignature.Description</Position>
+      <TranslationSet>
+        <base loc="en">Time signature of the song in the audio or MIDI file</base>
+        <tran loc="ar">التوقيع الزمني للأغنية في ملف الصوت أو ملف MIDI</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemProducer</Position>
+      <TranslationSet>
+        <base loc="en">Producer</base>
+        <tran loc="ar">المنتج</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemIsLikelyJunk.Description</Position>
+      <TranslationSet>
+        <base loc="en">Whether the file is likely to be considered a junk file</base>
+        <tran loc="ar">ما إذا كان الملف يعتبر غالبًا ملفًا غير هام أم لا</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemMediaTypes.ShortName</Position>
+      <TranslationSet>
+        <base loc="en">media,contains,mediatype</base>
+        <tran loc="ar">وسائط،الوسائط،يحتوي،يحتوي_على،نوع_الوسائط</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemCoverage.ShortName</Position>
+      <TranslationSet>
+        <base loc="en">coverage</base>
+        <tran loc="ar">تغطية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>mailbox.drafts</Position>
+      <TranslationSet>
+        <base loc="en">Mailbox Drafts</base>
+        <tran loc="ar">صندوق بريد المسودات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemBitsPerSample</Position>
+      <TranslationSet>
+        <base loc="en">Bits per sample</base>
+        <tran loc="ar">وحدات البت لكل عينة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemPath</Position>
+      <TranslationSet>
+        <base loc="en">File pathname</base>
+        <tran loc="ar">اسم مسار الملف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemAperture</Position>
+      <TranslationSet>
+        <base loc="en">Aperture value</base>
+        <tran loc="ar">قيمة فتحة العدسة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemEXIFGPSVersion</Position>
+      <TranslationSet>
+        <base loc="en">EXIF GPS version</base>
+        <tran loc="ar">إصدار EXIF GPS</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemLanguages.ShortName</Position>
+      <TranslationSet>
+        <base loc="en">language</base>
+        <tran loc="ar">لغة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>MultiSpot</Position>
+      <TranslationSet>
+        <base loc="en">MultiSpot</base>
+        <tran loc="ar">متعدد النقاط</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemHiddenAdditionalRecipientPersons.Description</Position>
+      <TranslationSet>
+        <base loc="en">The content of the Bcc field</base>
+        <tran loc="ar">محتوى حقل "نسخة مخفية"</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemExposureTimeSeconds</Position>
+      <TranslationSet>
+        <base loc="en">Exposure time</base>
+        <tran loc="ar">زمن التعرض للضوء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemExposureTimeString</Position>
+      <TranslationSet>
+        <base loc="en">Exposure time</base>
+        <tran loc="ar">زمن التعرض للضوء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemExposureTimeString.Description</Position>
+      <TranslationSet>
+        <base loc="en">Exposure time</base>
+        <tran loc="ar">زمن التعرض للضوء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemStateOrProvince.Description</Position>
+      <TranslationSet>
+        <base loc="en">State or province of the item according to the provider</base>
+        <tran loc="ar">ولاية أو مقاطعة العنصر حسب الموفر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemAudioBitRate.ShortName</Position>
+      <TranslationSet>
+        <base loc="en">audiobitrate,bitrate</base>
+        <tran loc="ar">معدل البت للصوت،معدل البت</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Non-Looping</Position>
+      <TranslationSet>
+        <base loc="en">Non-Looping</base>
+        <tran loc="ar">غير متكرر حلقيًا</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemAuthorPersons.Description</Position>
+      <TranslationSet>
+        <base loc="en">The content of the From field</base>
+        <tran loc="ar">محتوى حقل "من"</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemVendorName</Position>
+      <TranslationSet>
+        <base loc="en">VendorName</base>
+        <tran loc="ar">VendorName</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemApplicationCategories.Description</Position>
+      <TranslationSet>
+        <base loc="en">Categories application is a member of</base>
+        <tran loc="ar">الفئات التي ينتمي لها التطبيق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemAdditionalRecipientPersons</Position>
+      <TranslationSet>
+        <base loc="en">Additional Recipient persons</base>
+        <tran loc="ar">الأشخاص المستلمون الإضافيون</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemMailboxes</Position>
+      <TranslationSet>
+        <base loc="en">Mailboxes</base>
+        <tran loc="ar">صناديق البريد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemExecutableArchitectures.ShortName</Position>
+      <TranslationSet>
+        <base loc="en">architectures</base>
+        <tran loc="ar">هندسة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemDeliveryType.Description</Position>
+      <TranslationSet>
+        <base loc="en">Method used to deliver the media (Fast Start or RTSP)</base>
+        <tran loc="ar">الطريقة المستخدمة في تسليم الوسائط (بدء سريع أو RTSP)</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>mailbox.junk</Position>
+      <TranslationSet>
+        <base loc="en">Mailbox Junk</base>
+        <tran loc="ar">صندوق البريد المزعج</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemMusicalInstrumentCategory</Position>
+      <TranslationSet>
+        <base loc="en">Instrument category</base>
+        <tran loc="ar">فئة الآلة الموسيقية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemIsLocal.ShortName</Position>
+      <TranslationSet>
+        <base loc="en">local,remote,islocal,isremote</base>
+        <tran loc="ar">محلي،بعيد،islocal،isremote</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemExtendedContentRating.ShortName</Position>
+      <TranslationSet>
+        <base loc="en">rating,contentrating</base>
+        <tran loc="ar">تقييم،تقييم المحتوى</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemExposureTimeSeconds.Description</Position>
+      <TranslationSet>
+        <base loc="en">Time the lens was open during exposure</base>
+        <tran loc="ar">الوقت الذي تم فيه فتح العدسة أثناء التعرض للضوء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemPixelWidth.ShortName</Position>
+      <TranslationSet>
+        <base loc="en">pixelwidth,width</base>
+        <tran loc="ar">عرض_بالبكسل،عرض</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemDisplayName.Description</Position>
+      <TranslationSet>
+        <base loc="en">Localized name of the file</base>
+        <tran loc="ar">الاسم المعرب للملف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemTimeSignature</Position>
+      <TranslationSet>
+        <base loc="en">Time signature</base>
+        <tran loc="ar">التوقيع الزمني</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemMusicalInstrumentName</Position>
+      <TranslationSet>
+        <base loc="en">Instrument name</base>
+        <tran loc="ar">اسم الآلة الموسيقية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemRelatedUniqueIdentifier</Position>
+      <TranslationSet>
+        <base loc="en">Related unique identifier</base>
+        <tran loc="ar">المعرّف الفريد ذو الصلة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemPublishers.Description</Position>
+      <TranslationSet>
+        <base loc="en">Publisher of the document</base>
+        <tran loc="ar">ناشر المستند</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemTextContent.ShortName</Position>
+      <TranslationSet>
+        <base loc="en">content,contains,intext</base>
+        <tran loc="ar">محتوى،_محتويات،_المحتوى،_المحتويات،_يحتوي،_يحتوي_على،_محتوي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemFlashOnOff</Position>
+      <TranslationSet>
+        <base loc="en">Flash</base>
+        <tran loc="ar">الوميض</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemLayerNames</Position>
+      <TranslationSet>
+        <base loc="en">Layers</base>
+        <tran loc="ar">الطبقات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>mailbox.archive</Position>
+      <TranslationSet>
+        <base loc="en">Mailbox Archive</base>
+        <tran loc="ar">صندوق بريد الأرشيف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemKind.Description</Position>
+      <TranslationSet>
+        <base loc="en">Kind of this item</base>
+        <tran loc="ar">نوع هذا العنصر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemAccountIdentifier</Position>
+      <TranslationSet>
+        <base loc="en">Account identifier</base>
+        <tran loc="ar">معرّف الحساب</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemAppleLoopsLoopMode.Description</Position>
+      <TranslationSet>
+        <base loc="en">Whether the file is a looping or non-looping file. Looping files adjust their tempo to the song tempo, while non-looping files keep their recorded tempo</base>
+        <tran loc="ar">سواء كان الملف متكررًا أم غير متكرر حلقيًا. تقوم الملفات المتكررة بضبط درجة سرعتها على درجة سرعة الأغنية، بينما تحتفظ الملفات غير المتكررة بدرجة سرعتها المسجلة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemThoroughfare.ShortName</Position>
+      <TranslationSet>
+        <base loc="en">thoroughfare</base>
+        <tran loc="ar">طريق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemSubject.Description</Position>
+      <TranslationSet>
+        <base loc="en">Subject of this item</base>
+        <tran loc="ar">موضوع هذا العنصر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemAlbum.ShortName</Position>
+      <TranslationSet>
+        <base loc="en">album,title</base>
+        <tran loc="ar">ألبوم،عنوان</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>mailbox.sent</Position>
+      <TranslationSet>
+        <base loc="en">Mailbox Sent</base>
+        <tran loc="ar">صندوق بريد "المرسلة"</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemPath.Description</Position>
+      <TranslationSet>
+        <base loc="en">Complete pathname of this file</base>
+        <tran loc="ar">اسم المسار الكامل لهذا الملف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemInstantMessageAddresses.Description</Position>
+      <TranslationSet>
+        <base loc="en">Instant message addresses associated with this item</base>
+        <tran loc="ar">عناوين الرسائل الفورية المقترنة بهذا العنصر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemCompletionDate.Description</Position>
+      <TranslationSet>
+        <base loc="en">Date this item was completed</base>
+        <tran loc="ar">تاريخ اكتمال هذا العنصر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemLogicalSize</Position>
+      <TranslationSet>
+        <base loc="en">Logical size</base>
+        <tran loc="ar">الحجم المنطقي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemCodecs</Position>
+      <TranslationSet>
+        <base loc="en">Codecs</base>
+        <tran loc="ar">برامج الترميز</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>mailbox.archive.Description</Position>
+      <TranslationSet>
+        <base loc="en">Archive mailbox identifier</base>
+        <tran loc="ar">معرّف صندوق بريد الأرشيف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemVideoBitRate</Position>
+      <TranslationSet>
+        <base loc="en">Video bit rate</base>
+        <tran loc="ar">معدل البت للفيديو</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemNamedLocation</Position>
+      <TranslationSet>
+        <base loc="en">Location</base>
+        <tran loc="ar">الموقع</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemAppleLoopsRootKey</Position>
+      <TranslationSet>
+        <base loc="en">Loop original key</base>
+        <tran loc="ar">المقام الأصلي للتكرار الحلقي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CenterWeightedAverage</Position>
+      <TranslationSet>
+        <base loc="en">CenterWeightedAverage</base>
+        <tran loc="ar">CenterWeightedAverage</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemAudioChannelCount</Position>
+      <TranslationSet>
+        <base loc="en">Audio channels</base>
+        <tran loc="ar">قنوات الصوت</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemWeakRelatedUniqueIdentifier.Description</Position>
+      <TranslationSet>
+        <base loc="en">Reference to a weakly related searchable item</base>
+        <tran loc="ar">مرجع لعنصر أسبوعي ذي صلة قابل للبحث</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>mailbox.trash.Description</Position>
+      <TranslationSet>
+        <base loc="en">Trash mailbox identifier</base>
+        <tran loc="ar">معرّف صندوق بريد سلة المهملات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemFonts</Position>
+      <TranslationSet>
+        <base loc="en">Fonts</base>
+        <tran loc="ar">الخطوط</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemVersion.ShortName</Position>
+      <TranslationSet>
+        <base loc="en">version</base>
+        <tran loc="ar">الإصدار</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemEmailHeadersDictionary</Position>
+      <TranslationSet>
+        <base loc="en">Message headers</base>
+        <tran loc="ar">عناوين الرسائل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemRole</Position>
+      <TranslationSet>
+        <base loc="en">Role</base>
+        <tran loc="ar">الدور</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemRedEyeOnOff</Position>
+      <TranslationSet>
+        <base loc="en">Red eye</base>
+        <tran loc="ar">العين الحمراء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemNumberOfPages.ShortName</Position>
+      <TranslationSet>
+        <base loc="en">pages</base>
+        <tran loc="ar">صفحات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemLyricist.ShortName</Position>
+      <TranslationSet>
+        <base loc="en">by,lyricist,author</base>
+        <tran loc="ar">بواسطة،مؤلف كلمات الأغنية،مؤلف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemDisplayName.ShortName</Position>
+      <TranslationSet>
+        <base loc="en">name,displayname</base>
+        <tran loc="ar">اسم،الاسم،اسم_العرض</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Manual</Position>
+      <TranslationSet>
+        <base loc="en">Manual</base>
+        <tran loc="ar">يدوي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemImportantDates.Description</Position>
+      <TranslationSet>
+        <base loc="en">Dates associated with this item</base>
+        <tran loc="ar">التواريخ المقترنة بهذا العنصر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemTheme.ShortName</Position>
+      <TranslationSet>
+        <base loc="en">theme</base>
+        <tran loc="ar">سمة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemCopyright</Position>
+      <TranslationSet>
+        <base loc="en">Copyright</base>
+        <tran loc="ar">حقوق النشر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemLatitude.Description</Position>
+      <TranslationSet>
+        <base loc="en">The latitude of the item in degrees north of the equator, expressed using the WGS84 datum. Negative values lie south of the equator.</base>
+        <tran loc="ar">تم التعبير عن خط عرض العنصر بالدرجات شمال خط الاستواء باستخدام بيانات WGS84. القيم السلبية موجودة جنوب خط الاستواء.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemCreator.Description</Position>
+      <TranslationSet>
+        <base loc="en">Application used to create the document</base>
+        <tran loc="ar">التطبيق المستخدم في إنشاء المستند</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemStreamable.Description</Position>
+      <TranslationSet>
+        <base loc="en">Whether the content is prepared for streaming</base>
+        <tran loc="ar">ما إذا كان المحتوى جاهزًا للبث أم لا</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemTitle.ShortName</Position>
+      <TranslationSet>
+        <base loc="en">title</base>
+        <tran loc="ar">العنوان</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemOrientation.Description</Position>
+      <TranslationSet>
+        <base loc="en">Orientation of the picture (landscape or portrait)</base>
+        <tran loc="ar">اتجاه الصورة (أفقي أو رأسي)</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemFinderComment.Description</Position>
+      <TranslationSet>
+        <base loc="en">Spotlight comment for this item</base>
+        <tran loc="ar">تعليق Spotlight على هذا العنصر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemContentCreationDate</Position>
+      <TranslationSet>
+        <base loc="en">Content created</base>
+        <tran loc="ar">تاريخ إنشاء المحتوى</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemArtist</Position>
+      <TranslationSet>
+        <base loc="en">Artist</base>
+        <tran loc="ar">الفنان</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Minor</Position>
+      <TranslationSet>
+        <base loc="en">Minor</base>
+        <tran loc="ar">صغير</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemLongitude.Description</Position>
+      <TranslationSet>
+        <base loc="en">The longitude of the item in degrees east of the prime meridian, expressed using the WGS84 datum. Negative values lie west of the prime meridian.</base>
+        <tran loc="ar">تم التعبير عن خط طول العنصر بالدرجات شرق خط الطول الرئيسي باستخدام بيانات WGS84. القيم السلبية موجودة غرب خط الطول الرئيسي.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemVideoBitRate.ShortName</Position>
+      <TranslationSet>
+        <base loc="en">videobitrate,bitrate</base>
+        <tran loc="ar">معدل_بت_فيديو،معدل_بت</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemAltitude.ShortName</Position>
+      <TranslationSet>
+        <base loc="en">altitude</base>
+        <tran loc="ar">الارتفاع</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemExtendedContentRating.Description</Position>
+      <TranslationSet>
+        <base loc="en">Extended content rating for the item’s content</base>
+        <tran loc="ar">تقييم المحتوى الموسع لمحتوى العنصر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Attribute Descriptions That will be presented to the user
+ 
+*
+ 
+* In the form of
+ 
+* Attribute.Description
+ 
+* "." is not a valid character in an Attribute name.
+ </Description>
+      <Position>kMDItemKeywords.Description</Position>
+      <TranslationSet>
+        <base loc="en">Keywords associated with this item</base>
+        <tran loc="ar">الكلمات المفتاحية المقترنة بهذا العنصر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemUsedDates</Position>
+      <TranslationSet>
+        <base loc="en">Used dates</base>
+        <tran loc="ar">تواريخ الاستخدام</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemDueDate.ShortName</Position>
+      <TranslationSet>
+        <base loc="en">duedate,date</base>
+        <tran loc="ar">تاريخ استحقاق،تاريخ</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemPageHeight.ShortName</Position>
+      <TranslationSet>
+        <base loc="en">pageheight,height</base>
+        <tran loc="ar">ارتفاع_صفحة،ارتفاع</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemWeakRelatedUniqueIdentifier</Position>
+      <TranslationSet>
+        <base loc="en">Weakly related unique identifier</base>
+        <tran loc="ar">المعرّف الأسبوعي الفريد ذو الصلة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemCountry.ShortName</Position>
+      <TranslationSet>
+        <base loc="en">country,region</base>
+        <tran loc="ar">البلد، المنطقة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemCountry.Description</Position>
+      <TranslationSet>
+        <base loc="en">Country, region, or location where the item was created according to the provider</base>
+        <tran loc="ar">البلد أو المنطقة أو الموقع الذي شهد إنشاء العنصر وفقًا للموفر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemResolutionWidthDPI.Description</Position>
+      <TranslationSet>
+        <base loc="en">Resolution width of this image in DPI</base>
+        <tran loc="ar">عرض دقة هذه الصورة بالنقطة في البوصة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemWhereFroms</Position>
+      <TranslationSet>
+        <base loc="en">Where from</base>
+        <tran loc="ar">المصدر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemRecipientAddresses</Position>
+      <TranslationSet>
+        <base loc="en">Recipient addresses</base>
+        <tran loc="ar">عناوين المستلمين</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemInformation</Position>
+      <TranslationSet>
+        <base loc="en">Movie information</base>
+        <tran loc="ar">معلومات الفيلم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemInformation.Description</Position>
+      <TranslationSet>
+        <base loc="en">Movie information</base>
+        <tran loc="ar">معلومات الفيلم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemWhiteBalance.ShortName</Position>
+      <TranslationSet>
+        <base loc="en">whitebalance</base>
+        <tran loc="ar">توازن_لون_أبيض</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> MDLabel support </Description>
+      <Position>_kMDItemLabels.ShortName</Position>
+      <TranslationSet>
+        <base loc="en">label</base>
+        <tran loc="ar">العنوان</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemDurationSeconds.ShortName</Position>
+      <TranslationSet>
+        <base loc="en">duration,time</base>
+        <tran loc="ar">مدة،وقت</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemDueDate.Description</Position>
+      <TranslationSet>
+        <base loc="en">Date this item is due</base>
+        <tran loc="ar">تاريخ استحقاق هذا العنصر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemProducer.ShortName</Position>
+      <TranslationSet>
+        <base loc="en">producer</base>
+        <tran loc="ar">منتِج</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemPublishers</Position>
+      <TranslationSet>
+        <base loc="en">Publishers</base>
+        <tran loc="ar">الناشرون</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemSecurityMethod.ShortName</Position>
+      <TranslationSet>
+        <base loc="en">security,securitymethod</base>
+        <tran loc="ar">طريقةتأمين،طريقةالتأمين</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemLyricist</Position>
+      <TranslationSet>
+        <base loc="en">Lyricist</base>
+        <tran loc="ar">مؤلف كلمات الأغنية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemRedEyeOnOff.Description</Position>
+      <TranslationSet>
+        <base loc="en">Whether ‘red eye’ correction was on or off</base>
+        <tran loc="ar">ما إذا كان تصحيح \"العين الحمراء\" في وضع التشغيل أم إيقاف التشغيل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemApplicationCategories.ShortName</Position>
+      <TranslationSet>
+        <base loc="en">categories</base>
+        <tran loc="ar">الفئات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemAuthorEmailAddresses</Position>
+      <TranslationSet>
+        <base loc="en">Author Email addresses</base>
+        <tran loc="ar">عناوين البريد الإلكتروني للمؤلفين</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemCoverage</Position>
+      <TranslationSet>
+        <base loc="en">Coverage</base>
+        <tran loc="ar">التغطية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemHiddenAdditionalRecipientPersons</Position>
+      <TranslationSet>
+        <base loc="en">Hidden Additional Recipient persons</base>
+        <tran loc="ar">الأشخاص المستلمون الإضافيون المخفيون</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemAppStoreCategory.ShortName</Position>
+      <TranslationSet>
+        <base loc="en">category</base>
+        <tran loc="ar">الفئة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemISOSpeed</Position>
+      <TranslationSet>
+        <base loc="en">ISO speed</base>
+        <tran loc="ar">سرعة ISO</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemURL.ShortName</Position>
+      <TranslationSet>
+        <base loc="en">url</base>
+        <tran loc="ar">url</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemUsedDates.Description</Position>
+      <TranslationSet>
+        <base loc="en">Dates when this item was used</base>
+        <tran loc="ar">تواريخ استخدام هذا العنصر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemPurchaseDate.ShortName</Position>
+      <TranslationSet>
+        <base loc="en">purchasedate</base>
+        <tran loc="ar">تاريخ_الشراء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemAcquisitionMake.ShortName</Position>
+      <TranslationSet>
+        <base loc="en">make</base>
+        <tran loc="ar">إنشاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemPurchaseDate</Position>
+      <TranslationSet>
+        <base loc="en">Purchase Date</base>
+        <tran loc="ar">تاريخ الشراء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemNamedLocation.Description</Position>
+      <TranslationSet>
+        <base loc="en">Name of the location or point of interest</base>
+        <tran loc="ar">اسم الموقع أو نقطة مهمة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemFlashOnOff.ShortName</Position>
+      <TranslationSet>
+        <base loc="en">flash</base>
+        <tran loc="ar">الوميض</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemMediaTypes.Description</Position>
+      <TranslationSet>
+        <base loc="en">Media types present in the content</base>
+        <tran loc="ar">أنواع الوسائط الموجودة في المحتوى</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemUsedDates.ShortName</Position>
+      <TranslationSet>
+        <base loc="en">used,date</base>
+        <tran loc="ar">استخدام،تاريخ</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemWhiteBalance</Position>
+      <TranslationSet>
+        <base loc="en">White balance</base>
+        <tran loc="ar">توازن اللون الأبيض</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemImportantDates.ShortName</Position>
+      <TranslationSet>
+        <base loc="en">startdate,duedate,enddate,completiondate,birthday,birthdate,date</base>
+        <tran loc="ar">تاريخ البدء،تاريخ الاستحقاق،تاريخ الانتهاء،تاريخ الإكمال،تاريخ ميلاد،تاريخ مولد،مولد،تاريخ الميلاد،تاريخ المولد،يوم ميلاد،يوم الميلاد،التاريخ،تاريخ</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemLastUsedDate.ShortName</Position>
+      <TranslationSet>
+        <base loc="en">lastused,date</base>
+        <tran loc="ar">آخر_استخدام،تاريخ</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemDeliveryType.ShortName</Position>
+      <TranslationSet>
+        <base loc="en">delivery</base>
+        <tran loc="ar">التسليم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemComment</Position>
+      <TranslationSet>
+        <base loc="en">Comment</base>
+        <tran loc="ar">التعليق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemAperture.ShortName</Position>
+      <TranslationSet>
+        <base loc="en">aperture,fstop</base>
+        <tran loc="ar">فتحة_عدسة،رقم_بؤري</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemContentRating</Position>
+      <TranslationSet>
+        <base loc="en">Content Rating</base>
+        <tran loc="ar">تقييم المحتوى</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemRecordingDate.ShortName</Position>
+      <TranslationSet>
+        <base loc="en">recordingdate,date</base>
+        <tran loc="ar">تاريخ_تسجيل،تاريخ</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemPixelHeight</Position>
+      <TranslationSet>
+        <base loc="en">Pixel height</base>
+        <tran loc="ar">الارتفاع بالبكسل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemKind.ShortName</Position>
+      <TranslationSet>
+        <base loc="en">kind</base>
+        <tran loc="ar">النوع،نوع</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Pattern</Position>
+      <TranslationSet>
+        <base loc="en">Pattern</base>
+        <tran loc="ar">النمط</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemRecipients.ShortName</Position>
+      <TranslationSet>
+        <base loc="en">to,recipient,with</base>
+        <tran loc="ar">إلى،المستلم،مع</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemAudioBitRate.ShortDisplayName</Position>
+      <TranslationSet>
+        <base loc="en">Bit Rate</base>
+        <tran loc="ar">معدل البت</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemAudioChannelCount.ShortName</Position>
+      <TranslationSet>
+        <base loc="en">channels</base>
+        <tran loc="ar">قنوات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Normal</Position>
+      <TranslationSet>
+        <base loc="en">Normal</base>
+        <tran loc="ar">عادي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemEmailAddresses.Description</Position>
+      <TranslationSet>
+        <base loc="en">Email addresses associated with this item</base>
+        <tran loc="ar">عناوين البريد الإلكتروني المقترنة بهذا العنصر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemAudioBitRate</Position>
+      <TranslationSet>
+        <base loc="en">Audio bit rate</base>
+        <tran loc="ar">معدل البت للصوت</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemIdentifier.Description</Position>
+      <TranslationSet>
+        <base loc="en">Reference to a resource within a given context</base>
+        <tran loc="ar">مرجع إلى مورد داخل سياق معين</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemAlternateNames</Position>
+      <TranslationSet>
+        <base loc="en">Alternate display names</base>
+        <tran loc="ar">أسماء العرض البديلة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemAdditionalRecipientPersons.Description</Position>
+      <TranslationSet>
+        <base loc="en">The content of the Cc field</base>
+        <tran loc="ar">محتوى حقل "نسخة"</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemPhysicalSize.Description</Position>
+      <TranslationSet>
+        <base loc="en">Physical size of the item in bytes</base>
+        <tran loc="ar">الحجم الفعلي للعنصر بالبايت</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemCountry</Position>
+      <TranslationSet>
+        <base loc="en">Region</base>
+        <tran loc="ar">المنطقة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemNumberOfPages</Position>
+      <TranslationSet>
+        <base loc="en">Pages</base>
+        <tran loc="ar">صفحات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemURL</Position>
+      <TranslationSet>
+        <base loc="en">URL</base>
+        <tran loc="ar">URL</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemDocumentContainer.ShortName</Position>
+      <TranslationSet>
+        <base loc="en">container</base>
+        <tran loc="ar">حاوية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemTotalBitRate</Position>
+      <TranslationSet>
+        <base loc="en">Total bit rate</base>
+        <tran loc="ar">إجمالي معدل البت</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemPageHeight.Description</Position>
+      <TranslationSet>
+        <base loc="en">Height of the document page in points</base>
+        <tran loc="ar">ارتفاع صفحة المستند بالنقاط</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemAuthorEmailAddresses.ShortName</Position>
+      <TranslationSet>
+        <base loc="en">from,email,mail</base>
+        <tran loc="ar">من،بريد_إلكتروني،بريد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemExecutableArchitectures</Position>
+      <TranslationSet>
+        <base loc="en">Executable Architectures</base>
+        <tran loc="ar">الهندسة القابلة للتنفيذ</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemMusicalGenre.ShortName</Position>
+      <TranslationSet>
+        <base loc="en">genre,musicalgenre</base>
+        <tran loc="ar">النوع،النوع_الموسيقي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemFNumber</Position>
+      <TranslationSet>
+        <base loc="en">F number</base>
+        <tran loc="ar">الرقم البؤري</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemMediaTypes</Position>
+      <TranslationSet>
+        <base loc="en">Media types</base>
+        <tran loc="ar">أنواع الوسائط</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemPostalCode.ShortName</Position>
+      <TranslationSet>
+        <base loc="en">postalcode</base>
+        <tran loc="ar">الرمز البريدي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemCompletionDate.ShortName</Position>
+      <TranslationSet>
+        <base loc="en">completiondate,date</base>
+        <tran loc="ar">تاريخ_الاكتمال،التاريخ</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemOrganizations.ShortName</Position>
+      <TranslationSet>
+        <base loc="en">organization</base>
+        <tran loc="ar">مؤسسة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemProjects.Description</Position>
+      <TranslationSet>
+        <base loc="en">Projects this item is part of</base>
+        <tran loc="ar">المشاريع التي يشكل هذا العنصر جزءًا منها</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemResolutionHeightDPI.ShortName</Position>
+      <TranslationSet>
+        <base loc="en">heightdpi,dpi</base>
+        <tran loc="ar">ارتفاع_بالنقطة_في_البوصة،نقطة_في_بوصة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemKind</Position>
+      <TranslationSet>
+        <base loc="en">Kind</base>
+        <tran loc="ar">النوع</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemEncodingApplications.Description</Position>
+      <TranslationSet>
+        <base loc="en">Software used to convert the original content</base>
+        <tran loc="ar">البرنامج المستخدم في تحويل المحتوى الأصلي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemExposureMode.ShortName</Position>
+      <TranslationSet>
+        <base loc="en">exposuremode</base>
+        <tran loc="ar">وضع_التعرض_للضوء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemLanguages</Position>
+      <TranslationSet>
+        <base loc="en">Languages</base>
+        <tran loc="ar">اللغات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Average</Position>
+      <TranslationSet>
+        <base loc="en">Average</base>
+        <tran loc="ar">المتوسط</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemLayerNames.Description</Position>
+      <TranslationSet>
+        <base loc="en">Names of the layers in the file</base>
+        <tran loc="ar">أسماء الطبقات الموجودة بهذا الملف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemProfileName.Description</Position>
+      <TranslationSet>
+        <base loc="en">Name of the color profile used for the image</base>
+        <tran loc="ar">اسم ملف تعريف اللون المستخدم للصورة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemVendorName.Description</Position>
+      <TranslationSet>
+        <base loc="en">Vendor Name of this item</base>
+        <tran loc="ar">اسم بائع هذا العنصر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemStartDate.Description</Position>
+      <TranslationSet>
+        <base loc="en">Date this item starts</base>
+        <tran loc="ar">تاريخ بدء هذا العنصر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemDueDate</Position>
+      <TranslationSet>
+        <base loc="en">Due date</base>
+        <tran loc="ar">تاريخ الاستحقاق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemAperture.Description</Position>
+      <TranslationSet>
+        <base loc="en">Size of the lens aperture as a log-scale APEX value</base>
+        <tran loc="ar">حجم فتحة العدسة كقيمة APEX بمقياس لوغاريتمي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemExposureProgram.Description</Position>
+      <TranslationSet>
+        <base loc="en">Type of program used by the camera to set the exposure: Manual, Normal, Aperture priority, …</base>
+        <tran loc="ar">نوع البرنامج المستخدم في الكاميرا لضبط التعرض للضوء: يدوي، عادي، أولوية فتحة العدسة، …</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemExtendedContentRating</Position>
+      <TranslationSet>
+        <base loc="en">Extended Content Rating</base>
+        <tran loc="ar">تقييم المحتوى الموسع</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemStreamable</Position>
+      <TranslationSet>
+        <base loc="en">Streamable</base>
+        <tran loc="ar">قابل للبث</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemRecipientEmailAddresses.Description</Position>
+      <TranslationSet>
+        <base loc="en">Email addresses for recipients of this item</base>
+        <tran loc="ar">عناوين البريد الإلكتروني لمستلمي هذا العنصر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemAuthors.ShortName</Position>
+      <TranslationSet>
+        <base loc="en">from,author,with,by</base>
+        <tran loc="ar">من،مؤلف،مع،بواسطة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemExposureProgram</Position>
+      <TranslationSet>
+        <base loc="en">Exposure program</base>
+        <tran loc="ar">برنامج التعرض للضوء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemParticipants.Description</Position>
+      <TranslationSet>
+        <base loc="en">Participants in this item</base>
+        <tran loc="ar">المشاركون في هذا العنصر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemTempo.Description</Position>
+      <TranslationSet>
+        <base loc="en">Tempo of the music in the audio file in Beats Per Minute</base>
+        <tran loc="ar">درجة سرعة الموسيقى في ملف الصوت بالضربة في الدقيقة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemAcquisitionMake</Position>
+      <TranslationSet>
+        <base loc="en">Device make</base>
+        <tran loc="ar">إنشاء جهاز</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemTheme.Description</Position>
+      <TranslationSet>
+        <base loc="en">Theme of this item</base>
+        <tran loc="ar">سمة هذا العنصر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemPixelHeight.Description</Position>
+      <TranslationSet>
+        <base loc="en">Height of the document in pixels</base>
+        <tran loc="ar">ارتفاع المستند بالبكسل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemNamedLocation.ShortName</Position>
+      <TranslationSet>
+        <base loc="en">location</base>
+        <tran loc="ar">الموقع</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Attribute short display names
+ 
+*
+ 
+* In the form of Attribute.ShortDisplayName
+ 
+* Unlike short names, short display names can contain spaces.
+ 
+*
+ 
+* If a short display name is provided, it will be used instead of the first
+ 
+* short name when displaying a short version of the attribute name to the user.
+ 
+*
+ 
+* Note that the attribute's main localized name is the preferred name for an attribute.
+ 
+*
+ 
+* Short names are used where space is at a premium and aliasing attribute names is acceptable.
+ 
+* Aliasing refers to the fact that several attributes can share the same short name.
+ 
+* For example, the short name "from" refers to authors of emails as well as instant messages.
+ 
+*
+ </Description>
+      <Position>kMDItemAudioEncodingApplication.ShortDisplayName</Position>
+      <TranslationSet>
+        <base loc="en">Encoded by</base>
+        <tran loc="ar">تم الترميز بواسطة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemEncodingApplications.ShortDisplayName</Position>
+      <TranslationSet>
+        <base loc="en">Encoded by</base>
+        <tran loc="ar">تم الترميز بواسطة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemDescription</Position>
+      <TranslationSet>
+        <base loc="en">Description</base>
+        <tran loc="ar">الوصف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemMeteringMode.ShortName</Position>
+      <TranslationSet>
+        <base loc="en">metering,meteringmode</base>
+        <tran loc="ar">وضع_قياس،القياس،قياس</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemDateAdded.Description</Position>
+      <TranslationSet>
+        <base loc="en">Date when this item was last moved</base>
+        <tran loc="ar">تاريخ آخر نقل لهذا العنصر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemTimeSignature.ShortDisplayName</Position>
+      <TranslationSet>
+        <base loc="en">Time Signature</base>
+        <tran loc="ar">التوقيع الزمني</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemPageWidth</Position>
+      <TranslationSet>
+        <base loc="en">Page width</base>
+        <tran loc="ar">عرض الصفحة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemContentRating.Description</Position>
+      <TranslationSet>
+        <base loc="en">Whether or not the item contains explicit content</base>
+        <tran loc="ar">ما إذا كان العنصر يحتوي على محتوى فاضح أم لا</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemUserTags.Description</Position>
+      <TranslationSet>
+        <base loc="en">Tags associated with this item</base>
+        <tran loc="ar">العلامات المقترنة بهذا العنصر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemCodecs.Description</Position>
+      <TranslationSet>
+        <base loc="en">Codecs used to encode and decode the media</base>
+        <tran loc="ar">برامج الترميز المستخدمة في ترميز الوسائط وفك ترميزها</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemLayerNames.ShortName</Position>
+      <TranslationSet>
+        <base loc="en">layer</base>
+        <tran loc="ar">طبقة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>mailbox.junk.Description</Position>
+      <TranslationSet>
+        <base loc="en">Junk mailbox identifier</base>
+        <tran loc="ar">معرّف صندوق البريد المزعج</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Unknown</Position>
+      <TranslationSet>
+        <base loc="en">Unknown</base>
+        <tran loc="ar">غير معروف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemContactKeywords</Position>
+      <TranslationSet>
+        <base loc="en">Contact keywords</base>
+        <tran loc="ar">الكلمات المفتاحية لجهة الاتصال</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemInstructions.Description</Position>
+      <TranslationSet>
+        <base loc="en">Other information concerning the item, such as handling instructions</base>
+        <tran loc="ar">معلومات أخرى بشأن العنصر، مثل إرشادات المعالجة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemAudioSampleRate.Description</Position>
+      <TranslationSet>
+        <base loc="en">Sample rate of the file\’s audio data</base>
+        <tran loc="ar">معدل أخذ عينات البيانات الصوتية للملف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemFullyFormattedAddress.ShortName</Position>
+      <TranslationSet>
+        <base loc="en">fullyformattedaddress</base>
+        <tran loc="ar">fullyformattedaddress</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemIsApplicationManaged.Description</Position>
+      <TranslationSet>
+        <base loc="en">The file is owned and managed by an application</base>
+        <tran loc="ar">يمتلك ويدير هذا الملف تطبيق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemPrimaryRecipientPersons</Position>
+      <TranslationSet>
+        <base loc="en">Recipient persons</base>
+        <tran loc="ar">الأشخاص المستلمون</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemStreamable.ShortName</Position>
+      <TranslationSet>
+        <base loc="en">streamable</base>
+        <tran loc="ar">قابل_للبث</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemOriginalFormat</Position>
+      <TranslationSet>
+        <base loc="en">Original Format</base>
+        <tran loc="ar">التنسيق الأصلي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemOriginalFormat.Description</Position>
+      <TranslationSet>
+        <base loc="en">Original Format</base>
+        <tran loc="ar">التنسيق الأصلي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemLastUsedDate</Position>
+      <TranslationSet>
+        <base loc="en">Last opened</base>
+        <tran loc="ar">آخر فتح</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemVideoBitRate.Description</Position>
+      <TranslationSet>
+        <base loc="en">Bit rate of the video in the media</base>
+        <tran loc="ar">معدل البت للفيديو في الوسائط</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemAppleLoopDescriptors</Position>
+      <TranslationSet>
+        <base loc="en">Loop descriptors</base>
+        <tran loc="ar">واصفات التكرار الحلقي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemApplicationCategories</Position>
+      <TranslationSet>
+        <base loc="en">Application Categories</base>
+        <tran loc="ar">فئات التطبيقات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemFileSize.Description</Position>
+      <TranslationSet>
+        <base loc="en">Size of the document in MB</base>
+        <tran loc="ar">حجم المستند بالميغابايت</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemPrimaryRecipientPersons.Description</Position>
+      <TranslationSet>
+        <base loc="en">The content of the To field</base>
+        <tran loc="ar">محتوى حقل "إلى"</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemContactKeywords.ShortName</Position>
+      <TranslationSet>
+        <base loc="en">contact,contactkeyword,keyword</base>
+        <tran loc="ar">جهة الاتصال،الكلمة المفتاحية لجهة الاتصال،الكلمة المفتاحية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemEndDate.ShortName</Position>
+      <TranslationSet>
+        <base loc="en">enddate,date</base>
+        <tran loc="ar">تاريخ انتهاء،تاريخ</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemDescription.ShortName</Position>
+      <TranslationSet>
+        <base loc="en">description,comment</base>
+        <tran loc="ar">وصف،تعليق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemTextSelected</Position>
+      <TranslationSet>
+        <base loc="en">Text selected</base>
+        <tran loc="ar">النص المحدد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemComment.ShortName</Position>
+      <TranslationSet>
+        <base loc="en">comment</base>
+        <tran loc="ar">تعليق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemMusicalGenre.Description</Position>
+      <TranslationSet>
+        <base loc="en">Musical genre of the song in the audio file</base>
+        <tran loc="ar">النوع الموسيقى للأغنية الموجودة في ملف الصوت</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemInstantMessageAddresses</Position>
+      <TranslationSet>
+        <base loc="en">Instant message addresses</base>
+        <tran loc="ar">عناوين الرسائل الفورية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemAudioBitRate.Description</Position>
+      <TranslationSet>
+        <base loc="en">Bit rate of the audio in the media</base>
+        <tran loc="ar">معدل البت للصوت في الوسائط</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemAccountIdentifier.Description</Position>
+      <TranslationSet>
+        <base loc="en">Identifier for account of this item</base>
+        <tran loc="ar">معرّف حساب هذا العنصر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemAcquisitionModel.ShortName</Position>
+      <TranslationSet>
+        <base loc="en">model</base>
+        <tran loc="ar">طراز</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemSubThoroughfare.ShortName</Position>
+      <TranslationSet>
+        <base loc="en">subthoroughfare</base>
+        <tran loc="ar">طريق فرعي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemEmailHTMLContent.Description</Position>
+      <TranslationSet>
+        <base loc="en">HTML content of this item</base>
+        <tran loc="ar">محتوى HTML لهذا العنصر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemHeadline.Description</Position>
+      <TranslationSet>
+        <base loc="en">Publishable summary of the contents of the item</base>
+        <tran loc="ar">ملخص قابل للنشر لمحتوى العنصر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemResolutionHeightDPI.Description</Position>
+      <TranslationSet>
+        <base loc="en">Resolution height of this image in DPI</base>
+        <tran loc="ar">ارتفاع دقة هذه الصورة بالنقطة في البوصة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemAppleLoopsKeyFilterType.Description</Position>
+      <TranslationSet>
+        <base loc="en">Whether the loop uses the major or minor scale, neither scale, or can be used with both</base>
+        <tran loc="ar">سواء كان التكرار الحلقي يستخدم التدرج الأساسي أو الثانوي، أو لم يستخدم أيًا منهما، أو يمكن استخدامه مع كليهما.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemIsLikelyJunk.ShortName</Position>
+      <TranslationSet>
+        <base loc="en">isjunk</base>
+        <tran loc="ar">isjunk</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemSecurityMethod.Description</Position>
+      <TranslationSet>
+        <base loc="en">Encryption method used to make the document secure</base>
+        <tran loc="ar">طريقة التشفير المستخدمة لتأمين المستند</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemArtist.ShortName</Position>
+      <TranslationSet>
+        <base loc="en">by,artist</base>
+        <tran loc="ar">بواسطة،الفنان</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemRole.Description</Position>
+      <TranslationSet>
+        <base loc="en">Role of the creator of the document</base>
+        <tran loc="ar">دور منشئ المستند</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemPostalCode</Position>
+      <TranslationSet>
+        <base loc="en">Postal code</base>
+        <tran loc="ar">الرمز البريدي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemHeadline.ShortName</Position>
+      <TranslationSet>
+        <base loc="en">headline,title</base>
+        <tran loc="ar">عنوان_رئيسي،عنوان</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemMusicalInstrumentName.Description</Position>
+      <TranslationSet>
+        <base loc="en">Name of instrument relative to the instrument category</base>
+        <tran loc="ar">اسم الآلة الموسيقية نسبة إلى فئة الآلة الموسيقية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>MDItemCompletionDate</Position>
+      <TranslationSet>
+        <base loc="en">Completion date</base>
+        <tran loc="ar">تاريخ الاكتمال</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemAlternateNames.Description</Position>
+      <TranslationSet>
+        <base loc="en">Alternate names of the file</base>
+        <tran loc="ar">أسماء الملف البديلة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemRelatedUniqueIdentifier.Description</Position>
+      <TranslationSet>
+        <base loc="en">Reference to a related searchable item</base>
+        <tran loc="ar">مرجع لعنصر ذي صلة قابل للبحث</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemRole.ShortName</Position>
+      <TranslationSet>
+        <base loc="en">role,job</base>
+        <tran loc="ar">دور،وظيفة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Spot</Position>
+      <TranslationSet>
+        <base loc="en">Spot</base>
+        <tran loc="ar">نقطة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemEXIFGPSVersion.Description</Position>
+      <TranslationSet>
+        <base loc="en">The version of GPSInfoIFD in EXIF used to generate the metadata</base>
+        <tran loc="ar">إصدار GPSInfoIFD في EXIF المستخدم في إنشاء بيانات التعريف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemMaxAperture.Description</Position>
+      <TranslationSet>
+        <base loc="en">Smallest F number of the lens in APEX value units, usually in the range of 00.00 to 99.99</base>
+        <tran loc="ar">أصغر رقم بؤري للعدسة بوحدات قيمة APEX، عادةً ما يكون في نطاق يتراوح من 00.00 إلى 99.99</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemDirector</Position>
+      <TranslationSet>
+        <base loc="en">Director</base>
+        <tran loc="ar">المخرج</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemDirector.Description</Position>
+      <TranslationSet>
+        <base loc="en">Director</base>
+        <tran loc="ar">المخرج</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemMeteringMode.Description</Position>
+      <TranslationSet>
+        <base loc="en">The metering mode (Unknown, Average, CenterWeightedAverage, Spot, MultiSpot, Pattern, Partial)</base>
+        <tran loc="ar">وضع القياس (غير معروف، متوسط،، وسط/متوسط مرجح، نقطة، متعدد النقاط، نمط، جزئي)</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemAppleLoopsLoopMode</Position>
+      <TranslationSet>
+        <base loc="en">Loop file type</base>
+        <tran loc="ar">نوع الملف المتكرر حلقيًا</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemStarRating.Description</Position>
+      <TranslationSet>
+        <base loc="en">User Rating</base>
+        <tran loc="ar">تقييم المستخدم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemFocalLength.ShortName</Position>
+      <TranslationSet>
+        <base loc="en">focallength</base>
+        <tran loc="ar">بعد_بؤري</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemIsLocal.Description</Position>
+      <TranslationSet>
+        <base loc="en">Whether or not the item is on the user’s device</base>
+        <tran loc="ar">ما إذا كان العنصر على جهاز المستخدم أم لا</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemAccountType</Position>
+      <TranslationSet>
+        <base loc="en">Account type</base>
+        <tran loc="ar">نوع الحساب</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemDeliveryType</Position>
+      <TranslationSet>
+        <base loc="en">Delivery type</base>
+        <tran loc="ar">نوع التسليم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemRecordingYear</Position>
+      <TranslationSet>
+        <base loc="en">Year recorded</base>
+        <tran loc="ar">سنة التسجيل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemGenre</Position>
+      <TranslationSet>
+        <base loc="en">Genre</base>
+        <tran loc="ar">النوع</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemGenre.Description</Position>
+      <TranslationSet>
+        <base loc="en">Genre</base>
+        <tran loc="ar">النوع</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemUserTags</Position>
+      <TranslationSet>
+        <base loc="en">Tags</base>
+        <tran loc="ar">علامات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemRecordingDate</Position>
+      <TranslationSet>
+        <base loc="en">Recording date</base>
+        <tran loc="ar">تاريخ التسجيل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemLogicalSize.Description</Position>
+      <TranslationSet>
+        <base loc="en">Logical size of the item in bytes</base>
+        <tran loc="ar">الحجم المنطقي للعنصر بالبايت</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemThoroughfare</Position>
+      <TranslationSet>
+        <base loc="en">Thoroughfare</base>
+        <tran loc="ar">طريق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemInstantMessageAddresses.ShortName</Position>
+      <TranslationSet>
+        <base loc="en">chat,imname</base>
+        <tran loc="ar">دردشة،اسم_رسائل_فورية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemIsLikelyJunk</Position>
+      <TranslationSet>
+        <base loc="en">Is Junk</base>
+        <tran loc="ar">بريد مزعج</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemPixelWidth.Description</Position>
+      <TranslationSet>
+        <base loc="en">Width of the document in pixels</base>
+        <tran loc="ar">عرض المستند بالبكسل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemIsGeneralMIDISequence.Description</Position>
+      <TranslationSet>
+        <base loc="en">Whether the MIDI sequence contained in the file is setup for use with a General MIDI device</base>
+        <tran loc="ar">ما إذا كان تسلسل MIDI الموجود بالملف قد تم إعداده للاستخدام مع جهاز MIDI عام أم لا</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemParticipants</Position>
+      <TranslationSet>
+        <base loc="en">Participants</base>
+        <tran loc="ar">المشاركون</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemAudioSampleRate.ShortName</Position>
+      <TranslationSet>
+        <base loc="en">audiosamplerate,samplerate</base>
+        <tran loc="ar">معدل عينة الصوت،معدل عينة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemAcquisitionModel.Description</Position>
+      <TranslationSet>
+        <base loc="en">Model of the device used to acquire this document</base>
+        <tran loc="ar">طراز الجهاز المستخدم للحصول على هذا المستند</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemPixelCount.ShortName</Position>
+      <TranslationSet>
+        <base loc="en">pixelcount</base>
+        <tran loc="ar">pixelcount</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemExposureMode.Description</Position>
+      <TranslationSet>
+        <base loc="en">Mode used for the exposure</base>
+        <tran loc="ar">الوضع المستخدم في التعرض للضوء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemTimeSignature.ShortName</Position>
+      <TranslationSet>
+        <base loc="en">timesignature</base>
+        <tran loc="ar">توقيع_زمني</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemLanguages.Description</Position>
+      <TranslationSet>
+        <base loc="en">Languages of the content of the document</base>
+        <tran loc="ar">لغات محتوى المستند</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemEmailHeadersDictionary.Description</Position>
+      <TranslationSet>
+        <base loc="en">Headers of the message</base>
+        <tran loc="ar">عناوين الرسالة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemTotalBitRate.ShortName</Position>
+      <TranslationSet>
+        <base loc="en">totalbitrate,bitrate</base>
+        <tran loc="ar">إجمالي_معدل_بت،معدل_بت</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemHeadline</Position>
+      <TranslationSet>
+        <base loc="en">Headline</base>
+        <tran loc="ar">العنوان الرئيسي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemIsGeneralMIDISequence.ShortName</Position>
+      <TranslationSet>
+        <base loc="en">ismidi</base>
+        <tran loc="ar">ismidi</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemProfileName.ShortName</Position>
+      <TranslationSet>
+        <base loc="en">profile</base>
+        <tran loc="ar">ملف_تعريف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemAudioSampleRate.ShortDisplayName</Position>
+      <TranslationSet>
+        <base loc="en">Sample Rate</base>
+        <tran loc="ar">معدل أخذ العينات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemISOSpeed.ShortName</Position>
+      <TranslationSet>
+        <base loc="en">iso</base>
+        <tran loc="ar">iso</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemAuthorEmailAddresses.Description</Position>
+      <TranslationSet>
+        <base loc="en">Email addresses for authors of this item</base>
+        <tran loc="ar">عناوين البريد الإلكتروني لمؤلفي هذا العنصر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemWhiteBalance.Description</Position>
+      <TranslationSet>
+        <base loc="en">White balance setting of the camera when the picture was taken</base>
+        <tran loc="ar">إعداد توازن اللون الأبيض في الكاميرا عند التقاط الصورة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemRecipientEmailAddresses.ShortName</Position>
+      <TranslationSet>
+        <base loc="en">to,email,mail</base>
+        <tran loc="ar">إلى،بريد_إلكتروني،بريد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemLatitude.ShortName</Position>
+      <TranslationSet>
+        <base loc="en">latitude</base>
+        <tran loc="ar">خط_العرض</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemFileSize.ShortName</Position>
+      <TranslationSet>
+        <base loc="en">size</base>
+        <tran loc="ar">الحجم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemAudioEncodingApplication.ShortName</Position>
+      <TranslationSet>
+        <base loc="en">encoder,encodedby,audioencodingapplication</base>
+        <tran loc="ar">أداة ترميز،أداة الترميز،أدوات الترميز،أدوات الترميز،تم الترميز بواسطة،تطبيق ترميز الصوت</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemTempo.ShortName</Position>
+      <TranslationSet>
+        <base loc="en">tempo</base>
+        <tran loc="ar">درجة_سرعة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemISOSpeed.Description</Position>
+      <TranslationSet>
+        <base loc="en">ISO speed of the camera when the picture was taken</base>
+        <tran loc="ar">سرعة ISO للكاميرا عند التقاط الصورة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemResolutionWidthDPI</Position>
+      <TranslationSet>
+        <base loc="en">Resolution width</base>
+        <tran loc="ar">عرض الدقة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemAuthorAddresses.ShortName</Position>
+      <TranslationSet>
+        <base loc="en">from</base>
+        <tran loc="ar">من</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemOriginalSource</Position>
+      <TranslationSet>
+        <base loc="en">Original Source</base>
+        <tran loc="ar">المصدر الأصلي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemOriginalSource.Description</Position>
+      <TranslationSet>
+        <base loc="en">Original Source</base>
+        <tran loc="ar">المصدر الأصلي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemTitle.Description</Position>
+      <TranslationSet>
+        <base loc="en">Title of this item</base>
+        <tran loc="ar">عنوان هذا العنصر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemComposer</Position>
+      <TranslationSet>
+        <base loc="en">Composer</base>
+        <tran loc="ar">الملحن</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemFlashOnOff.Description</Position>
+      <TranslationSet>
+        <base loc="en">Whether the picture was taken using a flash</base>
+        <tran loc="ar">ما إذا كان تم التقاط الصورة باستخدام وميض أم لا</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemPlayCount.ShortName</Position>
+      <TranslationSet>
+        <base loc="en">playcount</base>
+        <tran loc="ar">عدد مرات التشغيل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemRecordingDate.Description</Position>
+      <TranslationSet>
+        <base loc="en">Date the song was recorded</base>
+        <tran loc="ar">تاريخ تسجيل الأغنية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemContributors</Position>
+      <TranslationSet>
+        <base loc="en">Contributors</base>
+        <tran loc="ar">المساهمون</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemAppStoreCategory.Description</Position>
+      <TranslationSet>
+        <base loc="en">App Store Category item is a member of</base>
+        <tran loc="ar">عنصر فئة App Store عضو في</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemProfileName</Position>
+      <TranslationSet>
+        <base loc="en">Color profile</base>
+        <tran loc="ar">ملف تعريف اللون</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemLongitude</Position>
+      <TranslationSet>
+        <base loc="en">Longitude</base>
+        <tran loc="ar">خط الطول</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemAudioTrackNumber.Description</Position>
+      <TranslationSet>
+        <base loc="en">Track number of the song that is part of an album</base>
+        <tran loc="ar">رقم المسار من الأغنية التي تشكل جزءًا من أحد الألبومات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemPlayCount.Description</Position>
+      <TranslationSet>
+        <base loc="en">Play count</base>
+        <tran loc="ar">عدد مرات التشغيل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemAudioTrackNumber.ShortName</Position>
+      <TranslationSet>
+        <base loc="en">tracknumber</base>
+        <tran loc="ar">رقم_مسار</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemMusicalInstrumentCategory.Description</Position>
+      <TranslationSet>
+        <base loc="en">Instrument category to which the file belongs</base>
+        <tran loc="ar">فئة الآلة الموسيقية التي ينتمي إليها الملف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemAudiences.ShortName</Position>
+      <TranslationSet>
+        <base loc="en">to,audience</base>
+        <tran loc="ar">إلى،الجمهور</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemTextContent</Position>
+      <TranslationSet>
+        <base loc="en">Text content</base>
+        <tran loc="ar">المحتوى النصي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemRecipients</Position>
+      <TranslationSet>
+        <base loc="en">Recipients</base>
+        <tran loc="ar">المستلمون</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemDescription.Description</Position>
+      <TranslationSet>
+        <base loc="en">Description of the content of the document</base>
+        <tran loc="ar">وصف محتوى المستند</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>mailbox.drafts.Description</Position>
+      <TranslationSet>
+        <base loc="en">Draft mailbox identifier</base>
+        <tran loc="ar">معرّف صندوق بريد المسودة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemProject.ShortName</Position>
+      <TranslationSet>
+        <base loc="en">project</base>
+        <tran loc="ar">مشروع</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Priority</Position>
+      <TranslationSet>
+        <base loc="en">Priority</base>
+        <tran loc="ar">الأولوية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemPhoneNumbers</Position>
+      <TranslationSet>
+        <base loc="en">Phone number</base>
+        <tran loc="ar">رقم الهاتف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemPageWidth.ShortName</Position>
+      <TranslationSet>
+        <base loc="en">pagewidth,width</base>
+        <tran loc="ar">عرض_الصفحة،العرض</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemRatingDescription</Position>
+      <TranslationSet>
+        <base loc="en">Rating Description</base>
+        <tran loc="ar">وصف التقييم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemEmailHTMLContent</Position>
+      <TranslationSet>
+        <base loc="en">HTML content</base>
+        <tran loc="ar">محتوى HTML</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemEditors.Description</Position>
+      <TranslationSet>
+        <base loc="en">Editors of this item</base>
+        <tran loc="ar">محررو هذا العنصر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemAudioSampleRate</Position>
+      <TranslationSet>
+        <base loc="en">Sample rate</base>
+        <tran loc="ar">معدل أخذ العينات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemComposer.ShortName</Position>
+      <TranslationSet>
+        <base loc="en">by,composer,author</base>
+        <tran loc="ar">بواسطة،ملحن،مؤلف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemDateAdded</Position>
+      <TranslationSet>
+        <base loc="en">Date added</base>
+        <tran loc="ar">تاريخ الإضافة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemRecordingYear.ShortName</Position>
+      <TranslationSet>
+        <base loc="en">yearrecorded,year</base>
+        <tran loc="ar">سنة_تسجيل،سنة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemAppleLoopsKeyFilterType</Position>
+      <TranslationSet>
+        <base loc="en">Loop scale type</base>
+        <tran loc="ar">نوع تدرج التكرار الحلقي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemFileSize</Position>
+      <TranslationSet>
+        <base loc="en">Size</base>
+        <tran loc="ar">الحجم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemExecutableArchitectures.Description</Position>
+      <TranslationSet>
+        <base loc="en">Architectures the item requires to execute</base>
+        <tran loc="ar">الهندسة التي تلزم العنصر للتنفيذ</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemInstructions</Position>
+      <TranslationSet>
+        <base loc="en">Instructions</base>
+        <tran loc="ar">الإرشادات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemPixelCount</Position>
+      <TranslationSet>
+        <base loc="en">Pixel count</base>
+        <tran loc="ar">عدد وحدات البكسل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemSubject</Position>
+      <TranslationSet>
+        <base loc="en">Subject</base>
+        <tran loc="ar">الموضوع</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemFinderComment</Position>
+      <TranslationSet>
+        <base loc="en">Spotlight comment</base>
+        <tran loc="ar">تعليق Spotlight</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kMDItemFullyFormattedAddress</Position>
+      <TranslationSet>
+        <base loc="en">Fully Formatted Address</base>
+        <tran loc="ar">العنوان المنسق بالكامل</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+</Proj>

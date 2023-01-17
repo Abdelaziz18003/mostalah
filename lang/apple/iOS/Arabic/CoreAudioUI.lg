@@ -1,0 +1,456 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Proj>
+  <ProjName>CoreAudioUI</ProjName>
+  <File>
+    <Filepath>CoreAudioUI/System/Library/Frameworks/CoreAudioKit.framework/en.lproj/BTMIDI.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>stat</Position>
+      <TranslationSet>
+        <base loc="en">Status</base>
+        <tran loc="ar">الحالة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>name</Position>
+      <TranslationSet>
+        <base loc="en">Name</base>
+        <tran loc="ar">الاسم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Serv Reg as %@</Position>
+      <TranslationSet>
+        <base loc="en">Now discoverable as %@</base>
+        <tran loc="ar">يمكن اكتشافها الآن كـ %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>stopping</Position>
+      <TranslationSet>
+        <base loc="en">Stopping Service…</base>
+        <tran loc="ar">جاري إيقاف الخدمة…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Ext Devs</Position>
+      <TranslationSet>
+        <base loc="en">Bluetooth MIDI Devices</base>
+        <tran loc="ar">أجهزة Bluetooth MIDI</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Central Table View Titles </Description>
+      <Position>Input</Position>
+      <TranslationSet>
+        <base loc="en">Input</base>
+        <tran loc="ar">إدخال</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Searching</Position>
+      <TranslationSet>
+        <base loc="en">Searching for Bluetooth LE MIDI Devices…</base>
+        <tran loc="ar">جاري البحث عن أجهزة Bluetooth LE MIDI…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Offline</Position>
+      <TranslationSet>
+        <base loc="en">Offline</base>
+        <tran loc="ar">غير متصل بالإنترنت</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Advertise as %@</Position>
+      <TranslationSet>
+        <base loc="en">Select Advertise to be discoverable as %@</base>
+        <tran loc="ar">قم بتحديد الإعلان لاكتشافه كـ %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 
+  BTMIDI.strings
+  CoreAudioUI-Aspen
+
+  Created by Michael Hopkins on 2/13/14.
+
+
+ Local peripheral strings 
+ Ready </Description>
+      <Position>rdy</Position>
+      <TranslationSet>
+        <base loc="en">Ready</base>
+        <tran loc="ar">جاهز</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Central Detail View Controller Title </Description>
+      <Position>Forget</Position>
+      <TranslationSet>
+        <base loc="en">Forget</base>
+        <tran loc="ar">إلغاء الحفظ</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>stopErr</Position>
+      <TranslationSet>
+        <base loc="en">There has been an error stopping the service.</base>
+        <tran loc="ar">هناك خطأ في إيقاف تشغيل الخدمة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/</Position>
+      <TranslationSet>
+        <base loc="en">/</base>
+        <tran loc="ar">/</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>startErr</Position>
+      <TranslationSet>
+        <base loc="en">There has been an error starting the service.</base>
+        <tran loc="ar">هناك خطأ في بدء تشغيل الخدمة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Advertising Service </Description>
+      <Position>Advertise</Position>
+      <TranslationSet>
+        <base loc="en">Advertise MIDI Service</base>
+        <tran loc="ar">الإعلان عن خدمة MIDI</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>My Service</Position>
+      <TranslationSet>
+        <base loc="en">Local Bluetooth</base>
+        <tran loc="ar">الـ Bluetooth المحلي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>dis...</Position>
+      <TranslationSet>
+        <base loc="en">Disconnecting</base>
+        <tran loc="ar">قطع الاتصال</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Local peripheral table view titles </Description>
+      <Position>Settings</Position>
+      <TranslationSet>
+        <base loc="en">Peripheral Settings</base>
+        <tran loc="ar">إعدادات الأجهزة الطرفية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Connected</Position>
+      <TranslationSet>
+        <base loc="en">Connected</base>
+        <tran loc="ar">متصل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>starting</Position>
+      <TranslationSet>
+        <base loc="en">Registering Service…</base>
+        <tran loc="ar">يتم الآن تسجيل الخدمة…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Local Peripheral Title </Description>
+      <Position>Local MIDI Service</Position>
+      <TranslationSet>
+        <base loc="en">Local MIDI Service</base>
+        <tran loc="ar">خدمة MIDI محلية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Connected to %@</Position>
+      <TranslationSet>
+        <base loc="en">Connected to %@. Advertising disabled.</base>
+        <tran loc="ar">تم الاتصال بـ %@. تم تعطيل الإعلان.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Central Table View Strings </Description>
+      <Position>Not Connected</Position>
+      <TranslationSet>
+        <base loc="en">Not Connected</base>
+        <tran loc="ar">غير متصل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Serv Name</Position>
+      <TranslationSet>
+        <base loc="en">Service Name</base>
+        <tran loc="ar">اسم الخدمة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>con...</Position>
+      <TranslationSet>
+        <base loc="en">Connecting…</base>
+        <tran loc="ar">يتم الآن الاتصال…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Output</Position>
+      <TranslationSet>
+        <base loc="en">Output</base>
+        <tran loc="ar">الإخراج</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Disconnecting %@</Position>
+      <TranslationSet>
+        <base loc="en">Disconnecting from %@…</base>
+        <tran loc="ar">جاري قطع الاتصال من %@…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>disconnectErr</Position>
+      <TranslationSet>
+        <base loc="en">There has been an error disconnecting.</base>
+        <tran loc="ar">هناك خطأ في إيقاف الاتصال.</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>CoreAudioUI/System/Library/Frameworks/CoreAudioKit.framework/en.lproj/AMS.stringsdict</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>/%d device(s) found:dict/devices:dict/one:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%d device found</base>
+        <tran loc="ar">تم العثور على جهاز واحد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/%d device(s) found:dict/NSStringLocalizedFormatKey:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%#@devices@</base>
+        <tran loc="ar">%#@devices@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/%d device(s) found:dict/devices:dict/few:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%d devices found</base>
+        <tran loc="ar">تم العثور على %d أجهزة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/%d device(s) found:dict/devices:dict/many:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%d devices found</base>
+        <tran loc="ar">تم العثور على %d جهازًا</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/%d device(s) found:dict/devices:dict/other:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%d devices found</base>
+        <tran loc="ar">تم العثور على %d من الأجهزة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/%d device(s) found:dict/devices:dict/two:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%d devices found</base>
+        <tran loc="ar">تم العثور على جهازين</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/%d device(s) found:dict/devices:dict/zero:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">No devices found</base>
+        <tran loc="ar">لم يتم العثور على أي أجهزة</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>CoreAudioUI/System/Library/Frameworks/CoreAudioKit.framework/en.lproj/AUParameters.strings</Filepath>
+    <TextItem>
+      <Description> Sample Frames </Description>
+      <Position>Samps</Position>
+      <TranslationSet>
+        <base loc="en">Samps</base>
+        <tran loc="ar">عينات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Beats Per Minute </Description>
+      <Position>BPM</Position>
+      <TranslationSet>
+        <base loc="en">BPM</base>
+        <tran loc="ar">نبضة/د</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Octaves </Description>
+      <Position>8ve</Position>
+      <TranslationSet>
+        <base loc="en">8ve</base>
+        <tran loc="ar">‏8 أوكتاف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Ratio </Description>
+      <Position>Ratio</Position>
+      <TranslationSet>
+        <base loc="en">Ratio</base>
+        <tran loc="ar">المعدل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Degrees </Description>
+      <Position>Degr.</Position>
+      <TranslationSet>
+        <base loc="en">°</base>
+        <tran loc="ar">°</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Cents </Description>
+      <Position>Cents</Position>
+      <TranslationSet>
+        <base loc="en">Cents</base>
+        <tran loc="ar">سنت</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Meters </Description>
+      <Position>Mtrs</Position>
+      <TranslationSet>
+        <base loc="en">Mtrs</base>
+        <tran loc="ar">متر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 
+  AUParameters.strings
+  CoreAudioUI
+
+  Created by Michael Hopkins on 5/4/15.
+
+
+ AudioUnitParameterUnit abbreviation strings             
+ Abbreviations keyed from CAAUParameter                  
+ Boolean </Description>
+      <Position>T/F</Position>
+      <TranslationSet>
+        <base loc="en">T/F</base>
+        <tran loc="ar">T/F</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Pan </Description>
+      <Position>L/R</Position>
+      <TranslationSet>
+        <base loc="en">L/R</base>
+        <tran loc="ar">يسار/يمين</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Hertz </Description>
+      <Position>Hz</Position>
+      <TranslationSet>
+        <base loc="en">Hz</base>
+        <tran loc="ar">هرتز</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Linear Gain </Description>
+      <Position>Gain</Position>
+      <TranslationSet>
+        <base loc="en">Gain</base>
+        <tran loc="ar">الزيادة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> MIDI Note Number </Description>
+      <Position>MIDI</Position>
+      <TranslationSet>
+        <base loc="en">MIDI</base>
+        <tran loc="ar">MIDI</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Beats </Description>
+      <Position>Beats</Position>
+      <TranslationSet>
+        <base loc="en">Beats</base>
+        <tran loc="ar">نبضة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Percent 
+ "%" = "%";	// this same string is already localized above as "Percent symbol for CPU Load label" 
+ Seconds </Description>
+      <Position>Secs</Position>
+      <TranslationSet>
+        <base loc="en">Secs</base>
+        <tran loc="ar">ثوانٍ</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Milliseconds </Description>
+      <Position>msecs</Position>
+      <TranslationSet>
+        <base loc="en">msecs</base>
+        <tran loc="ar">مللي ثانية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Decibels </Description>
+      <Position>dB</Position>
+      <TranslationSet>
+        <base loc="en">dB</base>
+        <tran loc="ar">ديسيبل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Relative Semitones </Description>
+      <Position>S-T</Position>
+      <TranslationSet>
+        <base loc="en">S-T</base>
+        <tran loc="ar">S-T</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Percent symbol </Description>
+      <Position>%</Position>
+      <TranslationSet>
+        <base loc="en">%</base>
+        <tran loc="ar">٪</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+</Proj>

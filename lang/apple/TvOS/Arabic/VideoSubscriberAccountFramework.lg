@@ -1,0 +1,1453 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Proj>
+  <ProjName>VideoSubscriberAccountFramework</ProjName>
+  <File>
+    <Filepath>VideoSubscriberAccountFramework/System/Library/Frameworks/VideoSubscriberAccount.framework/en.lproj/Localizable.strings</Filepath>
+    <TextItem>
+      <Description> Header of privacy list of apps in Settings app on iOS. 
+ Header of privacy list of apps in Settings app on tvOS. </Description>
+      <Position>ACCOUNT_ACCESS_GROUP_NAME</Position>
+      <TranslationSet>
+        <base loc="en">Allow TV Provider to Access</base>
+        <tran loc="ar">السماح بوصول موفر خدمة التلفاز</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Placeholder for the identifier field in the provider view for iOS developer settings. </Description>
+      <Position>DEVELOPER_PROVIDER_IDENTIFIER_PLACEHOLDER</Position>
+      <TranslationSet>
+        <base loc="en">com.example.idp</base>
+        <tran loc="ar">‏com.example.idp</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Title of button in error alert to retry the operation. 
+ Title of button in error alert to retry the original operation. </Description>
+      <Position>ERROR_ACTION_RETRY_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Retry</base>
+        <tran loc="ar">حاول مجددًا</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Message shown in sole provider setup flow on tvOS. </Description>
+      <Position>SETUP_MESSAGE_SOLE</Position>
+      <TranslationSet>
+        <base loc="en">Sign in once to access all supported apps included in your %@ subscription. You can change which apps can access your subscription in Settings.</base>
+        <tran loc="ar">سجِّل الدخول مرة واحدة حتى تتمكن من الوصول إلى جميع التطبيقات المشمولة في اشتراك %@. يمكنك تغيير التطبيقات التي يمكنها الوصول إلى اشتراكك في الإعدادات.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Format for title of the dialog shown when selecting a provider is not supported on by the current app, but is supported in other apps. The first argument is the name of the app.  The second argument is the name of the TV provider. </Description>
+      <Position>UNSUPPORTED_APP_TITLE_FORMAT</Position>
+      <TranslationSet>
+        <base loc="en">%@ doesn’t support single sign-on with %@.</base>
+        <tran loc="ar">‏%@ لا يدعم تسجيل الدخول الموحد مع %@.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Question in dialog to confirm deleting a developer-provided identity provider from an unknown device type. </Description>
+      <Position>DEVELOPER_DELETION_CONFIRMATION_QUESTION_GENERIC</Position>
+      <TranslationSet>
+        <base loc="en">Do you want to delete this TV provider from your device?</base>
+        <tran loc="ar">هل ترغب في حذف موفر خدمة التلفاز هذا من جهازك؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Format of title shown when opting in to playback activity reporting. The argument is the name of the TV provider. </Description>
+      <Position>PLAYBACK_ACTIVITY_REPORTING_CONSENT_TITLE_FORMAT</Position>
+      <TranslationSet>
+        <base loc="en">Now get the most out of the TV app with your %@ subscription and these apps.</base>
+        <tran loc="ar">استفد إلى أقصى حد من تطبيق TV مع اشتراك %@ وهذه التطبيقات.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Title of button used to confirm deletion of developer-provided identity provider 
+ Title of the delete button in the developer provider view in developer settings 
+ Title of the remove provider button in the provider view of the iOS developer settings. </Description>
+      <Position>DEVELOPER_DELETION_ACTION_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Remove TV Provider</base>
+        <tran loc="ar">إزالة موفر خدمة التلفاز</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Title of provider picker shown on tvOS. </Description>
+      <Position>IDENTITY_PROVIDER_PICKER_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Select TV Provider</base>
+        <tran loc="ar">تحديد موفر خدمة التلفاز</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Description displayed on the welcome screen of the SSO TV App plugin </Description>
+      <Position>TV_APP_PLUGIN_WELCOME_DESCRIPTION</Position>
+      <TranslationSet>
+        <base loc="en">Sign in once to access all apps supported by your cable or TV subscription at no additional charge. You can change which apps can access your subscription in Settings.</base>
+        <tran loc="ar">سجِّل الدخول مرة واحدة حتى تتمكن من الوصول إلى جميع التطبيقات التي يدعمها اشتراك التلفاز بدون رسوم إضافية. يمكنك تغيير التطبيقات التي يمكنها الوصول إلى اشتراكك في الإعدادات.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Default title of link used in footer of credential entry page. </Description>
+      <Position>CREDENTIAL_ENTRY_FOOTER_LINK</Position>
+      <TranslationSet>
+        <base loc="en">Forgot account or password?</base>
+        <tran loc="ar">هل نسيت اسم الحساب أو كلمة سر؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Format for title of the dialog shown when selecting a provider is not supported on this release, but may be supported in a newer release on some platform. The argument is the name of the TV provider. </Description>
+      <Position>UNSUPPORTED_TEMPLATE_TITLE_FORMAT</Position>
+      <TranslationSet>
+        <base loc="en">%@ requires single sign-on functionality that is not supported in this version.</base>
+        <tran loc="ar">‏%@ يتطلب وظيفة تسجيل الدخول الموحد، وهي غير مدعومة في هذا الإصدار.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Title of Other TV Provider row on iOS. </Description>
+      <Position>IDENTITY_PROVIDER_PICKER_OTHER_PROVIDERS_ROW_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Other TV Providers</base>
+        <tran loc="ar">موفرو خدمة التلفاز الآخرون</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Format for title of app installation offer.  The argument is the name of the provider. </Description>
+      <Position>INSTALL_APP_TITLE_FORMAT</Position>
+      <TranslationSet>
+        <base loc="en">Now, get the %@ app.</base>
+        <tran loc="ar">الآن، احصل على تطبيق %@.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Title of the button to configure Set Top Box Mode in developer settings. </Description>
+      <Position>DEVELOPER_SET_TOP_BOX_MODE_OPTION_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Set Top Box Mode</base>
+        <tran loc="ar">نمط Set Top Box</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Title of account deletion confirmation dialog on tvOS. 
+ Title of button in error alert to remove the TV provider account 
+ Title of button to delete account in response to edit account error alert on iOS. 
+ Title of destructive button used to confirm account deletion. 
+ Title of the Sign Out button when signed in to a participating provider. </Description>
+      <Position>SIGN_OUT_BUTTON_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Sign Out</base>
+        <tran loc="ar">تسجيل الخروج</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Placeholder for the name field in the provider view for iOS developer settings. </Description>
+      <Position>DEVELOPER_PROVIDER_NAME_PLACEHOLDER</Position>
+      <TranslationSet>
+        <base loc="en">Display Name</base>
+        <tran loc="ar">اسم شاشة العرض</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Title of the user token option in the Set Top Box developer settings. </Description>
+      <Position>DEVELOPER_PROVIDER_STB_USER_TOKEN_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">User Token</base>
+        <tran loc="ar">رمز المستخدم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Title of the Display Name input item in add provider developer settings. 
+ Title of the name field in the provider view for iOS developer settings. </Description>
+      <Position>DEVELOPER_PROVIDER_DISPLAY_NAME_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Name</base>
+        <tran loc="ar">الاسم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Format for privacy notice shown in iOS credential entry.  The argument is the name of the third-party app. 
+ Format of footer shown in auto-authentication UI in third-party apps on tvOS.  The argument is the name of the third-party app. 
+ Format of footer shown in credential entry UI in third-party apps on tvOS.  The argument is the name of the third-party app. 
+ Format of footer shown in onscreen code authentication UI in third-party apps on tvOS.  The argument is the name of the third-party app. </Description>
+      <Position>APP_PRIVACY_NOTICE_FORMAT</Position>
+      <TranslationSet>
+        <base loc="en">%@ will be able to access your TV subscription information.</base>
+        <tran loc="ar">سيتمكن %@ من الوصول إلى معلومات الاشتراك الخاصة بالتلفاز.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Title of Add TV Provider row in iOS developer settings. 
+ Title of row shown in tvOS developer settings for adding a new identity provider 
+ Title of the add provider button in the iOS developer settings. 
+ Title of the provider view for new providers in the iOS developer settings. </Description>
+      <Position>IDENTITY_PROVIDER_PICKER_OTHER_PROVIDERS_ROW_TITLE_DEVELOPER</Position>
+      <TranslationSet>
+        <base loc="en">Add TV Provider</base>
+        <tran loc="ar">إضافة موفر خدمة تلفاز</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Title of button to choose a supported provider instead. </Description>
+      <Position>CHOOSE_ANOTHER_PROVIDER_BUTTON_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Choose Another Provider</base>
+        <tran loc="ar">اختر موفر خدمة آخر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Title of the button to enable set top box mode in developer settings. </Description>
+      <Position>DEVELOPER_SET_TOP_BOX_MODE_ENABLE</Position>
+      <TranslationSet>
+        <base loc="en">Enable Set Top Box Mode</base>
+        <tran loc="ar">تمكين نمط Set Top Box</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Title shown in row in Settings app on tvOS for an app that can be installed. </Description>
+      <Position>ACCOUNT_ACCESS_ROW_VALUE_ACQUIRABLE</Position>
+      <TranslationSet>
+        <base loc="en">Install</base>
+        <tran loc="ar">تثبيت</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Error message shown to the user when the app sends a request that is not allowed. </Description>
+      <Position>ERROR_DESCRIPTION_REJECTED</Position>
+      <TranslationSet>
+        <base loc="en">This application is not authorized for this request type.</base>
+        <tran loc="ar">هذا التطبيق غير مخول لهذا النوع من الطلبات.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Format for title of the dialog shown when selecting a provider is not supported on the current platform, but is supported on another platform. The argument is the name of the TV provider. </Description>
+      <Position>UNSUPPORTED_PLATFORM_TITLE_FORMAT</Position>
+      <TranslationSet>
+        <base loc="en">%@ requires single sign-on functionality that is not supported on this kind of device.</base>
+        <tran loc="ar">‏%@ يتطلب وظيفة تسجيل الدخول الموحد، وهي غير مدعومة في هذا النوع من الأجهزة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Question in dialog to confirm deleting a developer-provided identity provider from an iPod. </Description>
+      <Position>DEVELOPER_DELETION_CONFIRMATION_QUESTION_POD</Position>
+      <TranslationSet>
+        <base loc="en">Do you want to delete this TV provider from your iPod?</base>
+        <tran loc="ar">هل ترغب في حذف موفر خدمة التلفاز هذا من الـ iPod الخاص بك؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Instructions for entering onscreen code that precede the web page URL when signing in via the Settings app on tvOS.  The first argument is the name of the app.  The second argument is the name of the TV provider. </Description>
+      <Position>ONSCREEN_CODE_PREAMBLE_FORMAT_FOR_APPS</Position>
+      <TranslationSet>
+        <base loc="en">To get access to TV shows and movies in %@ and other apps that are supported as part of your %@ subscription, go to</base>
+        <tran loc="ar">للوصول إلى برامج التلفاز والأفلام في %@ وغيره من التطبيقات المدعومة كجزء من اشتراك %@ الخاص بك، انتقل إلى</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Title of button to sign in during generic setup on tvOS. </Description>
+      <Position>SETUP_BEGIN_BUTTON_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Sign In</base>
+        <tran loc="ar">تسجيل الدخول</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Title of Sign In row in tvOS Settings app. 
+ Title of button to begin automatic authentication process. 
+ Title of button to begin validating the user's credentials. 
+ Title of the sign in button in the welcome screen of the TV app plugin </Description>
+      <Position>SIGN_IN_BUTTON_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Sign In</base>
+        <tran loc="ar">تسجيل الدخول</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Title of the account deletion confirmation dialog on iOS. </Description>
+      <Position>SIGN_OUT_CONFIRMATION_TITLE_FORMAT</Position>
+      <TranslationSet>
+        <base loc="en">Sign out of %@?</base>
+        <tran loc="ar">‫تسجيل الخروج من ‫%@‬؟‬</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Title of the done button for the developer TV provider add/edit view in developer settings. 
+ Title of the done button on the two factor entry view controller. </Description>
+      <Position>DONE_BUTTON_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Done</base>
+        <tran loc="ar">تم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Format string shown when confirming account deletion on an Apple TV. </Description>
+      <Position>DELETE_ACCOUNT_CONFIRMATION_MESSAGE_FORMAT_TV</Position>
+      <TranslationSet>
+        <base loc="en">Do you want to sign out of your %@ account on this Apple TV?</base>
+        <tran loc="ar">هل ترغب في تسجيل الخروج من حساب %@ على هذا الـ Apple TV؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Description used for the User Token item in the Set Top Box developer settings. </Description>
+      <Position>DEVELOPER_STB_USER_TOKEN_DESCRIPTION</Position>
+      <TranslationSet>
+        <base loc="en">This is used to simulate the value that would be delivered to the device from the Set Top Box APIs to automatically identify the user in the authentication context.</base>
+        <tran loc="ar">يستخدم هذا لمحاكاة القيمة التي سيتم تسليمها للجهاز من واجهات Set Top Box للتعرف تلقائيًا على المستخدم في سياق المصادقة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Description of the Identifier input item in add provider developer settings </Description>
+      <Position>DEVELOPER_PROVIDER_IDENTIFIER_DESCRIPTION</Position>
+      <TranslationSet>
+        <base loc="en">The value used to uniquely identify the TV Provider to apps integrated with Single Sign-On.</base>
+        <tran loc="ar">القيمة المستخدمة لتحديد موفر خدمة التلفاز للتطبيقات المستخدمة مع Single Sign-On.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Formatted header text displayed on the welcome screen of the SSO TV App plugin. 
+ Formatted title of sole provider setup flow on tvOS. </Description>
+      <Position>SETUP_TITLE_SOLE_A</Position>
+      <TranslationSet>
+        <base loc="en">Have a %@ subscription?</base>
+        <tran loc="ar">هل لديك اشتراك في %@؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Title of the button used to toggle cache. 
+ Title of the cache buster option in iOS developer settings. </Description>
+      <Position>DEVELOPER_IS_CACHEBUSTER_ENABLED_ACTION_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Cache Buster</base>
+        <tran loc="ar">Cache Buster</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Description of the API toggle item in add provider developer settings. </Description>
+      <Position>DEVELOPER_PROVIDER_API_DESCRIPTION</Position>
+      <TranslationSet>
+        <base loc="en">Enable or disable the API driven data model within the authentication context.</base>
+        <tran loc="ar">تمكين أو تعطيل نموذج بيانات API في سياق المصادقة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Error message shown to the user when the system is currently unable to contact the user's TV provider. </Description>
+      <Position>ERROR_DESCRIPTION_SERVICE_TEMPORARILY_UNAVAILABLE</Position>
+      <TranslationSet>
+        <base loc="en">Your TV provider service is temporarily unavailable.</base>
+        <tran loc="ar">خدمة موفر خدمة التلفاز الخاص بك غير متوفرة مؤقتًا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Description of the identifier collision error returned when trying to add a developer provider. </Description>
+      <Position>DEVELOPER_PROVIDER_IDENTIFIER_COLLISION_ERROR_DESCRIPTION</Position>
+      <TranslationSet>
+        <base loc="en">The identifier provided is already being used for another development provider.</base>
+        <tran loc="ar">المعرف المُقدم يجري استخدامه لموفر خدمة تطوير آخر.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> A suggestion about what the user can do when the view service crashes while attempting to authenticate. </Description>
+      <Position>ERROR_RECOVERY_SUGGESTION_VIEW_SERVICE_CRASHED</Position>
+      <TranslationSet>
+        <base loc="en">You can try again.</base>
+        <tran loc="ar">يمكنك المحاولة مرة أخرى.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Description of the Auth URL input item in the add provider developer settings. </Description>
+      <Position>DEVELOPER_PROVIDER_AUTH_URL_DESCRIPTION</Position>
+      <TranslationSet>
+        <base loc="en">The URL to your JavaScript authentication context. SSL is not required for development purposes.</base>
+        <tran loc="ar">الرابط إلى سياق مصادقة JavaScript الخاص بك. بروتوكول SSL غير مطلوب لأغراض التطوير.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Format for footnote about app rating.  The argument is the rating. </Description>
+      <Position>RATINGS_FOOTNOTE_FORMAT</Position>
+      <TranslationSet>
+        <base loc="en">Ages %@</base>
+        <tran loc="ar">الأعمار: %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Format string shown when confirming account deletion on iOS devices. </Description>
+      <Position>DELETE_ACCOUNT_CONFIRMATION_MESSAGE_FORMAT_GENERIC</Position>
+      <TranslationSet>
+        <base loc="en">You’ll also be signed out on any other device using this iCloud account.</base>
+        <tran loc="ar">سيتم تسجيل خروجك على أي جهاز آخر يستخدم حساب iCloud هذا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Fallback message shown when confirming unknown account deletion on unknown kind of device. </Description>
+      <Position>DELETE_ACCOUNT_CONFIRMATION_MESSAGE_GENERIC</Position>
+      <TranslationSet>
+        <base loc="en">You’ll also be signed out on any other device using this iCloud account.</base>
+        <tran loc="ar">سيتم تسجيل خروجك على أي جهاز آخر يستخدم حساب iCloud هذا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Title of the alert presented when an error occurs trying to save a developer provider in iOS developer settings. </Description>
+      <Position>DEVELOPER_GENERIC_SAVE_ERROR_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Error Saving Development Provider</base>
+        <tran loc="ar">خطأ في حفظ موفر خدمة التطوير</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Description for the request timeouts option in iOS developer settings. 
+ Description used for the request timeouts toggle button in developer settings. </Description>
+      <Position>DEVELOPER_REQUEST_TIMEOUTS_DESCRIPTION</Position>
+      <TranslationSet>
+        <base loc="en">When enabled, the default callback timeouts will be disabled in development TV Provider authentication contexts.</base>
+        <tran loc="ar">عند التمكين، سيتم تعطيل مهلة انتهاء التنفيذ في سياقات تطوير مصادقة موفر خدمة التلفاز.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Error message shown when a third-party app doesn't have any additional providers to display in response to choosing Other TV Providers from the list of providers. </Description>
+      <Position>ERROR_DESCRIPTION_UNSUPPORTED_PROVIDER</Position>
+      <TranslationSet>
+        <base loc="en">Your TV provider is not supported.</base>
+        <tran loc="ar">موفر خدمة التلفاز الخاص بك غير مدعوم.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Title of dialog shown after first signing in on tvOS. </Description>
+      <Position>WELCOME_NOTIFICATION_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Discover more TV shows and movies you’ll love.</base>
+        <tran loc="ar">اكتشف المزيد من برامج التلفاز والأفلام التي ستنال إعجابك.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Message of the alert presented to the user when STB opt out succeeds. </Description>
+      <Position>STB_OPT_OUT_SUCCEEDED_MESSAGE</Position>
+      <TranslationSet>
+        <base loc="en">The profile was successfully removed and the association with the TV Provider has been disabled.</base>
+        <tran loc="ar">تمت إزالة ملف التعريف بنجاح، وتم تعطيل الارتباط بموفر خدمة التلفاز.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Error message shown when a third-party app doesn't handle the user deciding not to sign in to their TV provider. </Description>
+      <Position>ERROR_DESCRIPTION_USER_CANCELLED</Position>
+      <TranslationSet>
+        <base loc="en">The operation was cancelled.</base>
+        <tran loc="ar">تم إلغاء العملية.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Title of the Identifier input item in add provider developer settings. 
+ Title of the identifier field in the provider view for iOS developer settings. </Description>
+      <Position>DEVELOPER_PROVIDER_IDENTIFIER_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Identifier</base>
+        <tran loc="ar">المعرّف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Question in dialog to confirm deleting a developer-provided identity provider from an Apple TV. </Description>
+      <Position>DEVELOPER_DELETION_CONFIRMATION_QUESTION_TV</Position>
+      <TranslationSet>
+        <base loc="en">Do you want to delete this TV provider from your Apple TV?</base>
+        <tran loc="ar">هل ترغب في حذف موفر خدمة التلفاز هذا من الـ Apple TV الخاص بك؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Description of privacy list of apps in Settings app on tvOS when app is not allowed access.  The argument is the name of the app. </Description>
+      <Position>ACCOUNT_ACCESS_GROUP_DESCRIPTION_DENY</Position>
+      <TranslationSet>
+        <base loc="en">%@ won’t be able to access your\nTV subscription information.</base>
+        <tran loc="ar">لن يتمكن %@ من الوصول إلى معلومات\nالاشتراك الخاصة بالتلفاز.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Format for title of privacy alert when not signed in.  The argument is the name of the app requesting access. </Description>
+      <Position>PRIVACY_TITLE_FORMAT_GENERIC</Position>
+      <TranslationSet>
+        <base loc="en">Allow “%@” to use your TV Provider subscription?</base>
+        <tran loc="ar">هل تريد السماح لـ "%@" باستخدام اشتراك موفر خدمة التلفاز؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Title of button in error alert to acknowledge the alert. 
+ Title of button to dismiss edit account error alert on iOS. 
+ Title of button to dismiss unsupported provider dialog. 
+ Title of button used to dismiss generic error alert. 
+ Title of the dismiss button for STB opt out alert. 
+ Title of the dismiss button for the error alert for launching Setup. 
+ Title of the dismiss button in the error alert for the provider view of iOS developer settings. </Description>
+      <Position>ERROR_DISMISS_BUTTON_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">OK</base>
+        <tran loc="ar">موافق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Message shown when a user signs in for the first time on the device via a 3rd party app </Description>
+      <Position>AUTHENTICATION_NOTIFICATION_MESSAGE</Position>
+      <TranslationSet>
+        <base loc="en">You’re all set. Check out apps that work with your subscription.</base>
+        <tran loc="ar">أنت جاهز تمامًا الآن. تحقق من التطبيقات التي تتوافق مع اشتراكك.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Message of the text field validation error alert in iOS developer settings. </Description>
+      <Position>DEVELOPER_REQUIRED_FIELDS_ERROR_ALERT_MESSAGE</Position>
+      <TranslationSet>
+        <base loc="en">The Name, Identifier, and Auth URL fields are required.</base>
+        <tran loc="ar">حقول الاسم والمعرف ورابط المصادقة مطلوبة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Description used for the Set Top Box button in developer settings. </Description>
+      <Position>DEVELOPER_SET_TOP_BOX_MODE_OPTION_DESCRIPTION</Position>
+      <TranslationSet>
+        <base loc="en">Enabling Set Top Box Mode allows you to test Set Top Box specific features, such as Zero Sign On and the enhanced out of box setup flow.</base>
+        <tran loc="ar">يسمح لك تمكين نمط Set Top Box بتجربة ميزات محددة لـ Set Top Box مثل Zero Sign On وتدفق إعداد Out of Box المُحسَّن.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Error message shown to the user when a third-party app hasn't been granted access to the user's subscription information. </Description>
+      <Position>ERROR_DESCRIPTION_ACCESS_NOT_GRANTED</Position>
+      <TranslationSet>
+        <base loc="en">The application doesn’t have access to your TV subscription information.</base>
+        <tran loc="ar">لا يملك التطبيق حق الوصول إلى معلومات اشتراك التلفاز الخاص بك.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Message shown in stb setup flow on tvOS. </Description>
+      <Position>SETUP_MESSAGE_STB</Position>
+      <TranslationSet>
+        <base loc="en">So that you can start watching right away, the %@ app will be installed.</base>
+        <tran loc="ar">سيتم تثبيت %@ حتى تتمكن من المشاهدة مباشرة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Title of the alert presented to the user when STB opt out fails. </Description>
+      <Position>STB_OPT_OUT_FAILED_ALERT_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Unable to Remove TV Provider Profile</base>
+        <tran loc="ar">غير قادر على إزالة ملف تعريف موفر خدمة التلفاز</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Format of message shown when opting in to playback activity reporting on tvOS. The argument is the Apple ID. </Description>
+      <Position>PLAYBACK_ACTIVITY_REPORTING_CONSENT_MESSAGE_FORMAT</Position>
+      <TranslationSet>
+        <base loc="en">These apps will share what you watch with Apple while using the Apple ID %@. This lets you continue watching your TV shows and movies on any of your supported devices, and helps you discover others you might like. Separate app installation may be required.</base>
+        <tran loc="ar">ستشارك هذه التطبيقات مع Apple ما تشاهده أثناء استخدامك لـ Apple ID %@. ويمكّنك هذا من متابعة مشاهدة برامجك التلفزيونية المفضلة والأفلام على أي من أجهزتك المدعومة، كما يساعدك في اكتشاف برامج وأفلام أخرى قد تعجبك. قد تحتاج لتنزيل تطبيق آخر بشكل منفصل.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Error message shown to the user when their request can't be completed because of a crash. </Description>
+      <Position>ERROR_DESCRIPTION_VIEW_SERVICE_CRASHED</Position>
+      <TranslationSet>
+        <base loc="en">An error occurred while attempting to authenticate.</base>
+        <tran loc="ar">حدث خطأ أثناء محاولة المصادقة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Message shown when confirming unknown account deletion on an Apple TV. </Description>
+      <Position>DELETE_ACCOUNT_CONFIRMATION_MESSAGE_TV</Position>
+      <TranslationSet>
+        <base loc="en">Do you want to sign out of your account on this Apple TV?</base>
+        <tran loc="ar">هل ترغب في تسجيل الخروج من حسابك على هذا الـ Apple TV؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Privacy alert button to grant access. </Description>
+      <Position>PRIVACY_ALLOW_ACCESS_BUTTON_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Allow</base>
+        <tran loc="ar">السماح</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Title of button in error alert to dismiss the alert without attempting to recover from the error. 
+ Title of button used to cancel account deletion. 
+ Title of button used to cancel auto-authentication when it is presented modally on iOS. 
+ Title of button used to cancel deletion of developer-provided identity provider. 
+ Title of button used to cancel the loading UI when presented modally on iOS. 
+ Title of button used to cancel web-based authentication when it is presented modally on iOS. 
+ Title of the cancel button on the STB opt out confirmation alert. </Description>
+      <Position>CANCEL_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Cancel</base>
+        <tran loc="ar">إلغاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Footer text displayed below the signed in account item. </Description>
+      <Position>SETTINGS_CHANGE_PROVIDER_UNSUPPORTED_FOOTER_FORMAT</Position>
+      <TranslationSet>
+        <base loc="en">Your TV provider is currently set as %@.</base>
+        <tran loc="ar">موفر خدمة التلفاز الحالي هو %@.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Instructions for entering onscreen code that come after the web page URL. </Description>
+      <Position>ONSCREEN_CODE_POSTAMBLE</Position>
+      <TranslationSet>
+        <base loc="en">and use this code:</base>
+        <tran loc="ar">واستخدم هذا الرمز:</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> An error message shown to the user when signing out of an account fails. </Description>
+      <Position>DELETE_ACCOUNT_ERROR_MESSAGE</Position>
+      <TranslationSet>
+        <base loc="en">Couldn’t sign out. Please try again later.</base>
+        <tran loc="ar">تعذر تسجيل الخروج. الرجاء المحاولة مرة أخرى لاحقًا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Question in dialog to confirm deleting a developer-provided identity provider from an iPhone. </Description>
+      <Position>DEVELOPER_DELETION_CONFIRMATION_QUESTION_PHONE</Position>
+      <TranslationSet>
+        <base loc="en">Do you want to delete this TV provider from your iPhone?</base>
+        <tran loc="ar">هل ترغب في حذف موفر خدمة التلفاز هذا من الـ iPhone الخاص بك؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Format of message shown when opting in to both playback activity reporting and privacy vouchers. The argument is the Apple ID. </Description>
+      <Position>PLAYBACK_ACTIVITY_REPORTING_COMBINED_CONSENT_MESSAGE_FORMAT</Position>
+      <TranslationSet>
+        <base loc="en">You’ll be signed in to supported apps using your TV subscription, so you don’t have to sign in to each one. These apps will also share what you watch with Apple while using the Apple ID %@, so you can continue watching on any of your devices. Separate app installation may be required.</base>
+        <tran loc="ar">سيتم تسجيل الدخول إلى التطبيقات المدعومة باستخدام اشتراك التلفاز حتى لا تحتاج لتسجيل الدخول إلى كل منها على حدة. ستشارك هذه التطبيقات أيضًا ما تشاهده مع Apple أثناء استخدام الـ Apple ID "%@" حتى تتمكن من استكمال المشاهدة على أي من أجهزتك. قد تحتاج لتثبيت تطبيق آخر.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Title of list of supported apps shown on iOS. </Description>
+      <Position>SUPPORTED_APPS_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Supported Apps</base>
+        <tran loc="ar">التطبيقات المدعومة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Title of the bundle identifier option in the Set Top Box developer settings. </Description>
+      <Position>DEVELOPER_PROVIDER_STB_BUNDLE_ID_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">App Bundle ID</base>
+        <tran loc="ar">هوية حزمة التطبيق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Title of button to continue authentication. 
+ Title of button to continue when already auto signed in during stb setup on tvOS. 
+ Title of button used to start auto auth on tvOS. </Description>
+      <Position>CONTINUE</Position>
+      <TranslationSet>
+        <base loc="en">Continue</base>
+        <tran loc="ar">متابعة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Format for the message of the dialog shown when selecting a provider that is not supported on the current platform, but is supported on another platform.  The argument is the name of the third-party app. 
+ Format for the message of the dialog shown when selecting an unsupported provider.  The argument is the name of the third-party app. 
+ Message used in the privacy prompt when the provider is unsupported. </Description>
+      <Position>UNSUPPORTED_PROVIDER_MESSAGE_FORMAT</Position>
+      <TranslationSet>
+        <base loc="en">You can access %@ and the other apps included in your TV subscription by signing in to each one individually.</base>
+        <tran loc="ar">يمكنك الوصول إلى "%@" وجميع التطبيقات المشمولة في اشتراك التلفاز، بتسجيل الدخول إلى كل منها على حدة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> A suggestion about what the user can do when their TV provider denies access to a specific piece of content. </Description>
+      <Position>ERROR_RECOVERY_SUGGESTION_AUTHORIZATION_DENIED</Position>
+      <TranslationSet>
+        <base loc="en">Please contact your TV provider.</base>
+        <tran loc="ar">الرجاء الاتصال بموفر خدمة التلفاز.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Description of the confirmation alert for STB opt out. </Description>
+      <Position>STB_OPT_OUT_CONFIRM_MESSAGE</Position>
+      <TranslationSet>
+        <base loc="en">Select Remove Profile to disable the association between this Apple TV and the TV Provider. Once you remove the profile it can’t be reinstalled.</base>
+        <tran loc="ar">حدد إزالة ملف التعريف لتعطيل الارتباط بين هذا الـ Apple TV وموفر خدمة التلفاز. بمجرد إزالة ملف التعريف، لا يمكن إعادة تثبيته.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Footer for the schemes group in the provider view for iOS developer settings. 
+ Message for the error alert presented when all authentication schemes are disabled in developer settings. </Description>
+      <Position>DEVELOPER_SETTINGS_AUTH_SCHEME_ERROR_MESSAGE</Position>
+      <TranslationSet>
+        <base loc="en">At least one authentication scheme must be enabled.</base>
+        <tran loc="ar">يجب تشغيل نظام مصادقة واحد على الأقل.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Title of the button to disable set top box mode in developer settings. </Description>
+      <Position>DEVELOPER_SET_TOP_BOX_MODE_DISABLE</Position>
+      <TranslationSet>
+        <base loc="en">Disable Set Top Box Mode</base>
+        <tran loc="ar">تعطيل نمط Set Top Box</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Title of button to go to App Store in dialog shown after first signing in on tvOS. </Description>
+      <Position>WELCOME_NOTIFICATION_GO_BUTTON_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Go to App Store</base>
+        <tran loc="ar">انتقال إلى App Store</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Format of the message shown with first field of credential entry for tvOS when authenticating in a third-party app. The first argument is the name of the TV provider. The second argument is the name of the third-party app.  The third argument is the name of the TV provider. </Description>
+      <Position>CREDENTIAL_ENTRY_MESSAGE_FORMAT_APP_TV</Position>
+      <TranslationSet>
+        <base loc="en">Enter your %@ account to sign in and get access to TV shows and movies in %@ and other apps that are supported as part of your %@ subscription.</base>
+        <tran loc="ar">أدخل حساب %@ لتسجيل الدخول والوصول إلى برامج التلفاز والأفلام في %@ والتطبيقات الأخرى المدعومة كجزء من اشتراك %@ الخاص بك.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Format of the message shown with first field of credential entry for tvOS when authenticating via Settings. Both arguments will both be the name of the TV provider. </Description>
+      <Position>CREDENTIAL_ENTRY_MESSAGE_FORMAT_TV</Position>
+      <TranslationSet>
+        <base loc="en">Enter your %@ account to sign in and get access to TV shows and movies in apps that are supported as part of your %@ subscription.</base>
+        <tran loc="ar">أدخل حساب %@ لتسجيل الدخول والوصول إلى برامج التلفاز والأفلام في التطبيقات المدعومة كجزء من اشتراك %@ الخاص بك.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Description shown in tvOS Settings app while link to App Store page is focused. </Description>
+      <Position>APP_STORE_LINK_DESCRIPTION</Position>
+      <TranslationSet>
+        <base loc="en">Find more apps that are part of your TV subscription.</base>
+        <tran loc="ar">اعثر على مزيد من التطبيقات التي تعد جزءًا من اشتراك التلفاز الخاص بك.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Error message shown to the user when their TV provider rejects an app's request for any reason. </Description>
+      <Position>ERROR_DESCRIPTION_PROVIDER_REJECTED</Position>
+      <TranslationSet>
+        <base loc="en">Your TV provider was unable to complete a request.</base>
+        <tran loc="ar">لم يتمكن موفر خدمة التلفاز من إكمال طلبك.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Footer text displayed below the signed in account item without an account name.  The argument is the name of the TV provider. </Description>
+      <Position>SETTINGS_CHANGE_PROVIDER_ANONYMOUS_FOOTER_FORMAT</Position>
+      <TranslationSet>
+        <base loc="en">Signed in to %@.</base>
+        <tran loc="ar">تم تسجيل الدخول إلى %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Footer text shown in iOS provider picker. </Description>
+      <Position>IDENTITY_PROVIDER_PICKER_SETTINGS_FOOTER</Position>
+      <TranslationSet>
+        <base loc="en">If you don’t see your TV provider, sign in directly from the app you want to use.</base>
+        <tran loc="ar">إذا كنت لا ترى موفر خدمة التلفاز الخاص بك، فقم بتسجيل الدخول مباشرةً من التطبيق الذي تريد استخدامه.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Footer text shown in provider picker in tvOS Settings app. </Description>
+      <Position>IDENTITY_PROVIDER_PICKER_SETTINGS_FOOTER_TV</Position>
+      <TranslationSet>
+        <base loc="en">If you don’t see your TV provider, sign in directly from the app you want to use.</base>
+        <tran loc="ar">إذا كنت لا ترى موفر خدمة التلفاز الخاص بك، فقم بتسجيل الدخول مباشرةً من التطبيق الذي تريد استخدامه.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Title of row in tvOS Settings app that links to App Store page. 
+ Title of row that links to the App Store from the account info page in the iOS Settings app. </Description>
+      <Position>APP_STORE_LINK_TEXT</Position>
+      <TranslationSet>
+        <base loc="en">Find More Apps</base>
+        <tran loc="ar">البحث عن المزيد من التطبيقات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Description of list of recently used accounts on tvOS. </Description>
+      <Position>RECENT_ACCOUNT_INSTRUCTIONS</Position>
+      <TranslationSet>
+        <base loc="en">Select a previously-used account or enter a new one.</base>
+        <tran loc="ar">حدد حسابًا تم استخدامه سابقًا أو أدخل حسابًا جديدًا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> An error message shown to the user when their credentials cannot be authenticated. </Description>
+      <Position>CREDENTIAL_ENTRY_ERROR_MESSAGE_GENERIC</Position>
+      <TranslationSet>
+        <base loc="en">Could not communicate with the TV provider.</base>
+        <tran loc="ar">تعذر الاتصال بموفر خدمة التلفاز.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Format for the message of the dialog shown when selecting a provider that is not supported on the current platform, but is supported on another platform.  The first argument is the name of the TV provider.  The second argument is the name of the third-party app. </Description>
+      <Position>UNSUPPORTED_APP_MESSAGE_FORMAT</Position>
+      <TranslationSet>
+        <base loc="en">You’ll need to individually sign in to %@ in %@.</base>
+        <tran loc="ar">ستحتاج لتسجيل الدخول إلى %@ بشكل مستقل في %@.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Error message shown when the TV provider does not support editing an account on iOS. </Description>
+      <Position>ERROR_DESCRIPTION_UNSUPPORTED_AUTHENTICATION_MECHANISM</Position>
+      <TranslationSet>
+        <base loc="en">An account with this TV provider cannot be edited.</base>
+        <tran loc="ar">هناك حساب لا يمكن تحريره لدى موفر خدمة التلفاز هذا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Description of the Test OOB / Setup button in Set Top Box developer settings. </Description>
+      <Position>DEVELOPER_STB_TEST_SETUP_DESCRIPTION</Position>
+      <TranslationSet>
+        <base loc="en">Initiates the Apple TV Out of Box flow for Zero Sign-On. If you are signed in to iTunes or a TV Provider account, both will be removed.</base>
+        <tran loc="ar">يبدأ Out of Box Flow الخاص بـ Apple TV لـ Zero Sign-On. إذا كنت سجلت الدخول إلى iTunes أو حساب موفر خدمة التلفاز، فسيتم إزالة كليهما.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Footnote used with app that offers in-app purchases </Description>
+      <Position>OFFERS_IN_APP_PURCHASES</Position>
+      <TranslationSet>
+        <base loc="en">In-App Purchases</base>
+        <tran loc="ar">الشراء من داخل التطبيق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Footer shown on iOS credential entry page. </Description>
+      <Position>CREDENTIAL_ENTRY_FOOTER</Position>
+      <TranslationSet>
+        <base loc="en">If you have iCloud Keychain enabled, you’ll automatically sign in to these apps across all your iOS devices that use the same iCloud Keychain.</base>
+        <tran loc="ar">إذا قمت بتمكين سلسلة مفاتيح iCloud، فسيتم تسجيل دخولك تلقائيًا إلى هذه التطبيقات عبر جميع أجهزة iOS التي تستخدم نفس سلسلة مفاتيح iCloud.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Format for title of button used to skip STB setup on tvOS. Name does not start with vowel. </Description>
+      <Position>STB_SKIP_SETUP_BUTTON_FORMAT_A</Position>
+      <TranslationSet>
+        <base loc="en">Not a %@ Customer</base>
+        <tran loc="ar">ليس لدي اشتراك مع %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Text shown with progress indicator while loading content on tvOS. </Description>
+      <Position>LOADING_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Loading…</base>
+        <tran loc="ar">جاري التحميل…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Title of button to dismiss dialog shown after first signing in on tvOS. 
+ Title of button to skip installing an app. 
+ Title of button used to skip setup on tvOS. 
+ Title of the dismiss button in the Welcome screen of the TV app plugin </Description>
+      <Position>NOT_NOW_BUTTON_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Not Now</base>
+        <tran loc="ar">ليس الآن</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Title of the button to verify two factor in the two factor template. </Description>
+      <Position>TWO_FACTOR_VERIFY_BUTTON_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Verify</base>
+        <tran loc="ar">تحقق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Title of the text field validation error alert in iOS developer settings. </Description>
+      <Position>DEVELOPER_REQUIRED_FIELDS_ERROR_ALERT_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Required Fields Missing</base>
+        <tran loc="ar">بعض الحقول المطلوبة غير مكتملة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Title of the button to confirm STB opt out. </Description>
+      <Position>STB_OPT_OUT_CONFIRM_BUTTON_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Remove Profile</base>
+        <tran loc="ar">إزالة ملف التعريف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Title of the STB opt out button in tvOS Settings. </Description>
+      <Position>STB_OPT_OUT_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Remove Profile</base>
+        <tran loc="ar">إزالة ملف التعريف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Format for title of button used to skip STB setup on tvOS. Name starts with vowel. </Description>
+      <Position>STB_SKIP_SETUP_BUTTON_FORMAT_AN</Position>
+      <TranslationSet>
+        <base loc="en">Not an %@ Customer</base>
+        <tran loc="ar">ليس لدي اشتراك مع %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Title of the Authentication Schemes section in the developer provider view in developer settings. 
+ Title of the authentication schemes group in the provider view for iOS developer settings. </Description>
+      <Position>DEVELOPER_PROVIDER_AUTH_SCHEME_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Authentication Schemes</base>
+        <tran loc="ar">أنظمة المصادقة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Title of the error alert presented when all authentication schemes are disabled in developer settings. </Description>
+      <Position>DEVELOPER_SETTINGS_AUTH_SCHEME_ERROR_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Authentication Schemes</base>
+        <tran loc="ar">أنظمة المصادقة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Title of the error alert presented when an error occurs launching Setup. </Description>
+      <Position>DEVELOPER_ERROR_LAUNCHING_OOB_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">An error occurred launching the Out of Box Flow.</base>
+        <tran loc="ar">حدث خطأ في بدء Out of Box Flow.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description>  Localizable.strings
+  VideoSubscriberAccount
+  Created by Randy Becker on 1/29/16.
+  Copyright © 2016 Apple Inc. All rights reserved.
+ For reference, use smart single and double quotes in all places: ’ “”
+ Also, the ellipsis character: …
+============================================tvOS tv-provider setup======================//
+neg button = Not Now
+button title, auto silent auth succeeded = continue
+default button title = sign in
+=========================================================================================//
+ Description of privacy list of apps in Settings app on tvOS when app is allowed access.  The argument is the name of the app. </Description>
+      <Position>ACCOUNT_ACCESS_GROUP_DESCRIPTION_ALLOW</Position>
+      <TranslationSet>
+        <base loc="en">%@ will be able to access your\nTV subscription information.</base>
+        <tran loc="ar">سيتمكن %@ من الوصول إلى معلومات\nالاشتراك الخاصة بالتلفاز.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Description of the STB opt out button in tvOS Settings. </Description>
+      <Position>STB_OPT_OUT_DESCRIPTION</Position>
+      <TranslationSet>
+        <base loc="en">The TV Provider profile creates an association between this Apple TV and a TV Provider.</base>
+        <tran loc="ar">ينشئ ملف تعريف موفر خدمة التلفاز ارتباطًا بين هذا الـ Apple TV وموفر خدمة التلفاز.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Privacy alert button to deny access. </Description>
+      <Position>PRIVACY_DENY_ACCESS_BUTTON_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Don’t Allow</base>
+        <tran loc="ar">عدم السماح</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Title of Other Providers row shown in third-party apps on tvOS. </Description>
+      <Position>IDENTITY_PROVIDER_PICKER_OTHER_PROVIDERS_ROW_TITLE_TV</Position>
+      <TranslationSet>
+        <base loc="en">Other Providers…</base>
+        <tran loc="ar">موفرو خدمة آخرون…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Title of the Auth URL input item in the add provider developer settings. 
+ Title of the auth URL field in the provider view for iOS developer settings. </Description>
+      <Position>DEVELOPER_PROVIDER_AUTH_URL_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Auth URL</base>
+        <tran loc="ar">عنوان URL الخاص بالمصادقة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Title of the confirmation alert for STB opt out. </Description>
+      <Position>STB_OPT_OUT_CONFIRM_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Remove TV Provider Profile</base>
+        <tran loc="ar">إزالة ملف تعريف موفر خدمة التلفاز</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Format for title of privacy alert when signed in.  The first argument is the name of the app requesting access.  The second argument is the name of the TV provider. </Description>
+      <Position>PRIVACY_TITLE_FORMAT</Position>
+      <TranslationSet>
+        <base loc="en">Allow “%@” to use your %@ subscription?</base>
+        <tran loc="ar">هل تريد السماح لـ "%@" باستخدام اشتراك %@؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Format for message shown in provider picker in third-party apps on tvOS. Used when the 3rd party app does not supply a resource title. 
+ Header text shown in iOS provider picker when third-party app does not supply a resource title.  The argument is the name of the requesting app. </Description>
+      <Position>IDENTITY_PROVIDER_PICKER_APP_MESSAGE_NO_RESOURCE_TITLE_FORMAT</Position>
+      <TranslationSet>
+        <base loc="en">To watch %@, sign in with your TV provider.</base>
+        <tran loc="ar">لمشاهدة %@، قم بتسجيل الدخول لدى موفر خدمة التلفاز.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Title of TV provider picker on iOS. 
+ Title of root view controller in settings on iOS. 
+ Title of the notification shown when a user signs in for the first time on the device via a 3rd party app 
+ Title of the notifications area of settings on iOS 
+ Title of the option for the provider selected to be the set top box provider in developer settings. </Description>
+      <Position>TV_PROVIDER_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">TV Provider</base>
+        <tran loc="ar">موفر خدمة التلفاز</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Format of title for list of recently used accounts on tvOS.  The argument is the name of the TV provider. </Description>
+      <Position>RECENT_ACCOUNT_TITLE_FORMAT</Position>
+      <TranslationSet>
+        <base loc="en">%@ Sign-In</base>
+        <tran loc="ar">تسجيل دخول %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Message shown on iOS credential entry page. </Description>
+      <Position>CREDENTIAL_ENTRY_MESSAGE</Position>
+      <TranslationSet>
+        <base loc="en">Get access to TV shows and movies in apps that are supported as part of your TV subscription.</base>
+        <tran loc="ar">سيمكنك الوصول إلى برامج التلفاز والأفلام في التطبيقات المدعومة كجزء من اشتراك التلفاز الخاص بك.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Description shown while Sign In button in tvOS Settings app is focused. </Description>
+      <Position>SIGN_IN_BUTTON_DESCRIPTION</Position>
+      <TranslationSet>
+        <base loc="en">Get access to TV shows and movies in apps that are supported as part of your TV subscription.</base>
+        <tran loc="ar">سيمكنك الوصول إلى برامج التلفاز والأفلام في التطبيقات المدعومة كجزء من اشتراك التلفاز الخاص بك.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Title shown in row in Settings app on tvOS for an app that have been granted access to the TV provider account. </Description>
+      <Position>ACCOUNT_ACCESS_ROW_VALUE_ALLOW</Position>
+      <TranslationSet>
+        <base loc="en">On</base>
+        <tran loc="ar">قيد التشغيل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Enabled status indicator for the Set Top Box Mode in Developer Settings </Description>
+      <Position>GENERIC_STATUS_ENABLED_LABEL</Position>
+      <TranslationSet>
+        <base loc="en">On</base>
+        <tran loc="ar">مُشغَّل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Error message shown to the user when their TV provider rejects an app's request because there's something wrong with its verification token. </Description>
+      <Position>ERROR_DESCRIPTION_INVALID_VERIFICATION_TOKEN</Position>
+      <TranslationSet>
+        <base loc="en">Your TV provider was unable to validate a request.</base>
+        <tran loc="ar">لم يتمكن موفر خدمة التلفاز من التحقق من طلبك.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Title of the Sign Out button when signed in to a non-participating provider. </Description>
+      <Position>SIGN_OUT_BUTTON_NON_PARTICIPATING_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Remove TV Provider</base>
+        <tran loc="ar">إزالة موفر خدمة التلفاز</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Format for the description shown above the signed-in account page in Settings on iOS.  The argument is the name of the TV provider. </Description>
+      <Position>AUTHENTICATED_SETTINGS_HEADER_FORMAT</Position>
+      <TranslationSet>
+        <base loc="en">Get access to TV shows and movies in apps that are supported as part of your %@ subscription.</base>
+        <tran loc="ar">سيمكنك الوصول إلى برامج التلفاز والأفلام في التطبيقات المدعومة كجزء من اشتراك %@ الخاص بك.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Message of the dialog shown when saving an Unsupported TV Provider. </Description>
+      <Position>UNSUPPORTED_PROVIDER_SYSTEM_MESSAGE</Position>
+      <TranslationSet>
+        <base loc="en">You can access all the apps included in your TV subscription, but you’ll have to sign in to each one individually.</base>
+        <tran loc="ar">يمكنك الوصول إلى جميع التطبيقات المشمولة في اشتراك التلفاز، لكن يجب أن تسجل الدخول إلى كل منها على حدة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Header text shown in iOS provider picker used in Settings. </Description>
+      <Position>IDENTITY_PROVIDER_PICKER_HEADER</Position>
+      <TranslationSet>
+        <base loc="en">Watch TV shows and movies from apps included in your TV subscription. Select your TV provider to get started.</base>
+        <tran loc="ar">شاهد برامج التلفاز والأفلام من التطبيقات التي يشملها اشتراك التلفاز لديك. حدد موفر خدمة التلفاز للبدء.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Title of button to open already-installed TV Provider app from iOS Settings. </Description>
+      <Position>APP_INSTALL_BUTTON_TITLE_ALREADY_INSTALLED</Position>
+      <TranslationSet>
+        <base loc="en">OPEN</base>
+        <tran loc="ar">فتح</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Question in dialog to confirm deleting a developer-provided identity provider from an iPad. </Description>
+      <Position>DEVELOPER_DELETION_CONFIRMATION_QUESTION_PAD</Position>
+      <TranslationSet>
+        <base loc="en">Do you want to delete this TV provider from your iPad?</base>
+        <tran loc="ar">هل ترغب في حذف موفر خدمة التلفاز هذا من الـ iPad الخاص بك؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Format of title when asking to install an app on tvOS.  The first argument is the name of the app. </Description>
+      <Position>INSTALL_APP_CONFIRMATION_FORMAT</Position>
+      <TranslationSet>
+        <base loc="en">Install %@?</base>
+        <tran loc="ar">تثبيت %@؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Description for the Provider item in the Set Top Box developer settings. </Description>
+      <Position>DEVELOPER_STV_PROVIDER_DESCRIPTION</Position>
+      <TranslationSet>
+        <base loc="en">The developer added TV Provider that should act as the Set Top Box distributor.</base>
+        <tran loc="ar">أضاف المطور موفر خدمة تلفاز حيث يجب أن يعمل بمثابة موزع Set Top Box.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Message shown in stb setup flow on tvOS when the user is auto signed in. </Description>
+      <Position>SETUP_MESSAGE_STB_AUTHD</Position>
+      <TranslationSet>
+        <base loc="en">So that you can start watching right away, the %@ app will be installed and you’ll be signed in as %@.</base>
+        <tran loc="ar">سيتم تثبيت التطبيق %@ حتى تتمكن من المشاهدة مباشرة، وسيتم تسجيل دخولك باسم %@.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> An error message shown to the user when we're unable to load account details. </Description>
+      <Position>ACCOUNT_LOADING_ERROR_MESSAGE</Position>
+      <TranslationSet>
+        <base loc="en">An error occurred while attempting to load details.</base>
+        <tran loc="ar">حدث خطأ أثناء محاولة تحميل التفاصيل.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Title of progress indicator shows to the user while verifying authentication on iOS. </Description>
+      <Position>CREDENTIAL_ENTRY_VERIFYING</Position>
+      <TranslationSet>
+        <base loc="en">Verifying</base>
+        <tran loc="ar">جاري التحقق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Formatted header text displayed on the welcome screen of the SSO TV App plugin. Name starts with vowel. 
+ Formatted title of sole provider setup flow on tvOS. Name starts with vowel. </Description>
+      <Position>SETUP_TITLE_SOLE_AN</Position>
+      <TranslationSet>
+        <base loc="en">Have an %@ subscription?</base>
+        <tran loc="ar">هل لديك اشتراك في %@؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Footnote shown on tvOS when offering to install a TV provider app. </Description>
+      <Position>INSTALL_APP_DISCLAIMER</Position>
+      <TranslationSet>
+        <base loc="en">To learn more, go to the App Store.</base>
+        <tran loc="ar">لمعرفة المزيد، الرجاء الانتقال إلى App Store.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Description of the Display Name input item in add provider developer settings. </Description>
+      <Position>DEVELOPER_PROVIDER_DISPLAY_NAME_DESCRIPTION</Position>
+      <TranslationSet>
+        <base loc="en">The name used for the TV Provider in the UI.</base>
+        <tran loc="ar">الاسم المستخدَم لموفر خدمة التلفاز على واجهة المستخدم.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Title of button used to show supported apps on tvOS. 
+ Title of the supported apps button in the Welcome screen of the TV app plugin </Description>
+      <Position>SUPPORTED_APPS_BUTTON_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">See Supported Apps</base>
+        <tran loc="ar">اطلع على التطبيقات المدعومة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Title of the Providers group in the iOS developer settings. 
+ Title of the providers list in tvOS developer settings. </Description>
+      <Position>DEVELOPER_PROVIDERS_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Development TV Providers</base>
+        <tran loc="ar">تطوير موفري خدمة التلفاز</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Format for message of dialog shown after first signing in on tvOS.  The argument is the name of the TV provider. </Description>
+      <Position>WELCOME_NOTIFICATION_MESSAGE_FORMAT</Position>
+      <TranslationSet>
+        <base loc="en">You’re now signed in to %@, so you can watch everything you love from your favorite supported apps.\nSee all apps that may be a part of your TV subscription on the App Store.</base>
+        <tran loc="ar">تم تسجيل دخولك الآن إلى %@، ومن ثم يمكنك مشاهدة كل ما تحبه من التطبيقات المدعومة المفضلة لديك.\nشاهد كل التطبيقات التي قد تكون جزءًا من اشتراك التلفاز الخاص بك على App Store.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Footer text displayed below the signed in account item.  The first argument is the name of the TV provider.  The second argument is the account username. </Description>
+      <Position>SETTINGS_CHANGE_PROVIDER_FOOTER_FORMAT</Position>
+      <TranslationSet>
+        <base loc="en">Signed in to %@ with %@.</base>
+        <tran loc="ar">تسجيل الدخول إلى "%@" باستخدام %@؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Format of title when showing app installation progress on tvOS.  The first argument is the name of the app. </Description>
+      <Position>INSTALL_APP_PROGRESS_FORMAT</Position>
+      <TranslationSet>
+        <base loc="en">Installing %@</base>
+        <tran loc="ar">تثبيت %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Default title of button to obtain a new onscreen code. </Description>
+      <Position>ONSCREEN_CODE_REGENERATION_BUTTON_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Get New Code</base>
+        <tran loc="ar">الحصول على رمز جديد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Placeholder for the auth URL field in the provider view for iOS developer settings. </Description>
+      <Position>DEVELOPER_PROVIDER_AUTH_URL_PLACEHOLDER</Position>
+      <TranslationSet>
+        <base loc="en">https://idp.example.com/boot.js</base>
+        <tran loc="ar">https://idp.example.com/boot.js</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Format for header text shown in provider picker in third-party apps on iOS. The first argument is the name of the resource to be played.  The second argument is the name of the requesting app. 
+ Format for message shown in provider picker in third-party apps on tvOS. The first argument is the name of the resource trying to be played.  The second argument is the name of the requesting app. </Description>
+      <Position>IDENTITY_PROVIDER_PICKER_APP_MESSAGE_FORMAT</Position>
+      <TranslationSet>
+        <base loc="en">To watch “%@” and more on %@, sign in with your TV provider.</base>
+        <tran loc="ar">لمشاهدة "%@" وغيره المزيد على %@، قم بتسجيل الدخول لدى موفر خدمة التلفاز.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Title of the button to test the setup flow in set top box developer settings. </Description>
+      <Position>DEVELOPER_STB_TEST_SETUP_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Test Out of Box Flow</base>
+        <tran loc="ar">اختبار Out of Box Flow</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Description used for the App Bundle ID item in the Set Top Box developer settings. </Description>
+      <Position>DEVELOPER_STB_BUNDLE_ID_DESCRIPTION</Position>
+      <TranslationSet>
+        <base loc="en">The bundle ID of an installed application that is associated with the TV Provider authentication context.</base>
+        <tran loc="ar">هوية الحزمة لتطبيق مثبَّت المرتبطة بسياق مصادقة موفر خدمة التلفاز.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Message shown in provider picker in tvOS Settings app. </Description>
+      <Position>IDENTITY_PROVIDER_PICKER_SETTINGS_MESSAGE_TV</Position>
+      <TranslationSet>
+        <base loc="en">Sign in and get access to TV shows and movies in apps that are supported as part of your TV subscription.</base>
+        <tran loc="ar">قم بتسجيل الدخول للوصول إلى برامج التلفاز والأفلام في التطبيقات المدعومة كجزء من اشتراك التلفاز الخاص بك.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Format for title of view when prompting the user to a ZSO MVPD App.  The argument is the name of the app. </Description>
+      <Position>INSTALL_APP_TITLE_PROMPT_FORMAT</Position>
+      <TranslationSet>
+        <base loc="en">Get %@?</base>
+        <tran loc="ar">إحضار %@؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> A suggestion about what the user can do when the system is unable to contact their TV provider. 
+ Alert message presented when an error occurs launching Setup. </Description>
+      <Position>ERROR_RECOVERY_SUGGESTION_SERVICE_TEMPORARILY_UNAVAILABLE</Position>
+      <TranslationSet>
+        <base loc="en">Please try again later.</base>
+        <tran loc="ar">الرجاء المحاولة مرة أخرى لاحقًا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Title of button to install TV Provider app from iOS Settings. </Description>
+      <Position>APP_INSTALL_BUTTON_TITLE_INSTALL_NOW</Position>
+      <TranslationSet>
+        <base loc="en">INSTALL</base>
+        <tran loc="ar">تثبيت</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Title of the alert presented to the user when STB opt out succeeds. </Description>
+      <Position>STB_OPT_OUT_SUCCEEDED_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">TV Provider Profile Removed</base>
+        <tran loc="ar">تمت إزالة ملف تعريف موفر خدمة التلفاز</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Format for message offering app installation.  The argument is the name of the provider. </Description>
+      <Position>INSTALL_APP_MESSAGE_FORMAT</Position>
+      <TranslationSet>
+        <base loc="en">Instantly access the TV shows, movies, and channels included in your %@ subscription.</base>
+        <tran loc="ar">ادخل بصورة فورية إلى برامج التلفاز والأفلام والقنوات التي يشملها اشتراك %@.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Format of the message shown with the password entry field for username-based authentication on tvOS. The arguments are the provider name, and the value of the first field. </Description>
+      <Position>PASSWORD_ENTRY_FIELD_MESSAGE_ACCOUNT_FORMAT_TV</Position>
+      <TranslationSet>
+        <base loc="en">Enter the password for the %@ account “%@”.</base>
+        <tran loc="ar">أدخل كلمة سر حساب %@ لـ "%@‎".</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Title shown when opting in to playback activity reporting. </Description>
+      <Position>PLAYBACK_ACTIVITY_REPORTING_CONSENT_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Now get the most out of the TV app with these apps.</base>
+        <tran loc="ar">استفد إلى أقصى حد من تطبيق TV مع هذه التطبيقات.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Instructions for entering onscreen code that precede the web page URL when signing in via the Settings app on tvOS.  The argument is the name of the TV provider. </Description>
+      <Position>ONSCREEN_CODE_PREAMBLE_FORMAT_FOR_SETTINGS</Position>
+      <TranslationSet>
+        <base loc="en">To get access to TV shows and movies in apps that are supported as part of your %@ subscription, go to</base>
+        <tran loc="ar">للوصول إلى برامج التلفاز والأفلام في التطبيقات المدعومة كجزء من اشتراك %@ الخاص بك، انتقل إلى</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Title of the item to toggle request timeouts in developer settings. 
+ Title of the request timeouts option in iOS developer settings. </Description>
+      <Position>DEVELOPER_REQUEST_TIMEOUTS_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Disable Timeouts</base>
+        <tran loc="ar">تعطيل انتهاء المهلة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Header of privacy list of apps granted privacy vouchers in Settings app on iOS. 
+ Header of privacy list of apps granted privacy vouchers in Settings app on tvOS. </Description>
+      <Position>ACCOUNT_ACCESS_VOUCHER_GROUP_NAME</Position>
+      <TranslationSet>
+        <base loc="en">Available Apps</base>
+        <tran loc="ar">التطبيقات المتوفرة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Title of button when TV Provider app cannot be installed from iOS Settings. </Description>
+      <Position>APP_INSTALL_BUTTON_TITLE_UNAVAILABLE</Position>
+      <TranslationSet>
+        <base loc="en">UNAVAILABLE</base>
+        <tran loc="ar">غير متوفر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Message shown in generic setup flow on tvOS. </Description>
+      <Position>SETUP_MESSAGE</Position>
+      <TranslationSet>
+        <base loc="en">Sign in once to access all of the apps supported by your cable or TV subscription at no additional charge.</base>
+        <tran loc="ar">سجِّل الدخول مرة واحدة حتى تتمكن من الوصول إلى جميع التطبيقات التي يدعمها اشتراك التلفاز بدون رسوم إضافية.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Format of of button to revoke privacy voucher on tvOS.  The first argument is the name of the app.  The second argument is the name of the provider. </Description>
+      <Position>REVOKE_VOUCHER_FORMAT</Position>
+      <TranslationSet>
+        <base loc="en">Don’t allow “%@” to access %@</base>
+        <tran loc="ar">عدم السماح بوصول "%@" إلى %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Title shown in row in Settings app on tvOS for an app that have been denied access to the TV provider account. </Description>
+      <Position>ACCOUNT_ACCESS_ROW_VALUE_DENY</Position>
+      <TranslationSet>
+        <base loc="en">Off</base>
+        <tran loc="ar">متوقف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Disabled status indicator for the Set Top Box Mode in Developer Settings </Description>
+      <Position>GENERIC_STATUS_DISABLED_LABEL</Position>
+      <TranslationSet>
+        <base loc="en">Off</base>
+        <tran loc="ar">متوقف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Text shown with progress indicator while signing in on tvOS. </Description>
+      <Position>SIGNING_IN_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Signing In…</base>
+        <tran loc="ar">جاري تسجيل الدخول…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Formatted title of stb setup flow on tvOS. </Description>
+      <Position>SETUP_TITLE_STB</Position>
+      <TranslationSet>
+        <base loc="en">Welcome to %@</base>
+        <tran loc="ar">مرحبًا بك في %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> An error message shown to the user when credential validation fails. </Description>
+      <Position>CREDENTIAL_ENTRY_ERROR_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Sign In Error</base>
+        <tran loc="ar">خطأ في تسجيل الدخول</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Format for title of button to install an app.  The argument is the name of the app. </Description>
+      <Position>INSTALL_APP_BUTTON_FORMAT</Position>
+      <TranslationSet>
+        <base loc="en">Get %@</base>
+        <tran loc="ar">الحصول على %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Description for the cache buster option in iOS developer settings. 
+ Description used for the Is Cache Enabled button in developer settings. </Description>
+      <Position>DEVELOPER_IS_CACHEBUSTER_ENABLED_ACTION_DESCRIPTION</Position>
+      <TranslationSet>
+        <base loc="en">When enabled, the query parameter “cachebuster” will be added to development TV Provider Auth URLs.</base>
+        <tran loc="ar">عند التمكين، ستتم إضافة معامل الاستعلام "cachebuster" إلى روابط مصادقة تطوير موفر خدمة التلفاز.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Description of the SAML toggle item in add provider developer settings. </Description>
+      <Position>DEVELOPER_PROVIDER_SAML_DESCRIPTION</Position>
+      <TranslationSet>
+        <base loc="en">Enable or disable the SAML data model within the authentication context.</base>
+        <tran loc="ar">تمكين أو تعطيل نموذج بيانات SAML في سياق المصادقة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Title of generic setup flow on tvOS. </Description>
+      <Position>SETUP_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Have a TV Provider?</base>
+        <tran loc="ar">هل لديك موفر خدمة تلفاز؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Header text displayed on the welcome screen of the SSO TV App plugin </Description>
+      <Position>TV_APP_PLUGIN_WELCOME_HEADER</Position>
+      <TranslationSet>
+        <base loc="en">Have a TV Provider?</base>
+        <tran loc="ar">هل لديك موفر خدمة تلفاز؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Title shown in row in Settings app on tvOS for an app that has been installed. </Description>
+      <Position>ACCOUNT_ACCESS_ROW_VALUE_INSTALLED</Position>
+      <TranslationSet>
+        <base loc="en">Open</base>
+        <tran loc="ar">فتح</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Format for title of the dialog shown when selecting an unsupported provider. The argument is the name of the TV provider. </Description>
+      <Position>UNSUPPORTED_PROVIDER_TITLE_FORMAT</Position>
+      <TranslationSet>
+        <base loc="en">We’ve set %@ as your TV provider.</base>
+        <tran loc="ar">تم تعيين %@ كموفر خدمة التلفاز.</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+</Proj>

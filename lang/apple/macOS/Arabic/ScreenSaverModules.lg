@@ -1,0 +1,512 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Proj>
+  <ProjName>ScreenSaverModules</ProjName>
+  <File>
+    <Filepath>ScreenSaverModules/System/Library/Screen Savers/Flurry.saver/Contents/Resources/en.lproj/InfoPlist.strings</Filepath>
+    <TextItem>
+      <Description> Localized versions of Info.plist keys </Description>
+      <Position>CFBundleName</Position>
+      <TranslationSet>
+        <base loc="en">Flurry</base>
+        <tran loc="ar">Flurry</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>ScreenSaverModules/System/Library/Screen Savers/Random.saver/Contents/Resources/en.lproj/Localizable.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>RANDOM_DESC</Position>
+      <TranslationSet>
+        <base loc="en">When a screen saver is needed, one will be selected at random.</base>
+        <tran loc="ar">عند الحاجة إلى شاشة توقف، سيتم اختيار واحدة عشوائيًا.</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>ScreenSaverModules/System/Library/Screen Savers/Album Artwork.saver/Contents/Resources/en.lproj/Localizable.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>LOOKING_FOR_SONGS</Position>
+      <TranslationSet>
+        <base loc="en">Looking for songs…</base>
+        <tran loc="ar">جاري البحث عن أغان…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Pops up from bottm right corner. This word should be no longer than six characters!</Description>
+      <Position>EXIT</Position>
+      <TranslationSet>
+        <base loc="en">Exit</base>
+        <tran loc="ar">خروج</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Shows up in iTunes</Description>
+      <Position>SCREEN_SAVER_NAME_FULL</Position>
+      <TranslationSet>
+        <base loc="en">Album Artwork Screen Saver</base>
+        <tran loc="ar">شاشة توقف العمل الفني للألبوم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>NO_ARTWORK</Position>
+      <TranslationSet>
+        <base loc="en">Your Music library does not contain any songs with artwork.</base>
+        <tran loc="ar">لا تحتوي مكتبة الموسيقى على أية أغانٍ لها عمل فني.</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>ScreenSaverModules/System/Library/Screen Savers/Flurry.saver/Contents/Resources/en.lproj/ConfigPanel.strings</Filepath>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Fast"; ObjectID = "100039"; </Description>
+      <Position>100039.title</Position>
+      <TranslationSet>
+        <base loc="en">Fast</base>
+        <tran loc="ar">سريع</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Few"; ObjectID = "100036"; </Description>
+      <Position>100036.title</Position>
+      <TranslationSet>
+        <base loc="en">Few</base>
+        <tran loc="ar">قليل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Thickness:"; ObjectID = "100037"; </Description>
+      <Position>100037.title</Position>
+      <TranslationSet>
+        <base loc="en">Thickness:</base>
+        <tran loc="ar">السُمك:</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Thick"; ObjectID = "100035"; </Description>
+      <Position>100035.title</Position>
+      <TranslationSet>
+        <base loc="en">Thick</base>
+        <tran loc="ar">سميك</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Red"; ObjectID = "64"; </Description>
+      <Position>64.title</Position>
+      <TranslationSet>
+        <base loc="en">Red</base>
+        <tran loc="ar">أحمر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "OK"; ObjectID = "100015"; </Description>
+      <Position>100015.title</Position>
+      <TranslationSet>
+        <base loc="en">OK</base>
+        <tran loc="ar">موافق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Slow cycle"; ObjectID = "61"; </Description>
+      <Position>61.title</Position>
+      <TranslationSet>
+        <base loc="en">Slow cycle</base>
+        <tran loc="ar">دورة بطيئة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Cancel"; ObjectID = "100016"; </Description>
+      <Position>100016.title</Position>
+      <TranslationSet>
+        <base loc="en">Cancel</base>
+        <tran loc="ar">إلغاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Green"; ObjectID = "60"; </Description>
+      <Position>60.title</Position>
+      <TranslationSet>
+        <base loc="en">Green</base>
+        <tran loc="ar">أخضر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Bright cycle"; ObjectID = "70"; </Description>
+      <Position>70.title</Position>
+      <TranslationSet>
+        <base loc="en">Bright cycle</base>
+        <tran loc="ar">دورة ساطعة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Medium cycle"; ObjectID = "67"; </Description>
+      <Position>67.title</Position>
+      <TranslationSet>
+        <base loc="en">Medium cycle</base>
+        <tran loc="ar">دورة متوسطة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Fastest cycle"; ObjectID = "62"; </Description>
+      <Position>62.title</Position>
+      <TranslationSet>
+        <base loc="en">Fastest cycle</base>
+        <tran loc="ar">أسرع دورة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Slow"; ObjectID = "100041"; </Description>
+      <Position>100041.title</Position>
+      <TranslationSet>
+        <base loc="en">Slow</base>
+        <tran loc="ar">بطيء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Yellow"; ObjectID = "73"; </Description>
+      <Position>73.title</Position>
+      <TranslationSet>
+        <base loc="en">Yellow</base>
+        <tran loc="ar">أصفر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Color:"; ObjectID = "100017"; </Description>
+      <Position>100017.title</Position>
+      <TranslationSet>
+        <base loc="en">Color:</base>
+        <tran loc="ar">اللون:</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Dark cycle"; ObjectID = "68"; </Description>
+      <Position>68.title</Position>
+      <TranslationSet>
+        <base loc="en">Dark cycle</base>
+        <tran loc="ar">دورة داكنة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Fast cycle"; ObjectID = "65"; </Description>
+      <Position>65.title</Position>
+      <TranslationSet>
+        <base loc="en">Fast cycle</base>
+        <tran loc="ar">دورة سريعة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenu"; title = "OtherViews"; ObjectID = "69"; </Description>
+      <Position>69.title</Position>
+      <TranslationSet>
+        <base loc="en">OtherViews</base>
+        <tran loc="ar">OtherViews</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Streams:"; ObjectID = "100021"; </Description>
+      <Position>100021.title</Position>
+      <TranslationSet>
+        <base loc="en">Streams:</base>
+        <tran loc="ar">التدفقات:</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSWindow"; title = "Window"; ObjectID = "5"; </Description>
+      <Position>5.title</Position>
+      <TranslationSet>
+        <base loc="en">Window</base>
+        <tran loc="ar">نافذة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Cyan"; ObjectID = "63"; </Description>
+      <Position>63.title</Position>
+      <TranslationSet>
+        <base loc="en">Cyan</base>
+        <tran loc="ar">سماوي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Magenta"; ObjectID = "59"; </Description>
+      <Position>59.title</Position>
+      <TranslationSet>
+        <base loc="en">Magenta</base>
+        <tran loc="ar">قرمزي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Many"; ObjectID = "100033"; </Description>
+      <Position>100033.title</Position>
+      <TranslationSet>
+        <base loc="en">Many</base>
+        <tran loc="ar">كثير</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Speed:"; ObjectID = "100040"; </Description>
+      <Position>100040.title</Position>
+      <TranslationSet>
+        <base loc="en">Speed:</base>
+        <tran loc="ar">السرعة:</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Thin"; ObjectID = "100034"; </Description>
+      <Position>100034.title</Position>
+      <TranslationSet>
+        <base loc="en">Thin</base>
+        <tran loc="ar">رفيع</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Blue"; ObjectID = "66"; </Description>
+      <Position>66.title</Position>
+      <TranslationSet>
+        <base loc="en">Blue</base>
+        <tran loc="ar">أزرق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Cycle"; ObjectID = "71"; </Description>
+      <Position>71.title</Position>
+      <TranslationSet>
+        <base loc="en">Cycle</base>
+        <tran loc="ar">دورة</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>ScreenSaverModules/System/Library/Frameworks/ScreenSaver.framework/PlugIns/Computer Name.appex/Contents/Resources/en.lproj/InfoPlist.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>CFBundleDisplayName</Position>
+      <TranslationSet>
+        <base loc="en">Message</base>
+        <tran loc="ar">رسالة</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>ScreenSaverModules/System/Library/Frameworks/ScreenSaver.framework/PlugIns/iLifeSlideshows.appex/Contents/Resources/en.lproj/InfoPlist.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>CFBundleDisplayName</Position>
+      <TranslationSet>
+        <base loc="en">iLife Slideshows</base>
+        <tran loc="ar">عروض شرائح iLife</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>ScreenSaverModules/System/Library/Frameworks/ScreenSaver.framework/PlugIns/Computer Name.appex/Contents/Resources/en.lproj/EditMessagePanel.strings</Filepath>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "OK"; ObjectID = "RiW-Ap-DMA"; </Description>
+      <Position>RiW-Ap-DMA.title</Position>
+      <TranslationSet>
+        <base loc="en">OK</base>
+        <tran loc="ar">موافق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "This is a placeholder to test things"; ObjectID = "mF3-Yk-Vfk"; </Description>
+      <Position>mF3-Yk-Vfk.title</Position>
+      <TranslationSet>
+        <base loc="en">This is a placeholder to test things</base>
+        <tran loc="ar">هذا عنصر نائب لاختبار أشياء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Cancel"; ObjectID = "Mdi-D4-gKH"; </Description>
+      <Position>Mdi-D4-gKH.title</Position>
+      <TranslationSet>
+        <base loc="en">Cancel</base>
+        <tran loc="ar">إلغاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Message:"; ObjectID = "lO3-u1-WU2"; </Description>
+      <Position>lO3-u1-WU2.title</Position>
+      <TranslationSet>
+        <base loc="en">Message:</base>
+        <tran loc="ar">الرسالة:</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>ScreenSaverModules/System/Library/Screen Savers/Album Artwork.saver/Contents/Resources/en.lproj/ConfigPanel.strings</Filepath>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Rows:"; ObjectID = "100021"; </Description>
+      <Position>100021.title</Position>
+      <TranslationSet>
+        <base loc="en">Rows:</base>
+        <tran loc="ar">الصفوف:</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "3"; ObjectID = "100108"; </Description>
+      <Position>100108.title</Position>
+      <TranslationSet>
+        <base loc="en">3</base>
+        <tran loc="ar">٣</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "OK"; ObjectID = "100015"; </Description>
+      <Position>100015.title</Position>
+      <TranslationSet>
+        <base loc="en">OK</base>
+        <tran loc="ar">موافق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "1"; ObjectID = "100107"; </Description>
+      <Position>100107.title</Position>
+      <TranslationSet>
+        <base loc="en">1</base>
+        <tran loc="ar">١</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Cancel"; ObjectID = "100016"; </Description>
+      <Position>100016.title</Position>
+      <TranslationSet>
+        <base loc="en">Cancel</base>
+        <tran loc="ar">إلغاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "5"; ObjectID = "100083"; </Description>
+      <Position>100083.title</Position>
+      <TranslationSet>
+        <base loc="en">5</base>
+        <tran loc="ar">٥</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "5"; ObjectID = "100104"; </Description>
+      <Position>100104.title</Position>
+      <TranslationSet>
+        <base loc="en">5</base>
+        <tran loc="ar">٥</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "&lt;&lt;&gt;&gt;"; ObjectID = "100112"; </Description>
+      <Position>100112.title</Position>
+      <TranslationSet>
+        <base loc="en">&lt;&lt;&gt;&gt;</base>
+        <tran loc="ar">&lt;&lt;&gt;&gt;</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "8"; ObjectID = "100033"; </Description>
+      <Position>100033.title</Position>
+      <TranslationSet>
+        <base loc="en">8</base>
+        <tran loc="ar">٨</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSWindow"; title = "Window"; ObjectID = "5"; </Description>
+      <Position>5.title</Position>
+      <TranslationSet>
+        <base loc="en">Window</base>
+        <tran loc="ar">Window</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "0"; ObjectID = "100105"; </Description>
+      <Position>100105.title</Position>
+      <TranslationSet>
+        <base loc="en">0</base>
+        <tran loc="ar">٠</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "2"; ObjectID = "100036"; </Description>
+      <Position>100036.title</Position>
+      <TranslationSet>
+        <base loc="en">2</base>
+        <tran loc="ar">٢</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "2"; ObjectID = "100106"; </Description>
+      <Position>100106.title</Position>
+      <TranslationSet>
+        <base loc="en">2</base>
+        <tran loc="ar">٢</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Delay:"; ObjectID = "100102"; </Description>
+      <Position>100102.title</Position>
+      <TranslationSet>
+        <base loc="en">Delay:</base>
+        <tran loc="ar">المهلة:</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "4"; ObjectID = "100109"; </Description>
+      <Position>100109.title</Position>
+      <TranslationSet>
+        <base loc="en">4</base>
+        <tran loc="ar">٤</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>ScreenSaverModules/System/Library/Screen Savers/Random.saver/Contents/Resources/en.lproj/InfoPlist.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>CFBundleName</Position>
+      <TranslationSet>
+        <base loc="en">Random</base>
+        <tran loc="ar">عشوائي</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>ScreenSaverModules/System/Library/Frameworks/ScreenSaver.framework/PlugIns/iLifeSlideshows.appex/Contents/Resources/en.lproj/Localizable.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>NO_PHOTOS</Position>
+      <TranslationSet>
+        <base loc="en">No Photos</base>
+        <tran loc="ar">لا توجد صور</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>LOADING_PHOTOS</Position>
+      <TranslationSet>
+        <base loc="en">Loading Photos…</base>
+        <tran loc="ar">جاري تحميل الصور…</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>ScreenSaverModules/System/Library/Screen Savers/Album Artwork.saver/Contents/Resources/en.lproj/InfoPlist.strings</Filepath>
+    <TextItem>
+      <Description> Localized versions of Info.plist keys </Description>
+      <Position>CFBundleName</Position>
+      <TranslationSet>
+        <base loc="en">Album Artwork</base>
+        <tran loc="ar">العمل الفني للألبوم</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>ScreenSaverModules/System/Library/Screen Savers/FloatingMessage.saver/Contents/Resources/en.lproj/InfoPlist.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>CFBundleName</Position>
+      <TranslationSet>
+        <base loc="en">Floating Message</base>
+        <tran loc="ar">رسالة عائمة</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+</Proj>

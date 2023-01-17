@@ -1,0 +1,1819 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Proj>
+  <ProjName>MessageUI</ProjName>
+  <File>
+    <Filepath>MessageUI/System/iOSSupport/System/Library/Frameworks/MessageUI.framework/Versions/A/Resources/en.lproj/Main.strings</Filepath>
+    <TextItem>
+      <Description> Discoverability title for "Paste as Quotation" keyboard shortcut (Identical to OS X's Menu Item) </Description>
+      <Position>PASTE_AS_QUOTATION</Position>
+      <TranslationSet>
+        <base loc="en">Paste as Quotation</base>
+        <tran loc="ar">لصق كاقتباس</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Bring up Photo Library to insert photos or videos </Description>
+      <Position>PHOTO_LIBRARY</Position>
+      <TranslationSet>
+        <base loc="en">Photo Library</base>
+        <tran loc="ar">مكتبة الصور</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Empty subject send confirmation </Description>
+      <Position>CONFIRM_EMPTY_SUBJECT_MESSAGE</Position>
+      <TranslationSet>
+        <base loc="en">This message has no subject. Do you want to send it anyway?</base>
+        <tran loc="ar">لا يوجد موضوع لهذه الرسالة. هل ترغب في إرسالها على أي حال؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Titles for menu buttons for image scaling. </Description>
+      <Position>SMALL_SIZE_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Small (%@)</base>
+        <tran loc="ar">صغير (%@)</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> N recipients </Description>
+      <Position>N_RECIPIENTS</Position>
+      <TranslationSet>
+        <base loc="en">%@ recipients</base>
+        <tran loc="ar">%@ مستلمين</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Decrease quote level menu item </Description>
+      <Position>DECREASE</Position>
+      <TranslationSet>
+        <base loc="en">Decrease</base>
+        <tran loc="ar">تقليل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Titles for image scaling bar (iPad only) </Description>
+      <Position>SMALL_SIZE_BAR_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Small</base>
+        <tran loc="ar">صغير</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Titles for menu buttons for image scaling when sizes haven't computed yet. </Description>
+      <Position>SMALL_SIZE_UNKNOWN_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Small</base>
+        <tran loc="ar">صغير</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Error saving a draft - long version </Description>
+      <Position>ERROR_SAVING_DRAFT_LONG_FORMAT</Position>
+      <TranslationSet>
+        <base loc="en">The message could not be saved to the Drafts folder.</base>
+        <tran loc="ar">تعذر حفظ الرسالة في مجلد المسودات.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Confirm do not send with Mail Drop </Description>
+      <Position>MAIL_DROP_NOT_USE_MESSAGE</Position>
+      <TranslationSet>
+        <base loc="en">Try Sending Attachment</base>
+        <tran loc="ar">محاولة إرسال المرفق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> CC </Description>
+      <Position>CC</Position>
+      <TranslationSet>
+        <base loc="en">Cc:</base>
+        <tran loc="ar">نسخة:</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Delete </Description>
+      <Position>DELETE</Position>
+      <TranslationSet>
+        <base loc="en">Delete</base>
+        <tran loc="ar">حذف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Alert body for lack of Mail setup </Description>
+      <Position>NO_EMAIL_ACCOUNT_EXPLANATION</Position>
+      <TranslationSet>
+        <base loc="en">Please set up a Mail account in order to send email.</base>
+        <tran loc="ar">الرجاء إعداد حساب في تطبيق البريد لإرسال البريد.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Confirmation message shown when user attempts to delete a recent group </Description>
+      <Position>REMOVE_RECENT_CONFIRM</Position>
+      <TranslationSet>
+        <base loc="en">Are you sure you want to remove this recent group?</base>
+        <tran loc="ar">هل ترغب بالتأكيد في إزالة المجموعة الأحدث هذه؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ARCHIVE_OR_DELETE</Position>
+      <TranslationSet>
+        <base loc="en">Archive / Delete</base>
+        <tran loc="ar">أرشفة / حذف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Shown in title of group recipient table cells. Shows matched names (separated by ADDRESS_SEPARATOR), then coordinating conjunction. </Description>
+      <Position>GROUP_WITH_AND</Position>
+      <TranslationSet>
+        <base loc="en">%@ and</base>
+        <tran loc="ar">‏%@ و</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Used in the image scaling bar while image sizes are being calculated (iPad only) </Description>
+      <Position>IMAGE_SIZE_PLACEHOLDER_DURING_COMPUTATION</Position>
+      <TranslationSet>
+        <base loc="en">…</base>
+        <tran loc="ar">…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> One recipient </Description>
+      <Position>ONE_RECIPIENT</Position>
+      <TranslationSet>
+        <base loc="en">1 recipient</base>
+        <tran loc="ar">مستلم واحد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Message cannot be sent encrypted send confirmation for one </Description>
+      <Position>CONFIRM_UNENCRYPTED_MESSAGE_ONE</Position>
+      <TranslationSet>
+        <base loc="en">Mail cannot find a valid certificate for a recipient. Do you want to send it anyway?</base>
+        <tran loc="ar">لم يتمكن البريد من العثور على شهادة صالحة لأحد المستلمين. هل ترغب في الإرسال على أية حال؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> placeholder text for recently used group of recipient addresses without a display name in search results </Description>
+      <Position>RECENT_GROUP_PLACEHOLDER</Position>
+      <TranslationSet>
+        <base loc="en">Recent Group</base>
+        <tran loc="ar">المجموعة الأخيرة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Send Anyway </Description>
+      <Position>SEND_ANYWAY</Position>
+      <TranslationSet>
+        <base loc="en">Send Anyway</base>
+        <tran loc="ar">إرسال على أية حال</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Extra recipients (no ellipsis) </Description>
+      <Position>AND_N_MORE_NO_ELLIPSIS</Position>
+      <TranslationSet>
+        <base loc="en"> &amp; %@ more</base>
+        <tran loc="ar"> و %@ إضافية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Draft </Description>
+      <Position>DRAFT</Position>
+      <TranslationSet>
+        <base loc="en">Draft</base>
+        <tran loc="ar">مسودة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Send </Description>
+      <Position>SEND</Position>
+      <TranslationSet>
+        <base loc="en">Send</base>
+        <tran loc="ar">إرسال</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Callout menu item title </Description>
+      <Position>SCAN_DOCUMENT_MENU_ITEM</Position>
+      <TranslationSet>
+        <base loc="en">Scan Document</base>
+        <tran loc="ar">مسح المستند ضوئيًا</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Image Resizing Bar Size, Expanded view </Description>
+      <Position>IMAGE_RESIZING_BAR_TITLE_EXPANDED</Position>
+      <TranslationSet>
+        <base loc="en">Image Size:</base>
+        <tran loc="ar">حجم الصورة:</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Reply All </Description>
+      <Position>REPLY_ALL</Position>
+      <TranslationSet>
+        <base loc="en">Reply All</base>
+        <tran loc="ar">رد للكل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>NO_NOTIFICATION</Position>
+      <TranslationSet>
+        <base loc="en">Don’t Notify</base>
+        <tran loc="ar">عدم الإعلام</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Label used by Voice Over for the "+" button next to any recipient field in the compose window </Description>
+      <Position>ADD_CONTACT_ACCESSIBILITY_LABEL</Position>
+      <TranslationSet>
+        <base loc="en">Add Contact</base>
+        <tran loc="ar">إضافة جهة الاتصال</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Name for a type of recent contact that represents multiple recent addresses </Description>
+      <Position>RECENT_GROUP</Position>
+      <TranslationSet>
+        <base loc="en">Group</base>
+        <tran loc="ar">مجموعة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Explaination that scanned document failed to attach. </Description>
+      <Position>SCAN_DOCUMENT_FAILED_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Scanned Document</base>
+        <tran loc="ar">مستند ممسوح ضوئيًا</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> CC/From </Description>
+      <Position>CC/FROM</Position>
+      <TranslationSet>
+        <base loc="en">Cc, From:</base>
+        <tran loc="ar">نسخة، من:</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Increase quote level menu item </Description>
+      <Position>INCREASE</Position>
+      <TranslationSet>
+        <base loc="en">Increase</base>
+        <tran loc="ar">زيادة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Titles for menu button to continue compose despite the missing attachment </Description>
+      <Position>COMPOSE_ANYWAY</Position>
+      <TranslationSet>
+        <base loc="en">Compose Anyway</base>
+        <tran loc="ar">كتابة على أي حال</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Button title in action sheet when dismissing a drawing </Description>
+      <Position>INSERT_DRAWING_BUTTON</Position>
+      <TranslationSet>
+        <base loc="en">Insert Drawing</base>
+        <tran loc="ar">إدخال رسم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Callout menu item title </Description>
+      <Position>INSERT_DRAWING_MENU_ITEM</Position>
+      <TranslationSet>
+        <base loc="en">Insert Drawing</base>
+        <tran loc="ar">إدخال رسم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Bcc:</Position>
+      <TranslationSet>
+        <base loc="en">Bcc</base>
+        <tran loc="ar">نسخة مخفية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>MAIL_DROP_DOWNLOAD_ATTACHMENT</Position>
+      <TranslationSet>
+        <base loc="en">Download Attachment</base>
+        <tran loc="ar">تنزيل المرفق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Message accompanying the sheet regarding large image attachments </Description>
+      <Position>LARGE_IMAGES_MESSAGE</Position>
+      <TranslationSet>
+        <base loc="en">This message is %@. You can reduce message size by scaling images to one of the sizes below.</base>
+        <tran loc="ar">هذه الرسالة %@. يمكن تصغير حجم الرسالة من خلال تحجيم الصور إلى أحد الأحجام أدناه.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Message accompanying the sheet regarding a single, large image attachment </Description>
+      <Position>LARGE_SINGLE_IMAGE_MESSAGE</Position>
+      <TranslationSet>
+        <base loc="en">This message is %@. You can reduce message size by scaling the image to one of the sizes below.</base>
+        <tran loc="ar">هذه الرسالة %@. يمكن تصغير حجم الرسالة من خلال تحجيم الصورة إلى أحد الأحجام أدناه.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Alert sheet title for Mute confirmation </Description>
+      <Position>MUTE</Position>
+      <TranslationSet>
+        <base loc="en">Mute</base>
+        <tran loc="ar">كتم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Navigation Titles when clicking on Address Attoms and when presenting search results
+ 
+* These should match the TO, FROM, CC and BCC above but without : at the end
+ </Description>
+      <Position>To:</Position>
+      <TranslationSet>
+        <base loc="en">To</base>
+        <tran loc="ar">إلى</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Subject </Description>
+      <Position>SUBJECT</Position>
+      <TranslationSet>
+        <base loc="en">Subject:</base>
+        <tran loc="ar">الموضوع:</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Message cannot be sent encrypted send confirmation for multiple </Description>
+      <Position>CONFIRM_UNENCRYPTED_MESSAGE_MULT</Position>
+      <TranslationSet>
+        <base loc="en">Mail cannot find a valid certificate for some recipients. Do you want to send it anyway?</base>
+        <tran loc="ar">لم يتمكن البريد من العثور على شهادة صالحة لبعض المستلمين. هل ترغب في الإرسال على أية حال؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> the last member of a group </Description>
+      <Position>GROUP_FINAL_ITEM</Position>
+      <TranslationSet>
+        <base loc="en"> &amp; %@</base>
+        <tran loc="ar">‏ و ‭%@‬</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Title on the alert sheet explaining to the user send will queue while Airplane Mode is engaged. </Description>
+      <Position>AIRPLANE_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Cannot Send Email</base>
+        <tran loc="ar">لا يمكن إرسال البريد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Alert title for lack of Mail setup </Description>
+      <Position>NO_EMAIL_ACCOUNT_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">No Mail Accounts</base>
+        <tran loc="ar">لا توجد حسابات بريد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Extra recipients with coordinating conjunction </Description>
+      <Position>AND_N_MORE</Position>
+      <TranslationSet>
+        <base loc="en"> &amp; %@ more…</base>
+        <tran loc="ar"> و %@ إضافية…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Used to construct the name assigned to nameless attachments. Normally followed by a sequence number and an extension, e.g. “attachment 2.doc”. </Description>
+      <Position>DEFAULT_ATTACHMENT_NAME</Position>
+      <TranslationSet>
+        <base loc="en">attachment</base>
+        <tran loc="ar">مرفق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Mail Drop Web UI Downloadable </Description>
+      <Position>MAIL_DROP_DOWNLOADABLE</Position>
+      <TranslationSet>
+        <base loc="en">Click to Download</base>
+        <tran loc="ar">انقر للتنزيل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Undo name for adding an address to a recipient field in the compose window </Description>
+      <Position>ADDRESS_DELETION</Position>
+      <TranslationSet>
+        <base loc="en">Address Deletion</base>
+        <tran loc="ar">حذف العنوان</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>MARK_AS_READ</Position>
+      <TranslationSet>
+        <base loc="en">Mark as Read</base>
+        <tran loc="ar">تمييز كمقروءة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Explanation text for Mail Drop feature with multiple attachments. Cumulative size of all attachments is mentioned in parenthesis. </Description>
+      <Position>MAIL_DROP_TITLE_MANY_FORMAT</Position>
+      <TranslationSet>
+        <base loc="en">These attachments may be too large (%@) to send in email. Do you want to use Mail Drop to deliver these attachments using iCloud? They will be available for the next 30 days.</base>
+        <tran loc="ar">قد تكون هذه المرفقات (%@) أكبر من أن يتم إرسالها عبر البريد الإلكتروني. هل تريد استخدام Mail Drop لتسليم هذه المرفقات باستخدام iCloud؟ ستصبح المرفقات متوفرة على مدار الـ ٣٠ يومًا التالية.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Message cannot be sent encrypted title </Description>
+      <Position>UNENCRYPTED_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Message is Unencrypted</base>
+        <tran loc="ar">الرسالة غير مشفرة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Title on OK button in alert for lack of Mail setup </Description>
+      <Position>NO_EMAIL_ACCOUNT_OK</Position>
+      <TranslationSet>
+        <base loc="en">OK</base>
+        <tran loc="ar">موافق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Title on OK button in alert for lack of SMS/MMS capability </Description>
+      <Position>NO_SMS_OK</Position>
+      <TranslationSet>
+        <base loc="en">OK</base>
+        <tran loc="ar">موافق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> OK button in alert sheets. </Description>
+      <Position>OK</Position>
+      <TranslationSet>
+        <base loc="en">OK</base>
+        <tran loc="ar">موافق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Alert sheet title for thread notification confirmation </Description>
+      <Position>NOTIFY_ME</Position>
+      <TranslationSet>
+        <base loc="en">Notify Me</base>
+        <tran loc="ar">إعلامي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Subtitle shown when collecting encryption certificates for composition recipients </Description>
+      <Position>VALIDATING_RECIPIENTS</Position>
+      <TranslationSet>
+        <base loc="en">Validating recipients…</base>
+        <tran loc="ar">جاري التحقق من المستلمين…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Forward </Description>
+      <Position>FORWARD</Position>
+      <TranslationSet>
+        <base loc="en">Forward</base>
+        <tran loc="ar">تحويل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>FORMAT_COLOR_PALETTE_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Color Palette</base>
+        <tran loc="ar">لوح الألوان</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Delete Draft </Description>
+      <Position>DELETE_DRAFT</Position>
+      <TranslationSet>
+        <base loc="en">Delete Draft</base>
+        <tran loc="ar">حذف المسودة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Quote level menu item </Description>
+      <Position>QUOTE_LEVEL</Position>
+      <TranslationSet>
+        <base loc="en">Quote Level</base>
+        <tran loc="ar">مستوى الاقتباس</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Quote level changed undo button </Description>
+      <Position>UNDO_QUOTE_LEVEL</Position>
+      <TranslationSet>
+        <base loc="en">Quote Level</base>
+        <tran loc="ar">مستوى الاقتباس</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> New Message </Description>
+      <Position>NEW_MESSAGE</Position>
+      <TranslationSet>
+        <base loc="en">New Message</base>
+        <tran loc="ar">رسالة جديدة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> New Message (non-abbreviated form) </Description>
+      <Position>NEW_MESSAGE_LONG</Position>
+      <TranslationSet>
+        <base loc="en">New Message</base>
+        <tran loc="ar">رسالة جديدة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Image Resizing Bar Title, Collapsed view </Description>
+      <Position>IMAGE_RESIZING_BAR_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Images:</base>
+        <tran loc="ar">الصور:</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Edit </Description>
+      <Position>EDIT</Position>
+      <TranslationSet>
+        <base loc="en">Edit</base>
+        <tran loc="ar">تحرير</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Insert video undo button</Description>
+      <Position>UNDO_INSERT_VIDEO</Position>
+      <TranslationSet>
+        <base loc="en">Insert Video</base>
+        <tran loc="ar">إدراج مقطع فيديو</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Cancel </Description>
+      <Position>CANCEL</Position>
+      <TranslationSet>
+        <base loc="en">Cancel</base>
+        <tran loc="ar">إلغاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Short title for header in compose showing suggested recipients. </Description>
+      <Position>SUGGESTIONS</Position>
+      <TranslationSet>
+        <base loc="en">Suggestions</base>
+        <tran loc="ar">اقتراحات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> From </Description>
+      <Position>FROM</Position>
+      <TranslationSet>
+        <base loc="en">From:</base>
+        <tran loc="ar">من:</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Separator for recipient names when only two are displayed. </Description>
+      <Position>BINARY_RECIPIENT_SEPARATOR</Position>
+      <TranslationSet>
+        <base loc="en">%@ and %@</base>
+        <tran loc="ar">‏%@ و%@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Error saving a draft - title </Description>
+      <Position>ERROR_SAVING_DRAFT_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Unable to Save Draft</base>
+        <tran loc="ar">تعذر حفظ المسودة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Label for an email composition that can not be encrypted due to some error </Description>
+      <Position>UNABLE_TO_ENCRYPT</Position>
+      <TranslationSet>
+        <base loc="en">Unable to Encrypt</base>
+        <tran loc="ar">تعذر التشفير</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> select a contact from the people picker </Description>
+      <Position>SELECT_CONTACT</Position>
+      <TranslationSet>
+        <base loc="en">Choose a contact to mail</base>
+        <tran loc="ar">اختيار جهة اتصال لإرسال البريد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Sending message failed, saved to outbox </Description>
+      <Position>SAVED_TO_OUTBOX</Position>
+      <TranslationSet>
+        <base loc="en">A copy has been placed in your Outbox.</base>
+        <tran loc="ar">تم وضع نسخة في صندوق الصادر.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Alert sheet title for muted thread action</Description>
+      <Position>MUTE_THREAD_CONFIRMATION</Position>
+      <TranslationSet>
+        <base loc="en">Mute all replies to this email thread</base>
+        <tran loc="ar">كتم جميع الردود على سلسلة البريد هذه.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Asset downloads/conversions currently in progress </Description>
+      <Position>IN_FLIGHT_ASSET_DOWNLOAD_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Download in Progress</base>
+        <tran loc="ar">التنزيل قيد التقدم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>MEDIUM_SIZE_BAR_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Medium</base>
+        <tran loc="ar">متوسط</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>MEDIUM_SIZE_UNKNOWN_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Medium</base>
+        <tran loc="ar">متوسط</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Title for window displaying a list of suggested recipients. </Description>
+      <Position>SUGGESTED_RECIPIENTS</Position>
+      <TranslationSet>
+        <base loc="en">Suggested Recipients</base>
+        <tran loc="ar">المستلمون المقترحون</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>FORMAT_FONTS_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Fonts</base>
+        <tran loc="ar">الخطوط</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Message is too big for cell connection title </Description>
+      <Position>TOO_BIG_FOR_CELL %d</Position>
+      <TranslationSet>
+        <base loc="en">Attachment Is Over %dMB</base>
+        <tran loc="ar">المرفق يتجاوز %d ميغابايت</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Bring up camera to take a photo or video </Description>
+      <Position>TAKE_PHOTO_OR_VIDEO</Position>
+      <TranslationSet>
+        <base loc="en">Take Photo or Video</base>
+        <tran loc="ar">التقاط صورة أو فيديو</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>FORMAT_DEFAULT_FONT_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Default Font</base>
+        <tran loc="ar">الخط الافتراضي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> placeholder text for recently used recipient addresses without a display name in search results </Description>
+      <Position>RECENT_PLACEHOLDER_NAME</Position>
+      <TranslationSet>
+        <base loc="en">Recent</base>
+        <tran loc="ar">الأحدث</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Navigation title when showing person card for previous recipient that does not exist in Address Book </Description>
+      <Position>RECENT_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Recent</base>
+        <tran loc="ar">الأحدث</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> BCC/From </Description>
+      <Position>BCC/FROM</Position>
+      <TranslationSet>
+        <base loc="en">Bcc/From:</base>
+        <tran loc="ar">نسخة مخفية/من:</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Insert Photo or Video </Description>
+      <Position>INSERT_PHOTO_OR_VIDEO</Position>
+      <TranslationSet>
+        <base loc="en">Insert Photo or Video</base>
+        <tran loc="ar">إدراج صورة أو فيديو</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Send message confirmation </Description>
+      <Position>CONFIRM_SEND_MESSAGE %@</Position>
+      <TranslationSet>
+        <base loc="en">“%@” does not appear to be a valid email address. Do you want to send it anyway?</base>
+        <tran loc="ar">لا يبدو أن \"%@\" عنوان بريد إلكتروني صالح. هل ترغب في الإرسال على أية حال؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ACTUAL_SIZE_TITLE %@</Position>
+      <TranslationSet>
+        <base loc="en">Actual Size (%@)</base>
+        <tran loc="ar">الحجم الفعلي (%@)</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Confirm send with Mail Drop </Description>
+      <Position>MAIL_DROP_USE_MESSAGE</Position>
+      <TranslationSet>
+        <base loc="en">Use Mail Drop</base>
+        <tran loc="ar">استخدام Mail Drop</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Alert title for lack of SMS/MMS capability </Description>
+      <Position>NO_SMS_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Cannot Send Message</base>
+        <tran loc="ar">لا يمكن إرسال الرسالة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Other Signers </Description>
+      <Position>OTHER_SIGNERS</Position>
+      <TranslationSet>
+        <base loc="en">Other:</base>
+        <tran loc="ar">أخرى:</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Asset downloads/conversions send confirmation </Description>
+      <Position>IN_FLIGHT_ASSET_DOWNLOAD_MESSAGE</Position>
+      <TranslationSet>
+        <base loc="en">Attachments are still being downloaded. Sending now will not include all attachments. Do you want to send it anyway?</base>
+        <tran loc="ar">ما زالت المرفقات قيد التنزيل. وإذا تم الإرسال الآن، فلن يتم تضمين كل المرفقات. هل ترغب في الإرسال على أية حال؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Title for button to remove recent group. </Description>
+      <Position>REMOVE_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Remove</base>
+        <tran loc="ar">إزالة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Explanation shown when an encryption certificate is available for a recipient. </Description>
+      <Position>ENCRYPTION_EXPLANATION_FORMAT</Position>
+      <TranslationSet>
+        <base loc="en">You can send encrypted messages to “%@”.</base>
+        <tran loc="ar">يمكنك إرسال رسائل مشفرة إلى \"%@\".</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Insert photo undo button</Description>
+      <Position>UNDO_INSERT_PHOTO</Position>
+      <TranslationSet>
+        <base loc="en">Insert Photo</base>
+        <tran loc="ar">إدراج صورة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Button presented in person card to remove entry from recents database </Description>
+      <Position>REMOVE_RECENT</Position>
+      <TranslationSet>
+        <base loc="en">Remove From Recents</base>
+        <tran loc="ar">إزالة من \"الحديثة\"</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Invalid address </Description>
+      <Position>INVALID_ADDRESS_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Invalid Address</base>
+        <tran loc="ar">عنوان غير صالح</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Table header preceding suggested recipients found in the user's email </Description>
+      <Position>FOUND_IN_MAIL</Position>
+      <TranslationSet>
+        <base loc="en">Siri Found in Apps</base>
+        <tran loc="ar">من التطبيقات بواسطة Siri</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>TOO_BIG_FOR_CELL_MESSAGE_CH</Position>
+      <TranslationSet>
+        <base loc="en">You must connect to a WLAN network to send this attachment.</base>
+        <tran loc="ar">يجب الاتصال بشبكة WLAN لإرسال هذا المرفق.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>MAIL_DROP_AVAILABLE_UNTIL %@</Position>
+      <TranslationSet>
+        <base loc="en">Available until %@</base>
+        <tran loc="ar">متوفر حتى %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> CC/BCC/From </Description>
+      <Position>CC/BCC/FROM</Position>
+      <TranslationSet>
+        <base loc="en">Cc/Bcc, From:</base>
+        <tran loc="ar">نسخة/نسخة مخفية، من:</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Loading </Description>
+      <Position>LOADING</Position>
+      <TranslationSet>
+        <base loc="en">Loading…</base>
+        <tran loc="ar">جاري التحميل…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> placeholder text for recipient addresses without a display name in search results </Description>
+      <Position>PLACEHOLDER_NAME</Position>
+      <TranslationSet>
+        <base loc="en">No Name</base>
+        <tran loc="ar">لا يوجد اسم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Reply </Description>
+      <Position>REPLY</Position>
+      <TranslationSet>
+        <base loc="en">Reply</base>
+        <tran loc="ar">رد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Extra recipients </Description>
+      <Position>N_MORE</Position>
+      <TranslationSet>
+        <base loc="en">%@ more…</base>
+        <tran loc="ar">‏%@ إضافية…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Import Document (File Provider) </Description>
+      <Position>IMPORT_DOCUMENT</Position>
+      <TranslationSet>
+        <base loc="en">Add Document</base>
+        <tran loc="ar">إضافة مستند</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Undo Import Document (File Provider) </Description>
+      <Position>UNDO_IMPORT_DOCUMENT</Position>
+      <TranslationSet>
+        <base loc="en">Add Document</base>
+        <tran loc="ar">إضافة مستند</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Message accompanying an alert for a failed attachment </Description>
+      <Position>ATTACHMENTS_FAILED_TO_LOAD_MESSAGE</Position>
+      <TranslationSet>
+        <base loc="en">One or more attachments failed to load.</base>
+        <tran loc="ar">فشل تحميل مرفق واحد أو أكثر.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Explaination that user tried to send while Airplane Mode is engaged. </Description>
+      <Position>AIRPLANE_EXPLAIN</Position>
+      <TranslationSet>
+        <base loc="en">Airplane Mode is on.  The email has been placed in your Outbox and will be sent later.</base>
+        <tran loc="ar">نمط الطائرة يشتغل. تم وضع البريد في صندوق الصادر وسوف يتم إرساله في وقت لاحق.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Truncated recipient </Description>
+      <Position>TRUNCATED_RECIPIENT_FORMAT</Position>
+      <TranslationSet>
+        <base loc="en">%@…</base>
+        <tran loc="ar">‏%@…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Empty subject </Description>
+      <Position>EMPTY_SUBJECT_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Empty Subject</base>
+        <tran loc="ar">موضوع فارغ</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Cc:</Position>
+      <TranslationSet>
+        <base loc="en">Cc</base>
+        <tran loc="ar">نسخة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Photo picker recent photos </Description>
+      <Position>PHOTO_PICKER_RECENT_PHOTOS</Position>
+      <TranslationSet>
+        <base loc="en">Recent Photos</base>
+        <tran loc="ar">الصور الحديثة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Alert body for lack of SMS/MMS capability </Description>
+      <Position>NO_SMS_EXPLANATION</Position>
+      <TranslationSet>
+        <base loc="en">Text messaging is not available.</base>
+        <tran loc="ar">المراسلة النصية غير متوفرة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Discoverability title for the "focus Bcc field" keyboard shortcut </Description>
+      <Position>FOCUS_BCC</Position>
+      <TranslationSet>
+        <base loc="en">Add Bcc</base>
+        <tran loc="ar">إضافة نسخة مخفية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Shown in the Compose when formatting text for the email body. These are the various styles of text that you may want to use for text. </Description>
+      <Position>FORMAT_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Format</base>
+        <tran loc="ar">التنسيق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Markup selected attachment </Description>
+      <Position>MARKUP_ATTACHMENT</Position>
+      <TranslationSet>
+        <base loc="en">Markup</base>
+        <tran loc="ar">توصيف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Alert title for a failed attachment </Description>
+      <Position>ATTACHMENTS_FAILED_TO_LOAD_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Unable to Attach</base>
+        <tran loc="ar">غير قادر على الإرفاق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Email address separator </Description>
+      <Position>ADDRESS_SEPARATOR</Position>
+      <TranslationSet>
+        <base loc="en">, </base>
+        <tran loc="ar">‏، </tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Shown in reminders and spotlight as a label for the draft compose activity. Should be short. </Description>
+      <Position>DRAFT_ACTIVITY_FORMAT %@</Position>
+      <TranslationSet>
+        <base loc="en">Draft: %@</base>
+        <tran loc="ar">مسودة: %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Photo picker title </Description>
+      <Position>PHOTO_PICKER_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Photos</base>
+        <tran loc="ar">الصور</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> More button title to expand recipients list </Description>
+      <Position>MORE_TITLE</Position>
+      <TranslationSet>
+        <base loc="en"> more…</base>
+        <tran loc="ar"> المزيد…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Used to construct the name assigned to inserted drawings. Normally followed by a sequence number and an extension, e.g. “drawing 2.png”. </Description>
+      <Position>DEFAULT_DRAWING_NAME</Position>
+      <TranslationSet>
+        <base loc="en">drawing</base>
+        <tran loc="ar">رسم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Separator placed between 'To' and 'Cc' recipients in the summarized header </Description>
+      <Position>RECIPIENT_TYPES_SEPARATOR</Position>
+      <TranslationSet>
+        <base loc="en">   </base>
+        <tran loc="ar">   </tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Download Progress </Description>
+      <Position>DOWNLOAD_PROGRESS</Position>
+      <TranslationSet>
+        <base loc="en">%@ of %@</base>
+        <tran loc="ar">%@ من %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Label for an encrypted email composition </Description>
+      <Position>ENCRYPTED</Position>
+      <TranslationSet>
+        <base loc="en">Encrypted</base>
+        <tran loc="ar">مشفر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SCAN_DOCUMENT_FAILED_EXPLAIN</Position>
+      <TranslationSet>
+        <base loc="en">Unable to add scanned document to message.</base>
+        <tran loc="ar">غير قادر على إضافة المستند الممسوح ضوئيًا إلى الرسالة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Save Draft </Description>
+      <Position>SAVE_AS_DRAFT</Position>
+      <TranslationSet>
+        <base loc="en">Save Draft</base>
+        <tran loc="ar">حفظ المسودة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>LARGE_SIZE_BAR_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Large</base>
+        <tran loc="ar">كبير</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>LARGE_SIZE_UNKNOWN_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Large</base>
+        <tran loc="ar">كبير</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> CC/BCC </Description>
+      <Position>CC/BCC</Position>
+      <TranslationSet>
+        <base loc="en">Cc/Bcc:</base>
+        <tran loc="ar">نسخة/نسخة مخفية:</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Discoverability title for "Increase quote level" keyboard shortcut </Description>
+      <Position>DECREASE_QUOTE_LEVEL</Position>
+      <TranslationSet>
+        <base loc="en">Decrease Quote Level</base>
+        <tran loc="ar">خفض مستوى الاقتباس</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Single / Initial member of a group </Description>
+      <Position>GROUP_INITIAL_ITEM</Position>
+      <TranslationSet>
+        <base loc="en">%@</base>
+        <tran loc="ar">‏%@‏</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Leave in Outbox </Description>
+      <Position>LEAVE_IN_OUTBOX</Position>
+      <TranslationSet>
+        <base loc="en">Leave in Outbox</base>
+        <tran loc="ar">ترك في صندوق الصادر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Discoverability title for "Increase quote level" keyboard shortcut </Description>
+      <Position>INCREASE_QUOTE_LEVEL</Position>
+      <TranslationSet>
+        <base loc="en">Increase Quote Level</base>
+        <tran loc="ar">زيادة مستوى الاقتباس</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> BCC </Description>
+      <Position>BCC</Position>
+      <TranslationSet>
+        <base loc="en">Bcc:</base>
+        <tran loc="ar">نسخة مخفية:</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Message is too big for cell connection message </Description>
+      <Position>TOO_BIG_FOR_CELL_MESSAGE</Position>
+      <TranslationSet>
+        <base loc="en">You must connect to a Wi-Fi network to send this attachment.</base>
+        <tran loc="ar">يجب الاتصال بشبكة Wi-Fi لإرسال هذا المرفق.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Message cannot be sent encrypted send confirmation for any </Description>
+      <Position>CONFIRM_UNENCRYPTED_MESSAGE_ANY</Position>
+      <TranslationSet>
+        <base loc="en">Mail cannot find a valid certificate for any recipient. Do you want to send it anyway?</base>
+        <tran loc="ar">لم يتمكن البريد من العثور على شهادة صالحة لأي مستلم. هل ترغب في الإرسال على أية حال؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Undo name for adding an address to a recipient field in the compose window </Description>
+      <Position>ADDRESS_ADDITION</Position>
+      <TranslationSet>
+        <base loc="en">Address Addition</base>
+        <tran loc="ar">إضافة العنوان</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Explanation text for Mail Drop feature with only one large attachment. Size of attachment is mentioned in parenthesis. </Description>
+      <Position>MAIL_DROP_TITLE_FORMAT</Position>
+      <TranslationSet>
+        <base loc="en">This attachment may be too large (%@) to send in email. Do you want to use Mail Drop to deliver the attachment using iCloud? It will be available for the next 30 days.</base>
+        <tran loc="ar">قد يكون هذا المرفق (%@) أكبر من أن يتم إرساله عبر البريد الإلكتروني. هل تريد استخدام Mail Drop لتسليم هذا المرفق باستخدام iCloud؟ سيصبح المرفق متوفرًا على مدار الـ ٣٠ يومًا التالية.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Label for an email composition that will not be encrypted </Description>
+      <Position>NOT_ENCRYPTED</Position>
+      <TranslationSet>
+        <base loc="en">Not Encrypted</base>
+        <tran loc="ar">غير مشفر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Mail Drop </Description>
+      <Position>MAIL_DROP</Position>
+      <TranslationSet>
+        <base loc="en">Mail Drop</base>
+        <tran loc="ar">استخدام Mail Drop</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> To </Description>
+      <Position>TO</Position>
+      <TranslationSet>
+        <base loc="en">To:</base>
+        <tran loc="ar">إلى:</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ACTUAL_SIZE_BAR_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Actual Size</base>
+        <tran loc="ar">الحجم الفعلي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>MAIL_DROP_DOWNLOAD_IMAGES</Position>
+      <TranslationSet>
+        <base loc="en">Download full resolution images</base>
+        <tran loc="ar">تنزيل الصور ذات الدقة الكاملة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> attached video file name </Description>
+      <Position>VIDEO</Position>
+      <TranslationSet>
+        <base loc="en">Video</base>
+        <tran loc="ar">فيديو</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Don't Save </Description>
+      <Position>DONT_SAVE</Position>
+      <TranslationSet>
+        <base loc="en">Don’t Save</base>
+        <tran loc="ar">عدم الحفظ</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> a non-final member of a group </Description>
+      <Position>GROUP_NON_FINAL_ITEM</Position>
+      <TranslationSet>
+        <base loc="en">, %@</base>
+        <tran loc="ar">‏، ‏%@‏</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Table header preceding recipients that are from a directory server </Description>
+      <Position>FOUND_ON_SERVERS</Position>
+      <TranslationSet>
+        <base loc="en">Found on servers</base>
+        <tran loc="ar">تم العثور عليها على الخوادم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Device format for lack of SMS/MMS capability </Description>
+      <Position>NO_SMS_EXPLANATION_DEVICE_FORMAT</Position>
+      <TranslationSet>
+        <base loc="en">Text messaging is not available on %@.</base>
+        <tran loc="ar">المراسلة النصية غير متوفرة على الـ %@.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>LARGE_SIZE_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Large (%@)</base>
+        <tran loc="ar">كبير (%@)</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>MEDIUM_SIZE_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Medium (%@)</base>
+        <tran loc="ar">متوسط (%@)</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Alert sheet description for thread notification confirmation </Description>
+      <Position>NOTIFY_ME_CONFIRMATION</Position>
+      <TranslationSet>
+        <base loc="en">Receive notifications when anyone replies to this email thread.</base>
+        <tran loc="ar">استلام الإشعارات عندما يقوم أحدهم بالرد على سلسلة البريد هذه.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Settings </Description>
+      <Position>SETTINGS</Position>
+      <TranslationSet>
+        <base loc="en">Settings</base>
+        <tran loc="ar">الإعدادات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Sending </Description>
+      <Position>SENDING</Position>
+      <TranslationSet>
+        <base loc="en">Sending</base>
+        <tran loc="ar">جاري الإرسال</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Photo picker all photos </Description>
+      <Position>PHOTO_PICKER_ALL_PHOTOS</Position>
+      <TranslationSet>
+        <base loc="en">All Photos</base>
+        <tran loc="ar">كافة الصور</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>From:</Position>
+      <TranslationSet>
+        <base loc="en">From</base>
+        <tran loc="ar">من</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Shortened separator for recipient names when only two are displayed. </Description>
+      <Position>SHORT_BINARY_RECIPIENT_SEPARATOR</Position>
+      <TranslationSet>
+        <base loc="en">%@ &amp; %@</base>
+        <tran loc="ar">‏%@ و ‏%@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> (No subject) </Description>
+      <Position>NO_SUBJECT</Position>
+      <TranslationSet>
+        <base loc="en">(No subject)</base>
+        <tran loc="ar">(بلا موضوع)</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Confirm do not send with Mail Drop plural </Description>
+      <Position>MAIL_DROP_NOT_USE_MESSAGE_PLURAL</Position>
+      <TranslationSet>
+        <base loc="en">Try Sending Attachments</base>
+        <tran loc="ar">محاولة إرسال المرفقات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Delete Changes </Description>
+      <Position>DELETE_CHANGES</Position>
+      <TranslationSet>
+        <base loc="en">Delete Changes</base>
+        <tran loc="ar">حذف التغييرات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Save </Description>
+      <Position>SAVE</Position>
+      <TranslationSet>
+        <base loc="en">Save</base>
+        <tran loc="ar">حفظ</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>MessageUI/System/iOSSupport/System/Library/Frameworks/MessageUI.framework/Versions/A/Resources/en.lproj/MSMailIntents.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>8yoHVH</Position>
+      <TranslationSet>
+        <base loc="en">Body</base>
+        <tran loc="ar">النص</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>lG9ouR</Position>
+      <TranslationSet>
+        <base loc="en">Body</base>
+        <tran loc="ar">النص</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>mtzZs0</Position>
+      <TranslationSet>
+        <base loc="en">Body</base>
+        <tran loc="ar">النص</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>bNHtR7</Position>
+      <TranslationSet>
+        <base loc="en">Subject: ${subject}</base>
+        <tran loc="ar">الموضوع: ${subject}</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>bbzJMA</Position>
+      <TranslationSet>
+        <base loc="en">Subject: ${subject}</base>
+        <tran loc="ar">الموضوع: ${subject}</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Xka975</Position>
+      <TranslationSet>
+        <base loc="en">Subject: ${subject}
+${body}</base>
+        <tran loc="ar">الموضوع: ${subject}
+${body}</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>bJxPO6</Position>
+      <TranslationSet>
+        <base loc="en">Subject: ${subject}
+${body}</base>
+        <tran loc="ar">الموضوع: ${subject}
+${body}</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>vNsQQw</Position>
+      <TranslationSet>
+        <base loc="en">Subject: ${subject}
+${body}</base>
+        <tran loc="ar">الموضوع: ${subject}
+${body}</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>md2vQv</Position>
+      <TranslationSet>
+        <base loc="en">Status</base>
+        <tran loc="ar">الحالة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>E73xMf</Position>
+      <TranslationSet>
+        <base loc="en">Save as Draft</base>
+        <tran loc="ar">حفظ كمسودة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>3L8Dzh</Position>
+      <TranslationSet>
+        <base loc="en">Read Status</base>
+        <tran loc="ar">الحالة \"مقروءة\"</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SQ9yhM</Position>
+      <TranslationSet>
+        <base loc="en">What kind of emails do you want to search for?</base>
+        <tran loc="ar">ما نوع رسائل البريد الإلكتروني الذي تريد أن تبحث عنه؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>yMeLBB</Position>
+      <TranslationSet>
+        <base loc="en">Unread</base>
+        <tran loc="ar">غير مقروءة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>D4R9iq</Position>
+      <TranslationSet>
+        <base loc="en">Bcc</base>
+        <tran loc="ar">نسخة مخفية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>vW7XZM</Position>
+      <TranslationSet>
+        <base loc="en">Bcc</base>
+        <tran loc="ar">نسخة مخفية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>lDkUYI</Position>
+      <TranslationSet>
+        <base loc="en">To</base>
+        <tran loc="ar">إلى</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>qa3hVi</Position>
+      <TranslationSet>
+        <base loc="en">To</base>
+        <tran loc="ar">إلى</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ABx10m</Position>
+      <TranslationSet>
+        <base loc="en">Airplane Mode is on. The email has been placed in your Outbox and will be sent later.</base>
+        <tran loc="ar">نمط الطيران قيد التشغيل. تم وضع رسالة البريد الإلكتروني في صندوق الصادر وسيتم إرسالها لاحقًا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>JYG99B</Position>
+      <TranslationSet>
+        <base loc="en">What attachments do you want to include?</base>
+        <tran loc="ar">ما المرفقات التي تريد تضمينها؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Ds2BbX</Position>
+      <TranslationSet>
+        <base loc="en">What do you want to search for?</base>
+        <tran loc="ar">ما الذي تريد أن تبحث عنه؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>j2YUgU</Position>
+      <TranslationSet>
+        <base loc="en">Attachments</base>
+        <tran loc="ar">المرفقات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>oNy47a</Position>
+      <TranslationSet>
+        <base loc="en">Who should be in cc?</base>
+        <tran loc="ar">من يجب أن يكون في حقل النسخة؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>pK4jOa</Position>
+      <TranslationSet>
+        <base loc="en">Do you want to save this as a draft?</base>
+        <tran loc="ar">هل ترغب في حفظ هذا كمسودة؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>nJL1KA</Position>
+      <TranslationSet>
+        <base loc="en">Which email account do you want to use?</base>
+        <tran loc="ar">ما حساب البريد الإلكتروني الذي تريد استخدامه؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>sCMShJ</Position>
+      <TranslationSet>
+        <base loc="en">Emails</base>
+        <tran loc="ar">رسائل بريد إلكتروني</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>QCNYwt</Position>
+      <TranslationSet>
+        <base loc="en">Email</base>
+        <tran loc="ar">بريد إلكتروني</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>OQID5e-yMeLBB</Position>
+      <TranslationSet>
+        <base loc="en">Just to confirm, you wanted ‘Unread’?</base>
+        <tran loc="ar">فقط للتأكيد، هل قصدت \"غير مقروءة\"؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>M2Kfex</Position>
+      <TranslationSet>
+        <base loc="en">Who should be in bcc?</base>
+        <tran loc="ar">من يجب أن يكون في حقل النسخة المخفية؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>0uh4U6</Position>
+      <TranslationSet>
+        <base loc="en">User Typed Content</base>
+        <tran loc="ar">محتوى من كتابة المستخدم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>nGxQ3N</Position>
+      <TranslationSet>
+        <base loc="en">Compose an email to ${to}; Cc ${cc}; Bcc ${bcc}</base>
+        <tran loc="ar">إنشاء رسالة بريد إلكتروني إلى ${to}؛ نسخة إلى ${cc}؛ نسخة مخفية إلى ${bcc}</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>3vIsAb</Position>
+      <TranslationSet>
+        <base loc="en">Sent</base>
+        <tran loc="ar">تم الإرسال</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>79eA1L</Position>
+      <TranslationSet>
+        <base loc="en">Compose an email to ${to}</base>
+        <tran loc="ar">إنشاء رسالة بريد إلكتروني إلى ${to}</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DT0d7L</Position>
+      <TranslationSet>
+        <base loc="en">Compose an email to ${to}</base>
+        <tran loc="ar">إنشاء رسالة بريد إلكتروني إلى ${to}</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>cUyX6c</Position>
+      <TranslationSet>
+        <base loc="en">Compose an email to ${to}</base>
+        <tran loc="ar">إنشاء رسالة بريد إلكتروني إلى ${to}</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>YRUX5U</Position>
+      <TranslationSet>
+        <base loc="en">Who do you want to send it to?</base>
+        <tran loc="ar">من الذي تريد أن ترسل له؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>GHRHuE</Position>
+      <TranslationSet>
+        <base loc="en">Cc</base>
+        <tran loc="ar">نسخة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>k3upGx</Position>
+      <TranslationSet>
+        <base loc="en">Cc</base>
+        <tran loc="ar">نسخة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>G1XRZq</Position>
+      <TranslationSet>
+        <base loc="en">Who do you want to search for?</base>
+        <tran loc="ar">من الذي تريد أن تبحث عنه؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>vHD1WI</Position>
+      <TranslationSet>
+        <base loc="en">Who do you want to search for?</base>
+        <tran loc="ar">من الذي تريد أن تبحث عنه؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>U05sJS-yMeLBB</Position>
+      <TranslationSet>
+        <base loc="en">There are ${count} options matching ‘Unread’.</base>
+        <tran loc="ar">هناك ${count} خيار يطابق \"غير مقروءة\".</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SAZwHu</Position>
+      <TranslationSet>
+        <base loc="en">What is the subject of the email?</base>
+        <tran loc="ar">ما موضوع البريد الإلكتروني؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>emRCR2</Position>
+      <TranslationSet>
+        <base loc="en">Recipient</base>
+        <tran loc="ar">المستلم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>XHuuIL</Position>
+      <TranslationSet>
+        <base loc="en">Get ${readStatus} mail</base>
+        <tran loc="ar">إحضار البريد ${readStatus}</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>eMdB1Q</Position>
+      <TranslationSet>
+        <base loc="en">What should the email say?</base>
+        <tran loc="ar">ماذا يجب أن يكون محتوى البريد الإلكتروني؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>jw2yQV</Position>
+      <TranslationSet>
+        <base loc="en">Read</base>
+        <tran loc="ar">مقروءة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>lRTTzu</Position>
+      <TranslationSet>
+        <base loc="en">Get Mail</base>
+        <tran loc="ar">إحضار البريد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>OQID5e-jw2yQV</Position>
+      <TranslationSet>
+        <base loc="en">Just to confirm, you wanted ‘Read’?</base>
+        <tran loc="ar">فقط للتأكيد، هل قصدت \"جاهز\"؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>U05sJS-jw2yQV</Position>
+      <TranslationSet>
+        <base loc="en">There are ${count} options matching ‘Read’.</base>
+        <tran loc="ar">هناك ${count} خيار يطابق \"جاهز\".</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>8qU1oM</Position>
+      <TranslationSet>
+        <base loc="en">Send Email</base>
+        <tran loc="ar">إرسال بريد إلكتروني</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ITMunN</Position>
+      <TranslationSet>
+        <base loc="en">Compose an email to ${to}; Cc ${cc}</base>
+        <tran loc="ar">إنشاء رسالة بريد إلكتروني إلى ${to}؛ نسخة إلى ${cc}</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>JHPpi7</Position>
+      <TranslationSet>
+        <base loc="en">Compose an email to ${to}; Cc ${cc}</base>
+        <tran loc="ar">إنشاء رسالة بريد إلكتروني إلى ${to}؛ نسخة إلى ${cc}</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>cBX51t</Position>
+      <TranslationSet>
+        <base loc="en">Compose an email to ${to}; Cc ${cc}</base>
+        <tran loc="ar">إنشاء رسالة بريد إلكتروني إلى ${to}؛ نسخة إلى ${cc}</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>90hbXM</Position>
+      <TranslationSet>
+        <base loc="en">From</base>
+        <tran loc="ar">من</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>jSdXtA</Position>
+      <TranslationSet>
+        <base loc="en">From</base>
+        <tran loc="ar">من</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>wawnJh</Position>
+      <TranslationSet>
+        <base loc="en">From</base>
+        <tran loc="ar">من</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>lhtw1Z</Position>
+      <TranslationSet>
+        <base loc="en">Which one?</base>
+        <tran loc="ar">أي واحد؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>G2465r</Position>
+      <TranslationSet>
+        <base loc="en">Subject</base>
+        <tran loc="ar">الموضوع</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>GkknPJ</Position>
+      <TranslationSet>
+        <base loc="en">Subject</base>
+        <tran loc="ar">الموضوع</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>vk61Xk</Position>
+      <TranslationSet>
+        <base loc="en">Subject</base>
+        <tran loc="ar">الموضوع</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+</Proj>

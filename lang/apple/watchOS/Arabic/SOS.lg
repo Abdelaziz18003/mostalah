@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Proj>
+  <ProjName>SOS</ProjName>
+  <File>
+    <Filepath>SOS/System/Library/LocationBundles/Emergency SOS.bundle/en.lproj/InfoPlist.strings</Filepath>
+    <TextItem>
+      <Description> 
+  Localizable.strings
+  NanoPhone
+
+  Created by Riley Howard on 7/20/16.
+  Copyright © 2016 Apple Inc. All rights reserved.
+</Description>
+      <Position>CFBundleDisplayName</Position>
+      <TranslationSet>
+        <base loc="en">Emergency Calls &amp; SOS</base>
+        <tran loc="ar">مكالمات الطوارئ و SOS</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>SOS/System/Library/PrivateFrameworks/SOS.framework/en.lproj/Localizable.strings</Filepath>
+    <TextItem>
+      <Description>                                                            1         2         3         4         5         6         7         8         9         0         1         2         3         4
+                                                   1234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890 234567890123456789012345678901234567890</Description>
+      <Position>EMERGENCY_TEXT_MESSAGE_NO_NAME_SMS_HAS_LOCATION</Position>
+      <TranslationSet>
+        <base loc="en">\nI called emergency services near </base>
+        <tran loc="ar">\nلقد اتصلتُ بخدمات طوارئ بالقرب من </tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>NEWTON_TEXT_MESSAGE_NO_NAME_SMS_HAS_LOCATION</Position>
+      <TranslationSet>
+        <base loc="en">\nI called emergency services near </base>
+        <tran loc="ar">\nلقد اتصلتُ بخدمات طوارئ بالقرب من </tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> SOS Localizable.strings </Description>
+      <Position>SOS_CANT_MESSAGE_EMERGENCY_SERVICES</Position>
+      <TranslationSet>
+        <base loc="en">You cannot add an emergency services number as your emergency contact. Try adding a friend or family member.</base>
+        <tran loc="ar">لا يمكنك إضافة رقم خدمات الطوارئ كجهة اتصال الطوارئ لديك. حاول إضافة أحد أصدقائك أو أفراد عائلتك.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description>                                                           1         2         3         4         5         6         7         8         9         0         1         2         3         4
+                                                  1234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890 234567890123456789012345678901234567890</Description>
+      <Position>EMERGENCY_TEXT_MESSAGE_NO_NAME_SMS_NO_LOCATION</Position>
+      <TranslationSet>
+        <base loc="en">\nI called emergency services. You are receiving this message because I listed you as an emergency contact.</base>
+        <tran loc="ar">\nلقد اتصلتُ بخدمات طوارئ. أنت تتلقى هذه الرسالة لأنني أدرجتك على أنك جهة اتصال عند الطوارئ.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>NEWTON_TEXT_MESSAGE_HAS_NAME_MMS_NO_LOCATION</Position>
+      <TranslationSet>
+        <base loc="en">\n%1$@ called emergency services after Apple Watch detected a hard fall. You are receiving this message because %2$@ has listed you as an emergency contact.</base>
+        <tran loc="ar">\nاتصل %1$@ بخدمات الطوارئ بعد أن اكتشفت Apple Watch سقوطًا قويًا. أنت تتلقى هذه الرسالة لأنه تم إدراجك من قبل %2$@ كجهة اتصال عند الطوارئ.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>EMERGENCY_TYPE_SOS_TRIGGER</Position>
+      <TranslationSet>
+        <base loc="en">Emergency SOS</base>
+        <tran loc="ar">طوارئ SOS</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description>                                                      1         2         3         4         5         6         7         8         9         0         1         2         3         4
+                                             1234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890 234567890123456789012345678901234567890</Description>
+      <Position>EMERGENCY_TEXT_MESSAGE_SUBSEQUENT_NO_NAME</Position>
+      <TranslationSet>
+        <base loc="en">\nMy approximate location has changed.</base>
+        <tran loc="ar">\nتغيّر موقعي التقريبي.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>NEWTON_TEXT_MESSAGE_NO_NAME_MMS_HAS_LOCATION</Position>
+      <TranslationSet>
+        <base loc="en">\nI called emergency services from this approximate location after Apple Watch detected a hard fall. You are receiving this message because I have listed you as an emergency contact.</base>
+        <tran loc="ar">\nاتصلتُ بخدمات الطوارئ من هذا الموقع التقريبي بعد أن اكتشفت Apple Watch سقوطًا قويًا. أنت تتلقى هذه الرسالة لأنني أدرجتك كجهة اتصال عند الطوارئ.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Variations of the emergency text message.
+        %1$@ - user's full name         example: Johnny Appleseed
+        %2$@ - user's first name        example: Johnny
+        %3$@ - GPS coordinates link     example: http://maps.apple.com/?ll=37.33272,-122.03486&amp;q=Location ("Location" from EMERGENCY_PIN_LABEL, above)
+
+    String variations:
+        HAS_NAME vs NO_NAME - do we have the user's name?
+        MMS vs SMS - are we attaching a map to the message?
+        HAS_LOCATION vs NO_LOCATION - do we have location coordinates?
+
+
+    IMPORTANT note: the SMS strings below should be 140 BYTES or less, INCLUDING POSSIBLE SUBSTITUTIONS.
+                    the MMS strings can be longer.
+
+// 140 characters below; this is NOT BYTES, but can be used as a guideline.
+//       1         2         3         4         5         6         7         8         9         0         1         2         3         4
+//34567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890 234567890123456789012345678901234567890
+
+ 
+ HAS_NAME group: </Description>
+      <Position>EMERGENCY_TEXT_MESSAGE_HAS_NAME_MMS_HAS_LOCATION</Position>
+      <TranslationSet>
+        <base loc="en">\n%1$@ has made an emergency call from this approximate location. You are receiving this message because %2$@ has listed you as an emergency contact.</base>
+        <tran loc="ar">\nأجرى %1$@ مكالمة طوارئ من هذا الموقع التقريبي. أنت تتلقى هذه الرسالة لأنه تمت إضافتك من قبل %2$@ كجهة اتصال عند الطوارئ.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>NEWTON_TEXT_MESSAGE_HAS_NAME_SMS_NO_LOCATION</Position>
+      <TranslationSet>
+        <base loc="en">\n%1$@ called emergency services after Apple Watch detected a hard fall. %2$@ has listed you as an emergency contact.</base>
+        <tran loc="ar">\nاتصل %1$@ بخدمات الطوارئ بعد أن اكتشفت Apple Watch سقوطًا قويًا. تم إدراجك من قبل %2$@ كجهة اتصال عند الطوارئ.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description>                                                                       1         2         3         4         5         6         7         8         9         0         1         2         3         4
+                                                              1234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890 234567890123456789012345678901234567890</Description>
+      <Position>EMERGENCY_TEXT_MESSAGE_SUBSEQUENT_NO_NAME_SMS_HAS_LOCATION</Position>
+      <TranslationSet>
+        <base loc="en">\nMy approximate location has changed: </base>
+        <tran loc="ar">\nتغيّر موقعي التقريبي: </tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>EMERGENCY_TEXT_MESSAGE_HAS_NAME_MMS_NO_LOCATION</Position>
+      <TranslationSet>
+        <base loc="en">\n%1$@ has made an emergency call. You are receiving this message because %2$@ has listed you as an emergency contact.</base>
+        <tran loc="ar">\nأجرى %1$@ مكالمة طوارئ. أنت تتلقى هذه الرسالة لأنه تمت إضافتك من قبل %2$@ كجهة اتصال عند الطوارئ.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>NEWTON_TEXT_MESSAGE_NO_NAME_SMS_NO_LOCATION</Position>
+      <TranslationSet>
+        <base loc="en">\nI called emergency services after Apple Watch detected a hard fall. You are receiving this message because I listed you as an emergency contact.</base>
+        <tran loc="ar">\nاتصلتُ بخدمات الطوارئ بعد أن اكتشفت Apple Watch سقوطًا قويًا. أنت تتلقى هذه الرسالة لأنني أدرجتك كجهة اتصال عند الطوارئ.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>NEWTON_TEXT_MESSAGE_HAS_NAME_MMS_HAS_LOCATION</Position>
+      <TranslationSet>
+        <base loc="en">\n%1$@ called emergency services from this approximate location after Apple Watch detected a hard fall. You’re receiving this message because %2$@ has listed you as an emergency contact.</base>
+        <tran loc="ar">\nاتصل %1$@ بخدمات الطوارئ من هذا الموقع التقريبي بعد أن اكتشفت Apple Watch سقوطًا قويًا. أنت تتلقى هذه الرسالة لأنه تم إدراجك من قبل %2$@ كجهة اتصال عند الطوارئ.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>NEWTON_TEXT_MESSAGE_HAS_NAME_SMS_HAS_LOCATION</Position>
+      <TranslationSet>
+        <base loc="en">\n%1$@ called emergency services from this approximate location after Apple Watch detected a hard fall. You’re receiving this message because %2$@ has listed you as an emergency contact.</base>
+        <tran loc="ar">\nاتصل %1$@ بخدمات الطوارئ من هذا الموقع التقريبي بعد أن اكتشفت Apple Watch سقوطًا قويًا. أنت تتلقى هذه الرسالة لأنه تم إدراجك من قبل %2$@ كجهة اتصال عند الطوارئ.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>NEWTON_TEXT_MESSAGE_NO_NAME_MMS_NO_LOCATION</Position>
+      <TranslationSet>
+        <base loc="en">\nI called emergency services after Apple Watch detected a hard fall. You are receiving this message because I have listed you as an emergency contact.</base>
+        <tran loc="ar">\nاتصلتُ بخدمات الطوارئ بعد أن اكتشفت Apple Watch سقوطًا قويًا. أنت تتلقى هذه الرسالة لأنني أدرجتك كجهة اتصال عند الطوارئ.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> NO_NAME group: </Description>
+      <Position>EMERGENCY_TEXT_MESSAGE_NO_NAME_MMS_HAS_LOCATION</Position>
+      <TranslationSet>
+        <base loc="en">\nI called emergency services from this approximate location. You are receiving this message because I have listed you as an emergency contact.</base>
+        <tran loc="ar">\nلقد اتصلتُ بخدمات طوارئ من هذا الموقع التقريبي. أنت تتلقى هذه الرسالة لأنني أدرجتك على أنك جهة اتصال عند الطوارئ.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>EMERGENCY_PIN_LABEL</Position>
+      <TranslationSet>
+        <base loc="en">Location</base>
+        <tran loc="ar">الموقع</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>EMERGENCY_TYPE_NEWTON_TRIGGER</Position>
+      <TranslationSet>
+        <base loc="en">Hard Fall SOS</base>
+        <tran loc="ar">طوارئ SOS - سقطة قوية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description>                                                       1         2         3         4         5         6         7         8         9         0         1         2         3         4
+                                              1234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890 234567890123456789012345678901234567890</Description>
+      <Position>EMERGENCY_TEXT_MESSAGE_SUBSEQUENT_HAS_NAME</Position>
+      <TranslationSet>
+        <base loc="en">\nThe approximate location of %1$@ has changed.</base>
+        <tran loc="ar">\nتغيّر موقع %1$@ التقريبي.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> callback number additional text</Description>
+      <Position>EMERGENCY_TEXT_CALLBACK_NUMBER_ADDITION_HAS_NAME</Position>
+      <TranslationSet>
+        <base loc="en">Call or text %@ at %@. Do not reply to this text.</base>
+        <tran loc="ar">اتصل أو أرسل رسالة إلى %@ على %@. لا ترد على هذه الرسالة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>EMERGENCY_TEXT_CALLBACK_NUMBER_ADDITION_NO_NAME</Position>
+      <TranslationSet>
+        <base loc="en">Call or text me at %@. Do not reply to this text to reach me.</base>
+        <tran loc="ar">اتصل أو أرسل لي على %@. لا ترد على هذه الرسالة للاتصال بي.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description>                                                            1         2         3         4         5         6         7         8         9         0         1         2         3         4
+                                                   1234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890 234567890123456789012345678901234567890</Description>
+      <Position>EMERGENCY_TEXT_MESSAGE_HAS_NAME_SMS_NO_LOCATION</Position>
+      <TranslationSet>
+        <base loc="en">\n%1$@ made an emergency call. %2$@ has listed you as an emergency contact.</base>
+        <tran loc="ar">\nأجرى %1$@ مكالمة طوارئ. تمت إضافتك من قبل %2$@ كجهة اتصال عند الطوارئ.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description>                                                             1         2         3         4         5         6         7         8         9         0         1         2         3         4
+                                                    1234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890 234567890123456789012345678901234567890</Description>
+      <Position>EMERGENCY_TEXT_MESSAGE_HAS_NAME_SMS_HAS_LOCATION</Position>
+      <TranslationSet>
+        <base loc="en">\n%1$@ made an emergency call near </base>
+        <tran loc="ar">أجرى %1$@ مكالمة طوارئ بالقرب من </tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>EMERGENCY_TEXT_CALLBACK_NO_NUMBER_ADDITION_HAS_NAME</Position>
+      <TranslationSet>
+        <base loc="en">Use the phone number you have for %@. Do not reply to this text.</base>
+        <tran loc="ar">استخدم رقم هاتف %@ الذي لديك. لا ترد على هذه الرسالة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description>                                                                        1         2         3         4         5         6         7         8         9         0         1         2         3         4
+                                                               1234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890 234567890123456789012345678901234567890</Description>
+      <Position>EMERGENCY_TEXT_MESSAGE_SUBSEQUENT_HAS_NAME_SMS_HAS_LOCATION</Position>
+      <TranslationSet>
+        <base loc="en">\nThe approximate location of %1$@ has changed:</base>
+        <tran loc="ar">\nتغيّر موقع %1$@ التقريبي:</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SOS_USING_YOUR_LOCATION</Position>
+      <TranslationSet>
+        <base loc="en">Emergency SOS is Using Your Location</base>
+        <tran loc="ar">طوارئ SOS تستخدم موقعك</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>EMERGENCY_TEXT_MESSAGE_NO_NAME_MMS_NO_LOCATION</Position>
+      <TranslationSet>
+        <base loc="en">\nI called emergency services. You are receiving this message because I have listed you as an emergency contact.</base>
+        <tran loc="ar">\nلقد اتصلتُ بخدمات طوارئ. أنت تتلقى هذه الرسالة لأنني أدرجتك على أنك جهة اتصال عند الطوارئ.</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+</Proj>

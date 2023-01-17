@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Proj>
+  <ProjName>ActivitySharingExtension</ProjName>
+  <File>
+    <Filepath>ActivitySharingExtension/System/Library/Messages/iMessageApps/ActivityMessagesPlugin.bundle/en.lproj/Localizable.strings</Filepath>
+    <TextItem>
+      <Description> Shown below the competition score for ended competitions </Description>
+      <Position>COMPETITION_ENDED_WINNER</Position>
+      <TranslationSet>
+        <base loc="en">%@ won</base>
+        <tran loc="ar">الفوز من نصيب %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Argument is the day of the week the competition starts </Description>
+      <Position>COMPETITION_ACCEPTED_MESSAGE</Position>
+      <TranslationSet>
+        <base loc="en">Starts %@</base>
+        <tran loc="ar">البداية يوم %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>COMPETITION_ENDED_TIED</Position>
+      <TranslationSet>
+        <base loc="en">It’s a tie!</base>
+        <tran loc="ar">تعادل!</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Used to describe goal completions in the condensed watch layout </Description>
+      <Position>GOAL_COMPLETION_DESCRIPTION_SHORT</Position>
+      <TranslationSet>
+        <base loc="en">Activity Rings Closed!</base>
+        <tran loc="ar">تم إكمال حلقات النشاط.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description>
+	2nd-person version of ACHIEVEMENT_FORMAT
+	Argument is the name of the achievement
+	e.g. "You earned a New Move Goal award."
+</Description>
+      <Position>ACHIEVEMENT_FORMAT_YOU</Position>
+      <TranslationSet>
+        <base loc="en">You earned a %@ award.</base>
+        <tran loc="ar">حصلت على جائزة %@.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 
+  Localizable.strings
+  ActivitySharing
+
+  Created by Joel Angelone on 2/23/17.
+
+
+
+    First argument is the recipient's name
+    Second argument is the name of the achievement
+    e.g. "Bob earned a New Move Goal award."
+ </Description>
+      <Position>ACHIEVEMENT_FORMAT</Position>
+      <TranslationSet>
+        <base loc="en">%@ earned a %@ award.</base>
+        <tran loc="ar">حصل %@ على جائزة %@.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Argument is the recipient's name </Description>
+      <Position>GOAL_COMPLETION_FORMAT</Position>
+      <TranslationSet>
+        <base loc="en">%@ closed all three rings.</base>
+        <tran loc="ar">أكمل %@ الحلقات الثلاث.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>MONTHLY_CHALLENGE_ACHIEVEMENT_FORMAT_YOU</Position>
+      <TranslationSet>
+        <base loc="en">You earned the %@ award.</base>
+        <tran loc="ar">حصلت على جائزة %@.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Shortened description of competition victory awards (standard title includes the friend name) </Description>
+      <Position>COMPETITION_VICTORY</Position>
+      <TranslationSet>
+        <base loc="en">Competition Victory</base>
+        <tran loc="ar">الانتصار في منافسة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>GOAL_COMPLETION_FORMAT_YOU</Position>
+      <TranslationSet>
+        <base loc="en">You closed all three rings</base>
+        <tran loc="ar">لقد أكملت الحلقات الثلاث</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>MONTHLY_CHALLENGE_ACHIEVEMENT_FORMAT</Position>
+      <TranslationSet>
+        <base loc="en">%@ earned the %@ award.</base>
+        <tran loc="ar">حصل %@ على جائزة %@.</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>ActivitySharingExtension/System/Library/Messages/iMessageApps/ActivityMessagesPlugin.bundle/en.lproj/InfoPlist.strings</Filepath>
+  </File>
+</Proj>

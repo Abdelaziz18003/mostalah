@@ -1,0 +1,2416 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Proj>
+  <ProjName>CloudDocs_executables</ProjName>
+  <File>
+    <Filepath>CloudDocs_executables/System/Library/PrivateFrameworks/CloudDocsDaemon.framework/Versions/A/Resources/en.lproj/Localizable.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>SHARING_GENERIC_ERROR_HEADER_OSX_DEFAULT</Position>
+      <TranslationSet>
+        <base loc="en">Sorry, this document can’t be opened right now.</base>
+        <tran loc="ar">عذرًا، لا يمكن فتح هذا المستند الآن.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Error: Unable to open the shared document. Reason unknown [1.1 in iOS specs v4, 1.1 in OSX specs v5]
+ Sorry, this &lt;document-kind&gt; can’t be opened right now.</Description>
+      <Position>SHARING_GENERIC_ERROR_HEADER_OSX_PAGES</Position>
+      <TranslationSet>
+        <base loc="en">Sorry, this document can’t be opened right now.</base>
+        <tran loc="ar">عذرًا، لا يمكن فتح هذا المستند الآن.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SHARING_PROFILE_DISABLED_MESSAGE_IOS_KEYNOTE</Position>
+      <TranslationSet>
+        <base loc="en">Keynote can’t open shared presentations because it’s a managed app.</base>
+        <tran loc="ar">لا يمكن لـ Keynote فتح العروض التقديمية المشتركة لأنه تطبيق تتم إدارته.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SHARING_APP_NOT_INSTALLED_MESSAGE_IOS_NUMBERS</Position>
+      <TranslationSet>
+        <base loc="en">%@ shared this spreadsheet. To start collaborating, install Numbers.</base>
+        <tran loc="ar">تمت مشاركة جدول البيانات هذا بواسطة %@. لبدء التعاون، قم بتثبيت Numbers.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SHARING_JOIN_MESSAGE_PUBLIC_OSX_DEFAULT</Position>
+      <TranslationSet>
+        <base loc="en">%@ shared this document. You will join as %@.\n\nYou can find this later in iCloud Drive.</base>
+        <tran loc="ar">تمت مشاركة هذا المستند بواسطة %@. ستنضم كـ %@.\n\nيمكنك العثور على ذلك لاحقًا في iCloud Drive.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> &lt;owner-name&gt; shared this &lt;document-kind&gt;. You will join this document as &lt;recipient-name&gt;.\n\nYou can find this later in iCloud Drive.</Description>
+      <Position>SHARING_JOIN_MESSAGE_PUBLIC_OSX_PAGES</Position>
+      <TranslationSet>
+        <base loc="en">%@ shared this document. You will join as %@.\n\nYou can find this later in iCloud Drive.</base>
+        <tran loc="ar">تمت مشاركة هذا المستند بواسطة %@. ستنضم كـ %@.\n\nيمكنك العثور على ذلك لاحقًا في iCloud Drive.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SHARING_DEVICE_OFFLINE_ERROR_MESSAGE_IOS_DEFAULT</Position>
+      <TranslationSet>
+        <base loc="en">This document can’t be opened right now. Check your Internet connection, then try again.</base>
+        <tran loc="ar">لا يمكن فتح هذا المستند الآن. تحقق من اتصالك بالإنترنت، ثم حاول مرة أخرى.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> This &lt;document-kind&gt; can’t be opened right now. Check your Internet connection, then try again.</Description>
+      <Position>SHARING_DEVICE_OFFLINE_ERROR_MESSAGE_IOS_PAGES</Position>
+      <TranslationSet>
+        <base loc="en">This document can’t be opened right now. Check your Internet connection, then try again.</base>
+        <tran loc="ar">لا يمكن فتح هذا المستند الآن. تحقق من اتصالك بالإنترنت، ثم حاول مرة أخرى.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SHARING_NO_LONGER_SHARED_HEADER_IOS_FOLDER</Position>
+      <TranslationSet>
+        <base loc="en">Folder Unavailable</base>
+        <tran loc="ar">المجلد غير متوفر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>OLD_DOCUMENTS_FOLDER_NAME</Position>
+      <TranslationSet>
+        <base loc="en">Documents - %@</base>
+        <tran loc="ar">المستندات - %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>OLD_DOCUMENTS_FOLDER_NAME_INSIDE_SYNCED_DOCUMENTS</Position>
+      <TranslationSet>
+        <base loc="en">Documents - %@</base>
+        <tran loc="ar">المستندات - %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SHARING_ICLOUD_DRIVE_SETUP_DEFAULT_BUTTON_IOS</Position>
+      <TranslationSet>
+        <base loc="en">Go to Settings</base>
+        <tran loc="ar">انتقال إلى الإعدادات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SHARING_ICLOUD_SETUP_DEFAULT_BUTTON_IOS</Position>
+      <TranslationSet>
+        <base loc="en">Go to Settings</base>
+        <tran loc="ar">انتقال إلى الإعدادات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> This document needs &lt;os-name&gt; to sync in iCloud Drive.</Description>
+      <Position>NEEDS_OS_UPGRADE_ERROR</Position>
+      <TranslationSet>
+        <base loc="en">This document needs %@ (or later) to sync in iCloud Drive. Please upgrade or use a different device.</base>
+        <tran loc="ar">يحتاج هذا المستند إلى الإصدار %@ (أو أحدث) للمزامنة في iCloud Drive. الرجاء الترقية أو استخدام جهاز مختلف.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SHARING_JOIN_MESSAGE_PRIVATE_OSX_KEYNOTE</Position>
+      <TranslationSet>
+        <base loc="en">%@ shared this presentation. You will join as %@ (%@).\n\nYou can find this later in iCloud Drive.</base>
+        <tran loc="ar">تمت مشاركة هذا العرض التقديمي بواسطة %@. ستنضم كـ %@ (%@).\n\nيمكنك العثور على ذلك لاحقًا في iCloud Drive.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SHARING_JOIN_MESSAGE_PRIVATE_IOS_FOLDER</Position>
+      <TranslationSet>
+        <base loc="en">%@ shared this folder. You will join as %@ (%@).\n\nIt will also be added to iCloud Drive.</base>
+        <tran loc="ar">تمت مشاركة هذا المجلد من قبل %@. ستنضم كـ %@ ‏(%@).\n\nوستتم إضافته أيضًا إلى iCloud Drive.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> &lt;owner-name&gt; shared this &lt;document-kind&gt;. To start collaborating, install &lt;app-name&gt;.</Description>
+      <Position>SHARING_APP_NOT_INSTALLED_MESSAGE_IOS_PAGES</Position>
+      <TranslationSet>
+        <base loc="en">%@ shared this document. To start collaborating, install Pages.</base>
+        <tran loc="ar">تمت مشاركة هذا المستند بواسطة %@. لبدء التعاون، قم بتثبيت Pages.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SHARING_JOIN_HEADER_NO_DOCUMENT_NAME_OSX_FOLDER</Position>
+      <TranslationSet>
+        <base loc="en">Open folder in iCloud Drive?</base>
+        <tran loc="ar">فتح المجلد في iCloud Drive؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SHARING_PARTICIPANT_LIMIT_REACHED_MESSAGE_IOS_KEYNOTE</Position>
+      <TranslationSet>
+        <base loc="en">This presentation has a lot of participants. You can’t open it in Keynote, but you can still preview it.</base>
+        <tran loc="ar">يوجد العديد من المشاركين في هذا العرض التقديمي. لا يمكنك فتحه في Keynote، ولكن لا يزال بإمكانك معاينته.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SHARING_JOIN_HEADER_NO_DOCUMENT_NAME_OSX_NUMBERS</Position>
+      <TranslationSet>
+        <base loc="en">Open spreadsheet in Numbers?</base>
+        <tran loc="ar">هل تريد فتح جدول البيانات في Numbers؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SHARING_JOIN_MESSAGE_PUBLIC_OSX_NUMBERS</Position>
+      <TranslationSet>
+        <base loc="en">%@ shared this spreadsheet. You will join as %@.\n\nYou can find this later in iCloud Drive.</base>
+        <tran loc="ar">تمت مشاركة جدول البيانات هذا بواسطة %@. ستنضم كـ %@.\n\nيمكنك العثور على ذلك لاحقًا في iCloud Drive.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SHARING_JOIN_HEADER_NO_DOCUMENT_NAME_IOS_NUMBERS</Position>
+      <TranslationSet>
+        <base loc="en">Open Spreadsheet in Numbers?</base>
+        <tran loc="ar">هل تريد فتح جدول البيانات في Numbers؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SHARING_JOIN_MESSAGE_PUBLIC_IOS_DEFAULT</Position>
+      <TranslationSet>
+        <base loc="en">%@ shared this document. You will join as %@.\n\nIt will also be added to iCloud Drive.</base>
+        <tran loc="ar">تمت مشاركة هذا المستند بواسطة %@. ستنضم كـ %@.\n\nستتم إضافته أيضًا إلى iCloud Drive.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> &lt;owner-name&gt; shared this &lt;document-kind&gt;. You will join this document as &lt;recipient-name&gt;.\n\nIt will also be added to iCloud Drive.</Description>
+      <Position>SHARING_JOIN_MESSAGE_PUBLIC_IOS_PAGES</Position>
+      <TranslationSet>
+        <base loc="en">%@ shared this document. You will join as %@.\n\nIt will also be added to iCloud Drive.</base>
+        <tran loc="ar">تمت مشاركة هذا المستند بواسطة %@. ستنضم كـ %@.\n\nستتم إضافته أيضًا إلى iCloud Drive.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SHARING_JOIN_HEADER_NO_DOCUMENT_NAME_IOS_FOLDER</Position>
+      <TranslationSet>
+        <base loc="en">Open Folder in iCloud Drive?</base>
+        <tran loc="ar">فتح المجلد في iCloud Drive؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SHARING_JOIN_MESSAGE_PUBLIC_IOS_FOLDER</Position>
+      <TranslationSet>
+        <base loc="en">%@ shared this folder. You will join as %@.\n\nIt will also be added to iCloud Drive.</base>
+        <tran loc="ar">تمت مشاركة هذا المجلد من قبل %@. ستنضم كـ %@.\n\nوستتم إضافته أيضًا إلى iCloud Drive.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PREVIEW_BUTTON_KEYNOTE</Position>
+      <TranslationSet>
+        <base loc="en">Preview Presentation</base>
+        <tran loc="ar">معاينة العرض التقديمي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Displayed in Settings when the last sync occurred several days ago ("Last Synced Tuesday"). Parameter is a weekday name. </Description>
+      <Position>CLOUD_DRIVE_LAST_UPDATED_WEEKDAY_FORMAT</Position>
+      <TranslationSet>
+        <base loc="en">Last updated %@</base>
+        <tran loc="ar">آخر تحديث في %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SHARING_APP_NOT_INSTALLED_MESSAGE_IOS_KEYNOTE</Position>
+      <TranslationSet>
+        <base loc="en">%@ shared this presentation. To start collaborating, install Keynote.</base>
+        <tran loc="ar">تمت مشاركة هذا العرض التقديمي بواسطة %@. لبدء التعاون، قم بتثبيت Keynote.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SHARING_PARTICIPANT_LIMIT_REACHED_MESSAGE_OSX_KEYNOTE</Position>
+      <TranslationSet>
+        <base loc="en">You can’t open it in Keynote for Mac, but you can still open it on the web.</base>
+        <tran loc="ar">لا يمكنك فتحه في Keynote للـ Mac، لكن لا يزال بإمكانك فتحه على الويب.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SHARING_ICLOUD_NOT_REACHABLE_MESSAGE_IOS_DEFAULT</Position>
+      <TranslationSet>
+        <base loc="en">This document can’t be opened right now. There may be a problem with the server. Please try again later.</base>
+        <tran loc="ar">لا يمكن فتح هذا المستند الآن. قد تكون هناك مشكلة في الخادم. الرجاء المحاولة مرة أخرى لاحقًا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> This &lt;document-kind&gt; can’t be opened right now. There may be a problem with the server. Please try again later.</Description>
+      <Position>SHARING_ICLOUD_NOT_REACHABLE_MESSAGE_IOS_PAGES</Position>
+      <TranslationSet>
+        <base loc="en">This document can’t be opened right now. There may be a problem with the server. Please try again later.</base>
+        <tran loc="ar">لا يمكن فتح هذا المستند الآن. قد تكون هناك مشكلة في الخادم. الرجاء المحاولة مرة أخرى لاحقًا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SHARING_PROFILE_DISABLED_MESSAGE_IOS_DEFAULT</Position>
+      <TranslationSet>
+        <base loc="en">Files can’t open shared documents because it’s a managed app.</base>
+        <tran loc="ar">لا يمكن لتطبيق الملفات فتح المستندات المشتركة لأنه تطبيق مُدار.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SHARING_DEVICE_OFFLINE_ERROR_MESSAGE_IOS_NUMBERS</Position>
+      <TranslationSet>
+        <base loc="en">This spreadsheet can’t be opened right now. Check your Internet connection, then try again.</base>
+        <tran loc="ar">لا يمكن فتح جدول البيانات هذا الآن. تحقق من اتصالك بالإنترنت، ثم حاول مرة أخرى.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SHARING_ICLOUD_NOT_REACHABLE_MESSAGE_IOS_KEYNOTE</Position>
+      <TranslationSet>
+        <base loc="en">This presentation can’t be opened right now. There may be a problem with the server. Please try again later.</base>
+        <tran loc="ar">لا يمكن فتح هذا العرض التقديمي الآن. قد تكون هناك مشكلة في الخادم. الرجاء المحاولة مرة أخرى لاحقًا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Displayed in Settings when the last sync occurred today at a particular time ("Last Synced at 2:30 PM"). Parameter is the time, which is formatted programmatically. </Description>
+      <Position>CLOUD_DRIVE_LAST_UPDATED_AT_TIME_FORMAT</Position>
+      <TranslationSet>
+        <base loc="en">Last updated at %@</base>
+        <tran loc="ar">آخر تحديث الساعة %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SHARING_GENERIC_ERROR_HEADER_OSX_NUMBERS</Position>
+      <TranslationSet>
+        <base loc="en">Sorry, this spreadsheet can’t be opened right now.</base>
+        <tran loc="ar">عذرًا، لا يمكن فتح جدول البيانات هذا الآن.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SHARING_DEVICE_OFFLINE_ERROR_MESSAGE_IOS_FOLDER</Position>
+      <TranslationSet>
+        <base loc="en">This folder can’t be opened right now. Check your Internet connection, then try again.</base>
+        <tran loc="ar">لا يمكن فتح هذا المجلد الآن. تحقق من اتصال الإنترنت، ثم حاول مرة أخرى.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SHARING_ICLOUD_DRIVE_SETUP_MESSAGE_IOS_FOLDER</Position>
+      <TranslationSet>
+        <base loc="en">%@ shared this folder. You need to turn on iCloud Drive before you can open it.</base>
+        <tran loc="ar">تمت مشاركة هذا المجلد من قبل %@. يجب تشغيل iCloud Drive حتى يمكنك فتحه.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SHARING_JOIN_HEADER_NUMBERS</Position>
+      <TranslationSet>
+        <base loc="en">Open “%@” in Numbers?</base>
+        <tran loc="ar">فتح \"%@\" في Numbers؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Open &lt;document-kind&gt; in &lt;app-name&gt;?</Description>
+      <Position>SHARING_JOIN_HEADER_NO_DOCUMENT_NAME_IOS_PAGES</Position>
+      <TranslationSet>
+        <base loc="en">Open Document in Pages?</base>
+        <tran loc="ar">هل تريد فتح المستند في Pages؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> -----------------------------------------------------------------------------
+ iCloud Drive app
+ iCloud Drive App Installation Notification</Description>
+      <Position>ICLOUD_DRIVE_APP_INSTALLATION_NOTIFICATION_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">iCloud Drive</base>
+        <tran loc="ar">iCloud Drive</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Error: User doesn’t have native app installed [1.3 in iOS specs v4]
+ Install &lt;app-name&gt;</Description>
+      <Position>SHARING_APP_NOT_INSTALLED_HEADER_IOS</Position>
+      <TranslationSet>
+        <base loc="en">Install %@</base>
+        <tran loc="ar">تثبيت %@‎</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SHARING_ICLOUD_DRIVE_SETUP_MESSAGE_IOS_DEFAULT</Position>
+      <TranslationSet>
+        <base loc="en">%@ shared this document. You need to turn on iCloud Drive before you can open it.</base>
+        <tran loc="ar">تمت مشاركة هذا المستند بواسطة %@. يتعين عليك تشغيل iCloud Drive حتى يمكنك فتحه.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Localized name of the Files app on iOS</Description>
+      <Position>SHARING_JOIN_HEADER_DEFAULT_APP_IOS</Position>
+      <TranslationSet>
+        <base loc="en">Open “%@” in Files?</base>
+        <tran loc="ar">فتح \"%@\" في الملفات؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SHARING_JOIN_HEADER_FOLDER</Position>
+      <TranslationSet>
+        <base loc="en">Open “%@” in Files?</base>
+        <tran loc="ar">فتح \"%@\" في الملفات؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SHARING_NO_LONGER_SHARED_HEADER_OSX_NUMBERS</Position>
+      <TranslationSet>
+        <base loc="en">This spreadsheet is unavailable.</base>
+        <tran loc="ar">جدول البيانات هذا غير متوفر.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Document is not necessary opened in Finder</Description>
+      <Position>SHARING_JOIN_HEADER_DEFAULT_APP_OSX</Position>
+      <TranslationSet>
+        <base loc="en">Open “%@”?</base>
+        <tran loc="ar">فتح \"%@\"؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SHARING_PARTICIPANT_LIMIT_REACHED_MESSAGE_IOS_NUMBERS</Position>
+      <TranslationSet>
+        <base loc="en">This spreadsheet has a lot of participants. You can’t open it in Numbers, but you can still preview it.</base>
+        <tran loc="ar">يوجد العديد من المشاركين في جدول البيانات هذا. لا يمكنك فتحه في Numbers، ولكن لا يزال بإمكانك معاينته.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SHARING_DEVICE_OFFLINE_ERROR_DEFAULT_BUTTON</Position>
+      <TranslationSet>
+        <base loc="en">OK</base>
+        <tran loc="ar">موافق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SHARING_GENERIC_ERROR_DEFAULT_BUTTON</Position>
+      <TranslationSet>
+        <base loc="en">OK</base>
+        <tran loc="ar">موافق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SHARING_ICLOUD_NOT_REACHABLE_DEFAULT_BUTTON</Position>
+      <TranslationSet>
+        <base loc="en">OK</base>
+        <tran loc="ar">موافق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SHARING_NO_LONGER_SHARED_BUTTON</Position>
+      <TranslationSet>
+        <base loc="en">OK</base>
+        <tran loc="ar">موافق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SHARING_PROFILE_DISABLED_DEFAULT_BUTTON_IOS</Position>
+      <TranslationSet>
+        <base loc="en">OK</base>
+        <tran loc="ar">موافق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SHARING_PARTICIPANT_LIMIT_REACHED_MESSAGE_OSX_NUMBERS</Position>
+      <TranslationSet>
+        <base loc="en">You can’t open it in Numbers for Mac, but you can still open it on the web.</base>
+        <tran loc="ar">لا يمكنك فتحه في Numbers للـ Mac، لكن لا يزال بإمكانك فتحه على الويب.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SHARING_GENERIC_ERROR_MESSAGE_IOS_FOLDER</Position>
+      <TranslationSet>
+        <base loc="en">Sorry, this folder can’t be opened right now. Please try again later.</base>
+        <tran loc="ar">عذرًا، لا يمكن فتح هذا المجلد في الوقت الحالي. الرجاء المحاولة في وقت لاحق.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SHARING_JOIN_MESSAGE_PUBLIC_IOS_NUMBERS</Position>
+      <TranslationSet>
+        <base loc="en">%@ shared this spreadsheet. You will join as %@.\n\nIt will also be added to iCloud Drive.</base>
+        <tran loc="ar">تمت مشاركة جدول البيانات هذا بواسطة %@. ستنضم كـ %@.\n\nستتم إضافته أيضًا إلى iCloud Drive.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SHARING_NO_LONGER_SHARED_HEADER_IOS_NUMBERS</Position>
+      <TranslationSet>
+        <base loc="en">Spreadsheet Unavailable</base>
+        <tran loc="ar">جدول البيانات غير متوفر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SHARING_JOIN_HEADER_NO_DOCUMENT_NAME_IOS_DEFAULT</Position>
+      <TranslationSet>
+        <base loc="en">Open Document in iCloud Drive?</base>
+        <tran loc="ar">فتح المستند في iCloud Drive؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Displayed in Settings when the last sync occurred more than a week ago ("Last Synced on 4/30/13"). Parameter is a date, which is formatted programmatically. </Description>
+      <Position>CLOUD_DRIVE_LAST_UPDATED_ON_DATE_FORMAT</Position>
+      <TranslationSet>
+        <base loc="en">Last updated on %@</base>
+        <tran loc="ar">آخر تحديث في %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PREVIEW_BUTTON_NUMBERS</Position>
+      <TranslationSet>
+        <base loc="en">Preview Spreadsheet</base>
+        <tran loc="ar">معاينة جدول البيانات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> -----------------------------------------------------------------------------
+ NSPersonNameComponents additions</Description>
+      <Position>UNKNOWN_USER_GIVEN_NAME</Position>
+      <TranslationSet>
+        <base loc="en">Unknown User</base>
+        <tran loc="ar">مستخدم غير معروف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SHARING_PROFILE_DISABLED_HEADER_IOS_DEFAULT</Position>
+      <TranslationSet>
+        <base loc="en">Can’t open Document</base>
+        <tran loc="ar">لا يمكن فتح المستند</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Error: User has native app but it is disabled by its profile</Description>
+      <Position>SHARING_PROFILE_DISABLED_HEADER_IOS_PAGES</Position>
+      <TranslationSet>
+        <base loc="en">Can’t open Document</base>
+        <tran loc="ar">لا يمكن فتح المستند</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SHARING_PROFILE_DISABLED_MESSAGE_IOS_PAGES</Position>
+      <TranslationSet>
+        <base loc="en">Pages can’t open shared documents because it’s a managed app.</base>
+        <tran loc="ar">لا يمكن لـ Pages فتح المستندات المشتركة لأنه تطبيق تتم إدارته.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SHARING_GENERIC_ERROR_MESSAGE_IOS_DEFAULT</Position>
+      <TranslationSet>
+        <base loc="en">Sorry, this document can’t be opened right now. Please try again later.</base>
+        <tran loc="ar">عذرًا، لا يمكن فتح هذا المستند الآن. الرجاء المحاولة مرة أخرى لاحقًا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Sorry, this &lt;document-kind&gt; can’t be opened right now. Please try again later.</Description>
+      <Position>SHARING_GENERIC_ERROR_MESSAGE_IOS_PAGES</Position>
+      <TranslationSet>
+        <base loc="en">Sorry, this document can’t be opened right now. Please try again later.</base>
+        <tran loc="ar">عذرًا، لا يمكن فتح هذا المستند الآن. الرجاء المحاولة مرة أخرى لاحقًا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SHARING_ICLOUD_SETUP_MESSAGE_IOS_NUMBERS</Position>
+      <TranslationSet>
+        <base loc="en">You need to sign in to iCloud with your Apple ID before you can open this shared spreadsheet.</base>
+        <tran loc="ar">يجب تسجيل الدخول إلى iCloud باستخدام الـ Apple ID الخاص بك حتى تتمكن من فتح جدول البيانات المشترك هذا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SHARING_PROFILE_DISABLED_HEADER_IOS_KEYNOTE</Position>
+      <TranslationSet>
+        <base loc="en">Can’t open Presentation</base>
+        <tran loc="ar">لا يمكن فتح العرض التقديمي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UPLOAD_PROGRESS_LOCALIZED_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Uploading “%@”</base>
+        <tran loc="ar">جاري تحميل \"%@\"</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>NEEDS_OS_UPGRADE_ERROR_NO_OS_NAME_OSX</Position>
+      <TranslationSet>
+        <base loc="en">This document needs a newer version of macOS to sync in iCloud Drive. Please upgrade or use a different device.</base>
+        <tran loc="ar">يحتاج هذا المستند إلى إصدار macOS أحدث للمزامنة في iCloud Drive. الرجاء الترقية أو استخدام جهاز مختلف.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SHARING_DEVICE_OFFLINE_ERROR_MESSAGE_OSX_DEFAULT</Position>
+      <TranslationSet>
+        <base loc="en">Check your Internet connection, then try again.</base>
+        <tran loc="ar">تحقق من اتصال الإنترنت، ثم حاول مرة أخرى.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SHARING_DEVICE_OFFLINE_ERROR_MESSAGE_OSX_KEYNOTE</Position>
+      <TranslationSet>
+        <base loc="en">Check your Internet connection, then try again.</base>
+        <tran loc="ar">تحقق من اتصال الإنترنت، ثم حاول مرة أخرى.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SHARING_DEVICE_OFFLINE_ERROR_MESSAGE_OSX_NUMBERS</Position>
+      <TranslationSet>
+        <base loc="en">Check your Internet connection, then try again.</base>
+        <tran loc="ar">تحقق من اتصال الإنترنت، ثم حاول مرة أخرى.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SHARING_DEVICE_OFFLINE_ERROR_MESSAGE_OSX_PAGES</Position>
+      <TranslationSet>
+        <base loc="en">Check your Internet connection, then try again.</base>
+        <tran loc="ar">تحقق من اتصال الإنترنت، ثم حاول مرة أخرى.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SHARING_DEVICE_OFFLINE_ERROR_MESSAGE_OSX_FOLDER</Position>
+      <TranslationSet>
+        <base loc="en">Check your Internet connection, then try again.</base>
+        <tran loc="ar">تحقق من اتصال الإنترنت، ثم حاول مرة أخرى.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SHARING_DEVICE_OFFLINE_ERROR_HEADER_IOS_KEYNOTE</Position>
+      <TranslationSet>
+        <base loc="en">Can’t Open Presentation</base>
+        <tran loc="ar">لا يمكن فتح العرض التقديمي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SHARING_GENERIC_ERROR_HEADER_IOS_KEYNOTE</Position>
+      <TranslationSet>
+        <base loc="en">Can’t Open Presentation</base>
+        <tran loc="ar">لا يمكن فتح العرض التقديمي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SHARING_ICLOUD_NOT_REACHABLE_HEADER_IOS_KEYNOTE</Position>
+      <TranslationSet>
+        <base loc="en">Can’t Open Presentation</base>
+        <tran loc="ar">لا يمكن فتح العرض التقديمي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SHARING_PARTICIPANT_LIMIT_REACHED_HEADER_IOS_KEYNOTE</Position>
+      <TranslationSet>
+        <base loc="en">Can’t Open Presentation</base>
+        <tran loc="ar">لا يمكن فتح العرض التقديمي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SHARING_ICLOUD_SETUP_MESSAGE_IOS_FOLDER</Position>
+      <TranslationSet>
+        <base loc="en">You need to sign in to iCloud with your Apple ID before you can open this shared folder.</base>
+        <tran loc="ar">يجب تسجيل الدخول إلى iCloud باستخدام الـ Apple ID حتى تتمكن من فتح هذا المجلد المشترك.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SHARING_FALLBACK_SUCCESS_DEFAULT_BUTTON</Position>
+      <TranslationSet>
+        <base loc="en">Close</base>
+        <tran loc="ar">إغلاق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SHARING_ICLOUD_NOT_REACHABLE_MESSAGE_OSX_DEFAULT</Position>
+      <TranslationSet>
+        <base loc="en">There may be a problem with the server. Please try again later.</base>
+        <tran loc="ar">قد تكون هناك مشكلة في الخادم. الرجاء المحاولة مرة أخرى لاحقًا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SHARING_ICLOUD_NOT_REACHABLE_MESSAGE_OSX_KEYNOTE</Position>
+      <TranslationSet>
+        <base loc="en">There may be a problem with the server. Please try again later.</base>
+        <tran loc="ar">قد تكون هناك مشكلة في الخادم. الرجاء المحاولة مرة أخرى لاحقًا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SHARING_ICLOUD_NOT_REACHABLE_MESSAGE_OSX_NUMBERS</Position>
+      <TranslationSet>
+        <base loc="en">There may be a problem with the server. Please try again later.</base>
+        <tran loc="ar">قد تكون هناك مشكلة في الخادم. الرجاء المحاولة مرة أخرى لاحقًا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SHARING_ICLOUD_NOT_REACHABLE_MESSAGE_OSX_PAGES</Position>
+      <TranslationSet>
+        <base loc="en">There may be a problem with the server. Please try again later.</base>
+        <tran loc="ar">قد تكون هناك مشكلة في الخادم. الرجاء المحاولة مرة أخرى لاحقًا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SHARING_ICLOUD_NOT_REACHABLE_MESSAGE_OSX_FOLDER</Position>
+      <TranslationSet>
+        <base loc="en">There may be a problem with the server. Please try again later.</base>
+        <tran loc="ar">قد تكون هناك مشكلة في الخادم. الرجاء المحاولة مرة أخرى لاحقًا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SHARING_PROFILE_DISABLED_MESSAGE_IOS_NUMBERS</Position>
+      <TranslationSet>
+        <base loc="en">Numbers can’t open shared spreadsheets because it’s a managed app.</base>
+        <tran loc="ar">لا يمكن لـ Numbers فتح جداول البيانات المشتركة لأنه تطبيق تتم إدارته.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SHARING_ICLOUD_SETUP_MESSAGE_IOS_KEYNOTE</Position>
+      <TranslationSet>
+        <base loc="en">You need to sign in to iCloud with your Apple ID before you can open this shared presentation.</base>
+        <tran loc="ar">يجب تسجيل الدخول إلى iCloud باستخدام الـ Apple ID الخاص بك حتى تتمكن من فتح هذا العرض التقديمي المشترك.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SHARING_ICLOUD_SETUP_MESSAGE_IOS_DEFAULT</Position>
+      <TranslationSet>
+        <base loc="en">You need to sign in to iCloud with your Apple ID before you can open this shared document.</base>
+        <tran loc="ar">يجب تسجيل الدخول إلى iCloud باستخدام الـ Apple ID الخاص بك حتى تتمكن من فتح هذا المستند المشترك.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> You need to sign in to iCloud with your Apple ID before you can open this shared &lt;document-kind&gt;.</Description>
+      <Position>SHARING_ICLOUD_SETUP_MESSAGE_IOS_PAGES</Position>
+      <TranslationSet>
+        <base loc="en">You need to sign in to iCloud with your Apple ID before you can open this shared document.</base>
+        <tran loc="ar">يجب تسجيل الدخول إلى iCloud باستخدام الـ Apple ID الخاص بك حتى تتمكن من فتح هذا المستند المشترك.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SHARING_JOIN_MESSAGE_PRIVATE_OSX_NUMBERS</Position>
+      <TranslationSet>
+        <base loc="en">%@ shared this spreadsheet. You will join as %@ (%@).\n\nYou can find this later in iCloud Drive.</base>
+        <tran loc="ar">تمت مشاركة جدول البيانات هذا بواسطة %@. ستنضم كـ %@ (%@).\n\nيمكنك العثور على ذلك لاحقًا في iCloud Drive.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SHARING_DEVICE_OFFLINE_ERROR_HEADER_IOS_NUMBERS</Position>
+      <TranslationSet>
+        <base loc="en">Can’t Open Spreadsheet</base>
+        <tran loc="ar">لا يمكن فتح جدول البيانات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SHARING_GENERIC_ERROR_HEADER_IOS_NUMBERS</Position>
+      <TranslationSet>
+        <base loc="en">Can’t Open Spreadsheet</base>
+        <tran loc="ar">لا يمكن فتح جدول البيانات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SHARING_ICLOUD_NOT_REACHABLE_HEADER_IOS_NUMBERS</Position>
+      <TranslationSet>
+        <base loc="en">Can’t Open Spreadsheet</base>
+        <tran loc="ar">لا يمكن فتح جدول البيانات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SHARING_PARTICIPANT_LIMIT_REACHED_HEADER_IOS_NUMBERS</Position>
+      <TranslationSet>
+        <base loc="en">Can’t Open Spreadsheet</base>
+        <tran loc="ar">لا يمكن فتح جدول البيانات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SHARING_NO_LONGER_SHARED_HEADER_IOS_KEYNOTE</Position>
+      <TranslationSet>
+        <base loc="en">Presentation Unavailable</base>
+        <tran loc="ar">العرض التقديمي غير متوفر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> -----------------------------------------------------------------------------
+ OS Upgrade</Description>
+      <Position>NEEDS_OS_UPGRADE_ERROR_NO_OS_NAME_IOS</Position>
+      <TranslationSet>
+        <base loc="en">This document needs a newer version of iOS to sync in iCloud Drive. Please upgrade or use a different device.</base>
+        <tran loc="ar">يحتاج هذا المستند إلى إصدار iOS أحدث للمزامنة في iCloud Drive. الرجاء الترقية أو استخدام جهاز مختلف.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICLOUD_DRIVE_APP_INSTALLATION_NOTIFICATION_UNLOCK_ACTION</Position>
+      <TranslationSet>
+        <base loc="en">Slide to View</base>
+        <tran loc="ar">تمرير للعرض</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SHARING_DEVICE_OFFLINE_ERROR_HEADER_OSX_NUMBERS</Position>
+      <TranslationSet>
+        <base loc="en">This spreadsheet can’t be opened right now.</base>
+        <tran loc="ar">لا يمكن فتح جدول البيانات هذا الآن.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SHARING_ICLOUD_NOT_REACHABLE_HEADER_OSX_NUMBERS</Position>
+      <TranslationSet>
+        <base loc="en">This spreadsheet can’t be opened right now.</base>
+        <tran loc="ar">لا يمكن فتح جدول البيانات هذا الآن.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> -----------------------------------------------------------------------------
+ iCloud Drive log out</Description>
+      <Position>ICLOUD_DRIVE_ARCHIVE_FOLDER_NAME_OSX</Position>
+      <TranslationSet>
+        <base loc="en">iCloud Drive (Archive)</base>
+        <tran loc="ar">‏iCloud Drive (الأرشيف)</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SHARING_DEVICE_OFFLINE_ERROR_HEADER_IOS_DEFAULT</Position>
+      <TranslationSet>
+        <base loc="en">Can’t Open Document</base>
+        <tran loc="ar">لا يمكن فتح المستند</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Can’t Open &lt;document-kind&gt;</Description>
+      <Position>SHARING_DEVICE_OFFLINE_ERROR_HEADER_IOS_PAGES</Position>
+      <TranslationSet>
+        <base loc="en">Can’t Open Document</base>
+        <tran loc="ar">لا يمكن فتح المستند</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SHARING_GENERIC_ERROR_HEADER_IOS_DEFAULT</Position>
+      <TranslationSet>
+        <base loc="en">Can’t Open Document</base>
+        <tran loc="ar">لا يمكن فتح المستند</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Can’t Open &lt;document-kind&gt;</Description>
+      <Position>SHARING_GENERIC_ERROR_HEADER_IOS_PAGES</Position>
+      <TranslationSet>
+        <base loc="en">Can’t Open Document</base>
+        <tran loc="ar">لا يمكن فتح المستند</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SHARING_ICLOUD_NOT_REACHABLE_HEADER_IOS_DEFAULT</Position>
+      <TranslationSet>
+        <base loc="en">Can’t Open Document</base>
+        <tran loc="ar">لا يمكن فتح المستند</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Can’t Open &lt;document-kind&gt;</Description>
+      <Position>SHARING_ICLOUD_NOT_REACHABLE_HEADER_IOS_PAGES</Position>
+      <TranslationSet>
+        <base loc="en">Can’t Open Document</base>
+        <tran loc="ar">لا يمكن فتح المستند</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SHARING_PARTICIPANT_LIMIT_REACHED_HEADER_IOS_DEFAULT</Position>
+      <TranslationSet>
+        <base loc="en">Can’t Open Document</base>
+        <tran loc="ar">لا يمكن فتح المستند</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Can’t Open &lt;document-kind&gt;</Description>
+      <Position>SHARING_PARTICIPANT_LIMIT_REACHED_HEADER_IOS_PAGES</Position>
+      <TranslationSet>
+        <base loc="en">Can’t Open Document</base>
+        <tran loc="ar">لا يمكن فتح المستند</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SHARING_APP_NOT_INSTALLED_ALT_BUTTON_IOS</Position>
+      <TranslationSet>
+        <base loc="en">Not Now</base>
+        <tran loc="ar">ليس الآن</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SHARING_ICLOUD_DRIVE_SETUP_ALT_BUTTON_IOS</Position>
+      <TranslationSet>
+        <base loc="en">Not Now</base>
+        <tran loc="ar">ليس الآن</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SHARING_ICLOUD_SETUP_ALT_BUTTON_IOS</Position>
+      <TranslationSet>
+        <base loc="en">Not Now</base>
+        <tran loc="ar">ليس الآن</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SHARING_JOIN_ALT_BUTTON</Position>
+      <TranslationSet>
+        <base loc="en">Not Now</base>
+        <tran loc="ar">ليس الآن</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SHARING_PARTICIPANT_LIMIT_REACHED_ALT_BUTTON</Position>
+      <TranslationSet>
+        <base loc="en">Not Now</base>
+        <tran loc="ar">ليس الآن</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SHARING_PARTICIPANT_LIMIT_REACHED_MESSAGE_IOS_DEFAULT</Position>
+      <TranslationSet>
+        <base loc="en">This document has a lot of participants. You can’t open it but you can still preview it.</base>
+        <tran loc="ar">يوجد العديد من المشاركين في هذا المستند. لا يمكنك فتحه، ولكن لا يزال بإمكانك معاينته.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SHARING_JOIN_HEADER_NO_DOCUMENT_NAME_OSX_KEYNOTE</Position>
+      <TranslationSet>
+        <base loc="en">Open presentation in Keynote?</base>
+        <tran loc="ar">هل تريد فتح العرض التقديمي في Keynote؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SHARING_PARTICIPANT_LIMIT_REACHED_HEADER_OSX_DEFAULT</Position>
+      <TranslationSet>
+        <base loc="en">This document has a lot of participants.</base>
+        <tran loc="ar">يوجد العديد من المشاركين في هذا المستند.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Error: Unable to open the shared document because the participant limit was reached (see 19401181)
+ This &lt;document-kind&gt; has a lot of participants.</Description>
+      <Position>SHARING_PARTICIPANT_LIMIT_REACHED_HEADER_OSX_PAGES</Position>
+      <TranslationSet>
+        <base loc="en">This document has a lot of participants.</base>
+        <tran loc="ar">يوجد العديد من المشاركين في هذا المستند.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SHARING_JOIN_MESSAGE_PRIVATE_IOS_DEFAULT</Position>
+      <TranslationSet>
+        <base loc="en">%@ shared this document. You will join as %@ (%@).\n\nIt will also be added to iCloud Drive.</base>
+        <tran loc="ar">تمت مشاركة هذا المستند بواسطة %@. ستنضم كـ %@ (%@).\n\nستتم إضافته أيضًا إلى iCloud Drive.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> &lt;owner-name&gt; shared this &lt;document-kind&gt;. You will join this document as &lt;recipient-name&gt; (&lt;recipient-email&gt;).\n\nIt will also be added to iCloud Drive.</Description>
+      <Position>SHARING_JOIN_MESSAGE_PRIVATE_IOS_PAGES</Position>
+      <TranslationSet>
+        <base loc="en">%@ shared this document. You will join as %@ (%@).\n\nIt will also be added to iCloud Drive.</base>
+        <tran loc="ar">تمت مشاركة هذا المستند بواسطة %@. ستنضم كـ %@ (%@).\n\nستتم إضافته أيضًا إلى iCloud Drive.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SHARING_PROFILE_DISABLED_HEADER_IOS_NUMBERS</Position>
+      <TranslationSet>
+        <base loc="en">Can’t open Spreadsheet</base>
+        <tran loc="ar">لا يمكن فتح جدول البيانات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SHARING_NO_LONGER_SHARED_HEADER_IOS_DEFAULT</Position>
+      <TranslationSet>
+        <base loc="en">Item Unavailable</base>
+        <tran loc="ar">العنصر غير متوفر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SHARING_ICLOUD_NOT_REACHABLE_MESSAGE_IOS_NUMBERS</Position>
+      <TranslationSet>
+        <base loc="en">This spreadsheet can’t be opened right now. There may be a problem with the server. Please try again later.</base>
+        <tran loc="ar">لا يمكن فتح جدول البيانات هذا الآن. قد تكون هناك مشكلة في الخادم. الرجاء المحاولة مرة أخرى لاحقًا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SHARING_JOIN_MESSAGE_PUBLIC_OSX_FOLDER</Position>
+      <TranslationSet>
+        <base loc="en">%@ shared this folder. You will join as %@.\n\nYou can find this later in iCloud Drive.</base>
+        <tran loc="ar">تمت مشاركة هذا المجلد من قبل %@. ستنضم كـ %@.\n\nويمكنك العثور عليه لاحقًا في iCloud Drive.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICLOUD_DRIVE_APP_INSTALLATION_NOTIFICATION_MESSAGE</Position>
+      <TranslationSet>
+        <base loc="en">The iCloud Drive app has been added to your home screen.</base>
+        <tran loc="ar">تمت إضافة تطبيق iCloud Drive إلى شاشتك الرئيسية.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Error: iCloud Drive is off (globally or the app) [1.2 in iOS specs v4]</Description>
+      <Position>SHARING_ICLOUD_DRIVE_SETUP_HEADER_IOS</Position>
+      <TranslationSet>
+        <base loc="en">Turn On iCloud Drive</base>
+        <tran loc="ar">تشغيل iCloud Drive</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Dialog: First Join Alert
+ Open “&lt;document-name&gt;” in &lt;app-name&gt;?</Description>
+      <Position>SHARING_JOIN_HEADER_PAGES</Position>
+      <TranslationSet>
+        <base loc="en">Open “%@” in Pages?</base>
+        <tran loc="ar">فتح \"%@\" في Pages؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> -----------------------------------------------------------------------------
+ Sharing Recipient Flow</Description>
+      <Position>DOCUMENT_DEFAULT_NAME</Position>
+      <TranslationSet>
+        <base loc="en">Untitled</base>
+        <tran loc="ar">بلا عنوان</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Fallback if there is no document-name.
+ Open &lt;document-kind&gt; in &lt;app-name&gt;?</Description>
+      <Position>SHARING_JOIN_HEADER_NO_DOCUMENT_NAME_OSX_PAGES</Position>
+      <TranslationSet>
+        <base loc="en">Open document in Pages?</base>
+        <tran loc="ar">هل تريد فتح المستند في Pages؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SHARING_PARTICIPANT_LIMIT_REACHED_MESSAGE_OSX_DEFAULT</Position>
+      <TranslationSet>
+        <base loc="en">You can still open it on the web.</base>
+        <tran loc="ar">لا يزال بإمكانك فتحه على الويب.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SHARING_PARTICIPANT_LIMIT_REACHED_MESSAGE_OSX_FOLDER</Position>
+      <TranslationSet>
+        <base loc="en">You can still open it on the web.</base>
+        <tran loc="ar">لا يزال بإمكانك فتحه على الويب.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SHARING_GENERIC_ERROR_MESSAGE_IOS_NUMBERS</Position>
+      <TranslationSet>
+        <base loc="en">Sorry, this spreadsheet can’t be opened right now. Please try again later.</base>
+        <tran loc="ar">عذرًا، لا يمكن فتح جدول البيانات هذا الآن. الرجاء المحاولة مرة أخرى لاحقًا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SHARING_NO_LONGER_SHARED_HEADER_OSX_KEYNOTE</Position>
+      <TranslationSet>
+        <base loc="en">This presentation is unavailable.</base>
+        <tran loc="ar">هذا العرض التقديمي غير متوفر.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SEARCH_SHORTCUT_SUBTITLE</Position>
+      <TranslationSet>
+        <base loc="en">Search iCloud Drive</base>
+        <tran loc="ar">بحث في iCloud Drive</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SHARING_DEVICE_OFFLINE_ERROR_HEADER_OSX_KEYNOTE</Position>
+      <TranslationSet>
+        <base loc="en">This presentation can’t be opened right now.</base>
+        <tran loc="ar">لا يمكن فتح هذا العرض التقديمي الآن.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SHARING_ICLOUD_NOT_REACHABLE_HEADER_OSX_KEYNOTE</Position>
+      <TranslationSet>
+        <base loc="en">This presentation can’t be opened right now.</base>
+        <tran loc="ar">لا يمكن فتح هذا العرض التقديمي الآن.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SHARING_PARTICIPANT_LIMIT_REACHED_MESSAGE_IOS_FOLDER</Position>
+      <TranslationSet>
+        <base loc="en">This folder has a lot of participants. You can’t open it but you can still preview it.</base>
+        <tran loc="ar">يوجد العديد من المشاركين في هذا المجلد. لا يمكنك فتحه، ولكن لا يزال بإمكانك معاينته.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SHARING_PROFILE_DISABLED_MESSAGE_IOS_FOLDER</Position>
+      <TranslationSet>
+        <base loc="en">Files can’t open shared folders because it’s a managed app.</base>
+        <tran loc="ar">لا يمكن لتطبيق الملفات فتح المجلدات المشتركة لأنه تطبيق مُدار.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> -----------------------------------------------------------------------------
+ Global Progress
+ &lt;size&gt; of &lt;size&gt; (for instance '47.5 MB of 52.8 MB')</Description>
+      <Position>GLOBAL_PROGRESS_ADDITIONAL_DESCRIPTION</Position>
+      <TranslationSet>
+        <base loc="en">%@ of %@</base>
+        <tran loc="ar">%@ من %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SHARING_ICLOUD_DRIVE_SETUP_MESSAGE_IOS_KEYNOTE</Position>
+      <TranslationSet>
+        <base loc="en">%@ shared this presentation. You need to turn on iCloud Drive for Keynote before you can open it.</base>
+        <tran loc="ar">تمت مشاركة هذا العرض التقديمي بواسطة %@. يتعين عليك تشغيل iCloud Drive لـ Keynote حتى يمكنك فتحه.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SHARING_ICLOUD_DRIVE_SETUP_MESSAGE_IOS_NUMBERS</Position>
+      <TranslationSet>
+        <base loc="en">%@ shared this spreadsheet. You need to turn on iCloud Drive for Numbers before you can open it.</base>
+        <tran loc="ar">تمت مشاركة جدول البيانات هذا بواسطة %@. يتعين عليك تشغيل iCloud Drive لـ Numbers حتى يمكنك فتحه.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SHARING_DEVICE_OFFLINE_ERROR_HEADER_OSX_FOLDER</Position>
+      <TranslationSet>
+        <base loc="en">This folder can’t be opened right now.</base>
+        <tran loc="ar">لا يمكن فتح هذا المجلد الآن.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SHARING_ICLOUD_NOT_REACHABLE_HEADER_OSX_FOLDER</Position>
+      <TranslationSet>
+        <base loc="en">This folder can’t be opened right now.</base>
+        <tran loc="ar">لا يمكن فتح هذا المجلد الآن.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SHARING_PROFILE_DISABLED_HEADER_IOS_FOLDER</Position>
+      <TranslationSet>
+        <base loc="en">Can’t open Folder</base>
+        <tran loc="ar">لا يمكن فتح المجلد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SHARING_JOIN_MESSAGE_PRIVATE_OSX_FOLDER</Position>
+      <TranslationSet>
+        <base loc="en">%@ shared this folder. You will join as %@ (%@).\n\nYou can find this later in iCloud Drive.</base>
+        <tran loc="ar">تمت مشاركة هذا المجلد من قبل %@. ستنضم كـ %@ ‏(%@).\n\nويمكنك العثور عليه لاحقًا في iCloud Drive.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> &lt;document-kind&gt; Unavailable.</Description>
+      <Position>SHARING_NO_LONGER_SHARED_HEADER_IOS_PAGES</Position>
+      <TranslationSet>
+        <base loc="en">Document Unavailable</base>
+        <tran loc="ar">المستند غير متاح</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> You can’t open it in &lt;application&gt; for Mac, but you can still open it on the web.</Description>
+      <Position>SHARING_PARTICIPANT_LIMIT_REACHED_MESSAGE_OSX_PAGES</Position>
+      <TranslationSet>
+        <base loc="en">You can’t open it in Pages for Mac, but you can still open it on the web.</base>
+        <tran loc="ar">لا يمكنك فتحه في Pages للـ Mac، لكن لا يزال بإمكانك فتحه على الويب.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SHARING_GENERIC_ERROR_HEADER_OSX_FOLDER</Position>
+      <TranslationSet>
+        <base loc="en">Sorry, this folder can’t be opened right now.</base>
+        <tran loc="ar">عذرًا، لا يمكن فتح هذا المجلد في الوقت الحالي.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SHARING_DEVICE_OFFLINE_ERROR_MESSAGE_IOS_KEYNOTE</Position>
+      <TranslationSet>
+        <base loc="en">This presentation can’t be opened right now. Check your Internet connection, then try again.</base>
+        <tran loc="ar">لا يمكن فتح هذا العرض التقديمي الآن. تحقق من اتصالك بالإنترنت، ثم حاول مرة أخرى.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SHARING_JOIN_MESSAGE_PRIVATE_IOS_NUMBERS</Position>
+      <TranslationSet>
+        <base loc="en">%@ shared this spreadsheet. You will join as %@ (%@).\n\nIt will also be added to iCloud Drive.</base>
+        <tran loc="ar">تمت مشاركة جدول البيانات هذا بواسطة %@. ستنضم كـ %@ (%@).\n\nستتم إضافته أيضًا إلى iCloud Drive.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SHARING_PARTICIPANT_LIMIT_REACHED_HEADER_OSX_FOLDER</Position>
+      <TranslationSet>
+        <base loc="en">This folder has a lot of participants.</base>
+        <tran loc="ar">يوجد العديد من المشاركين في هذا المجلد.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> -----------------------------------------------------------------------------
+ Download/Upload progress localized title
+ e.g. Downloading “myfile”</Description>
+      <Position>DOWNLOAD_PROGRESS_LOCALIZED_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Downloading “%@”</base>
+        <tran loc="ar">جاري تنزيل \"%@\"</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SHARING_JOIN_MESSAGE_PUBLIC_IOS_KEYNOTE</Position>
+      <TranslationSet>
+        <base loc="en">%@ shared this presentation. You will join as %@.\n\nIt will also be added to iCloud Drive.</base>
+        <tran loc="ar">تمت مشاركة هذا العرض التقديمي بواسطة %@. ستنضم كـ %@.\n\nستتم إضافته أيضًا إلى iCloud Drive.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SHARING_JOIN_MESSAGE_PRIVATE_IOS_KEYNOTE</Position>
+      <TranslationSet>
+        <base loc="en">%@ shared this presentation. You will join as %@ (%@).\n\nIt will also be added to iCloud Drive.</base>
+        <tran loc="ar">تمت مشاركة هذا العرض التقديمي بواسطة %@. ستنضم كـ %@ (%@).\n\nستتم إضافته أيضًا إلى iCloud Drive.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>OPEN_IN_APP_SHORTCUT_SUBTITLE</Position>
+      <TranslationSet>
+        <base loc="en">Open in %@</base>
+        <tran loc="ar">فتح في %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SHARING_JOIN_HEADER_NO_DOCUMENT_NAME_OSX_DEFAULT</Position>
+      <TranslationSet>
+        <base loc="en">Open document in iCloud Drive?</base>
+        <tran loc="ar">فتح المستند في iCloud Drive؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SHARING_JOIN_MESSAGE_PUBLIC_OSX_KEYNOTE</Position>
+      <TranslationSet>
+        <base loc="en">%@ shared this presentation. You will join as %@.\n\nYou can find this later in iCloud Drive.</base>
+        <tran loc="ar">تمت مشاركة هذا العرض التقديمي بواسطة %@. ستنضم كـ %@.\n\nيمكنك العثور على ذلك لاحقًا في iCloud Drive.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SHARING_JOIN_HEADER_KEYNOTE</Position>
+      <TranslationSet>
+        <base loc="en">Open “%@” in Keynote?</base>
+        <tran loc="ar">فتح \"%@\" في Keynote؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> This &lt;document-kind&gt; has a lot of participants. You can’t open it in &lt;application&gt;, but you can still preview it.</Description>
+      <Position>SHARING_PARTICIPANT_LIMIT_REACHED_MESSAGE_IOS_PAGES</Position>
+      <TranslationSet>
+        <base loc="en">This document has a lot of participants. You can’t open it in Pages, but you can still preview it.</base>
+        <tran loc="ar">يوجد العديد من المشاركين في هذا المستند. لا يمكنك فتحه في Pages، ولكن لا يزال بإمكانك معاينته.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SHARING_PARTICIPANT_LIMIT_REACHED_HEADER_OSX_KEYNOTE</Position>
+      <TranslationSet>
+        <base loc="en">This presentation has a lot of participants.</base>
+        <tran loc="ar">يوجد العديد من المشاركين في هذا العرض التقديمي.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SHARING_NO_LONGER_SHARED_HEADER_OSX_DEFAULT</Position>
+      <TranslationSet>
+        <base loc="en">This item is unavailable.</base>
+        <tran loc="ar">هذا العنصر غير متوفر.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SHARING_JOIN_HEADER_NO_DOCUMENT_NAME_IOS_KEYNOTE</Position>
+      <TranslationSet>
+        <base loc="en">Open Presentation in Keynote?</base>
+        <tran loc="ar">هل تريد فتح العرض التقديمي في Keynote؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Error: Unable to open the shared document because it no longer exists or you don't have permission to open it [1.4 in iOS specs v4, 1.4 in iOS specs v4]
+ This &lt;document-kind&gt; is unavailable.</Description>
+      <Position>SHARING_NO_LONGER_SHARED_HEADER_OSX_PAGES</Position>
+      <TranslationSet>
+        <base loc="en">This document is unavailable.</base>
+        <tran loc="ar">هذا المستند غير متوفر.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Error: User isn’t signed to iCloud [1.1 in iOS specs v4]</Description>
+      <Position>SHARING_ICLOUD_SETUP_HEADER_IOS</Position>
+      <TranslationSet>
+        <base loc="en">Sign In to iCloud</base>
+        <tran loc="ar">تسجيل الدخول إلى iCloud</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> iCloud Drive App 3D Touch support</Description>
+      <Position>SEARCH_SHORTCUT_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Search</base>
+        <tran loc="ar">بحث</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SHARING_ICLOUD_NOT_REACHABLE_MESSAGE_IOS_FOLDER</Position>
+      <TranslationSet>
+        <base loc="en">This folder can’t be opened right now. There may be a problem with the server. Please try again later.</base>
+        <tran loc="ar">لا يمكن فتح هذا المجلد الآن. قد تكون هناك مشكلة في الخادم. الرجاء المحاولة في وقت لاحق.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SHARING_NO_LONGER_SHARED_HEADER_OSX_FOLDER</Position>
+      <TranslationSet>
+        <base loc="en">This folder is unavailable.</base>
+        <tran loc="ar">هذا المجلد غير متوفر.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Displayed in Settings when the last sync occurred the day before. </Description>
+      <Position>CLOUD_DRIVE_LAST_UPDATED_YESTERDAY</Position>
+      <TranslationSet>
+        <base loc="en">Last updated yesterday</base>
+        <tran loc="ar">آخر تحديث أمس</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SHARING_JOIN_MESSAGE_PRIVATE_OSX_DEFAULT</Position>
+      <TranslationSet>
+        <base loc="en">%@ shared this document. You will join as %@ (%@).\n\nYou can find this later in iCloud Drive.</base>
+        <tran loc="ar">تمت مشاركة هذا المستند بواسطة %@. ستنضم كـ %@ (%@).\n\nيمكنك العثور على ذلك لاحقًا في iCloud Drive.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> &lt;owner-name&gt; shared this &lt;document-kind&gt;. You will join this document as &lt;recipient-name&gt; (&lt;recipient-email&gt;).\n\nYou can find this later in iCloud Drive.</Description>
+      <Position>SHARING_JOIN_MESSAGE_PRIVATE_OSX_PAGES</Position>
+      <TranslationSet>
+        <base loc="en">%@ shared this document. You will join as %@ (%@).\n\nYou can find this later in iCloud Drive.</base>
+        <tran loc="ar">تمت مشاركة هذا المستند بواسطة %@. ستنضم كـ %@ (%@).\n\nيمكنك العثور على ذلك لاحقًا في iCloud Drive.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PREVIEW_BUTTON_FOLDER</Position>
+      <TranslationSet>
+        <base loc="en">Preview Folder</base>
+        <tran loc="ar">معاينة المجلد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SHARING_NO_LONGER_SHARED_MESSAGE_IOS_DEFAULT</Position>
+      <TranslationSet>
+        <base loc="en">The owner stopped sharing, or you don’t have permission to open it.</base>
+        <tran loc="ar">تم إيقاف المشاركة بواسطة المالك، أو أنك ليس لديك الإذن لفتحه.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SHARING_NO_LONGER_SHARED_MESSAGE_IOS_KEYNOTE</Position>
+      <TranslationSet>
+        <base loc="en">The owner stopped sharing, or you don’t have permission to open it.</base>
+        <tran loc="ar">تم إيقاف المشاركة بواسطة المالك، أو أنك ليس لديك الإذن لفتحه.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SHARING_NO_LONGER_SHARED_MESSAGE_IOS_NUMBERS</Position>
+      <TranslationSet>
+        <base loc="en">The owner stopped sharing, or you don’t have permission to open it.</base>
+        <tran loc="ar">تم إيقاف المشاركة بواسطة المالك، أو أنك ليس لديك الإذن لفتحه.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SHARING_NO_LONGER_SHARED_MESSAGE_IOS_PAGES</Position>
+      <TranslationSet>
+        <base loc="en">The owner stopped sharing, or you don’t have permission to open it.</base>
+        <tran loc="ar">تم إيقاف المشاركة بواسطة المالك، أو أنك ليس لديك الإذن لفتحه.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SHARING_NO_LONGER_SHARED_MESSAGE_OSX_DEFAULT</Position>
+      <TranslationSet>
+        <base loc="en">The owner stopped sharing, or you don’t have permission to open it.</base>
+        <tran loc="ar">تم إيقاف المشاركة بواسطة المالك، أو أنك ليس لديك الإذن لفتحه.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SHARING_NO_LONGER_SHARED_MESSAGE_OSX_KEYNOTE</Position>
+      <TranslationSet>
+        <base loc="en">The owner stopped sharing, or you don’t have permission to open it.</base>
+        <tran loc="ar">تم إيقاف المشاركة بواسطة المالك، أو أنك ليس لديك الإذن لفتحه.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SHARING_NO_LONGER_SHARED_MESSAGE_OSX_NUMBERS</Position>
+      <TranslationSet>
+        <base loc="en">The owner stopped sharing, or you don’t have permission to open it.</base>
+        <tran loc="ar">تم إيقاف المشاركة بواسطة المالك، أو أنك ليس لديك الإذن لفتحه.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SHARING_NO_LONGER_SHARED_MESSAGE_OSX_PAGES</Position>
+      <TranslationSet>
+        <base loc="en">The owner stopped sharing, or you don’t have permission to open it.</base>
+        <tran loc="ar">تم إيقاف المشاركة بواسطة المالك، أو أنك ليس لديك الإذن لفتحه.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SHARING_NO_LONGER_SHARED_MESSAGE_OSX_FOLDER</Position>
+      <TranslationSet>
+        <base loc="en">The owner stopped sharing, or you don’t have permission to open it.</base>
+        <tran loc="ar">تم إيقاف المشاركة بواسطة المالك، أو أنك ليس لديك الإذن لفتحه.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SHARING_NO_LONGER_SHARED_MESSAGE_IOS_FOLDER</Position>
+      <TranslationSet>
+        <base loc="en">The owner stopped sharing, or you don’t have permission to open it.</base>
+        <tran loc="ar">تم إيقاف المشاركة بواسطة المالك، أو أنك ليس لديك الإذن لفتحه.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> &lt;owner-name&gt; shared this &lt;document-kind&gt;. You need to turn on iCloud Drive for &lt;app-name&gt; before you can open it.</Description>
+      <Position>SHARING_ICLOUD_DRIVE_SETUP_MESSAGE_IOS_PAGES</Position>
+      <TranslationSet>
+        <base loc="en">%@ shared this document. You need to turn on iCloud Drive for Pages before you can open it.</base>
+        <tran loc="ar">تمت مشاركة هذا المستند بواسطة %@. يتعين عليك تشغيل iCloud Drive لـ Pages حتى يمكنك فتحه.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SHARING_GENERIC_ERROR_MESSAGE_OSX_DEFAULT</Position>
+      <TranslationSet>
+        <base loc="en">Please try again later.</base>
+        <tran loc="ar">الرجاء المحاولة لاحقًا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SHARING_GENERIC_ERROR_MESSAGE_OSX_KEYNOTE</Position>
+      <TranslationSet>
+        <base loc="en">Please try again later.</base>
+        <tran loc="ar">الرجاء المحاولة لاحقًا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SHARING_GENERIC_ERROR_MESSAGE_OSX_NUMBERS</Position>
+      <TranslationSet>
+        <base loc="en">Please try again later.</base>
+        <tran loc="ar">الرجاء المحاولة لاحقًا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SHARING_GENERIC_ERROR_MESSAGE_OSX_PAGES</Position>
+      <TranslationSet>
+        <base loc="en">Please try again later.</base>
+        <tran loc="ar">الرجاء المحاولة لاحقًا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SHARING_GENERIC_ERROR_MESSAGE_OSX_FOLDER</Position>
+      <TranslationSet>
+        <base loc="en">Please try again later.</base>
+        <tran loc="ar">الرجاء المحاولة لاحقًا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SHARING_DEVICE_OFFLINE_ERROR_HEADER_OSX_DEFAULT</Position>
+      <TranslationSet>
+        <base loc="en">This document can’t be opened right now.</base>
+        <tran loc="ar">لا يمكن فتح هذا المستند الآن.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Error: Unable to open the shared document because the user’s device is offline [1.2 in iOS specs v4, 1.2 in OSX specs v5]
+ This &lt;document-kind&gt; can’t be opened right now.</Description>
+      <Position>SHARING_DEVICE_OFFLINE_ERROR_HEADER_OSX_PAGES</Position>
+      <TranslationSet>
+        <base loc="en">This document can’t be opened right now.</base>
+        <tran loc="ar">لا يمكن فتح هذا المستند الآن.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SHARING_ICLOUD_NOT_REACHABLE_HEADER_OSX_DEFAULT</Position>
+      <TranslationSet>
+        <base loc="en">This document can’t be opened right now.</base>
+        <tran loc="ar">لا يمكن فتح هذا المستند الآن.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Error: Unable to open the shared document because of a problem with the server [1.3 in iOS specs v4, 1.3 in OSX specs v5]
+ This &lt;document-kind&gt; can’t be opened right now.</Description>
+      <Position>SHARING_ICLOUD_NOT_REACHABLE_HEADER_OSX_PAGES</Position>
+      <TranslationSet>
+        <base loc="en">This document can’t be opened right now.</base>
+        <tran loc="ar">لا يمكن فتح هذا المستند الآن.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> -----------------------------------------------------------------------------
+ iCloud Drive last sync
+ Displayed in Settings when the last sync just occurred. </Description>
+      <Position>CLOUD_DRIVE_LAST_UPDATED_JUST_NOW</Position>
+      <TranslationSet>
+        <base loc="en">Updated Just Now</base>
+        <tran loc="ar">تم التحديث توًا</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SHARING_GENERIC_ERROR_HEADER_IOS_FOLDER</Position>
+      <TranslationSet>
+        <base loc="en">Can’t Open Folder</base>
+        <tran loc="ar">لا يمكن فتح المجلد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SHARING_DEVICE_OFFLINE_ERROR_HEADER_IOS_FOLDER</Position>
+      <TranslationSet>
+        <base loc="en">Can’t Open Folder</base>
+        <tran loc="ar">لا يمكن فتح المجلد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SHARING_ICLOUD_NOT_REACHABLE_HEADER_IOS_FOLDER</Position>
+      <TranslationSet>
+        <base loc="en">Can’t Open Folder</base>
+        <tran loc="ar">لا يمكن فتح المجلد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SHARING_PARTICIPANT_LIMIT_REACHED_HEADER_IOS_FOLDER</Position>
+      <TranslationSet>
+        <base loc="en">Can’t Open Folder</base>
+        <tran loc="ar">لا يمكن فتح المجلد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PREVIEW_BUTTON_DEFAULT</Position>
+      <TranslationSet>
+        <base loc="en">Preview Document</base>
+        <tran loc="ar">معاينة المستند</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Preview &lt;document-kind&gt;</Description>
+      <Position>PREVIEW_BUTTON_PAGES</Position>
+      <TranslationSet>
+        <base loc="en">Preview Document</base>
+        <tran loc="ar">معاينة المستند</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Error: Unable to open the shared document because iCloud Drive is not visible</Description>
+      <Position>SHARING_FALLBACK_SUCCESS_HEADER</Position>
+      <TranslationSet>
+        <base loc="en">Saved to iCloud Drive.</base>
+        <tran loc="ar">تم الحفظ في iCloud Drive.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> iCloud Desktop</Description>
+      <Position>OLD_DESKTOP_FOLDER_NAME</Position>
+      <TranslationSet>
+        <base loc="en">Desktop - %@</base>
+        <tran loc="ar">سطح المكتب - %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>OLD_DESKTOP_FOLDER_NAME_INSIDE_SYNCED_DESKTOP</Position>
+      <TranslationSet>
+        <base loc="en">Desktop - %@</base>
+        <tran loc="ar">سطح المكتب - ‫%@‬</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SHARING_APP_NOT_INSTALLED_DEFAULT_BUTTON_IOS</Position>
+      <TranslationSet>
+        <base loc="en">Go to App Store</base>
+        <tran loc="ar">انتقال إلى App Store</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SHARING_GENERIC_ERROR_HEADER_OSX_KEYNOTE</Position>
+      <TranslationSet>
+        <base loc="en">Sorry, this presentation can’t be opened right now.</base>
+        <tran loc="ar">عذرًا، لا يمكن فتح هذا العرض التقديمي الآن.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICLOUD_DRIVE_APP_INSTALLATION_NOTIFICATION_ACTION_BUTTON_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Open</base>
+        <tran loc="ar">فتح</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SHARING_JOIN_DEFAULT_BUTTON</Position>
+      <TranslationSet>
+        <base loc="en">Open</base>
+        <tran loc="ar">فتح</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SHARING_PARTICIPANT_LIMIT_REACHED_HEADER_OSX_NUMBERS</Position>
+      <TranslationSet>
+        <base loc="en">This spreadsheet has a lot of participants.</base>
+        <tran loc="ar">يوجد العديد من المشاركين في جدول البيانات هذا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SHARING_GENERIC_ERROR_MESSAGE_IOS_KEYNOTE</Position>
+      <TranslationSet>
+        <base loc="en">Sorry, this presentation can’t be opened right now. Please try again later.</base>
+        <tran loc="ar">عذرًا، لا يمكن فتح هذا العرض التقديمي الآن. الرجاء المحاولة مرة أخرى لاحقًا.</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>CloudDocs_executables/System/Library/PrivateFrameworks/CloudDocs.framework/PlugIns/com.apple.CloudDocs.MobileDocumentsFileProvider.appex/Contents/Resources/en.lproj/InfoPlist.strings</Filepath>
+    <TextItem>
+      <Description> Localized versions of Info.plist keys 
+ "iCloud Drive" is localized "iCloud 云盘" in Chinese (see rdar://problem/34754664)</Description>
+      <Position>CFBundleDisplayName</Position>
+      <TranslationSet>
+        <base loc="en">iCloud Drive</base>
+        <tran loc="ar">iCloud Drive</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CFBundleName</Position>
+      <TranslationSet>
+        <base loc="en">com.apple.CloudDocs.MobileDocumentsFileProvider</base>
+        <tran loc="ar">com.apple.CloudDocs.MobileDocumentsFileProvider</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>CloudDocs_executables/System/Library/PrivateFrameworks/CloudDocsDaemon.framework/Versions/A/Resources/en.lproj/Localizable.stringsdict</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>/GLOBAL_PROGRESS_DOWNLOADING_LOWERCASE_DESCRIPTION:dict/items:dict/few:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">downloading %lu items</base>
+        <tran loc="ar">يتم الآن تنزيل %lu عناصر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/GLOBAL_PROGRESS_DOWNLOADING_LOWERCASE_DESCRIPTION:dict/items:dict/many:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">downloading %lu items</base>
+        <tran loc="ar">يتم الآن تنزيل %lu عنصرًا</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/GLOBAL_PROGRESS_DOWNLOADING_LOWERCASE_DESCRIPTION:dict/items:dict/other:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">downloading %lu items</base>
+        <tran loc="ar">يتم الآن تنزيل %lu عنصر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/GLOBAL_PROGRESS_DOWNLOADING_LOWERCASE_DESCRIPTION:dict/items:dict/two:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">downloading %lu items</base>
+        <tran loc="ar">يتم الآن تنزيل عنصرين</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/GLOBAL_PROGRESS_DOWNLOADING_LOWERCASE_DESCRIPTION:dict/items:dict/zero:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">downloading %lu items</base>
+        <tran loc="ar">يتم الآن تنزيل %lu عنصر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/GLOBAL_PROGRESS_UPLOADING_LOWERCASE_DESCRIPTION:dict/items:dict/one:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">uploading %lu item</base>
+        <tran loc="ar">يتم الآن تحميل عنصر واحد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/GLOBAL_PROGRESS_UPLOADS_WAITING_DESCRIPTION:dict/items:dict/one:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Waiting to upload %lu item</base>
+        <tran loc="ar">في انتظار تحميل عنصر واحد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/CLOUD_DRIVE_LAST_UPDATED_N_MINUTES_AGO:dict/minutes:dict/one:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Last updated 1 minute ago</base>
+        <tran loc="ar">آخر تحديث منذ دقيقة واحدة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/GLOBAL_PROGRESS_DOWNLOADS_WAITING_DESCRIPTION:dict/items:dict/one:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Waiting to download %lu item</base>
+        <tran loc="ar">في انتظار تنزيل عنصر واحد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/GLOBAL_PROGRESS_DOWNLOADING_CAPITALIZE_DESCRIPTION:dict/items:dict/one:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Downloading %lu item</base>
+        <tran loc="ar">يتم الآن تنزيل عنصر واحد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/GLOBAL_PROGRESS_UPLOADS_WAITING_DESCRIPTION:dict/items:dict/few:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Waiting to upload %lu items</base>
+        <tran loc="ar">في انتظار تحميل %lu عناصر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/GLOBAL_PROGRESS_UPLOADS_WAITING_DESCRIPTION:dict/items:dict/many:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Waiting to upload %lu items</base>
+        <tran loc="ar">في انتظار تحميل %lu عنصرًا</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/GLOBAL_PROGRESS_UPLOADS_WAITING_DESCRIPTION:dict/items:dict/other:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Waiting to upload %lu items</base>
+        <tran loc="ar">في انتظار تحميل %lu عنصر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/GLOBAL_PROGRESS_UPLOADS_WAITING_DESCRIPTION:dict/items:dict/two:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Waiting to upload %lu items</base>
+        <tran loc="ar">في انتظار تحميل عنصرين</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/GLOBAL_PROGRESS_UPLOADS_WAITING_DESCRIPTION:dict/items:dict/zero:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Waiting to upload %lu items</base>
+        <tran loc="ar">في انتظار تحميل %lu عنصر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/GLOBAL_PROGRESS_UPLOADING_CAPITALIZE_DESCRIPTION:dict/items:dict/few:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Uploading %lu items</base>
+        <tran loc="ar">يتم الآن تحميل %lu عناصر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/GLOBAL_PROGRESS_UPLOADING_CAPITALIZE_DESCRIPTION:dict/items:dict/many:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Uploading %lu items</base>
+        <tran loc="ar">يتم الآن تحميل %lu عنصرًا</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/GLOBAL_PROGRESS_UPLOADING_CAPITALIZE_DESCRIPTION:dict/items:dict/other:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Uploading %lu items</base>
+        <tran loc="ar">يتم الآن تحميل %lu عنصر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/GLOBAL_PROGRESS_UPLOADING_CAPITALIZE_DESCRIPTION:dict/items:dict/two:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Uploading %lu items</base>
+        <tran loc="ar">يتم الآن تحميل عنصرين</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/GLOBAL_PROGRESS_UPLOADING_CAPITALIZE_DESCRIPTION:dict/items:dict/zero:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Uploading %lu items</base>
+        <tran loc="ar">يتم الآن تحميل %lu عنصر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/GLOBAL_PROGRESS_UPLOADING_LOWERCASE_DESCRIPTION:dict/items:dict/few:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">uploading %lu items</base>
+        <tran loc="ar">يتم الآن تحميل %lu عناصر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/GLOBAL_PROGRESS_UPLOADING_LOWERCASE_DESCRIPTION:dict/items:dict/many:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">uploading %lu items</base>
+        <tran loc="ar">يتم الآن تحميل %lu عنصرًا</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/GLOBAL_PROGRESS_UPLOADING_LOWERCASE_DESCRIPTION:dict/items:dict/other:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">uploading %lu items</base>
+        <tran loc="ar">يتم الآن تحميل %lu عنصر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/GLOBAL_PROGRESS_UPLOADING_LOWERCASE_DESCRIPTION:dict/items:dict/two:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">uploading %lu items</base>
+        <tran loc="ar">يتم الآن تحميل عنصرين</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/GLOBAL_PROGRESS_UPLOADING_LOWERCASE_DESCRIPTION:dict/items:dict/zero:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">uploading %lu items</base>
+        <tran loc="ar">يتم الآن تحميل %lu عنصر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/CLOUD_DRIVE_LAST_UPDATED_N_MINUTES_AGO:dict/NSStringLocalizedFormatKey:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%#@minutes@</base>
+        <tran loc="ar">%#@minutes@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/GLOBAL_PROGRESS_DOWNLOADING_CAPITALIZE_DESCRIPTION:dict/items:dict/few:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Downloading %lu items</base>
+        <tran loc="ar">يتم الآن تنزيل %lu عناصر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/GLOBAL_PROGRESS_DOWNLOADING_CAPITALIZE_DESCRIPTION:dict/items:dict/many:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Downloading %lu items</base>
+        <tran loc="ar">يتم الآن تنزيل %lu عنصرًا</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/GLOBAL_PROGRESS_DOWNLOADING_CAPITALIZE_DESCRIPTION:dict/items:dict/other:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Downloading %lu items</base>
+        <tran loc="ar">يتم الآن تنزيل %lu عنصر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/GLOBAL_PROGRESS_DOWNLOADING_CAPITALIZE_DESCRIPTION:dict/items:dict/two:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Downloading %lu items</base>
+        <tran loc="ar">يتم الآن تنزيل عنصرين</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/GLOBAL_PROGRESS_DOWNLOADING_CAPITALIZE_DESCRIPTION:dict/items:dict/zero:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Downloading %lu items</base>
+        <tran loc="ar">يتم الآن تنزيل %lu عنصر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/CLOUD_DRIVE_LAST_UPDATED_N_MINUTES_AGO:dict/minutes:dict/few:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Last updated %lu minutes ago</base>
+        <tran loc="ar">آخر تحديث منذ %lu دقائق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/CLOUD_DRIVE_LAST_UPDATED_N_MINUTES_AGO:dict/minutes:dict/many:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Last updated %lu minutes ago</base>
+        <tran loc="ar">آخر تحديث منذ %lu دقيقة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/CLOUD_DRIVE_LAST_UPDATED_N_MINUTES_AGO:dict/minutes:dict/other:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Last updated %lu minutes ago</base>
+        <tran loc="ar">آخر تحديث منذ %lu دقيقة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/CLOUD_DRIVE_LAST_UPDATED_N_MINUTES_AGO:dict/minutes:dict/two:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Last updated %lu minutes ago</base>
+        <tran loc="ar">آخر تحديث منذ دقيقتين</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/CLOUD_DRIVE_LAST_UPDATED_N_MINUTES_AGO:dict/minutes:dict/zero:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Last updated %lu minutes ago</base>
+        <tran loc="ar">آخر تحديث منذ %lu دقيقة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/GLOBAL_PROGRESS_DOWNLOADING_CAPITALIZE_DESCRIPTION:dict/NSStringLocalizedFormatKey:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%#@items@</base>
+        <tran loc="ar">%#@items@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/GLOBAL_PROGRESS_DOWNLOADING_LOWERCASE_DESCRIPTION:dict/NSStringLocalizedFormatKey:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%#@items@</base>
+        <tran loc="ar">%#@items@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/GLOBAL_PROGRESS_DOWNLOADS_WAITING_DESCRIPTION:dict/NSStringLocalizedFormatKey:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%#@items@</base>
+        <tran loc="ar">%#@items@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/GLOBAL_PROGRESS_UPLOADING_CAPITALIZE_DESCRIPTION:dict/NSStringLocalizedFormatKey:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%#@items@</base>
+        <tran loc="ar">%#@items@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/GLOBAL_PROGRESS_UPLOADING_LOWERCASE_DESCRIPTION:dict/NSStringLocalizedFormatKey:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%#@items@</base>
+        <tran loc="ar">%#@items@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/GLOBAL_PROGRESS_UPLOADS_WAITING_DESCRIPTION:dict/NSStringLocalizedFormatKey:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%#@items@</base>
+        <tran loc="ar">%#@items@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/GLOBAL_PROGRESS_UPLOADING_CAPITALIZE_DESCRIPTION:dict/items:dict/one:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Uploading %lu item</base>
+        <tran loc="ar">يتم الآن تحميل عنصر واحد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/GLOBAL_PROGRESS_DOWNLOADING_LOWERCASE_DESCRIPTION:dict/items:dict/one:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">downloading %lu item</base>
+        <tran loc="ar">يتم الآن تنزيل عنصر واحد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/GLOBAL_PROGRESS_DOWNLOADS_WAITING_DESCRIPTION:dict/items:dict/few:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Waiting to download %lu items</base>
+        <tran loc="ar">في انتظار تنزيل %lu عناصر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/GLOBAL_PROGRESS_DOWNLOADS_WAITING_DESCRIPTION:dict/items:dict/many:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Waiting to download %lu items</base>
+        <tran loc="ar">في انتظار تنزيل %lu عنصرًا</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/GLOBAL_PROGRESS_DOWNLOADS_WAITING_DESCRIPTION:dict/items:dict/other:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Waiting to download %lu items</base>
+        <tran loc="ar">في انتظار تنزيل %lu عنصر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/GLOBAL_PROGRESS_DOWNLOADS_WAITING_DESCRIPTION:dict/items:dict/two:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Waiting to download %lu items</base>
+        <tran loc="ar">في انتظار تنزيل عنصرين</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/GLOBAL_PROGRESS_DOWNLOADS_WAITING_DESCRIPTION:dict/items:dict/zero:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Waiting to download %lu items</base>
+        <tran loc="ar">في انتظار تنزيل %lu عنصر</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>CloudDocs_executables/System/Library/PrivateFrameworks/CloudDocsDaemon.framework/PlugIns/CloudDocsStorageManagement.appex/Contents/Resources/en.lproj/Localizable.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>TIP_ENABLE_OPTION_MESSAGE</Position>
+      <TranslationSet>
+        <base loc="en">Click Help (?) to learn more.</base>
+        <tran loc="ar">انقر على مساعدة (؟) لمعرفة المزيد.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Summary: Enable iCloud Desktop </Description>
+      <Position>SUMMARY_ENABLE_DESKTOP_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">iCloud Drive uses %@ of storage.</base>
+        <tran loc="ar">يستخدم iCloud Drive ‏%@ من مساحة التخزين.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Summary: Open iCloud Preferences </Description>
+      <Position>SUMMARY_ICLOUD_DRIVE_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">iCloud Drive uses %@ of storage.</base>
+        <tran loc="ar">يستخدم iCloud Drive ‏%@ من مساحة التخزين.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Summary: Enable Optimize iCloud </Description>
+      <Position>SUMMARY_OPTIMIZE_ICLOUD_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">iCloud Drive uses %@ of storage.</base>
+        <tran loc="ar">يستخدم iCloud Drive ‏%@ من مساحة التخزين.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SUMMARY_OPTIMIZE_ICLOUD_CONFIRM_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Do you want to optimize iCloud Drive?</base>
+        <tran loc="ar">هل ترغب في تحسين iCloud Drive؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>TIP_ENABLE_CONFIRM</Position>
+      <TranslationSet>
+        <base loc="en">Enable</base>
+        <tran loc="ar">تمكين</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SUMMARY_ENABLE_DESKTOP_CONFIRM_MESSAGE</Position>
+      <TranslationSet>
+        <base loc="en">All files from your Desktop and Documents folders will be stored in iCloud Drive, and only recently opened files will be kept on this Mac when storage is low. You can access all files at any time on all your devices. You can change this later in the Apple ID pane of System Preferences.</base>
+        <tran loc="ar">سيتم تخزين جميع ملفات مجلدَي سطح المكتب والمستندات في iCloud Drive، وسيتم الاحتفاظ بالملفات المفتوحة حديثًا فقط على هذا الـ Mac عندما تكون مساحة التخزين قليلة. يمكنك الوصول إلى جميع الملفات في أي وقت على جميع أجهزتك. يمكنك تغيير ذلك لاحقًا في جزء Apple ID من تفضيلات النظام.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SUMMARY_OPTIMIZE_ICLOUD_CONFIRM_MESSAGE</Position>
+      <TranslationSet>
+        <base loc="en">All files from your Desktop and Documents folders will be stored in iCloud Drive, and only recently opened files will be kept on this Mac when storage is low. You can access all files at any time on all your devices. You can change this later in the Apple ID pane of System Preferences.</base>
+        <tran loc="ar">سيتم تخزين جميع ملفات مجلدَي سطح المكتب والمستندات في iCloud Drive، وسيتم الاحتفاظ بالملفات المفتوحة حديثًا فقط على هذا الـ Mac عندما تكون مساحة التخزين قليلة. يمكنك الوصول إلى جميع الملفات في أي وقت على جميع أجهزتك. يمكنك تغيير ذلك لاحقًا في جزء Apple ID من تفضيلات النظام.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> rdar://problem/35048239</Description>
+      <Position>CFBundleDisplayName</Position>
+      <TranslationSet>
+        <base loc="en">iCloud Drive</base>
+        <tran loc="ar">iCloud Drive</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>TIP_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">iCloud Drive</base>
+        <tran loc="ar">iCloud Drive</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SUMMARY_OPTIMIZE_ICLOUD_CONFIRM</Position>
+      <TranslationSet>
+        <base loc="en">Optimize</base>
+        <tran loc="ar">تحسين</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>TIP_EVICT_CONFIRM</Position>
+      <TranslationSet>
+        <base loc="en">Optimize</base>
+        <tran loc="ar">تحسين</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SUMMARY_ENABLE_DESKTOP_CANCEL</Position>
+      <TranslationSet>
+        <base loc="en">Cancel</base>
+        <tran loc="ar">إلغاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SUMMARY_OPTIMIZE_ICLOUD_CANCEL</Position>
+      <TranslationSet>
+        <base loc="en">Cancel</base>
+        <tran loc="ar">إلغاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>TIP_ENABLE_CANCEL</Position>
+      <TranslationSet>
+        <base loc="en">Cancel</base>
+        <tran loc="ar">إلغاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>TIP_EVICT_CANCEL</Position>
+      <TranslationSet>
+        <base loc="en">Cancel</base>
+        <tran loc="ar">إلغاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>TIP_EVICT_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Optimize iCloud Drive?</base>
+        <tran loc="ar">هل تريد تحسين iCloud Drive؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>TIP_ENABLE_OPTION_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Enable iCloud Desktop</base>
+        <tran loc="ar">تمكين سطح مكتب iCloud</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>TIP_ENABLE_MESSAGE</Position>
+      <TranslationSet>
+        <base loc="en">Enabling iCloud Drive lets you move the documents stored on your computer to iCloud. Drag documents from your computer to iCloud Drive in the Finder’s sidebar to free up space.</base>
+        <tran loc="ar">بتمكين iCloud Drive، ستتمكن من نقل المستندات المخزنة على الكمبيوتر الخاص بك إلى iCloud. اسحب المستندات من الكمبيوتر الخاص بك إلى iCloud Drive في الشريط الجانبي لتطبيق Finder ليتم تفريغ مساحة التخزين.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SUMMARY_ENABLE_DESKTOP_BUTTON</Position>
+      <TranslationSet>
+        <base loc="en">Enable iCloud Desktop and Documents</base>
+        <tran loc="ar">تمكين سطح مكتب ومستندات iCloud</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Tip: Enable iCloud Drive </Description>
+      <Position>TIP_ENABLE_ACTION_BUTTON</Position>
+      <TranslationSet>
+        <base loc="en">Enable…</base>
+        <tran loc="ar">تمكين…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>TIP_ENABLE_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Enable iCloud Drive?</base>
+        <tran loc="ar">هل تريد تمكين iCloud Drive؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SUMMARY_ENABLE_DESKTOP_MESSAGE</Position>
+      <TranslationSet>
+        <base loc="en">Store all files from your Desktop and Documents folders in iCloud Drive. When storage is low only recently opened files are stored on this Mac. When you have enough storage all of your files will be stored on this Mac.</base>
+        <tran loc="ar">يمكنك تخزين جميع ملفات مجلدَي سطح المكتب والمستندات في iCloud Drive. وعندما تكون مساحة التخزين قليلة، يتم تخزين الملفات المفتوحة حديثًا فقط على هذا الـ Mac. وعندما تتوفر لديك مساحة تخزين كافية، يتم تخزين جميع ملفاتك على هذا الـ Mac</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SUMMARY_OPTIMIZE_ICLOUD_MESSAGE</Position>
+      <TranslationSet>
+        <base loc="en">Store all files from your Desktop and Documents folders in iCloud Drive. When storage is low only recently opened files are stored on this Mac. When you have enough storage all of your files will be stored on this Mac.</base>
+        <tran loc="ar">يمكنك تخزين جميع ملفات مجلدَي سطح المكتب والمستندات في iCloud Drive. وعندما تكون مساحة التخزين قليلة، يتم تخزين الملفات المفتوحة حديثًا فقط على هذا الـ Mac. وعندما تتوفر لديك مساحة تخزين كافية، يتم تخزين جميع ملفاتك على هذا الـ Mac</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Misc. </Description>
+      <Position>CALCULATING_SIZE</Position>
+      <TranslationSet>
+        <base loc="en">Calculating…</base>
+        <tran loc="ar">يتم الآن الحساب…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SUMMARY_ENABLE_DESKTOP_CONFIRM_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Do you want to store your Desktop and Documents folders in iCloud Drive?</base>
+        <tran loc="ar">هل ترغب في تخزين مجلدَي سطح المكتب والمستندات في iCloud Drive؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SUMMARY_ICLOUD_DRIVE_BUTTON</Position>
+      <TranslationSet>
+        <base loc="en">Open Apple ID Preferences…</base>
+        <tran loc="ar">فتح تفضيلات Apple ID…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>TIP_EVICT_MESSAGE</Position>
+      <TranslationSet>
+        <base loc="en">Optimizing iCloud Drive lets you remove your local copy of the documents that have not been accessed within the last two weeks. Those documents will still be stored in the cloud but will require to have an internet connection to be accessed locally.</base>
+        <tran loc="ar">بتحسين iCloud Drive، ستتمكن من إزالة النسخة المحلية من المستندات التي لم يتم الوصول إليها خلال الأسبوعين الماضيين. ستبقى هذه المستندات مخزنة على السحابة ولكن ستتطلب الاتصال بالإنترنت للوصول إليها محليًا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SUMMARY_ENABLE_DESKTOP_CONFIRM</Position>
+      <TranslationSet>
+        <base loc="en">Store in iCloud</base>
+        <tran loc="ar">تخزين في iCloud</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Tip: Evict older documents </Description>
+      <Position>TIP_EVICT_ACTION_BUTTON</Position>
+      <TranslationSet>
+        <base loc="en">Optimize…</base>
+        <tran loc="ar">تحسين…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SUMMARY_OPTIMIZE_ICLOUD_BUTTON</Position>
+      <TranslationSet>
+        <base loc="en">Optimize iCloud Drive</base>
+        <tran loc="ar">تحسين iCloud Drive</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>CloudDocs_executables/System/Library/PrivateFrameworks/CloudDocs.framework/PlugIns/com.apple.CloudDocs.MobileDocumentsFileProvider.appex/Contents/Resources/en.lproj/InfoPlist.stringsdict</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>/.DICT.AVAILABLE.%@.%@:dict/availablewithunit:dict/few:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%2$@ available on iCloud</base>
+        <tran loc="ar">‏%2$@ متوفرة على iCloud</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/.DICT.AVAILABLE.%@.%@:dict/availablewithunit:dict/many:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%2$@ available on iCloud</base>
+        <tran loc="ar">‏%2$@ متوفرة على iCloud</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/.DICT.AVAILABLE.%@.%@:dict/availablewithunit:dict/one:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%2$@ available on iCloud</base>
+        <tran loc="ar">‏%2$@ متوفرة على iCloud</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/.DICT.AVAILABLE.%@.%@:dict/availablewithunit:dict/other:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%2$@ available on iCloud</base>
+        <tran loc="ar">‏%2$@ متوفرة على iCloud</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/.DICT.AVAILABLE.%@.%@:dict/availablewithunit:dict/two:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%2$@ available on iCloud</base>
+        <tran loc="ar">‏%2$@ متوفرتان على iCloud</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/.DICT.AVAILABLE.%@.%@:dict/availablewithunit:dict/zero:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%2$@ available on iCloud</base>
+        <tran loc="ar">‏%2$@ متوفرة على iCloud</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/.DICT.AVAILABLE.%@.%@:dict/NSStringLocalizedFormatKey:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%1$#@availablewithunit@</base>
+        <tran loc="ar">%1$#@availablewithunit@</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+</Proj>

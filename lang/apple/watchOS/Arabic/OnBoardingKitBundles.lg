@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Proj>
+  <ProjName>OnBoardingKitBundles</ProjName>
+  <File>
+    <Filepath>OnBoardingKitBundles/System/Library/OnBoardingBundles/com.apple.onboarding.familysetup.bundle/en.lproj/FamilySetup.strings</Filepath>
+    <TextItem>
+      <Description> THIRD_BULLET copied from line 18 of the Apple ID About </Description>
+      <Position>THIRD_BULLET</Position>
+      <TranslationSet>
+        <base loc="en">In addition, your device will be associated with your Apple ID to provide you with better service and support.</base>
+        <tran loc="ar">إضافةً إلى ذلك، سيتم ربط جهازك بالـ Apple ID لنقدم لك الخدمة والدعم على نحو أفضل.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> FIRST_BULLET is adapted from the various FIRST_BULLET items but ending with the word ‘device’ instead of Mac/iPhone/iPod Touch/etc. </Description>
+      <Position>FIRST_BULLET</Position>
+      <TranslationSet>
+        <base loc="en">When you sign in with your Apple ID you will enable services such as iCloud, the App Store, iMessage, and Find My on this device.</base>
+        <tran loc="ar">عند تسجيل الدخول باستخدام Apple ID، يتم تمكين خدمات مثل iCloud و App Store و iMessage و"تحديد الموقع" على هذا الجهاز.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> SPLASH_SUMMARY adapted from line 10 SPLASH_SUMMARY but sub in "Family Sharing" for "Apple ID" </Description>
+      <Position>SPLASH_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Family Sharing &amp; Privacy</base>
+        <tran loc="ar">المشاركة العائلية والخصوصية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> FOOTER_TEXT copied from lines 101-109 of the very long FOOTER_TEXT_WIFI_IPHONE (and is part of various other FOOTER_TEXT_
+* keys) </Description>
+      <Position>FOOTER_TEXT</Position>
+      <TranslationSet>
+        <base loc="en">Family Sharing lets you share certain content, location, subscriptions and screen usage information among family members; the family organizer can choose which shared features to enable. If Family Sharing is enabled for Apple Music, Apple TV, Arcade, or News+, family members will continue to sign in to each service using their own Apple IDs, keeping their individual libraries and recommendations private, while taking advantage of the family plan. Similarly, enabling Family Sharing for iCloud storage gives each family member access to the family storage plan, while keeping individual accounts and files separate.
+
+If Purchase Sharing is enabled, members of your family will automatically be able to access many of your past and future App Store, Apple Books, and Apple Music purchases, unless you choose to hide those purchases. To hide purchases, you can hide individual iTunes, Apple Books, and App Store purchases, or disable Share My Purchases within your personal Family Sharing settings; the family organizer will continue to receive receipts for purchases made in the App Store, Apple Books, and Apple Music even if you have hidden your purchases.
+
+If you choose to share your location with your family, all family members will automatically be able to see the location of all your devices in the Find My app so they can help you locate a missing device or see your current location on a map. You can manage or turn off location sharing with individual family members in Find My settings on your device.
+
+If you are the family organizer and enable Screen Time for Family, you will be able to view certain information about your family’s device usage. The family organizer can also choose to set Screen Time limits for the Family, which will be automatically enforced for children. The family organizer can grant permission to family members to view Screen Time information for other family members.</base>
+        <tran loc="ar">تتيح لك المشاركة العائلية مشاركة محتوى معين والموقع والاشتراكات ومعلومات استخدام الجهاز بين أفراد العائلة؛ ويمكن لمنظم العائلة اختيار الميزات المشتركة التي يتم تمكينها. إذا تم تمكين المشاركة العائلية لـ Apple Music أو Apple TV أو آركيد أو News+‎، فسيستمر أفراد العائلة في تسجيل الدخول إلى كل خدمة باستخدام حسابات Apple ID الخاصة بهم، مع الحفاظ على خصوصية مكتباتهم وتوصياتهم الفردية، مع الاستفادة من الخطة العائلية. وبالمثل، فإن تمكين المشاركة العائلية لمساحة تخزين iCloud يتيح لكل فرد من أفراد العائلة الوصول إلى خطة التخزين العائلية، مع إبقاء الحسابات والملفات الفردية منفصلة.
+
+في حالة تمكين مشاركة المشتريات، سيتمكن أفراد عائلتك تلقائيًا من الوصول إلى العديد من مشتريات App Store و Apple Books و Apple Music السابقة واللاحقة، إلا إذا اخترت إخفاء تلك المشتريات. لإخفاء المشتريات، يمكنك إخفاء المشتريات الفردية من iTunes و Apple Books و App Store أو تعطيل مشاركة مشترياتي ضمن إعدادات المشاركة العائلية الشخصية. وسيستمر منظم العائلة في استلام إيصالات المشتريات التي تمت في App Store و Apple Books و Apple Music حتى لو أخفيت مشترياتك.
+
+إذا اخترت مشاركة موقعك مع عائلتك، فسيتمكن جميع أفراد العائلة تلقائيًا من رؤية موقع جميع أجهزتك في تطبيق تحديد الموقع حتى يتمكنوا من مساعدتك في تحديد موقع جهاز مفقود أو رؤية موقعك الحالي على الخريطة. يمكنك إدارة أو إيقاف مشاركة الموقع مع أفراد معينين في العائلة في إعدادات تطبيق تحديد الموقع على جهازك.
+
+إذا كنت منظم العائلة وقمت بتمكين مدة استخدام الجهاز للعائلة، فستتمكن من عرض معلومات معينة حول استخدام الجهاز لدى العائلة. ويمكن لمنظم العائلة أيضًا اختيار تعيين حدود مدة استخدام الجهاز للعائلة، والتي ستُفرض تلقائيًا على الأطفال. يمكن لمنظم العائلة أيضًا منح الإذن لأفراد العائلة بعرض معلومات مدة استخدام الجهاز لدى أفراد العائلة الآخرين.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> SECOND_BULLET copied from line 17 of the Apple ID About </Description>
+      <Position>SECOND_BULLET</Position>
+      <TranslationSet>
+        <base loc="en">Certain data, including your contacts, calendars, photos, documents, health, activity, and other app data, will be sent to Apple to store and back up on your behalf.</base>
+        <tran loc="ar">سيتم إرسال بيانات معينة، تتضمن جهات الاتصال والتقويمات والصور والمستندات والصحة والنشاط وبيانات تطبيقات أخرى، إلى Apple لتخزينها والاحتفاظ بنسخة منها لك.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SPLASH_SUMMARY</Position>
+      <TranslationSet>
+        <base loc="en">Family Sharing is designed to protect your information and enable you to choose what you share.</base>
+        <tran loc="ar">تم تصميم المشاركة العائلية بطريقة تحمي معلوماتك وتمكّنك من اختيار ما تود مشاركته.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SPLASH_SHORT_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Family Sharing</base>
+        <tran loc="ar">المشاركة العائلية</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+</Proj>

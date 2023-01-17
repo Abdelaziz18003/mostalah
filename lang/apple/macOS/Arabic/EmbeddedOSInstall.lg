@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Proj>
+  <ProjName>EmbeddedOSInstall</ProjName>
+  <File>
+    <Filepath>EmbeddedOSInstall/System/Library/PrivateFrameworks/EmbeddedOSInstall.framework/Versions/A/Resources/en.lproj/Localizable.strings</Filepath>
+    <TextItem>
+      <Description> 
+  Localizable.strings
+  EmbeddedOSInstall
+
+  Created by Zeke Runyon on 6/13/16.
+
+
+ Shown by loginwindow underneath the boot-time progress UI during boot-time restore as part of an upgrade/update flow.
+ Approved by HI on 8/24/16</Description>
+      <Position>RESTORE_STATUS_MESSAGE</Position>
+      <TranslationSet>
+        <base loc="en">%@</base>
+        <tran loc="ar">%@</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+</Proj>

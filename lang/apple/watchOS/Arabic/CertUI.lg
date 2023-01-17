@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Proj>
+  <ProjName>CertUI</ProjName>
+  <File>
+    <Filepath>CertUI/System/Library/PrivateFrameworks/CertUI.framework/en.lproj/Localizable.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>CERT_INFO_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Certificate for “%@”</base>
+        <tran loc="ar">شهادة لـ "%@‎"</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ACCEPT</Position>
+      <TranslationSet>
+        <base loc="en">Accept</base>
+        <tran loc="ar">قبول</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DETAILS</Position>
+      <TranslationSet>
+        <base loc="en">Details</base>
+        <tran loc="ar">تفاصيل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CANCEL</Position>
+      <TranslationSet>
+        <base loc="en">Cancel</base>
+        <tran loc="ar">إلغاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Title for untrusted certificate alert </Description>
+      <Position>UNTRUSTED_CERT_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Cannot Verify Server Identity</base>
+        <tran loc="ar">تعذر التحقق من هوية الخادم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> App name for certificate prompt from WebSheet app </Description>
+      <Position>WEBSHEET_LOCALIZED_NAME</Position>
+      <TranslationSet>
+        <base loc="en">Wi-Fi</base>
+        <tran loc="ar">Wi-Fi</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UNTRUSTED_CERT_MESSAGE_NO_APP_NAME</Position>
+      <TranslationSet>
+        <base loc="en">The identity of “%@” cannot be verified. Review the certificate details to continue.</base>
+        <tran loc="ar">لا يمكن التحقق من هوية "%@". قم بمراجعة تفاصيل الشهادة للمتابعة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CONTINUE</Position>
+      <TranslationSet>
+        <base loc="en">Continue</base>
+        <tran loc="ar">متابعة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UNTRUSTED_CERT_MESSAGE_NO_ACCEPT_NO_APP_NAME</Position>
+      <TranslationSet>
+        <base loc="en">The identity of “%@” cannot be verified.</base>
+        <tran loc="ar">لا يمكن التحقق من هوية "%@".</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Message for untrusted certificate alert </Description>
+      <Position>UNTRUSTED_CERT_MESSAGE</Position>
+      <TranslationSet>
+        <base loc="en">The identity of “%@” cannot be verified by %@. Review the certificate details to continue.</base>
+        <tran loc="ar">لا يمكن التحقق من هوية "%@" من قِبل %@. قم بمراجعة تفاصيل الشهادة للمتابعة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UNTRUSTED_CERT_MESSAGE_NO_ACCEPT</Position>
+      <TranslationSet>
+        <base loc="en">The identity of “%@” cannot be verified by %@.</base>
+        <tran loc="ar">لا يمكن التحقق من هوية "%@" من قِبل %@.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CERTIFICATE</Position>
+      <TranslationSet>
+        <base loc="en">Certificate</base>
+        <tran loc="ar">شهادة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> App name for certificate prompt from WebSheet app in China </Description>
+      <Position>WEBSHEET_LOCALIZED_NAME_CHINA</Position>
+      <TranslationSet>
+        <base loc="en">WLAN</base>
+        <tran loc="ar">WLAN</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+</Proj>

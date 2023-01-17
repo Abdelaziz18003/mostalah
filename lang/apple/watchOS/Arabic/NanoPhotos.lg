@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Proj>
+  <ProjName>NanoPhotos</ProjName>
+  <File>
+    <Filepath>NanoPhotos/Applications/NanoPhotos.app/en.lproj/Localizable.strings</Filepath>
+    <TextItem>
+      <Description> No Photos bold title </Description>
+      <Position>No Photos</Position>
+      <TranslationSet>
+        <base loc="en">No Photos</base>
+        <tran loc="ar">لا توجد صور</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Force touch menu button that creates a watch face using the currently displayed photo. </Description>
+      <Position>Create Watch Face</Position>
+      <TranslationSet>
+        <base loc="en">Create Watch Face</base>
+        <tran loc="ar">إنشاء واجهة ساعة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Force touch sub-menu button that creates a photos face.
+   Photos status bar title when empty </Description>
+      <Position>Photos</Position>
+      <TranslationSet>
+        <base loc="en">Photos</base>
+        <tran loc="ar">الصور</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Force touch sub-menu button that creates a kaleidoscope face. </Description>
+      <Position>Kaleidoscope</Position>
+      <TranslationSet>
+        <base loc="en">Kaleidoscope</base>
+        <tran loc="ar">مشكال</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No photos body text </Description>
+      <Position>To sync photos choose an album from the Apple Watch app on your iPhone.</Position>
+      <TranslationSet>
+        <base loc="en">To sync photos choose an album from the Apple Watch app on your iPhone.</base>
+        <tran loc="ar">لمزامنة الصور، اختر ألبومًا من تطبيق Apple Watch على الـ iPhone.</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>NanoPhotos/System/Library/PrivateFrameworks/NanoPhotosUI.framework/en.lproj/NanoPhotosUI.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>FACE_LIMIT_ERROR_ALERT_DISMISS</Position>
+      <TranslationSet>
+        <base loc="en">OK</base>
+        <tran loc="ar">موافق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 
+  NanoPhotosUI.strings
+  NanoPhotos
+
+  Created by Leonardo Cantelmo on 7/27/15.
+  Copyright © 2015 Apple Inc. All rights reserved.
+
+ photo face </Description>
+      <Position>FACE_LIMIT_ERROR_ALERT_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Watch Face Limit</base>
+        <tran loc="ar">حد واجهة الساعة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>FACE_LIMIT_ERROR_ALERT_MESSAGE</Position>
+      <TranslationSet>
+        <base loc="en">You can only have up to %lu faces. Delete one to add a new one.</base>
+        <tran loc="ar">يمكنك الحصول على %lu من الواجهات فقط. احذف واجهة لإضافة واحدة جديدة.</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>NanoPhotos/Applications/NanoPhotos.app/en.lproj/InfoPlist.strings</Filepath>
+    <TextItem>
+      <Description> Localized versions of Info.plist keys </Description>
+      <Position>CFBundleDisplayName</Position>
+      <TranslationSet>
+        <base loc="en">Photos</base>
+        <tran loc="ar">الصور</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+</Proj>

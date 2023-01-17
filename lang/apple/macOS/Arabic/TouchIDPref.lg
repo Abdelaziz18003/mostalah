@@ -1,0 +1,858 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Proj>
+  <ProjName>TouchIDPref</ProjName>
+  <File>
+    <Filepath>TouchIDPref/System/Library/PreferencePanes/TouchID.prefPane/Contents/Resources/en.lproj/Localizable.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>ALERT_SCREENLOCK_OFF_DESC</Position>
+      <TranslationSet>
+        <base loc="en">Your saved passwords, credit cards, and important data can be used by others who have access to your Mac if you turn off screen lock.</base>
+        <tran loc="ar">يستطيع الآخرون الذين لديهم وصول إلى الـ Mac الخاص بك، استخدام كلمات السر، بطاقات الائتمان والبيانات الهامة المحفوظة إذا قمت بإيقاف تشغيل قفل الشاشة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ALERT2_SCREENLOCK_OFF_TITLE_PWD</Position>
+      <TranslationSet>
+        <base loc="en">Do you want to turn off iCloud Keychain and remove Safari passwords saved on this Mac?</base>
+        <tran loc="ar">هل ترغب في إيقاف تشغيل سلسلة مفاتيح iCloud وإزالة كلمات سر Safari المحفوظة على هذا الـ Mac؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ALERT2_SCREENLOCK_OFF_TITLE_PWD_AND_CC</Position>
+      <TranslationSet>
+        <base loc="en">Do you want to turn off iCloud Keychain and remove Safari passwords and credit cards saved on this Mac?</base>
+        <tran loc="ar">هل ترغب في إيقاف تشغيل سلسلة مفاتيح iCloud وإزالة كلمات سر Safari وبطاقات الائتمان المحفوظة على هذا الـ Mac؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>TURN_OFF_KEYCHAIN</Position>
+      <TranslationSet>
+        <base loc="en">Turn Off Keychain</base>
+        <tran loc="ar">إيقاف تشغيل سلسلة المفاتيح</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>STANDARD_LABEL</Position>
+      <TranslationSet>
+        <base loc="en">Standard</base>
+        <tran loc="ar">قياسي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ALERT2_SCREENLOCK_OFF_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Do you want to turn off iCloud Keychain?</base>
+        <tran loc="ar">هل ترغب في إيقاف تشغيل سلسلة مفاتيح iCloud؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>TURN_OFF_REMOVE_PASSWORDS</Position>
+      <TranslationSet>
+        <base loc="en">Turn Off &amp; Remove Passwords</base>
+        <tran loc="ar">إيقاف التشغيل وإزالة كلمات السر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ADMIN_LABEL</Position>
+      <TranslationSet>
+        <base loc="en">Admin</base>
+        <tran loc="ar">مسؤول</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PAIRINGFAILED</Position>
+      <TranslationSet>
+        <base loc="en">Setup failed.</base>
+        <tran loc="ar">فشل الإعداد.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>KEEP_USING_KEYCHAIN</Position>
+      <TranslationSet>
+        <base loc="en">Keep Using Keychain</base>
+        <tran loc="ar">مواصلة استخدام سلسلة المفاتيح</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ALERT2_SCREENLOCK_OFF_DESC_PWD_AND_CC</Position>
+      <TranslationSet>
+        <base loc="en">This can protect the passwords and credit cards you have previously saved in Safari.</base>
+        <tran loc="ar">يمكن لهذا حماية كلمات السر وبطاقات الائتمان التي قمت بحفظها سابقًا في Safari.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ALERT2_SCREENLOCK_OFF_DESC_PWD</Position>
+      <TranslationSet>
+        <base loc="en">This can protect the passwords you have previously saved in Safari.</base>
+        <tran loc="ar">يمكن لهذا حماية كلمات السر التي قمت بحفظها سابقًا في Safari.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ALERT_SCREENLOCK_OFF_DESC_NO_CC</Position>
+      <TranslationSet>
+        <base loc="en">Your saved passwords and important data can be used by others who have access to your Mac if you turn off screen lock.</base>
+        <tran loc="ar">يستطيع الآخرون الذين لديهم وصول إلى الـ Mac الخاص بك، استخدام كلمات السر والبيانات الهامة المحفوظة إذا قمت بإيقاف تشغيل قفل الشاشة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PASSWORD_MESSAGE</Position>
+      <TranslationSet>
+        <base loc="en">To setup your Apple Watch to unlock your Mac, enter the password for “%@”.</base>
+        <tran loc="ar">لإعداد Apple Watch لفتح قفل الـ Mac الخاص بك، أدخل كلمة السر لـ \"%@\".</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 
+  Localizable.strings
+  PasswordAndTouchID
+
+  Created by Anant Sonone on 12/21/15.
+  Copyright © 2015 Apple Inc. All rights reserved.
+</Description>
+      <Position>USER_PASSWORD_SET_LABEL</Position>
+      <TranslationSet>
+        <base loc="en">A login password has been set for this user</base>
+        <tran loc="ar">‏تم تعيين كلمة سر تسجيل الدخول لهذا المستخدم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PASSWORD_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Enter password to continue setup.</base>
+        <tran loc="ar">أدخل كلمة السر لمتابعة الإعداد.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ALERT2_SCREENLOCK_OFF_DESC</Position>
+      <TranslationSet>
+        <base loc="en">To protect the passwords and credit cards you save in Safari on your other devices, turn off iCloud Keychain on this Mac.</base>
+        <tran loc="ar">لحماية كلمات السر وبطاقات الائتمان التي تقوم بحفظها في Safari على أجهزتك الأخرى، قم بإيقاف تشغيل سلسلة مفاتيح iCloud على هذا الـ Mac.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SET_USER_PASSWORD_BUTTON</Position>
+      <TranslationSet>
+        <base loc="en">Set Password…</base>
+        <tran loc="ar">تعيين كلمة السر…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ALERT_SCREENLOCK_OFF_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Are you sure you want to turn off screen lock?</base>
+        <tran loc="ar">هل أنت متأكد من رغبتك في إيقاف تشغيل قفل الشاشة؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PAIRINGSTARTED</Position>
+      <TranslationSet>
+        <base loc="en">Waiting for %@…</base>
+        <tran loc="ar">في انتظار %@…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>USER_PASSWORD_NOT_SET_LABEL</Position>
+      <TranslationSet>
+        <base loc="en">A login password has not been set for this user</base>
+        <tran loc="ar">لم يتم تعيين كلمة سر تسجيل الدخول لهذا المستخدم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ALERT2_SCREENLOCK_OFF_TITLE_CC</Position>
+      <TranslationSet>
+        <base loc="en">Do you want to turn off iCloud Keychain and remove credit cards saved on this Mac?</base>
+        <tran loc="ar">هل ترغب في إيقاف تشغيل سلسلة مفاتيح iCloud وإزالة بطاقات الائتمان المحفوظة على هذا الـ Mac؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>TURN_OFF_SCREEN_LOCK</Position>
+      <TranslationSet>
+        <base loc="en">Turn Off Screen Lock</base>
+        <tran loc="ar">إيقاف تشغيل قفل الشاشة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Unlock %@ to pair with the system.</Position>
+      <TranslationSet>
+        <base loc="en">Unlock “%@” to complete setup.</base>
+        <tran loc="ar">افتح قفل \"%@\" لإكمال الإعداد.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ALERT2_SCREENLOCK_OFF_DESC_CC</Position>
+      <TranslationSet>
+        <base loc="en">This can protect the credit cards you have previously saved in Safari.</base>
+        <tran loc="ar">يمكن لهذا حماية بطاقات الائتمان التي قمت بحفظها سابقًا في Safari.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>TURN_OFF_REMOVE_CC</Position>
+      <TranslationSet>
+        <base loc="en">Turn Off &amp; Remove Cards</base>
+        <tran loc="ar">إيقاف التشغيل وإزالة البطاقات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>INFO_MULTIPLE</Position>
+      <TranslationSet>
+        <base loc="en">Your Mac can automatically unlock using your Apple Watch when you are wearing it.  Allow these devices to unlock your Mac:</base>
+        <tran loc="ar">يمكن فتح قفل الـ Mac الخاص بك تلقائيًا باستخدام Apple Watch إذا كنت ترتديها.  اسمح للأجهزة التالية بفتح قفل الـ Mac الخاص بك:</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>INFO_SINGLE</Position>
+      <TranslationSet>
+        <base loc="en">Your Mac can automatically unlock using your Apple Watch when you are wearing it.</base>
+        <tran loc="ar">يمكن فتح قفل الـ Mac الخاص بك تلقائيًا باستخدام Apple Watch إذا كنت ترتديها.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CHANGE_USER_PASSWORD_BUTTON</Position>
+      <TranslationSet>
+        <base loc="en">Change Password…</base>
+        <tran loc="ar">تغيير كلمة السر…</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>TouchIDPref/System/Library/PreferencePanes/TouchID.prefPane/Contents/Resources/en.lproj/Password_TouchID_PrefPane.strings</Filepath>
+    <TextItem>
+      <Description> Class = "NSWindow"; title = "≪ do not localize ≫"; ObjectID = "F0z-JX-Cv5"; </Description>
+      <Position>F0z-JX-Cv5.title</Position>
+      <TranslationSet>
+        <base loc="en">≪ do not localize ≫</base>
+        <tran loc="ar">≪ do not localize ≫</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>TouchIDPref/System/Library/PreferencePanes/TouchID.prefPane/Contents/Resources/en.lproj/TouchID.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>ENABLE_APPLEPAY_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Enter the password for “%@” to use Touch ID with Apple Pay.</base>
+        <tran loc="ar">أدخل كلمة السر لـ \"%@\" لاستخدام Touch ID مع Apple Pay.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ENROLLMENT_AUTLOGINENABLED_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Using Touch ID requires automatic login to be turned off.</base>
+        <tran loc="ar">لاستخدام Touch ID، يلزم إيقاف الدخول التلقائي.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>TOUCHID_PURCHASES</Position>
+      <TranslationSet>
+        <base loc="en">iTunes Store, App Store &amp; Apple Books</base>
+        <tran loc="ar">‏iTunes Store و App Store و Apple Books</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DELETE_FINGERPRINT</Position>
+      <TranslationSet>
+        <base loc="en">Delete</base>
+        <tran loc="ar">حذف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DELETE_PLURAL</Position>
+      <TranslationSet>
+        <base loc="en">Delete</base>
+        <tran loc="ar">حذف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DELETE_SINGULAR</Position>
+      <TranslationSet>
+        <base loc="en">Delete</base>
+        <tran loc="ar">حذف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ADD_FINGER_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Enter the password for “%@” to add a fingerprint.</base>
+        <tran loc="ar">أدخل كلمة السر لـ \"%@\" لإضافة بصمة إصبع.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ENTER_PASSCODE_SUBTITLE_TOUCHID</Position>
+      <TranslationSet>
+        <base loc="en">Enter a passcode to use when Touch ID is not available.</base>
+        <tran loc="ar">أدخل رمز دخول لاستخدامه عندما يكون Touch ID غير متوفر.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ENABLE_AUTOFILL_DETAILS</Position>
+      <TranslationSet>
+        <base loc="en">Enter the password for “%@“ to disable Password AutoFill using Touch ID.</base>
+        <tran loc="ar">أدخل كلمة سر "%@" لتعطيل التعبئة التلقائية لكلمة السر باستخدام Touch ID.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ENROLLMENT_AUTLOGINENABLED_INFO</Position>
+      <TranslationSet>
+        <base loc="en">Turn off automatic login to continue.</base>
+        <tran loc="ar">قم بإيقاف الدخول التلقائي للمتابعة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>TOUCHID_PURCHASES_FOOTER</Position>
+      <TranslationSet>
+        <base loc="en">Use your fingerprint instead of your Apple ID password when buying from the iTunes &amp; App Store.</base>
+        <tran loc="ar">استخدم بصمة إصبعك بدلًا من كلمة سر Apple ID الخاص بك عند الشراء من iTunes وApp Store.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ENROLLMENT_AUTLOGINENABLED_DISABLE</Position>
+      <TranslationSet>
+        <base loc="en">Turn Off Automatic Login</base>
+        <tran loc="ar">إيقاف الدخول التلقائي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ENROLLMENT_NOPASSWORD_INFO</Position>
+      <TranslationSet>
+        <base loc="en">Open Users &amp; Groups preferences to create a password.</base>
+        <tran loc="ar">افتح تفضيلات \"المستخدمون والمجموعات\" لإنشاء كلمة سر.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ADD_FINGERPRINT</Position>
+      <TranslationSet>
+        <base loc="en">Add a fingerprint</base>
+        <tran loc="ar">إضافة بصمة إصبع</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Remove a fingerprint with the specified name </Description>
+      <Position>REMOVE_FINGERPRINT_FORMAT_STRING</Position>
+      <TranslationSet>
+        <base loc="en">Remove fingerprint %@</base>
+        <tran loc="ar">إزالة بصمة الإصبع %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>OK</Position>
+      <TranslationSet>
+        <base loc="en">OK</base>
+        <tran loc="ar">موافق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DELETE_SAVED_FINGER_DETAIL_PLURAL_IPHONE</Position>
+      <TranslationSet>
+        <base loc="en">Fingerprints that can be used to unlock are already saved on this iPhone. Do you want to keep these fingerprints or delete them?</base>
+        <tran loc="ar">بصمات الإصبع التي يمكن استخدامها لفتح القفل محفوظة بالفعل على هذا الـ iPhone. هل ترغب في إبقاء هذه البصمات أم حذفها؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>FP_ENROLLMENT_CANCELLED_TITLE.</Position>
+      <TranslationSet>
+        <base loc="en">Touch ID setup was interrupted.</base>
+        <tran loc="ar">تمت مقاطعة إعداد Touch ID.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> What is an enrollment called? </Description>
+      <Position>IDENTITY_NAME_FORMAT</Position>
+      <TranslationSet>
+        <base loc="en">Finger %@</base>
+        <tran loc="ar">إصبع %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Turning on a passcode again asks about deleting previous fingprints </Description>
+      <Position>DELETE_SAVED_FINGER_SINGULAR</Position>
+      <TranslationSet>
+        <base loc="en">Delete Saved Fingerprint?</base>
+        <tran loc="ar">هل تريد حذف بصمة الإصبع المحفوظة؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>TOUCHID_UNLOCK_IPHONE</Position>
+      <TranslationSet>
+        <base loc="en">iPhone Unlock</base>
+        <tran loc="ar">فتح قفل الـ iPhone</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ENROLLMENT_FAILED</Position>
+      <TranslationSet>
+        <base loc="en">Enrollment Failed</base>
+        <tran loc="ar">فشل التسجيل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CANCEL</Position>
+      <TranslationSet>
+        <base loc="en">Cancel</base>
+        <tran loc="ar">إلغاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ALERT_REMOVE_FINGERPRINT_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Are you sure you want to permanently delete the fingerprint “%@”?</base>
+        <tran loc="ar">هل أنت متأكد من رغبتك في حذف بصمة الإصبع \"%@\" نهائيًا؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>REMOVE_FINGER_DETAILS</Position>
+      <TranslationSet>
+        <base loc="en">Enter the password for “%@” to delete fingerprint.</base>
+        <tran loc="ar">أدخل كلمة السر لـ \"%@\" لحذف بصمة الإصبع.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ENABLE_AUTOFILL_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Enter the password for “%@“ to disable Touch ID with Password AutoFill.</base>
+        <tran loc="ar">أدخل كلمة سر "%@" لاستخدام Touch ID مع التعبئة التلقائية لكلمة السر.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DELETE_SAVED_FINGER_DETAIL_SINGULAR_IPHONE</Position>
+      <TranslationSet>
+        <base loc="en">A fingerprint that can be used to unlock is already saved on this iPhone. Do you want to keep this fingerprint or delete it?</base>
+        <tran loc="ar">بصمة الإصبع التي يمكن استخدامها لفتح القفل محفوظة بالفعل على هذا الـ iPhone. هل ترغب في إبقاء هذه البصمة أم حذفها؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>FINGERPRINTS</Position>
+      <TranslationSet>
+        <base loc="en">FINGERPRINTS</base>
+        <tran loc="ar">بصمات الإصبع</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ENROLLMENT_NOPASSWORD_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">To use Touch ID, the user “%@” requires a password.</base>
+        <tran loc="ar">لاستخدام Touch ID، يلزم توفر كلمة سر للمستخدم \"%@\".</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Settings &gt; Touch ID switches </Description>
+      <Position>USE_TOUCHID_FOR</Position>
+      <TranslationSet>
+        <base loc="en">Use Touch ID For:</base>
+        <tran loc="ar">استخدام Touch ID لـ:</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ENABLE_COMPUTER_UNLOCK_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Enter the password for “%@” to use Touch ID to unlock your Mac.</base>
+        <tran loc="ar">أدخل كلمة السر لـ \"%@\" لاستخدام Touch ID في فتح قفل الـ Mac.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UNLOCK_PREVENTED_BY_ADMIN</Position>
+      <TranslationSet>
+        <base loc="en">An administrator has disabled using Touch ID to unlock your Mac.</base>
+        <tran loc="ar">قام مسؤول بتعطيل استخدام Touch ID لفتح قفل الـ Mac الخاص بك.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DELETE_SAVED_FINGER_PLURAL</Position>
+      <TranslationSet>
+        <base loc="en">Delete Saved Fingerprints?</base>
+        <tran loc="ar">هل تريد حذف بصمات الإصبع المحفوظة؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>KEEP_PLURAL</Position>
+      <TranslationSet>
+        <base loc="en">Keep</base>
+        <tran loc="ar">احتفاظ</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>KEEP_SINGULAR</Position>
+      <TranslationSet>
+        <base loc="en">Keep</base>
+        <tran loc="ar">احتفاظ</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CREATE_PASSCODE</Position>
+      <TranslationSet>
+        <base loc="en">Create a Passcode</base>
+        <tran loc="ar">إنشاء رمز دخول</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ENABLE_STOREPURCHASE_DETAILS</Position>
+      <TranslationSet>
+        <base loc="en">Enter the password for “%@” to allow iTunes and App Store purchases using Touch ID.</base>
+        <tran loc="ar">أدخل كلمة السر لـ \"%@\" للسماح بمشتريات iTunes وApp Store باستخدام Touch ID.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ENABLE_COMPUTER_UNLOCK_DETAILS</Position>
+      <TranslationSet>
+        <base loc="en">Enter password for “%@” to use Touch ID to unlock your Mac.</base>
+        <tran loc="ar">أدخل كلمة السر لـ \"%@\" لاستخدام Touch ID في فتح قفل الـ Mac.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Open Users &amp; Groups…</Position>
+      <TranslationSet>
+        <base loc="en">Open Users &amp; Groups…</base>
+        <tran loc="ar">فتح \"المستخدمون والمجموعات\"…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ADD_FINGER_DETAILS</Position>
+      <TranslationSet>
+        <base loc="en">To add your fingerprint to authenticate your Mac, enter the password for user “%@”.</base>
+        <tran loc="ar">لإضافة بصمة إصبعك لمصادقة الـ Mac الخاص بك، أدخل كلمة السر للمستخدم \"%@\".</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> I don't think these are used anywhere. Need to be audited:</Description>
+      <Position>COMPLETE</Position>
+      <TranslationSet>
+        <base loc="en">Complete</base>
+        <tran loc="ar">إكمال</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ALERT_REMOVE_FINGERPRINT_INFO</Position>
+      <TranslationSet>
+        <base loc="en">You can’t undo this action.</base>
+        <tran loc="ar">لا يمكنك التراجع عن هذا الإجراء.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ENABLE_APPLEPAY_DETAILS</Position>
+      <TranslationSet>
+        <base loc="en">Enter the password for “%@” to allow Apple Pay using Touch ID.</base>
+        <tran loc="ar">أدخل كلمة السر لـ \"%@\" للسماح بـ Apple Pay باستخدام Touch ID.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ENROLLMENT_LIMITS_REACHED_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Fingerprint limit reached.</base>
+        <tran loc="ar">تم الوصول إلى الحد الأقصى لبصمات الإصبع.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ENABLE_STOREPURCHASE_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Enter the password for “%@” to use Touch ID with iTunes and App Store.</base>
+        <tran loc="ar">أدخل كلمة السر لـ \"%@\" لاستخدام Touch ID مع iTunes وApp Store.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ENROLLMENT_LIMITS_REACHED_INFO</Position>
+      <TranslationSet>
+        <base loc="en">To add a new fingerprint, remove a fingerprint from any account on this Mac.</base>
+        <tran loc="ar">لإضافة بصمة إصبع جديدة، قم بإزالة بصمة إصبع من أي حساب على هذا الـ Mac.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>REMOVE_FINGER_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Enter the password for “%@” to remove this fingerprint.</base>
+        <tran loc="ar">أدخل كلمة السر لـ \"%@\" لإزالة بصمة الإصبع هذه.</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>TouchIDPref/System/Library/PreferencePanes/TouchID.prefPane/Contents/Resources/en.lproj/TouchID.searchTerms</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>/TouchID:dict/localizableStrings:dict/0:array/title:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Touch ID</base>
+        <tran loc="ar">Touch ID</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/TouchID:dict/localizableStrings:dict/0:array/index:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Touch ID, touchid, ID, touch, fingerprint, finger, print, unlock, pay, purchase, buy</base>
+        <tran loc="ar">‏Touch ID، touchid، ID، لمس، تاتش، بصمة الإصبع، بصمات الأصابع، بصمة اصبع، إصبع، اصبع، فتح القفل، إلغاء القفل، دفع، شراء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/TouchID:dict/localizableStrings:dict/0:array/comments:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Localizable index words</base>
+        <tran loc="ar">كلمات الفهرس القابلة للترجمة، كلمات فهرس قابلة للترجمة، كلمة الفهرس القابلة للترجمة، كلمة فهرس قابلة للترجمة</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>TouchIDPref/System/Library/PreferencePanes/TouchID.prefPane/Contents/Resources/en.lproj/InfoPlist.strings</Filepath>
+    <TextItem>
+      <Description> Localized versions of Info.plist keys </Description>
+      <Position>CFBundleName</Position>
+      <TranslationSet>
+        <base loc="en">Touch ID</base>
+        <tran loc="ar">Touch ID</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>NSPrefPaneIconLabel</Position>
+      <TranslationSet>
+        <base loc="en">Touch ID</base>
+        <tran loc="ar">Touch ID</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>TouchIDPref/System/Library/PreferencePanes/TouchID.prefPane/Contents/Resources/en.lproj/AuthenticationController.strings</Filepath>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Incorrect password."; ObjectID = "OQW-qr-gdF"; </Description>
+      <Position>OQW-qr-gdF.title</Position>
+      <TranslationSet>
+        <base loc="en">Incorrect password.</base>
+        <tran loc="ar">كلمة السر غير صحيحة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Password:"; ObjectID = "8dP-lN-dV9"; </Description>
+      <Position>8dP-lN-dV9.title</Position>
+      <TranslationSet>
+        <base loc="en">Password:</base>
+        <tran loc="ar">كلمة السر:</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Enter password to continue setup."; ObjectID = "BQG-V4-avy"; </Description>
+      <Position>BQG-V4-avy.title</Position>
+      <TranslationSet>
+        <base loc="en">Enter password to continue setup.</base>
+        <tran loc="ar">أدخل كلمة السر لمتابعة الإعداد.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Cancel"; ObjectID = "3Yl-Ly-xdG"; </Description>
+      <Position>3Yl-Ly-xdG.title</Position>
+      <TranslationSet>
+        <base loc="en">Cancel</base>
+        <tran loc="ar">إلغاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Continue"; ObjectID = "LzC-N9-Xxr"; </Description>
+      <Position>LzC-N9-Xxr.title</Position>
+      <TranslationSet>
+        <base loc="en">Continue</base>
+        <tran loc="ar">متابعة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSSecureTextFieldCell"; placeholderString = "Enter Password"; ObjectID = "Xtp-mO-4nf"; </Description>
+      <Position>Xtp-mO-4nf.placeholderString</Position>
+      <TranslationSet>
+        <base loc="en">Enter Password</base>
+        <tran loc="ar">أدخل كلمة السر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "To setup your Apple Watch to unlock your Mac, enter the password for user account."; ObjectID = "lkg-Jc-ear"; </Description>
+      <Position>lkg-Jc-ear.title</Position>
+      <TranslationSet>
+        <base loc="en">To setup your Apple Watch to unlock your Mac, enter the password for user account.</base>
+        <tran loc="ar">لإعداد Apple Watch لفتح قفل الـ Mac الخاص بك، أدخل كلمة سر حساب المستخدم.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSWindow"; title = "Window"; ObjectID = "knB-di-aSP"; </Description>
+      <Position>knB-di-aSP.title</Position>
+      <TranslationSet>
+        <base loc="en">Window</base>
+        <tran loc="ar">Window</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>TouchIDPref/System/Library/PreferencePanes/TouchID.prefPane/Contents/Resources/en.lproj/TouchIDView.strings</Filepath>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "iTunes Store, App Store &amp; Apple Books"; ObjectID = "kiQ-Af-XOD"; </Description>
+      <Position>kiQ-Af-XOD.title</Position>
+      <TranslationSet>
+        <base loc="en">iTunes Store, App Store &amp; Apple Books</base>
+        <tran loc="ar">‏iTunes Store و App Store و Apple Books</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Delete"; ObjectID = "91B-Zg-5BJ"; </Description>
+      <Position>91B-Zg-5BJ.title</Position>
+      <TranslationSet>
+        <base loc="en">Delete</base>
+        <tran loc="ar">حذف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Done"; ObjectID = "6T2-hJ-MRV"; </Description>
+      <Position>6T2-hJ-MRV.title</Position>
+      <TranslationSet>
+        <base loc="en">Done</base>
+        <tran loc="ar">تم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Password AutoFill"; ObjectID = "S69-BR-ktF"; </Description>
+      <Position>S69-BR-ktF.title</Position>
+      <TranslationSet>
+        <base loc="en">Password AutoFill</base>
+        <tran loc="ar">التعبئة التلقائية لكلمة السر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Touch ID lets you use your fingerprint to unlock your Mac and make purchases with Apple Pay, iTunes Store, App Store and Apple Books."; ObjectID = "eyX-Lk-oKd"; </Description>
+      <Position>eyX-Lk-oKd.title</Position>
+      <TranslationSet>
+        <base loc="en">Touch ID lets you use your fingerprint to unlock your Mac and make purchases with Apple Pay, iTunes Store, App Store and Apple Books.</base>
+        <tran loc="ar">يسمح لك Touch ID باستخدام بصمة إصبعك لفتح قفل الـ Mac وإجراء عمليات الشراء باستخدام Apple Pay، وفي iTunes Store و App Store و Apple Books.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Use Touch ID for:"; ObjectID = "laC-9S-RBc"; </Description>
+      <Position>laC-9S-RBc.title</Position>
+      <TranslationSet>
+        <base loc="en">Use Touch ID for:</base>
+        <tran loc="ar">استخدام Touch ID لـ:</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTableColumn"; headerCell.title = "Manage Fingerprints"; ObjectID = "j9k-EF-lPd"; </Description>
+      <Position>j9k-EF-lPd.headerCell.title</Position>
+      <TranslationSet>
+        <base loc="en">Manage Fingerprints</base>
+        <tran loc="ar">إدارة بصمات الإصبع</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Apple Pay"; ObjectID = "NnB-mn-hCQ"; </Description>
+      <Position>NnB-mn-hCQ.title</Position>
+      <TranslationSet>
+        <base loc="en">Apple Pay</base>
+        <tran loc="ar">‏Apple Pay</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSWindow"; title = "Window"; ObjectID = "lH6-Pz-fCC"; </Description>
+      <Position>lH6-Pz-fCC.title</Position>
+      <TranslationSet>
+        <base loc="en">Window</base>
+        <tran loc="ar">Window</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSWindow"; title = "Window"; ObjectID = "sXs-ra-PM3"; </Description>
+      <Position>sXs-ra-PM3.title</Position>
+      <TranslationSet>
+        <base loc="en">Window</base>
+        <tran loc="ar">Window</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Unlocking your Mac"; ObjectID = "rX3-vY-X2z"; </Description>
+      <Position>rX3-vY-X2z.title</Position>
+      <TranslationSet>
+        <base loc="en">Unlocking your Mac</base>
+        <tran loc="ar">فتح قفل الـ Mac</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "3Ry-AE-7jp"; </Description>
+      <Position>3Ry-AE-7jp.title</Position>
+      <TranslationSet>
+        <base loc="en">Text Cell</base>
+        <tran loc="ar">Text Cell</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>TouchIDPref/System/Library/PreferencePanes/TouchID.prefPane/Contents/XPCServices/com.apple.preferences.password.remoteservice.xpc/Contents/Resources/en.lproj/InfoPlist.strings</Filepath>
+    <TextItem>
+      <Description> Localized versions of Info.plist keys </Description>
+      <Position>CFBundleVisibleComponentName</Position>
+      <TranslationSet>
+        <base loc="en">System Preferences</base>
+        <tran loc="ar">تفضيلات النظام</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+</Proj>

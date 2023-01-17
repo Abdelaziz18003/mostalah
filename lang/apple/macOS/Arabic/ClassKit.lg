@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Proj>
+  <ProjName>ClassKit</ProjName>
+  <File>
+    <Filepath>ClassKit/System/Library/PrivateFrameworks/ClassKit.framework/Versions/A/Resources/en.lproj/ClassKit.strings</Filepath>
+    <TextItem>
+      <Description> Values are: activity title and handout title. Activity title e.g., Science Test, Math Quiz. Handout title e.g., Science Project, Math Addition Handout </Description>
+      <Position>MARK_AS_COMPLETE_MESSAGE_FORMAT</Position>
+      <TranslationSet>
+        <base loc="en">Great Job! You finished \U201C%@\U201D from %@.</base>
+        <tran loc="ar">عمل رائع! أنجزت \U201C%@\U201D من %@.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Default name to use for classes without a name. </Description>
+      <Position>UNTITLED_CLASS</Position>
+      <TranslationSet>
+        <base loc="en">Untitled Class</base>
+        <tran loc="ar">حصة بلا عنوان</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Values are: app name e.g., iBooks and class names e.g., English, Math </Description>
+      <Position>TRANSPARENCY_BANNER_MESSAGE_FORMAT</Position>
+      <TranslationSet>
+        <base loc="en">Your progress on assigned activities in %@ will be shared with teachers in the following classes: %@</base>
+        <tran loc="ar">ستتم مشاركة مستوى تقدمك في الأنشطة المخصصة في %@ مع المعلمين في الفصول التالية: %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 
+  ClassKit.strings
+  ClassKit
+
+  Created by Leo Lee on 1/11/18.
+  Copyright © 2018 Apple Inc. All rights reserved.
+</Description>
+      <Position>TRANSPARENCY_BANNER_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Student Progress</base>
+        <tran loc="ar">تقدم الطالب</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>MARK_AS_COMPLETE_BANNER_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Activity Done!</base>
+        <tran loc="ar">تم إنجاز النشاط</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+</Proj>

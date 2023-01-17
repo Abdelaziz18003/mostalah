@@ -1,0 +1,846 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Proj>
+  <ProjName>CarouselFrameworks</ProjName>
+  <File>
+    <Filepath>CarouselFrameworks/System/Library/PrivateFrameworks/CarouselUIServices.framework/en.lproj/NotificationCenterCell.stringsdict</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>/N_LOCATIONS_FORMAT:dict/locations:dict/one:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%u Location</base>
+        <tran loc="ar">موقع واحد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/N_VIDEOS_FORMAT:dict/videos:dict/few:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%u Videos</base>
+        <tran loc="ar">‏%u فيديوهات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/N_VIDEOS_FORMAT:dict/videos:dict/many:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%u Videos</base>
+        <tran loc="ar">‏%u فيديو</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/N_VIDEOS_FORMAT:dict/videos:dict/other:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%u Videos</base>
+        <tran loc="ar">‏%u فيديو</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/N_VIDEOS_FORMAT:dict/videos:dict/two:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%u Videos</base>
+        <tran loc="ar">فيديوهان</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/N_VIDEOS_FORMAT:dict/videos:dict/zero:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%u Videos</base>
+        <tran loc="ar">لا توجد فيديوهات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/N_CONTACTS_FORMAT:dict/contacts:dict/one:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%u Contact</base>
+        <tran loc="ar">جهة اتصال واحدة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/N_LOCATIONS_FORMAT:dict/NSStringLocalizedFormatKey:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%#@locations@</base>
+        <tran loc="ar">%#@locations@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/N_EVENTS_FORMAT:dict/NSStringLocalizedFormatKey:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%#@events@</base>
+        <tran loc="ar">%#@events@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/N_SOUNDS_FORMAT:dict/NSStringLocalizedFormatKey:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%#@sounds@</base>
+        <tran loc="ar">%#@sounds@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/N_EVENTS_FORMAT:dict/events:dict/few:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%u Events</base>
+        <tran loc="ar">‏%u أحداث</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/N_EVENTS_FORMAT:dict/events:dict/many:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%u Events</base>
+        <tran loc="ar">‏%u حدثًا</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/N_EVENTS_FORMAT:dict/events:dict/other:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%u Events</base>
+        <tran loc="ar">‏%u حدث</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/N_EVENTS_FORMAT:dict/events:dict/two:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%u Events</base>
+        <tran loc="ar">حدثان</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/N_EVENTS_FORMAT:dict/events:dict/zero:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%u Events</base>
+        <tran loc="ar">لا توجد أحداث</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/N_IMAGES_FORMAT:dict/images:dict/few:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%u Images</base>
+        <tran loc="ar">‏%u صور</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/N_IMAGES_FORMAT:dict/images:dict/many:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%u Images</base>
+        <tran loc="ar">‏%u صورة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/N_IMAGES_FORMAT:dict/images:dict/other:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%u Images</base>
+        <tran loc="ar">‏%u صورة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/N_IMAGES_FORMAT:dict/images:dict/two:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%u Images</base>
+        <tran loc="ar">صورتان</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/N_IMAGES_FORMAT:dict/images:dict/zero:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%u Images</base>
+        <tran loc="ar">لا توجد صور</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/N_VIDEOS_FORMAT:dict/NSStringLocalizedFormatKey:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%#@videos@</base>
+        <tran loc="ar">%#@videos@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/N_MORE_FORMAT:dict/more:dict/few:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">+%u more</base>
+        <tran loc="ar">+‏%u أخرى</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/N_MORE_FORMAT:dict/more:dict/many:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">+%u more</base>
+        <tran loc="ar">+‏%u أخرى</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/N_MORE_FORMAT:dict/more:dict/one:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">+%u more</base>
+        <tran loc="ar">+‏%u أخرى</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/N_MORE_FORMAT:dict/more:dict/other:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">+%u more</base>
+        <tran loc="ar">+‏%u أخرى</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/N_MORE_FORMAT:dict/more:dict/two:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">+%u more</base>
+        <tran loc="ar">+‏%u أخريان</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/N_MORE_FORMAT:dict/more:dict/zero:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">+%u more</base>
+        <tran loc="ar">+‏%u أخرى</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/N_SOUNDS_FORMAT:dict/sounds:dict/one:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%u Sound</base>
+        <tran loc="ar">صوت واحد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/N_IMAGES_FORMAT:dict/images:dict/one:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%u Image</base>
+        <tran loc="ar">صورة واحدة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/N_CONTACTS_FORMAT:dict/contacts:dict/few:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%u Contacts</base>
+        <tran loc="ar">‏%u جهات اتصال</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/N_CONTACTS_FORMAT:dict/contacts:dict/many:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%u Contacts</base>
+        <tran loc="ar">‏%u جهة اتصال</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/N_CONTACTS_FORMAT:dict/contacts:dict/other:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%u Contacts</base>
+        <tran loc="ar">‏%u جهة اتصال</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/N_CONTACTS_FORMAT:dict/contacts:dict/two:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%u Contacts</base>
+        <tran loc="ar">جهتا اتصال</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/N_CONTACTS_FORMAT:dict/contacts:dict/zero:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%u Contacts</base>
+        <tran loc="ar">لا توجد جهات اتصال</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/N_EVENTS_FORMAT:dict/events:dict/one:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%u Event</base>
+        <tran loc="ar">حدث واحد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/N_IMAGES_FORMAT:dict/NSStringLocalizedFormatKey:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%#@images@</base>
+        <tran loc="ar">%#@images@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/N_SOUNDS_FORMAT:dict/sounds:dict/few:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%u Sounds</base>
+        <tran loc="ar">‏%u أصوات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/N_SOUNDS_FORMAT:dict/sounds:dict/many:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%u Sounds</base>
+        <tran loc="ar">‏%u صوتًا</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/N_SOUNDS_FORMAT:dict/sounds:dict/other:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%u Sounds</base>
+        <tran loc="ar">‏%u صوت</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/N_SOUNDS_FORMAT:dict/sounds:dict/two:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%u Sounds</base>
+        <tran loc="ar">صوتان</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/N_SOUNDS_FORMAT:dict/sounds:dict/zero:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%u Sounds</base>
+        <tran loc="ar">لا توجد أصوات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/N_VIDEOS_FORMAT:dict/videos:dict/one:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%u Video</base>
+        <tran loc="ar">فيديو واحد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/N_CONTACTS_FORMAT:dict/NSStringLocalizedFormatKey:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%#@contacts@</base>
+        <tran loc="ar">%#@contacts@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/N_MORE_FORMAT:dict/NSStringLocalizedFormatKey:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%#@more@</base>
+        <tran loc="ar">%#@more@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/N_LOCATIONS_FORMAT:dict/locations:dict/few:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%u Locations</base>
+        <tran loc="ar">‏%u مواقع</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/N_LOCATIONS_FORMAT:dict/locations:dict/many:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%u Locations</base>
+        <tran loc="ar">‏%u موقعًا</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/N_LOCATIONS_FORMAT:dict/locations:dict/other:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%u Locations</base>
+        <tran loc="ar">‏%u موقع</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/N_LOCATIONS_FORMAT:dict/locations:dict/two:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%u Locations</base>
+        <tran loc="ar">موقعان</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/N_LOCATIONS_FORMAT:dict/locations:dict/zero:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%u Locations</base>
+        <tran loc="ar">لا توجد مواقع</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>CarouselFrameworks/System/Library/PrivateFrameworks/CarouselUIServices.framework/en.lproj/NotificationCenterCell.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>ATTACHMENT_SEPARATION_FORMAT</Position>
+      <TranslationSet>
+        <base loc="en">%@, %@</base>
+        <tran loc="ar">‏%@، %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 
+  NotificationCenterCell.strings
+  Carousel
+
+  Created by Antony Dzeryn on 10/13/14.
+  Copyright (c) 2014 Apple Inc. All rights reserved.
+</Description>
+      <Position>1_ATTACHMENT_FORMAT</Position>
+      <TranslationSet>
+        <base loc="en">Attachment: %@</base>
+        <tran loc="ar">المرفق: %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>N_ATTACHMENTS_FORMAT</Position>
+      <TranslationSet>
+        <base loc="en">Attachments: %@</base>
+        <tran loc="ar">المرفقات: %@</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>CarouselFrameworks/System/Library/PrivateFrameworks/CarouselUIServices.framework/en.lproj/Passcode.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>PASSCODE_LOCKOUT_INDEFINITE</Position>
+      <TranslationSet>
+        <base loc="en">Open the Apple Watch app on your iPhone, go to Passcode, then tap Re-enable Passcode Entry to try again.</base>
+        <tran loc="ar">قم بفتح تطبيق Apple Watch على الـ iPhone الخاص بك، انتقل إلى رمز الدخول، ثم اضغط على إعادة تمكين إدخال رمز الدخول للمحاولة مرة أخرى.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CHANGE_WEAK_PASSCODE</Position>
+      <TranslationSet>
+        <base loc="en">Change</base>
+        <tran loc="ar">تغيير</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UNLOCK_PROMPT_AIRPLANE_INSTRUCTIONS_TEXT</Position>
+      <TranslationSet>
+        <base loc="en">To unlock Apple Watch, first disable Airplane Mode.</base>
+        <tran loc="ar">لفتح قفل Apple Watch، قم أولاً بتعطيل نمط الطيران.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PASSCODE_BUTTON_DELETE</Position>
+      <TranslationSet>
+        <base loc="en">Delete</base>
+        <tran loc="ar">حذف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PASSCODE_POLICY_REPEATING</Position>
+      <TranslationSet>
+        <base loc="en">Your security policy doesn’t allow repeating digits.</base>
+        <tran loc="ar">لا تسمح سياسة الأمن الخاصة بك بالأرقام المتكررة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PASSCODE_CURRENT_PROMPT</Position>
+      <TranslationSet>
+        <base loc="en">Enter Current Passcode</base>
+        <tran loc="ar">أدخل رمز الدخول الحالي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PASSCODE_POLICY_CONTINUE</Position>
+      <TranslationSet>
+        <base loc="en">Create New</base>
+        <tran loc="ar">إنشاء جديد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>USE_WEAK_PASSCODE</Position>
+      <TranslationSet>
+        <base loc="en">Use Code</base>
+        <tran loc="ar">استخدام الرمز</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PASSCODE_LOCKOUT_INDEFINITE_SEP_BODY</Position>
+      <TranslationSet>
+        <base loc="en">Reset Apple Watch and pair again.</base>
+        <tran loc="ar">قم بإعادة تعيين Apple Watch وإقرانها مرة أخرى.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Weak passcode alert </Description>
+      <Position>WEAK_PASSCODE_MESSAGE</Position>
+      <TranslationSet>
+        <base loc="en">This code can be easily guessed. Do you still want to use it?</base>
+        <tran loc="ar">هذا الرمز يمكن تخمينه بسهولة. هل ما زلت ترغب في استخدامه؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PASSCODE_POLICY_TOO_RECENT</Position>
+      <TranslationSet>
+        <base loc="en">The passcode you entered was recently used. Please create a new one.</base>
+        <tran loc="ar">رمز الدخول الذي قمت بإدخاله تم استخدامه مؤخرًا. الرجاء إنشاء رمز جديد.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PASSCODE_REQUIREMENT_BUTTON_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Create new</base>
+        <tran loc="ar">إنشاء جديد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UNLOCK_REQUIREMENT_UNLOCK_COMPANION_TEXT</Position>
+      <TranslationSet>
+        <base loc="en">Please unlock your iPhone to continue.</base>
+        <tran loc="ar">الرجاء فتح قفل الـ iPhone الخاص بك للمتابعة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UNLOCK_PROMPT_AIRPLANE_STATUS_TEXT</Position>
+      <TranslationSet>
+        <base loc="en">Airplane Mode: ON</base>
+        <tran loc="ar">نمط الطيران: تشغيل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PASSCODE_LONG_OK_BUTTON_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">OK</base>
+        <tran loc="ar">موافق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PASSCODE_LOCKOUT_TRY_AGAIN_AFTER</Position>
+      <TranslationSet>
+        <base loc="en"> </base>
+        <tran loc="ar"> </tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 
+  Passcode.strings
+  CarouselUIServices
+
+  Created by Noah Witherspoon on 1/16/14.
+  Copyright (c) 2014 Apple. All rights reserved.
+</Description>
+      <Position>PASSCODE_PROMPT</Position>
+      <TranslationSet>
+        <base loc="en">Enter Passcode</base>
+        <tran loc="ar">قم بإدخال رمز الدخول</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UNLOCK_PROMPT</Position>
+      <TranslationSet>
+        <base loc="en">Unlock iPhone\nto start using\nApple Watch</base>
+        <tran loc="ar">قم بفتح قفل الـ iPhone\nللبدء في استخدام\nApple Watch</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PASSCODE_CANCEL</Position>
+      <TranslationSet>
+        <base loc="en">Cancel</base>
+        <tran loc="ar">إلغاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UNLOCK_REQUIREMENT_BUTTON_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Continue</base>
+        <tran loc="ar">متابعة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PASSCODE_REQUIREMENT_MESSAGE</Position>
+      <TranslationSet>
+        <base loc="en">Your iPhone has\na policy that requires a new %@ passcode.</base>
+        <tran loc="ar">يوجد على الـ iPhone الخاص بك\nسياسة تتطلب إنشاء رمز دخول جديد لـ %@.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PASSCODE_BUTTON_OK</Position>
+      <TranslationSet>
+        <base loc="en">Ok</base>
+        <tran loc="ar">موافق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Only one of these strings will be used; to have text appear below the time instead of above it, place that text in _AFTER and set _BEFORE to an empty string</Description>
+      <Position>PASSCODE_LOCKOUT_TRY_AGAIN_BEFORE</Position>
+      <TranslationSet>
+        <base loc="en">Try again in</base>
+        <tran loc="ar">حاول مرة أخرى خلال</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UNLOCK_REQUIREMENT_TEXT</Position>
+      <TranslationSet>
+        <base loc="en">Your iPhone has a policy that requires your %@ to only be unlocked from the iPhone. Enter your current passcode.</base>
+        <tran loc="ar">يوجد على الـ iPhone الخاص بك سياسة تتطلب ألا يتم فتح قفل الـ %@ إلا من الـ iPhone. قم بإدخال رمز الدخول الحالي الخاص بك.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PASSCODE_ENTER_NEW</Position>
+      <TranslationSet>
+        <base loc="en">Enter New Passcode</base>
+        <tran loc="ar">أدخل رمز الدخول الجديد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PASSCODE_POLICY_ASCENDING_DESCENDING</Position>
+      <TranslationSet>
+        <base loc="en">Your security policy doesn’t allow ascending or descending digits.</base>
+        <tran loc="ar">لا تسمح سياسة الأمن الخاصة بك بالأرقام التصاعدية أو التنازلية.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UNLOCK_REQUIREMENT_TEXT_NO_PASSCODE</Position>
+      <TranslationSet>
+        <base loc="en">Your iPhone has a policy that requires your %@ to only be unlocked from the iPhone.</base>
+        <tran loc="ar">لدى الـ iPhone الخاص بك سياسة تتطلب من %@ الخاص فتح القفل فقط من الـ iPhone.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PASSCODE_LOCKOUT_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Wrong Passcode</base>
+        <tran loc="ar">رمز الدخول غير صحيح</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PASSCODE_POLICY_NO_REUSE</Position>
+      <TranslationSet>
+        <base loc="en">Enter a different passcode. Cannot re-use the same passcode.</base>
+        <tran loc="ar">قم بإدخال رمز دخول مختلف. لا يمكن إعادة استخدام رمز الدخول نفسه.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>VALIDATION_CODE_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Enter Validation Code</base>
+        <tran loc="ar">إدخال رمز التحقق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PASSCODE_LOCKOUT_INDEFINITE_SEP_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Too Many Passcode Attempts</base>
+        <tran loc="ar">محاولات كثيرة جدًا لإدخال رمز الدخول</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PASSCODE_CONFIRM_NEW</Position>
+      <TranslationSet>
+        <base loc="en">Re-Enter Passcode</base>
+        <tran loc="ar">إعادة إدخال رمز الدخول</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PASSCODE_REENTER_EXISTING</Position>
+      <TranslationSet>
+        <base loc="en">Re-Enter Passcode</base>
+        <tran loc="ar">إعادة إدخال رمز الدخول</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PASSCODE_POLICY_TOO_SHORT</Position>
+      <TranslationSet>
+        <base loc="en">Please create a passcode that contains at least %@ digits.</base>
+        <tran loc="ar">الرجاء إنشاء رمز دخول يحتوي على %@ أرقام على الأقل.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UNLOCK_PROMPT_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Device Locked</base>
+        <tran loc="ar">الجهاز مقفل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UNLOCK_PROMPT_OFF_WRIST</Position>
+      <TranslationSet>
+        <base loc="en">First put on\nApple Watch, then unlock\nyour iPhone</base>
+        <tran loc="ar">قم أولاً بلبس\nApple Watch، ثم قم بفتح قفل\nالـ iPhone الخاص بك</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>CarouselFrameworks/System/Library/PrivateFrameworks/CarouselUIServices.framework/en.lproj/Passcode.stringsdict</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>/PASSCODE_LOCKOUT_TIME_MINUTES:dict/minutes:dict/one:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%u min</base>
+        <tran loc="ar">دقيقة واحدة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/PASSCODE_LOCKOUT_TIME_MINUTES:dict/NSStringLocalizedFormatKey:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%#@minutes@</base>
+        <tran loc="ar">%#@minutes@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/PASSCODE_LOCKOUT_TIME_MINUTES:dict/minutes:dict/few:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%u mins</base>
+        <tran loc="ar">‏%u دقائق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/PASSCODE_LOCKOUT_TIME_MINUTES:dict/minutes:dict/many:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%u mins</base>
+        <tran loc="ar">‏%u دقيقة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/PASSCODE_LOCKOUT_TIME_MINUTES:dict/minutes:dict/other:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%u mins</base>
+        <tran loc="ar">‏%u دقيقة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/PASSCODE_LOCKOUT_TIME_MINUTES:dict/minutes:dict/two:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%u mins</base>
+        <tran loc="ar">دقيقتان</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/PASSCODE_LOCKOUT_TIME_MINUTES:dict/minutes:dict/zero:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%u mins</base>
+        <tran loc="ar">‏%u دقيقة</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>CarouselFrameworks/System/Library/PrivateFrameworks/CarouselUIServices.framework/en.lproj/Alert.strings</Filepath>
+    <TextItem>
+      <Description> 
+  Alert.strings
+  Carousel
+
+  Created by Chloe Chang on 6/23/14.
+  Copyright (c) 2014 Apple Inc. All rights reserved.
+</Description>
+      <Position>ALERT_CHEVRON_DISMISS_LABEL</Position>
+      <TranslationSet>
+        <base loc="en">Dismiss</base>
+        <tran loc="ar">استبعاد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ALERT_UNMUTE_LABEL</Position>
+      <TranslationSet>
+        <base loc="en">Unmute for Today</base>
+        <tran loc="ar">إلغاء الكتم لليوم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ALERT_MUTE_LABEL</Position>
+      <TranslationSet>
+        <base loc="en">Mute for Today</base>
+        <tran loc="ar">كتم لليوم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>MANAGE_NOTIFICATION</Position>
+      <TranslationSet>
+        <base loc="en">Manage</base>
+        <tran loc="ar">إدارة</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>CarouselFrameworks/System/Library/PrivateFrameworks/CarouselUIServices.framework/en.lproj/Activating.strings</Filepath>
+    <TextItem>
+      <Description> 
+  Activating.strings
+  CarouselUIServices
+
+  Created by David Rempel on 9/26/14.
+  Copyright (c) 2014 Apple Inc. All rights reserved.
+</Description>
+      <Position>ACTIVATE_APPLICATION_LOADING_LABEL</Position>
+      <TranslationSet>
+        <base loc="en">LOADING</base>
+        <tran loc="ar">جاري التحميل</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+</Proj>

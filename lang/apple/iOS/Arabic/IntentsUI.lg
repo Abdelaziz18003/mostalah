@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Proj>
+  <ProjName>IntentsUI</ProjName>
+  <File>
+    <Filepath>IntentsUI/System/Library/Frameworks/IntentsUI.framework/en.lproj/Localizable.strings</Filepath>
+    <TextItem>
+      <Description> %@ = shortcut invocation phrase </Description>
+      <Position>Added to Siri with phrase: %@</Position>
+      <TranslationSet>
+        <base loc="en">Added to Siri with phrase: %@</base>
+        <tran loc="ar">تمت إضافته إلى Siri مع العبارة %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 
+  Localizable.strings
+  Intents
+
+  Created by Ayaka Nonaka on 6/22/18.
+  Copyright © 2018 Apple. All rights reserved.
+
+ Add to Siri button text; should be short </Description>
+      <Position>Add to Siri</Position>
+      <TranslationSet>
+        <base loc="en">Add to Siri</base>
+        <tran loc="ar">إضافة إلى Siri</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Add to Siri button text - Already added state; should be short </Description>
+      <Position>Added to Siri</Position>
+      <TranslationSet>
+        <base loc="en">Added to Siri</base>
+        <tran loc="ar">تمت الإضافة إلى Siri</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> %@ = shortcut invocation phrase </Description>
+      <Position>“%@”</Position>
+      <TranslationSet>
+        <base loc="en">“%@”</base>
+        <tran loc="ar">‏"%@"</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+</Proj>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Proj>
+  <ProjName>configd_executables</ProjName>
+  <File>
+    <Filepath>configd_executables/System/Library/UserEventPlugins/SCMonitor.plugin/Contents/Resources/en.lproj/Localizable.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>OPEN_NP</Position>
+      <TranslationSet>
+        <base loc="en">Network Preferences…</base>
+        <tran loc="ar">تفضيلات الشبكة…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>MESSAGE_EN</Position>
+      <TranslationSet>
+        <base loc="en">\r\rTo set up these interfaces, use Network Preferences.</base>
+        <tran loc="ar">‏\r\rلإعداد هذه الواجهات، استخدم تفضيلات الشبكة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CANCEL</Position>
+      <TranslationSet>
+        <base loc="en">Cancel</base>
+        <tran loc="ar">إلغاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> This header/message will appear when a "new" network interface has
+ been detected.
+   %@ will take an interface name; Ethernet, USB Ethernet, USB Modem, etc..</Description>
+      <Position>HEADER_1</Position>
+      <TranslationSet>
+        <base loc="en">A new network interface has been detected.</base>
+        <tran loc="ar">تم اكتشاف واجهة شبكة جديدة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>MESSAGE_1</Position>
+      <TranslationSet>
+        <base loc="en">The “%@” network interface has not been set up. To set up this interface, use Network Preferences.</base>
+        <tran loc="ar">لم يتم إعداد واجهة الشبكة "%@". لإعداد هذه الواجهة، استخدم تفضيلات الشبكة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>MESSAGE_SN</Position>
+      <TranslationSet>
+        <base loc="en">The following network interfaces have not been set up.\r</base>
+        <tran loc="ar">لم يتم إعداد واجهات الشبكة التالية.\r</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> This header/message appear when multiple "new" network interfaces have
+ been detected. A list of interfaces will be added between MESSAGE_SN
+ and MESSAGE_EN.</Description>
+      <Position>HEADER_N</Position>
+      <TranslationSet>
+        <base loc="en">New network interfaces have been detected.</base>
+        <tran loc="ar">تم اكتشاف واجهات شبكة جديدة.</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+</Proj>

@@ -1,0 +1,926 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Proj>
+  <ProjName>LocalAuthentication</ProjName>
+  <File>
+    <Filepath>LocalAuthentication/System/Library/Frameworks/LocalAuthentication.framework/Support/coreautha.bundle/Contents/Resources/en.lproj/UIAgent.stringsdict</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>/MINUTES_TO_UNBLOCK:dict/minutes:dict/one:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Try again in %d minute.</base>
+        <tran loc="ar">حاول مجددًا بعد دقيقة واحدة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/MINUTES_TO_UNBLOCK:dict/NSStringLocalizedFormatKey:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%#@minutes@</base>
+        <tran loc="ar">%#@minutes@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/MINUTES_TO_UNBLOCK:dict/minutes:dict/few:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Try again in %d minutes.</base>
+        <tran loc="ar">حاول مجددًا بعد %d دقائق.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/MINUTES_TO_UNBLOCK:dict/minutes:dict/many:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Try again in %d minutes.</base>
+        <tran loc="ar">حاول مجددًا بعد %d دقيقة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/MINUTES_TO_UNBLOCK:dict/minutes:dict/other:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Try again in %d minutes.</base>
+        <tran loc="ar">حاول مجددًا بعد %d دقيقة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/MINUTES_TO_UNBLOCK:dict/minutes:dict/two:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Try again in %d minutes.</base>
+        <tran loc="ar">حاول مجددًا بعد دقيقتين.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/MINUTES_TO_UNBLOCK:dict/minutes:dict/zero:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Try again in %d minutes.</base>
+        <tran loc="ar">حاول مجددًا بعد %d دقيقة.</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>LocalAuthentication/System/Library/Frameworks/LocalAuthentication.framework/Support/coreautha.bundle/Contents/Resources/en.lproj/UIAgent.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>NEW_PASSWORD_TOO_LONG</Position>
+      <TranslationSet>
+        <base loc="en">Password is too long.</base>
+        <tran loc="ar">كلمة السر طويلة جدًا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 
+  UIAgent.strings
+  LocalAuthentication
+
+  Created by Dan Seknicka on 09/03/2016.
+  Copyright © 2016 Apple. All rights reserved.
+</Description>
+      <Position>DFR_TOUCH_ID</Position>
+      <TranslationSet>
+        <base loc="en">Touch ID</base>
+        <tran loc="ar">Touch ID</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DFR_TOUCH_ID_LOGIN_NO_MATCH</Position>
+      <TranslationSet>
+        <base loc="en">Try Again</base>
+        <tran loc="ar">حاول مرة أخرى</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DFR_TOUCH_ID_UNLOCK</Position>
+      <TranslationSet>
+        <base loc="en">Unlock with Touch ID</base>
+        <tran loc="ar">فتح القفل باستخدام Touch ID</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> The variable will be replaced with a name of application which is trying to store a password protected item.
+ Example: Enter new password for "Notes".</Description>
+      <Position>NEW_PASSWORD</Position>
+      <TranslationSet>
+        <base loc="en">Enter new password for “%@”.</base>
+        <tran loc="ar">أدخل كلمة السر الجديدة لـ \"%@\".</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>NEW_PASSWORD_MISMATCH</Position>
+      <TranslationSet>
+        <base loc="en">Passwords did not match.</base>
+        <tran loc="ar">كلمتا السر غير متطابقتين.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>WATCH_PASSWORD_AUTH</Position>
+      <TranslationSet>
+        <base loc="en">Approve with Apple Watch or enter your password to allow this.</base>
+        <tran loc="ar">وافق باستخدام Apple Watch أو أدخل كلمة السر للسماح بذلك.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>TOUCH_ID_AUTH</Position>
+      <TranslationSet>
+        <base loc="en">Touch ID to allow this.</base>
+        <tran loc="ar">استخدم Touch ID للسماح بذلك.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CANCEL</Position>
+      <TranslationSet>
+        <base loc="en">Cancel</base>
+        <tran loc="ar">إلغاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DFR_CANCEL</Position>
+      <TranslationSet>
+        <base loc="en">Cancel</base>
+        <tran loc="ar">إلغاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>APP_ASKING_AUTH</Position>
+      <TranslationSet>
+        <base loc="en">“%@” is trying to %@.</base>
+        <tran loc="ar">يحاول \"%@\" %@.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>USE_PASSWORD</Position>
+      <TranslationSet>
+        <base loc="en">Use Password...</base>
+        <tran loc="ar">استخدام كلمة السر...</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AUTHENTICATE</Position>
+      <TranslationSet>
+        <base loc="en">authenticate user</base>
+        <tran loc="ar">مصادقة المستخدم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AUTHENTICATE_DFR</Position>
+      <TranslationSet>
+        <base loc="en">authenticate user</base>
+        <tran loc="ar">مصادقة المستخدم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>WATCH_AUTH</Position>
+      <TranslationSet>
+        <base loc="en">Approve with Apple Watch to allow this.</base>
+        <tran loc="ar">وافق باستخدام Apple Watch للسماح بذلك.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> The variable will be replaced with user name the system is about to authenticate.
+ Example: Enter password for user "admin" to allow this.
+ *** Renamed the key from PASSCODE_USER_AUTH to USER_PASSWORD_AUTH ***</Description>
+      <Position>USER_PASSWORD_AUTH</Position>
+      <TranslationSet>
+        <base loc="en">Enter password for the user “%@” to allow this.</base>
+        <tran loc="ar">أدخل كلمة سر المستخدم \"%@\" للسماح بذلك.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> The variable will be replaced with user name the system is about to switch to. This is used by
+ the Fast User Switching with Touch ID.
+ Example: Click to switch to admin.
+ Example: Click to switch to John.</Description>
+      <Position>DFR_TOUCH_ID_FUS</Position>
+      <TranslationSet>
+        <base loc="en">Click to switch to %@</base>
+        <tran loc="ar">انقر للتبديل إلى %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> *** Renamed the key from PASSCODE_AUTH to YOUR_PASSWORD_AUTH ***</Description>
+      <Position>YOUR_PASSWORD_AUTH</Position>
+      <TranslationSet>
+        <base loc="en">Enter your password to allow this.</base>
+        <tran loc="ar">أدخل كلمة السر الخاصة بك للسماح بذلك.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> The variable will be replaced with a name of application which started the password authentication.
+ Example: Enter password for "Notes" to allow this.</Description>
+      <Position>PASSWORD_AUTH</Position>
+      <TranslationSet>
+        <base loc="en">Enter password for “%@” to allow this.</base>
+        <tran loc="ar">أدخل كلمة سر \"%@\" للسماح بذلك.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>TOUCH_ID_PASSWORD_AUTH</Position>
+      <TranslationSet>
+        <base loc="en">Touch ID or enter your password to allow this.</base>
+        <tran loc="ar">استخدم Touch ID أو أدخل كلمة السر للسماح بذلك.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PASSPHRASE_AUTH</Position>
+      <TranslationSet>
+        <base loc="en">Enter PIN to allow this.</base>
+        <tran loc="ar">أدخل رمز PIN للسماح بذلك.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DFR_TOUCH_ID_LOGIN</Position>
+      <TranslationSet>
+        <base loc="en">Log in with Touch ID</base>
+        <tran loc="ar">تسجيل الدخول باستخدام Touch ID</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DEVICE_BLOCKED</Position>
+      <TranslationSet>
+        <base loc="en">Authentication is disabled.</base>
+        <tran loc="ar">تم تعطيل المصادقة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>MINUTES_TO_UNBLOCK</Position>
+      <TranslationSet>
+        <base loc="en">Try again in %d minute(s).</base>
+        <tran loc="ar">حاول مجددًا بعد %d دقيقة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> The variable will be replaced with a reason why the app needs Touch ID authentication.
+ Example: Touch ID to view this note.</Description>
+      <Position>APP_ASKING_AUTH_DFR</Position>
+      <TranslationSet>
+        <base loc="en">Touch ID to %@</base>
+        <tran loc="ar">استخدم Touch ID حتى يتم \"%@\"</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>LESS_THEN_MINUTE_TO_UNBLOCK</Position>
+      <TranslationSet>
+        <base loc="en">Please wait.</base>
+        <tran loc="ar">الرجاء الانتظار.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>MAC_OS</Position>
+      <TranslationSet>
+        <base loc="en">macOS</base>
+        <tran loc="ar">‏macOS</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>LocalAuthentication/System/Library/PrivateFrameworks/LocalAuthenticationUI.framework/Versions/A/XPCServices/localAuthenticationRemoteService.xpc/Contents/Resources/en.lproj/Localizable.stringsdict</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>/MINUTES_TO_UNBLOCK:dict/minutes:dict/one:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Try again in %d minute.</base>
+        <tran loc="ar">حاول مجددًا بعد دقيقة واحدة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/MINUTES_TO_UNBLOCK:dict/NSStringLocalizedFormatKey:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%#@minutes@</base>
+        <tran loc="ar">%#@minutes@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/MINUTES_TO_UNBLOCK:dict/minutes:dict/few:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Try again in %d minutes.</base>
+        <tran loc="ar">حاول مجددًا بعد %d دقائق.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/MINUTES_TO_UNBLOCK:dict/minutes:dict/many:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Try again in %d minutes.</base>
+        <tran loc="ar">حاول مجددًا بعد %d دقيقة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/MINUTES_TO_UNBLOCK:dict/minutes:dict/other:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Try again in %d minutes.</base>
+        <tran loc="ar">حاول مجددًا بعد %d دقيقة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/MINUTES_TO_UNBLOCK:dict/minutes:dict/two:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Try again in %d minutes.</base>
+        <tran loc="ar">حاول مجددًا بعد دقيقتين.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/MINUTES_TO_UNBLOCK:dict/minutes:dict/zero:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Try again in %d minutes.</base>
+        <tran loc="ar">حاول مجددًا بعد %d دقيقة.</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>LocalAuthentication/System/Library/PrivateFrameworks/LocalAuthenticationUI.framework/Versions/A/Resources/en.lproj/Localizable.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>SHEET_AUTH_SUBTITLE_WATCH_PIN_ADMIN</Position>
+      <TranslationSet>
+        <base loc="en">Approve with Apple Watch or enter an administrator’s name and PIN to allow this.</base>
+        <tran loc="ar">وافق باستخدام Apple Watch أو أدخل رمز PIN واسم مسؤول للسماح بذلك.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 
+  Localizable.strings
+  LocalAuthentication
+
+  Created by Daniel Seknicka on 30/08/16.
+  Copyright © 2016 Apple. All rights reserved.
+</Description>
+      <Position>AUTH_FAILED_AX</Position>
+      <TranslationSet>
+        <base loc="en">Authentication failed.</base>
+        <tran loc="ar">فشلت المصادقة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SHEET_AUTH_SUBTITLE_PWD_ADMIN</Position>
+      <TranslationSet>
+        <base loc="en">Enter an administrator’s name and password to allow this.</base>
+        <tran loc="ar">أدخل اسم وكلمة سر مسؤول للسماح بذلك.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AUTH_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">This Content is Locked</base>
+        <tran loc="ar">هذا المحتوى مقفل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>TID_LOCKOUT_AX</Position>
+      <TranslationSet>
+        <base loc="en">Touch ID lockout.</base>
+        <tran loc="ar">قفل Touch ID.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SHEET_AUTH_SUBTITLE_PIN_ADMIN</Position>
+      <TranslationSet>
+        <base loc="en">Enter an administrator’s name and PIN to allow this.</base>
+        <tran loc="ar">أدخل اسم ورقم PIN مسؤول للسماح بذلك.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SHEET_AUTH_PIN</Position>
+      <TranslationSet>
+        <base loc="en">PIN:</base>
+        <tran loc="ar">رمز PIN:</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SHEET_AUTH_SUBTITLE_WATCH_PWD_ADMIN</Position>
+      <TranslationSet>
+        <base loc="en">Approve with Apple Watch or enter an administrator’s name and password to allow this.</base>
+        <tran loc="ar">وافق باستخدام Apple Watch أو أدخل اسم وكلمة سر مسؤول للسماح بذلك.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SHEET_AUTH_PWD</Position>
+      <TranslationSet>
+        <base loc="en">Password:</base>
+        <tran loc="ar">كلمة السر:</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AUTH_SUBTITLE_TID</Position>
+      <TranslationSet>
+        <base loc="en">Touch ID or enter your password to unlock.</base>
+        <tran loc="ar">استخدم Touch ID أو أدخل كلمة السر الخاصة بك لفتح القفل.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SHEET_AUTH_SUBTITLE_PIN</Position>
+      <TranslationSet>
+        <base loc="en">Enter your PIN to allow this.</base>
+        <tran loc="ar">أدخل رقم PIN الخاص بك للسماح بذلك.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SHEET_AUTH_SUBTITLE_WATCH_PWD</Position>
+      <TranslationSet>
+        <base loc="en">Approve with Apple Watch or enter your password to allow this.</base>
+        <tran loc="ar">وافق باستخدام Apple Watch أو أدخل كلمة السر للسماح بذلك.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SHEET_AUTH_SUBTITLE_TID_PIN_ADMIN</Position>
+      <TranslationSet>
+        <base loc="en">Touch ID or enter an administrator’s name and PIN to allow this.</base>
+        <tran loc="ar">استخدم Touch ID أو أدخل اسمًا ورمز PIN لمسؤول للسماح بذلك.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SHEET_AUTH_USE_PIN</Position>
+      <TranslationSet>
+        <base loc="en">Use PIN…</base>
+        <tran loc="ar">استخدام رمز PIN…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SHEET_AUTH_SUBTITLE_PWD</Position>
+      <TranslationSet>
+        <base loc="en">Enter your password to allow this.</base>
+        <tran loc="ar">أدخل كلمة السر الخاصة بك للسماح بذلك.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SHEET_AUTH_SUBTITLE_WATCH_PIN</Position>
+      <TranslationSet>
+        <base loc="en">Approve with Apple Watch or enter your PIN to allow this.</base>
+        <tran loc="ar">وافق باستخدام Apple Watch أو أدخل رمز PIN للسماح بذلك.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SHEET_AUTH_SUBTITLE_TID_PWD</Position>
+      <TranslationSet>
+        <base loc="en">Touch ID or enter your password to allow this.</base>
+        <tran loc="ar">استخدم Touch ID أو أدخل كلمة السر للسماح بذلك.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AUTH_SUBTITLE_WATCH</Position>
+      <TranslationSet>
+        <base loc="en">Approve with Apple Watch or enter your password to unlock.</base>
+        <tran loc="ar">وافق باستخدام Apple Watch أو أدخل كلمة السر لفتح القفل.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AUTH_SUBTITLE_PWD</Position>
+      <TranslationSet>
+        <base loc="en">Enter your password to unlock.</base>
+        <tran loc="ar">أدخل كلمة السر الخاصة بك لفتح القفل.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SHEET_AUTH_USE_PWD</Position>
+      <TranslationSet>
+        <base loc="en">Use Password…</base>
+        <tran loc="ar">استخدام كلمة السر…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SHEET_AUTH_SUBTITLE_TID_PIN</Position>
+      <TranslationSet>
+        <base loc="en">Touch ID or enter your PIN to allow this.</base>
+        <tran loc="ar">استخدم Touch ID أو أدخل رمز PIN للسماح بذلك.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SHEET_AUTH_SUBTITLE_TID_PWD_ADMIN</Position>
+      <TranslationSet>
+        <base loc="en">Touch ID or enter an administrator’s name and password to allow this.</base>
+        <tran loc="ar">استخدم Touch ID أو أدخل اسم وكلمة سر مسؤول للسماح بذلك.</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>LocalAuthentication/System/Library/PrivateFrameworks/LocalAuthenticationUI.framework/Versions/A/Resources/en.lproj/LAUIAuthenticationViewController.strings</Filepath>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Touch ID or enter password to unlock."; ObjectID = "gve-4g-cTd"; </Description>
+      <Position>gve-4g-cTd.title</Position>
+      <TranslationSet>
+        <base loc="en">Touch ID or enter password to unlock.</base>
+        <tran loc="ar">استخدم Touch ID أو أدخل كلمة السر لفتح القفل.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "This Content is Locked"; ObjectID = "rKd-mA-RJv"; </Description>
+      <Position>rKd-mA-RJv.title</Position>
+      <TranslationSet>
+        <base loc="en">This Content is Locked</base>
+        <tran loc="ar">هذا المحتوى مقفل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Enter Password"; ObjectID = "I4V-2E-XWx"; </Description>
+      <Position>I4V-2E-XWx.title</Position>
+      <TranslationSet>
+        <base loc="en">Enter Password</base>
+        <tran loc="ar">إدخال كلمة السر</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>LocalAuthentication/System/Library/PrivateFrameworks/LocalAuthenticationUI.framework/Versions/A/Resources/en.lproj/LAUIAuthenticationSheetController.strings</Filepath>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "System Preferences is trying to unlock Security &amp; Privacy preferences."; ObjectID = "cga-KN-KHd"; </Description>
+      <Position>cga-KN-KHd.title</Position>
+      <TranslationSet>
+        <base loc="en">System Preferences is trying to unlock Security &amp; Privacy preferences.</base>
+        <tran loc="ar">يحاول تطبيق \"تفضيلات النظام\" فتح قفل تفضيلات الأمن والخصوصية.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Password:"; ObjectID = "L3y-1R-Ylw"; </Description>
+      <Position>L3y-1R-Ylw.title</Position>
+      <TranslationSet>
+        <base loc="en">Password:</base>
+        <tran loc="ar">كلمة السر:</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Cancel"; ObjectID = "Jco-RT-6NJ"; </Description>
+      <Position>Jco-RT-6NJ.title</Position>
+      <TranslationSet>
+        <base loc="en">Cancel</base>
+        <tran loc="ar">إلغاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Cancel"; ObjectID = "xBs-bD-Upd"; </Description>
+      <Position>xBs-bD-Upd.title</Position>
+      <TranslationSet>
+        <base loc="en">Cancel</base>
+        <tran loc="ar">إلغاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "User Name:"; ObjectID = "23r-Pn-6qL"; </Description>
+      <Position>23r-Pn-6qL.title</Position>
+      <TranslationSet>
+        <base loc="en">User Name:</base>
+        <tran loc="ar">اسم المستخدم:</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Touch ID or enter your password to allow this."; ObjectID = "8DH-bh-ohK"; </Description>
+      <Position>8DH-bh-ohK.title</Position>
+      <TranslationSet>
+        <base loc="en">Touch ID or enter your password to allow this.</base>
+        <tran loc="ar">استخدم Touch ID أو أدخل كلمة السر للسماح بذلك.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Use Password…"; ObjectID = "kxI-Uq-OSF"; </Description>
+      <Position>kxI-Uq-OSF.title</Position>
+      <TranslationSet>
+        <base loc="en">Use Password…</base>
+        <tran loc="ar">استخدام كلمة السر…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Unlock"; ObjectID = "kzK-fC-nVg"; </Description>
+      <Position>kzK-fC-nVg.title</Position>
+      <TranslationSet>
+        <base loc="en">Unlock</base>
+        <tran loc="ar">فتح القفل</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>LocalAuthentication/System/Library/Frameworks/LocalAuthentication.framework/Support/coreautha.bundle/Contents/Resources/en.lproj/Password.strings</Filepath>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Password:"; ObjectID = "100216"; </Description>
+      <Position>100216.title</Position>
+      <TranslationSet>
+        <base loc="en">Password:</base>
+        <tran loc="ar">كلمة السر:</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "OK"; ObjectID = "100101"; </Description>
+      <Position>100101.title</Position>
+      <TranslationSet>
+        <base loc="en">OK</base>
+        <tran loc="ar">موافق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Cancel"; ObjectID = "100102"; </Description>
+      <Position>100102.title</Position>
+      <TranslationSet>
+        <base loc="en">Cancel</base>
+        <tran loc="ar">إلغاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Verify:"; ObjectID = "KXx-a0-Dig"; </Description>
+      <Position>KXx-a0-Dig.title</Position>
+      <TranslationSet>
+        <base loc="en">Verify:</base>
+        <tran loc="ar">تأكيد كلمة السر:</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>LocalAuthentication/System/Library/Frameworks/LocalAuthentication.framework/Support/coreautha.bundle/Contents/Resources/en.lproj/Passphrase.strings</Filepath>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "PIN:"; ObjectID = "100216"; </Description>
+      <Position>100216.title</Position>
+      <TranslationSet>
+        <base loc="en">PIN:</base>
+        <tran loc="ar">رمز PIN:</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "OK"; ObjectID = "100101"; </Description>
+      <Position>100101.title</Position>
+      <TranslationSet>
+        <base loc="en">OK</base>
+        <tran loc="ar">موافق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Cancel"; ObjectID = "100102"; </Description>
+      <Position>100102.title</Position>
+      <TranslationSet>
+        <base loc="en">Cancel</base>
+        <tran loc="ar">إلغاء</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>LocalAuthentication/System/Library/PrivateFrameworks/LocalAuthenticationRecoveryUI.framework/Versions/A/Resources/en.lproj/LARUIAuthenticationDialog.strings</Filepath>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Password:"; ObjectID = "1me-Hx-uwK"; </Description>
+      <Position>1me-Hx-uwK.title</Position>
+      <TranslationSet>
+        <base loc="en">Password:</base>
+        <tran loc="ar">كلمة السر:</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Item 3"; ObjectID = "gbj-Cb-aQX"; </Description>
+      <Position>gbj-Cb-aQX.title</Position>
+      <TranslationSet>
+        <base loc="en">Item 3</base>
+        <tran loc="ar">العنصر ٣</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "OK"; ObjectID = "ZMQ-1c-L74"; </Description>
+      <Position>ZMQ-1c-L74.title</Position>
+      <TranslationSet>
+        <base loc="en">OK</base>
+        <tran loc="ar">موافق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Item 1"; ObjectID = "hY6-XG-QA4"; </Description>
+      <Position>hY6-XG-QA4.title</Position>
+      <TranslationSet>
+        <base loc="en">Item 1</base>
+        <tran loc="ar">العنصر ١</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Cancel"; ObjectID = "XN6-Mr-7gC"; </Description>
+      <Position>XN6-Mr-7gC.title</Position>
+      <TranslationSet>
+        <base loc="en">Cancel</base>
+        <tran loc="ar">إلغاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Enter an administrator's name and password to allow this."; ObjectID = "BDb-kA-EIk"; </Description>
+      <Position>BDb-kA-EIk.title</Position>
+      <TranslationSet>
+        <base loc="en">Enter an administrator's name and password to allow this.</base>
+        <tran loc="ar">أدخل اسم وكلمة سر مسؤول للسماح بذلك.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Recovery is trying to change system settings."; ObjectID = "iKI-w0-7Uo"; </Description>
+      <Position>iKI-w0-7Uo.title</Position>
+      <TranslationSet>
+        <base loc="en">Recovery is trying to change system settings.</base>
+        <tran loc="ar">يحاول الاسترداد تغيير إعدادات النظام.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "User:"; ObjectID = "eEJ-p4-zaU"; </Description>
+      <Position>eEJ-p4-zaU.title</Position>
+      <TranslationSet>
+        <base loc="en">User:</base>
+        <tran loc="ar">المستخدم:</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Item 2"; ObjectID = "35m-Qf-d80"; </Description>
+      <Position>35m-Qf-d80.title</Position>
+      <TranslationSet>
+        <base loc="en">Item 2</base>
+        <tran loc="ar">العنصر ٢</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>LocalAuthentication/System/Library/Frameworks/LocalAuthentication.framework/Support/coreautha.bundle/Contents/Resources/en.lproj/Common.strings</Filepath>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Cancel"; ObjectID = "100102"; </Description>
+      <Position>100102.title</Position>
+      <TranslationSet>
+        <base loc="en">Cancel</base>
+        <tran loc="ar">إلغاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Use Password..."; ObjectID = "Jqr-nA-WEP"; </Description>
+      <Position>Jqr-nA-WEP.title</Position>
+      <TranslationSet>
+        <base loc="en">Use Password...</base>
+        <tran loc="ar">استخدام كلمة السر...</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>LocalAuthentication/System/Library/Frameworks/LocalAuthentication.framework/Support/SharedUtils.framework/Versions/A/Resources/en.lproj/Shared.strings</Filepath>
+    <TextItem>
+      <Description> 
+  Shared.strings
+  LocalAuthentication
+
+  Created by Jiri Margaritov on 28/03/14.
+  Copyright (c) 2014 Apple. All rights reserved.
+</Description>
+      <Position>SYSTEM_CLIENT</Position>
+      <TranslationSet>
+        <base loc="en">macOS</base>
+        <tran loc="ar">‏macOS</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>LocalAuthentication/System/Library/PrivateFrameworks/LocalAuthenticationUI.framework/Versions/A/XPCServices/localAuthenticationRemoteService.xpc/Contents/Resources/en.lproj/Localizable.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>ENTER_PIN_AX</Position>
+      <TranslationSet>
+        <base loc="en">Enter PIN</base>
+        <tran loc="ar">أدخل رمز PIN</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 
+  Localizable.strings
+  LocalAuthentication
+
+  Created by Daniel Seknicka on 30/08/16.
+  Copyright © 2016 Apple. All rights reserved.
+</Description>
+      <Position>ENTER_PWD_AX</Position>
+      <TranslationSet>
+        <base loc="en">Enter password</base>
+        <tran loc="ar">إدخال كلمة السر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DEVICE_BLOCKED</Position>
+      <TranslationSet>
+        <base loc="en">Authentication is disabled.</base>
+        <tran loc="ar">تم تعطيل المصادقة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>MINUTES_TO_UNBLOCK</Position>
+      <TranslationSet>
+        <base loc="en">Try again in %d minute(s).</base>
+        <tran loc="ar">حاول مجددًا بعد %d دقيقة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>LESS_THEN_MINUTE_TO_UNBLOCK</Position>
+      <TranslationSet>
+        <base loc="en">Please wait.</base>
+        <tran loc="ar">الرجاء الانتظار.</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>LocalAuthentication/System/Library/PrivateFrameworks/LocalAuthenticationUI.framework/Versions/A/XPCServices/localAuthenticationRemoteService.xpc/Contents/Resources/en.lproj/UserPasswordFieldServiceViewController.strings</Filepath>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Authentication is disabled"; ObjectID = "o9h-8B-avw"; </Description>
+      <Position>o9h-8B-avw.title</Position>
+      <TranslationSet>
+        <base loc="en">Authentication is disabled</base>
+        <tran loc="ar">تم تعطيل المصادقة</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>LocalAuthentication/System/Library/PrivateFrameworks/LocalAuthenticationRecoveryUI.framework/Versions/A/Resources/en.lproj/LARUI.strings</Filepath>
+    <TextItem>
+      <Description> 
+  LARUI.strings
+  LocalAuthentication
+
+  Copyright © 2017 Apple. All rights reserved.
+</Description>
+      <Position>NO_ADMINISTRATOR_FOUND</Position>
+      <TranslationSet>
+        <base loc="en">No administrator was found.</base>
+        <tran loc="ar">لم يتم العثور على أي مسؤول.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>RECOVERY_AUTH_DIALOG_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Recovery is trying to change system settings.</base>
+        <tran loc="ar">يحاول الاسترداد تغيير إعدادات النظام.</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>LocalAuthentication/System/Library/Frameworks/LocalAuthentication.framework/Support/coreautha.bundle/Contents/Resources/en.lproj/Passcode.strings</Filepath>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Password:"; ObjectID = "100216"; </Description>
+      <Position>100216.title</Position>
+      <TranslationSet>
+        <base loc="en">Password:</base>
+        <tran loc="ar">كلمة السر:</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "OK"; ObjectID = "100101"; </Description>
+      <Position>100101.title</Position>
+      <TranslationSet>
+        <base loc="en">OK</base>
+        <tran loc="ar">موافق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Cancel"; ObjectID = "100102"; </Description>
+      <Position>100102.title</Position>
+      <TranslationSet>
+        <base loc="en">Cancel</base>
+        <tran loc="ar">إلغاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Wait N seconds to continue..."; ObjectID = "WZi-PL-GeZ"; </Description>
+      <Position>WZi-PL-GeZ.title</Position>
+      <TranslationSet>
+        <base loc="en">Wait N seconds to continue...</base>
+        <tran loc="ar">انتظر لمدة N ثانية للمتابعة…</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+</Proj>

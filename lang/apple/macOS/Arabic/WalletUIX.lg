@@ -1,0 +1,3871 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Proj>
+  <ProjName>WalletUIX</ProjName>
+  <File>
+    <Filepath>WalletUIX/System/Library/PreferencePanes/Wallet.prefPane/Contents/XPCServices/com.apple.preferences.wallet.remoteservice.xpc/Contents/Resources/en.lproj/InfoPlist.strings</Filepath>
+    <TextItem>
+      <Description> 
+  Infoplist.strings
+  PassKitUI
+
+  Created by Arnaud Douceur on 6/13/16.
+  Copyright © 2016 Apple Inc. All rights reserved.
+</Description>
+      <Position>CFBundleVisibleComponentName</Position>
+      <TranslationSet>
+        <base loc="en">System Preferences</base>
+        <tran loc="ar">تفضيلات النظام</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CFBundleName</Position>
+      <TranslationSet>
+        <base loc="en">Wallet &amp; Apple Pay</base>
+        <tran loc="ar">‏Wallet و Apple Pay</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>WalletUIX/System/Library/PreferencePanes/Wallet.prefPane/Contents/Resources/en.lproj/Localizable.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>DELETE</Position>
+      <TranslationSet>
+        <base loc="en">Delete</base>
+        <tran loc="ar">حذف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CANCEL</Position>
+      <TranslationSet>
+        <base loc="en">Cancel</base>
+        <tran loc="ar">إلغاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AX_CONTACT_AND_SHIPPING</Position>
+      <TranslationSet>
+        <base loc="en">Contact and shipping</base>
+        <tran loc="ar">معلومات الاتصال والشحن</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 
+  Localizable.strings
+  PassKitUI
+
+  Created by Arnaud Douceur on 2/18/16.
+  Copyright © 2016 Apple Inc. All rights reserved.
+</Description>
+      <Position>DELETE_CONFIRM_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Are you sure you want to delete this card?</base>
+        <tran loc="ar">هل أنت متأكد من رغبتك في حذف هذه البطاقة؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DISAMBIGUATED_NAME_FORMAT</Position>
+      <TranslationSet>
+        <base loc="en">%@ (%@)</base>
+        <tran loc="ar">%@ (%@)</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>WalletUIX/System/Library/PrivateFrameworks/PassKitUI.framework/Versions/A/Resources/en.lproj/PKContactAndShippingViewController.strings</Filepath>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Email:"; ObjectID = "pV8-J3-rJA"; </Description>
+      <Position>pV8-J3-rJA.title</Position>
+      <TranslationSet>
+        <base loc="en">Email:</base>
+        <tran loc="ar">البريد الإلكتروني:</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Shipping Address:"; ObjectID = "Aln-nA-WaM"; </Description>
+      <Position>Aln-nA-WaM.title</Position>
+      <TranslationSet>
+        <base loc="en">Shipping Address:</base>
+        <tran loc="ar">عنوان الشحن:</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Addresses and payment options can be changed at the time of transaction."; ObjectID = "PI3-pY-AaQ"; </Description>
+      <Position>PI3-pY-AaQ.title</Position>
+      <TranslationSet>
+        <base loc="en">Addresses and payment options can be changed at the time of transaction.</base>
+        <tran loc="ar">يمكن تغيير خيارات العناوين والدفعات في وقت المعاملة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Choose the default contact information and shipping address you want to use when purchasing with Apple Pay."; ObjectID = "QzC-4W-ibd"; </Description>
+      <Position>QzC-4W-ibd.title</Position>
+      <TranslationSet>
+        <base loc="en">Choose the default contact information and shipping address you want to use when purchasing with Apple Pay.</base>
+        <tran loc="ar">اختر معلومات الاتصال وعنوان الشحن الافتراضيين المراد استخدامهما عند الشراء باستخدام Apple Pay.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Contact and Shipping"; ObjectID = "SYW-QZ-xxr"; </Description>
+      <Position>SYW-QZ-xxr.title</Position>
+      <TranslationSet>
+        <base loc="en">Contact and Shipping</base>
+        <tran loc="ar">معلومات الاتصال والشحن</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Phone:"; ObjectID = "q3t-i4-Z5O"; </Description>
+      <Position>q3t-i4-Z5O.title</Position>
+      <TranslationSet>
+        <base loc="en">Phone:</base>
+        <tran loc="ar">الهاتف:</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSBox"; title = "Box"; ObjectID = "Sk9-Pw-ipm"; </Description>
+      <Position>Sk9-Pw-ipm.title</Position>
+      <TranslationSet>
+        <base loc="en">Box</base>
+        <tran loc="ar">Box</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>WalletUIX/System/Library/PrivateFrameworks/PassKitUI.framework/Versions/A/Resources/en.lproj/PKPaymentCameraCaptureViewController.strings</Filepath>
+    <TextItem>
+      <Description> Class = "NSBox"; title = "Box"; ObjectID = "Rft-Ir-Cvz"; </Description>
+      <Position>Rft-Ir-Cvz.title</Position>
+      <TranslationSet>
+        <base loc="en">Box</base>
+        <tran loc="ar">Box</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>WalletUIX/System/Library/PrivateFrameworks/PassKitUI.framework/Versions/A/Resources/en.lproj/LayoutValues.strings</Filepath>
+    <TextItem>
+      <Description> 
+  LayoutValues.strings
+  PassKitUI
+
+  Created by Aya Siblini on 7/27/16.
+  Copyright © 2016 Apple Inc. All rights reserved.
+
+ This value is the required width of the in-app payment labels </Description>
+      <Position>ITEM_LABEL_TRAILING</Position>
+      <TranslationSet>
+        <base loc="en">96.0</base>
+        <tran loc="ar">96.0</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>WalletUIX/System/Library/PrivateFrameworks/PassKitUI.framework/Versions/A/Resources/en.lproj/PKPaymentTermsConditionsViewController.strings</Filepath>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Accept"; ObjectID = "rRz-6a-moJ"; </Description>
+      <Position>rRz-6a-moJ.title</Position>
+      <TranslationSet>
+        <base loc="en">Accept</base>
+        <tran loc="ar">قبول</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Failed to load Terms and Conditions, please try again later."; ObjectID = "lz4-x4-4WV"; </Description>
+      <Position>lz4-x4-4WV.title</Position>
+      <TranslationSet>
+        <base loc="en">Failed to load Terms and Conditions, please try again later.</base>
+        <tran loc="ar">فشل تحميل الشروط والأحكام، الرجاء المحاولة مرة أخرى لاحقًا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Decline"; ObjectID = "eQa-g6-IUI"; </Description>
+      <Position>eQa-g6-IUI.title</Position>
+      <TranslationSet>
+        <base loc="en">Decline</base>
+        <tran loc="ar">رفض</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSWindow"; title = "Window"; ObjectID = "fJ5-F9-EwZ"; </Description>
+      <Position>fJ5-F9-EwZ.title</Position>
+      <TranslationSet>
+        <base loc="en">Window</base>
+        <tran loc="ar">Window</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Terms and Conditions"; ObjectID = "9lA-n4-z9q"; </Description>
+      <Position>9lA-n4-z9q.title</Position>
+      <TranslationSet>
+        <base loc="en">Terms and Conditions</base>
+        <tran loc="ar">الشروط والأحكام</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSBox"; title = "Box"; ObjectID = "jKI-ud-AdW"; </Description>
+      <Position>jKI-ud-AdW.title</Position>
+      <TranslationSet>
+        <base loc="en">Box</base>
+        <tran loc="ar">Box</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>WalletUIX/System/Library/PreferencePanes/Wallet.prefPane/Contents/Resources/en.lproj/WalletPref.strings</Filepath>
+    <TextItem>
+      <Description> Class = "NSSegmentedCell"; w7H-uN-OI2.ibShadowedToolTips[1] = "Remove selected card"; ObjectID = "w7H-uN-OI2"; </Description>
+      <Position>w7H-uN-OI2.ibShadowedToolTips[1]</Position>
+      <TranslationSet>
+        <base loc="en">Remove selected card</base>
+        <tran loc="ar">إزالة البطاقة المحددة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Apple Pay &amp; Privacy"; ObjectID = "igC-FC-S29"; </Description>
+      <Position>igC-FC-S29.title</Position>
+      <TranslationSet>
+        <base loc="en">Apple Pay &amp; Privacy</base>
+        <tran loc="ar">‏Apple Pay والخصوصية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Contact and Shipping"; ObjectID = "qdV-7B-eyz"; </Description>
+      <Position>qdV-7B-eyz.title</Position>
+      <TranslationSet>
+        <base loc="en">Contact and Shipping</base>
+        <tran loc="ar">معلومات الاتصال والشحن</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSSegmentedCell"; w7H-uN-OI2.ibShadowedToolTips[0] = "Add a card"; ObjectID = "w7H-uN-OI2"; </Description>
+      <Position>w7H-uN-OI2.ibShadowedToolTips[0]</Position>
+      <TranslationSet>
+        <base loc="en">Add a card</base>
+        <tran loc="ar">إضافة بطاقة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Default Card:"; ObjectID = "Ue1-lp-5AV"; </Description>
+      <Position>Ue1-lp-5AV.title</Position>
+      <TranslationSet>
+        <base loc="en">Default Card:</base>
+        <tran loc="ar">البطاقة الافتراضية:</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSWindow"; title = "Wallet"; ObjectID = "F0z-JX-Cv5"; </Description>
+      <Position>F0z-JX-Cv5.title</Position>
+      <TranslationSet>
+        <base loc="en">Wallet</base>
+        <tran loc="ar">Wallet</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "6g9-GB-NUX"; </Description>
+      <Position>6g9-GB-NUX.title</Position>
+      <TranslationSet>
+        <base loc="en">Text Cell</base>
+        <tran loc="ar">Text Cell</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>WalletUIX/System/Library/PrivateFrameworks/PassKitUI.framework/Versions/A/Resources/en.lproj/PKContactEditorViewController.strings</Filepath>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; placeholderString = "Phone"; ObjectID = "lzj-RE-76Q"; </Description>
+      <Position>lzj-RE-76Q.placeholderString</Position>
+      <TranslationSet>
+        <base loc="en">Phone</base>
+        <tran loc="ar">الهاتف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Item 3"; ObjectID = "CBe-YR-GdG"; </Description>
+      <Position>CBe-YR-GdG.title</Position>
+      <TranslationSet>
+        <base loc="en">Item 3</base>
+        <tran loc="ar">العنصر ٣</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Item 1"; ObjectID = "GhC-S2-God"; </Description>
+      <Position>GhC-S2-God.title</Position>
+      <TranslationSet>
+        <base loc="en">Item 1</base>
+        <tran loc="ar">العنصر ١</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; placeholderString = "Last Name"; ObjectID = "80p-qo-Plm"; </Description>
+      <Position>80p-qo-Plm.placeholderString</Position>
+      <TranslationSet>
+        <base loc="en">Last Name</base>
+        <tran loc="ar">اسم العائلة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Cancel"; ObjectID = "X76-Er-fzq"; </Description>
+      <Position>X76-Er-fzq.title</Position>
+      <TranslationSet>
+        <base loc="en">Cancel</base>
+        <tran loc="ar">إلغاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; placeholderString = "Email"; ObjectID = "kid-FA-iiO"; </Description>
+      <Position>kid-FA-iiO.placeholderString</Position>
+      <TranslationSet>
+        <base loc="en">Email</base>
+        <tran loc="ar">البريد الإلكتروني</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; placeholderString = "First Name"; ObjectID = "3yV-ae-CFf"; </Description>
+      <Position>3yV-ae-CFf.placeholderString</Position>
+      <TranslationSet>
+        <base loc="en">First Name</base>
+        <tran loc="ar">الاسم الأول</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Enter a New Contact"; ObjectID = "GWc-EL-qBI"; </Description>
+      <Position>GWc-EL-qBI.title</Position>
+      <TranslationSet>
+        <base loc="en">Enter a New Contact</base>
+        <tran loc="ar">أدخل جهة اتصال جديدة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; placeholderString = "Phonetic First Name"; ObjectID = "8S3-Gn-KEF"; </Description>
+      <Position>8S3-Gn-KEF.placeholderString</Position>
+      <TranslationSet>
+        <base loc="en">Phonetic First Name</base>
+        <tran loc="ar">الاسم الأول الصوتي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSImageView"; ibExternalAccessibilityDescription = "Apple Pay"; ObjectID = "y9M-1g-g7s"; </Description>
+      <Position>y9M-1g-g7s.ibExternalAccessibilityDescription</Position>
+      <TranslationSet>
+        <base loc="en">Apple Pay</base>
+        <tran loc="ar">Apple Pay</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Item 2"; ObjectID = "92z-ZF-Tzv"; </Description>
+      <Position>92z-ZF-Tzv.title</Position>
+      <TranslationSet>
+        <base loc="en">Item 2</base>
+        <tran loc="ar">العنصر ٢</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; placeholderString = "Phonetic Last Name"; ObjectID = "D5c-1R-LoB"; </Description>
+      <Position>D5c-1R-LoB.placeholderString</Position>
+      <TranslationSet>
+        <base loc="en">Phonetic Last Name</base>
+        <tran loc="ar">اسم العائلة الصوتي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Save"; ObjectID = "3Ay-nQ-Bdp"; </Description>
+      <Position>3Ay-nQ-Bdp.title</Position>
+      <TranslationSet>
+        <base loc="en">Save</base>
+        <tran loc="ar">حفظ</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>WalletUIX/System/Library/PrivateFrameworks/PassKitUI.framework/Versions/A/Resources/en.lproj/PKCardInfoViewController-J140K.strings</Filepath>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Learn More"; ObjectID = "hVi-Ru-ZUq"; </Description>
+      <Position>hVi-Ru-ZUq.title</Position>
+      <TranslationSet>
+        <base loc="en">Learn More</base>
+        <tran loc="ar">معرفة المزيد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Apple Pay has been disabled because the security settings of this Mac were modified."; ObjectID = "X4S-LK-dJf"; </Description>
+      <Position>X4S-LK-dJf.title</Position>
+      <TranslationSet>
+        <base loc="en">Apple Pay has been disabled because the security settings of this Mac were modified.</base>
+        <tran loc="ar">تم تعطيل Apple Pay لأنه تم تعديل إعدادات الأمن على هذا الـ Mac.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Card is unavailable to use with Apple Pay."; ObjectID = "8kJ-LE-4Go"; </Description>
+      <Position>8kJ-LE-4Go.title</Position>
+      <TranslationSet>
+        <base loc="en">Card is unavailable to use with Apple Pay.</base>
+        <tran loc="ar">البطاقة غير متاحة للاستخدام مع Apple Pay.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSBox"; title = "Box"; ObjectID = "3Mw-Ea-yfM"; </Description>
+      <Position>3Mw-Ea-yfM.title</Position>
+      <TranslationSet>
+        <base loc="en">Box</base>
+        <tran loc="ar">‏Box</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>WalletUIX/System/Library/PrivateFrameworks/PassKitUI.framework/Versions/A/Resources/en.lproj/PKPaymentSetupViewController.strings</Filepath>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Done"; ObjectID = "K5f-he-AvU"; </Description>
+      <Position>K5f-he-AvU.title</Position>
+      <TranslationSet>
+        <base loc="en">Done</base>
+        <tran loc="ar">تم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Card Added"; ObjectID = "28w-wt-fej"; </Description>
+      <Position>28w-wt-fej.title</Position>
+      <TranslationSet>
+        <base loc="en">Card Added</base>
+        <tran loc="ar">تمت إضافة البطاقة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Didn't receive a verification code?"; ObjectID = "sb1-Ya-YnW"; </Description>
+      <Position>sb1-Ya-YnW.title</Position>
+      <TranslationSet>
+        <base loc="en">Didn't receive a verification code?</base>
+        <tran loc="ar">ألم تستلم رمز تحقق؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Add a Different Credit or Debit Card"; ObjectID = "lJK-6m-yhM"; </Description>
+      <Position>lJK-6m-yhM.title</Position>
+      <TranslationSet>
+        <base loc="en">Add a Different Credit or Debit Card</base>
+        <tran loc="ar">إضافة بطاقة ائتمان أو بطاقة سحب مختلفة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Label"; ObjectID = "4S6-IH-Wr7"; </Description>
+      <Position>4S6-IH-Wr7.title</Position>
+      <TranslationSet>
+        <base loc="en">Label</base>
+        <tran loc="ar">العنوان</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Label"; ObjectID = "908-A3-ejX"; </Description>
+      <Position>908-A3-ejX.title</Position>
+      <TranslationSet>
+        <base loc="en">Label</base>
+        <tran loc="ar">العنوان</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Label"; ObjectID = "LC2-J5-Mnl"; </Description>
+      <Position>LC2-J5-Mnl.title</Position>
+      <TranslationSet>
+        <base loc="en">Label</base>
+        <tran loc="ar">العنوان</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Label"; ObjectID = "oc0-aT-tfe"; </Description>
+      <Position>oc0-aT-tfe.title</Position>
+      <TranslationSet>
+        <base loc="en">Label</base>
+        <tran loc="ar">العنوان</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Add this Card Later"; ObjectID = "LSU-h6-2WZ"; </Description>
+      <Position>LSU-h6-2WZ.title</Position>
+      <TranslationSet>
+        <base loc="en">Add this Card Later</base>
+        <tran loc="ar">إضافة هذه البطاقة لاحقًا</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Cancel"; ObjectID = "10P-v9-IYC"; </Description>
+      <Position>10P-v9-IYC.title</Position>
+      <TranslationSet>
+        <base loc="en">Cancel</base>
+        <tran loc="ar">إلغاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Cancel"; ObjectID = "JY9-i2-VGD"; </Description>
+      <Position>JY9-i2-VGD.title</Position>
+      <TranslationSet>
+        <base loc="en">Cancel</base>
+        <tran loc="ar">إلغاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Cancel"; ObjectID = "jgz-xw-Cuh"; </Description>
+      <Position>jgz-xw-Cuh.title</Position>
+      <TranslationSet>
+        <base loc="en">Cancel</base>
+        <tran loc="ar">إلغاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Add Card…"; ObjectID = "yZJ-QT-CZP"; </Description>
+      <Position>yZJ-QT-CZP.title</Position>
+      <TranslationSet>
+        <base loc="en">Add Card…</base>
+        <tran loc="ar">إضافة بطاقة…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Enter your card details:"; ObjectID = "QFr-1u-XCI"; </Description>
+      <Position>QFr-1u-XCI.title</Position>
+      <TranslationSet>
+        <base loc="en">Enter your card details:</base>
+        <tran loc="ar">أدخل تفاصيل بطاقتك:</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Add credit, debit, or store cards and use\nApple Pay with Touch ID to make purchases\neasily and securely, right from your Mac."; ObjectID = "Jhx-Lp-7Cr"; </Description>
+      <Position>Jhx-Lp-7Cr.title</Position>
+      <TranslationSet>
+        <base loc="en">Add credit, debit, or store cards and use\nApple Pay with Touch ID to make purchases\neasily and securely, right from your Mac.</base>
+        <tran loc="ar">أضف بطاقات ائتمان، أو سحب، أو متاجر لتتمكن من\nاستخدام Touch ID مع Apple Pay لإجراء عمليات الشراء\nبسهولة وأمان، من الـ Mac الخاص بك مباشرةً.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "&lt;Do Not Translate&gt;"; ObjectID = "du0-qW-YOO"; </Description>
+      <Position>du0-qW-YOO.title</Position>
+      <TranslationSet>
+        <base loc="en">&lt;Do Not Translate&gt;</base>
+        <tran loc="ar">&lt;Do Not Translate&gt;</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Back"; ObjectID = "Luo-8V-kIR"; </Description>
+      <Position>Luo-8V-kIR.title</Position>
+      <TranslationSet>
+        <base loc="en">Back</base>
+        <tran loc="ar">رجوع</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Back"; ObjectID = "rSG-0p-KML"; </Description>
+      <Position>rSG-0p-KML.title</Position>
+      <TranslationSet>
+        <base loc="en">Back</base>
+        <tran loc="ar">الخلف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Enter Card Details Manually"; ObjectID = "CsF-zA-Z9V"; </Description>
+      <Position>CsF-zA-Z9V.title</Position>
+      <TranslationSet>
+        <base loc="en">Enter Card Details Manually</base>
+        <tran loc="ar">إدخال تفاصيل البطاقة يدويًا</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Next"; ObjectID = "Xgp-Mo-D28"; </Description>
+      <Position>Xgp-Mo-D28.title</Position>
+      <TranslationSet>
+        <base loc="en">Next</base>
+        <tran loc="ar">التالي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Next"; ObjectID = "YSi-eD-dLd"; </Description>
+      <Position>YSi-eD-dLd.title</Position>
+      <TranslationSet>
+        <base loc="en">Next</base>
+        <tran loc="ar">التالي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Next"; ObjectID = "ifF-1o-8HZ"; </Description>
+      <Position>ifF-1o-8HZ.title</Position>
+      <TranslationSet>
+        <base loc="en">Next</base>
+        <tran loc="ar">التالي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Next"; ObjectID = "nfM-pO-Zpl"; </Description>
+      <Position>nfM-pO-Zpl.title</Position>
+      <TranslationSet>
+        <base loc="en">Next</base>
+        <tran loc="ar">التالي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Next"; ObjectID = "x7Q-DB-r4E"; </Description>
+      <Position>x7Q-DB-r4E.title</Position>
+      <TranslationSet>
+        <base loc="en">Next</base>
+        <tran loc="ar">التالي</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>WalletUIX/System/Library/PrivateFrameworks/PassKitUI.framework/Versions/A/Resources/en.lproj/PKPaymentAuthorizationErrorViewController.strings</Filepath>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "OK"; ObjectID = "ZGe-Qj-mdk"; </Description>
+      <Position>ZGe-Qj-mdk.title</Position>
+      <TranslationSet>
+        <base loc="en">OK</base>
+        <tran loc="ar">موافق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Cancel"; ObjectID = "rns-uX-vFy"; </Description>
+      <Position>rns-uX-vFy.title</Position>
+      <TranslationSet>
+        <base loc="en">Cancel</base>
+        <tran loc="ar">إلغاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Make sure \"iPhone\" is nearby and powered on."; ObjectID = "Oog-7U-T3g"; </Description>
+      <Position>Oog-7U-T3g.title</Position>
+      <TranslationSet>
+        <base loc="en">Make sure \"iPhone\" is nearby and powered on.</base>
+        <tran loc="ar">تأكد من أن الـ \"iPhone\" قريب وقيد التشغيل.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "\"iPhone\" could not be found to confirm this payment."; ObjectID = "zje-p7-SHa"; </Description>
+      <Position>zje-p7-SHa.title</Position>
+      <TranslationSet>
+        <base loc="en">\"iPhone\" could not be found to confirm this payment.</base>
+        <tran loc="ar">تعذر العثور على الـ \"iPhone\" لتأكيد عملية الدفع هذه.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSImageCell"; ibExternalAccessibilityDescription = "Apple Pay"; ObjectID = "1c3-Ao-CaT"; </Description>
+      <Position>1c3-Ao-CaT.ibExternalAccessibilityDescription</Position>
+      <TranslationSet>
+        <base loc="en">Apple Pay</base>
+        <tran loc="ar">Apple Pay</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>WalletUIX/System/Library/PrivateFrameworks/PassKitUI.framework/Versions/A/Resources/en.lproj/PKCardsTableViewController.strings</Filepath>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Card Name"; ObjectID = "v7m-z9-T3L"; </Description>
+      <Position>v7m-z9-T3L.title</Position>
+      <TranslationSet>
+        <base loc="en">Card Name</base>
+        <tran loc="ar">اسم البطاقة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Label"; ObjectID = "8Xo-rs-a4R"; </Description>
+      <Position>8Xo-rs-a4R.title</Position>
+      <TranslationSet>
+        <base loc="en">Label</base>
+        <tran loc="ar">العنوان</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Default Card"; ObjectID = "pys-BI-94M"; </Description>
+      <Position>pys-BI-94M.title</Position>
+      <TranslationSet>
+        <base loc="en">Default Card</base>
+        <tran loc="ar">بطاقة افتراضية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "a7T-Kl-ahJ"; </Description>
+      <Position>a7T-Kl-ahJ.title</Position>
+      <TranslationSet>
+        <base loc="en">Text Cell</base>
+        <tran loc="ar">Text Cell</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>WalletUIX/System/Library/PrivateFrameworks/PassKitUI.framework/Versions/A/Resources/en.lproj/PKPaymentAuthorizationPassphraseEntryViewController.strings</Filepath>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Cancel"; ObjectID = "WZv-gX-NNb"; </Description>
+      <Position>WZv-gX-NNb.title</Position>
+      <TranslationSet>
+        <base loc="en">Cancel</base>
+        <tran loc="ar">إلغاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSImageCell"; ibExternalAccessibilityDescription = "Apple Pay"; ObjectID = "S89-vm-teE"; </Description>
+      <Position>S89-vm-teE.ibExternalAccessibilityDescription</Position>
+      <TranslationSet>
+        <base loc="en">Apple Pay</base>
+        <tran loc="ar">‏Apple Pay</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>WalletUIX/System/Library/PrivateFrameworks/PassKitUI.framework/Versions/A/Resources/en.lproj/PKPaymentAuthorizationPasswordEntryViewController.strings</Filepath>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "PASSWORD"; ObjectID = "l3B-d3-3YK"; </Description>
+      <Position>l3B-d3-3YK.title</Position>
+      <TranslationSet>
+        <base loc="en">PASSWORD</base>
+        <tran loc="ar">كلمة السر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Pay"; ObjectID = "xs5-tc-GeW"; </Description>
+      <Position>xs5-tc-GeW.title</Position>
+      <TranslationSet>
+        <base loc="en">Pay</base>
+        <tran loc="ar">دفع</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>WalletUIX/System/Library/PreferencePanes/Wallet.prefPane/Contents/Resources/en.lproj/InfoPlist.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>CFBundleName</Position>
+      <TranslationSet>
+        <base loc="en">Wallet &amp; Apple Pay</base>
+        <tran loc="ar">‏Wallet و Apple Pay</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>NSPrefPaneIconLabel</Position>
+      <TranslationSet>
+        <base loc="en">Wallet &amp;\nApple Pay</base>
+        <tran loc="ar">‏Wallet\nوApple Pay</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 
+  InfoPlist.strings
+  PassKitUI
+
+  Created by Arnaud Douceur on 11/18/15.
+  Copyright © 2015 Apple Inc. All rights reserved.
+</Description>
+      <Position>NSHumanReadableCopyright</Position>
+      <TranslationSet>
+        <base loc="en">Copyright 2015, Apple Inc.</base>
+        <tran loc="ar">Copyright 2015, Apple Inc.</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>WalletUIX/System/Library/PrivateFrameworks/PassKitUI.framework/Versions/A/Resources/en.lproj/PKPaymentSetupViewController_Buddy.strings</Filepath>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Card Added"; ObjectID = "28w-wt-fej"; </Description>
+      <Position>28w-wt-fej.title</Position>
+      <TranslationSet>
+        <base loc="en">Card Added</base>
+        <tran loc="ar">تمت إضافة البطاقة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Label"; ObjectID = "DEI-ec-mc8"; </Description>
+      <Position>DEI-ec-mc8.title</Position>
+      <TranslationSet>
+        <base loc="en">Label</base>
+        <tran loc="ar">العنوان</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Enter your card details:"; ObjectID = "QFr-1u-XCI"; </Description>
+      <Position>QFr-1u-XCI.title</Position>
+      <TranslationSet>
+        <base loc="en">Enter your card details:</base>
+        <tran loc="ar">أدخل تفاصيل بطاقتك:</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Position your card in the frame."; ObjectID = "bkk-eT-dQp"; </Description>
+      <Position>bkk-eT-dQp.title</Position>
+      <TranslationSet>
+        <base loc="en">Position your card in the frame.</base>
+        <tran loc="ar">ضع بطاقتك داخل الإطار.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "&lt;Do Not Translate&gt;"; ObjectID = "Zmk-R8-830"; </Description>
+      <Position>Zmk-R8-830.title</Position>
+      <TranslationSet>
+        <base loc="en">&lt;Do Not Translate&gt;</base>
+        <tran loc="ar">&lt;Do Not Translate&gt;</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>WalletUIX/System/Library/PrivateFrameworks/PassKitUI.framework/Versions/A/Resources/en.lproj/PKCardInfoViewController.strings</Filepath>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Show transaction notifications"; ObjectID = "Lqz-T9-ACV"; </Description>
+      <Position>Lqz-T9-ACV.title</Position>
+      <TranslationSet>
+        <base loc="en">Show transaction notifications</base>
+        <tran loc="ar">إظهار إشعارات المعاملة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTabViewItem"; label = "Details"; ObjectID = "W9o-h8-ISH"; </Description>
+      <Position>W9o-h8-ISH.label</Position>
+      <TranslationSet>
+        <base loc="en">Details</base>
+        <tran loc="ar">التفاصيل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Apple Pay uses the device account number instead of providing your credit or debit card number. This number can only be used with Mac."; ObjectID = "rwJ-UI-p3W"; </Description>
+      <Position>rwJ-UI-p3W.title</Position>
+      <TranslationSet>
+        <base loc="en">Apple Pay uses the device account number instead of providing your credit or debit card number. This number can only be used with Mac.</base>
+        <tran loc="ar">تستخدم Apple Pay رقم حساب الجهاز، بدلًا من تقديم رقم بطاقة الائتمان أو السحب الخاصة بك. ولا يمكن استخدام هذا الرقم إلا مع هذا الـ Mac.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Card description"; ObjectID = "XaD-9z-wd4"; </Description>
+      <Position>XaD-9z-wd4.title</Position>
+      <TranslationSet>
+        <base loc="en">Card description</base>
+        <tran loc="ar">وصف البطاقة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Card description"; ObjectID = "aC8-cV-jKd"; </Description>
+      <Position>aC8-cV-jKd.title</Position>
+      <TranslationSet>
+        <base loc="en">Card description</base>
+        <tran loc="ar">وصف البطاقة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "In Locked Mode all cards in Apple Pay are automatically suspended. Enabling your cards requires your Apple ID password."; ObjectID = "R9f-Tt-5VE"; </Description>
+      <Position>R9f-Tt-5VE.title</Position>
+      <TranslationSet>
+        <base loc="en">In Locked Mode all cards in Apple Pay are automatically suspended. Enabling your cards requires your Apple ID password.</base>
+        <tran loc="ar">في نمط القفل، يتم تعليق كل البطاقات الموجودة في Apple Pay تلقائيًا. ويلزم توفر كلمة سر Apple ID الخاص بك لتمكين بطاقاتك.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "&lt;&lt; DO NOT LOCALIZE &gt;&gt;"; ObjectID = "Syv-Ud-tAO"; </Description>
+      <Position>Syv-Ud-tAO.title</Position>
+      <TranslationSet>
+        <base loc="en">&lt;&lt; DO NOT LOCALIZE &gt;&gt;</base>
+        <tran loc="ar">&lt;&lt; DO NOT LOCALIZE &gt;&gt;</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "&lt;&lt; DO NOT LOCALIZE &gt;&gt;"; ObjectID = "pqA-aL-Jk2"; </Description>
+      <Position>pqA-aL-Jk2.title</Position>
+      <TranslationSet>
+        <base loc="en">&lt;&lt; DO NOT LOCALIZE &gt;&gt;</base>
+        <tran loc="ar">&lt;&lt; DO NOT LOCALIZE &gt;&gt;</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "&lt;&lt; DO NOT LOCALIZE &gt;&gt;"; ObjectID = "rff-ks-FK1"; </Description>
+      <Position>rff-ks-FK1.title</Position>
+      <TranslationSet>
+        <base loc="en">&lt;&lt; DO NOT LOCALIZE &gt;&gt;</base>
+        <tran loc="ar">&lt;&lt; DO NOT LOCALIZE &gt;&gt;</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "&lt;&lt; DO NOT LOCALIZE &gt;&gt;"; ObjectID = "zeR-qz-mte"; </Description>
+      <Position>zeR-qz-mte.title</Position>
+      <TranslationSet>
+        <base loc="en">&lt;&lt; DO NOT LOCALIZE &gt;&gt;</base>
+        <tran loc="ar">&lt;&lt; DO NOT LOCALIZE &gt;&gt;</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Card Name"; ObjectID = "4o8-sk-Oo9"; </Description>
+      <Position>4o8-sk-Oo9.title</Position>
+      <TranslationSet>
+        <base loc="en">Card Name</base>
+        <tran loc="ar">اسم البطاقة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Card Name"; ObjectID = "ngI-dU-Imp"; </Description>
+      <Position>ngI-dU-Imp.title</Position>
+      <TranslationSet>
+        <base loc="en">Card Name</base>
+        <tran loc="ar">اسم البطاقة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTabViewItem"; label = "Transactions"; ObjectID = "J7y-QI-0y6"; </Description>
+      <Position>J7y-QI-0y6.label</Position>
+      <TranslationSet>
+        <base loc="en">Transactions</base>
+        <tran loc="ar">المعاملات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Enter Password"; ObjectID = "zrc-8R-rgP"; </Description>
+      <Position>zrc-8R-rgP.title</Position>
+      <TranslationSet>
+        <base loc="en">Enter Password</base>
+        <tran loc="ar">إدخال كلمة السر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Apple ID Password Required After Unlock."; ObjectID = "E66-C4-PtD"; </Description>
+      <Position>E66-C4-PtD.title</Position>
+      <TranslationSet>
+        <base loc="en">Apple ID Password Required After Unlock.</base>
+        <tran loc="ar">كلمة سر Apple ID مطلوبة بعد فتح القفل.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "CocoaBindingsConnection"; ibShadowedDisplayPattern = "Show transaction notifications from %{value1}@"; ObjectID = "Dkv-ra-MZO"; </Description>
+      <Position>Dkv-ra-MZO.ibShadowedDisplayPattern</Position>
+      <TranslationSet>
+        <base loc="en">Show transaction notifications from %{value1}@</base>
+        <tran loc="ar">إظهار إشعارات المعاملة من %{value1}@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "$1"; ObjectID = "ZYo-uo-sSY"; </Description>
+      <Position>ZYo-uo-sSY.title</Position>
+      <TranslationSet>
+        <base loc="en">$1</base>
+        <tran loc="ar">$1</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Automatically select this card for Apple Pay when you make purchases where it is requested."; ObjectID = "2aN-7I-N7E"; </Description>
+      <Position>2aN-7I-N7E.title</Position>
+      <TranslationSet>
+        <base loc="en">Automatically select this card for Apple Pay when you make purchases where it is requested.</base>
+        <tran loc="ar">تحديد هذه البطاقة تلقائيًا لـ Apple Pay عند إجراء عمليات شراء تكون هذه البطاقة مطلوبة فيها.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Billing Address:"; ObjectID = "vhg-cR-FTo"; </Description>
+      <Position>vhg-cR-FTo.title</Position>
+      <TranslationSet>
+        <base loc="en">Billing Address:</base>
+        <tran loc="ar">عنوان الدفع:</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Terms &amp; Conditions"; ObjectID = "JtC-jK-hxj"; </Description>
+      <Position>JtC-jK-hxj.title</Position>
+      <TranslationSet>
+        <base loc="en">Terms &amp; Conditions</base>
+        <tran loc="ar">الشروط والأحكام</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "CocoaBindingsConnection"; ibShadowedDisplayPattern = "Device Account Number: %{value1}@"; ObjectID = "MIB-Di-USh"; </Description>
+      <Position>MIB-Di-USh.ibShadowedDisplayPattern</Position>
+      <TranslationSet>
+        <base loc="en">Device Account Number: %{value1}@</base>
+        <tran loc="ar">رقم حساب الجهاز: %{value1}@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Device Account Number: %@"; ObjectID = "v0t-nz-IJN"; </Description>
+      <Position>v0t-nz-IJN.title</Position>
+      <TranslationSet>
+        <base loc="en">Device Account Number: %@</base>
+        <tran loc="ar">رقم حساب الجهاز: %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Transactions include purchases made with this Mac and your credit or debit card. For full account history and final transaction amounts check your %@ statement."; ObjectID = "EfM-BD-2i7"; </Description>
+      <Position>EfM-BD-2i7.title</Position>
+      <TranslationSet>
+        <base loc="en">Transactions include purchases made with this Mac and your credit or debit card. For full account history and final transaction amounts check your %@ statement.</base>
+        <tran loc="ar">تتضمن المعاملات عمليات الشراء التي تم إجراؤها باستخدام هذا الـ Mac وبطاقة الائتمان أو السحب الخاصة بك. للحصول على سجل تاريخ كامل للحساب والمبالغ النهائية للمعاملة، راجع كشف حساب %@ الخاص بك.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "CocoaBindingsConnection"; ibShadowedDisplayPattern = "%{value1}@"; ObjectID = "Byf-QC-TkR"; </Description>
+      <Position>Byf-QC-TkR.ibShadowedDisplayPattern</Position>
+      <TranslationSet>
+        <base loc="en">%{value1}@</base>
+        <tran loc="ar">%{value1}@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSBox"; title = "Box"; ObjectID = "cyl-mb-l0f"; </Description>
+      <Position>cyl-mb-l0f.title</Position>
+      <TranslationSet>
+        <base loc="en">Box</base>
+        <tran loc="ar">Box</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSBox"; title = "Box"; ObjectID = "oIz-PU-t5t"; </Description>
+      <Position>oIz-PU-t5t.title</Position>
+      <TranslationSet>
+        <base loc="en">Box</base>
+        <tran loc="ar">Box</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "L3I-C7-RDt"; </Description>
+      <Position>L3I-C7-RDt.title</Position>
+      <TranslationSet>
+        <base loc="en">Text Cell</base>
+        <tran loc="ar">Text Cell</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Privacy Policy"; ObjectID = "jal-WO-JS9"; </Description>
+      <Position>jal-WO-JS9.title</Position>
+      <TranslationSet>
+        <base loc="en">Privacy Policy</base>
+        <tran loc="ar">سياسة الخصوصية</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>WalletUIX/System/Library/PrivateFrameworks/PassKitUI.framework/Versions/A/Resources/en.lproj/PKPassViewerViewController.strings</Filepath>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Wallet is the simplest way to get all your passes in one place."; ObjectID = "oST-vS-112"; </Description>
+      <Position>oST-vS-112.title</Position>
+      <TranslationSet>
+        <base loc="en">Wallet is the simplest way to get all your passes in one place.</base>
+        <tran loc="ar">يعد Wallet أبسط الطرق لوضع جميع بطاقات المرور الخاصة بك في مكان واحد.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Add to Wallet"; ObjectID = "4"; </Description>
+      <Position>4.title</Position>
+      <TranslationSet>
+        <base loc="en">Add to Wallet</base>
+        <tran loc="ar">إضافة إلى Wallet</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextField"; ibExternalAccessibilityDescription = "Title"; ObjectID = "213"; </Description>
+      <Position>213.ibExternalAccessibilityDescription</Position>
+      <TranslationSet>
+        <base loc="en">Title</base>
+        <tran loc="ar">العنوان</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSScrollView"; ibExternalAccessibilityDescription = "Selected Pass"; ObjectID = "280"; </Description>
+      <Position>280.ibExternalAccessibilityDescription</Position>
+      <TranslationSet>
+        <base loc="en">Selected Pass</base>
+        <tran loc="ar">البطاقة المحددة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Label"; ObjectID = "214"; </Description>
+      <Position>214.title</Position>
+      <TranslationSet>
+        <base loc="en">Label</base>
+        <tran loc="ar">العنوان</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Cancel"; ObjectID = "268"; </Description>
+      <Position>268.title</Position>
+      <TranslationSet>
+        <base loc="en">Cancel</base>
+        <tran loc="ar">إلغاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Wallet keeps your boarding passes, movie tickets, retail coupons, and loyalty cards in one place. They will be ready on your lock screen when you need them. To get passes, you can add them from apps, emails, and websites."; ObjectID = "yws-KY-iX9"; </Description>
+      <Position>yws-KY-iX9.title</Position>
+      <TranslationSet>
+        <base loc="en">Wallet keeps your boarding passes, movie tickets, retail coupons, and loyalty cards in one place. They will be ready on your lock screen when you need them. To get passes, you can add them from apps, emails, and websites.</base>
+        <tran loc="ar">يحافظ Wallet على بطاقات صعود الطائرة، وتذاكر السينما، وكوبونات الشراء، وبطاقات الولاء في مكان واحد. وستكون تلك البطاقات جاهزة على شاشة القفل عند الاحتياج إليها. للحصول على البطاقات، يمكنك إضافتها من التطبيقات ورسائل البريد الإلكتروني ومواقع الويب.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButton"; ibExternalAccessibilityDescription = "Close"; ObjectID = "210"; </Description>
+      <Position>210.ibExternalAccessibilityDescription</Position>
+      <TranslationSet>
+        <base loc="en">Close</base>
+        <tran loc="ar">إغلاق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Multiline Label"; ObjectID = "1229"; </Description>
+      <Position>1229.title</Position>
+      <TranslationSet>
+        <base loc="en">Multiline Label</base>
+        <tran loc="ar">تسمية متعددة الأسطر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "About Wallet"; ObjectID = "hya-vc-Us8"; </Description>
+      <Position>hya-vc-Us8.title</Position>
+      <TranslationSet>
+        <base loc="en">About Wallet</base>
+        <tran loc="ar">حول Wallet</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "To send passes to your iPhone or iPod touch, make sure you’re signed in to iCloud and your iOS device is running iOS 6 or later."; ObjectID = "z9t-IZ-3X6"; </Description>
+      <Position>z9t-IZ-3X6.title</Position>
+      <TranslationSet>
+        <base loc="en">To send passes to your iPhone or iPod touch, make sure you’re signed in to iCloud and your iOS device is running iOS 6 or later.</base>
+        <tran loc="ar">لإرسال البطاقات إلى الـ iPhone أو الـ iPod touch الخاص بك، تأكد من تسجيل الدخول إلى iCloud ومن أن جهاز iOS الخاص بك يستخدم iOS 6 أو الأحدث.</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>WalletUIX/System/Library/PrivateFrameworks/PassKitUI.framework/Versions/A/Resources/en.lproj/PKPaymentCardVerificationViewController.strings</Filepath>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Verification Code:"; ObjectID = "gDz-Tj-nvR"; </Description>
+      <Position>gDz-Tj-nvR.title</Position>
+      <TranslationSet>
+        <base loc="en">Verification Code:</base>
+        <tran loc="ar">رمز التحقق:</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Enter the verification code sent to:"; ObjectID = "051-B3-Vrs"; </Description>
+      <Position>051-B3-Vrs.title</Position>
+      <TranslationSet>
+        <base loc="en">Enter the verification code sent to:</base>
+        <tran loc="ar">أدخل رمز التحقق الذي تم إرساله إلى:</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "&lt;&lt; DO NOT LOCALIZE &gt;&gt;"; ObjectID = "XoF-zt-rA0"; </Description>
+      <Position>XoF-zt-rA0.title</Position>
+      <TranslationSet>
+        <base loc="en">&lt;&lt; DO NOT LOCALIZE &gt;&gt;</base>
+        <tran loc="ar">&lt;&lt; DO NOT LOCALIZE &gt;&gt;</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "&lt;&lt; DO NOT LOCALIZE &gt;&gt;"; ObjectID = "bhZ-VI-cSy"; </Description>
+      <Position>bhZ-VI-cSy.title</Position>
+      <TranslationSet>
+        <base loc="en">&lt;&lt; DO NOT LOCALIZE &gt;&gt;</base>
+        <tran loc="ar">&lt;&lt; DO NOT LOCALIZE &gt;&gt;</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "&lt;&lt; DO NOT LOCALIZE &gt;&gt;"; ObjectID = "xcd-tU-l1Q"; </Description>
+      <Position>xcd-tU-l1Q.title</Position>
+      <TranslationSet>
+        <base loc="en">&lt;&lt; DO NOT LOCALIZE &gt;&gt;</base>
+        <tran loc="ar">&lt;&lt; DO NOT LOCALIZE &gt;&gt;</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Select a Different Verification Option"; ObjectID = "IhP-jl-CyL"; </Description>
+      <Position>IhP-jl-CyL.title</Position>
+      <TranslationSet>
+        <base loc="en">Select a Different Verification Option</base>
+        <tran loc="ar">حدد خيار تحقق مختلف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Complete to verify your card:"; ObjectID = "0u3-Um-HXv"; </Description>
+      <Position>0u3-Um-HXv.title</Position>
+      <TranslationSet>
+        <base loc="en">Complete to verify your card:</base>
+        <tran loc="ar">أكمل للتحقق من بطاقتك:</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Label"; ObjectID = "kXz-CM-aF7"; </Description>
+      <Position>kXz-CM-aF7.title</Position>
+      <TranslationSet>
+        <base loc="en">Label</base>
+        <tran loc="ar">العنوان</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Choose a verification method:"; ObjectID = "7wk-nP-tne"; </Description>
+      <Position>7wk-nP-tne.title</Position>
+      <TranslationSet>
+        <base loc="en">Choose a verification method:</base>
+        <tran loc="ar">اختر طريقة التحقق:</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Continue"; ObjectID = "DqG-wW-Mud"; </Description>
+      <Position>DqG-wW-Mud.title</Position>
+      <TranslationSet>
+        <base loc="en">Continue</base>
+        <tran loc="ar">متابعة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Continue"; ObjectID = "eLf-LO-Eg1"; </Description>
+      <Position>eLf-LO-Eg1.title</Position>
+      <TranslationSet>
+        <base loc="en">Continue</base>
+        <tran loc="ar">متابعة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Submit"; ObjectID = "dad-9L-BRg"; </Description>
+      <Position>dad-9L-BRg.title</Position>
+      <TranslationSet>
+        <base loc="en">Submit</base>
+        <tran loc="ar">إرسال</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Text Message:"; ObjectID = "ha1-dt-MHY"; </Description>
+      <Position>ha1-dt-MHY.title</Position>
+      <TranslationSet>
+        <base loc="en">Text Message:</base>
+        <tran loc="ar">الرسالة النصية:</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "CocoaBindingsConnection"; ibShadowedDisplayPattern = "Device Account Number: %{value1}@"; ObjectID = "o1S-sI-DUc"; </Description>
+      <Position>o1S-sI-DUc.ibShadowedDisplayPattern</Position>
+      <TranslationSet>
+        <base loc="en">Device Account Number: %{value1}@</base>
+        <tran loc="ar">رقم حساب الجهاز: %{value1}@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Device Account Number: %@"; ObjectID = "5AL-It-zFe"; </Description>
+      <Position>5AL-It-zFe.title</Position>
+      <TranslationSet>
+        <base loc="en">Device Account Number: %@</base>
+        <tran loc="ar">رقم حساب الجهاز: %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Didn’t get a verification code?"; ObjectID = "Ogl-8i-4KY"; </Description>
+      <Position>Ogl-8i-4KY.title</Position>
+      <TranslationSet>
+        <base loc="en">Didn’t get a verification code?</base>
+        <tran loc="ar">ألم تحصل على رمز تحقق؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "413-yO-EEv"; </Description>
+      <Position>413-yO-EEv.title</Position>
+      <TranslationSet>
+        <base loc="en">Text Cell</base>
+        <tran loc="ar">Text Cell</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>WalletUIX/System/Library/PrivateFrameworks/PassKitUI.framework/Versions/A/Resources/en.lproj/InAppPayment.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>PAYMENT_SERVICEPICKUP_ADDRESS_UNAVAILABLE_ALERT_FMT</Position>
+      <TranslationSet>
+        <base loc="en">%@ does not allow pickup at your service address.</base>
+        <tran loc="ar">لا تسمح %@ بالإقلال في عنوان الخدمة الخاص بك.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ACCESSIBILITY_PAYMENT_SUMMARY_FORMAT</Position>
+      <TranslationSet>
+        <base loc="en">%@ %@</base>
+        <tran loc="ar">‏%@ ‏%@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>POSTAL_ADDRESS_EDITOR_EDIT_DELIVERY_PROMPT</Position>
+      <TranslationSet>
+        <base loc="en">Edit Delivery Address</base>
+        <tran loc="ar">تحرير عنوان التوصيل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CONTINUITY_PAYMENT_ERROR_DEVICE_OFFLINE_MESSAGE_FORMAT</Position>
+      <TranslationSet>
+        <base loc="en">Make sure “%@” is nearby, powered on, and has Bluetooth enabled.</base>
+        <tran loc="ar">تأكد من أن \"%@\" قريب، وقيد التشغيل، وتم تمكين Bluetooth فيه.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CONTINUITY_PAYMENT_ERROR_DEVICE_NO_SUPPORTED_CARDS_PLURAL_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">This website does not accept the cards that you have added to Wallet.</base>
+        <tran loc="ar">لا يقبل موقع الويب هذا البطاقات التي أضفتها إلى Wallet.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PAYMENT_ERROR_NO_SUPPORTED_CARDS_PLURAL_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">This website does not accept the cards that you have added to Wallet.</base>
+        <tran loc="ar">لا يقبل موقع الويب هذا البطاقات التي أضفتها إلى Wallet.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>IPHONE</Position>
+      <TranslationSet>
+        <base loc="en">iPhone</base>
+        <tran loc="ar">iPhone</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>POSTAL_ADDRESS_EDITOR_EDIT_SHIPPING_PROMPT</Position>
+      <TranslationSet>
+        <base loc="en">Edit Shipping Address</base>
+        <tran loc="ar">تحرير عنوان الشحن</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>POSTAL_ADDRESS_EDITOR_DISTRICT</Position>
+      <TranslationSet>
+        <base loc="en">District (E.g., Chao Yang)</base>
+        <tran loc="ar">المنطقة (مثل الريان)</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PAYMENT_FAILURE</Position>
+      <TranslationSet>
+        <base loc="en">Payment Failure</base>
+        <tran loc="ar">فشل الدفع</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>POSTAL_ADDRESS_EDITOR_SERVICEPICKUP_LABEL</Position>
+      <TranslationSet>
+        <base loc="en">PICKUP</base>
+        <tran loc="ar">الالتقاط</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>POSTAL_ADDRESS_EDITOR_STOREPICKUP_LABEL</Position>
+      <TranslationSet>
+        <base loc="en">PICKUP</base>
+        <tran loc="ar">الالتقاط</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PAYMENT_MENU_ENTER_NEW_CONTACT</Position>
+      <TranslationSet>
+        <base loc="en">Enter new contact</base>
+        <tran loc="ar">أدخل جهة اتصال جديدة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PROBLEM</Position>
+      <TranslationSet>
+        <base loc="en">Problem</base>
+        <tran loc="ar">المشكلة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PAYMENT_ENTER_PIN_CODE_FORMAT</Position>
+      <TranslationSet>
+        <base loc="en">Enter your %@ PIN Code</base>
+        <tran loc="ar">أدخل رمز PIN الخاص بك لـ %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CONTINUITY_PAYMENT_NOT_AVAILABLE_FOR_WEB_PAYMENTS</Position>
+      <TranslationSet>
+        <base loc="en">Not available for Web Payments:</base>
+        <tran loc="ar">غير متوفرة لدفعات الويب:</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PAYMENT_NOT_AVAILABLE_FOR_WEB_PAYMENTS</Position>
+      <TranslationSet>
+        <base loc="en">Not available for Web Payments:</base>
+        <tran loc="ar">غير متوفرة لدفعات الويب:</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PAYMENT_PASSWORD_PROMPT_FORMAT</Position>
+      <TranslationSet>
+        <base loc="en">Enter the password for the user “%@” to complete this purchase.</base>
+        <tran loc="ar">أدخل كلمة سر المستخدم \"%@\" لإكمال عملية الشراء هذه.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CONTINUITY_PAYMENT_ERROR_BLUETOOTH_DISABLED_BUTTON_TEXT</Position>
+      <TranslationSet>
+        <base loc="en">OK</base>
+        <tran loc="ar">موافق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CONTINUITY_PAYMENT_ERROR_DEVICE_OFFLINE_BUTTON_TEXT</Position>
+      <TranslationSet>
+        <base loc="en">OK</base>
+        <tran loc="ar">موافق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PAYMENT_ERROR_OK_BUTTON_TEXT</Position>
+      <TranslationSet>
+        <base loc="en">Apple Pay Preferences…</base>
+        <tran loc="ar">تفضيلات Apple Pay…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CONTINUITY_PAYMENT_ERROR_BLUETOOTH_DISABLED_MESSAGE</Position>
+      <TranslationSet>
+        <base loc="en">Apple Pay requires Bluetooth. Please turn Bluetooth on to continue.</base>
+        <tran loc="ar">يتطلب Apple Pay توفر Bluetooth. الرجاء تشغيل Bluetooth للمتابعة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AUTOCOMPLETE_SECTION_TITLE_SUGGESTIONS</Position>
+      <TranslationSet>
+        <base loc="en">Suggestions</base>
+        <tran loc="ar">اقتراحات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PAYMENT_SHIPPING_ADDRESS_UNAVAILABLE_ALERT_FMT</Position>
+      <TranslationSet>
+        <base loc="en">%@ does not allow delivery to your shipping address.</base>
+        <tran loc="ar">لا تسمح %@ بالتوصيل إلى عنوان الشحن الخاص بك.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>POSTAL_ADDRESS_EDITOR_EDIT_SERVICEPICKUP_PROMPT</Position>
+      <TranslationSet>
+        <base loc="en">Edit Pickup Address</base>
+        <tran loc="ar">تحرير عنوان الإقلال</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>POSTAL_ADDRESS_EDITOR_EDIT_STOREPICKUP_PROMPT</Position>
+      <TranslationSet>
+        <base loc="en">Edit Pickup Address</base>
+        <tran loc="ar">تحرير عنوان الإقلال</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CONTACT_LABEL_MENU_CUSTOM</Position>
+      <TranslationSet>
+        <base loc="en">Custom…</base>
+        <tran loc="ar">مخصص…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 
+  InAppPayment.strings
+  PassKitUI
+
+  Created by Tony Diederich on 4/22/16.
+  Copyright © 2016 Apple Inc. All rights reserved.
+</Description>
+      <Position>CONTINUITY_PAYMENT_ON_DEVICE_FORMAT</Position>
+      <TranslationSet>
+        <base loc="en">On %@:</base>
+        <tran loc="ar">على %@:</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CONTINUITY_PAYMENT_ERROR_DEVICE_SETUP_BUTTON_TEXT</Position>
+      <TranslationSet>
+        <base loc="en">Set Up Now</base>
+        <tran loc="ar">الإعداد الآن</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PAYMENT_PAY_BUTTON_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Pay</base>
+        <tran loc="ar">دفع</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CONTINUITY_PAYMENT_ERROR_DEVICE_NO_SUPPORTED_CARDS_MESSAGE</Position>
+      <TranslationSet>
+        <base loc="en">You can add a card to Wallet that is accepted by this website on your iPhone.</base>
+        <tran loc="ar">يمكنك إضافة بطاقة إلى Wallet إذا كانت مقبولة على موقع الويب هذا على الـ iPhone الخاص بك.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>APPLE_WATCH</Position>
+      <TranslationSet>
+        <base loc="en">Apple Watch</base>
+        <tran loc="ar">Apple Watch</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PAYMENT_MENU_ENTER_NEW_SHIPPING_ADDRESS</Position>
+      <TranslationSet>
+        <base loc="en">Enter new shipping address</base>
+        <tran loc="ar">أدخل عنوان شحن جديد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>POSTAL_ADDRESS_EDITOR_SHIPPING_LABEL</Position>
+      <TranslationSet>
+        <base loc="en">SHIPPING</base>
+        <tran loc="ar">الشحن</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CONTINUITY_PAYMENT_ERROR_DEVICE_SETUP_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Add cards to Apple Pay on your iPhone to make purchases on this Mac.</base>
+        <tran loc="ar">قم بإضافة بطاقات في Apple Pay على الـ iPhone الخاص بك لإجراء عمليات الشراء على هذا الـ Mac.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>TOUCH_ID_RECOGNIZING</Position>
+      <TranslationSet>
+        <base loc="en">Touch ID recognizing…</base>
+        <tran loc="ar">يتم الآن التعرّف على Touch ID…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PAYMENT_ERROR_SETUP_APPLE_PAY_MESSAGE</Position>
+      <TranslationSet>
+        <base loc="en">You can add cards to Apple Pay in System Preferences.</base>
+        <tran loc="ar">يمكنك إضافة بطاقات إلى Apple Pay في تفضيلات النظام.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PAYMENT_ERROR_SETUP_APPLE_PAY_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Add cards to Apple Pay to make purchases on this Mac.</base>
+        <tran loc="ar">أضف بطاقات في Apple Pay لإجراء عمليات الشراء على هذا الـ Mac.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>POSTAL_ADDRESS_EDITOR_COUNTRY</Position>
+      <TranslationSet>
+        <base loc="en">Region</base>
+        <tran loc="ar">المنطقة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>POSTAL_ADDRESS_EDITOR_BILLING_LABEL</Position>
+      <TranslationSet>
+        <base loc="en">BILLING</base>
+        <tran loc="ar">الفوترة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CONTINUITY_PAYMENT_ERROR_DEVICE_SETUP_MESSAGE</Position>
+      <TranslationSet>
+        <base loc="en">You can use your iPhone to complete purchases on this Mac. Get started by setting up Apple Pay on your iPhone.</base>
+        <tran loc="ar">يمكنك استخدام الـ iPhone الخاص بك لإتمام عمليات الشراء على هذا الـ Mac. ابدأ من خلال إعداد Apple Pay على الـ iPhone الخاص بك.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CONTINUITY_PAYMENT_ERROR_DEVICE_OFFLINE_TITLE_FORMAT</Position>
+      <TranslationSet>
+        <base loc="en">“%@” could not be found to confirm this payment.</base>
+        <tran loc="ar">تعذر العثور على \"%@\" لتأكيد مبلغ الدفع هذا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PAYMENT_MENU_ENTER_NEW_DELIVERY_ADDRESS</Position>
+      <TranslationSet>
+        <base loc="en">Enter new delivery address</base>
+        <tran loc="ar">أدخل عنوان توصيل جديد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PAYMENT_MENU_ENTER_NEW_SERVICEPICKUP_ADDRESS</Position>
+      <TranslationSet>
+        <base loc="en">Enter new pickup address</base>
+        <tran loc="ar">أدخل عنوان التقاط جديد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PAYMENT_MENU_ENTER_NEW_STOREPICKUP_ADDRESS</Position>
+      <TranslationSet>
+        <base loc="en">Enter new pickup address</base>
+        <tran loc="ar">أدخل عنوان التقاط جديد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>APPLE_PAY</Position>
+      <TranslationSet>
+        <base loc="en">Apple Pay</base>
+        <tran loc="ar">‏Apple Pay</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>POSTAL_ADDRESS_EDITOR_NEW_SERVICEPICKUP_PROMPT</Position>
+      <TranslationSet>
+        <base loc="en">Enter a New Pickup Address</base>
+        <tran loc="ar">إدخال عنوان إقلال جديد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>POSTAL_ADDRESS_EDITOR_NEW_STOREPICKUP_PROMPT</Position>
+      <TranslationSet>
+        <base loc="en">Enter a New Pickup Address</base>
+        <tran loc="ar">إدخال عنوان إقلال جديد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PAYMENT_STOREPICKUP_ADDRESS_UNAVAILABLE_ALERT_FMT</Position>
+      <TranslationSet>
+        <base loc="en">%@ does not allow pickup at your store address.</base>
+        <tran loc="ar">لا تسمح %@ بالإقلال في عنوان المتجر الخاص بك.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PROCESSING</Position>
+      <TranslationSet>
+        <base loc="en">Processing…</base>
+        <tran loc="ar">تتم الآن المعالجة…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PAYMENT_ENTER_PASSWORD</Position>
+      <TranslationSet>
+        <base loc="en">Use keyboard to complete purchase</base>
+        <tran loc="ar">استخدام لوحة المفاتيح لإكمال عملية الشراء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ALERT</Position>
+      <TranslationSet>
+        <base loc="en">Alert</base>
+        <tran loc="ar">تنبيه</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CONTINUITY_PAYMENT_ERROR_DEVICE_NO_SUPPORTED_CARDS_SINGULAR_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">This website does not accept the card that you have added to Wallet.</base>
+        <tran loc="ar">لا يقبل موقع الويب هذا البطاقة التي أضفتها إلى Wallet.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PAYMENT_ERROR_NO_SUPPORTED_CARDS_SINGULAR_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">This website does not accept the card that you have added to Wallet.</base>
+        <tran loc="ar">لا يقبل موقع الويب هذا البطاقة التي أضفتها إلى Wallet.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SUCCESS</Position>
+      <TranslationSet>
+        <base loc="en">Success</base>
+        <tran loc="ar">نجاح</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CONTINUITY_PAYMENT_ERROR_BLUETOOTH_DISABLED_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Bluetooth Unavailable</base>
+        <tran loc="ar">‏Bluetooth غير متوفر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PAYMENT_DELIVERY_ADDRESS_UNAVAILABLE_ALERT_FMT</Position>
+      <TranslationSet>
+        <base loc="en">%@ does not allow delivery to your delivery address.</base>
+        <tran loc="ar">لا تسمح %@ بالتوصيل إلى عنوان التوصيل الخاص بك.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>POSTAL_ADDRESS_EDITOR_NEW_SHIPPING_PROMPT</Position>
+      <TranslationSet>
+        <base loc="en">Enter a New Shipping Address</base>
+        <tran loc="ar">أدخل عنوان شحن جديدًا</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>POSTAL_ADDRESS_EDITOR_DELIVERY_LABEL</Position>
+      <TranslationSet>
+        <base loc="en">DELIVERY</base>
+        <tran loc="ar">التوصيل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>TOUCH_ID_UNRECOGNIZED</Position>
+      <TranslationSet>
+        <base loc="en">Touch ID not recognized</base>
+        <tran loc="ar">لم يتم التعرّف على Touch ID</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AUTOCOMPLETE_SECTION_TITLE_CONTACTS</Position>
+      <TranslationSet>
+        <base loc="en">Contacts</base>
+        <tran loc="ar">جهات الاتصال</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>POSTAL_ADDRESS_EDITOR_NEW_DELIVERY_PROMPT</Position>
+      <TranslationSet>
+        <base loc="en">Enter a New Delivery Address</base>
+        <tran loc="ar">إدخال عنوان توصيل جديد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CONTINUITY_PAYMENT_CONFIRM_ON_FORMAT</Position>
+      <TranslationSet>
+        <base loc="en">Confirm on %@</base>
+        <tran loc="ar">التأكيد على %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CONTINUITY_PAYMENT_ERROR_DEVICE_NO_SUPPORTED_CARDS_BUTTON_TEXT</Position>
+      <TranslationSet>
+        <base loc="en">Add Card Now</base>
+        <tran loc="ar">إضافة بطاقة الآن</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>POSTAL_ADDRESS_EDITOR_EDIT_BILLING_PROMPT</Position>
+      <TranslationSet>
+        <base loc="en">Edit Billing Address</base>
+        <tran loc="ar">تحرير عنوان الدفع</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>POSTAL_ADDRESS_EDITOR_NEW_BILLING_PROMPT</Position>
+      <TranslationSet>
+        <base loc="en">Enter a New Billing Address</base>
+        <tran loc="ar">أدخل عنوان دفع جديدًا</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PAYMENT_MENU_ENTER_NEW_SHIPPING_CONTACT</Position>
+      <TranslationSet>
+        <base loc="en">Enter a new contact</base>
+        <tran loc="ar">أدخل جهة اتصال جديدة</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>WalletUIX/System/Library/PrivateFrameworks/PassKitUI.framework/Versions/A/Resources/en.lproj/PKPostalAddressEditorViewController.strings</Filepath>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Item 3"; ObjectID = "IYx-xm-too"; </Description>
+      <Position>IYx-xm-too.title</Position>
+      <TranslationSet>
+        <base loc="en">Item 3</base>
+        <tran loc="ar">العنصر ٣</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Item 3"; ObjectID = "R0B-xu-06m"; </Description>
+      <Position>R0B-xu-06m.title</Position>
+      <TranslationSet>
+        <base loc="en">Item 3</base>
+        <tran loc="ar">العنصر ٣</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Item 1"; ObjectID = "VoN-J9-x0R"; </Description>
+      <Position>VoN-J9-x0R.title</Position>
+      <TranslationSet>
+        <base loc="en">Item 1</base>
+        <tran loc="ar">العنصر ١</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Item 1"; ObjectID = "cdx-5d-hRy"; </Description>
+      <Position>cdx-5d-hRy.title</Position>
+      <TranslationSet>
+        <base loc="en">Item 1</base>
+        <tran loc="ar">العنصر ١</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; placeholderString = "Last Name"; ObjectID = "Nzl-n0-Vu6"; </Description>
+      <Position>Nzl-n0-Vu6.placeholderString</Position>
+      <TranslationSet>
+        <base loc="en">Last Name</base>
+        <tran loc="ar">اسم العائلة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; placeholderString = "City"; ObjectID = "41M-uf-MRA"; </Description>
+      <Position>41M-uf-MRA.placeholderString</Position>
+      <TranslationSet>
+        <base loc="en">City</base>
+        <tran loc="ar">المدينة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Cancel"; ObjectID = "5qx-JD-JXY"; </Description>
+      <Position>5qx-JD-JXY.title</Position>
+      <TranslationSet>
+        <base loc="en">Cancel</base>
+        <tran loc="ar">إلغاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; placeholderString = "Apt., Suite, Bldg. (Optional)"; ObjectID = "mHP-Yo-YK5"; </Description>
+      <Position>mHP-Yo-YK5.placeholderString</Position>
+      <TranslationSet>
+        <base loc="en">Apt., Suite, Bldg. (Optional)</base>
+        <tran loc="ar">الشقة، الجناح، العمارة. (اختياري)</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; placeholderString = "Street"; ObjectID = "pLV-lA-1rA"; </Description>
+      <Position>pLV-lA-1rA.placeholderString</Position>
+      <TranslationSet>
+        <base loc="en">Street</base>
+        <tran loc="ar">الشارع</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; placeholderString = "ZIP Code"; ObjectID = "y9U-gQ-yOr"; </Description>
+      <Position>y9U-gQ-yOr.placeholderString</Position>
+      <TranslationSet>
+        <base loc="en">ZIP Code</base>
+        <tran loc="ar">الرمز البريدي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "SHIPPING"; ObjectID = "tcr-GL-q05"; </Description>
+      <Position>tcr-GL-q05.title</Position>
+      <TranslationSet>
+        <base loc="en">SHIPPING</base>
+        <tran loc="ar">الشحن</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; placeholderString = "First Name"; ObjectID = "EVS-Hs-MpT"; </Description>
+      <Position>EVS-Hs-MpT.placeholderString</Position>
+      <TranslationSet>
+        <base loc="en">First Name</base>
+        <tran loc="ar">الاسم الأول</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; placeholderString = "State"; ObjectID = "L4t-2Z-brg"; </Description>
+      <Position>L4t-2Z-brg.placeholderString</Position>
+      <TranslationSet>
+        <base loc="en">State</base>
+        <tran loc="ar">الولاية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; placeholderString = "Phonetic First Name"; ObjectID = "P2A-Mn-sPv"; </Description>
+      <Position>P2A-Mn-sPv.placeholderString</Position>
+      <TranslationSet>
+        <base loc="en">Phonetic First Name</base>
+        <tran loc="ar">الاسم الأول الصوتي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSImageView"; ibExternalAccessibilityDescription = "Apple Pay"; ObjectID = "df5-gb-BJr"; </Description>
+      <Position>df5-gb-BJr.ibExternalAccessibilityDescription</Position>
+      <TranslationSet>
+        <base loc="en">Apple Pay</base>
+        <tran loc="ar">Apple Pay</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Item 2"; ObjectID = "2aq-Et-cL5"; </Description>
+      <Position>2aq-Et-cL5.title</Position>
+      <TranslationSet>
+        <base loc="en">Item 2</base>
+        <tran loc="ar">العنصر ٢</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Item 2"; ObjectID = "xh9-hY-VTJ"; </Description>
+      <Position>xh9-hY-VTJ.title</Position>
+      <TranslationSet>
+        <base loc="en">Item 2</base>
+        <tran loc="ar">العنصر ٢</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; placeholderString = "Phonetic Last Name"; ObjectID = "yYL-r2-Z83"; </Description>
+      <Position>yYL-r2-Z83.placeholderString</Position>
+      <TranslationSet>
+        <base loc="en">Phonetic Last Name</base>
+        <tran loc="ar">اسم العائلة الصوتي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; placeholderString = "District"; ObjectID = "Pd3-dP-trr"; </Description>
+      <Position>Pd3-dP-trr.placeholderString</Position>
+      <TranslationSet>
+        <base loc="en">District</base>
+        <tran loc="ar">منطقة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Enter a New Shipping Address"; ObjectID = "Mgg-2E-CDr"; </Description>
+      <Position>Mgg-2E-CDr.title</Position>
+      <TranslationSet>
+        <base loc="en">Enter a New Shipping Address</base>
+        <tran loc="ar">أدخل عنوان شحن جديدًا</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Save"; ObjectID = "eMW-1G-Sei"; </Description>
+      <Position>eMW-1G-Sei.title</Position>
+      <TranslationSet>
+        <base loc="en">Save</base>
+        <tran loc="ar">حفظ</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>WalletUIX/System/Library/PreferencePanes/Wallet.prefPane/Contents/Resources/en.lproj/Wallet.searchTerms</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>/Wallet:dict/localizableStrings:dict/0:array/index:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">wallet, apple pay</base>
+        <tran loc="ar">‏Wallet، الحافظة، المحفظة، Apple Pay، أبل باي، آبل باي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/Wallet:dict/localizableStrings:dict/0:array/title:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Wallet &amp; Apple Pay</base>
+        <tran loc="ar">‏Wallet و Apple Pay</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/Wallet:dict/localizableStrings:dict/0:array/comments:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Localizable index words</base>
+        <tran loc="ar">كلمات الفهرس القابلة للترجمة، كلمات فهرس قابلة للترجمة، كلمة الفهرس القابلة للترجمة، كلمة فهرس قابلة للترجمة، Localizable index words</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>WalletUIX/System/Library/CoreServices/Pass Viewer.app/Contents/Resources/en.lproj/MainMenu.strings</Filepath>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Show Ruler"; ObjectID = "vLm-3I-IUL"; </Description>
+      <Position>vLm-3I-IUL.title</Position>
+      <TranslationSet>
+        <base loc="en">Show Ruler</base>
+        <tran loc="ar">إظهار المسطرة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Page Setup…"; ObjectID = "qIS-W8-SiK"; </Description>
+      <Position>qIS-W8-SiK.title</Position>
+      <TranslationSet>
+        <base loc="en">Page Setup…</base>
+        <tran loc="ar">إعداد الصفحة…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Paste Style"; ObjectID = "vKC-jM-MkH"; </Description>
+      <Position>vKC-jM-MkH.title</Position>
+      <TranslationSet>
+        <base loc="en">Paste Style</base>
+        <tran loc="ar">لصق النمط</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Hide Pass Viewer"; ObjectID = "Olw-nP-bQN"; </Description>
+      <Position>Olw-nP-bQN.title</Position>
+      <TranslationSet>
+        <base loc="en">Hide Pass Viewer</base>
+        <tran loc="ar">إخفاء عارض التذاكر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Delete"; ObjectID = "pa3-QI-u2k"; </Description>
+      <Position>pa3-QI-u2k.title</Position>
+      <TranslationSet>
+        <base loc="en">Delete</base>
+        <tran loc="ar">حذف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Paste Ruler"; ObjectID = "LVM-kO-fVI"; </Description>
+      <Position>LVM-kO-fVI.title</Position>
+      <TranslationSet>
+        <base loc="en">Paste Ruler</base>
+        <tran loc="ar">لصق المسطرة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Open…"; ObjectID = "IAo-SY-fd9"; </Description>
+      <Position>IAo-SY-fd9.title</Position>
+      <TranslationSet>
+        <base loc="en">Open…</base>
+        <tran loc="ar">فتح…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Text Replacement"; ObjectID = "HFQ-gK-NFA"; </Description>
+      <Position>HFQ-gK-NFA.title</Position>
+      <TranslationSet>
+        <base loc="en">Text Replacement</base>
+        <tran loc="ar">استبدال النص</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Check Document Now"; ObjectID = "hz2-CU-CR7"; </Description>
+      <Position>hz2-CU-CR7.title</Position>
+      <TranslationSet>
+        <base loc="en">Check Document Now</base>
+        <tran loc="ar">تدقيق المستند الآن</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Correct Spelling Automatically"; ObjectID = "78Y-hA-62v"; </Description>
+      <Position>78Y-hA-62v.title</Position>
+      <TranslationSet>
+        <base loc="en">Correct Spelling Automatically</base>
+        <tran loc="ar">تصحيح الأخطاء الإملائية تلقائيًا</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Show Spelling and Grammar"; ObjectID = "HFo-cy-zxI"; </Description>
+      <Position>HFo-cy-zxI.title</Position>
+      <TranslationSet>
+        <base loc="en">Show Spelling and Grammar</base>
+        <tran loc="ar">إظهار التدقيق الإملائي والتدقيق النحوي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Revert to Saved"; ObjectID = "KaW-ft-85H"; </Description>
+      <Position>KaW-ft-85H.title</Position>
+      <TranslationSet>
+        <base loc="en">Revert to Saved</base>
+        <tran loc="ar">إعادة لحالة الحفظ السابقة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Baseline"; ObjectID = "OaQ-X3-Vso"; </Description>
+      <Position>OaQ-X3-Vso.title</Position>
+      <TranslationSet>
+        <base loc="en">Baseline</base>
+        <tran loc="ar">الخط الأساسي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenu"; title = "Baseline"; ObjectID = "ijk-EB-dga"; </Description>
+      <Position>ijk-EB-dga.title</Position>
+      <TranslationSet>
+        <base loc="en">Baseline</base>
+        <tran loc="ar">الخط الأساسي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "About Pass Viewer"; ObjectID = "5kV-Vb-QxS"; </Description>
+      <Position>5kV-Vb-QxS.title</Position>
+      <TranslationSet>
+        <base loc="en">About Pass Viewer</base>
+        <tran loc="ar">حول عارض التذاكر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Paragraph"; ObjectID = "ZvO-Gk-QUH"; </Description>
+      <Position>ZvO-Gk-QUH.title</Position>
+      <TranslationSet>
+        <base loc="en">Paragraph</base>
+        <tran loc="ar">فقرة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Stop Speaking"; ObjectID = "Oyz-dy-DGm"; </Description>
+      <Position>Oyz-dy-DGm.title</Position>
+      <TranslationSet>
+        <base loc="en">Stop Speaking</base>
+        <tran loc="ar">إيقاف التكلم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Spelling and Grammar"; ObjectID = "Dv1-io-Yv7"; </Description>
+      <Position>Dv1-io-Yv7.title</Position>
+      <TranslationSet>
+        <base loc="en">Spelling and Grammar</base>
+        <tran loc="ar">التدقيق الإملائي والنحوي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Save…"; ObjectID = "pxx-59-PXV"; </Description>
+      <Position>pxx-59-PXV.title</Position>
+      <TranslationSet>
+        <base loc="en">Save…</base>
+        <tran loc="ar">حفظ…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Find and Replace…"; ObjectID = "YEy-JH-Tfz"; </Description>
+      <Position>YEy-JH-Tfz.title</Position>
+      <TranslationSet>
+        <base loc="en">Find and Replace…</base>
+        <tran loc="ar">بحث واستبدال...</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Jump to Selection"; ObjectID = "S0p-oC-mLd"; </Description>
+      <Position>S0p-oC-mLd.title</Position>
+      <TranslationSet>
+        <base loc="en">Jump to Selection</base>
+        <tran loc="ar">انتقال سريع إلى التحديد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Justify"; ObjectID = "J5U-5w-g23"; </Description>
+      <Position>J5U-5w-g23.title</Position>
+      <TranslationSet>
+        <base loc="en">Justify</base>
+        <tran loc="ar">ضبط كلي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Show Fonts"; ObjectID = "Q5e-8K-NDq"; </Description>
+      <Position>Q5e-8K-NDq.title</Position>
+      <TranslationSet>
+        <base loc="en">Show Fonts</base>
+        <tran loc="ar">إظهار الخطوط</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenu"; title = "Main Menu"; ObjectID = "AYu-sK-qS6"; </Description>
+      <Position>AYu-sK-qS6.title</Position>
+      <TranslationSet>
+        <base loc="en">Main Menu</base>
+        <tran loc="ar">القائمة الرئيسية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Show Toolbar"; ObjectID = "snW-S8-Cw5"; </Description>
+      <Position>snW-S8-Cw5.title</Position>
+      <TranslationSet>
+        <base loc="en">Show Toolbar</base>
+        <tran loc="ar">إظهار شريط الأدوات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Font"; ObjectID = "Gi5-1S-RQB"; </Description>
+      <Position>Gi5-1S-RQB.title</Position>
+      <TranslationSet>
+        <base loc="en">Font</base>
+        <tran loc="ar">الخط</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenu"; title = "Font"; ObjectID = "aXa-aM-Jaq"; </Description>
+      <Position>aXa-aM-Jaq.title</Position>
+      <TranslationSet>
+        <base loc="en">Font</base>
+        <tran loc="ar">الخط</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Clear Menu"; ObjectID = "vNY-rz-j42"; </Description>
+      <Position>vNY-rz-j42.title</Position>
+      <TranslationSet>
+        <base loc="en">Clear Menu</base>
+        <tran loc="ar">مسح القائمة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Print…"; ObjectID = "aTl-1u-JFS"; </Description>
+      <Position>aTl-1u-JFS.title</Position>
+      <TranslationSet>
+        <base loc="en">Print…</base>
+        <tran loc="ar">طباعة…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Subscript"; ObjectID = "I0S-gh-46l"; </Description>
+      <Position>I0S-gh-46l.title</Position>
+      <TranslationSet>
+        <base loc="en">Subscript</base>
+        <tran loc="ar">خط منخفض</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Show Substitutions"; ObjectID = "z6F-FW-3nz"; </Description>
+      <Position>z6F-FW-3nz.title</Position>
+      <TranslationSet>
+        <base loc="en">Show Substitutions</base>
+        <tran loc="ar">إظهار البدائل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Selection"; ObjectID = "cqv-fj-IhA"; </Description>
+      <Position>cqv-fj-IhA.title</Position>
+      <TranslationSet>
+        <base loc="en">Selection</base>
+        <tran loc="ar">التحديد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Ligatures"; ObjectID = "o6e-r0-MWq"; </Description>
+      <Position>o6e-r0-MWq.title</Position>
+      <TranslationSet>
+        <base loc="en">Ligatures</base>
+        <tran loc="ar">ربط الأحرف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenu"; title = "Ligatures"; ObjectID = "w0m-vy-SC9"; </Description>
+      <Position>w0m-vy-SC9.title</Position>
+      <TranslationSet>
+        <base loc="en">Ligatures</base>
+        <tran loc="ar">ربط الأحرف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "View"; ObjectID = "H8h-7b-M4v"; </Description>
+      <Position>H8h-7b-M4v.title</Position>
+      <TranslationSet>
+        <base loc="en">View</base>
+        <tran loc="ar">عرض</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenu"; title = "View"; ObjectID = "HyV-fh-RgO"; </Description>
+      <Position>HyV-fh-RgO.title</Position>
+      <TranslationSet>
+        <base loc="en">View</base>
+        <tran loc="ar">عرض</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Use Default"; ObjectID = "3Om-Ey-2VK"; </Description>
+      <Position>3Om-Ey-2VK.title</Position>
+      <TranslationSet>
+        <base loc="en">Use Default</base>
+        <tran loc="ar">استخدام الإعداد الافتراضي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Use Default"; ObjectID = "GUa-eO-cwY"; </Description>
+      <Position>GUa-eO-cwY.title</Position>
+      <TranslationSet>
+        <base loc="en">Use Default</base>
+        <tran loc="ar">استخدام الإعداد الافتراضي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Use Default"; ObjectID = "agt-UL-0e3"; </Description>
+      <Position>agt-UL-0e3.title</Position>
+      <TranslationSet>
+        <base loc="en">Use Default</base>
+        <tran loc="ar">استخدام الإعداد الافتراضي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Edit"; ObjectID = "5QF-Oa-p0T"; </Description>
+      <Position>5QF-Oa-p0T.title</Position>
+      <TranslationSet>
+        <base loc="en">Edit</base>
+        <tran loc="ar">تحرير</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenu"; title = "Edit"; ObjectID = "W48-6f-4Dl"; </Description>
+      <Position>W48-6f-4Dl.title</Position>
+      <TranslationSet>
+        <base loc="en">Edit</base>
+        <tran loc="ar">تحرير</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Smart Quotes"; ObjectID = "hQb-2v-fYv"; </Description>
+      <Position>hQb-2v-fYv.title</Position>
+      <TranslationSet>
+        <base loc="en">Smart Quotes</base>
+        <tran loc="ar">علامات اقتباس ذكية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Quit Pass Viewer"; ObjectID = "4sb-4s-VLi"; </Description>
+      <Position>4sb-4s-VLi.title</Position>
+      <TranslationSet>
+        <base loc="en">Quit Pass Viewer</base>
+        <tran loc="ar">إنهاء عارض التذاكر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Services"; ObjectID = "NMo-om-nkz"; </Description>
+      <Position>NMo-om-nkz.title</Position>
+      <TranslationSet>
+        <base loc="en">Services</base>
+        <tran loc="ar">خدمات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenu"; title = "Services"; ObjectID = "hz9-B4-Xy5"; </Description>
+      <Position>hz9-B4-Xy5.title</Position>
+      <TranslationSet>
+        <base loc="en">Services</base>
+        <tran loc="ar">خدمات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Align Left"; ObjectID = "ZM1-6Q-yy1"; </Description>
+      <Position>ZM1-6Q-yy1.title</Position>
+      <TranslationSet>
+        <base loc="en">Align Left</base>
+        <tran loc="ar">محاذاة إلى اليسار</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Center"; ObjectID = "VIY-Ag-zcb"; </Description>
+      <Position>VIY-Ag-zcb.title</Position>
+      <TranslationSet>
+        <base loc="en">Center</base>
+        <tran loc="ar">وسط</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Show All"; ObjectID = "Kd2-mp-pUS"; </Description>
+      <Position>Kd2-mp-pUS.title</Position>
+      <TranslationSet>
+        <base loc="en">Show All</base>
+        <tran loc="ar">إظهار الكل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Italic"; ObjectID = "Vjx-xi-njq"; </Description>
+      <Position>Vjx-xi-njq.title</Position>
+      <TranslationSet>
+        <base loc="en">Italic</base>
+        <tran loc="ar">مائل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Paste"; ObjectID = "gVA-U4-sdL"; </Description>
+      <Position>gVA-U4-sdL.title</Position>
+      <TranslationSet>
+        <base loc="en">Paste</base>
+        <tran loc="ar">لصق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Superscript"; ObjectID = "Rqc-34-cIF"; </Description>
+      <Position>Rqc-34-cIF.title</Position>
+      <TranslationSet>
+        <base loc="en">Superscript</base>
+        <tran loc="ar">خط مرتفع</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Find Previous"; ObjectID = "OwM-mh-QMV"; </Description>
+      <Position>OwM-mh-QMV.title</Position>
+      <TranslationSet>
+        <base loc="en">Find Previous</base>
+        <tran loc="ar">بحث عن السابق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenu"; title = "File"; ObjectID = "bib-Uj-vzu"; </Description>
+      <Position>bib-Uj-vzu.title</Position>
+      <TranslationSet>
+        <base loc="en">File</base>
+        <tran loc="ar">ملف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "File"; ObjectID = "dMs-cI-mzQ"; </Description>
+      <Position>dMs-cI-mzQ.title</Position>
+      <TranslationSet>
+        <base loc="en">File</base>
+        <tran loc="ar">ملف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Use Selection for Find"; ObjectID = "buJ-ug-pKt"; </Description>
+      <Position>buJ-ug-pKt.title</Position>
+      <TranslationSet>
+        <base loc="en">Use Selection for Find</base>
+        <tran loc="ar">استخدام التحديد للبحث</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Copy Ruler"; ObjectID = "MkV-Pr-PK5"; </Description>
+      <Position>MkV-Pr-PK5.title</Position>
+      <TranslationSet>
+        <base loc="en">Copy Ruler</base>
+        <tran loc="ar">نسخ المسطرة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Bold"; ObjectID = "GB9-OM-e27"; </Description>
+      <Position>GB9-OM-e27.title</Position>
+      <TranslationSet>
+        <base loc="en">Bold</base>
+        <tran loc="ar">عريض</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Copy Style"; ObjectID = "5Vv-lz-BsD"; </Description>
+      <Position>5Vv-lz-BsD.title</Position>
+      <TranslationSet>
+        <base loc="en">Copy Style</base>
+        <tran loc="ar">نسخ النمط</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Use None"; ObjectID = "J7y-lM-qPV"; </Description>
+      <Position>J7y-lM-qPV.title</Position>
+      <TranslationSet>
+        <base loc="en">Use None</base>
+        <tran loc="ar">عدم استخدام أي عناصر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Use None"; ObjectID = "cDB-IK-hbR"; </Description>
+      <Position>cDB-IK-hbR.title</Position>
+      <TranslationSet>
+        <base loc="en">Use None</base>
+        <tran loc="ar">عدم استخدام أي عناصر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Transformations"; ObjectID = "2oI-Rn-ZJC"; </Description>
+      <Position>2oI-Rn-ZJC.title</Position>
+      <TranslationSet>
+        <base loc="en">Transformations</base>
+        <tran loc="ar">تحويلات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenu"; title = "Transformations"; ObjectID = "c8a-y6-VQd"; </Description>
+      <Position>c8a-y6-VQd.title</Position>
+      <TranslationSet>
+        <base loc="en">Transformations</base>
+        <tran loc="ar">تحويلات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Close"; ObjectID = "DVo-aG-piG"; </Description>
+      <Position>DVo-aG-piG.title</Position>
+      <TranslationSet>
+        <base loc="en">Close</base>
+        <tran loc="ar">إغلاق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Zoom"; ObjectID = "R4o-n2-Eq4"; </Description>
+      <Position>R4o-n2-Eq4.title</Position>
+      <TranslationSet>
+        <base loc="en">Zoom</base>
+        <tran loc="ar">تكبير/تصغير</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Data Detectors"; ObjectID = "tRr-pd-1PS"; </Description>
+      <Position>tRr-pd-1PS.title</Position>
+      <TranslationSet>
+        <base loc="en">Data Detectors</base>
+        <tran loc="ar">عناصر كشف البيانات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Undo"; ObjectID = "dRJ-4n-Yzg"; </Description>
+      <Position>dRJ-4n-Yzg.title</Position>
+      <TranslationSet>
+        <base loc="en">Undo</base>
+        <tran loc="ar">تراجع</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Find Next"; ObjectID = "q09-fT-Sye"; </Description>
+      <Position>q09-fT-Sye.title</Position>
+      <TranslationSet>
+        <base loc="en">Find Next</base>
+        <tran loc="ar">بحث عن التالي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Preferences…"; ObjectID = "BOF-NM-1cW"; </Description>
+      <Position>BOF-NM-1cW.title</Position>
+      <TranslationSet>
+        <base loc="en">Preferences…</base>
+        <tran loc="ar">تفضيلات…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Minimize"; ObjectID = "OY7-WF-poV"; </Description>
+      <Position>OY7-WF-poV.title</Position>
+      <TranslationSet>
+        <base loc="en">Minimize</base>
+        <tran loc="ar">تصغير</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenu"; title = "Open Recent"; ObjectID = "oas-Oc-fiZ"; </Description>
+      <Position>oas-Oc-fiZ.title</Position>
+      <TranslationSet>
+        <base loc="en">Open Recent</base>
+        <tran loc="ar">فتح العناصر الأخيرة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Open Recent"; ObjectID = "tXI-mr-wws"; </Description>
+      <Position>tXI-mr-wws.title</Position>
+      <TranslationSet>
+        <base loc="en">Open Recent</base>
+        <tran loc="ar">فتح العناصر الأخيرة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Paste and Match Style"; ObjectID = "WeT-3V-zwk"; </Description>
+      <Position>WeT-3V-zwk.title</Position>
+      <TranslationSet>
+        <base loc="en">Paste and Match Style</base>
+        <tran loc="ar">لصق ومطابقة النمط</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Check Grammar With Spelling"; ObjectID = "mK6-2p-4JG"; </Description>
+      <Position>mK6-2p-4JG.title</Position>
+      <TranslationSet>
+        <base loc="en">Check Grammar With Spelling</base>
+        <tran loc="ar">تدقيق نحوي مع التدقيق الإملائي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Hide Others"; ObjectID = "Vdr-fp-XzO"; </Description>
+      <Position>Vdr-fp-XzO.title</Position>
+      <TranslationSet>
+        <base loc="en">Hide Others</base>
+        <tran loc="ar">إخفاء الأخرى</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Redo"; ObjectID = "6dh-zS-Vam"; </Description>
+      <Position>6dh-zS-Vam.title</Position>
+      <TranslationSet>
+        <base loc="en">Redo</base>
+        <tran loc="ar">إعادة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "New"; ObjectID = "Was-JA-tGl"; </Description>
+      <Position>Was-JA-tGl.title</Position>
+      <TranslationSet>
+        <base loc="en">New</base>
+        <tran loc="ar">جديد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Tighten"; ObjectID = "46P-cB-AYj"; </Description>
+      <Position>46P-cB-AYj.title</Position>
+      <TranslationSet>
+        <base loc="en">Tighten</base>
+        <tran loc="ar">تضييق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Align Right"; ObjectID = "wb2-vD-lq4"; </Description>
+      <Position>wb2-vD-lq4.title</Position>
+      <TranslationSet>
+        <base loc="en">Align Right</base>
+        <tran loc="ar">محاذاة إلى اليمين</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenu"; title = "Spelling"; ObjectID = "3IN-sU-3Bg"; </Description>
+      <Position>3IN-sU-3Bg.title</Position>
+      <TranslationSet>
+        <base loc="en">Spelling</base>
+        <tran loc="ar">التدقيق الإملائي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Lower"; ObjectID = "1tx-W0-xDw"; </Description>
+      <Position>1tx-W0-xDw.title</Position>
+      <TranslationSet>
+        <base loc="en">Lower</base>
+        <tran loc="ar">خفض</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Pass Viewer Help"; ObjectID = "FKE-Sm-Kum"; </Description>
+      <Position>FKE-Sm-Kum.title</Position>
+      <TranslationSet>
+        <base loc="en">Pass Viewer Help</base>
+        <tran loc="ar">مساعدة عارض التذاكر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Smart Copy/Paste"; ObjectID = "9yt-4B-nSM"; </Description>
+      <Position>9yt-4B-nSM.title</Position>
+      <TranslationSet>
+        <base loc="en">Smart Copy/Paste</base>
+        <tran loc="ar">النسخ/اللصق الذكي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Copy"; ObjectID = "x3v-GG-iWU"; </Description>
+      <Position>x3v-GG-iWU.title</Position>
+      <TranslationSet>
+        <base loc="en">Copy</base>
+        <tran loc="ar">نسخ</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenu"; title = "Find"; ObjectID = "1b7-l0-nxx"; </Description>
+      <Position>1b7-l0-nxx.title</Position>
+      <TranslationSet>
+        <base loc="en">Find</base>
+        <tran loc="ar">بحث</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Find"; ObjectID = "4EN-yA-p0u"; </Description>
+      <Position>4EN-yA-p0u.title</Position>
+      <TranslationSet>
+        <base loc="en">Find</base>
+        <tran loc="ar">بحث</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Pass Viewer"; ObjectID = "1Xt-HY-uBw"; </Description>
+      <Position>1Xt-HY-uBw.title</Position>
+      <TranslationSet>
+        <base loc="en">Pass Viewer</base>
+        <tran loc="ar">عارض التذاكر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenu"; title = "Pass Viewer"; ObjectID = "uQy-DD-JDr"; </Description>
+      <Position>uQy-DD-JDr.title</Position>
+      <TranslationSet>
+        <base loc="en">Pass Viewer</base>
+        <tran loc="ar">عارض التذاكر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Kern"; ObjectID = "jBQ-r6-VK2"; </Description>
+      <Position>jBQ-r6-VK2.title</Position>
+      <TranslationSet>
+        <base loc="en">Kern</base>
+        <tran loc="ar">تقنين الأحرف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenu"; title = "Kern"; ObjectID = "tlD-Oa-oAM"; </Description>
+      <Position>tlD-Oa-oAM.title</Position>
+      <TranslationSet>
+        <base loc="en">Kern</base>
+        <tran loc="ar">تقنين الأحرف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenu"; title = "Format"; ObjectID = "GEO-Iw-cKr"; </Description>
+      <Position>GEO-Iw-cKr.title</Position>
+      <TranslationSet>
+        <base loc="en">Format</base>
+        <tran loc="ar">التنسيق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Format"; ObjectID = "jxT-CU-nIS"; </Description>
+      <Position>jxT-CU-nIS.title</Position>
+      <TranslationSet>
+        <base loc="en">Format</base>
+        <tran loc="ar">التنسيق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Use All"; ObjectID = "xQD-1f-W4t"; </Description>
+      <Position>xQD-1f-W4t.title</Position>
+      <TranslationSet>
+        <base loc="en">Use All</base>
+        <tran loc="ar">استخدام الكل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "\tDefault"; ObjectID = "Nop-cj-93Q"; </Description>
+      <Position>Nop-cj-93Q.title</Position>
+      <TranslationSet>
+        <base loc="en">\tDefault</base>
+        <tran loc="ar">‏‎\tافتراضي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "\tDefault"; ObjectID = "YGs-j5-SAR"; </Description>
+      <Position>YGs-j5-SAR.title</Position>
+      <TranslationSet>
+        <base loc="en">\tDefault</base>
+        <tran loc="ar">‏‎\tافتراضي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Save As…"; ObjectID = "Bw7-FT-i3A"; </Description>
+      <Position>Bw7-FT-i3A.title</Position>
+      <TranslationSet>
+        <base loc="en">Save As…</base>
+        <tran loc="ar">حفظ باسم…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Substitutions"; ObjectID = "9ic-FL-obx"; </Description>
+      <Position>9ic-FL-obx.title</Position>
+      <TranslationSet>
+        <base loc="en">Substitutions</base>
+        <tran loc="ar">بدائل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenu"; title = "Substitutions"; ObjectID = "FeM-D8-WVr"; </Description>
+      <Position>FeM-D8-WVr.title</Position>
+      <TranslationSet>
+        <base loc="en">Substitutions</base>
+        <tran loc="ar">بدائل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Start Speaking"; ObjectID = "Ynk-f8-cLZ"; </Description>
+      <Position>Ynk-f8-cLZ.title</Position>
+      <TranslationSet>
+        <base loc="en">Start Speaking</base>
+        <tran loc="ar">بدء التكلم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Underline"; ObjectID = "WRG-CD-K1S"; </Description>
+      <Position>WRG-CD-K1S.title</Position>
+      <TranslationSet>
+        <base loc="en">Underline</base>
+        <tran loc="ar">تسطير</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Text"; ObjectID = "Fal-I4-PZk"; </Description>
+      <Position>Fal-I4-PZk.title</Position>
+      <TranslationSet>
+        <base loc="en">Text</base>
+        <tran loc="ar">نص</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenu"; title = "Text"; ObjectID = "d9c-me-L2H"; </Description>
+      <Position>d9c-me-L2H.title</Position>
+      <TranslationSet>
+        <base loc="en">Text</base>
+        <tran loc="ar">نص</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Capitalize"; ObjectID = "UEZ-Bs-lqG"; </Description>
+      <Position>UEZ-Bs-lqG.title</Position>
+      <TranslationSet>
+        <base loc="en">Capitalize</base>
+        <tran loc="ar">البدء بأحرف كبيرة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenu"; title = "Window"; ObjectID = "Td7-aD-5lo"; </Description>
+      <Position>Td7-aD-5lo.title</Position>
+      <TranslationSet>
+        <base loc="en">Window</base>
+        <tran loc="ar">نافذة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Window"; ObjectID = "aUF-d1-5bR"; </Description>
+      <Position>aUF-d1-5bR.title</Position>
+      <TranslationSet>
+        <base loc="en">Window</base>
+        <tran loc="ar">نافذة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Bigger"; ObjectID = "Ptp-SP-VEL"; </Description>
+      <Position>Ptp-SP-VEL.title</Position>
+      <TranslationSet>
+        <base loc="en">Bigger</base>
+        <tran loc="ar">أكبر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Make Upper Case"; ObjectID = "vmV-6d-7jI"; </Description>
+      <Position>vmV-6d-7jI.title</Position>
+      <TranslationSet>
+        <base loc="en">Make Upper Case</base>
+        <tran loc="ar">تحويل إلى أحرف كبيرة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Select All"; ObjectID = "Ruw-6m-B2m"; </Description>
+      <Position>Ruw-6m-B2m.title</Position>
+      <TranslationSet>
+        <base loc="en">Select All</base>
+        <tran loc="ar">تحديد الكل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenu"; title = "Help"; ObjectID = "F2S-fz-NVQ"; </Description>
+      <Position>F2S-fz-NVQ.title</Position>
+      <TranslationSet>
+        <base loc="en">Help</base>
+        <tran loc="ar">مساعدة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Help"; ObjectID = "wpr-3q-Mcd"; </Description>
+      <Position>wpr-3q-Mcd.title</Position>
+      <TranslationSet>
+        <base loc="en">Help</base>
+        <tran loc="ar">مساعدة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "\tRight to Left"; ObjectID = "RB4-Sm-HuC"; </Description>
+      <Position>RB4-Sm-HuC.title</Position>
+      <TranslationSet>
+        <base loc="en">\tRight to Left</base>
+        <tran loc="ar">‏‎\tمن اليمين إلى اليسار</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "\tRight to Left"; ObjectID = "jFq-tB-4Kx"; </Description>
+      <Position>jFq-tB-4Kx.title</Position>
+      <TranslationSet>
+        <base loc="en">\tRight to Left</base>
+        <tran loc="ar">‏‎\tمن اليمين إلى اليسار</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Cut"; ObjectID = "uRl-iY-unG"; </Description>
+      <Position>uRl-iY-unG.title</Position>
+      <TranslationSet>
+        <base loc="en">Cut</base>
+        <tran loc="ar">قص</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "\tLeft to Right"; ObjectID = "BgM-ve-c93"; </Description>
+      <Position>BgM-ve-c93.title</Position>
+      <TranslationSet>
+        <base loc="en">\tLeft to Right</base>
+        <tran loc="ar">‏‎\tمن اليسار إلى اليمين</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "\tLeft to Right"; ObjectID = "Lbh-J2-qVU"; </Description>
+      <Position>Lbh-J2-qVU.title</Position>
+      <TranslationSet>
+        <base loc="en">\tLeft to Right</base>
+        <tran loc="ar">‏‎\tمن اليسار إلى اليمين</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Smart Links"; ObjectID = "cwL-P1-jid"; </Description>
+      <Position>cwL-P1-jid.title</Position>
+      <TranslationSet>
+        <base loc="en">Smart Links</base>
+        <tran loc="ar">الروابط الذكية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Find…"; ObjectID = "Xz5-n4-O0W"; </Description>
+      <Position>Xz5-n4-O0W.title</Position>
+      <TranslationSet>
+        <base loc="en">Find…</base>
+        <tran loc="ar">بحث…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Customize Toolbar…"; ObjectID = "1UK-8n-QPP"; </Description>
+      <Position>1UK-8n-QPP.title</Position>
+      <TranslationSet>
+        <base loc="en">Customize Toolbar…</base>
+        <tran loc="ar">تخصيص شريط الأدوات…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Check Spelling While Typing"; ObjectID = "rbD-Rh-wIN"; </Description>
+      <Position>rbD-Rh-wIN.title</Position>
+      <TranslationSet>
+        <base loc="en">Check Spelling While Typing</base>
+        <tran loc="ar">تدقيق إملائي أثناء الكتابة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenu"; title = "Speech"; ObjectID = "3rS-ZA-NoH"; </Description>
+      <Position>3rS-ZA-NoH.title</Position>
+      <TranslationSet>
+        <base loc="en">Speech</base>
+        <tran loc="ar">التكلم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Speech"; ObjectID = "xrE-MZ-jX0"; </Description>
+      <Position>xrE-MZ-jX0.title</Position>
+      <TranslationSet>
+        <base loc="en">Speech</base>
+        <tran loc="ar">التكلم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Make Lower Case"; ObjectID = "d9M-CD-aMd"; </Description>
+      <Position>d9M-CD-aMd.title</Position>
+      <TranslationSet>
+        <base loc="en">Make Lower Case</base>
+        <tran loc="ar">تحويل إلى أحرف صغيرة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Show Colors"; ObjectID = "bgn-CT-cEk"; </Description>
+      <Position>bgn-CT-cEk.title</Position>
+      <TranslationSet>
+        <base loc="en">Show Colors</base>
+        <tran loc="ar">إظهار الألوان</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Loosen"; ObjectID = "ogc-rX-tC1"; </Description>
+      <Position>ogc-rX-tC1.title</Position>
+      <TranslationSet>
+        <base loc="en">Loosen</base>
+        <tran loc="ar">توسيع</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Raise"; ObjectID = "2h7-ER-AoG"; </Description>
+      <Position>2h7-ER-AoG.title</Position>
+      <TranslationSet>
+        <base loc="en">Raise</base>
+        <tran loc="ar">رفع</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Bring All to Front"; ObjectID = "LE2-aR-0XJ"; </Description>
+      <Position>LE2-aR-0XJ.title</Position>
+      <TranslationSet>
+        <base loc="en">Bring All to Front</base>
+        <tran loc="ar">إحضار الكل إلى الأمام</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Smart Dashes"; ObjectID = "rgM-f4-ycn"; </Description>
+      <Position>rgM-f4-ycn.title</Position>
+      <TranslationSet>
+        <base loc="en">Smart Dashes</base>
+        <tran loc="ar">شرط ذكية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenu"; title = "Writing Direction"; ObjectID = "8mr-sm-Yjd"; </Description>
+      <Position>8mr-sm-Yjd.title</Position>
+      <TranslationSet>
+        <base loc="en">Writing Direction</base>
+        <tran loc="ar">اتجاه الكتابة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Writing Direction"; ObjectID = "H1b-Si-o9J"; </Description>
+      <Position>H1b-Si-o9J.title</Position>
+      <TranslationSet>
+        <base loc="en">Writing Direction</base>
+        <tran loc="ar">اتجاه الكتابة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Smaller"; ObjectID = "i1d-Er-qST"; </Description>
+      <Position>i1d-Er-qST.title</Position>
+      <TranslationSet>
+        <base loc="en">Smaller</base>
+        <tran loc="ar">أصغر</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>WalletUIX/System/Library/PrivateFrameworks/PassKitUI.framework/Versions/A/Resources/en.lproj/PKPaymentSetupDisambiguationViewController.strings</Filepath>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "If your card isn't listed here, contact the card issuer to see when it will be available for Apple Pay."; ObjectID = "MoO-iD-Mek"; </Description>
+      <Position>MoO-iD-Mek.title</Position>
+      <TranslationSet>
+        <base loc="en">If your card isn't listed here, contact the card issuer to see when it will be available for Apple Pay.</base>
+        <tran loc="ar">إذا لم تكن بطاقتك مدرجة هنا، فاتصل بجهة إصدار البطاقة لمعرفة متى سيتم توفيرها لـ Apple Pay.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "&lt;&lt; DO NOT LOCALIZE &gt;&gt;"; ObjectID = "I5l-X4-xN3"; </Description>
+      <Position>I5l-X4-xN3.title</Position>
+      <TranslationSet>
+        <base loc="en">&lt;&lt; DO NOT LOCALIZE &gt;&gt;</base>
+        <tran loc="ar">&lt;&lt; DO NOT LOCALIZE &gt;&gt;</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Select Card:"; ObjectID = "VHv-BK-rTk"; </Description>
+      <Position>VHv-BK-rTk.title</Position>
+      <TranslationSet>
+        <base loc="en">Select Card:</base>
+        <tran loc="ar">تحديد بطاقة:</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "bRN-jG-ol7"; </Description>
+      <Position>bRN-jG-ol7.title</Position>
+      <TranslationSet>
+        <base loc="en">Text Cell</base>
+        <tran loc="ar">Text Cell</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>WalletUIX/System/Library/PrivateFrameworks/PassKitUI.framework/Versions/A/Resources/en.lproj/InAppPayment-J140K.strings</Filepath>
+    <TextItem>
+      <Description> 
+  InAppPayment-J140K.strings
+  PassKitUI
+
+  Created by Tony Diederich on 8/13/18.
+  Copyright © 2018 Apple Inc. All rights reserved.
+</Description>
+      <Position>PAYMENT_ENTER_PASSWORD_DOUBLE_PRESS</Position>
+      <TranslationSet>
+        <base loc="en">Double-click the power button to pay</base>
+        <tran loc="ar">اضغط مرتين على زر الطاقة للدفع</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>WalletUIX/System/Library/PrivateFrameworks/PassKitUI.framework/Versions/A/Resources/en.lproj/Localizable.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>ADD_TO_WALLET_ABOUT_DONE_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Done</base>
+        <tran loc="ar">تم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ADD_TO_WALLET_DONE_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Done</base>
+        <tran loc="ar">تم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CARDBACK_DONE_BUTTON_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Done</base>
+        <tran loc="ar">تم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PASS_PAGE_DOTS_OVERFLOW</Position>
+      <TranslationSet>
+        <base loc="en">%zu of %zu</base>
+        <tran loc="ar">%zu من %zu</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ADD_TO_WALLET_ADD_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Add to Wallet</base>
+        <tran loc="ar">إضافة إلى Wallet</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>INFO_TEXT_UPDATE_PASS</Position>
+      <TranslationSet>
+        <base loc="en">This pass will be updated on your iPhone\nor iPod touch using iCloud.</base>
+        <tran loc="ar">سيتم تحديث هذه البطاقة على الـ iPhone\nأو الـ iPod touch الخاص بك باستخدام iCloud.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UNABLE_TO_OPEN_DEFAULT</Position>
+      <TranslationSet>
+        <base loc="en">OK</base>
+        <tran loc="ar">موافق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ADD_TO_WALLET_UPDATE_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Update</base>
+        <tran loc="ar">تحديث</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>BARCODE_TEXT_EXPIRED</Position>
+      <TranslationSet>
+        <base loc="en">This pass has expired</base>
+        <tran loc="ar">انتهت صلاحية هذه البطاقة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>COUPON</Position>
+      <TranslationSet>
+        <base loc="en">Coupon</base>
+        <tran loc="ar">كوبون</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>INFO_TEXT_ALREADY_ADDED</Position>
+      <TranslationSet>
+        <base loc="en">This pass has already been added to Wallet.</base>
+        <tran loc="ar">تمت إضافة هذه البطاقة إلى Wallet بالفعل.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 
+  Localizable.strings
+  PassKitUI
+
+  Created by Arnaud Douceur on 1/12/16.
+  Copyright © 2016 Apple Inc. All rights reserved.
+</Description>
+      <Position>CARDFACE_INFO_BUTTON_AX</Position>
+      <TranslationSet>
+        <base loc="en">Info</base>
+        <tran loc="ar">معلومات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>BOARDING_PASS</Position>
+      <TranslationSet>
+        <base loc="en">Boarding Pass</base>
+        <tran loc="ar">بطاقة صعود الطائرة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UBIQUITY_RESOURCE_TOO_LARGE</Position>
+      <TranslationSet>
+        <base loc="en">The pass contains resources that are too large to be added to iCloud (&gt;2.5MB)</base>
+        <tran loc="ar">تحتوي البطاقة على موارد حجمها كبير للغاية بحيث لا يمكن إضافتها إلى iCloud ‏(&gt;٢٫٥ ميغابايت)</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>EVENT_TICKET</Position>
+      <TranslationSet>
+        <base loc="en">Event Ticket</base>
+        <tran loc="ar">تذكرة الحدث</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>INFO_TEXT_ADD_TO_WALLET</Position>
+      <TranslationSet>
+        <base loc="en">This pass will be added to Wallet\non your iPhone or iPod touch using iCloud.</base>
+        <tran loc="ar">ستتم إضافة هذه البطاقة إلى Wallet\nعلى الـ iPhone أو الـ iPod touch الخاص بك باستخدام iCloud.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>BARCODE_TEXT_REVOKED</Position>
+      <TranslationSet>
+        <base loc="en">This pass is no longer valid</base>
+        <tran loc="ar">لم تعد هذه البطاقة صالحة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PASS</Position>
+      <TranslationSet>
+        <base loc="en">Pass</base>
+        <tran loc="ar">بطاقة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PREVIOUS_PASS</Position>
+      <TranslationSet>
+        <base loc="en">Previous Pass</base>
+        <tran loc="ar">البطاقة السابقة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>NEXT_PASS</Position>
+      <TranslationSet>
+        <base loc="en">Next Pass</base>
+        <tran loc="ar">البطاقة التالية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UBIQUITY_PASS_TOO_LARGE</Position>
+      <TranslationSet>
+        <base loc="en">The pass is too large to be added to iCloud (&gt;10MB)</base>
+        <tran loc="ar">حجم البطاقة كبير للغاية بحيث لا يمكن إضافتها إلى iCloud ‏(&gt;١٠ ميغابايت)</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CARDFACE_SHARE_BUTTON_AX</Position>
+      <TranslationSet>
+        <base loc="en">Share</base>
+        <tran loc="ar">مشاركة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UNABLE_TO_OPEN_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">The pass “%@” could not be opened.</base>
+        <tran loc="ar">تعذر فتح البطاقة \"%@‎\".</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ADD_TO_WALLET_ABOUT_WINDOW_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">About</base>
+        <tran loc="ar">حول</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ADD_TO_WALLET_ABOUT_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">About Wallet</base>
+        <tran loc="ar">حول Wallet</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>INFO_TEXT_ABOUT_WALLET</Position>
+      <TranslationSet>
+        <base loc="en">Wallet requires iCloud and an iPhone\nor iPod touch with iOS 6 or later.</base>
+        <tran loc="ar">‏Wallet يتطلب iCloud و iPhone‏\nأو iPod touch مثبت عليه iOS 6 أو أحدث.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>BARCODE</Position>
+      <TranslationSet>
+        <base loc="en">Barcode</base>
+        <tran loc="ar">الرمز الشريطي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>STORE_CARD</Position>
+      <TranslationSet>
+        <base loc="en">Store Card</base>
+        <tran loc="ar">كرت المتجر</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>WalletUIX/System/Library/PrivateFrameworks/PassKitUI.framework/Versions/A/Resources/en.lproj/NativeApplePay.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>CONTACT_BUTTON_EMAIL</Position>
+      <TranslationSet>
+        <base loc="en">mail</base>
+        <tran loc="ar">بريد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ACTIVATING</Position>
+      <TranslationSet>
+        <base loc="en">Activating…</base>
+        <tran loc="ar">يتم الآن التنشيط…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> The name of the card that is in your account, i.e "Wells Fargo Debit Visa Card" </Description>
+      <Position>ACCOUNT_CARD_ON_FILE_AUTH_REASON</Position>
+      <TranslationSet>
+        <base loc="en">Your password is required to add %@ to your Mac.</base>
+        <tran loc="ar">كلمة السر مطلوبة لإضافة %@ إلى الـ Mac.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SUSPENDED</Position>
+      <TranslationSet>
+        <base loc="en">Suspended</base>
+        <tran loc="ar">معلقة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AX_CARDS</Position>
+      <TranslationSet>
+        <base loc="en">Cards</base>
+        <tran loc="ar">البطاقات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>TITLE_VERIFY_CARD</Position>
+      <TranslationSet>
+        <base loc="en">Verify Card</base>
+        <tran loc="ar">التحقق من البطاقة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>REMOVED_BY_ISSUER</Position>
+      <TranslationSet>
+        <base loc="en">Removed by Issuer</base>
+        <tran loc="ar">تمت الإزالة بواسطة جهة الإصدار</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>EMAIL_LABEL</Position>
+      <TranslationSet>
+        <base loc="en">Email:</base>
+        <tran loc="ar">البريد الإلكتروني:</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>APPEND_COLON</Position>
+      <TranslationSet>
+        <base loc="en">%@:</base>
+        <tran loc="ar">‏%@‏:</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DONE</Position>
+      <TranslationSet>
+        <base loc="en">Done</base>
+        <tran loc="ar">تم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>TITLE_CARD_ADDED</Position>
+      <TranslationSet>
+        <base loc="en">Card Added</base>
+        <tran loc="ar">تمت إضافة البطاقة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>VERIFICATION_NEEDED</Position>
+      <TranslationSet>
+        <base loc="en">Verification Needed</base>
+        <tran loc="ar">مطلوب التحقق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>WHAT_IS_THIS</Position>
+      <TranslationSet>
+        <base loc="en">What is this?</base>
+        <tran loc="ar">ما هذا؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CONTACT_BUTTON_WEBSITE</Position>
+      <TranslationSet>
+        <base loc="en">website</base>
+        <tran loc="ar">موقع الويب</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PHONE_CALL_LABEL</Position>
+      <TranslationSet>
+        <base loc="en">Phone Call:</base>
+        <tran loc="ar">المكالمة الهاتفية:</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>APPLE_PAY_CLAIMED_TITLE_FOREIGN_DRIVE_PARTITION</Position>
+      <TranslationSet>
+        <base loc="en">Apple Pay is already configured on this Mac for another disk.</base>
+        <tran loc="ar">تم تكوين Apple Pay بالفعل على هذا الـ Mac لقرص آخر.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>IDMS_CARD_ON_FILE_VERIFY_AND_COMPLETE</Position>
+      <TranslationSet>
+        <base loc="en">Verify and complete your card information for your card on file with iTunes or App Store.</base>
+        <tran loc="ar">قم بالتحقق من معلومات بطاقتك وإكمالها للبطاقة المسجلة في iTunes أو App Store.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>IDMS_CARD_ON_FILE_VERIFY</Position>
+      <TranslationSet>
+        <base loc="en">Verify your card information on file with iTunes or App Store.</base>
+        <tran loc="ar">قم بالتحقق من معلومات بطاقتك المسجلة في iTunes أو App Store.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SELECT_CARDS_BUDDY</Position>
+      <TranslationSet>
+        <base loc="en">Select cards to use with Apple Pay.</base>
+        <tran loc="ar">حدد البطاقات التي تريد استخدامها مع Apple Pay.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CARD_VERIFIED_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Card Verified</base>
+        <tran loc="ar">تم التحقق من البطاقة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 
+  NativeApplePay.strings
+  PassKitUI
+
+  Created by Arnaud Douceur on 4/13/16.
+  Copyright © 2016 Apple Inc. All rights reserved.
+</Description>
+      <Position>DEFAULT_CARD</Position>
+      <TranslationSet>
+        <base loc="en">Default Card</base>
+        <tran loc="ar">بطاقة افتراضية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ADD_THIS_CARD_LATER</Position>
+      <TranslationSet>
+        <base loc="en">Add this Card Later</base>
+        <tran loc="ar">إضافة هذه البطاقة لاحقًا</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CANCEL</Position>
+      <TranslationSet>
+        <base loc="en">Cancel</base>
+        <tran loc="ar">إلغاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>APPLE_PAY_CLAIMED_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">“%@” is already using Apple Pay on this Mac.</base>
+        <tran loc="ar">‏\"%@\" يستخدم Apple Pay على هذا الـ Mac بالفعل.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CONTACT_CHANNEL_FORMAT</Position>
+      <TranslationSet>
+        <base loc="en">%@: %@</base>
+        <tran loc="ar">‏%@: %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>APPLE_PAY_CLAIMED_MESSAGE_UNKNOWN_USER</Position>
+      <TranslationSet>
+        <base loc="en">Only one user can use Apple Pay on this Mac. Do you want to remove the cards the other user has added to Apple Pay and add new ones?</base>
+        <tran loc="ar">يمكن لمستخدم واحد فقط استخدام Apple Pay على هذا الـ Mac. هل ترغب في إزالة البطاقات التي أضافها المستخدم الآخر إلى Apple Pay وإضافة بطاقات جديدة؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CONTACT_BANK</Position>
+      <TranslationSet>
+        <base loc="en">Contact %@</base>
+        <tran loc="ar">جهة الاتصال %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>BALANCE</Position>
+      <TranslationSet>
+        <base loc="en">Balance</base>
+        <tran loc="ar">الرصيد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>USE_DIFFERENT_CARD_LINK</Position>
+      <TranslationSet>
+        <base loc="en">Add a Different Card</base>
+        <tran loc="ar">إضافة بطاقة مختلفة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>REQUIRED</Position>
+      <TranslationSet>
+        <base loc="en">Required</base>
+        <tran loc="ar">مطلوب</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> The variable refers to the name of the cardholder's bank </Description>
+      <Position>TRANSACTION_TABLE_FOOTER_WITHOUT_FPAN_NOTIFICATIONS</Position>
+      <TranslationSet>
+        <base loc="en">Transactions shown are purchases made with this Mac. For a full account history and final transaction amounts check your %@ statement.</base>
+        <tran loc="ar">المعاملات المعروضة هي عمليات الشراء التي تم إجراؤها باستخدام هذا الـ Mac. للحصول على سجل تاريخ كامل للحساب والمبالغ النهائية للمعاملة، راجع كشف حساب %@ الخاص بك.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>EXAMPLE_TRANSACTION_PAYMENT_PROMPT</Position>
+      <TranslationSet>
+        <base loc="en">Touch ID to Pay Apple %@</base>
+        <tran loc="ar">استخدام Touch ID لدفع %@ إلى Apple</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> The variable refers to the name of the cardholder's bank </Description>
+      <Position>TRANSACTION_TABLE_FOOTER_WITH_FPAN_NOTIFICATIONS</Position>
+      <TranslationSet>
+        <base loc="en">Transactions include purchases made with this Mac and your credit or debit card. For a full account history and final transaction amounts check your %@ statement.</base>
+        <tran loc="ar">تتضمن المعاملات عمليات الشراء التي تم إجراؤها باستخدام هذا الـ Mac وبطاقة الائتمان أو السحب الخاصة بك. للحصول على سجل تاريخ كامل للحساب والمبالغ النهائية للمعاملة، راجع كشف حساب %@ الخاص بك.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>APPLE_PAY_CLAIMED_MESSAGE</Position>
+      <TranslationSet>
+        <base loc="en">Only one user can use Apple Pay on this Mac. Do you want to remove the cards that “%@” has added to Apple Pay and add new ones?</base>
+        <tran loc="ar">يمكن لمستخدم واحد فقط استخدام Apple Pay على هذا الـ Mac. هل ترغب في إزالة البطاقات التي أضافها \"%@\" إلى Apple Pay وإضافة بطاقات جديدة؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>VERIFY_LATER_LINK</Position>
+      <TranslationSet>
+        <base loc="en">Verify later in Wallet &amp; Apple Pay in System Preferences</base>
+        <tran loc="ar">التحقق لاحقًا في Wallet وApple Pay في تفضيلات النظام</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>IDMS_CARD_ON_FILE_SECURITY_CODE</Position>
+      <TranslationSet>
+        <base loc="en">Enter your security code for your card on file with iTunes or App Store.</base>
+        <tran loc="ar">أدخل رمز الأمن الخاص ببطاقتك المسجلة في iTunes أو App Store.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>VERIFY_AND_COMPLETE_CARD_INFO</Position>
+      <TranslationSet>
+        <base loc="en">Verify and complete your card information.</base>
+        <tran loc="ar">قم بالتحقق من معلومات بطاقتك وإكمالها.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> The name of the card that is in your account, i.e "Wells Fargo Debit Visa Card" </Description>
+      <Position>ACCOUNT_CARD_ON_FILE_VERIFY</Position>
+      <TranslationSet>
+        <base loc="en">Verify your %@ information.</base>
+        <tran loc="ar">تحقق من معلومات %@.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> The name of the card that is in your account, i.e "Wells Fargo Debit Visa Card" </Description>
+      <Position>REMOTE_CARD_ON_FILE_VERIFY</Position>
+      <TranslationSet>
+        <base loc="en">Verify your %@ information.</base>
+        <tran loc="ar">تحقق من معلومات %@.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>LOADING_STATUS</Position>
+      <TranslationSet>
+        <base loc="en">Loading…</base>
+        <tran loc="ar">يتم الآن التحميل…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>APPLE_PAY_CLAIMED_MESSAGE_FOREIGN_DRIVE_PARTITION</Position>
+      <TranslationSet>
+        <base loc="en">Only one disk can be used with Apple Pay. Do you want to remove the existing cards on this Mac and add new ones?</base>
+        <tran loc="ar">يمكن استخدام قرص واحد فقط مع Apple Pay. هل ترغب في إزالة البطاقات الموجودة في هذا الـ Mac وإضافة بطاقات جديدة؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>APPLE_PAY_CLAIMED_MESSAGE_FOREIGN_SECURE_ELEMENT</Position>
+      <TranslationSet>
+        <base loc="en">Only one disk can be used with Apple Pay. Do you want to remove the existing cards on this Mac and add new ones?</base>
+        <tran loc="ar">يمكن استخدام قرص واحد فقط مع Apple Pay. هل ترغب في إزالة البطاقات الموجودة في هذا الـ Mac وإضافة بطاقات جديدة؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>APPLE_PAY_CLAIMED_PROCEED</Position>
+      <TranslationSet>
+        <base loc="en">Reset Apple Pay and Add Card…</base>
+        <tran loc="ar">إعادة تعيين Apple Pay وإضافة بطاقة…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>TITLE_WELCOME</Position>
+      <TranslationSet>
+        <base loc="en"> Pay</base>
+        <tran loc="ar"> Pay</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> The name of the card that is in your account, i.e "Wells Fargo Debit Visa Card" </Description>
+      <Position>REMOTE_CARD_ON_FILE_SECURITY_CODE</Position>
+      <TranslationSet>
+        <base loc="en">Enter your security code for your %@.</base>
+        <tran loc="ar">أدخل رمز الأمن لـ %@.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>TEXT_MESSAGE_LABEL</Position>
+      <TranslationSet>
+        <base loc="en">Text Message:</base>
+        <tran loc="ar">الرسالة النصية:</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>APPLE_PAY_CLAIMED_TITLE_FOREIGN_SECURE_ELEMENT</Position>
+      <TranslationSet>
+        <base loc="en">Apple Pay is already configured on this disk for another Mac.</base>
+        <tran loc="ar">تم تكوين Apple Pay بالفعل على هذا القرص لكمبيوتر Mac آخر.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>MONTH</Position>
+      <TranslationSet>
+        <base loc="en">Month</base>
+        <tran loc="ar">شهر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ON_FILE</Position>
+      <TranslationSet>
+        <base loc="en">On File</base>
+        <tran loc="ar">المسجّلة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DAY</Position>
+      <TranslationSet>
+        <base loc="en">Day</base>
+        <tran loc="ar">يوم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>APPLE_PAY_CLAIMED_TITLE_UNKNOWN_USER</Position>
+      <TranslationSet>
+        <base loc="en">Another user is already using Apple Pay on this Mac.</base>
+        <tran loc="ar">هناك مستخدم آخر يستخدم Apple Pay على هذا الـ Mac بالفعل.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SETUP_LATER_WELCOME_LINK</Position>
+      <TranslationSet>
+        <base loc="en">Set Up Later…</base>
+        <tran loc="ar">الإعداد لاحقًا…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>YEAR</Position>
+      <TranslationSet>
+        <base loc="en">Year</base>
+        <tran loc="ar">سنة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ENTER_CARD_INFO_MANUAL</Position>
+      <TranslationSet>
+        <base loc="en">Enter your card details.</base>
+        <tran loc="ar">أدخل تفاصيل بطاقتك.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>TITLE_ADD_CARD</Position>
+      <TranslationSet>
+        <base loc="en">Add Card</base>
+        <tran loc="ar">إضافة بطاقة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DID_NOT_RECEIVE_CODE_LINK</Position>
+      <TranslationSet>
+        <base loc="en">Didn’t get a verification code?</base>
+        <tran loc="ar">ألم تحصل على رمز تحقق؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>WELCOME_DESCRIPTION</Position>
+      <TranslationSet>
+        <base loc="en">Add credit, debit, or store cards and use Apple Pay with Touch ID to make\npurchases easily and securely, right from your Mac.</base>
+        <tran loc="ar">أضف بطاقات ائتمان أو سحب أو متاجر واستخدم Apple Pay مع Touch ID\nلإجراء عمليات الشراء بسهولة وأمان مباشرة من الـ Mac.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CONTACT_BUTTON_PHONE</Position>
+      <TranslationSet>
+        <base loc="en">call</base>
+        <tran loc="ar">اتصال</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SETUP_ASSISTANT_OUTBOUND_CALL_VERIFICATION_ALERT_MESSAGE</Position>
+      <TranslationSet>
+        <base loc="en">You will receive a reminder with the phone number after this Mac has been set up.</base>
+        <tran loc="ar">ستتلقى رسالة تذكير تحتوي على رقم الهاتف بعد أن يتم إعداد هذا الـ Mac.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SELECT_CARDS</Position>
+      <TranslationSet>
+        <base loc="en">Select cards to use with Apple Pay:</base>
+        <tran loc="ar">حدد البطاقات التي تريد استخدامها مع Apple Pay:</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> The name of the card that is in your account, i.e "Wells Fargo Debit Visa Card" </Description>
+      <Position>REMOTE_CARD_ON_FILE_VERIFY_AND_COMPLETE</Position>
+      <TranslationSet>
+        <base loc="en">Verify and complete your %@ information.</base>
+        <tran loc="ar">تحقق من معلومات %@ وأكملها.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>VERIFY_CARD_INFORMATION</Position>
+      <TranslationSet>
+        <base loc="en">Verify your card information.</base>
+        <tran loc="ar">قم بالتحقق من معلومات بطاقتك.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>NEXT</Position>
+      <TranslationSet>
+        <base loc="en">Next</base>
+        <tran loc="ar">التالي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>OTHER_CARDS</Position>
+      <TranslationSet>
+        <base loc="en">Other Cards</base>
+        <tran loc="ar">بطاقات أخرى</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SETUP_LATER_LINK</Position>
+      <TranslationSet>
+        <base loc="en">Set Up Later</base>
+        <tran loc="ar">الإعداد لاحقًا</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>WalletUIX/System/Library/PrivateFrameworks/PassKit.framework/PlugIns/com.apple.PassKit.PaymentAuthorizationUIExtension.appex/Contents/Resources/en.lproj/Localizable.strings</Filepath>
+    <TextItem>
+      <Description> 
+  Localizable.strings
+  PassKitUI
+
+  Created by Tony Diederich on 7/13/16.
+  Copyright © 2016 Apple Inc. All rights reserved.
+</Description>
+      <Position>DNT</Position>
+      <TranslationSet>
+        <base loc="en">DNT</base>
+        <tran loc="ar">DNT</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+</Proj>

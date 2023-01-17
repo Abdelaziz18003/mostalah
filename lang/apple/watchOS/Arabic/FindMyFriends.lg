@@ -1,0 +1,1245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Proj>
+  <ProjName>FindMyFriends</ProjName>
+  <File>
+    <Filepath>FindMyFriends/System/Library/PrivateFrameworks/FMF.framework/en.lproj/InfoPlist.strings</Filepath>
+    <TextItem>
+      <Description> 
+  InfoPlist.strings
+  FindMyFriends
+</Description>
+      <Position>CFBundleDisplayName</Position>
+      <TranslationSet>
+        <base loc="en">Share My Location</base>
+        <tran loc="ar">مشاركة موقعي</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>FindMyFriends/System/Library/PrivateFrameworks/FMF.framework/en.lproj/Localizable-tinker.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>FENCE_FRIEND_REQUESTS_NOTIFICATION_WHEN_YOU_LEAVE_LOCATION_EVERY_TIME</Position>
+      <TranslationSet>
+        <base loc="en">%1$@ would like to be notified every time you leave %2$@.</base>
+        <tran loc="ar">يرغب %1$@ أن يتم إعلامه كلما غادرت %2$@.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>FENCE_TRIGGER_DID_NOT_ARRIVE_YOU_ARE_NOT_AT_LOCATION_BETWEEN_TIMES_ON_DAYSLIST</Position>
+      <TranslationSet>
+        <base loc="en">You did not arrive at %2$@ by %3$@. %1$@ is notified any time that you are not at %2$@ between %3$@ and %4$@, %5$@.</base>
+        <tran loc="ar">لم تصل إلى %2$@ في غضون %3$@. يتم إعلام %1$@ كلما تبيّن أنك غير موجود في %2$@ من %3$@ إلى %4$@، %5$@.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DAYSLIST_5</Position>
+      <TranslationSet>
+        <base loc="en">%1$@, %2$@, %3$@, %4$@, and %5$@</base>
+        <tran loc="ar">‏%1$@ و%2$@ و%3$@ و%4$@ و%5$@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DAYSLIST_6</Position>
+      <TranslationSet>
+        <base loc="en">%1$@, %2$@, %3$@, %4$@, %5$@, and %6$@</base>
+        <tran loc="ar">‏%1$@ و%2$@ و%3$@ و%4$@ و%5$@ و%6$@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>FENCE_NOTIFY_FRIEND_WHEN_I_AM_NOT_AT_LOCATION_BETWEEN_TIMES</Position>
+      <TranslationSet>
+        <base loc="en">Notify %1$@ when I am not at %2$@ between %3$@ and %4$@.</base>
+        <tran loc="ar">أعلِم %1$@ عندما لا أكون في %2$@ من %3$@ إلى %4$@.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>FENCE_NOTIFY_FRIEND_WHEN_I_AM_NOT_AT_LOCATION_BETWEEN_TIMES_EVERY_DAY</Position>
+      <TranslationSet>
+        <base loc="en">Notify %1$@ when I am not at %2$@ between %3$@ and %4$@.</base>
+        <tran loc="ar">أعلِم %1$@ عندما لا أكون في %2$@ من %3$@ إلى %4$@.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 5. Could not determine location at time</Description>
+      <Position>FENCE_TRIGGERED_FRIEND_COULD_NOT_DETERMINE_AT_LOCATION_BY_TIME</Position>
+      <TranslationSet>
+        <base loc="en">Could not determine if %1$@ was at %2$@ by %3$@.</base>
+        <tran loc="ar">تعذرت معرفة ما إذا كان %1$@ في %2$@ في غضون %3$@ أم لا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>FENCE_FRIEND_REQUESTS_NOTIFICATION_WHEN_YOU_ARE_NOT_AT_LOCATION_BETWEEN_TIMES_ON_DAYSLIST</Position>
+      <TranslationSet>
+        <base loc="en">%1$@ would like to be notified when you are not at %2$@ between %3$@ and %4$@,  %5$@.</base>
+        <tran loc="ar">يرغب %1$@ أن يتم إعلامه عندما لا تكون في %2$@ من %3$@ إلى %4$@،  %5$@.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 2. Not at location between times
+ params = follower, location, start, end [, days] </Description>
+      <Position>FENCE_TRIGGER_DID_NOT_ARRIVE_YOU_ARE_NOT_AT_LOCATION_BETWEEN_TIMES</Position>
+      <TranslationSet>
+        <base loc="en">You did not arrive at %2$@ by %3$@. %1$@ is notified any time that you are not at %2$@ between %3$@ and %4$@.</base>
+        <tran loc="ar">لم تصل إلى %2$@ في غضون %3$@. يتم إعلام %1$@ كلما تبيّن أنك غير موجود في %2$@ من %3$@ إلى %4$@.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> localizedNotificationTextForStatus:givenPreviousStatus: 
+ Exit fences</Description>
+      <Position>FENCE_TRIGGERED_FRIEND_LEFT</Position>
+      <TranslationSet>
+        <base loc="en">%1$@ left %2$@.</base>
+        <tran loc="ar">غادر %1$@‏ %2$@.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DAYSLIST_4</Position>
+      <TranslationSet>
+        <base loc="en">%1$@, %2$@, %3$@, and %4$@</base>
+        <tran loc="ar">‏%1$@ و%2$@ و%3$@ و%4$@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 
+  Localizable-tinker.strings
+  FindMyFriends
+
+  Copyright (c) 2019 Apple Inc. All rights reserved.
+
+
+ 
+* DAYSLIST formatters used in schedule notification strings.
+ 
+*
+ 
+* Day names ([NSCalendar weekdaySymbols] elements) are passed as arguments with these formatters to [NSString stringWithFormat]
+ 
+* to create localized lists of days, or day ranges (DAYSLIST_CONTIGUOUS_
+*). For the DAYSLIST_
+* formats, days names are passed in
+ 
+* locale specific order from first through last in a list. For the DAYSLIST_CONTIGUOUS_
+* formats, days names are passed in
+ 
+* this order: first and last, followed by the remaining intermediate day names, in order.
+ 
+*
+ 
+* Examples:
+ 
+*
+ 
+* With: "DAYSLIST_3" = "%1$@, %2$@, and %3$@"
+ 
+* stringWithFormat:NSLocalizedString("DAYSLIST_3", nil), weekdaySymbols[1], weekdaySymbols[3], weekdaySymbols[5]) returns:
+ 
+* "Monday, Wednesday, and Friday"
+ 
+*
+ 
+* With: "DAYSLIST_CONTIGUOUS_3" = "%1$@ to %2$@"
+ 
+* stringWithFormat:NSLocalizedString("DAYSLIST_CONTIGUOUS_3", nil), weekdaySymbols[1], weekdaySymbols[3], weekdaySymbols[2]) returns:
+ 
+* "Monday to Wednesday"
+ 
+*
+ 
+* Whereas with: "DAYSLIST_CONTIGUOUS_3" = "%1$@, %3$@, and %2$@"
+ 
+* stringWithFormat:NSLocalizedString("DAYSLIST_CONTIGUOUS_3", nil), weekdaySymbols[1], weekdaySymbols[3], weekdaySymbols[2]) returns:
+ 
+* "Monday, Tuesday, and Wednesday"
+ </Description>
+      <Position>DAYSLIST_EVERY_DAY</Position>
+      <TranslationSet>
+        <base loc="en">every day</base>
+        <tran loc="ar">كل يوم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> localizedRequestNotificationStringForFollower: </Description>
+      <Position>FENCE_FRIEND_REQUESTS_NOTIFICATION_WHEN_YOU_ARRIVE_AT_LOCATION_EVERY_TIME</Position>
+      <TranslationSet>
+        <base loc="en">%1$@ would like to be notified every time you arrive at %2$@.</base>
+        <tran loc="ar">يرغب %1$@ أن يتم إعلامه كلما وصلت إلى %2$@.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DAYSLIST_3</Position>
+      <TranslationSet>
+        <base loc="en">%1$@, %2$@, and %3$@</base>
+        <tran loc="ar">‏%1$@و‏%2$@و‏%3$@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> localizedSubtitleString </Description>
+      <Position>FENCE_NOTIFICATION_LOCATION_AND_SCHEDULE_BY_TIME</Position>
+      <TranslationSet>
+        <base loc="en">%1$@ by %2$@</base>
+        <tran loc="ar">‏%1$@ في غضون %2$@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>FENCE_NOTIFY_FRIEND_WHEN_I_AM_NOT_AT_LOCATION_BETWEEN_TIMES_ON_DAYSLIST</Position>
+      <TranslationSet>
+        <base loc="en">Notify %1$@ when I am not at %2$@ between %3$@ and %4$@,  %5$@.</base>
+        <tran loc="ar">أعلِم %1$@ عندما لا أكون في %2$@ من %3$@ إلى %4$@،  %5$@.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DAYSLIST_1</Position>
+      <TranslationSet>
+        <base loc="en">%1$@s</base>
+        <tran loc="ar">أيام %1$@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> params = followed, location, end, start </Description>
+      <Position>FENCE_TRIGGERED_FRIEND_DEPARTED_LOCATION_BEFORE_TIME</Position>
+      <TranslationSet>
+        <base loc="en">%1$@ left %2$@ before %3$@.</base>
+        <tran loc="ar">غادر %1$@‏ %2$@ قبل %3$@.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DAYSLIST_2</Position>
+      <TranslationSet>
+        <base loc="en">%1$@ and %2$@</base>
+        <tran loc="ar">‏%1$@ و %2$@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DAYSLIST_CONTIGUOUS_2</Position>
+      <TranslationSet>
+        <base loc="en">%1$@ and %2$@</base>
+        <tran loc="ar">‏%1$@ و %2$@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>FENCE_FRIEND_WILL_BE_NOTIFIED_WHEN_YOU_ARE_NOT_AT_LOCATION_BETWEEN_TIMES</Position>
+      <TranslationSet>
+        <base loc="en">%1$@ will be notified when you are not at %2$@ between %3$@ and %4$@.</base>
+        <tran loc="ar">سيتم إعلام %1$@ عندما لا تكون في %2$@ من %3$@ إلى %4$@.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>FENCE_FRIEND_WILL_BE_NOTIFIED_WHEN_YOU_ARE_NOT_AT_LOCATION_BETWEEN_TIMES_EVERY_DAY</Position>
+      <TranslationSet>
+        <base loc="en">%1$@ will be notified when you are not at %2$@ between %3$@ and %4$@.</base>
+        <tran loc="ar">سيتم إعلام %1$@ عندما لا تكون في %2$@ من %3$@ إلى %4$@.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 3. Left location before time
+ params = follower, location, end, start [, days] </Description>
+      <Position>FENCE_TRIGGER_DEPARTED_YOU_ARE_NOT_AT_LOCATION_BETWEEN_TIMES_ON_DAYSLIST</Position>
+      <TranslationSet>
+        <base loc="en">You left %2$@ before %3$@. %1$@ is notified any time that you are not at %2$@ between %4$@ and %3$@, %5$@.</base>
+        <tran loc="ar">لقد غادرتَ %2$@ قبل %3$@. يتم إعلام %1$@ كلما تبيّن أنك غير موجود في %2$@ من %4$@ إلى %3$@، %5$@.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>FENCE_FRIEND_REQUESTS_NOTIFICATION_WHEN_YOU_ARE_NOT_AT_LOCATION_BY_TIME</Position>
+      <TranslationSet>
+        <base loc="en">%1$@ would like to be notified when you are not at %2$@ by %3$@.</base>
+        <tran loc="ar">يرغب %1$@ أن يتم إعلامه عندما لا تكون في %2$@ في غضون %3$@.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>FENCE_FRIEND_REQUESTS_NOTIFICATION_WHEN_YOU_ARE_NOT_AT_LOCATION_BY_TIME_EVERY_DAY</Position>
+      <TranslationSet>
+        <base loc="en">%1$@ would like to be notified when you are not at %2$@ by %3$@.</base>
+        <tran loc="ar">يرغب %1$@ أن يتم إعلامه عندما لا تكون في %2$@ في غضون %3$@.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>FENCE_FRIEND_WILL_BE_NOTIFIED_WHEN_YOU_ARE_NOT_AT_LOCATION_BY_TIME</Position>
+      <TranslationSet>
+        <base loc="en">%1$@ will be notified when you are not at %2$@ by %3$@.</base>
+        <tran loc="ar">سيتم إعلام %1$@ عندما لا تكون في %2$@ في غضون %3$@.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>FENCE_FRIEND_WILL_BE_NOTIFIED_WHEN_YOU_ARE_NOT_AT_LOCATION_BY_TIME_EVERY_DAY</Position>
+      <TranslationSet>
+        <base loc="en">%1$@ will be notified when you are not at %2$@ by %3$@.</base>
+        <tran loc="ar">سيتم إعلام %1$@ عندما لا تكون في %2$@ في غضون %3$@.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 4. Returned to location</Description>
+      <Position>FENCE_TRIGGER_YOU_RETURNED_TO_LOCATION_BEFORE_TIME</Position>
+      <TranslationSet>
+        <base loc="en">%1$@ was notified that you returned to %2$@ before %3$@.</base>
+        <tran loc="ar">تم إعلام %1$@ بأنك عُدت إلى %2$@ قبل %3$@.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>FENCE_FRIEND_WILL_BE_NOTIFIED_WHEN_YOU_ARE_NOT_AT_LOCATION_BETWEEN_TIMES_ON_DAYSLIST</Position>
+      <TranslationSet>
+        <base loc="en">%1$@ will be notified when you are not at %2$@ between %3$@ and %4$@,  %5$@.</base>
+        <tran loc="ar">سيتم إعلام %1$@ عندما لا تكون في %2$@ من %3$@ إلى %4$@،  %5$@.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>FENCE_FRIEND_REQUESTS_NOTIFICATION_WHEN_YOU_ARE_NOT_AT_LOCATION_BETWEEN_TIMES</Position>
+      <TranslationSet>
+        <base loc="en">%1$@ would like to be notified when you are not at %2$@ between %3$@ and %4$@.</base>
+        <tran loc="ar">يرغب %1$@ أن يتم إعلامه عندما لا تكون في %2$@ من %3$@ إلى %4$@.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>FENCE_FRIEND_REQUESTS_NOTIFICATION_WHEN_YOU_ARE_NOT_AT_LOCATION_BETWEEN_TIMES_EVERY_DAY</Position>
+      <TranslationSet>
+        <base loc="en">%1$@ would like to be notified when you are not at %2$@ between %3$@ and %4$@.</base>
+        <tran loc="ar">يرغب %1$@ أن يتم إعلامه عندما لا تكون في %2$@ من %3$@ إلى %4$@.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>FENCE_FRIEND_REQUESTS_NOTIFICATION_WHEN_YOU_ARE_NOT_AT_LOCATION_BY_TIME_ON_DAYSLIST</Position>
+      <TranslationSet>
+        <base loc="en">%1$@ would like to be notified when you are not at %2$@ by %3$@, %4$@.</base>
+        <tran loc="ar">يرغب %1$@ أن يتم إعلامه عندما لا تكون في %2$@ في غضون %3$@، %4$@.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Scheduled fences
+ 1. Not at location by time
+ params = followed, location, start [, days] </Description>
+      <Position>FENCE_TRIGGER_DID_NOT_ARRIVE_YOU_ARE_NOT_AT_LOCATION_BY_TIME</Position>
+      <TranslationSet>
+        <base loc="en">You did not arrive at %2$@ by %3$@. %1$@ is notified any time that you are not at %2$@ by %3$@.</base>
+        <tran loc="ar">لم تصل إلى %2$@ في غضون %3$@. يتم إعلام %1$@ كلما تبيّن أنك غير موجود في %2$@ في غضون %3$@.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>FENCE_TRIGGER_DEPARTED_YOU_ARE_NOT_AT_LOCATION_BETWEEN_TIMES</Position>
+      <TranslationSet>
+        <base loc="en">You left %2$@ before %3$@. %1$@ is notified any time that you are not at %2$@ between %4$@ and %3$@.</base>
+        <tran loc="ar">لقد غادرتَ %2$@ قبل %3$@. يتم إعلام %1$@ كلما تبيّن أنك غير موجود في %2$@ من %4$@ إلى %3$@.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>FENCE_NOTIFICATION_LOCATION_AND_SCHEDULE_BY_TIME_ON_DAYSLIST</Position>
+      <TranslationSet>
+        <base loc="en">%1$@ by %2$@, %3$@</base>
+        <tran loc="ar">‏%1$@ في غضون ‏%2$@، ‏%3$@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> localizedWillBeNotifiedStringForFollower: </Description>
+      <Position>FENCE_FRIEND_WILL_BE_NOTIFIED_WHEN_YOU_ARRIVE_AT_LOCATION_EVERY_TIME</Position>
+      <TranslationSet>
+        <base loc="en">%1$@ will be notified when you arrive at %2$@ every time.</base>
+        <tran loc="ar">سيتم إعلام %1$@ كلما وصلتَ إلى %2$@.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>FENCE_TRIGGERED_YOU_ARRIVED</Position>
+      <TranslationSet>
+        <base loc="en">%1$@ was notified that you arrived at %2$@.</base>
+        <tran loc="ar">تم إعلام %1$@ بأنك وصلت إلى %2$@.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>FENCE_FRIEND_WILL_BE_NOTIFIED_WHEN_YOU_ARE_NOT_AT_LOCATION_BY_TIME_ON_DAYSLIST</Position>
+      <TranslationSet>
+        <base loc="en">%1$@ will be notified when you are not at %2$@ by %3$@, %4$@.</base>
+        <tran loc="ar">سيتم إعلام %1$@ عندما لا تكون في %2$@ في غضون %3$@، %4$@.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>FENCE_NOTIFICATION_LOCATION_AND_SCHEDULE_BETWEEN_TIMES_EVERY_DAY</Position>
+      <TranslationSet>
+        <base loc="en">%1$@ between %2$@ and %3$@ every day</base>
+        <tran loc="ar">‏%1$@ من %2$@ إلى %3$@ كل يوم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>FENCE_NOTIFICATION_LOCATION_AND_SCHEDULE_BY_TIME_EVERY_DAY</Position>
+      <TranslationSet>
+        <base loc="en">%1$@ by %2$@ every day</base>
+        <tran loc="ar">‏%1$@ في غضون %2$@ كل يوم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>FENCE_TRIGGER_DID_NOT_ARRIVE_YOU_ARE_NOT_AT_LOCATION_BY_TIME_ON_DAYSLIST</Position>
+      <TranslationSet>
+        <base loc="en">You did not arrive at %2$@ by %3$@. %1$@ is notified any time that you are not at %2$@ by %3$@, %4$@.</base>
+        <tran loc="ar">لم تصل إلى %2$@ في غضون %3$@. يتم إعلام %1$@ كلما تبيّن أنك غير موجود في %2$@ في غضون %3$@، %4$@.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>FENCE_TRIGGER_FRIEND_RETURNED_TO_LOCATION_BEFORE_TIME</Position>
+      <TranslationSet>
+        <base loc="en">%1$@ returned to %2$@ before %3$@.</base>
+        <tran loc="ar">عاد %1$@ إلى %2$@ قبل %3$@.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> params = followed, location, start, end </Description>
+      <Position>FENCE_TRIGGERED_FRIEND_DID_NOT_ARRIVE_AT_LOCATION_BY_TIME</Position>
+      <TranslationSet>
+        <base loc="en">%1$@ was not at %2$@ at %3$@.</base>
+        <tran loc="ar">لم يكن %1$@ في %2$@ الساعة %3$@.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Enter fences</Description>
+      <Position>FENCE_TRIGGERED_FRIEND_ARRIVED</Position>
+      <TranslationSet>
+        <base loc="en">%1$@ arrived at %2$@.</base>
+        <tran loc="ar">وصل %1$@ إلى %2$@.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>FENCE_NOTIFICATION_LOCATION_AND_SCHEDULE_BETWEEN_TIMES_ON_DAYSLIST</Position>
+      <TranslationSet>
+        <base loc="en">%1$@ between %2$@ and %3$@, %4$@</base>
+        <tran loc="ar">‏%1$@ من %2$@ إلى %3$@، %4$@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> localizedNotificationStringForFollower: </Description>
+      <Position>FENCE_NOTIFY_FRIEND_WHEN_I_AM_NOT_AT_LOCATION_BY_TIME</Position>
+      <TranslationSet>
+        <base loc="en">Notify %1$@ when I am not at %2$@ by %3$@.</base>
+        <tran loc="ar">أعلِم %1$@ عندما لا أكون في %2$@ في غضون %3$@.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>FENCE_NOTIFY_FRIEND_WHEN_I_AM_NOT_AT_LOCATION_BY_TIME_EVERY_DAY</Position>
+      <TranslationSet>
+        <base loc="en">Notify %1$@ when I am not at %2$@ by %3$@.</base>
+        <tran loc="ar">أعلِم %1$@ عندما لا أكون في %2$@ في غضون %3$@.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>FENCE_TRIGGERED_YOU_LEFT</Position>
+      <TranslationSet>
+        <base loc="en">%1$@ was notified that you left %2$@.</base>
+        <tran loc="ar">تم إعلام %1$@ بأنك غادرت %2$@.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>FENCE_NOTIFY_FRIEND_WHEN_I_AM_NOT_AT_LOCATION_BY_TIME_ON_DAYSLIST</Position>
+      <TranslationSet>
+        <base loc="en">Notify %1$@ when I am not at %2$@ by %3$@, %4$@.</base>
+        <tran loc="ar">أعلِم %1$@ عندما لا أكون في %2$@ في غضون %3$@، %4$@.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>FENCE_FRIEND_WILL_BE_NOTIFIED_WHEN_YOU_LEAVE_LOCATION_EVERY_TIME</Position>
+      <TranslationSet>
+        <base loc="en">%1$@ will be notified when you leave %2$@ every time.</base>
+        <tran loc="ar">سيتم إعلام %1$@ كلما غادرتَ %2$@.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>FENCE_NOTIFICATION_LOCATION_AND_SCHEDULE_BETWEEN_TIMES</Position>
+      <TranslationSet>
+        <base loc="en">%1$@ between %2$@ and %3$@</base>
+        <tran loc="ar">‏%1$@ من %2$@ إلى %3$@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DAYSLIST_CONTIGUOUS_3</Position>
+      <TranslationSet>
+        <base loc="en">%1$@ to %2$@</base>
+        <tran loc="ar">‏%1$@ إلى %2$@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DAYSLIST_CONTIGUOUS_4</Position>
+      <TranslationSet>
+        <base loc="en">%1$@ to %2$@</base>
+        <tran loc="ar">‏%1$@ إلى %2$@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DAYSLIST_CONTIGUOUS_5</Position>
+      <TranslationSet>
+        <base loc="en">%1$@ to %2$@</base>
+        <tran loc="ar">‏%1$@ إلى %2$@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DAYSLIST_CONTIGUOUS_6</Position>
+      <TranslationSet>
+        <base loc="en">%1$@ to %2$@</base>
+        <tran loc="ar">‏%1$@ إلى %2$@</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>FindMyFriends/System/Library/PrivateFrameworks/FMF.framework/en.lproj/Localizable.strings</Filepath>
+    <TextItem>
+      <Description> localizedNotificationStringForFollower: </Description>
+      <Position>FENCE_NOTIFY_FRIEND_WHEN_I_ARRIVE_AT_LOCATION</Position>
+      <TranslationSet>
+        <base loc="en">Notify %1$@ when I arrive at %2$@.</base>
+        <tran loc="ar">أعلِم %1$@ عندما أصل إلى %2$@.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>LOCATION_AGE_MINUTES</Position>
+      <TranslationSet>
+        <base loc="en">‎%@m ago</base>
+        <tran loc="ar">منذ %@ دقيقة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Home - 30s ago </Description>
+      <Position>LOCATION_LABEL_WITH_AGE</Position>
+      <TranslationSet>
+        <base loc="en">‎%1$@ – %2$@</base>
+        <tran loc="ar">‏%1$@ - ‏%2$@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>_$!&lt;work&gt;!$_</Position>
+      <TranslationSet>
+        <base loc="en">Work</base>
+        <tran loc="ar">العمل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>FENCE_NOTIFY_FRIEND_WHEN_I_LEAVE_LOCATION_EVERY_TIME</Position>
+      <TranslationSet>
+        <base loc="en">Notify %1$@ when I leave %2$@ every time.</base>
+        <tran loc="ar">أعلِم %1$@ عندما أغادر %2$@ كل مرة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ME_ALERT_EXISTING_MESSAGE_HAS_ME</Position>
+      <TranslationSet>
+        <base loc="en">You are currently using “%@” to share your location in Find My and Messages.</base>
+        <tran loc="ar">أنت تستخدم حاليًا \"%@\" لمشاركة موقعك في Find My و"الرسائل".</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>_$!&lt;school&gt;!$_</Position>
+      <TranslationSet>
+        <base loc="en">School</base>
+        <tran loc="ar">المدرسة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> City, State </Description>
+      <Position>CITY_STATE_LABEL</Position>
+      <TranslationSet>
+        <base loc="en">%1$@, %2$@</base>
+        <tran loc="ar">‏%1$@، ‏%2$@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SIGN_IN</Position>
+      <TranslationSet>
+        <base loc="en">Sign In</base>
+        <tran loc="ar">تسجيل الدخول</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 
+  Localizable.strings
+  FindMyFriends
+
+  Created by Ravi Yadav on 3/27/14.
+  Copyright (c) 2014 Apple Inc. All rights reserved.
+</Description>
+      <Position>SHARE_MY_LOCATION</Position>
+      <TranslationSet>
+        <base loc="en">Share My Location</base>
+        <tran loc="ar">مشاركة موقعي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>FENCE_FRIEND_WILL_BE_NOTIFIED_WHEN_YOU_LEAVE_LOCATION</Position>
+      <TranslationSet>
+        <base loc="en">%1$@ will be notified when you leave %2$@.</base>
+        <tran loc="ar">سيتم إبلاغ %1$@ عند مغادرتك من %2$@.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> localizedRequestNotificationStringForFollower: </Description>
+      <Position>FENCE_FRIEND_REQUESTS_NOTIFICATION_WHEN_YOU_ARRIVE_AT_LOCATION</Position>
+      <TranslationSet>
+        <base loc="en">%1$@ would like to be notified when you arrive at %2$@.</base>
+        <tran loc="ar">يرغب %1$@ أن يتم إعلامه عندما تصل إلى %2$@.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> localizedSubtitleString </Description>
+      <Position>FENCE_NOTIFICATION_LOCATION_AND_NEXT_TIME</Position>
+      <TranslationSet>
+        <base loc="en">%1$@</base>
+        <tran loc="ar">%1$@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ALERT_NO_NETWORK_TITLE_AIRPLANE_MODE</Position>
+      <TranslationSet>
+        <base loc="en">Turn Off Airplane Mode or Use Wi-Fi to Access Data</base>
+        <tran loc="ar">أوقف نمط الطيران أو استخدم Wi-Fi للوصول إلى البيانات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>LOCATION_AGE_LESS_THAN_1HR</Position>
+      <TranslationSet>
+        <base loc="en">%@h ago</base>
+        <tran loc="ar">منذ %@ س</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>OK_BUTTON</Position>
+      <TranslationSet>
+        <base loc="en">OK</base>
+        <tran loc="ar">موافق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>OK_BUTTON_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">OK</base>
+        <tran loc="ar">موافق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>WATCH_SHARE_MY_LOCATION_OK_BUTTON</Position>
+      <TranslationSet>
+        <base loc="en">OK</base>
+        <tran loc="ar">موافق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>_$!&lt;gym&gt;!$_</Position>
+      <TranslationSet>
+        <base loc="en">Gym</base>
+        <tran loc="ar">قاعة الرياضة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> localizedWillBeNotifiedStringForFollower: </Description>
+      <Position>FENCE_FRIEND_WILL_BE_NOTIFIED_WHEN_YOU_ARRIVE_AT_LOCATION</Position>
+      <TranslationSet>
+        <base loc="en">%1$@ will be notified when you arrive at %2$@.</base>
+        <tran loc="ar">سيتم إبلاغ %1$@ عند صولك إلى %2$@.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ALERT_NO_NETWORK_MESSAGE_CELLULAR_DISABLED</Position>
+      <TranslationSet>
+        <base loc="en">Turn on cellular data or use Wi-Fi to access data.</base>
+        <tran loc="ar">شغل البيانات الخلوية أو استخدم Wi-Fi للوصول إلى البيانات.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AIR_DROP_OFFER_IMPORTED_ON_MAC_CANCEL_BUTTON_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Cancel</base>
+        <tran loc="ar">إلغاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CANCEL_BUTTON_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Cancel</base>
+        <tran loc="ar">إلغاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> default label keys </Description>
+      <Position>_$!&lt;home&gt;!$_</Position>
+      <TranslationSet>
+        <base loc="en">Home</base>
+        <tran loc="ar">المنزل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>LOCATING</Position>
+      <TranslationSet>
+        <base loc="en">Locating…</base>
+        <tran loc="ar">جاري تحديد الموقع…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>5XX_ON_START_OFFER_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Cannot Share Location</base>
+        <tran loc="ar">لا يمكن مشاركة الموقع</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>MAX_FOLLOWERS_ALERT_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Cannot Share Location</base>
+        <tran loc="ar">لا يمكن مشاركة الموقع</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>NETWORK_OFFLINE_OFFER_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Cannot Share Location</base>
+        <tran loc="ar">لا يمكن مشاركة الموقع</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AIR_DROP_OFFER_IMPORTED_ON_MAC_ICLOUD_LINK_MSG</Position>
+      <TranslationSet>
+        <base loc="en">To see %@’s location, use the Find My app</base>
+        <tran loc="ar">لمعرفة موقع %@، استخدام تطبيق Find My</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AIR_DROP_OFFER_IMPORTED_ON_MAC_MSG</Position>
+      <TranslationSet>
+        <base loc="en">To see %@’s location, use the Find My app</base>
+        <tran loc="ar">لمعرفة موقع %@، استخدام تطبيق Find My</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ME_ALERT_USE_BUTTON_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Use</base>
+        <tran loc="ar">استخدام</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>USE_BUTTON</Position>
+      <TranslationSet>
+        <base loc="en">Use</base>
+        <tran loc="ar">استخدام</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> generic name, same resource is in app</Description>
+      <Position>THIS_DEVICE</Position>
+      <TranslationSet>
+        <base loc="en">This Device</base>
+        <tran loc="ar">هذا الجهاز</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>RESTRICTED_ALERT_TEXT</Position>
+      <TranslationSet>
+        <base loc="en">Share My Location is restricted on this device. Please go to “Settings &gt; Screen Time &gt; Content &amp; Privacy Restrictions” to change the settings</base>
+        <tran loc="ar">ميزة مشاركة موقعي مقيّدة على هذا الجهاز. يرجى الذهاب إلى "الإعدادات &gt; مدة استخدام الجهاز &gt; عام &gt; قيود المحتوى والخصوصية" لتغيير الإعدادات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AIR_DROP_OFFER_IMPORTED_ON_MAC_CLOSE_BUTTON_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Close</base>
+        <tran loc="ar">إغلاق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>FENCE_FRIEND_REQUESTS_NOTIFICATION_WHEN_YOU_LEAVE_LOCATION</Position>
+      <TranslationSet>
+        <base loc="en">%1$@ would like to be notified when you leave %2$@.</base>
+        <tran loc="ar">يرغب %1$@ أن يتم إعلامه عندما تغادر %2$@.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>LOCATION_SHARING_SYSTEM_SERVICE_SWITCH_OFF_MESSAGE</Position>
+      <TranslationSet>
+        <base loc="en">Enable Share My Location in Settings &gt; Apple ID &gt; Find My to use this feature.</base>
+        <tran loc="ar">قم بتمكين مشاركة موقعي في الإعدادات &gt; Apple ID &gt; تحديد الموقع، لاستخدام هذه الميزة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SHARE_MY_LOCATION_ICLOUD_SETTINGS_OFF_MESSAGE</Position>
+      <TranslationSet>
+        <base loc="en">Enable Share My Location in Settings &gt; Apple ID &gt; Find My to use this feature.</base>
+        <tran loc="ar">قم بتمكين مشاركة موقعي في الإعدادات &gt; Apple ID &gt; تحديد الموقع، لاستخدام هذه الميزة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AIR_DROP_OFFER_IMPORT_MAC_NO_ACCOUNT_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Sign in to iCloud to view shared locations</base>
+        <tran loc="ar">تسجيل الدخول إلى iCloud لعرض المواقع المشتركة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>FORBIDDEN_REGION_ALERT_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Share My Location Unavailable</base>
+        <tran loc="ar">مشاركة موقعي غير متوفر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Error Alert </Description>
+      <Position>GENERIC_ALERT_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Share My Location Unavailable</base>
+        <tran loc="ar">مشاركة موقعي غير متوفر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Error Alert </Description>
+      <Position>GENERIC_ERROR_ALERT_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Share My Location Unavailable</base>
+        <tran loc="ar">مشاركة موقعي غير متوفر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Share My Location Watch </Description>
+      <Position>WATCH_SHARE_MY_LOCATION_GENERIC_ALERT_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Share My Location Unavailable</base>
+        <tran loc="ar">مشاركة موقعي غير متوفر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ME_ALERT_NOT_NOW_BUTTON_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Not Now</base>
+        <tran loc="ar">ليس الآن</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>NOT_NOW_BUTTON</Position>
+      <TranslationSet>
+        <base loc="en">Not Now</base>
+        <tran loc="ar">ليس الآن</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>FENCE_GENERIC_FRIEND</Position>
+      <TranslationSet>
+        <base loc="en">A friend</base>
+        <tran loc="ar">صديق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>FORBIDDEN_REGION_ALERT_MESSAGE</Position>
+      <TranslationSet>
+        <base loc="en">Share My Location is not available in your current location.</base>
+        <tran loc="ar">مشاركة موقعي غير متوفرة في موقعك الحالي.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>LOCATION_AGE_LESS_THAN_30SECONDS</Position>
+      <TranslationSet>
+        <base loc="en">%@s ago</base>
+        <tran loc="ar">منذ %@ ث</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AIR_DROP_OFFER_IMPORTED_ON_MAC_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">%@ started sharing location with you.</base>
+        <tran loc="ar">بدأ %@ في مشاركة الموقع معك.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>NOT_LOGGED_INTO_ICLOUD_ALERT_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Sign In to iCloud to Share Your Location</base>
+        <tran loc="ar">قم بتسجيل الدخول لـ iCloud لمشاركة موقعك</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ALERT_NO_NETWORK_TITLE_NO_INTERNET</Position>
+      <TranslationSet>
+        <base loc="en">Your Device Is Not Connected to the Internet</base>
+        <tran loc="ar">جهازك ليس متصلاً بالإنترنت</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>RESTRICTED_ALERT_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Share My Location Restricted</base>
+        <tran loc="ar">مشاركة موقعي مقيّد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>5XX_ON_STOP_OFFER_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Cannot Stop Sharing Location</base>
+        <tran loc="ar">لا يمكن إيقاف مشاركة الموقع</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>NETWORK_OFFLINE_STOP_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Cannot Stop Sharing Location</base>
+        <tran loc="ar">لا يمكن إيقاف مشاركة الموقع</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>FENCE_NOTIFY_FRIEND_WHEN_I_LEAVE_LOCATION</Position>
+      <TranslationSet>
+        <base loc="en">Notify %1$@ when I leave %2$@.</base>
+        <tran loc="ar">أعلِم %1$@ عندما أغادر %2$@.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>GLOBAL_LOCATION_SERVICES_SWITCH_OFF_MESSAGE</Position>
+      <TranslationSet>
+        <base loc="en">Enable Location Services in Settings &gt; Privacy &gt; Location Services to use this feature.</base>
+        <tran loc="ar">قم بتمكين خدمات الموقع في الإعدادات &gt; الخصوصية &gt; خدمات الموقع لاستخدام هذه الميزة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>THIS_DEVICE_ACTIVE_ALERT_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">This Device Active</base>
+        <tran loc="ar">هذا الجهاز نشط</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 1: Device Name </Description>
+      <Position>SWITCH_ME_DEVICE_ALERT_MESSAGE</Position>
+      <TranslationSet>
+        <base loc="en">You are currently using “%@” to share your location in Find My, Messages, for personal requests on HomePod, and in automations in the Home app.</base>
+        <tran loc="ar">أنت تستخدم حاليًا "%@" لمشاركة موقعك في Find My و"الرسائل" وللطلبات الشخصية على HomePod ولإجراء عمليات التحكم التلقائي في تطبيق المنزل.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>GLOBAL_LOCATION_SERVICES_SWITCH_OFF_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Location Services Disabled</base>
+        <tran loc="ar">تم إيقاف خدمات الموقع</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>MAX_FOLLOWERS_ALERT_MESSAGE</Position>
+      <TranslationSet>
+        <base loc="en">You’ve reached the maximum number of followers.</base>
+        <tran loc="ar">لقد وصلت الحد الأقصى لعدد المتابعين.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ME_ALERT_EXISTING_MESSAGE_NO_ME</Position>
+      <TranslationSet>
+        <base loc="en">None of your devices are currently being used to share your location.</base>
+        <tran loc="ar">لا يوجد أي من أجهزتك مُستخدم لمشاركة موقعك حاليًا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SWITCH_ME_DEVICE_ALERT_NO_ME_DEVICE_MESSAGE</Position>
+      <TranslationSet>
+        <base loc="en">None of your devices are currently being used to share your location.</base>
+        <tran loc="ar">لا يوجد أي من أجهزتك مُستخدم لمشاركة موقعك حاليًا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UPSELL_ICLOUD_ALERT_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Sign In to iCloud to View Shared Locations</base>
+        <tran loc="ar">قم بتسجيل الدخول إلى iCloud لعرض المواقع المشتركة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>NOT_LOGGED_INTO_ICLOUD_ALERT_MESSAGE</Position>
+      <TranslationSet>
+        <base loc="en">You can set up your iCloud account in Settings.</base>
+        <tran loc="ar">يمكنك إعداد حساب iCloud الخاص بك في الإعدادات.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>NETWORK_OFFLINE_STOP_MESSAGE</Position>
+      <TranslationSet>
+        <base loc="en">You must be connected to the Internet to stop sharing your location.</base>
+        <tran loc="ar">يجب أن تكون متصلاً بالإنترنت لإيقاف مشاركة موقعك.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>THIS_DEVICE_ACTIVE_ALERT_TEXT</Position>
+      <TranslationSet>
+        <base loc="en">Location of this device is now being shared.</base>
+        <tran loc="ar">يجري حاليًا مشاركة موقع هذا الجهاز.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Location Age </Description>
+      <Position>LOCATION_AGE_NOW</Position>
+      <TranslationSet>
+        <base loc="en">Now</base>
+        <tran loc="ar">الآن</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AIR_DROP_OFFER_IMPORT_MAC_NO_ACCOUNT_SYSTEM_PREFERENCES</Position>
+      <TranslationSet>
+        <base loc="en">Open System Preferences</base>
+        <tran loc="ar">فتح تفضيلات النظام</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>5XX_ON_START_OFFER_MESSAGE</Position>
+      <TranslationSet>
+        <base loc="en">Unable to connect to server. Please try again later.</base>
+        <tran loc="ar">تعذر الاتصال بالخادم. الرجاء المحاولة مرة أخرى لاحقًا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>5XX_ON_STOP_OFFER_MESSAGE</Position>
+      <TranslationSet>
+        <base loc="en">Unable to connect to server. Please try again later.</base>
+        <tran loc="ar">تعذر الاتصال بالخادم. الرجاء المحاولة مرة أخرى لاحقًا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>GENERIC_ALERT_TEXT</Position>
+      <TranslationSet>
+        <base loc="en">Unable to connect to server. Please try again later.</base>
+        <tran loc="ar">تعذر الاتصال بالخادم. الرجاء المحاولة مرة أخرى لاحقًا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>GENERIC_ERROR_ALERT_TEXT</Position>
+      <TranslationSet>
+        <base loc="en">Unable to connect to server. Please try again later.</base>
+        <tran loc="ar">تعذر الاتصال بالخادم. الرجاء المحاولة مرة أخرى لاحقًا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>WATCH_SHARE_MY_LOCATION_GENERIC_ALERT_TEXT</Position>
+      <TranslationSet>
+        <base loc="en">Unable to connect to server. Please try again later.</base>
+        <tran loc="ar">تعذر الاتصال بالخادم. الرجاء المحاولة مرة أخرى لاحقًا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> String for when there is no location name </Description>
+      <Position>FENCE_GENERIC_LOCATION</Position>
+      <TranslationSet>
+        <base loc="en">a location</base>
+        <tran loc="ar">موقع</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>LOCATION_AGE_MORE_THAN_1HR</Position>
+      <TranslationSet>
+        <base loc="en">‎%@h ago</base>
+        <tran loc="ar">منذ %@ ساعة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>LOCATION_NOT_AVAILABLE</Position>
+      <TranslationSet>
+        <base loc="en">Location Not Available</base>
+        <tran loc="ar">الموقع غير متوفر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AIR_DROP_OFFER_IMPORTED_ON_MAC_ICLOUD_LINK_VIEW_ON_ICLOUD_BUTTON_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">View on iCloud.com</base>
+        <tran loc="ar">عرض على iCloud.com</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ADDRESS_UNAVAILABLE</Position>
+      <TranslationSet>
+        <base loc="en">Address Unavailable</base>
+        <tran loc="ar">العنوان غير متوفر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> device type </Description>
+      <Position>ME_ALERT_EXISTING_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Use This Device When Sharing Your Location?</base>
+        <tran loc="ar">استخدام هذا الجهاز عند مشاركة موقعك؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SWITCH_ME_DEVICE_ALERT_NO_ME_DEVICE_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Use This Device When Sharing Your Location?</base>
+        <tran loc="ar">استخدام هذا الجهاز عند مشاركة موقعك؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ALERT_NO_NETWORK_ACTION_BUTTON_SETTINGS</Position>
+      <TranslationSet>
+        <base loc="en">Settings</base>
+        <tran loc="ar">الإعدادات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SETTINGS_BUTTON</Position>
+      <TranslationSet>
+        <base loc="en">Settings</base>
+        <tran loc="ar">الإعدادات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>NETWORK_OFFLINE_OFFER_MESSAGE</Position>
+      <TranslationSet>
+        <base loc="en">You must be connected to the Internet to share your location.</base>
+        <tran loc="ar">يجب أن تكون متصلاً بالإنترنت لمشاركة موقعك.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>FENCE_NOTIFY_FRIEND_WHEN_I_ARRIVE_AT_LOCATION_EVERY_TIME</Position>
+      <TranslationSet>
+        <base loc="en">Notify %1$@ when I arrive at %2$@ every time.</base>
+        <tran loc="ar">أعلِم %1$@ عندما أصل إلى %2$@ كل مرة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>FENCE_NOTIFICATION_LOCATION_AND_EVERY_TIME</Position>
+      <TranslationSet>
+        <base loc="en">%1$@ every time</base>
+        <tran loc="ar">‏%1$@ كل مرة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ALERT_NO_NETWORK_TITLE_CELLULAR_DISABLED</Position>
+      <TranslationSet>
+        <base loc="en">Cellular Data is Turned Off</base>
+        <tran loc="ar">تم إيقاف البيانات الخلوية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AIR_DROP_OFFER_IMPORT_MAC_NO_ACCOUNT_MSG</Position>
+      <TranslationSet>
+        <base loc="en">Your friends are currently sharing locations with you.</base>
+        <tran loc="ar">يقوم أصدقاؤك حاليًا بمشاركة مواقعهم معك.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UPSELL_ICLOUD_ALERT_MESSAGE</Position>
+      <TranslationSet>
+        <base loc="en">Your friends are currently sharing locations with you.</base>
+        <tran loc="ar">يقوم أصدقاؤك حاليًا بمشاركة مواقعهم معك.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>LOCATION_SHARING_SYSTEM_SERVICE_SWITCH_OFF_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Share My Location Disabled</base>
+        <tran loc="ar">تم إيقاف مشاركة موقعي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SHARE_MY_LOCATION_ICLOUD_SETTINGS_OFF_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Share My Location Disabled</base>
+        <tran loc="ar">تم إيقاف مشاركة موقعي</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+</Proj>

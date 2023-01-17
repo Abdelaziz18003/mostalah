@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Proj>
+  <ProjName>VoiceServices</ProjName>
+  <File>
+    <Filepath>VoiceServices/System/Library/PrivateFrameworks/VoiceServices.framework/en.lproj/Interstitials.strings</Filepath>
+    <TextItem>
+      <Description> 
+  Interstitials.strings
+  VoiceServices
+
+  Created by Hepeng Zhang on 2019/8/8.
+  Copyright © 2019 Apple Inc. All rights reserved.
+
+ Network stall retry interstitial. E.g. "Sorry, let me repeat.". This is only placeholder for now.</Description>
+      <Position>Uh-oh. Lost the connection! Let me try that again..._FEMALE</Position>
+      <TranslationSet>
+        <base loc="en">Uh-oh. Lost the connection! Let me try that again...</base>
+        <tran loc="ar">قُطع الاتصال! دعني أحاول مرة أخرى...</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Uh-oh. Lost the connection! Let me try that again..._MALE</Position>
+      <TranslationSet>
+        <base loc="en">Uh-oh. Lost the connection! Let me try that again...</base>
+        <tran loc="ar">قُطع الاتصال! دعني أحاول مرة أخرى...</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+</Proj>

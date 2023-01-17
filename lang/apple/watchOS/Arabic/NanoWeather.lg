@@ -1,0 +1,4266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Proj>
+  <ProjName>NanoWeather</ProjName>
+  <File>
+    <Filepath>NanoWeather/System/Library/Assistant/NanoUIPlugins/NanoWeatherSiriUI.bundle/en.lproj/NWSiriUILocalizable.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>HOURLY_TEMPERATURE</Position>
+      <TranslationSet>
+        <base loc="en">Hourly Temperature</base>
+        <tran loc="ar">درجة الحرارة كل ساعة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Hourly Forecast </Description>
+      <Position>HOURLY_CONDITIONS</Position>
+      <TranslationSet>
+        <base loc="en">Hourly Conditions</base>
+        <tran loc="ar">الأحوال كل ساعة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>H</Position>
+      <TranslationSet>
+        <base loc="en">H</base>
+        <tran loc="ar">ع</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 
+  NWSiriUI.strings
+  WeatherSiriUI
+
+  Created by John Archibald on 4/28/15.
+  Copyright © 2015 Apple. All rights reserved.
+
+ Current Conditions </Description>
+      <Position>L</Position>
+      <TranslationSet>
+        <base loc="en">L</base>
+        <tran loc="ar">ص</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CURRENT_DAY_SHORT</Position>
+      <TranslationSet>
+        <base loc="en">TODAY</base>
+        <tran loc="ar">اليوم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 10 Day Forecast </Description>
+      <Position>TEN_DAY_FORECAST_SUBHEAD</Position>
+      <TranslationSet>
+        <base loc="en">10 Day Forecast</base>
+        <tran loc="ar">التوقعات خلال ١٠ أيام</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>HOURLY_PRECIPITATION</Position>
+      <TranslationSet>
+        <base loc="en">Hourly Precipitation</base>
+        <tran loc="ar">فرصة هطول المطر كل ساعة</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>NanoWeather/System/Library/PrivateFrameworks/NanoWeatherKit.framework/en.lproj/Wind.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>S</Position>
+      <TranslationSet>
+        <base loc="en">S</base>
+        <tran loc="ar">ج</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>NE</Position>
+      <TranslationSet>
+        <base loc="en">NE</base>
+        <tran loc="ar">ش ق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Direction Long</Description>
+      <Position>N_LONG</Position>
+      <TranslationSet>
+        <base loc="en">north</base>
+        <tran loc="ar">شمال</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>W</Position>
+      <TranslationSet>
+        <base loc="en">W</base>
+        <tran loc="ar">غ</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SSE</Position>
+      <TranslationSet>
+        <base loc="en">SSE</base>
+        <tran loc="ar">ج ج ق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SSE_COMPACT</Position>
+      <TranslationSet>
+        <base loc="en">SSE</base>
+        <tran loc="ar">ج ج ق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SW</Position>
+      <TranslationSet>
+        <base loc="en">SW</base>
+        <tran loc="ar">ج غ</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ESE</Position>
+      <TranslationSet>
+        <base loc="en">ESE</base>
+        <tran loc="ar">ق ج ق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ESE_COMPACT</Position>
+      <TranslationSet>
+        <base loc="en">ESE</base>
+        <tran loc="ar">ق ج ق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ESE_LONG</Position>
+      <TranslationSet>
+        <base loc="en">southeast</base>
+        <tran loc="ar">جنوب شرق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SE_LONG</Position>
+      <TranslationSet>
+        <base loc="en">southeast</base>
+        <tran loc="ar">جنوب شرق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SSE_LONG</Position>
+      <TranslationSet>
+        <base loc="en">southeast</base>
+        <tran loc="ar">جنوب شرق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>WNW</Position>
+      <TranslationSet>
+        <base loc="en">WNW</base>
+        <tran loc="ar">غ ش غ</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>WNW_COMPACT</Position>
+      <TranslationSet>
+        <base loc="en">WNW</base>
+        <tran loc="ar">غ ش غ</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>NNE</Position>
+      <TranslationSet>
+        <base loc="en">NNE</base>
+        <tran loc="ar">ش ش ق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description>
+ 
+* Following are used in tight places; try to find an abbreviation of three characters or less.
+ 
+* If abbreviation is greater than three characters, we will hide it and use wind compass only.
+ </Description>
+      <Position>NNE_COMPACT</Position>
+      <TranslationSet>
+        <base loc="en">NNE</base>
+        <tran loc="ar">ش ش ق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>E_LONG</Position>
+      <TranslationSet>
+        <base loc="en">east</base>
+        <tran loc="ar">شرق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ENE_LONG</Position>
+      <TranslationSet>
+        <base loc="en">northeast</base>
+        <tran loc="ar">شمال شرق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>NE_LONG</Position>
+      <TranslationSet>
+        <base loc="en">northeast</base>
+        <tran loc="ar">شمال شرق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>NNE_LONG</Position>
+      <TranslationSet>
+        <base loc="en">northeast</base>
+        <tran loc="ar">شمال شرق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 
+  Wind.strings
+  NanoWeather
+
+  Created by Todd Grooms on 10/18/18.
+  Copyright © 2018 Apple Inc. All rights reserved.
+
+ Direction</Description>
+      <Position>N</Position>
+      <TranslationSet>
+        <base loc="en">N</base>
+        <tran loc="ar">ش</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>NW</Position>
+      <TranslationSet>
+        <base loc="en">NW</base>
+        <tran loc="ar">ش غ</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SE</Position>
+      <TranslationSet>
+        <base loc="en">SE</base>
+        <tran loc="ar">ج ق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Speed Unit
+ Default windspeed is kilometers per hour</Description>
+      <Position>DEFAULT_WINDSPEED_UNIT</Position>
+      <TranslationSet>
+        <base loc="en">km/h</base>
+        <tran loc="ar">كم/س</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SSW</Position>
+      <TranslationSet>
+        <base loc="en">SSW</base>
+        <tran loc="ar">ج ج غ</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SSW_COMPACT</Position>
+      <TranslationSet>
+        <base loc="en">SSW</base>
+        <tran loc="ar">ج ج غ</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>E</Position>
+      <TranslationSet>
+        <base loc="en">E</base>
+        <tran loc="ar">ق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>NNW</Position>
+      <TranslationSet>
+        <base loc="en">NNW</base>
+        <tran loc="ar">ش ش غ</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>NNW_COMPACT</Position>
+      <TranslationSet>
+        <base loc="en">NNW</base>
+        <tran loc="ar">ش ش غ</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>NNW_LONG</Position>
+      <TranslationSet>
+        <base loc="en">northwest</base>
+        <tran loc="ar">شمال غرب</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>NW_LONG</Position>
+      <TranslationSet>
+        <base loc="en">northwest</base>
+        <tran loc="ar">شمال غرب</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>WNW_LONG</Position>
+      <TranslationSet>
+        <base loc="en">northwest</base>
+        <tran loc="ar">شمال غرب</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>S_LONG</Position>
+      <TranslationSet>
+        <base loc="en">south</base>
+        <tran loc="ar">جنوب</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SSW_LONG</Position>
+      <TranslationSet>
+        <base loc="en">southwest</base>
+        <tran loc="ar">جنوب غرب</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SW_LONG</Position>
+      <TranslationSet>
+        <base loc="en">southwest</base>
+        <tran loc="ar">جنوب غرب</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>WSW_LONG</Position>
+      <TranslationSet>
+        <base loc="en">southwest</base>
+        <tran loc="ar">جنوب غرب</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ENE</Position>
+      <TranslationSet>
+        <base loc="en">ENE</base>
+        <tran loc="ar">ق ش ق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ENE_COMPACT</Position>
+      <TranslationSet>
+        <base loc="en">ENE</base>
+        <tran loc="ar">ق ش ق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>WSW</Position>
+      <TranslationSet>
+        <base loc="en">WSW</base>
+        <tran loc="ar">غ ج غ</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>WSW_COMPACT</Position>
+      <TranslationSet>
+        <base loc="en">WSW</base>
+        <tran loc="ar">غ ج غ</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>W_LONG</Position>
+      <TranslationSet>
+        <base loc="en">west</base>
+        <tran loc="ar">غرب</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>NanoWeather/System/Library/RelevanceEngine/DataSources/RelevanceEngineWeather.bundle/en.lproj/Localizable.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>LOCATION_UNRESOLVED</Position>
+      <TranslationSet>
+        <base loc="en">Local Weather</base>
+        <tran loc="ar">الطقس المحلي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AIR_QUALITY_INDEX</Position>
+      <TranslationSet>
+        <base loc="en">Air Quality Index</base>
+        <tran loc="ar">مؤشر جودة الهواء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>LOCATION_NODATA</Position>
+      <TranslationSet>
+        <base loc="en">Weather</base>
+        <tran loc="ar">الطقس</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 
+  Localizable.strings
+  WeatherSiriFaceDataSource
+
+  Created by Todd Grooms on 10/10/18.
+  Copyright © 2018 Apple Inc. All rights reserved.
+</Description>
+      <Position>SAMPLE_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Lafayette</base>
+        <tran loc="ar">الرياض</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>NanoWeather/System/Library/PreferenceBundles/NanoWeatherSettings.bundle/en.lproj/WeatherSettings.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>REGION_SECTION_TEMPERATURE_UNIT_ROW_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Temperature Unit</base>
+        <tran loc="ar">وحدة درجة الحرارة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>COMPLICATION_SECTION_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Complication</base>
+        <tran loc="ar">الإضافة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 
+  WeatherSettings.strings
+  NanoWeather
+
+  Created by Todd Grooms on 1/29/19.
+  Copyright © 2019 Apple Inc. All rights reserved.
+</Description>
+      <Position>STATUS_BAR_TITLE_WEATHER</Position>
+      <TranslationSet>
+        <base loc="en">Weather</base>
+        <tran loc="ar">الطقس</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>COMPLICATION_SECTION_DEFAULT_CITY_ROW_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Default City</base>
+        <tran loc="ar">المدينة الافتراضية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Section Title for Region settings; where user can change temperature unit</Description>
+      <Position>REGION_SECTION_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Region</base>
+        <tran loc="ar">المنطقة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>COMPLICATION_SECTION_FOOTER</Position>
+      <TranslationSet>
+        <base loc="en">Choose which city's weather you would like to see in watch face complications.</base>
+        <tran loc="ar">اختر طقس المدينة الذي ترغب في رؤيته في إضافات واجهة الساعة.</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>NanoWeather/System/Library/PrivateFrameworks/NanoWeatherKit.framework/en.lproj/Localizable.strings</Filepath>
+    <TextItem>
+      <Description> Use two spaces between the high temperature and the low (L) prefix</Description>
+      <Position>WEATHER_HIGH_LOW</Position>
+      <TranslationSet>
+        <base loc="en">H:%@  L:%@</base>
+        <tran loc="ar">ع: %@‎  ص: %@‎</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>WEATHER_LOW</Position>
+      <TranslationSet>
+        <base loc="en">L: %@</base>
+        <tran loc="ar">صغرى: %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Routine Forecast</Description>
+      <Position>ROUTINE_FORECAST_TODAY_PRECIPITATION_EXPECTED</Position>
+      <TranslationSet>
+        <base loc="en">Rain possible</base>
+        <tran loc="ar">احتمال سقوط أمطار</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ROUTINE_FORECAST_TODAY_PRECIPITATION_NOT_EXPECTED</Position>
+      <TranslationSet>
+        <base loc="en">Clear</base>
+        <tran loc="ar">صافٍ</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 
+  WeatherDescriptions.strings
+  NanoWeather
+
+  Created by James Yopp on 4/9/15.
+  Copyright (c) 2015 Apple Inc. All rights reserved.
+
+ High/Low &amp; Precipitation</Description>
+      <Position>WEATHER_HIGH</Position>
+      <TranslationSet>
+        <base loc="en">H: %@</base>
+        <tran loc="ar">عظمى: %@‎</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>WEATHER_PRECIPITATION_PERCENT</Position>
+      <TranslationSet>
+        <base loc="en">Precipitation: %@</base>
+        <tran loc="ar">فرصة هطول المطر: %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Switch to set the way units are displayed with temperature (primarily for Clock face)
+ Default is "0". Set to "1" to showing temperature scale ("°C" or "°F") where design spec and/or space allows (e.g. Large Modular - 2nd line, Small Modular, Small and Long Utility complications) &lt;rdar://problem/22081485&gt;</Description>
+      <Position>WEATHER_PREFER_TEMPERATURE_WITH_UNIT_DISPLAY</Position>
+      <TranslationSet>
+        <base loc="en">0</base>
+        <tran loc="ar">0</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> High°/Low° in English US</Description>
+      <Position>WEATHER_HIGH_LOW_CONDENSED</Position>
+      <TranslationSet>
+        <base loc="en">%1$@/%2$@</base>
+        <tran loc="ar">‏%1$@/%2$@</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>NanoWeather/private/var/staged_system_apps/NanoWeather.app/en.lproj/InfoPlist.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>NSLocationWhenInUseUsageDescription</Position>
+      <TranslationSet>
+        <base loc="en">Your location is used to show local weather in the Weather app and complication.</base>
+        <tran loc="ar">يتم استخدام موقعك لإظهار الطقس المحلي في تطبيق وإضافة الطقس.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 
+  InfoPlist.strings
+  NanoWeather
+
+  Created by James Yopp on 6/25/15.
+  Copyright © 2015 Apple Inc. All rights reserved.
+</Description>
+      <Position>CFBundleDisplayName</Position>
+      <TranslationSet>
+        <base loc="en">Weather</base>
+        <tran loc="ar">الطقس</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CFBundleName</Position>
+      <TranslationSet>
+        <base loc="en">Weather</base>
+        <tran loc="ar">الطقس</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>NanoWeather/System/Library/PrivateFrameworks/NanoWeatherKit.framework/en.lproj/NaturalLanguage.strings</Filepath>
+    <TextItem>
+      <Description> 1 = Condition (Cloudy, Rainy, etc.), 2 = Wind Chill Temperature, 3 = Wind Speed &amp; Unit, 4 = Wind Direction, 5 = Current Temperature, 6 = High Temperature for day </Description>
+      <Position>CONDITION_NOW_WINDCHILL_WIND_IT_IS_CURRENTLY_HIGH_WILL_BE</Position>
+      <TranslationSet>
+        <base loc="en">%1$@ conditions with a wind chill of %2$@ and %3$@ winds out of the %4$@. It’s currently %5$@; the high will be %6$@. </base>
+        <tran loc="ar">‏%1$@ مع برودة رياح تبلغ %2$@ ورياح بسرعة %3$@ تهب من %4$@. درجة الحرارة حاليًا %5$@، وستبلغ العظمى %6$@. </tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 1 = Condition (Cloudy, Rainy, etc.), 2 = Low Temperature for tonight </Description>
+      <Position>CURRENTLY_COMMA_AFTERNOON_SAME</Position>
+      <TranslationSet>
+        <base loc="en">%1$@ currently; the low tonight will be %2$@. </base>
+        <tran loc="ar">%1$@ حاليًا؛ ستكون درجة الحرارة الصغرى الليلة %2$@. </tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 1 = Condition (Cloudy, Rainy, etc.), 2 = Wind Speed &amp; Unit, 3 = Wind Direction, 4 = Low Temperature for tonight </Description>
+      <Position>CONDITION_NOW_WIND_VISIBILITY_AFTERNOON_SAME</Position>
+      <TranslationSet>
+        <base loc="en">%1$@ conditions with %2$@ winds out of the %3$@ and low visibility. The low tonight will be %4$@. </base>
+        <tran loc="ar">‏%1$@ مع رياح بسرعة %2$@ تهب من %3$@ ورؤية منخفضة. ستبلغ درجة الحرارة الصغرى الليلة %4$@. </tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 1 = Condition (Cloudy, Rainy, etc.), 2 = Wind Chill Temperature </Description>
+      <Position>CONDITION_NOW_WINDCHILL_VISIBILITY_</Position>
+      <TranslationSet>
+        <base loc="en">%1$@ conditions with a wind chill of %2$@ and low visibility. </base>
+        <tran loc="ar">‏%1$@ مع برودة رياح تبلغ %2$@ ورؤية منخفضة. </tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 1 = Condition (Cloudy, Rainy, etc.), 2 = Heat Index Temperature, 3 = Low Temperature for tonight </Description>
+      <Position>CONDITION_NOW_HEAT_INDEX_AFTERNOON_SAME</Position>
+      <TranslationSet>
+        <base loc="en">%1$@ conditions with a heat index of %2$@. The low tonight will be %3$@. </base>
+        <tran loc="ar">‏%1$@ مع مؤشر حرارة %2$@. ستبلغ درجة الحرارة الصغرى الليلة %3$@. </tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 1 = Condition (Cloudy, Rainy, etc.), 2 = Wind Speed &amp; Unit, 3 = Wind Direction, 4 = Low Temperature for tonight </Description>
+      <Position>CONDITION_NOW_WIND_AFTERNOON_SAME</Position>
+      <TranslationSet>
+        <base loc="en">%1$@ conditions with %2$@ winds out of the %3$@. The low tonight will be %4$@. </base>
+        <tran loc="ar">‏%1$@ مع رياح بسرعة %2$@ تهب من %3$@. ستكون درجة الحرارة الصغرى الليلة %4$@. </tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 1 = Condition (Cloudy, Rainy, etc.), 2 = High Temperature for day, 3 = Low Temperature for day </Description>
+      <Position>CONDITION_LIKELY_TOMORROW_WITH_HIGH_AND_LOW</Position>
+      <TranslationSet>
+        <base loc="en">%1$@ likely tomorrow with a high of %2$@ and low of %3$@. </base>
+        <tran loc="ar">سيكون %1$@ على الأرجح غدًا مع درجة حرارة عظمى %2$@ ودرجة حرارة صغرى %3$@. </tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 1 = Condition (Cloudy, Rainy, etc.), 2 = High Temperature for day, 3 = Low Temperature for day </Description>
+      <Position>CONDITION_NOW_VISIBILITY_MIDDAY_SAME</Position>
+      <TranslationSet>
+        <base loc="en">%1$@ conditions with low visibility. The high will be %2$@. The low tonight will be %3$@. </base>
+        <tran loc="ar">‏%1$@ مع رؤية منخفضة. ستبلغ درجة الحرارة العظمى %2$@. وستكون الصغرى الليلة %3$@. </tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 1 = Condition (Cloudy, Rainy, etc.), 2 = Wind Chill Temperature, 3 = Wind Speed &amp; Unit, 4 = Wind Direction, 5 = Low Temperature for tonight </Description>
+      <Position>CONDITION_NOW_WINDCHILL_WIND_VISIBILITY_AFTERNOON_SAME</Position>
+      <TranslationSet>
+        <base loc="en">%1$@ conditions with a wind chill of %2$@, %3$@ winds out of the %4$@ and low visibility. The low tonight will be %5$@. </base>
+        <tran loc="ar">‏%1$@ مع برودة رياح تبلغ %2$@، ورياح بسرعة %3$@ تهب من %4$@، ورؤية منخفضة. ستبلغ درجة الحرارة الصغرى الليلة %5$@. </tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 1 = Condition (Cloudy, Rainy, etc.), 2 = Heat Index Temperature, 3 = Condition for tonight, 4 = Low Temperature for tonight </Description>
+      <Position>CONDITION_NOW_HEAT_INDEX_VISIBILITY_AFTERNOON_DIFFERENT</Position>
+      <TranslationSet>
+        <base loc="en">%1$@ conditions with a heat index of %2$@ and low visibility; %3$@ tonight with a low of %4$@. </base>
+        <tran loc="ar">‏%1$@ مع مؤشر حرارة %2$@ ورؤية منخفضة؛ ‏%3$@ الليلة مع درجة حرارة صغرى %4$@. </tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 1 = Condition (Cloudy, Rainy, etc.), 2 = Heat Index Temperature, 3 = Wind Speed &amp; Unit, 4 = Wind Direction, 5 = High Temperature for day, 6 = Condition (Cloudy, Rainy, etc.), 7 = Low Temperature for day </Description>
+      <Position>CONDITION_NOW_HEAT_INDEX_WIND_VISIBILITY_MIDDAY_DIFFERENT</Position>
+      <TranslationSet>
+        <base loc="en">%1$@ conditions with a heat index of %2$@, %3$@ winds out of the %4$@ and low visibility. The high will be %5$@. %6$@ tonight with a low of %7$@. </base>
+        <tran loc="ar">‏%1$@ مع مؤشر حرارة %2$@، ورياح بسرعة %3$@ تهب من %4$@، ورؤية منخفضة. ستبلغ درجة الحرارة العظمى %5$@. و %6$@ الليلة مع درجة حرارة صغرى %7$@. </tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 1 = Condition (Cloudy, Rainy, etc.), 2 = High Temperature for day, 3 = Low Temperature for day </Description>
+      <Position>CURRENTLY_NOW_MIDDAY_SAME</Position>
+      <TranslationSet>
+        <base loc="en">%1$@ currently. The high will be %2$@. The low tonight will be %3$@. </base>
+        <tran loc="ar">%1$@ حاليًا. ستكون درجة الحرارة العظمى %2$@. وستكون درجة الحرارة الصغرى الليلة %3$@. </tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 1 = Condition (Cloudy, Rainy, etc.), 2 = Wind Speed &amp; Unit, 3 = Wind Direction, 4 = Current Temperature, 5 = High Temperature for day </Description>
+      <Position>CONDITION_NOW_WIND_IT_IS_CURRENTLY_HIGH_WILL_BE</Position>
+      <TranslationSet>
+        <base loc="en">%1$@ conditions with %2$@ winds out of the %3$@. It’s currently %4$@; the high will be %5$@. </base>
+        <tran loc="ar">‏%1$@ مع رياح بسرعة %2$@ تهب من %3$@. درجة الحرارة حاليًا %4$@، وستبلغ العظمى %5$@. </tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 1 = Condition (Cloudy, Rainy, etc.), 2 = Heat Index Temperature, 3 = Wind Speed &amp; Unit, 4 = Wind Direction,  </Description>
+      <Position>CONDITION_NOW_HEAT_INDEX_WIND_VISIBILITY_</Position>
+      <TranslationSet>
+        <base loc="en">%1$@ conditions with a heat index of %2$@, %3$@ winds out of the %4$@ and low visibility. </base>
+        <tran loc="ar">‏%1$@ مع مؤشر حرارة %2$@، ورياح بسرعة %3$@ تهب من %4$@، مع رؤية منخفضة. </tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 1 = Condition (Cloudy, Rainy, etc.), 2 = Wind Speed &amp; Unit, 3 = Wind Direction, 4 = High Temperature for day, 5 = Condition (Cloudy, Rainy, etc.), 6 = Low Temperature for day </Description>
+      <Position>CONDITION_NOW_WIND_VISIBILITY_MIDDAY_DIFFERENT</Position>
+      <TranslationSet>
+        <base loc="en">%1$@ conditions with %2$@ winds out of the %3$@ and low visibility. The high will be %4$@. %5$@ tonight with a low of %6$@. </base>
+        <tran loc="ar">‏%1$@ مع رياح بسرعة %2$@ تهب من %3$@ ورؤية منخفضة. ستبلغ درجة الحرارة العظمى %4$@. و%5$@ هذه الليلة مع درجة حرارة صغرى %6$@. </tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 1 = Condition (Cloudy, Rainy, etc.), 2 = Wind Chill Temperature, 3 = High Temperature for day, 4 = Low Temperature for day </Description>
+      <Position>CONDITION_NOW_WINDCHILL_MIDDAY_SAME</Position>
+      <TranslationSet>
+        <base loc="en">%1$@ conditions with a wind chill of %2$@. The high will be %3$@. The low tonight will be %4$@. </base>
+        <tran loc="ar">‏%1$@ مع برودة رياح تبلغ %2$@. ستبلغ درجة الحرارة العظمى %3$@، وستكون الصغرى الليلة %4$@. </tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 1 = Condition (Cloudy, Rainy, etc.), 2 = Wind Chill Temperature, 3 = Wind Speed &amp; Unit, 4 = Wind Direction, 5 = Condition for tonight, 6 = Low Temperature for tonight </Description>
+      <Position>CONDITION_NOW_WINDCHILL_WIND_VISIBILITY_AFTERNOON_DIFFERENT</Position>
+      <TranslationSet>
+        <base loc="en">%1$@ conditions with a wind chill of %2$@, %3$@ winds out of the %4$@ and low visibility; %5$@ tonight with a low of %6$@. </base>
+        <tran loc="ar">‏%1$@ مع برودة رياح تبلغ %2$@، ورياح بسرعة %3$@ تهب من %4$@، ورؤية منخفضة؛ الليلة: %5$@، مع درجة حرارة صغرى تبلغ %6$@. </tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 1 = Condition (Cloudy, Rainy, etc.), 2 = Heat Index Temperature, 3 = Wind Speed &amp; Unit, 4 = Wind Direction, 5 = Low Temperature for tonight </Description>
+      <Position>CONDITION_NOW_HEAT_INDEX_WIND_AFTERNOON_SAME</Position>
+      <TranslationSet>
+        <base loc="en">%1$@ conditions with a heat index of %2$@ and %3$@ winds out of the %4$@. The low tonight will be %5$@. </base>
+        <tran loc="ar">‏%1$@ مع مؤشر حرارة %2$@ ورياح بسرعة %3$@ تهب من %4$@. ستبلغ درجة الحرارة الصغرى الليلة %5$@. </tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 1 = Condition (Cloudy, Rainy, etc.), 2 = Wind Chill Temperature, 3 = High Temperature for day, 4 = Condition (Cloudy, Rainy, etc.), 5 = Low Temperature for day </Description>
+      <Position>CONDITION_NOW_WINDCHILL_VISIBILITY_MIDDAY_DIFFERENT</Position>
+      <TranslationSet>
+        <base loc="en">%1$@ conditions with a wind chill of %2$@ and low visibility. The high will be %3$@. %4$@ tonight with a low of %5$@. </base>
+        <tran loc="ar">‏%1$@ مع برودة رياح تبلغ %2$@ ورؤية منخفضة. ستبلغ درجة الحرارة العظمى %3$@. ‏%4$@ الليلة مع درجة حرارة صغرى %5$@. </tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 1 = Condition (Cloudy, Rainy, etc.), 2 = Wind Chill Temperature, 3 = Low Temperature for tonight </Description>
+      <Position>CONDITION_NOW_WINDCHILL_AFTERNOON_SAME</Position>
+      <TranslationSet>
+        <base loc="en">%1$@ conditions with a wind chill of %2$@. The low tonight will be %3$@. </base>
+        <tran loc="ar">‏%1$@ مع برودة رياح تبلغ %2$@. ستبلغ درجة الحرارة الصغرى الليلة %3$@. </tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 1 = Condition (Cloudy, Rainy, etc.), 2 = Wind Chill Temperature, 3 = Wind Speed &amp; Unit, 4 = Wind Direction, 5 = High Temperature for day, 6 = Low Temperature for day </Description>
+      <Position>CONDITION_NOW_WINDCHILL_WIND_MIDDAY_SAME</Position>
+      <TranslationSet>
+        <base loc="en">%1$@ conditions with a wind chill of %2$@ and %3$@ winds out of the %4$@. The high will be %5$@. The low tonight will be %6$@. </base>
+        <tran loc="ar">‏%1$@ مع برودة رياح تبلغ %2$@ ورياح بسرعة %3$@ تهب من %4$@. ستبلغ درجة الحرارة العظمى %5$@. وستكون الصغرى الليلة %6$@. </tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 1 = Condition (Cloudy, Rainy, etc.), 2 = Wind Speed &amp; Unit, 3 = Wind Direction, 4 = Condition for tonight, 5 = Low Temperature for tonight </Description>
+      <Position>CONDITION_NOW_WIND_AFTERNOON_DIFFERENT</Position>
+      <TranslationSet>
+        <base loc="en">%1$@ conditions with %2$@ winds out of the %3$@; %4$@ tonight with a low of %5$@. </base>
+        <tran loc="ar">‏%1$@ مع رياح بسرعة %2$@ تهب من %3$@؛ ‏%4$@ الليلة مع درجة حرارة صغرى %5$@. </tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 1 = Condition (Cloudy, Rainy, etc.), 2 = Heat Index Temperature, 3 = High Temperature for day, 4 = Low Temperature for day </Description>
+      <Position>CONDITION_NOW_HEAT_INDEX_VISIBILITY_MIDDAY_SAME</Position>
+      <TranslationSet>
+        <base loc="en">%1$@ conditions with a heat index of %2$@ and low visibility. The high will be %3$@. The low tonight will be %4$@. </base>
+        <tran loc="ar">‏%1$@ مع مؤشر حرارة %2$@ ورؤية منخفضة. ستبلغ درجة الحرارة العظمى %3$@، وستكون الصغرى الليلة %4$@. </tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 1 = Condition (Cloudy, Rainy, etc.), 2 = Wind Chill Temperature, 3 = Wind Speed &amp; Unit, 4 = Wind Direction, 5 = High Temperature for day, 6 = Condition (Cloudy, Rainy, etc.), 7 = Low Temperature for day </Description>
+      <Position>CONDITION_NOW_WINDCHILL_WIND_VISIBILITY_MIDDAY_DIFFERENT</Position>
+      <TranslationSet>
+        <base loc="en">%1$@ conditions with a wind chill of %2$@, %3$@ winds out of the %4$@ and low visibility. The high will be %5$@. %6$@ tonight with a low of %7$@. </base>
+        <tran loc="ar">‏%1$@ مع برودة رياح تبلغ %2$@، ورياح بسرعة %3$@ تهب من %4$@، ورؤية منخفضة. ستبلغ درجة الحرارة العظمى %5$@. و %6$@ الليلة مع درجة حرارة صغرى %7$@. </tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 1 = Condition (Cloudy, Rainy, etc.), 2 = Wind Chill Temperature, 3 = Current Temperature, 4 = High Temperature for day </Description>
+      <Position>CONDITION_NOW_WINDCHILL_VISIBILITY_IT_IS_CURRENTLY_HIGH_WILL_BE</Position>
+      <TranslationSet>
+        <base loc="en">%1$@ conditions with a wind chill of %2$@ and low visibility. It’s currently %3$@; the high will be %4$@. </base>
+        <tran loc="ar">‏%1$@ مع برودة رياح تبلغ %2$@، ورؤية منخفضة. درجة الحرارة حاليًا %3$@، وستبلغ العظمى %4$@. </tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 1 = Condition (Cloudy, Rainy, etc.), 2 = Wind Speed &amp; Unit, 3 = Wind Direction, 4 = High Temperature for day, 5 = Low Temperature for day </Description>
+      <Position>CONDITION_NOW_WIND_MIDDAY_SAME</Position>
+      <TranslationSet>
+        <base loc="en">%1$@ conditions with %2$@ winds out of the %3$@. The high will be %4$@. The low tonight will be %5$@. </base>
+        <tran loc="ar">‏%1$@ مع رياح بسرعة %2$@ تهب من %3$@. ستكون درجة الحرارة العظمى %4$@. ودرجة الحرارة الصغرى الليلة %5$@. </tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 1 = Condition (Cloudy, Rainy, etc.), 2 = Heat Index Temperature </Description>
+      <Position>CONDITION_NOW_HEAT_INDEX_</Position>
+      <TranslationSet>
+        <base loc="en">%1$@ conditions with a heat index of %2$@. </base>
+        <tran loc="ar">‏%1$@ مع مؤشر حرارة %2$@. </tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 1 = Condition (Cloudy, Rainy, etc.), 2 = Wind Chill Temperature </Description>
+      <Position>CONDITION_NOW_WINDCHILL_</Position>
+      <TranslationSet>
+        <base loc="en">%1$@ conditions with a wind chill of %2$@. </base>
+        <tran loc="ar">‏%1$@ مع برودة رياح تبلغ %2$@. </tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 1 = Condition (Cloudy, Rainy, etc.), 2 = Wind Speed &amp; Unit, 3 = Wind Direction, 4 = High Temperature for day, 5 = Low Temperature for day </Description>
+      <Position>CONDITION_NOW_WIND_VISIBILITY_MIDDAY_SAME</Position>
+      <TranslationSet>
+        <base loc="en">%1$@ conditions with %2$@ winds out of the %3$@ and low visibility. The high will be %4$@. The low tonight will be %5$@. </base>
+        <tran loc="ar">‏%1$@ مع رياح بسرعة %2$@ تهب من %3$@ ورؤية منخفضة. ستبلغ درجة الحرارة العظمى %4$@. ودرجة الحرارة الصغرى الليلة %5$@. </tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 1 = Condition (Cloudy, Rainy, etc.), 2 = Wind Speed &amp; Unit, 3 = Wind Direction,  </Description>
+      <Position>CONDITION_NOW_WIND_</Position>
+      <TranslationSet>
+        <base loc="en">%1$@ conditions with %2$@ winds out of the %3$@. </base>
+        <tran loc="ar">‏%1$@ مع رياح بسرعة %2$@ تهب من %3$@. </tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 1 = Condition (Cloudy, Rainy, etc.), 2 = Heat Index Temperature, 3 = Wind Speed &amp; Unit, 4 = Wind Direction, 5 = High Temperature for day, 6 = Condition (Cloudy, Rainy, etc.), 7 = Low Temperature for day </Description>
+      <Position>CONDITION_NOW_HEAT_INDEX_WIND_MIDDAY_DIFFERENT</Position>
+      <TranslationSet>
+        <base loc="en">%1$@ conditions with a heat index of %2$@ and %3$@ winds out of the %4$@. The high will be %5$@. %6$@ tonight with a low of %7$@. </base>
+        <tran loc="ar">‏%1$@ مع مؤشر حرارة %2$@ ورياح بسرعة %3$@ تهب من %4$@. ستبلغ درجة الحرارة العظمى %5$@. و%6$@ الليلة مع درجة حرارة صغرى %7$@. </tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 1 = Condition (Cloudy, Rainy, etc.), 2 = Current Temperature, 3 = High Temperature for day </Description>
+      <Position>CURRENTLY_NOW_IT_IS_CURRENTLY_HIGH_WILL_BE</Position>
+      <TranslationSet>
+        <base loc="en">%1$@ currently. It’s %2$@; the high will be %3$@. </base>
+        <tran loc="ar">%1$@ حاليًا %2$@؛ ستكون درجة الحرارة العظمى %3$@. </tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 1 = Condition (Cloudy, Rainy, etc.), 2 = Wind Speed &amp; Unit, 3 = Wind Direction, 4 = High Temperature for day, 5 = Condition (Cloudy, Rainy, etc.), 6 = Low Temperature for day </Description>
+      <Position>CONDITION_NOW_WIND_MIDDAY_DIFFERENT</Position>
+      <TranslationSet>
+        <base loc="en">%1$@ conditions with %2$@ winds out of the %3$@. The high will be %4$@. %5$@ tonight with a low of %6$@. </base>
+        <tran loc="ar">‏%1$@ مع رياح بسرعة %2$@ تهب من %3$@. ستكون درجة الحرارة العظمى %4$@. ‏%5$@ الليلة مع درجة حرارة صغرى %6$@. </tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 1 = Condition (Cloudy, Rainy, etc.), 2 = Current Temperature, 3 = High Temperature for day </Description>
+      <Position>CURRENTLY_NOW_IT_IS_CURRENTLY_HIGH_WAS</Position>
+      <TranslationSet>
+        <base loc="en">%1$@ currently. It’s %2$@; the high today was forecast as %3$@. </base>
+        <tran loc="ar">%1$@ حاليًا %2$@؛ درجة الحرارة العظمى اليوم %3$@ وفقًا لما كان متوقعًا. </tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 1 = Condition (Cloudy, Rainy, etc.), 2 = Heat Index Temperature, 3 = Wind Speed &amp; Unit, 4 = Wind Direction, 5 = Current Temperature, 6 = High Temperature for day </Description>
+      <Position>CONDITION_NOW_HEAT_INDEX_WIND_VISIBILITY_IT_IS_CURRENTLY_HIGH_WILL_BE</Position>
+      <TranslationSet>
+        <base loc="en">%1$@ conditions with a heat index of %2$@, %3$@ winds out of the %4$@ and low visibility. It’s currently %5$@; the high will be %6$@. </base>
+        <tran loc="ar">‏%1$@ مع مؤشر حرارة %2$@، ورياح بسرعة %3$@ تهب من %4$@، مع رؤية منخفضة. درجة الحرارة حاليًا %5$@، وستبلغ العظمى %6$@. </tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 1 = Condition (Cloudy, Rainy, etc.), 2 = Wind Speed &amp; Unit, 3 = Wind Direction,  </Description>
+      <Position>CONDITION_NOW_WIND_VISIBILITY_</Position>
+      <TranslationSet>
+        <base loc="en">%1$@ conditions with %2$@ winds out of the %3$@ and low visibility. </base>
+        <tran loc="ar">‏%1$@ مع رياح بسرعة %2$@ تهب من %3$@ ورؤية منخفضة. </tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 1 = Condition (Cloudy, Rainy, etc.), 2 = Heat Index Temperature, 3 = Wind Speed &amp; Unit, 4 = Wind Direction, 5 = Condition for tonight, 6 = Low Temperature for tonight </Description>
+      <Position>CONDITION_NOW_HEAT_INDEX_WIND_AFTERNOON_DIFFERENT</Position>
+      <TranslationSet>
+        <base loc="en">%1$@ conditions with a heat index of %2$@ and %3$@ winds out of the %4$@; %5$@ tonight with a low of %6$@. </base>
+        <tran loc="ar">‏%1$@ مع مؤشر حرارة %2$@ ورياح بسرعة %3$@ تهب من %4$@؛‏ %5$@ الليلة مع درجة حرارة صغرى %6$@. </tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 1 = Condition (Cloudy, Rainy, etc.), 2 = Wind Chill Temperature, 3 = Wind Speed &amp; Unit, 4 = Wind Direction, 5 = Low Temperature for tonight </Description>
+      <Position>CONDITION_NOW_WINDCHILL_WIND_AFTERNOON_SAME</Position>
+      <TranslationSet>
+        <base loc="en">%1$@ conditions with a wind chill of %2$@ and %3$@ winds out of the %4$@. The low tonight will be %5$@. </base>
+        <tran loc="ar">‏%1$@ مع برودة رياح تبلغ %2$@ ورياح بسرعة %3$@ تهب من %4$@. ستبلغ درجة الحرارة الصغرى الليلة %5$@. </tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 1 = Condition (Cloudy, Rainy, etc.), 2 = Heat Index Temperature, 3 = Wind Speed &amp; Unit, 4 = Wind Direction, 5 = Condition for tonight, 6 = Low Temperature for tonight </Description>
+      <Position>CONDITION_NOW_HEAT_INDEX_WIND_VISIBILITY_AFTERNOON_DIFFERENT</Position>
+      <TranslationSet>
+        <base loc="en">%1$@ conditions with a heat index of %2$@, %3$@ winds out of the %4$@ and low visibility; %5$@ tonight with a low of %6$@. </base>
+        <tran loc="ar">‏%1$@ مع مؤشر حرارة %2$@، ورياح بسرعة %3$@ تهب من %4$@، ورؤية منخفضة؛ الليلة: %5$@، مع درجة حرارة صغرى تبلغ %6$@. </tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 1 = Condition (Cloudy, Rainy, etc.), 2 = Wind Chill Temperature, 3 = Condition for tonight, 4 = Low Temperature for tonight </Description>
+      <Position>CONDITION_NOW_WINDCHILL_VISIBILITY_AFTERNOON_DIFFERENT</Position>
+      <TranslationSet>
+        <base loc="en">%1$@ conditions with a wind chill of %2$@ and low visibility; %3$@ tonight with a low of %4$@. </base>
+        <tran loc="ar">‏%1$@ مع برودة رياح تبلغ %2$@ ورؤية منخفضة؛ ‏%3$@ الليلة مع درجة حرارة صغرى %4$@. </tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 1 = Condition (Cloudy, Rainy, etc.), 2 = Wind Chill Temperature, 3 = Wind Speed &amp; Unit, 4 = Wind Direction </Description>
+      <Position>CONDITION_NOW_WINDCHILL_WIND_VISIBILITY_</Position>
+      <TranslationSet>
+        <base loc="en">%1$@ conditions with a wind chill of %2$@, %3$@ winds out of the %4$@ and low visibility. </base>
+        <tran loc="ar">‏%1$@ مع برودة رياح تبلغ %2$@، ورياح بسرعة %3$@ تهب من %4$@، مع رؤية منخفضة. </tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 1 = Condition (Cloudy, Rainy, etc.), 2 = Heat Index Temperature, 3 = Low Temperature for tonight </Description>
+      <Position>CONDITION_NOW_HEAT_INDEX_VISIBILITY_AFTERNOON_SAME</Position>
+      <TranslationSet>
+        <base loc="en">%1$@ conditions with a heat index of %2$@ and low visibility. The low tonight will be %3$@. </base>
+        <tran loc="ar">‏%1$@ مع مؤشر حرارة %2$@ ورؤية منخفضة. ستبلغ درجة الحرارة الصغرى هذه الليلة %3$@. </tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 1 = Condition (Cloudy, Rainy, etc.), 2 = Heat Index Temperature, 3 = Wind Speed &amp; Unit, 4 = Wind Direction, 5 = Current Temperature, 6 = High Temperature for day </Description>
+      <Position>CONDITION_NOW_HEAT_INDEX_WIND_IT_IS_CURRENTLY_HIGH_WILL_BE</Position>
+      <TranslationSet>
+        <base loc="en">%1$@ conditions with a heat index of %2$@ and %3$@ winds out of the %4$@. It’s currently %5$@; the high will be %6$@. </base>
+        <tran loc="ar">‏%1$@ مع مؤشر حرارة %2$@ ورياح بسرعة %3$@ تهب من %4$@. درجة الحرارة حاليًا %5$@، وستبلغ العظمى %6$@. </tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 1 = Condition (Cloudy, Rainy, etc.), 2 = Current Temperature, 3 = High Temperature for day </Description>
+      <Position>CONDITION_NOW_VISIBILITY_IT_IS_CURRENTLY_HIGH_WILL_BE</Position>
+      <TranslationSet>
+        <base loc="en">%1$@ conditions with low visibility. It’s currently %2$@; the high will be %3$@. </base>
+        <tran loc="ar">‏%1$@ مع رؤية منخفضة. درجة الحرارة حاليًا %2$@، وستبلغ العظمى %3$@. </tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 1 = Condition (Cloudy, Rainy, etc.),  </Description>
+      <Position>CONDITION_NOW_VISIBILITY_</Position>
+      <TranslationSet>
+        <base loc="en">%1$@ conditions with low visibility. </base>
+        <tran loc="ar">‏%1$@ مع رؤية منخفضة. </tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 1 = Condition (Cloudy, Rainy, etc.), 2 = Wind Chill Temperature, 3 = Wind Speed &amp; Unit, 4 = Wind Direction, 5 = Condition for tonight, 6 = Low Temperature for tonight </Description>
+      <Position>CONDITION_NOW_WINDCHILL_WIND_AFTERNOON_DIFFERENT</Position>
+      <TranslationSet>
+        <base loc="en">%1$@ conditions with a wind chill of %2$@ and %3$@ winds out of the %4$@; %5$@ tonight with a low of %6$@. </base>
+        <tran loc="ar">‏%1$@ مع برودة رياح تبلغ %2$@ ورياح بسرعة %3$@ تهب من %4$@؛‏ %5$@ الليلة مع درجة حرارة صغرى %6$@. </tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 1 = Condition (Cloudy, Rainy, etc.), 2 = Wind Chill Temperature, 3 = Current Temperature, 4 = High Temperature for day </Description>
+      <Position>CONDITION_NOW_WINDCHILL_IT_IS_CURRENTLY_HIGH_WILL_BE</Position>
+      <TranslationSet>
+        <base loc="en">%1$@ conditions with a wind chill of %2$@. It’s currently %3$@; the high will be %4$@. </base>
+        <tran loc="ar">‏%1$@ مع برودة رياح تبلغ %2$@. درجة الحرارة حاليًا %3$@، وستبلغ العظمى %4$@. </tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 1 = Condition (Cloudy, Rainy, etc.), 2 = Heat Index Temperature, 3 = High Temperature for day, 4 = Low Temperature for day </Description>
+      <Position>CONDITION_NOW_HEAT_INDEX_MIDDAY_SAME</Position>
+      <TranslationSet>
+        <base loc="en">%1$@ conditions with a heat index of %2$@. The high will be %3$@. The low tonight will be %4$@. </base>
+        <tran loc="ar">‏%1$@ مع مؤشر حرارة %2$@. ستبلغ درجة الحرارة العظمى %3$@، وستكون الصغرى الليلة %4$@. </tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 1 = Condition (Cloudy, Rainy, etc.), 2 = Wind Chill Temperature, 3 = Wind Speed &amp; Unit, 4 = Wind Direction, 5 = High Temperature for day, 6 = Low Temperature for day </Description>
+      <Position>CONDITION_NOW_WINDCHILL_WIND_VISIBILITY_MIDDAY_SAME</Position>
+      <TranslationSet>
+        <base loc="en">%1$@ conditions with a wind chill of %2$@, %3$@ winds out of the %4$@ and low visibility. The high will be %5$@. The low tonight will be %6$@. </base>
+        <tran loc="ar">‏%1$@ مع برودة رياح تبلغ %2$@، ورياح بسرعة @%3$@ تهب من %4$@، ورؤية منخفضة. ستبلغ درجة الحرارة العظمى %5$@. وستكون الصغرى الليلة %6$@. </tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 1 = Condition (Cloudy, Rainy, etc.), 2 = Wind Speed &amp; Unit, 3 = Wind Direction, 4 = Condition for tonight, 5 = Low Temperature for tonight </Description>
+      <Position>CONDITION_NOW_WIND_VISIBILITY_AFTERNOON_DIFFERENT</Position>
+      <TranslationSet>
+        <base loc="en">%1$@ conditions with %2$@ winds out of the %3$@ and low visibility; %4$@ tonight with a low of %5$@. </base>
+        <tran loc="ar">‏%1$@ مع رياح بسرعة %2$@ تهب من %3$@ ورؤية منخفضة؛ ‏%4$@ الليلة مع درجة حرارة صغرى ‏%5$@. </tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 1 = Condition (Cloudy, Rainy, etc.), 2 = Wind Chill Temperature, 3 = Low Temperature for tonight </Description>
+      <Position>CONDITION_NOW_WINDCHILL_VISIBILITY_AFTERNOON_SAME</Position>
+      <TranslationSet>
+        <base loc="en">%1$@ conditions with a wind chill of %2$@ and low visibility. The low tonight will be %3$@. </base>
+        <tran loc="ar">‏%1$@ مع برودة رياح تبلغ %2$@ ورؤية منخفضة. ستبلغ درجة الحرارة الصغرى هذه الليلة %3$@. </tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 1 = Condition (Cloudy, Rainy, etc.), 2 = Wind Chill Temperature, 3 = Wind Speed &amp; Unit, 4 = Wind Direction, 5 = Current Temperature, 6 = High Temperature for day </Description>
+      <Position>CONDITION_NOW_WINDCHILL_WIND_VISIBILITY_IT_IS_CURRENTLY_HIGH_WILL_BE</Position>
+      <TranslationSet>
+        <base loc="en">%1$@ conditions with a wind chill of %2$@, %3$@ winds out of the %4$@ and low visibility. It’s currently %5$@; the high will be %6$@. </base>
+        <tran loc="ar">‏%1$@ مع برودة رياح تبلغ %2$@، ورياح بسرعة %3$@ تهب من %4$@، مع رؤية منخفضة. درجة الحرارة حاليًا %5$@، وستبلغ العظمى %6$@. </tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 1 = Condition (Cloudy, Rainy, etc.), 2 = Heat Index Temperature, 3 = Current Temperature, 4 = High Temperature for day </Description>
+      <Position>CONDITION_NOW_HEAT_INDEX_IT_IS_CURRENTLY_HIGH_WILL_BE</Position>
+      <TranslationSet>
+        <base loc="en">%1$@ conditions with a heat index of %2$@. It’s currently %3$@; the high will be %4$@. </base>
+        <tran loc="ar">‏%1$@ مع مؤشر حرارة %2$@. درجة الحرارة حاليًا %3$@، وستبلغ العظمى %4$@. </tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 1 = Condition (Cloudy, Rainy, etc.), 2 = Condition for tonight, 3 = Low Temperature for tonight </Description>
+      <Position>CURRENTLY_COMMA_AFTERNOON_DIFFERENT</Position>
+      <TranslationSet>
+        <base loc="en">%1$@ currently; %2$@ tonight with a low of %3$@. </base>
+        <tran loc="ar">%1$@ حاليًا؛ %2$@ الليلة مع درجة حرارة صغرى %3$@. </tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 1 = Condition (Cloudy, Rainy, etc.), 2 = Condition for tonight, 3 = Low Temperature for tonight </Description>
+      <Position>CONDITION_NOW_VISIBILITY_AFTERNOON_DIFFERENT</Position>
+      <TranslationSet>
+        <base loc="en">%1$@ conditions with low visibility; %2$@ tonight with a low of %3$@. </base>
+        <tran loc="ar">‏%1$@ مع رؤية منخفضة؛ %2$@ الليلة مع درجة حرارة صغرى %3$@. </tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 1 = Condition (Cloudy, Rainy, etc.), 2 = Heat Index Temperature, 3 = Condition for tonight, 4 = Low Temperature for tonight </Description>
+      <Position>CONDITION_NOW_HEAT_INDEX_AFTERNOON_DIFFERENT</Position>
+      <TranslationSet>
+        <base loc="en">%1$@ conditions with a heat index of %2$@; %3$@ tonight with a low of %4$@. </base>
+        <tran loc="ar">‏%1$@ مع مؤشر حرارة %2$@؛ ‏%3$@ الليلة مع درجة حرارة صغرى %4$@. </tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 1 = Condition (Cloudy, Rainy, etc.), 2 = Wind Chill Temperature, 3 = High Temperature for day, 4 = Condition (Cloudy, Rainy, etc.), 5 = Low Temperature for day </Description>
+      <Position>CONDITION_NOW_WINDCHILL_MIDDAY_DIFFERENT</Position>
+      <TranslationSet>
+        <base loc="en">%1$@ conditions with a wind chill of %2$@. The high will be %3$@. %4$@ tonight with a low of %5$@. </base>
+        <tran loc="ar">‏%1$@ مع برودة رياح تبلغ %2$@. ستبلغ درجة الحرارة العظمى%3$@. و%4$@ الليلة مع درجة حرارة صغرى %5$@. </tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 1 = Condition (Cloudy, Rainy, etc.), 2 = Heat Index Temperature </Description>
+      <Position>CONDITION_NOW_HEAT_INDEX_VISIBILITY_</Position>
+      <TranslationSet>
+        <base loc="en">%1$@ conditions with a heat index of %2$@ and low visibility. </base>
+        <tran loc="ar">‏%1$@ مع مؤشر حرارة %2$@ ورؤية منخفضة. </tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 1 = Condition (Cloudy, Rainy, etc.), 2 = Heat Index Temperature, 3 = Wind Speed &amp; unit, 4 = Wind Direction, 5 = Low Temperature for tonight </Description>
+      <Position>CONDITION_NOW_HEAT_INDEX_WIND_VISIBILITY_AFTERNOON_SAME</Position>
+      <TranslationSet>
+        <base loc="en">%1$@ conditions with a heat index of %2$@, %3$@ winds out of the %4$@ and low visibility. The low tonight will be %5$@. </base>
+        <tran loc="ar">‏%1$@ مع مؤشر حرارة %2$@، ورياح بسرعة %3$@ تهب من %4$@، ورؤية منخفضة. ستبلغ درجة الحرارة الصغرى الليلة %5$@. </tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 1 = Condition (Cloudy, Rainy, etc.), 2 = Current Temperature, 3 = High Temperature for day </Description>
+      <Position>TODAY_CONDITION_IT_IS_CURRENTLY_HIGH_WILL_BE</Position>
+      <TranslationSet>
+        <base loc="en">%1$@ today. It’s currently %2$@; the high will be %3$@. </base>
+        <tran loc="ar">%1$@ اليوم. درجة الحرارة حاليًا %2$@؛ ستكون درجة الحرارة العظمى %3$@. </tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 1 = Condition (Cloudy, Rainy, etc.), 2 = High Temperature for day, 3 = Condition (Cloudy, Rainy, etc.), 4 = Low Temperature for day </Description>
+      <Position>CONDITION_NOW_VISIBILITY_MIDDAY_DIFFERENT</Position>
+      <TranslationSet>
+        <base loc="en">%1$@ conditions with low visibility. The high will be %2$@. %3$@ tonight with a low of %4$@. </base>
+        <tran loc="ar">‏%1$@، مع رؤية منخفضة. ستبلغ درجة الحرارة العظمى %2$@. %3$@ الليلة مع درجة حرارة صغرى %4$@. </tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 1 = Condition (Cloudy, Rainy, etc.), 2 = Wind Chill Temperature, 3 = Wind Speed &amp; Unit, 4 = Wind Direction, 5 = High Temperature for day, 6 = Condition (Cloudy, Rainy, etc.), 7 = Low Temperature for day </Description>
+      <Position>CONDITION_NOW_WINDCHILL_WIND_MIDDAY_DIFFERENT</Position>
+      <TranslationSet>
+        <base loc="en">%1$@ conditions with a wind chill of %2$@ and %3$@ winds out of the %4$@. The high will be %5$@. %6$@ tonight with a low of %7$@. </base>
+        <tran loc="ar">‏%1$@ مع برودة رياح تبلغ %2$@ ورياح بسرعة %3$@ تهب من %4$@. ستبلغ درجة الحرارة العظمى %5$@. و%6$@ الليلة مع درجة حرارة صغرى %7$@. </tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 1 = Condition (Cloudy, Rainy, etc.), 2 = Low Temperature for tonight </Description>
+      <Position>CONDITION_NOW_VISIBILITY_AFTERNOON_SAME</Position>
+      <TranslationSet>
+        <base loc="en">%1$@ conditions with low visibility. The low tonight will be %2$@. </base>
+        <tran loc="ar">‏%1$@ مع رؤية منخفضة. ستكون درجة الحرارة الصغرى الليلة %2$@. </tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 1 = Condition (Cloudy, Rainy, etc.), 2 = Heat Index Temperature, 3 = High Temperature for day, 4 = Condition (Cloudy, Rainy, etc.), 5 = Low Temperature for day </Description>
+      <Position>CONDITION_NOW_HEAT_INDEX_VISIBILITY_MIDDAY_DIFFERENT</Position>
+      <TranslationSet>
+        <base loc="en">%1$@ conditions with a heat index of %2$@ and low visibility. The high will be %3$@. %4$@ tonight with a low of %5$@. </base>
+        <tran loc="ar">‏%1$@ مع مؤشر حرارة %2$@ ورؤية منخفضة. ستبلغ درجة الحرارة العظمى %3$@. ‏%4$@ الليلة مع درجة حرارة صغرى %5$@. </tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 1 = Condition (Cloudy, Rainy, etc.), 2 = Heat Index Temperature, 3 = High Temperature for day, 4 = Condition (Cloudy, Rainy, etc.), 5 = Low Temperature for day </Description>
+      <Position>CONDITION_NOW_HEAT_INDEX_MIDDAY_DIFFERENT</Position>
+      <TranslationSet>
+        <base loc="en">%1$@ conditions with a heat index of %2$@. The high will be %3$@. %4$@ tonight with a low of %5$@. </base>
+        <tran loc="ar">‏%1$@ مع مؤشر حرارة %2$@. ستبلغ درجة الحرارة العظمى%3$@. و%4$@ الليلة مع درجة حرارة صغرى %5$@. </tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 1 = Condition (Cloudy, Rainy, etc.), 2 = Wind Speed &amp; Unit, 3 = Wind Direction, 4 = Current Temperature, 5 = High Temperature for day </Description>
+      <Position>CONDITION_NOW_WIND_VISIBILITY_IT_IS_CURRENTLY_HIGH_WILL_BE</Position>
+      <TranslationSet>
+        <base loc="en">%1$@ conditions with %2$@ winds out of the %3$@ and low visibility. It’s currently %4$@; the high will be %5$@. </base>
+        <tran loc="ar">‏%1$@ مع رياح بسرعة %2$@ تهب من %3$@ ورؤية منخفضة. درجة الحرارة حاليًا %4$@، وستبلغ العظمى %5$@. </tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 1 = Condition (Cloudy, Rainy, etc.), 2 = Heat Index Temperature, 3 = Wind Speed &amp; Unit, 4 = Wind Direction </Description>
+      <Position>CONDITION_NOW_HEAT_INDEX_WIND_</Position>
+      <TranslationSet>
+        <base loc="en">%1$@ conditions with a heat index of %2$@ and %3$@ winds out of the %4$@. </base>
+        <tran loc="ar">‏%1$@ مع مؤشر حرارة %2$@ ورياح بسرعة %3$@ تهب من %4$@. </tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 1 = Condition (Cloudy, Rainy, etc.), 2 = Wind Chill Temperature, 3 = Condition for tonight, 4 = Low Temperature for tonight </Description>
+      <Position>CONDITION_NOW_WINDCHILL_AFTERNOON_DIFFERENT</Position>
+      <TranslationSet>
+        <base loc="en">%1$@ conditions with a wind chill of %2$@; %3$@ tonight with a low of %4$@. </base>
+        <tran loc="ar">‏%1$@ مع برودة رياح تبلغ %2$@؛ ‏%3$@ الليلة مع درجة حرارة صغرى %4$@. </tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 1 = Condition (Cloudy, Rainy, etc.), 2 = Heat Index Temperature, 3 = Current Temperature, 4 = High Temperature for day </Description>
+      <Position>CONDITION_NOW_HEAT_INDEX_VISIBILITY_IT_IS_CURRENTLY_HIGH_WILL_BE</Position>
+      <TranslationSet>
+        <base loc="en">%1$@ conditions with a heat index of %2$@ and low visibility. It’s currently %3$@; the high will be %4$@. </base>
+        <tran loc="ar">‏%1$@ مع مؤشر حرارة %2$@، ورؤية منخفضة. درجة الحرارة حاليًا %3$@، وستبلغ العظمى %4$@. </tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 1 = Condition (Cloudy, Rainy, etc.), 2 = Heat Index Temperature, 3 = Wind Speed &amp; Unit, 4 = Wind Direction, 5 = High Temperature for day, 6 = Low Temperature for day </Description>
+      <Position>CONDITION_NOW_HEAT_INDEX_WIND_MIDDAY_SAME</Position>
+      <TranslationSet>
+        <base loc="en">%1$@ conditions with a heat index of %2$@ and %3$@ winds out of the %4$@. The high will be %5$@. The low tonight will be %6$@. </base>
+        <tran loc="ar">‏%1$@ مع مؤشر حرارة %2$@ ورياح بسرعة %3$@ تهب من %4$@. ستبلغ درجة الحرارة العظمى %5$@. وستكون الصغرى الليلة %6$@. </tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 1 = Condition (Cloudy, Rainy, etc.), 2 = Wind Chill Temperature, 3 = Wind Speed &amp; Unit, 4 = Wind Direction </Description>
+      <Position>CONDITION_NOW_WINDCHILL_WIND_</Position>
+      <TranslationSet>
+        <base loc="en">%1$@ conditions with a wind chill of %2$@ and %3$@ winds out of the %4$@. </base>
+        <tran loc="ar">‏%1$@ مع برودة رياح تبلغ %2$@ ورياح بسرعة %3$@ تهب من %4$@. </tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 
+  NaturalLanguage.strings
+  NanoWeatherKit
+
+  Created by Todd Grooms on 1/22/19.
+  Copyright © 2019 Apple Inc. All rights reserved.
+
+
+ 
+* NOTE: These strings are lovingly ripped off from WeatherApp; I just updated the format numbers.
+ 
+* https://purplefish.apple.com/index.php?action=search_cached&amp;path=Weather+Framework%2FResources%2Fen.lproj%2FWeatherFrameworkLocalizableStrings.strings&amp;version=WeatherApp-1506&amp;project=WeatherApp&amp;q=MAJOR_EVENT_FORMAT&amp;language=all&amp;index=Yukon
+ </Description>
+      <Position>MAJOR_EVENT_FORMAT</Position>
+      <TranslationSet>
+        <base loc="en">%@ Watch: check your local media for more information.</base>
+        <tran loc="ar">تحذير %@: تحقق من وسائطك المحلية للحصول على المزيد من المعلومات.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 1 = Condition (Cloudy, Rainy, etc.), 2 = High Temperature for day, 3 = Condition (Cloudy, Rainy, etc.), 4 = Low Temperature for day </Description>
+      <Position>CURRENTLY_NOW_MIDDAY_DIFFERENT</Position>
+      <TranslationSet>
+        <base loc="en">%1$@ currently. The high will be %2$@. %3$@ tonight with a low of %4$@. </base>
+        <tran loc="ar">%1$@ حاليًا. ستكون درجة الحرارة العظمى %2$@. %3$@ الليلة مع دردة حرارة صغرى %4$@. </tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 1 = Condition (Cloudy, Rainy, etc.), 2 = Wind Chill Temperature, 3 = High Temperature for day, 4 = Low Temperature for day </Description>
+      <Position>CONDITION_NOW_WINDCHILL_VISIBILITY_MIDDAY_SAME</Position>
+      <TranslationSet>
+        <base loc="en">%1$@ conditions with a wind chill of %2$@ and low visibility. The high will be %3$@. The low tonight will be %4$@. </base>
+        <tran loc="ar">‏%1$@ مع برودة رياح تبلغ %2$@ ورؤية منخفضة. ستبلغ درجة الحرارة العظمى %3$@، وستكون الصغرى الليلة %4$@. </tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 1 = Condition (Cloudy, Rainy, etc.), 2 = Heat Index Temperature, 3 = Wind Speed &amp; Unit, 4 = Wind Direction, 5 = High Temperature for day, 6 = Low Temperature for day </Description>
+      <Position>CONDITION_NOW_HEAT_INDEX_WIND_VISIBILITY_MIDDAY_SAME</Position>
+      <TranslationSet>
+        <base loc="en">%1$@ conditions with a heat index of %2$@, %3$@ winds out of the %4$@ and low visibility. The high will be %5$@. The low tonight will be %6$@. </base>
+        <tran loc="ar">‏%1$@ مع مؤشر حرارة %2$@، ورياح بسرعة @%3$@ تهب من %4$@، ورؤية منخفضة. ستبلغ درجة الحرارة العظمى %5$@. وستكون الصغرى الليلة %6$@. </tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>NanoWeather/System/Library/PrivateFrameworks/NanoWeatherComplications.framework/en.lproj/NanoWeatherComplications-Localizable.strings</Filepath>
+    <TextItem>
+      <Description>
+ 
+* This should be the scale for the country the user is in (that is what scale the air quality will be in).
+ 
+* DAQI - GB, Great Britain
+ 
+* UBA  - DE, Germany
+ 
+* EPA  - Default, everywhere else
+ </Description>
+      <Position>COMPANION_DEMO_AIR_QUALITY_SCALE</Position>
+      <TranslationSet>
+        <base loc="en">EPA</base>
+        <tran loc="ar">EPA</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>LOADING_LONG</Position>
+      <TranslationSet>
+        <base loc="en">Loading Weather Data</base>
+        <tran loc="ar">جاري تحميل بيانات الطقس</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Same dashes as NO_DATA_ROUNDED, but with a placeholder for unit: ex. -- mph; Will push through -[NSString uppercaseStringWithLocale:]</Description>
+      <Position>NO_DATA_WIND_CORNER</Position>
+      <TranslationSet>
+        <base loc="en">-- %@</base>
+        <tran loc="ar">-- %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Voiceover</Description>
+      <Position>CURRENTLY_TEMPERATURE_FORMAT</Position>
+      <TranslationSet>
+        <base loc="en">Currently %@.</base>
+        <tran loc="ar">%@ حاليًا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description>
+ 
+* This should be the index to show on the companion when editing the face.
+ 
+* DAQI - 3
+ 
+* UBA  - 30
+ 
+* EPA  - 42
+ </Description>
+      <Position>COMPANION_DEMO_AIR_QUALITY_INDEX</Position>
+      <TranslationSet>
+        <base loc="en">42</base>
+        <tran loc="ar">٤٢</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Wind</Description>
+      <Position>WIND_LABEL</Position>
+      <TranslationSet>
+        <base loc="en">WIND</base>
+        <tran loc="ar">الرياح</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AQI_LABEL</Position>
+      <TranslationSet>
+        <base loc="en">AQI</base>
+        <tran loc="ar">ج.ﻫ</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>LOCATION_UNRESOLVED</Position>
+      <TranslationSet>
+        <base loc="en">Local Weather</base>
+        <tran loc="ar">الطقس المحلي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Used in Large Utility. Ex. UVI 6.4 High Risk</Description>
+      <Position>UVI_UTILITY_INDEX</Position>
+      <TranslationSet>
+        <base loc="en">UVI %1$@ %2$@</base>
+        <tran loc="ar">ف.ب %1$@ %2$@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>HIGH_LOW_VOICEOVER_FORMAT</Position>
+      <TranslationSet>
+        <base loc="en">High %@, Low %@.</base>
+        <tran loc="ar">عظمى: %@، صغرى %@.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CURRENTLY_LOCAL_LOCATION_TEMPERATURE_FORMAT</Position>
+      <TranslationSet>
+        <base loc="en">Local temperature is %@.</base>
+        <tran loc="ar">درجة الحرارة في منطقتك: %@.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 
+  NanoWeatherComplications-Localizable.strings
+  NanoWeather
+
+  Created by Todd Grooms on 12/7/18.
+  Copyright © 2018 Apple Inc. All rights reserved.
+</Description>
+      <Position>WEATHER</Position>
+      <TranslationSet>
+        <base loc="en">Weather</base>
+        <tran loc="ar">الطقس</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Utility large format. Ex. WIND WSW 22 MPH; will run through localized uppercase</Description>
+      <Position>WIND_UTILITY_LARGE_FORMAT</Position>
+      <TranslationSet>
+        <base loc="en">WIND %1$@ %2$@ %3$@</base>
+        <tran loc="ar">الرياح %1$@ %2$@ %3$@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Demo</Description>
+      <Position>DEMO_LOCATION_DISPLAY_NAME</Position>
+      <TranslationSet>
+        <base loc="en">Lafayette</base>
+        <tran loc="ar">الرياض</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> "1" means to use glyph at the bottom for UVI signature subdial complication. Otherwise, it will display "UVI" text at the bottom. By default, it should try to use glyph if possible.</Description>
+      <Position>UVI_SIGNATURE_SUBDIAL_USE_GLYPH</Position>
+      <TranslationSet>
+        <base loc="en">1</base>
+        <tran loc="ar">1</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>LOADING_SHORT</Position>
+      <TranslationSet>
+        <base loc="en">Loading Weather</base>
+        <tran loc="ar">جاري تحميل الطقس</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Used in Large Modular. Ex. UVI 6.0</Description>
+      <Position>UVI_TITLED_INDEX</Position>
+      <TranslationSet>
+        <base loc="en">UVI %@</base>
+        <tran loc="ar">ف.ب: %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> H:84° L:64°; Used as the second argument in WEATHER_CONDITIONS_BEZEL_TEXT_FORMAT</Description>
+      <Position>BEZEL_HIGH_LOW_FORMAT</Position>
+      <TranslationSet>
+        <base loc="en">H:%@ L:%@</base>
+        <tran loc="ar">ع: %@‎ د: %@‎</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> H:84° L:64°; Used as the second argument in WEATHER_CONDITIONS_BEZEL_TEXT_FORMAT</Description>
+      <Position>TEMPERATURE_HIGH_LOW_FORMAT_GRAPHIC_BEZEL</Position>
+      <TranslationSet>
+        <base loc="en">H:%@ L:%@</base>
+        <tran loc="ar">ع: %@‎ د: %@‎</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> H:84° L:64°; Used as the second argument in Graphic Rectangular header</Description>
+      <Position>TEMPERATURE_HIGH_LOW_FORMAT_GRAPHIC_RECTANGULAR</Position>
+      <TranslationSet>
+        <base loc="en">H:%@ L:%@</base>
+        <tran loc="ar">ع: %@‎ د: %@‎</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> H:84° L:64°; Used as the second argument in third line in Large Modular</Description>
+      <Position>TEMPERATURE_HIGH_LOW_FORMAT_LARGE_MODULAR</Position>
+      <TranslationSet>
+        <base loc="en">H:%@ L:%@</base>
+        <tran loc="ar">ع: %@‎ د: %@‎</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Two dashes in succession, no spaces; this is for labels that use rounded fonts as hyphens are too close together.</Description>
+      <Position>NO_DATA_ROUNDED</Position>
+      <TranslationSet>
+        <base loc="en">--</base>
+        <tran loc="ar">--</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Two hyphen minus characters in succession, no spaces</Description>
+      <Position>NO_DATA</Position>
+      <TranslationSet>
+        <base loc="en">––</base>
+        <tran loc="ar">––</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Used in Large Utility. Ex. AQI 66 Moderate</Description>
+      <Position>AIR_QUALITY_UTILITY_INDEX</Position>
+      <TranslationSet>
+        <base loc="en">AQI %1$@ %2$@</base>
+        <tran loc="ar">ج.هـ: %1$@ %2$@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UNKNOWN_CHANCE_OF_RAIN</Position>
+      <TranslationSet>
+        <base loc="en">--%</base>
+        <tran loc="ar">‏--٪</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Modular Large Ex. Wind NE</Description>
+      <Position>WIND_TITLED_DIRECTION</Position>
+      <TranslationSet>
+        <base loc="en">Wind %@</base>
+        <tran loc="ar">الرياح %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 72° PARTLY CLOUDY • H:84 L:64</Description>
+      <Position>GRAPHIC_BEZEL_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">%1$@ • %2$@</base>
+        <tran loc="ar">‏%1$@ • ‏%2$@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Air Quality
+ Used in Large Modular and Utility Small/Flat. Ex. AQI 66</Description>
+      <Position>AIR_QUALITY_TITLED_INDEX</Position>
+      <TranslationSet>
+        <base loc="en">AQI %@</base>
+        <tran loc="ar">ج.هـ %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CHANCE_OF_SNOW_TEXT</Position>
+      <TranslationSet>
+        <base loc="en">Chance of Snow</base>
+        <tran loc="ar">فرصة هطول ثلوج</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CHANCE_OF_SNOW_TEXT_SHORT</Position>
+      <TranslationSet>
+        <base loc="en">Chance of Snow</base>
+        <tran loc="ar">فرصة هطول ثلوج</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> UVI</Description>
+      <Position>UVI_LABEL</Position>
+      <TranslationSet>
+        <base loc="en">UVI</base>
+        <tran loc="ar">ف.ب</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> "1" means to use glyph at the bottom for AQI signature subdial complication. Otherwise, it will display "AQI" text at the bottom. By default, it should try to use "AQI" if possible.</Description>
+      <Position>AQI_SIGNATURE_SUBDIAL_USE_GLYPH</Position>
+      <TranslationSet>
+        <base loc="en">0</base>
+        <tran loc="ar">0</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CHANCE_OF_RAIN_TEXT</Position>
+      <TranslationSet>
+        <base loc="en">Chance of Rain</base>
+        <tran loc="ar">فرصة هطول أمطار</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CHANCE_OF_RAIN_TEXT_SHORT</Position>
+      <TranslationSet>
+        <base loc="en">Chance of Rain</base>
+        <tran loc="ar">فرصة هطول أمطار</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Example usage in English: "200 Unhealthy". This is presented on Modular Large on the last line when Air Quality is noteworthy; Index Description</Description>
+      <Position>AIR_QUALITY_NOTABLE_FORMAT</Position>
+      <TranslationSet>
+        <base loc="en">%1$@ %2$@</base>
+        <tran loc="ar">%1$@ %2$@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> UVI X.X</Description>
+      <Position>GRAPHIC_RECTANGULAR_CURRENT_UVI</Position>
+      <TranslationSet>
+        <base loc="en">%1$@ %2$@</base>
+        <tran loc="ar">%1$@ %2$@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Shared</Description>
+      <Position>GRAPHIC_RECTANGULAR_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">%1$@ %2$@</base>
+        <tran loc="ar">%1$@ %2$@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Example usage in English: "53°F CLOUDY". Condition description sometimes converted to all caps according to locale</Description>
+      <Position>TEMPERATURE_CONDITIONS</Position>
+      <TranslationSet>
+        <base loc="en">%1$@ %2$@</base>
+        <tran loc="ar">%1$@ %2$@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> XX% CHANCE OF RAIN</Description>
+      <Position>UTILITY_LARGE_CHANCE_OF_RAIN_FORMAT</Position>
+      <TranslationSet>
+        <base loc="en">%1$@ %2$@</base>
+        <tran loc="ar">%1$@ %2$@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Utility small/flat format. Ex. NE 22 (Direction Abbreviation Speed (No Unit))</Description>
+      <Position>WIND_UTILITY_SMALL_FORMAT</Position>
+      <TranslationSet>
+        <base loc="en">%1$@ %2$@</base>
+        <tran loc="ar">%1$@ %2$@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description>
+ 
+* This should be the index to show on the companion when editing the face.
+ 
+* DAQI - Low
+ 
+* UBA  - Very Low
+ 
+* EPA  - Good
+ </Description>
+      <Position>COMPANION_DEMO_AIR_QUALITY_CATEGORY_DESCRIPTION</Position>
+      <TranslationSet>
+        <base loc="en">Good</base>
+        <tran loc="ar">جيدة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> WindGlyph WIND NE 22 MPH: "WIND" Direction Speed Unit</Description>
+      <Position>GRAPHIC_RECTANGULAR_CURRENT_WIND</Position>
+      <TranslationSet>
+        <base loc="en">%1$@%2$@%3$@ %4$@ %5$@</base>
+        <tran loc="ar">‏%1$@‏%2$@‏%3$@‏%4$@‏%5$@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>TIME_NOW</Position>
+      <TranslationSet>
+        <base loc="en">NOW</base>
+        <tran loc="ar">الآن</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Precipitation - Chance of Rain</Description>
+      <Position>PRECIPITATION_CHANCE_COMPLICATION_NAME</Position>
+      <TranslationSet>
+        <base loc="en">Rain</base>
+        <tran loc="ar">المطر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>RAIN_LABEL</Position>
+      <TranslationSet>
+        <base loc="en">Rain</base>
+        <tran loc="ar">المطر</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>NanoWeather/System/Library/AppPlaceholders/NanoWeather.app/en.lproj/InfoPlist.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>NSLocationWhenInUseUsageDescription</Position>
+      <TranslationSet>
+        <base loc="en">Your location is used to show local weather in the Weather app and complication.</base>
+        <tran loc="ar">يتم استخدام موقعك لإظهار الطقس المحلي في تطبيق وإضافة الطقس.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 
+  InfoPlist.strings
+  NanoWeather
+
+  Created by James Yopp on 6/25/15.
+  Copyright © 2015 Apple Inc. All rights reserved.
+</Description>
+      <Position>CFBundleDisplayName</Position>
+      <TranslationSet>
+        <base loc="en">Weather</base>
+        <tran loc="ar">الطقس</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CFBundleName</Position>
+      <TranslationSet>
+        <base loc="en">Weather</base>
+        <tran loc="ar">الطقس</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>NanoWeather/System/Library/PreferenceBundles/NanoWeatherSettings.bundle/en.lproj/DefaultCitySettings.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>DEFAULT_CITY_SECTION_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Default City</base>
+        <tran loc="ar">المدينة الافتراضية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 
+  DefaultCitySettings.strings
+  NanoWeather
+
+  Created by Todd Grooms on 1/29/19.
+  Copyright © 2019 Apple Inc. All rights reserved.
+</Description>
+      <Position>STATUS_BAR_TITLE_DEFAULT_CITY</Position>
+      <TranslationSet>
+        <base loc="en">Default City</base>
+        <tran loc="ar">المدينة الافتراضية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DEFAULT_CITY_SECTION_FOOTER</Position>
+      <TranslationSet>
+        <base loc="en">Choose which city's weather you would like to see in watch face complications. You can add or delete cities using the Weather app.</base>
+        <tran loc="ar">اختر طقس المدينة الذي ترغب في رؤيته في إضافات واجهة الساعة. يمكنك إضافة أو حذف المدن باستخدام تطبيق الطقس.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Used to indicate that user wants complication to be "current location" instead a selected static location</Description>
+      <Position>DEFAULT_CITY_CURRENT_LOCATION</Position>
+      <TranslationSet>
+        <base loc="en">Current Location</base>
+        <tran loc="ar">الموقع الحالي</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>NanoWeather/System/Library/PrivateFrameworks/NanoWeatherKit.framework/en.lproj/Temperature.strings</Filepath>
+    <TextItem>
+      <Description> Two dashes in succession, no spaces; this is for labels that use rounded fonts as hyphens are too close together.</Description>
+      <Position>TEMPERATURE_UNKNOWN_NODEGREES_ROUNDED</Position>
+      <TranslationSet>
+        <base loc="en">--</base>
+        <tran loc="ar">--</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 
+  Temperature.strings
+  NanoWeather
+
+  Created by Todd Grooms on 1/22/19.
+  Copyright © 2019 Apple Inc. All rights reserved.
+
+ Two hyphen minus characters in succession, no spaces</Description>
+      <Position>TEMPERATURE_UNKNOWN_NODEGREES</Position>
+      <TranslationSet>
+        <base loc="en">––</base>
+        <tran loc="ar">––</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Two dashes in succession, no spaces; this is for labels that use rounded fonts as hyphens are too close together. Must always be left-to-right (the Unicode LTR marker character should be included at the start of the string)</Description>
+      <Position>TEMPERATURE_UNKNOWN_NODEGREES_ALWAYS_LTR_ROUNDED</Position>
+      <TranslationSet>
+        <base loc="en">‎--</base>
+        <tran loc="ar">‎--</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Two hyphen minus characters in succession, no spaces. Must always be left-to-right (the Unicode LTR marker character should be included at the start of the string)</Description>
+      <Position>TEMPERATURE_UNKNOWN_NODEGREES_ALWAYS_LTR</Position>
+      <TranslationSet>
+        <base loc="en">‎––</base>
+        <tran loc="ar">‎––</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>NanoWeather/private/var/staged_system_apps/NanoWeather.app/en.lproj/Localizable.strings</Filepath>
+    <TextItem>
+      <Description> Retry search; button title for retry button to retry location search</Description>
+      <Position>RETRY</Position>
+      <TranslationSet>
+        <base loc="en">Retry</base>
+        <tran loc="ar">حاول مجددًا</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Abbreviation for South</Description>
+      <Position>S</Position>
+      <TranslationSet>
+        <base loc="en">S</base>
+        <tran loc="ar">ج</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ORB_PRECIPITATION</Position>
+      <TranslationSet>
+        <base loc="en">% Rain</base>
+        <tran loc="ar">احتمالية المطر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Abbreviation for North East</Description>
+      <Position>NE</Position>
+      <TranslationSet>
+        <base loc="en">NE</base>
+        <tran loc="ar">ش ق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> English example: state, country</Description>
+      <Position>LOCATION_QUERY_RESULT_DETAIL_FORMAT</Position>
+      <TranslationSet>
+        <base loc="en">%1$@, %2$@</base>
+        <tran loc="ar">‏%1$@، %2$@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Local City Display Name</Description>
+      <Position>LOCAL_CITY_UNRESOLVED</Position>
+      <TranslationSet>
+        <base loc="en">Local Weather</base>
+        <tran loc="ar">الطقس المحلي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>LAST_UPDATED_FORMAT</Position>
+      <TranslationSet>
+        <base loc="en">Updated %@</base>
+        <tran loc="ar">تم التحديث في %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Abbreviation for West</Description>
+      <Position>W</Position>
+      <TranslationSet>
+        <base loc="en">W</base>
+        <tran loc="ar">غ</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Abbreviation for South by South East</Description>
+      <Position>SSE</Position>
+      <TranslationSet>
+        <base loc="en">SSE</base>
+        <tran loc="ar">ج ج ق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Abbreviation for South West</Description>
+      <Position>SW</Position>
+      <TranslationSet>
+        <base loc="en">SW</base>
+        <tran loc="ar">ج غ</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SEARCHING_ELLIPSIS</Position>
+      <TranslationSet>
+        <base loc="en">Searching…</base>
+        <tran loc="ar">جاري البحث…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> This should be the same across platforms, so it should be used anywhere there is Scribble input.</Description>
+      <Position>SCRIBBLE</Position>
+      <TranslationSet>
+        <base loc="en">Scribble</base>
+        <tran loc="ar">رسم باليد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Abbreviation for East by South East</Description>
+      <Position>ESE</Position>
+      <TranslationSet>
+        <base loc="en">ESE</base>
+        <tran loc="ar">ق ج ق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>WEATHER_CITY_LIST_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Weather</base>
+        <tran loc="ar">الطقس</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Abbreviation for West by North West</Description>
+      <Position>WNW</Position>
+      <TranslationSet>
+        <base loc="en">WNW</base>
+        <tran loc="ar">غ ش غ</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description>/ --- ORB Images; These images are used in the orb menu (Arabic has specific Celsius and Fahrenheit assets that we'd like to use)
+
+ 
+* Whether to use ºC or the Arabic asset for the Orb menu. Arabic should translate this as OrbTemperatureCelsiusArabic, while all other languages should match English.
+ 
+ OrbTemperatureCelsiusArabic</Description>
+      <Position>OrbTemperatureCelsius</Position>
+      <TranslationSet>
+        <base loc="en">OrbTemperatureCelsius</base>
+        <tran loc="ar">OrbTemperatureCelsiusArabic</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Abbreviation for North by North East</Description>
+      <Position>NNE</Position>
+      <TranslationSet>
+        <base loc="en">NNE</base>
+        <tran loc="ar">ش ش ق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Abbreviation for Temperature (looking for shorter strings to make orb menu layout look better)</Description>
+      <Position>ORB_TEMPERATURE_ABBREV</Position>
+      <TranslationSet>
+        <base loc="en">Temp</base>
+        <tran loc="ar">درجة الحرارة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description>
+ 
+* Whether to use ºF or the Arabic asset for the Orb menu. Arabic should translate this as OrbTemperatureFahrenheitArabic, while all other languages should match English.
+ 
+ OrbTemperatureFahrenheitArabic</Description>
+      <Position>OrbTemperatureFahrenheit</Position>
+      <TranslationSet>
+        <base loc="en">OrbTemperatureFahrenheit</base>
+        <tran loc="ar">OrbTemperatureFahrenheitArabic</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>LOADING_CITIES_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Loading City List</base>
+        <tran loc="ar">جاري تحميل قائمة المدن</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Label; message displayed to user when there were no locations found for given query input</Description>
+      <Position>NO_LOCATIONS_FOUND_FOR_QUERY_FORMAT</Position>
+      <TranslationSet>
+        <base loc="en">No locations found for %@</base>
+        <tran loc="ar">لم يُعثر على مواقع لـ %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Abbreviation for North</Description>
+      <Position>N</Position>
+      <TranslationSet>
+        <base loc="en">N</base>
+        <tran loc="ar">ش</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> This should be the same across platforms, so it should be used anywhere there is Dictation input.</Description>
+      <Position>DICTATION</Position>
+      <TranslationSet>
+        <base loc="en">Dictation</base>
+        <tran loc="ar">الإملاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UV_INDEX</Position>
+      <TranslationSet>
+        <base loc="en">UV Index</base>
+        <tran loc="ar">أشعة فوق البنفسجية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ORB_REMOVE</Position>
+      <TranslationSet>
+        <base loc="en">Remove</base>
+        <tran loc="ar">إزالة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Abbreviation for North West</Description>
+      <Position>NW</Position>
+      <TranslationSet>
+        <base loc="en">NW</base>
+        <tran loc="ar">ش غ</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>WIND_SPEED</Position>
+      <TranslationSet>
+        <base loc="en">Wind Speed</base>
+        <tran loc="ar">سرعة الرياح</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Abbreviation for South East</Description>
+      <Position>SE</Position>
+      <TranslationSet>
+        <base loc="en">SE</base>
+        <tran loc="ar">ج ق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description>/ --- WEATHER FORMATS</Description>
+      <Position>CURRENT_DAY_SHORT</Position>
+      <TranslationSet>
+        <base loc="en">TODAY</base>
+        <tran loc="ar">اليوم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Label; message displayed to user when there was an error during search for an unknown query input</Description>
+      <Position>ERROR_OCCURRED_DURING_SEARCH</Position>
+      <TranslationSet>
+        <base loc="en">An error occurred</base>
+        <tran loc="ar">حدث خطأ</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Label; message displayed to user when there were no locations found for an unknown query input</Description>
+      <Position>NO_LOCATIONS_FOUND</Position>
+      <TranslationSet>
+        <base loc="en">No locations found</base>
+        <tran loc="ar">لم يتم العثور على مواقع</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Abbreviation for South by South West</Description>
+      <Position>SSW</Position>
+      <TranslationSet>
+        <base loc="en">SSW</base>
+        <tran loc="ar">ج ج غ</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Abbreviation for East</Description>
+      <Position>E</Position>
+      <TranslationSet>
+        <base loc="en">E</base>
+        <tran loc="ar">ق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>LISTED_CITY_UNRESOLVED</Position>
+      <TranslationSet>
+        <base loc="en">Unknown</base>
+        <tran loc="ar">غير معروف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Abbreviation for North by North West</Description>
+      <Position>NNW</Position>
+      <TranslationSet>
+        <base loc="en">NNW</base>
+        <tran loc="ar">ش ش غ</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Label; message displayed to user when there was an error during search for given query input</Description>
+      <Position>ERROR_OCCURRED_DURING_SEARCH_FOR_QUERY_FORMAT</Position>
+      <TranslationSet>
+        <base loc="en">An error occurred while searching for %@</base>
+        <tran loc="ar">حدث خطأ أثناء البحث عن "%@".</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ADD_CITY_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Add City</base>
+        <tran loc="ar">إضافة مدينة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Abbreviation for East by North East</Description>
+      <Position>ENE</Position>
+      <TranslationSet>
+        <base loc="en">ENE</base>
+        <tran loc="ar">ق ش ق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Abbreviation for West by South West</Description>
+      <Position>WSW</Position>
+      <TranslationSet>
+        <base loc="en">WSW</base>
+        <tran loc="ar">غ ج غ</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description>/ --- ORB MENU TITLES</Description>
+      <Position>ORB_CONDITIONS</Position>
+      <TranslationSet>
+        <base loc="en">Condition</base>
+        <tran loc="ar">الحالة</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>NanoWeather/private/var/staged_system_apps/NanoWeather.app/en.lproj/Localizable.stringsdict</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>/%d Day:dict/NSStringLocalizedFormatKey:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%#@day@</base>
+        <tran loc="ar">%#@day@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/%d Day:dict/day:dict/few:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%d Day</base>
+        <tran loc="ar">‏%d أيام</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/%d Day:dict/day:dict/many:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%d Day</base>
+        <tran loc="ar">‏%d يومًا</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/%d Day:dict/day:dict/one:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%d Day</base>
+        <tran loc="ar">‏%d أيام</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/%d Day:dict/day:dict/other:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%d Day</base>
+        <tran loc="ar">‏%d أيام</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/%d Day:dict/day:dict/two:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%d Day</base>
+        <tran loc="ar">يومان</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/%d Day:dict/day:dict/zero:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%d Day</base>
+        <tran loc="ar">‏%d أيام</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>NanoWeather/System/Library/RelevanceEngine/DataSources/RelevanceEngineSolar.bundle/en.lproj/Localizable.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>SUNSET_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Sunset</base>
+        <tran loc="ar">الغروب</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SUNSET_VOICEOVER_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Sunset</base>
+        <tran loc="ar">الغروب</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SUNRISE_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Sunrise</base>
+        <tran loc="ar">الشروق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SUNRISE_VOICEOVER_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Sunrise</base>
+        <tran loc="ar">الشروق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SUNRISE_SUNSET_NOW</Position>
+      <TranslationSet>
+        <base loc="en">NOW</base>
+        <tran loc="ar">الآن</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 
+  Localizable.strings
+  SolarSiriFaceDataSource
+
+  Created by Todd Grooms on 10/10/18.
+  Copyright © 2018 Apple Inc. All rights reserved.
+</Description>
+      <Position>SUNRISE_SUNSET_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Sunrise / Sunset</base>
+        <tran loc="ar">الشروق / الغروب</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>NanoWeather/System/Library/PrivateFrameworks/NanoWeatherKit.framework/en.lproj/ImageOverrides.strings</Filepath>
+    <TextItem>
+      <Description>/ May be set to "hourly-fahrenheit-arabic" for arabic glyph</Description>
+      <Position>hourly-fahrenheit</Position>
+      <TranslationSet>
+        <base loc="en">hourly-fahrenheit</base>
+        <tran loc="ar">كل ساعة - فهرنهايت</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 
+  ImageOverrides.strings
+  NanoWeatherKit
+
+  Created by Todd Grooms on 1/26/18.
+  Copyright © 2018 Apple Inc. All rights reserved.
+
+/ May be set to "hourly-celsius-arabic" for arabic glyph</Description>
+      <Position>hourly-celsius</Position>
+      <TranslationSet>
+        <base loc="en">hourly-celsius</base>
+        <tran loc="ar">كل ساعة - مئوية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description>/ May be set to "hourly-precipitation-arabic" for arabic glyph (☂%)</Description>
+      <Position>hourly-precipitation</Position>
+      <TranslationSet>
+        <base loc="en">hourly-precipitation</base>
+        <tran loc="ar">hourly-precipitation</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>NanoWeather/System/Library/PreferenceBundles/NanoWeatherSettings.bundle/en.lproj/InfoPlist.strings</Filepath>
+    <TextItem>
+      <Description> 
+  InfoPlist.strings
+  NanoWeather
+
+  Created by Todd Grooms on 2/25/19.
+  Copyright © 2019 Apple Inc. All rights reserved.
+</Description>
+      <Position>CFBundleDisplayName</Position>
+      <TranslationSet>
+        <base loc="en">Weather</base>
+        <tran loc="ar">الطقس</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>NanoWeather/System/Library/PrivateFrameworks/NanoWeatherKit.framework/en.lproj/UltravioletIndex.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>UV_INDEX_HIGH</Position>
+      <TranslationSet>
+        <base loc="en">High</base>
+        <tran loc="ar">عالية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UV_INDEX_MODERATE</Position>
+      <TranslationSet>
+        <base loc="en">Moderate</base>
+        <tran loc="ar">متوسطة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UV_INDEX_UNKNOWN</Position>
+      <TranslationSet>
+        <base loc="en">Unknown</base>
+        <tran loc="ar">غير معروف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UV_INDEX_EXTREME</Position>
+      <TranslationSet>
+        <base loc="en">Extreme</base>
+        <tran loc="ar">أقصى الحدود</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UV_INDEX_VERY_HIGH</Position>
+      <TranslationSet>
+        <base loc="en">Very High</base>
+        <tran loc="ar">مرتفعة جدًا</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 
+  UltravioletIndex.strings
+  NanoWeather
+
+  Created by Todd Grooms on 12/21/18.
+  Copyright © 2018 Apple Inc. All rights reserved.
+</Description>
+      <Position>UV_INDEX_LOW</Position>
+      <TranslationSet>
+        <base loc="en">Low</base>
+        <tran loc="ar">منخفضة</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>NanoWeather/private/var/staged_system_apps/NanoWeather.app/en.lproj/ImageOverrides.strings</Filepath>
+    <TextItem>
+      <Description>/ May be set to "OrbFahrenheitArabic" for Arabic glyph</Description>
+      <Position>OrbFahrenheit</Position>
+      <TranslationSet>
+        <base loc="en">OrbFahrenheit</base>
+        <tran loc="ar">OrbFahrenheitArabic</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 
+  ImageOverrides.strings
+  NanoWeather
+
+  Created by James Yopp on 6/29/15.
+  Copyright © 2015 Apple Inc. All rights reserved.
+
+/ May be set to "OrbCelsiusArabic" for Arabic glyph</Description>
+      <Position>OrbCelsius</Position>
+      <TranslationSet>
+        <base loc="en">OrbCelsius</base>
+        <tran loc="ar">OrbCelsiusArabic</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>NanoWeather/System/Library/PreferenceBundles/NanoWeatherSettings.bundle/en.lproj/TemperatureUnitSettings.strings</Filepath>
+    <TextItem>
+      <Description> 
+  TemperatureUnitSettings.strings
+  NanoWeather
+
+  Created by Todd Grooms on 1/30/19.
+  Copyright © 2019 Apple Inc. All rights reserved.
+</Description>
+      <Position>STATUS_BAR_TITLE_TEMPERATURE_UNIT</Position>
+      <TranslationSet>
+        <base loc="en">Temperature Unit</base>
+        <tran loc="ar">وحدة درجة الحرارة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>TEMPERATURE_UNIT_SECTION_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Temperature Unit</base>
+        <tran loc="ar">وحدة درجة الحرارة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>TEMPERATURE_UNIT_OPTION_FAHRENHEIT</Position>
+      <TranslationSet>
+        <base loc="en">Fahrenheit (°F)</base>
+        <tran loc="ar">فهرنهايت (‫°ف‬)</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>TEMPERATURE_UNIT_OPTION_CELSIUS</Position>
+      <TranslationSet>
+        <base loc="en">Celsius (°C)</base>
+        <tran loc="ar">مئوية (‫°م‬)</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>NanoWeather/System/Library/PrivateFrameworks/NanoWeatherKit.framework/en.lproj/Conditions.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>MixedSnowAndSleet-Day-Short</Position>
+      <TranslationSet>
+        <base loc="en">Snow and Sleet</base>
+        <tran loc="ar">ثلوج وصقيع</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>MixedSnowAndSleet-Night-Short</Position>
+      <TranslationSet>
+        <base loc="en">Snow and Sleet</base>
+        <tran loc="ar">ثلوج وصقيع</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>NotAvailable-Day</Position>
+      <TranslationSet>
+        <base loc="en">Not Available</base>
+        <tran loc="ar">غير متوفر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>NotAvailable-Day-Short</Position>
+      <TranslationSet>
+        <base loc="en">Not Available</base>
+        <tran loc="ar">غير متوفر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>NotAvailable-Night</Position>
+      <TranslationSet>
+        <base loc="en">Not Available</base>
+        <tran loc="ar">غير متوفر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>NotAvailable-Night-Short</Position>
+      <TranslationSet>
+        <base loc="en">Not Available</base>
+        <tran loc="ar">غير متوفر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Blustery-Day</Position>
+      <TranslationSet>
+        <base loc="en">Blustery</base>
+        <tran loc="ar">عاصف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Blustery-Day-Short</Position>
+      <TranslationSet>
+        <base loc="en">Blustery</base>
+        <tran loc="ar">عاصف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Blustery-Night</Position>
+      <TranslationSet>
+        <base loc="en">Blustery</base>
+        <tran loc="ar">عاصف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Blustery-Night-Short</Position>
+      <TranslationSet>
+        <base loc="en">Blustery</base>
+        <tran loc="ar">عاصف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PartlyCloudy-Day</Position>
+      <TranslationSet>
+        <base loc="en">Partly Cloudy</base>
+        <tran loc="ar">غائم جزئيًا</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PartlyCloudy-Day-Short</Position>
+      <TranslationSet>
+        <base loc="en">Partly Cloudy</base>
+        <tran loc="ar">غائم جزئيًا</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PartlyCloudy-Night</Position>
+      <TranslationSet>
+        <base loc="en">Partly Cloudy</base>
+        <tran loc="ar">غائم جزئيًا</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PartlyCloudy-Night-Short</Position>
+      <TranslationSet>
+        <base loc="en">Partly Cloudy</base>
+        <tran loc="ar">غائم جزئيًا</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>MixedRainAndHail-Day</Position>
+      <TranslationSet>
+        <base loc="en">Mixed Rain and Hail</base>
+        <tran loc="ar">خليط مطر وبَرَد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>MixedRainAndHail-Night</Position>
+      <TranslationSet>
+        <base loc="en">Mixed Rain and Hail</base>
+        <tran loc="ar">خليط مطر وبَرَد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SnowFlurries-Day</Position>
+      <TranslationSet>
+        <base loc="en">Snow Flurries</base>
+        <tran loc="ar">موجات من الثلوج</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SnowFlurries-Day-Short</Position>
+      <TranslationSet>
+        <base loc="en">Snow Flurries</base>
+        <tran loc="ar">موجات من الثلوج</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SnowFlurries-Night</Position>
+      <TranslationSet>
+        <base loc="en">Snow Flurries</base>
+        <tran loc="ar">موجات من الثلوج</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SnowFlurries-Night-Short</Position>
+      <TranslationSet>
+        <base loc="en">Snow Flurries</base>
+        <tran loc="ar">موجات من الثلوج</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Hot-Day</Position>
+      <TranslationSet>
+        <base loc="en">Hot</base>
+        <tran loc="ar">حار</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Hot-Day-Short</Position>
+      <TranslationSet>
+        <base loc="en">Hot</base>
+        <tran loc="ar">حار</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Hot-Night</Position>
+      <TranslationSet>
+        <base loc="en">Hot</base>
+        <tran loc="ar">حارّة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Hot-Night-Short</Position>
+      <TranslationSet>
+        <base loc="en">Hot</base>
+        <tran loc="ar">حارّة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Dust-Day</Position>
+      <TranslationSet>
+        <base loc="en">Dust</base>
+        <tran loc="ar">غبار</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Dust-Day-Short</Position>
+      <TranslationSet>
+        <base loc="en">Dust</base>
+        <tran loc="ar">غبار</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Dust-Night</Position>
+      <TranslationSet>
+        <base loc="en">Dust</base>
+        <tran loc="ar">غبار</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Dust-Night-Short</Position>
+      <TranslationSet>
+        <base loc="en">Dust</base>
+        <tran loc="ar">غبار</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>MixedRainAndSleet-Day</Position>
+      <TranslationSet>
+        <base loc="en">Mixed Rain and Sleet</base>
+        <tran loc="ar">خليط مطر وصقيع</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>MixedRainAndSleet-Night</Position>
+      <TranslationSet>
+        <base loc="en">Mixed Rain and Sleet</base>
+        <tran loc="ar">خليط مطر وصقيع</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Hurricane-Day</Position>
+      <TranslationSet>
+        <base loc="en">Hurricane</base>
+        <tran loc="ar">إعصار</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Hurricane-Day-Short</Position>
+      <TranslationSet>
+        <base loc="en">Hurricane</base>
+        <tran loc="ar">إعصار</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Hurricane-Night</Position>
+      <TranslationSet>
+        <base loc="en">Hurricane</base>
+        <tran loc="ar">إعصار</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Hurricane-Night-Short</Position>
+      <TranslationSet>
+        <base loc="en">Hurricane</base>
+        <tran loc="ar">إعصار</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Smoky-Day</Position>
+      <TranslationSet>
+        <base loc="en">Smoky</base>
+        <tran loc="ar">دخاني</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Smoky-Day-Short</Position>
+      <TranslationSet>
+        <base loc="en">Smoky</base>
+        <tran loc="ar">دخاني</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Smoky-Night</Position>
+      <TranslationSet>
+        <base loc="en">Smoky</base>
+        <tran loc="ar">دخانية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Smoky-Night-Short</Position>
+      <TranslationSet>
+        <base loc="en">Smoky</base>
+        <tran loc="ar">دخانية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>MixedRainAndSleet-Day-Short</Position>
+      <TranslationSet>
+        <base loc="en">Rain and Sleet</base>
+        <tran loc="ar">أمطار وصقيع</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>MixedRainAndSleet-Night-Short</Position>
+      <TranslationSet>
+        <base loc="en">Rain and Sleet</base>
+        <tran loc="ar">أمطار وصقيع</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Cold-Day</Position>
+      <TranslationSet>
+        <base loc="en">Cold</base>
+        <tran loc="ar">بارد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Cold-Day-Short</Position>
+      <TranslationSet>
+        <base loc="en">Cold</base>
+        <tran loc="ar">بارد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Cold-Night</Position>
+      <TranslationSet>
+        <base loc="en">Cold</base>
+        <tran loc="ar">بارد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Cold-Night-Short</Position>
+      <TranslationSet>
+        <base loc="en">Cold</base>
+        <tran loc="ar">بارد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Clear-Night</Position>
+      <TranslationSet>
+        <base loc="en">Clear</base>
+        <tran loc="ar">صافية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Clear-Night-Short</Position>
+      <TranslationSet>
+        <base loc="en">Clear</base>
+        <tran loc="ar">صافية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>MixedRainAndSnow-Day</Position>
+      <TranslationSet>
+        <base loc="en">Mixed Rain and Snow</base>
+        <tran loc="ar">خليط مطر وثلج</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>MixedRainAndSnow-Night</Position>
+      <TranslationSet>
+        <base loc="en">Mixed Rain and Snow</base>
+        <tran loc="ar">خليط مطر وثلج</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Haze-Day</Position>
+      <TranslationSet>
+        <base loc="en">Haze</base>
+        <tran loc="ar">ضباب خفيف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Haze-Day-Short</Position>
+      <TranslationSet>
+        <base loc="en">Haze</base>
+        <tran loc="ar">ضباب خفيف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Haze-Night</Position>
+      <TranslationSet>
+        <base loc="en">Haze</base>
+        <tran loc="ar">ضباب خفيف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Haze-Night-Short</Position>
+      <TranslationSet>
+        <base loc="en">Haze</base>
+        <tran loc="ar">ضباب خفيف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Two dashes in succession, no spaces; this is for labels that use rounded fonts as hyphens are too close together.</Description>
+      <Position>NO_DATA_ROUNDED</Position>
+      <TranslationSet>
+        <base loc="en">--</base>
+        <tran loc="ar">--</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 
+  Conditions.strings
+  WeatherConditionsStrings
+
+  Created by Todd Grooms on 12/13/18.
+  Copyright © 2018 Apple Inc. All rights reserved.
+
+ Two hyphen minus characters in succession, no spaces</Description>
+      <Position>NO_DATA</Position>
+      <TranslationSet>
+        <base loc="en">––</base>
+        <tran loc="ar">––</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>MixedSnowAndSleet-Day</Position>
+      <TranslationSet>
+        <base loc="en">Mixed Snow and Sleet</base>
+        <tran loc="ar">خليط ثلج وصقيع</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>MixedSnowAndSleet-Night</Position>
+      <TranslationSet>
+        <base loc="en">Mixed Snow and Sleet</base>
+        <tran loc="ar">خليط ثلج وصقيع</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>IsolatedThundershowers-Day-Short</Position>
+      <TranslationSet>
+        <base loc="en">Thundershowers</base>
+        <tran loc="ar">أمطار رعدية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>IsolatedThundershowers-Night-Short</Position>
+      <TranslationSet>
+        <base loc="en">Thundershowers</base>
+        <tran loc="ar">أمطار رعدية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>FreezingDrizzle-Day</Position>
+      <TranslationSet>
+        <base loc="en">Freezing Drizzle</base>
+        <tran loc="ar">رذاذ متجمد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>FreezingDrizzle-Day-Short</Position>
+      <TranslationSet>
+        <base loc="en">Freezing Drizzle</base>
+        <tran loc="ar">رذاذ متجمد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>FreezingDrizzle-Night</Position>
+      <TranslationSet>
+        <base loc="en">Freezing Drizzle</base>
+        <tran loc="ar">رذاذ متجمد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>FreezingDrizzle-Night-Short</Position>
+      <TranslationSet>
+        <base loc="en">Freezing Drizzle</base>
+        <tran loc="ar">رذاذ متجمد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Fair-Day</Position>
+      <TranslationSet>
+        <base loc="en">Fair</base>
+        <tran loc="ar">لطيف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Fair-Day-Short</Position>
+      <TranslationSet>
+        <base loc="en">Fair</base>
+        <tran loc="ar">لطيف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Fair-Night</Position>
+      <TranslationSet>
+        <base loc="en">Fair</base>
+        <tran loc="ar">لطيفة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Fair-Night-Short</Position>
+      <TranslationSet>
+        <base loc="en">Fair</base>
+        <tran loc="ar">لطيفة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>IsolatedThundershowers-Day</Position>
+      <TranslationSet>
+        <base loc="en">Isolated Thundershowers</base>
+        <tran loc="ar">أمطار رعدية متفرقة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>IsolatedThundershowers-Night</Position>
+      <TranslationSet>
+        <base loc="en">Isolated Thundershowers</base>
+        <tran loc="ar">أمطار رعدية متفرقة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>IsolatedThunderstorms-Day-Short</Position>
+      <TranslationSet>
+        <base loc="en">Thunderstorms</base>
+        <tran loc="ar">عواصف رعدية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>IsolatedThunderstorms-Night-Short</Position>
+      <TranslationSet>
+        <base loc="en">Thunderstorms</base>
+        <tran loc="ar">عواصف رعدية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ScatteredThunderstorms-Day-Short</Position>
+      <TranslationSet>
+        <base loc="en">Thunderstorms</base>
+        <tran loc="ar">عواصف رعدية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ScatteredThunderstorms-Night-Short</Position>
+      <TranslationSet>
+        <base loc="en">Thunderstorms</base>
+        <tran loc="ar">عواصف رعدية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Thunderstorms-Day</Position>
+      <TranslationSet>
+        <base loc="en">Thunderstorms</base>
+        <tran loc="ar">عواصف رعدية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Thunderstorms-Day-Short</Position>
+      <TranslationSet>
+        <base loc="en">Thunderstorms</base>
+        <tran loc="ar">عواصف رعدية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Thunderstorms-Night</Position>
+      <TranslationSet>
+        <base loc="en">Thunderstorms</base>
+        <tran loc="ar">عواصف رعدية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Thunderstorms-Night-Short</Position>
+      <TranslationSet>
+        <base loc="en">Thunderstorms</base>
+        <tran loc="ar">عواصف رعدية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>BlowingSnow-Day</Position>
+      <TranslationSet>
+        <base loc="en">Blowing Snow</base>
+        <tran loc="ar">زوبعة ثلجية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>BlowingSnow-Day-Short</Position>
+      <TranslationSet>
+        <base loc="en">Blowing Snow</base>
+        <tran loc="ar">زوبعة ثلجية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>BlowingSnow-Night</Position>
+      <TranslationSet>
+        <base loc="en">Blowing Snow</base>
+        <tran loc="ar">زوبعة ثلجية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>BlowingSnow-Night-Short</Position>
+      <TranslationSet>
+        <base loc="en">Blowing Snow</base>
+        <tran loc="ar">زوبعة ثلجية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SevereThunderstorms-Day</Position>
+      <TranslationSet>
+        <base loc="en">Severe Thunderstorms</base>
+        <tran loc="ar">عواصف رعدية شديدة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SevereThunderstorms-Day-Short</Position>
+      <TranslationSet>
+        <base loc="en">Severe Thunderstorms</base>
+        <tran loc="ar">عواصف رعدية شديدة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SevereThunderstorms-Night</Position>
+      <TranslationSet>
+        <base loc="en">Severe Thunderstorms</base>
+        <tran loc="ar">عواصف رعدية شديدة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SevereThunderstorms-Night-Short</Position>
+      <TranslationSet>
+        <base loc="en">Severe Thunderstorms</base>
+        <tran loc="ar">عواصف رعدية شديدة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Drizzle-Day</Position>
+      <TranslationSet>
+        <base loc="en">Drizzle</base>
+        <tran loc="ar">رذاذ</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Drizzle-Day-Short</Position>
+      <TranslationSet>
+        <base loc="en">Drizzle</base>
+        <tran loc="ar">رذاذ</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Drizzle-Night</Position>
+      <TranslationSet>
+        <base loc="en">Drizzle</base>
+        <tran loc="ar">رذاذ</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Drizzle-Night-Short</Position>
+      <TranslationSet>
+        <base loc="en">Drizzle</base>
+        <tran loc="ar">رذاذ</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>HeavySnow-Day</Position>
+      <TranslationSet>
+        <base loc="en">Heavy Snow</base>
+        <tran loc="ar">ثلوج غزيرة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>HeavySnow-Day-Short</Position>
+      <TranslationSet>
+        <base loc="en">Heavy Snow</base>
+        <tran loc="ar">ثلوج غزيرة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>HeavySnow-Night</Position>
+      <TranslationSet>
+        <base loc="en">Heavy Snow</base>
+        <tran loc="ar">ثلوج غزيرة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>HeavySnow-Night-Short</Position>
+      <TranslationSet>
+        <base loc="en">Heavy Snow</base>
+        <tran loc="ar">ثلوج غزيرة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>LightSnowShowers-Day</Position>
+      <TranslationSet>
+        <base loc="en">Light Snow Showers</base>
+        <tran loc="ar">زخات ثلجية خفيفة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>LightSnowShowers-Night</Position>
+      <TranslationSet>
+        <base loc="en">Light Snow Showers</base>
+        <tran loc="ar">زخات ثلجية خفيفة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ScatteredShowers-Day</Position>
+      <TranslationSet>
+        <base loc="en">Scattered Showers</base>
+        <tran loc="ar">أمطار متناثرة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ScatteredShowers-Night</Position>
+      <TranslationSet>
+        <base loc="en">Scattered Showers</base>
+        <tran loc="ar">أمطار متناثرة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Sleet-Day</Position>
+      <TranslationSet>
+        <base loc="en">Sleet</base>
+        <tran loc="ar">صقيع</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Sleet-Day-Short</Position>
+      <TranslationSet>
+        <base loc="en">Sleet</base>
+        <tran loc="ar">صقيع</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Sleet-Night</Position>
+      <TranslationSet>
+        <base loc="en">Sleet</base>
+        <tran loc="ar">صقيع</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Sleet-Night-Short</Position>
+      <TranslationSet>
+        <base loc="en">Sleet</base>
+        <tran loc="ar">صقيع</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>MixedRainAndSnow-Day-Short</Position>
+      <TranslationSet>
+        <base loc="en">Rain and Snow</base>
+        <tran loc="ar">أمطار وثلوج</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>MixedRainAndSnow-Night-Short</Position>
+      <TranslationSet>
+        <base loc="en">Rain and Snow</base>
+        <tran loc="ar">أمطار وثلوج</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Windy-Day</Position>
+      <TranslationSet>
+        <base loc="en">Windy</base>
+        <tran loc="ar">عاصف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Windy-Day-Short</Position>
+      <TranslationSet>
+        <base loc="en">Windy</base>
+        <tran loc="ar">عاصف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Windy-Night</Position>
+      <TranslationSet>
+        <base loc="en">Windy</base>
+        <tran loc="ar">عاصفة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Windy-Night-Short</Position>
+      <TranslationSet>
+        <base loc="en">Windy</base>
+        <tran loc="ar">عاصفة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Snow-Day</Position>
+      <TranslationSet>
+        <base loc="en">Snow</base>
+        <tran loc="ar">ثلوج</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Snow-Day-Short</Position>
+      <TranslationSet>
+        <base loc="en">Snow</base>
+        <tran loc="ar">ثلوج</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Snow-Night</Position>
+      <TranslationSet>
+        <base loc="en">Snow</base>
+        <tran loc="ar">ثلوج</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Snow-Night-Short</Position>
+      <TranslationSet>
+        <base loc="en">Snow</base>
+        <tran loc="ar">ثلوج</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ScatteredThunderstorms-Day</Position>
+      <TranslationSet>
+        <base loc="en">Scattered Thunderstorms</base>
+        <tran loc="ar">عواصف رعدية متناثرة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ScatteredThunderstorms-Night</Position>
+      <TranslationSet>
+        <base loc="en">Scattered Thunderstorms</base>
+        <tran loc="ar">عواصف رعدية متناثرة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ScatteredSnowShowers-Day</Position>
+      <TranslationSet>
+        <base loc="en">Scattered Snow Showers</base>
+        <tran loc="ar">زخات ثلجية متناثرة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ScatteredSnowShowers-Night</Position>
+      <TranslationSet>
+        <base loc="en">Scattered Snow Showers</base>
+        <tran loc="ar">زخات ثلجية متناثرة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Tornado-Day</Position>
+      <TranslationSet>
+        <base loc="en">Tornado</base>
+        <tran loc="ar">تورنادو</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Tornado-Day-Short</Position>
+      <TranslationSet>
+        <base loc="en">Tornado</base>
+        <tran loc="ar">تورنادو</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Tornado-Night</Position>
+      <TranslationSet>
+        <base loc="en">Tornado</base>
+        <tran loc="ar">تورنادو</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Tornado-Night-Short</Position>
+      <TranslationSet>
+        <base loc="en">Tornado</base>
+        <tran loc="ar">تورنادو</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>TropicalStorm-Day</Position>
+      <TranslationSet>
+        <base loc="en">Tropical Storm</base>
+        <tran loc="ar">عاصفة استوائية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>TropicalStorm-Day-Short</Position>
+      <TranslationSet>
+        <base loc="en">Tropical Storm</base>
+        <tran loc="ar">عاصفة استوائية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>TropicalStorm-Night</Position>
+      <TranslationSet>
+        <base loc="en">Tropical Storm</base>
+        <tran loc="ar">عاصفة استوائية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>TropicalStorm-Night-Short</Position>
+      <TranslationSet>
+        <base loc="en">Tropical Storm</base>
+        <tran loc="ar">عاصفة استوائية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Foggy-Day</Position>
+      <TranslationSet>
+        <base loc="en">Foggy</base>
+        <tran loc="ar">ضبابي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Foggy-Day-Short</Position>
+      <TranslationSet>
+        <base loc="en">Foggy</base>
+        <tran loc="ar">ضبابي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Foggy-Night</Position>
+      <TranslationSet>
+        <base loc="en">Foggy</base>
+        <tran loc="ar">ضبابية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Foggy-Night-Short</Position>
+      <TranslationSet>
+        <base loc="en">Foggy</base>
+        <tran loc="ar">ضبابية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Clear-Day</Position>
+      <TranslationSet>
+        <base loc="en">Sunny</base>
+        <tran loc="ar">مشمس</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Clear-Day-Short</Position>
+      <TranslationSet>
+        <base loc="en">Sunny</base>
+        <tran loc="ar">مشمس</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>MixedRainAndHail-Day-Short</Position>
+      <TranslationSet>
+        <base loc="en">Rain and Hail</base>
+        <tran loc="ar">أمطار وبَرَد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>MixedRainAndHail-Night-Short</Position>
+      <TranslationSet>
+        <base loc="en">Rain and Hail</base>
+        <tran loc="ar">أمطار وبَرَد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ScatteredShowers-Day-Short</Position>
+      <TranslationSet>
+        <base loc="en">Showers</base>
+        <tran loc="ar">زخات مطر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ScatteredShowers-Night-Short</Position>
+      <TranslationSet>
+        <base loc="en">Showers</base>
+        <tran loc="ar">زخات مطر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Showers-Day</Position>
+      <TranslationSet>
+        <base loc="en">Showers</base>
+        <tran loc="ar">زخات مطر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Showers-Day-Short</Position>
+      <TranslationSet>
+        <base loc="en">Showers</base>
+        <tran loc="ar">زخات مطر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Showers-Night</Position>
+      <TranslationSet>
+        <base loc="en">Showers</base>
+        <tran loc="ar">زخات مطر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Showers-Night-Short</Position>
+      <TranslationSet>
+        <base loc="en">Showers</base>
+        <tran loc="ar">زخات مطر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>MostlyCloudy-Day</Position>
+      <TranslationSet>
+        <base loc="en">Mostly Cloudy</base>
+        <tran loc="ar">غائم أغلب الوقت</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>MostlyCloudy-Day-Short</Position>
+      <TranslationSet>
+        <base loc="en">Mostly Cloudy</base>
+        <tran loc="ar">غائم أغلب الوقت</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>MostlyCloudy-Night</Position>
+      <TranslationSet>
+        <base loc="en">Mostly Cloudy</base>
+        <tran loc="ar">غائمة أغلب الوقت</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>MostlyCloudy-Night-Short</Position>
+      <TranslationSet>
+        <base loc="en">Mostly Cloudy</base>
+        <tran loc="ar">غائمة أغلب الوقت</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Hail-Day</Position>
+      <TranslationSet>
+        <base loc="en">Hail</base>
+        <tran loc="ar">بَرَد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Hail-Day-Short</Position>
+      <TranslationSet>
+        <base loc="en">Hail</base>
+        <tran loc="ar">بَرَد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Hail-Night</Position>
+      <TranslationSet>
+        <base loc="en">Hail</base>
+        <tran loc="ar">بَرَد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Hail-Night-Short</Position>
+      <TranslationSet>
+        <base loc="en">Hail</base>
+        <tran loc="ar">بَرَد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>IsolatedThunderstorms-Day</Position>
+      <TranslationSet>
+        <base loc="en">Isolated Thunderstorms</base>
+        <tran loc="ar">عواصف رعدية متفرقة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>IsolatedThunderstorms-Night</Position>
+      <TranslationSet>
+        <base loc="en">Isolated Thunderstorms</base>
+        <tran loc="ar">عواصف رعدية متفرقة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>FreezingRain-Day</Position>
+      <TranslationSet>
+        <base loc="en">Freezing Rain</base>
+        <tran loc="ar">أمطار متجمدة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>FreezingRain-Day-Short</Position>
+      <TranslationSet>
+        <base loc="en">Freezing Rain</base>
+        <tran loc="ar">أمطار متجمدة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>FreezingRain-Night</Position>
+      <TranslationSet>
+        <base loc="en">Freezing Rain</base>
+        <tran loc="ar">أمطار متجمدة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>FreezingRain-Night-Short</Position>
+      <TranslationSet>
+        <base loc="en">Freezing Rain</base>
+        <tran loc="ar">أمطار متجمدة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Cloudy-Day</Position>
+      <TranslationSet>
+        <base loc="en">Cloudy</base>
+        <tran loc="ar">غائم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Cloudy-Day-Short</Position>
+      <TranslationSet>
+        <base loc="en">Cloudy</base>
+        <tran loc="ar">غائم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Cloudy-Night</Position>
+      <TranslationSet>
+        <base loc="en">Cloudy</base>
+        <tran loc="ar">غائمة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Cloudy-Night-Short</Position>
+      <TranslationSet>
+        <base loc="en">Cloudy</base>
+        <tran loc="ar">غائمة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>LightSnowShowers-Day-Short</Position>
+      <TranslationSet>
+        <base loc="en">Snow Showers</base>
+        <tran loc="ar">زخات ثلجية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>LightSnowShowers-Night-Short</Position>
+      <TranslationSet>
+        <base loc="en">Snow Showers</base>
+        <tran loc="ar">زخات ثلجية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ScatteredSnowShowers-Day-Short</Position>
+      <TranslationSet>
+        <base loc="en">Snow Showers</base>
+        <tran loc="ar">زخات ثلجية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ScatteredSnowShowers-Night-Short</Position>
+      <TranslationSet>
+        <base loc="en">Snow Showers</base>
+        <tran loc="ar">زخات ثلجية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SnowShowers-Day</Position>
+      <TranslationSet>
+        <base loc="en">Snow Showers</base>
+        <tran loc="ar">زخات ثلجية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SnowShowers-Day-Short</Position>
+      <TranslationSet>
+        <base loc="en">Snow Showers</base>
+        <tran loc="ar">زخات ثلجية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SnowShowers-Night</Position>
+      <TranslationSet>
+        <base loc="en">Snow Showers</base>
+        <tran loc="ar">زخات ثلجية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SnowShowers-Night-Short</Position>
+      <TranslationSet>
+        <base loc="en">Snow Showers</base>
+        <tran loc="ar">زخات ثلجية</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>NanoWeather/System/Library/PrivateFrameworks/NanoWeatherKit.framework/en.lproj/AirQuality.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>WFAQIScaleIMECACategoryIndex_Regular</Position>
+      <TranslationSet>
+        <base loc="en">Regular</base>
+        <tran loc="ar">عادي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>WFAQIScaleNAQICategoryIndex_Satisfactory</Position>
+      <TranslationSet>
+        <base loc="en">Satisfactory</base>
+        <tran loc="ar">مقبول</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> AQI              (For China, translate "Heavily Polluted")</Description>
+      <Position>AirQualityVeryUnhealthy</Position>
+      <TranslationSet>
+        <base loc="en">Very Unhealthy</base>
+        <tran loc="ar">غير صحية بالمرة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>WFAQIScaleEPACategoryIndex_VeryUnhealthy</Position>
+      <TranslationSet>
+        <base loc="en">Very Unhealthy</base>
+        <tran loc="ar">غير صحية بالمرة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>WFAQIScaleNAQICategoryIndex_VeryPoor</Position>
+      <TranslationSet>
+        <base loc="en">Very Poor</base>
+        <tran loc="ar">سيئة جدًا</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> AQI              (For China, translate "Moderately Polluted")</Description>
+      <Position>AirQualityUnhealthy</Position>
+      <TranslationSet>
+        <base loc="en">Unhealthy</base>
+        <tran loc="ar">غير صحية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>WFAQIScaleEPACategoryIndex_Unhealthy</Position>
+      <TranslationSet>
+        <base loc="en">Unhealthy</base>
+        <tran loc="ar">غير صحية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>WFAQIScaleATMOCategoryIndex_Poor6</Position>
+      <TranslationSet>
+        <base loc="en">Poor</base>
+        <tran loc="ar">ضعيف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>WFAQIScaleATMOCategoryIndex_Poor7</Position>
+      <TranslationSet>
+        <base loc="en">Poor</base>
+        <tran loc="ar">ضعيف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>WFAQIScaleNAQICategoryIndex_Poor</Position>
+      <TranslationSet>
+        <base loc="en">Poor</base>
+        <tran loc="ar">ضعيف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>WFAQIScaleHJ6332012CategoryIndex_HeavilyPolluted</Position>
+      <TranslationSet>
+        <base loc="en">Heavily Polluted</base>
+        <tran loc="ar">تلوث شديد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description>
+ 
+* Very Low means best Air Quality; Very High means worst.
+ 
+* I believe the category here refers to pollution.
+ 
+* "Very Low" pollution is best.
+ 
+* "Very High" pollution is worst.
+ </Description>
+      <Position>WFAQIScaleCAQICategoryIndex_VeryLow</Position>
+      <TranslationSet>
+        <base loc="en">Very Low</base>
+        <tran loc="ar">منخفضة جدًا</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 
+  AirQuality.strings
+  NanoWeather
+
+  Created by Todd Grooms on 10/2/18.
+  Copyright © 2018 Apple Inc. All rights reserved.
+
+ Title used for CAQI and DAQI scales</Description>
+      <Position>AIR_POLLUTION</Position>
+      <TranslationSet>
+        <base loc="en">Air Pollution</base>
+        <tran loc="ar">تلوث الهواء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>WFAQIScaleIMECACategoryIndex_ExtremelyBad</Position>
+      <TranslationSet>
+        <base loc="en">Extremely Bad</base>
+        <tran loc="ar">سيئة لأقصى حد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>WFAQIScaleNAQICategoryIndex_Severe</Position>
+      <TranslationSet>
+        <base loc="en">Severe</base>
+        <tran loc="ar">شديدة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> UBA</Description>
+      <Position>AirQualityVeryBad</Position>
+      <TranslationSet>
+        <base loc="en">Very Bad</base>
+        <tran loc="ar">سيئة جدًا</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>WFAQIScaleATMOCategoryIndex_VeryBad</Position>
+      <TranslationSet>
+        <base loc="en">Very Bad</base>
+        <tran loc="ar">سيئة جدًا</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>WFAQIScaleIMECACategoryIndex_VeryBad</Position>
+      <TranslationSet>
+        <base loc="en">Very Bad</base>
+        <tran loc="ar">سيئة جدًا</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>WFAQIScaleUBACategoryIndex_VeryBad</Position>
+      <TranslationSet>
+        <base loc="en">Very Bad</base>
+        <tran loc="ar">سيئة جدًا</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>WFAQIScaleHJ6332012CategoryIndex_ModeratelyPolluted</Position>
+      <TranslationSet>
+        <base loc="en">Moderately Polluted</base>
+        <tran loc="ar">تلوث متوسط</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>WFAQIScaleNAQICategoryIndex_ModeratelyPolluted</Position>
+      <TranslationSet>
+        <base loc="en">Moderately Polluted</base>
+        <tran loc="ar">تلوث متوسط</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> AQI              (For China, translate "Lightly Polluted")</Description>
+      <Position>AirQualityUnhealthyForSensitiveGroups-Short</Position>
+      <TranslationSet>
+        <base loc="en">Unhealthy/Sensitive</base>
+        <tran loc="ar">غير صحي/للمرهفين</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>WFAQIScaleEPACategoryIndex_UnhealthyForSensitiveGroups-Short</Position>
+      <TranslationSet>
+        <base loc="en">Unhealthy/Sensitive</base>
+        <tran loc="ar">غير صحي/للمرهفين</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>WFAQIScaleCAQICategoryIndex_Medium</Position>
+      <TranslationSet>
+        <base loc="en">Medium</base>
+        <tran loc="ar">متوسط</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> AQI              (For China, translate "Severely Polluted")</Description>
+      <Position>AirQualityHazardous</Position>
+      <TranslationSet>
+        <base loc="en">Hazardous</base>
+        <tran loc="ar">خطيرة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>WFAQIScaleEPACategoryIndex_Hazardous</Position>
+      <TranslationSet>
+        <base loc="en">Hazardous</base>
+        <tran loc="ar">خطيرة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>WFAQIScaleHJ6332012CategoryIndex_SeverelyPolluted</Position>
+      <TranslationSet>
+        <base loc="en">Severely Polluted</base>
+        <tran loc="ar">تلوث شديد جدًا</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>WFAQIScaleHJ6332012CategoryIndex_Excellent</Position>
+      <TranslationSet>
+        <base loc="en">Excellent</base>
+        <tran loc="ar">ممتاز</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> DAQI             ("High" means "High Pollution")</Description>
+      <Position>AirQualityHigh</Position>
+      <TranslationSet>
+        <base loc="en">High</base>
+        <tran loc="ar">عالٍ</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>WFAQIScaleCAQICategoryIndex_High</Position>
+      <TranslationSet>
+        <base loc="en">High</base>
+        <tran loc="ar">عالٍ</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>WFAQIScaleDAQICategoryIndex_High1</Position>
+      <TranslationSet>
+        <base loc="en">High</base>
+        <tran loc="ar">عالٍ</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>WFAQIScaleDAQICategoryIndex_High2</Position>
+      <TranslationSet>
+        <base loc="en">High</base>
+        <tran loc="ar">عالٍ</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>WFAQIScaleDAQICategoryIndex_High3</Position>
+      <TranslationSet>
+        <base loc="en">High</base>
+        <tran loc="ar">عالٍ</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> AQI, DAQI, UBA   (For China, translate "Good")</Description>
+      <Position>AirQualityModerate</Position>
+      <TranslationSet>
+        <base loc="en">Moderate</base>
+        <tran loc="ar">متوسطة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>WFAQIScaleATMOCategoryIndex_Moderate</Position>
+      <TranslationSet>
+        <base loc="en">Moderate</base>
+        <tran loc="ar">متوسطة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>WFAQIScaleDAQICategoryIndex_Moderate1</Position>
+      <TranslationSet>
+        <base loc="en">Moderate</base>
+        <tran loc="ar">متوسطة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>WFAQIScaleDAQICategoryIndex_Moderate2</Position>
+      <TranslationSet>
+        <base loc="en">Moderate</base>
+        <tran loc="ar">متوسطة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>WFAQIScaleDAQICategoryIndex_Moderate3</Position>
+      <TranslationSet>
+        <base loc="en">Moderate</base>
+        <tran loc="ar">متوسطة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>WFAQIScaleEPACategoryIndex_Moderate</Position>
+      <TranslationSet>
+        <base loc="en">Moderate</base>
+        <tran loc="ar">متوسطة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>WFAQIScaleUBACategoryIndex_Moderate</Position>
+      <TranslationSet>
+        <base loc="en">Moderate</base>
+        <tran loc="ar">متوسطة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> UBA</Description>
+      <Position>AirQualityVeryGood</Position>
+      <TranslationSet>
+        <base loc="en">Very Good</base>
+        <tran loc="ar">جيدة جدًا</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> V3</Description>
+      <Position>WFAQIScaleATMOCategoryIndex_VeryGood1</Position>
+      <TranslationSet>
+        <base loc="en">Very Good</base>
+        <tran loc="ar">جيدة جدًا</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>WFAQIScaleATMOCategoryIndex_VeryGood2</Position>
+      <TranslationSet>
+        <base loc="en">Very Good</base>
+        <tran loc="ar">جيدة جدًا</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>WFAQIScaleUBACategoryIndex_VeryGood</Position>
+      <TranslationSet>
+        <base loc="en">Very Good</base>
+        <tran loc="ar">جيدة جدًا</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>WFAQIScaleHJ6332012CategoryIndex_LightlyPolluted</Position>
+      <TranslationSet>
+        <base loc="en">Lightly Polluted</base>
+        <tran loc="ar">تلوث خفيف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AirQualityUnknown</Position>
+      <TranslationSet>
+        <base loc="en">Unknown</base>
+        <tran loc="ar">غير معروف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> DAQI             ("Very High" means "Very High Pollution")</Description>
+      <Position>AirQualityVeryHigh</Position>
+      <TranslationSet>
+        <base loc="en">Very High</base>
+        <tran loc="ar">مرتفعة جدًا</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>WFAQIScaleCAQICategoryIndex_VeryHigh</Position>
+      <TranslationSet>
+        <base loc="en">Very High</base>
+        <tran loc="ar">مرتفعة جدًا</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>WFAQIScaleDAQICategoryIndex_VeryHigh</Position>
+      <TranslationSet>
+        <base loc="en">Very High</base>
+        <tran loc="ar">مرتفعة جدًا</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> UBA</Description>
+      <Position>AirQualityBad</Position>
+      <TranslationSet>
+        <base loc="en">Bad</base>
+        <tran loc="ar">سيئة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>WFAQIScaleATMOCategoryIndex_Bad8</Position>
+      <TranslationSet>
+        <base loc="en">Bad</base>
+        <tran loc="ar">سيئة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>WFAQIScaleATMOCategoryIndex_Bad9</Position>
+      <TranslationSet>
+        <base loc="en">Bad</base>
+        <tran loc="ar">سيئة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>WFAQIScaleIMECACategoryIndex_Bad</Position>
+      <TranslationSet>
+        <base loc="en">Bad</base>
+        <tran loc="ar">سيئة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>WFAQIScaleUBACategoryIndex_Bad</Position>
+      <TranslationSet>
+        <base loc="en">Bad</base>
+        <tran loc="ar">سيئة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> V2
+ AQI, UBA         (For China, translate "Excellent")</Description>
+      <Position>AirQualityGood</Position>
+      <TranslationSet>
+        <base loc="en">Good</base>
+        <tran loc="ar">جيدة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>WFAQIScaleATMOCategoryIndex_Good3</Position>
+      <TranslationSet>
+        <base loc="en">Good</base>
+        <tran loc="ar">جيدة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>WFAQIScaleATMOCategoryIndex_Good4</Position>
+      <TranslationSet>
+        <base loc="en">Good</base>
+        <tran loc="ar">جيدة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>WFAQIScaleEPACategoryIndex_Good</Position>
+      <TranslationSet>
+        <base loc="en">Good</base>
+        <tran loc="ar">جيدة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>WFAQIScaleHJ6332012CategoryIndex_Good</Position>
+      <TranslationSet>
+        <base loc="en">Good</base>
+        <tran loc="ar">جيدة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>WFAQIScaleIMECACategoryIndex_Good</Position>
+      <TranslationSet>
+        <base loc="en">Good</base>
+        <tran loc="ar">جيدة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>WFAQIScaleNAQICategoryIndex_Good</Position>
+      <TranslationSet>
+        <base loc="en">Good</base>
+        <tran loc="ar">جيدة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>WFAQIScaleUBACategoryIndex_Good</Position>
+      <TranslationSet>
+        <base loc="en">Good</base>
+        <tran loc="ar">جيدة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Title used for all other scales</Description>
+      <Position>AIR_QUALITY</Position>
+      <TranslationSet>
+        <base loc="en">Air Quality</base>
+        <tran loc="ar">جودة الهواء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> AQI              (For China, translate "Lightly Polluted")</Description>
+      <Position>AirQualityUnhealthyForSensitiveGroups</Position>
+      <TranslationSet>
+        <base loc="en">Unhealthy for Sensitive Groups</base>
+        <tran loc="ar">غير صحية للأشخاص ذوي الحساسية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>WFAQIScaleEPACategoryIndex_UnhealthyForSensitiveGroups</Position>
+      <TranslationSet>
+        <base loc="en">Unhealthy for Sensitive Groups</base>
+        <tran loc="ar">غير صحية للأشخاص ذوي الحساسية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> DAQI             ("Low" means "Low Pollution")</Description>
+      <Position>AirQualityLow</Position>
+      <TranslationSet>
+        <base loc="en">Low</base>
+        <tran loc="ar">منخفض</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>WFAQIScaleCAQICategoryIndex_Low</Position>
+      <TranslationSet>
+        <base loc="en">Low</base>
+        <tran loc="ar">منخفض</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description>
+ 
+* Low means best Air Quality; Very High means worst.
+ 
+* I believe the category here refers to pollution.
+ 
+* "Low" pollution is best.
+ 
+* "Very High" pollution is worst.
+ </Description>
+      <Position>WFAQIScaleDAQICategoryIndex_Low1</Position>
+      <TranslationSet>
+        <base loc="en">Low</base>
+        <tran loc="ar">منخفض</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>WFAQIScaleDAQICategoryIndex_Low2</Position>
+      <TranslationSet>
+        <base loc="en">Low</base>
+        <tran loc="ar">منخفض</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>WFAQIScaleDAQICategoryIndex_Low3</Position>
+      <TranslationSet>
+        <base loc="en">Low</base>
+        <tran loc="ar">منخفض</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+</Proj>

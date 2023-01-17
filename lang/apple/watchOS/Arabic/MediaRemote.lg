@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Proj>
+  <ProjName>MediaRemote</ProjName>
+  <File>
+    <Filepath>MediaRemote/System/Library/PrivateFrameworks/MediaRemote.framework/en.lproj/MediaRemote.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>AIRPLAY_PASSWORD_ALERT_PLACEHOLDER</Position>
+      <TranslationSet>
+        <base loc="en">password</base>
+        <tran loc="ar">كلمة السر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>TV_REMOTE_AUTHENTICATION_PIN_DIALOG_MESSAGE</Position>
+      <TranslationSet>
+        <base loc="en">Your passcode is:</base>
+        <tran loc="ar">رمز الدخول الخاص بك هو:</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> This string is the same as TV_REMOTE_AUTHENTICATION_PIN_DIALOG_HEADER, but
+   more generic to support devices that are not AppleTV remotes. </Description>
+      <Position>EXTERNAL_DEVICE_AUTHENTICATION_PIN_DIALOG_HEADER</Position>
+      <TranslationSet>
+        <base loc="en">Remote Passcode</base>
+        <tran loc="ar">رمز دخول جهاز التحكم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AIRPLAY_GENERIC_ERROR_ALERT_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">AirPlay</base>
+        <tran loc="ar">AirPlay</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AIRPLAY_POPOVER_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">AirPlay</base>
+        <tran loc="ar">AirPlay</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AIRPLAY_VIDEO_ALERT_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">AirPlay</base>
+        <tran loc="ar">AirPlay</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AIRPLAY_VIDEO_POPOVER_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">AirPlay</base>
+        <tran loc="ar">AirPlay</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AIRPLAY_PASSWORD_ALERT_MESSAGE_FORMAT_%@</Position>
+      <TranslationSet>
+        <base loc="en">Enter the password for “%@”</base>
+        <tran loc="ar">إدخال كلمة السر لـ ‫"%@"‬</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> for example, "Play Hello by Adele, from HomePod" </Description>
+      <Position>PLAYING_ON_DEVICE_DELIMITER</Position>
+      <TranslationSet>
+        <base loc="en">,</base>
+        <tran loc="ar">‏،</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> This string is the same as AIRPLAY_PASSWORD_ALERT_PLACEHOLDER, but
+ capitalized and with an added colon since it goes above the text field </Description>
+      <Position>AIRPLAY_PASSWORD_ALERT_PLACEHOLDER_TEXT_FIELD_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Password:</base>
+        <tran loc="ar">كلمة السر:</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>OK</Position>
+      <TranslationSet>
+        <base loc="en">OK</base>
+        <tran loc="ar">موافق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> iPhone → HomePod. Used when one device is AirPlaying content to another device. </Description>
+      <Position>ROUTE_NAME_ARROW_FORMAT</Position>
+      <TranslationSet>
+        <base loc="en">%@ → %@</base>
+        <tran loc="ar">‏%@ ← ‏%@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CANCEL</Position>
+      <TranslationSet>
+        <base loc="en">Cancel</base>
+        <tran loc="ar">إلغاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AIRPLAY_GENERIC_ALERT_MESSAGE_FORMAT_%@</Position>
+      <TranslationSet>
+        <base loc="en">Unable to connect to “%@”.</base>
+        <tran loc="ar">غير قادر على الاتصال بـ "%@"</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AIRPLAY_NOT_CONNETED_ALERT_MESSAGE_FORMAT_%@</Position>
+      <TranslationSet>
+        <base loc="en">Unable to connect to “%@” because “%@“ is not connected to the internet.</base>
+        <tran loc="ar">تعذر الاتصال بـ "%@" لأن "%@" غير متصل بالإنترنت.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AIRPLAY_VIDEO_PLACEHOLDER_SUBTITLE_FORMAT_%@</Position>
+      <TranslationSet>
+        <base loc="en">This video is playing on “%@”.</base>
+        <tran loc="ar">جاري تشغيل هذا الفيديو على "%@".</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> for example "from HomePod" </Description>
+      <Position>FROM_DEVICE_FORMAT</Position>
+      <TranslationSet>
+        <base loc="en">from %@</base>
+        <tran loc="ar">من %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> for example "Hello by Adele" </Description>
+      <Position>TITLE_BY_ARTIST_FORMAT</Position>
+      <TranslationSet>
+        <base loc="en">%@ by %@</base>
+        <tran loc="ar">‏%@ لـ %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> This string is the same as AIRPLAY_PASSCODE_ALERT_PLACEHOLDER, but
+ capitalized and with an added colon since it goes above the text field </Description>
+      <Position>AIRPLAY_PASSCODE_ALERT_PLACEHOLDER_TEXT_FIELD_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Code:</base>
+        <tran loc="ar">الرمز:</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AIRPLAY_BUSY_ALERT_MESSAGE_FORMAT_%@</Position>
+      <TranslationSet>
+        <base loc="en">“%@” is being used by someone else.</base>
+        <tran loc="ar">‏"%@" قيد الاستخدام من شخص آخر.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AIRPLAY_PASSWORD_ALERT_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">AirPlay Password</base>
+        <tran loc="ar">كلمة سر AirPlay</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AIRPLAY_PIN_ALERT_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">AirPlay Code</base>
+        <tran loc="ar">رمز AirPlay</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AIRPLAY_PASSCODE_ALERT_PLACEHOLDER</Position>
+      <TranslationSet>
+        <base loc="en">code</base>
+        <tran loc="ar">الرمز</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AIRPLAY_PIN_ALERT_MESSAGE_FORMAT_%@</Position>
+      <TranslationSet>
+        <base loc="en">Enter the onscreen code for “%@”</base>
+        <tran loc="ar">أدخل الرمز الذي يظهر على الشاشة لـ "%@‎"</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AIRPLAY_BUSY_ATV_ALERT_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Apple TV Not Available</base>
+        <tran loc="ar">‏Apple TV غير متوفر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> "HomePod1 + HomePod2 + HomePod3". Used to indicate that multiple devices are
+   playing together on the same network. </Description>
+      <Position>ROUTE_NAMES_CONCAT_DELIMITER</Position>
+      <TranslationSet>
+        <base loc="en"> + </base>
+        <tran loc="ar"> + </tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AIRPLAY_OUT_OF_RANGE_ALERT_MESSAGE_FORMAT_%@</Position>
+      <TranslationSet>
+        <base loc="en">Unable to connect to “%@” because the wireless signal is too weak.</base>
+        <tran loc="ar">غير قادر على الاتصال بـ "%@" لأن إشارة الاتصال اللاسلكي ضعيفة للغاية.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> for example "Playing on HomePod" </Description>
+      <Position>PLAYING_ON_DEVICE_FORMAT</Position>
+      <TranslationSet>
+        <base loc="en">Playing on %@</base>
+        <tran loc="ar">جاري التشغيل على %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AIRPLAY_BUSY_ALERT_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">AirPlay Speaker Not Available</base>
+        <tran loc="ar">سماعة AirPlay غير متوفرة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AIRPLAY_VIDEO_ALERT_BODY_FORMAT_%@</Position>
+      <TranslationSet>
+        <base loc="en">Cannot play video on “%@”.</base>
+        <tran loc="ar">لا يمكن تشغيل الفيديو على "%@".</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>TV_REMOTE_AUTHENTICATION_PIN_DIALOG_HEADER</Position>
+      <TranslationSet>
+        <base loc="en">Authenticate Remote</base>
+        <tran loc="ar">مصادقة جهاز التحكم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> for example "Play on HomePod" </Description>
+      <Position>PLAY_ON_DEVICE_FORMAT</Position>
+      <TranslationSet>
+        <base loc="en">Play on %@</base>
+        <tran loc="ar">تشغيل على %@</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+</Proj>

@@ -1,0 +1,1671 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Proj>
+  <ProjName>WeatherKit</ProjName>
+  <File>
+    <Filepath>WeatherKit/System/Library/PrivateFrameworks/WeatherKit.framework/Versions/A/Resources/en.lproj/Localizable.strings</Filepath>
+    <TextItem>
+      <Description> 1 = Condition (Cloudy, Rainy, etc.), 2 = Wind Chill Temperature, 3 = Temperature Unit, 4 = Wind Speed, 5 = Wind units, 6 = Wind Direction, 8 = Current Temperature, 9 = Temperature Unit, 10 = High Temperature for day, 11 = Temperature Unit  </Description>
+      <Position>CONDITION_NOW_WINDCHILL_WIND_IT_IS_CURRENTLY_HIGH_WILL_BE</Position>
+      <TranslationSet>
+        <base loc="en">%1$@ conditions with a wind chill of %2$@%3$@ and %4$@ %5$@ winds out of the %6$@. It's currently %8$@%9$@; the high will be %10$@%11$@. </base>
+        <tran loc="ar">الطقس الآن: %1$@ مع برودة رياح من %2$@%3$@ و %4$@ %5$@ رياح من %6$@. درجة الحرارة الآن هي %8$@%9$@؛ ستكون درجة الحرارة القصوى %10$@%11$@.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>WIND_CHILL</Position>
+      <TranslationSet>
+        <base loc="en">Wind Chill</base>
+        <tran loc="ar">رياح باردة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 1 = Condition (Cloudy, Rainy, etc.), 2 = Wind Chill Temperature, 3 = Temperature Unit8 = High Temperature for day, 9 = Temperature Unit, 10 = Low Temperature for day, 11 = Temperature Unit </Description>
+      <Position>CONDITION_NOW_WINDCHILL_VISIBILITY_MIDDAY_SAME</Position>
+      <TranslationSet>
+        <base loc="en">%1$@ conditions with a wind chill of %2$@%3$@ and low visibility. The high will be %8$@%9$@. The low tonight will be %10$@%11$@. </base>
+        <tran loc="ar">الطقس الآن: %1$@ مع برودة رياح من %2$@%3$@ ورؤية منخفضة. ستكون درجة الحرارة القصوى هي %8$@%9$@. ستكون درجة الحرارة الصغرى هذه الليلة %10$@%11$@. </tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 1 = Condition (Cloudy, Rainy, etc.), 2 = Wind Speed, 3 = Wind units, 4 = Wind Direction, 8 = High Temperature for day, 9 = Temperature Unit, 10 = Condition (Cloudy, Rainy, etc.), 11 = Low Temperature for day, 12 = Temperature Unit, </Description>
+      <Position>CONDITION_NOW_WIND_MIDDAY_DIFFERENT</Position>
+      <TranslationSet>
+        <base loc="en">%1$@ conditions with %2$@ %3$@ winds out of the %4$@. The high will be %8$@%9$@. %10$@ tonight with a low of %11$@%12$@. </base>
+        <tran loc="ar">الطقس الآن: %1$@ مع %2$@ %3$@ رياح من %4$@. سوف تكون درجة الحرارة القصوى %8$@%9$@. و %10$@ هذه الليلة مع درجة حرارة دنيا %11$@%12$@. </tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>WIND</Position>
+      <TranslationSet>
+        <base loc="en">Wind</base>
+        <tran loc="ar">رياح</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 1 = Condition (Cloudy, Rainy, etc.), 2 = Wind Chill Temperature, 3 = Temperature Unit8 = Low Temperature for tonight, 9 = Temperature Unit </Description>
+      <Position>CONDITION_NOW_WINDCHILL_VISIBILITY_AFTERNOON_SAME</Position>
+      <TranslationSet>
+        <base loc="en">%1$@ conditions with a wind chill of %2$@%3$@ and low visibility. The low tonight will be %8$@%9$@. </base>
+        <tran loc="ar">الطقس الآن: %1$@ مع برودة رياح من %2$@%3$@ ورؤية منخفضة. ستكون درجة الحرارة الصغرى هذه الليلة هي %8$@%9$@. </tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 1 = Condition (Cloudy, Rainy, etc.), 2 = Wind Chill Temperature, 3 = Temperature Unit, 4 = Wind Speed, 5 = Wind units, 6 = Wind Direction,  </Description>
+      <Position>CONDITION_NOW_WINDCHILL_WIND_VISIBILITY_</Position>
+      <TranslationSet>
+        <base loc="en">%1$@ conditions with a wind chill of %2$@%3$@, %4$@ %5$@ winds out of the %6$@ and low visibility. </base>
+        <tran loc="ar">الطقس الآن: %1$@ مع برودة رياح من %2$@%3$@، و %4$@ %5$@ رياح من %6$@ ورؤية منخفضة. </tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Unit abbreviations for speed
+ kilometers per hour</Description>
+      <Position>KPH</Position>
+      <TranslationSet>
+        <base loc="en">kph</base>
+        <tran loc="ar">كم/س</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SHORT_S</Position>
+      <TranslationSet>
+        <base loc="en">S</base>
+        <tran loc="ar">ج</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 1 = Condition (Cloudy, Rainy, etc.), 2 = Wind Chill Temperature,  3 = Temperature Unit </Description>
+      <Position>CONDITION_NOW_WINDCHILL_</Position>
+      <TranslationSet>
+        <base loc="en">%1$@ conditions with a wind chill of %2$@%3$@. </base>
+        <tran loc="ar">الطقس الآن: %1$@ مع برودة رياح من %2$@%3$@. </tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 1 = Condition (Cloudy, Rainy, etc.), 2 = Heat Index Temperature, 3 = Temperature Unit8 = Condition for tonight, 9 = Low Temperature for tonight, 10 = Temperature Unit  </Description>
+      <Position>CONDITION_NOW_HEAT_INDEX_VISIBILITY_AFTERNOON_DIFFERENT</Position>
+      <TranslationSet>
+        <base loc="en">%1$@ conditions with a heat index of %2$@%3$@ and low visibility; %8$@ tonight with a low of %9$@%10$@. </base>
+        <tran loc="ar">الطقس الآن: %1$@ مع مؤشر حرارة %2$@%3$@ ورؤية منخفضة; %8$@ هذه الليلة مع درجة حرارة دنيا %10$@%9$@. </tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>FEELS_LIKE</Position>
+      <TranslationSet>
+        <base loc="en">Feels Like</base>
+        <tran loc="ar">تشعر به</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Autogenerate these strings with City _generateLocalizableStrings
+ 1 = Condition (Cloudy, Rainy, etc.), 8 = Current Temperature, 9 = Temperature Unit, 10 = High Temperature for day, 11 = Temperature Unit  </Description>
+      <Position>CURRENTLY_NOW_IT_IS_CURRENTLY_HIGH_WAS</Position>
+      <TranslationSet>
+        <base loc="en">%1$@ currently. It's %8$@%9$@; the high today was forecast as %10$@%11$@. </base>
+        <tran loc="ar">%1$@ حاليًا %8$@%9$@ درجة الحرارة القصوى اليوم كانت متوقعة %10$@%11$@. </tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 1 = Condition (Cloudy, Rainy, etc.), %2 = Wind Speed, 3 = Wind units, 4 = Wind Direction, 8 = Condition for tonight, 9 = Low Temperature for tonight, 10 = Temperature Unit  </Description>
+      <Position>CONDITION_NOW_WIND_VISIBILITY_AFTERNOON_DIFFERENT</Position>
+      <TranslationSet>
+        <base loc="en">%1$@ conditions with %2$@ %3$@ winds out of the %4$@ and low visibility; %8$@ tonight with a low of %9$@%10$@. </base>
+        <tran loc="ar">الطقس الآن: %1$@ مع ‏%2$@ ‏%3$@ رياح من %4$@ ورؤية منخفضة; %8$@الليلة مع درجة حرارة دنيا ‏%9$@‏%10$@. </tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 1 = Condition (Cloudy, Rainy, etc.), 2 = Heat Index Temperature, 3 = Temperature Unit,8 = High Temperature for day, 9 = Temperature Unit, 10 = Condition (Cloudy, Rainy, etc.), 11 = Low Temperature for day, 12 = Temperature Unit, </Description>
+      <Position>CONDITION_NOW_HEAT_INDEX_MIDDAY_DIFFERENT</Position>
+      <TranslationSet>
+        <base loc="en">%1$@ conditions with a heat index of %2$@%3$@. The high will be %8$@%9$@. %10$@ tonight with a low of %11$@%12$@. </base>
+        <tran loc="ar">الطقس الآن: %1$@ مع مؤشر حرارة %2$@%3$@. سوف تكون درجة الحرارة القصوى %8$@%9$@. و %10$@ هذه الليلة مع درجة حرارة دنيا %11$@%12$@. </tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 1 = Condition (Cloudy, Rainy, etc.), 2 = Heat Index Temperature, 3 = Temperature Unit, </Description>
+      <Position>CONDITION_NOW_HEAT_INDEX_</Position>
+      <TranslationSet>
+        <base loc="en">%1$@ conditions with a heat index of %2$@%3$@. </base>
+        <tran loc="ar">الطقس الآن: %1$@ مع مؤشر حرارة %2$@%3$@. </tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 1 = Condition (Cloudy, Rainy, etc.), 2 = Heat Index Temperature, 3 = Temperature Unit, 4 = Wind Speed, 5 = Wind units, 6 = Wind Direction,  </Description>
+      <Position>CONDITION_NOW_HEAT_INDEX_WIND_VISIBILITY_</Position>
+      <TranslationSet>
+        <base loc="en">%1$@ conditions with a heat index of %2$@%3$@, %4$@ %5$@ winds out of the %6$@ and low visibility. </base>
+        <tran loc="ar">الطقس الآن: %1$@ مع مؤشر حرارة %2$@%3$@، و %4$@ %5$@ رياح من %6$@ ورؤية منخفضة. </tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> the first %@ is the speed and the second the unit. (e.g. "15 kph")</Description>
+      <Position>WIND_DETAIL_FORMAT_WITHOUT_DIRECTION</Position>
+      <TranslationSet>
+        <base loc="en">%@ %@</base>
+        <tran loc="ar">%@ %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 1 = Condition (Cloudy, Rainy, etc.), 8 = Low Temperature for tonight, 9 = Temperature Unit </Description>
+      <Position>CONDITION_NOW_VISIBILITY_AFTERNOON_SAME</Position>
+      <TranslationSet>
+        <base loc="en">%1$@ conditions with low visibility. The low tonight will be %8$@%9$@. </base>
+        <tran loc="ar">الطقس الآن: %1$@ ورؤية منخفضة. ستكون درجة الحرارة الصغرى هذه الليلة %8$@%9$@. </tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 1 = Condition (Cloudy, Rainy, etc.), 2 = Wind Chill Temperature, 3 = Temperature Unit, 4 = Wind Speed, 5 = Wind units, 6 = Wind Direction, 8 = High Temperature for day, 9 = Temperature Unit, 10 = Condition (Cloudy, Rainy, etc.), 11 = Low Temperature for day, 12 = Temperature Unit, </Description>
+      <Position>CONDITION_NOW_WINDCHILL_WIND_VISIBILITY_MIDDAY_DIFFERENT</Position>
+      <TranslationSet>
+        <base loc="en">%1$@ conditions with a wind chill of %2$@%3$@, %4$@ %5$@ winds out of the %6$@ and low visibility. The high will be %8$@%9$@. %10$@ tonight with a low of %11$@%12$@. </base>
+        <tran loc="ar">الطقس الآن: %1$@ مع برودة رياح من %2$@%3$@، و %4$@ %5$@ رياح من %6$@ ورؤية منخفضة. سوف تكون درجة الحرارة القصوى %8$@%9$@. و %10$@ هذه الليلة مع درجة حرارة دنيا %11$@%12$@. </tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>INCHES</Position>
+      <TranslationSet>
+        <base loc="en">in</base>
+        <tran loc="ar">بوصة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SHORT_NE</Position>
+      <TranslationSet>
+        <base loc="en">NE</base>
+        <tran loc="ar">ش ق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 1 = Condition (Cloudy, Rainy, etc.), 8 = Low Temperature for tonight, 9 = Temperature Unit </Description>
+      <Position>CURRENTLY_COMMA_AFTERNOON_SAME</Position>
+      <TranslationSet>
+        <base loc="en">%1$@ currently; the low tonight will be %8$@%9$@. </base>
+        <tran loc="ar">%1$@ حاليًا؛  %8$@ الليلة وستكون درجة الحرارة الصغرى %9$@.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>WMConditionBlustery</Position>
+      <TranslationSet>
+        <base loc="en">Blustery</base>
+        <tran loc="ar">عاصف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 1 = Condition (Cloudy, Rainy, etc.), 2 = Heat Index Temperature, 3 = Temperature Unit,8 = Condition for tonight, 9 = Low Temperature for tonight, 10 = Temperature Unit  </Description>
+      <Position>CONDITION_NOW_HEAT_INDEX_AFTERNOON_DIFFERENT</Position>
+      <TranslationSet>
+        <base loc="en">%1$@ conditions with a heat index of %2$@%3$@; %8$@ tonight with a low of %9$@%10$@. </base>
+        <tran loc="ar">الطقس الآن: %1$@ مع مؤشر حرارة %2$@%3$@; %8$@ هذه الليلة مع درجة حرارة دنيا %10$@%9$@. </tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>N</Position>
+      <TranslationSet>
+        <base loc="en">north</base>
+        <tran loc="ar">شمال</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 1 = Condition (Cloudy, Rainy, etc.), 2 = Heat Index Temperature, 3 = Temperature Unit, 4 = Wind Speed, 5 = Wind units, 6 = Wind Direction, 8 = Current Temperature, 9 = Temperature Unit, 10 = High Temperature for day, 11 = Temperature Unit  </Description>
+      <Position>CONDITION_NOW_HEAT_INDEX_WIND_IT_IS_CURRENTLY_HIGH_WILL_BE</Position>
+      <TranslationSet>
+        <base loc="en">%1$@ conditions with a heat index of %2$@%3$@ and %4$@ %5$@ winds out of the %6$@. It's currently %8$@%9$@; the high will be %10$@%11$@. </base>
+        <tran loc="ar">الطقس الآن: %1$@ مع مؤشر حرارة %2$@%3$@ و %4$@ %5$@ رياح من %6$@. درجة الحرارة الآن هي %8$@%9$@؛ ستكون درجة الحرارة القصوى %10$@%11$@. </tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 1 = Condition (Cloudy, Rainy, etc.), %2 = Wind Speed, 3 = Wind units, 4 = Wind Direction, 8 = Current Temperature, 9 = Temperature Unit, 10 = High Temperature for day, 11 = Temperature Unit  </Description>
+      <Position>CONDITION_NOW_WIND_VISIBILITY_IT_IS_CURRENTLY_HIGH_WILL_BE</Position>
+      <TranslationSet>
+        <base loc="en">%1$@ conditions with %2$@ %3$@ winds out of the %4$@ and low visibility. It's currently %8$@%9$@; the high will be %10$@%11$@. </base>
+        <tran loc="ar">الطقس الآن: %1$@ مع %2$@ %3$@ رياح من %4$@ ورؤية منخفضة. درجة الحرارة الآن هي %8$@%9$@؛ ستكون درجة الحرارة القصوى %10$@%11$@. </tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 1 = Condition (Cloudy, Rainy, etc.), 2 = Wind Chill Temperature, 3 = Temperature Unit, 4 = Wind Speed, 5 = Wind units, 6 = Wind Direction, 8 = Low Temperature for tonight, 9 = Temperature Unit </Description>
+      <Position>CONDITION_NOW_WINDCHILL_WIND_VISIBILITY_AFTERNOON_SAME</Position>
+      <TranslationSet>
+        <base loc="en">%1$@ conditions with a wind chill of %2$@%3$@, %4$@ %5$@ winds out of the %6$@ and low visibility. The low tonight will be %8$@%9$@. </base>
+        <tran loc="ar">الطقس الآن: %1$@ مع برودة رياح من %2$@%3$@، و %4$@ %5$@ رياح من %6$@ ورؤية منخفضة. سوف تكون أدنى درجة حرارة هي %8$@%9$@. </tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>WMConditionPartlyCloudy</Position>
+      <TranslationSet>
+        <base loc="en">Partly Cloudy</base>
+        <tran loc="ar">غائم جزئيًا</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>WMConditionPartlyCloudyDay</Position>
+      <TranslationSet>
+        <base loc="en">Partly Cloudy</base>
+        <tran loc="ar">غائم جزئيًا</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>WMConditionPartlyCloudyNight</Position>
+      <TranslationSet>
+        <base loc="en">Partly Cloudy</base>
+        <tran loc="ar">غائم جزئيًا</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>MILES</Position>
+      <TranslationSet>
+        <base loc="en">mi</base>
+        <tran loc="ar">ميل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>WED</Position>
+      <TranslationSet>
+        <base loc="en">WED</base>
+        <tran loc="ar">الأربعاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 1 = Condition (Cloudy, Rainy, etc.), 2 = Wind Chill Temperature, 3 = Temperature Unit, 4 = Wind Speed, 5 = Wind units, 6 = Wind Direction, 8 = Condition for tonight, 9 = Low Temperature for tonight, 10 = Temperature Unit  </Description>
+      <Position>CONDITION_NOW_WINDCHILL_WIND_AFTERNOON_DIFFERENT</Position>
+      <TranslationSet>
+        <base loc="en">%1$@ conditions with a wind chill of %2$@%3$@ and %4$@ %5$@ winds out of the %6$@; %8$@ tonight with a low of %9$@%10$@. </base>
+        <tran loc="ar">الطقس الآن: %1$@ مع برودة رياح من ‏%2$@‏%3$@ و %4$@ %5$@ رياح من %6$@; %8$@ الليلة مع درجة حرارة دنيا ‏%9$@%10$@.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> meters per second</Description>
+      <Position>MPS</Position>
+      <TranslationSet>
+        <base loc="en">mps</base>
+        <tran loc="ar">ميل بالثانية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> some languages use different colons, some others need different spacing before/after.</Description>
+      <Position>DETAIL_TITLE_FORMAT_STRING</Position>
+      <TranslationSet>
+        <base loc="en">%@:</base>
+        <tran loc="ar">‏%@‏:</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 1 = Condition (Cloudy, Rainy, etc.), 8 = High Temperature for day, 9 = Temperature Unit, 10 = Low Temperature for day, 11 = Temperature Unit </Description>
+      <Position>CONDITION_NOW_VISIBILITY_MIDDAY_SAME</Position>
+      <TranslationSet>
+        <base loc="en">%1$@ conditions with low visibility. The high will be %8$@%9$@. The low tonight will be %10$@%11$@. </base>
+        <tran loc="ar">الطقس الآن: %1$@ ورؤية منخفضة. ستكون درجة الحرارة القصوى هي %8$@%9$@. ستكون درجة الحرارة الصغرى هذه الليلة %10$@%11$@. </tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>WMConditionMixedRainAndHail</Position>
+      <TranslationSet>
+        <base loc="en">Mixed Rain and Hail</base>
+        <tran loc="ar">بَرَد مخلوط بالمطر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>WMConditionSnowFlurries</Position>
+      <TranslationSet>
+        <base loc="en">Snow Flurries</base>
+        <tran loc="ar">موجات من الثلوج</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>VISIBILITY</Position>
+      <TranslationSet>
+        <base loc="en">Visibility</base>
+        <tran loc="ar">الرؤية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PRECIPITATION</Position>
+      <TranslationSet>
+        <base loc="en">Precipitation</base>
+        <tran loc="ar">هطول الأمطار</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Title of local weather city</Description>
+      <Position>LOCAL_WEATHER</Position>
+      <TranslationSet>
+        <base loc="en">Local Weather</base>
+        <tran loc="ar">الطقس المحلي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 1 = Condition (Cloudy, Rainy, etc.), 2 = Heat Index Temperature, 3 = Temperature Unit, 4 = Wind Speed, 5 = Wind units, 6 = Wind Direction, 8 = High Temperature for day, 9 = Temperature Unit, 10 = Low Temperature for day, 11 = Temperature Unit </Description>
+      <Position>CONDITION_NOW_HEAT_INDEX_WIND_VISIBILITY_MIDDAY_SAME</Position>
+      <TranslationSet>
+        <base loc="en">%1$@ conditions with a heat index of %2$@%3$@, %4$@ %5$@ winds out of the %6$@ and low visibility. The high will be %8$@%9$@. The low tonight will be %10$@%11$@. </base>
+        <tran loc="ar">الطقس الآن: %1$@ مع مؤشر حرارة %2$@%3$@، و %4$@ %5$@ رياح من %6$@ ورؤية منخفضة. سوف تكون درجة الحرارة القصوى %8$@%9$@. سوف تكون أدنى درجة حرارة هي %10$@%11$@. </tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SHORT_W</Position>
+      <TranslationSet>
+        <base loc="en">W</base>
+        <tran loc="ar">غ</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>HIGH_TEMP</Position>
+      <TranslationSet>
+        <base loc="en">H %@</base>
+        <tran loc="ar">العظمى %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SHORT_SSE</Position>
+      <TranslationSet>
+        <base loc="en">SSE</base>
+        <tran loc="ar">ج ج ق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 1 = Condition (Cloudy, Rainy, etc.), 2 = Heat Index Temperature, 3 = Temperature Unit, 4 = Wind Speed, 5 = Wind units, 6 = Wind Direction, 8 = Condition for tonight, 9 = Low Temperature for tonight, 10 = Temperature Unit  </Description>
+      <Position>CONDITION_NOW_HEAT_INDEX_WIND_VISIBILITY_AFTERNOON_DIFFERENT</Position>
+      <TranslationSet>
+        <base loc="en">%1$@ conditions with a heat index of %2$@%3$@, %4$@ %5$@ winds out of the %6$@ and low visibility; %8$@ tonight with a low of %9$@%10$@. </base>
+        <tran loc="ar">الطقس الآن: %1$@ مع مؤشر حرارة ‏%2$@‏%3$@، و %4$@ %5$@ رياح من %6$@ ورؤية منخفضة; %8$@ الليلة مع درجة حرارة دنيا ‏%9$@%10$@.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 1 = Condition (Cloudy, Rainy, etc.), 2 = Heat Index Temperature, 3 = Temperature Unit8 = Current Temperature, 9 = Temperature Unit, 10 = High Temperature for day, 11 = Temperature Unit  </Description>
+      <Position>CONDITION_NOW_HEAT_INDEX_VISIBILITY_IT_IS_CURRENTLY_HIGH_WILL_BE</Position>
+      <TranslationSet>
+        <base loc="en">%1$@ conditions with a heat index of %2$@%3$@ and low visibility. It's currently %8$@%9$@; the high will be %10$@%11$@. </base>
+        <tran loc="ar">الطقس الآن: %1$@ مع مؤشر حرارة %2$@%3$@ ورؤية منخفضة. حاليًا هي %8$@%9$@؛ ستكون درجة الحرارة القصوى %10$@%11$@. </tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 1 = Condition (Cloudy, Rainy, etc.), 2 = Heat Index Temperature, 3 = Temperature Unit8 = High Temperature for day, 9 = Temperature Unit, 10 = Low Temperature for day, 11 = Temperature Unit </Description>
+      <Position>CONDITION_NOW_HEAT_INDEX_VISIBILITY_MIDDAY_SAME</Position>
+      <TranslationSet>
+        <base loc="en">%1$@ conditions with a heat index of %2$@%3$@ and low visibility. The high will be %8$@%9$@. The low tonight will be %10$@%11$@. </base>
+        <tran loc="ar">الطقس الآن: %1$@ مع مؤشر حرارة %2$@%3$@ ورؤية منخفضة. ستكون درجة الحرارة القصوى هي %8$@%9$@. ستكون درجة الحرارة الصغرى هذه الليلة %10$@%11$@. </tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>WMConditionHot</Position>
+      <TranslationSet>
+        <base loc="en">Hot</base>
+        <tran loc="ar">حار</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>WMConditionDust</Position>
+      <TranslationSet>
+        <base loc="en">Dust</base>
+        <tran loc="ar">غبار</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 1 = Condition (Cloudy, Rainy, etc.), 2 = Wind Chill Temperature, 3 = Temperature Unit, 4 = Wind Speed, 5 = Wind units, 6 = Wind Direction, 8 = Condition for tonight, 9 = Low Temperature for tonight, 10 = Temperature Unit  </Description>
+      <Position>CONDITION_NOW_WINDCHILL_WIND_VISIBILITY_AFTERNOON_DIFFERENT</Position>
+      <TranslationSet>
+        <base loc="en">%1$@ conditions with a wind chill of %2$@%3$@, %4$@ %5$@ winds out of the %6$@ and low visibility; %8$@ tonight with a low of %9$@%10$@. </base>
+        <tran loc="ar">الطقس الآن: %1$@ مع برودة رياح من ‏%2$@‏%3$@، و %4$@ %5$@ رياح من %6$@ ورؤية منخفضة; %8$@ الليلة مع درجة حرارة دنيا ‏%9$@%10$@.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Degree symbol (to precede CELSIUS or FAHRENHEIT)</Description>
+      <Position>DEGREE</Position>
+      <TranslationSet>
+        <base loc="en">°</base>
+        <tran loc="ar">°</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> For Natural Language Weather Descriptions. In some languages °C or °F is needed.. use this to add it. </Description>
+      <Position>TEMP_UNIT_CELSIUS</Position>
+      <TranslationSet>
+        <base loc="en">°</base>
+        <tran loc="ar">°</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> For Natural Language Weather Descriptions. In some languages °C or °F is needed.. use this to add it. </Description>
+      <Position>TEMP_UNIT_FAHRENHEIT</Position>
+      <TranslationSet>
+        <base loc="en">°</base>
+        <tran loc="ar">°</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SHORT_SW</Position>
+      <TranslationSet>
+        <base loc="en">SW</base>
+        <tran loc="ar">ج غ</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>WMConditionMixedRainAndSleet</Position>
+      <TranslationSet>
+        <base loc="en">Mixed Rain and Sleet</base>
+        <tran loc="ar">مطر متجمد مخلوط بالمطر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 1 = Condition (Cloudy, Rainy, etc.), 2 = Wind Speed, 3 = Wind units, 4 = Wind Direction,  </Description>
+      <Position>CONDITION_NOW_WIND_</Position>
+      <TranslationSet>
+        <base loc="en">%1$@ conditions with %2$@ %3$@ winds out of the %4$@. </base>
+        <tran loc="ar">الطقس الآن: %1$@ مع ‏%2$@ ‏%3$@ رياح من %4$@. </tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>WMConditionHurricane</Position>
+      <TranslationSet>
+        <base loc="en">Hurricane</base>
+        <tran loc="ar">إعصار</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SUN</Position>
+      <TranslationSet>
+        <base loc="en">SUN</base>
+        <tran loc="ar">الأحد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>FRI</Position>
+      <TranslationSet>
+        <base loc="en">FRI</base>
+        <tran loc="ar">الجمعة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Fahrenheit option</Description>
+      <Position>FAHRENHEIT</Position>
+      <TranslationSet>
+        <base loc="en">F</base>
+        <tran loc="ar">فهرنهيت</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>WMConditionSmoky</Position>
+      <TranslationSet>
+        <base loc="en">Smoky</base>
+        <tran loc="ar">دخاني</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PRESSURE</Position>
+      <TranslationSet>
+        <base loc="en">Pressure</base>
+        <tran loc="ar">الضغط</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>WMConditionCold</Position>
+      <TranslationSet>
+        <base loc="en">Cold</base>
+        <tran loc="ar">بارد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 1 = Condition (Cloudy, Rainy, etc.), 2 = Wind Chill Temperature,  3 = Temperature Unit8 = Current Temperature, 9 = Temperature Unit, 10 = High Temperature for day, 11 = Temperature Unit  </Description>
+      <Position>CONDITION_NOW_WINDCHILL_IT_IS_CURRENTLY_HIGH_WILL_BE</Position>
+      <TranslationSet>
+        <base loc="en">%1$@ conditions with a wind chill of %2$@%3$@. It's currently %8$@%9$@; the high will be %10$@%11$@. </base>
+        <tran loc="ar">الطقس الآن: %1$@ مع برودة رياح من %2$@%3$@. حاليًا هي %8$@%9$@؛ ستكون درجة الحرارة القصوى %10$@%11$@. </tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>WEATHER_OFFLINE</Position>
+      <TranslationSet>
+        <base loc="en">Weather Offline</base>
+        <tran loc="ar">الطقس في وضع عدم الاتصال</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 1 = Condition (Cloudy, Rainy, etc.), 2 = Wind Speed, 3 = Wind units, 4 = Wind Direction, 8 = Condition for tonight, 9 = Low Temperature for tonight, 10 = Temperature Unit  </Description>
+      <Position>CONDITION_NOW_WIND_AFTERNOON_DIFFERENT</Position>
+      <TranslationSet>
+        <base loc="en">%1$@ conditions with %2$@ %3$@ winds out of the %4$@; %8$@ tonight with a low of %9$@%10$@. </base>
+        <tran loc="ar">الطقس الآن: %1$@ مع ‏%2$@ ‏%3$@ رياح من %4$@; %8$@ الليلة مع درجة حرارة دنيا %9$@‏%10$@. </tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 1 = Condition (Cloudy, Rainy, etc.), 2 = Heat Index Temperature, 3 = Temperature Unit, 4 = Wind Speed, 5 = Wind units, 6 = Wind Direction, 8 = Condition for tonight, 9 = Low Temperature for tonight, 10 = Temperature Unit  </Description>
+      <Position>CONDITION_NOW_HEAT_INDEX_WIND_AFTERNOON_DIFFERENT</Position>
+      <TranslationSet>
+        <base loc="en">%1$@ conditions with a heat index of %2$@%3$@ and %4$@ %5$@ winds out of the %6$@; %8$@ tonight with a low of %9$@%10$@. </base>
+        <tran loc="ar">الطقس الآن: %1$@ مع مؤشر حرارة ‏%2$@‏%3$@ و %4$@ %5$@ رياح من %6$@; %8$@ الليلة مع درجة حرارة دنيا ‏%9$@%10$@.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 1 = Condition (Cloudy, Rainy, etc.), 2 = Heat Index Temperature, 3 = Temperature Unit, 4 = Wind Speed, 5 = Wind units, 6 = Wind Direction, 8 = High Temperature for day, 9 = Temperature Unit, 10 = Condition (Cloudy, Rainy, etc.), 11 = Low Temperature for day, 12 = Temperature Unit, </Description>
+      <Position>CONDITION_NOW_HEAT_INDEX_WIND_VISIBILITY_MIDDAY_DIFFERENT</Position>
+      <TranslationSet>
+        <base loc="en">%1$@ conditions with a heat index of %2$@%3$@, %4$@ %5$@ winds out of the %6$@ and low visibility. The high will be %8$@%9$@. %10$@ tonight with a low of %11$@%12$@. </base>
+        <tran loc="ar">الطقس الآن: %1$@ مع مؤشر حرارة %2$@%3$@، و %4$@ %5$@ رياح من %6$@ ورؤية منخفضة. سوف تكون درجة الحرارة القصوى %8$@%9$@. و %10$@ هذه الليلة مع درجة حرارة دنيا %11$@%12$@. </tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 1 = Condition (Cloudy, Rainy, etc.), 2 = Wind Chill Temperature,  3 = Temperature Unit8 = High Temperature for day, 9 = Temperature Unit, 10 = Condition (Cloudy, Rainy, etc.), 11 = Low Temperature for day, 12 = Temperature Unit, </Description>
+      <Position>CONDITION_NOW_WINDCHILL_MIDDAY_DIFFERENT</Position>
+      <TranslationSet>
+        <base loc="en">%1$@ conditions with a wind chill of %2$@%3$@. The high will be %8$@%9$@. %10$@ tonight with a low of %11$@%12$@. </base>
+        <tran loc="ar">الطقس الآن: %1$@ مع برودة رياح من %2$@%3$@. سوف تكون درجة الحرارة القصوى %8$@%9$@. و %10$@ هذه الليلة مع درجة حرارة دنيا %11$@%12$@. </tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SHORT_ESE</Position>
+      <TranslationSet>
+        <base loc="en">ESE</base>
+        <tran loc="ar">ق ج ق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Title of user saved city</Description>
+      <Position>WEATHER</Position>
+      <TranslationSet>
+        <base loc="en">Weather</base>
+        <tran loc="ar">الطقس</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 1 = Condition (Cloudy, Rainy, etc.), 2 = Wind Chill Temperature, 3 = Temperature Unit </Description>
+      <Position>CONDITION_NOW_WINDCHILL_VISIBILITY_</Position>
+      <TranslationSet>
+        <base loc="en">%1$@ conditions with a wind chill of %2$@%3$@ and low visibility. </base>
+        <tran loc="ar">الطقس الآن: %1$@ مع برودة رياح من %2$@%3$@ ورؤية منخفضة. </tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 1 = Condition (Cloudy, Rainy, etc.), 2 = Heat Index Temperature, 3 = Temperature Unit, 4 = Wind Speed, 5 = Wind units, 6 = Wind Direction, 8 = Low Temperature for tonight, 9 = Temperature Unit </Description>
+      <Position>CONDITION_NOW_HEAT_INDEX_WIND_VISIBILITY_AFTERNOON_SAME</Position>
+      <TranslationSet>
+        <base loc="en">%1$@ conditions with a heat index of %2$@%3$@, %4$@ %5$@ winds out of the %6$@ and low visibility. The low tonight will be %8$@%9$@. </base>
+        <tran loc="ar">الطقس الآن: %1$@ مع مؤشر حرارة %2$@%3$@، و %4$@ %5$@ رياح من %6$@ ورؤية منخفضة. سوف تكون أدنى درجة حرارة هي %8$@%9$@. </tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SE</Position>
+      <TranslationSet>
+        <base loc="en">southeast</base>
+        <tran loc="ar">جنوب شرق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> the time format that we get from the date formatter is "h a" in english ("12 PM") but we want "ha" so we remove the string " "</Description>
+      <Position>STRING_TO_REMOVE_FROM_CONDENSED_TIME_FORMAT</Position>
+      <TranslationSet>
+        <base loc="en"> </base>
+        <tran loc="ar"> </tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SHORT_WNW</Position>
+      <TranslationSet>
+        <base loc="en">WNW</base>
+        <tran loc="ar">غ ش غ</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>WMConditionClearNight</Position>
+      <TranslationSet>
+        <base loc="en">Clear</base>
+        <tran loc="ar">صافٍ</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 1 = Condition (Cloudy, Rainy, etc.), 2 = Heat Index Temperature, 3 = Temperature Unit </Description>
+      <Position>CONDITION_NOW_HEAT_INDEX_VISIBILITY_</Position>
+      <TranslationSet>
+        <base loc="en">%1$@ conditions with a heat index of %2$@%3$@ and low visibility. </base>
+        <tran loc="ar">الطقس الآن: %1$@ مع مؤشر حرارة من %2$@%3$@ ورؤية منخفضة. </tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>WMConditionMixedRainAndSnow</Position>
+      <TranslationSet>
+        <base loc="en">Mixed Rain and Snow</base>
+        <tran loc="ar">ثلج مخلوط بالمطر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SHORT_NNE</Position>
+      <TranslationSet>
+        <base loc="en">NNE</base>
+        <tran loc="ar">ش ش ق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>E</Position>
+      <TranslationSet>
+        <base loc="en">east</base>
+        <tran loc="ar">شرق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>HUMIDITY</Position>
+      <TranslationSet>
+        <base loc="en">Humidity</base>
+        <tran loc="ar">رطوبة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>WMConditionHaze</Position>
+      <TranslationSet>
+        <base loc="en">Haze</base>
+        <tran loc="ar">ضباب خفيف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> the first %@ is the direction of the wind, the second the speed and the third the unit. (e.g. "NNW 15 kph")</Description>
+      <Position>WIND_DETAIL_FORMAT_WITH_DIRECTION</Position>
+      <TranslationSet>
+        <base loc="en">%@ %@ %@</base>
+        <tran loc="ar">%@ %@ %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> miles per hour</Description>
+      <Position>MPH</Position>
+      <TranslationSet>
+        <base loc="en">mph</base>
+        <tran loc="ar">ميل/س</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>WMConditionMixedSnowAndSleet</Position>
+      <TranslationSet>
+        <base loc="en">Mixed Snow and Sleet</base>
+        <tran loc="ar">مطر متجمد مخلوط بالثلج</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 1 = Condition (Cloudy, Rainy, etc.), 2 = Heat Index Temperature, 3 = Temperature Unit, 4 = Wind Speed, 5 = Wind units, 6 = Wind Direction, 8 = High Temperature for day, 9 = Temperature Unit, 10 = Condition (Cloudy, Rainy, etc.), 11 = Low Temperature for day, 12 = Temperature Unit, </Description>
+      <Position>CONDITION_NOW_HEAT_INDEX_WIND_MIDDAY_DIFFERENT</Position>
+      <TranslationSet>
+        <base loc="en">%1$@ conditions with a heat index of %2$@%3$@ and %4$@ %5$@ winds out of the %6$@. The high will be %8$@%9$@. %10$@ tonight with a low of %11$@%12$@. </base>
+        <tran loc="ar">الطقس الآن: %1$@ مع مؤشر حرارة %2$@%3$@ و %4$@ %5$@ رياح من %6$@. سوف تكون درجة الحرارة القصوى %8$@%9$@. و %10$@ هذه الليلة مع درجة حرارة دنيا %11$@%12$@. </tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DETAIL_FORMAT_STRING</Position>
+      <TranslationSet>
+        <base loc="en">%@: %@</base>
+        <tran loc="ar">‏%@: %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>WMConditionFreezingDrizzle</Position>
+      <TranslationSet>
+        <base loc="en">Freezing Drizzle</base>
+        <tran loc="ar">رذاذ متجمد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Some languages add a space between the number and %.</Description>
+      <Position>NUMBER_PERCENT</Position>
+      <TranslationSet>
+        <base loc="en">%.0f%%</base>
+        <tran loc="ar">%.0f%%</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 1 = Condition (Cloudy, Rainy, etc.), 8 = Current Temperature, 9 = Temperature Unit, 10 = High Temperature for day, 11 = Temperature Unit  </Description>
+      <Position>TODAY_CONDITION_IT_IS_CURRENTLY_HIGH_WILL_BE</Position>
+      <TranslationSet>
+        <base loc="en">%1$@ today. It's currently %8$@%9$@; the high will be %10$@%11$@. </base>
+        <tran loc="ar">اليوم %1$@. حاليًا %8$@%9$@ وستكون درجة الحرارة القصوى %10$@%11$@. </tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 1 = Condition (Cloudy, Rainy, etc.), 2 = Heat Index Temperature, 3 = Temperature Unit, 4 = Wind Speed, 5 = Wind units, 6 = Wind Direction,  </Description>
+      <Position>CONDITION_NOW_HEAT_INDEX_WIND_</Position>
+      <TranslationSet>
+        <base loc="en">%1$@ conditions with a heat index of %2$@%3$@ and %4$@ %5$@ winds out of the %6$@. </base>
+        <tran loc="ar">الطقس الآن: %1$@ مع مؤشر حرارة %2$@%3$@ و %4$@ %5$@ رياح من %6$@. </tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>FULL_MOON</Position>
+      <TranslationSet>
+        <base loc="en">Full Moon</base>
+        <tran loc="ar">قمر مكتمل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SAT</Position>
+      <TranslationSet>
+        <base loc="en">SAT</base>
+        <tran loc="ar">السبت</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Low Temperature title for a given city</Description>
+      <Position>LOW</Position>
+      <TranslationSet>
+        <base loc="en">L:</base>
+        <tran loc="ar">الصغرى:</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>WMConditionFairDay</Position>
+      <TranslationSet>
+        <base loc="en">Fair</base>
+        <tran loc="ar">لطيف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>WMConditionFairNight</Position>
+      <TranslationSet>
+        <base loc="en">Fair</base>
+        <tran loc="ar">لطيف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 1 = Condition (Cloudy, Rainy, etc.), 2 = Wind Chill Temperature, 3 = Temperature Unit, 4 = Wind Speed, 5 = Wind units, 6 = Wind Direction,  </Description>
+      <Position>CONDITION_NOW_WINDCHILL_WIND_</Position>
+      <TranslationSet>
+        <base loc="en">%1$@ conditions with a wind chill of %2$@%3$@ and %4$@ %5$@ winds out of the %6$@. </base>
+        <tran loc="ar">الطقس الآن: %1$@ مع برودة رياح من %2$@%3$@ و %4$@ %5$@ رياح من %6$@. </tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>WMConditionIsolatedThundershowers</Position>
+      <TranslationSet>
+        <base loc="en">Isolated Thundershowers</base>
+        <tran loc="ar">زخات رعدية معزولة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 1 = Condition (Cloudy, Rainy, etc.), 2 = Wind Chill Temperature, 3 = Temperature Unit, 4 = Wind Speed, 5 = Wind units, 6 = Wind Direction, 8 = Current Temperature, 9 = Temperature Unit, 10 = High Temperature for day, 11 = Temperature Unit  </Description>
+      <Position>CONDITION_NOW_WINDCHILL_WIND_VISIBILITY_IT_IS_CURRENTLY_HIGH_WILL_BE</Position>
+      <TranslationSet>
+        <base loc="en">%1$@ conditions with a wind chill of %2$@%3$@, %4$@ %5$@ winds out of the %6$@ and low visibility. It's currently %8$@%9$@; the high will be %10$@%11$@. </base>
+        <tran loc="ar">الطقس الآن: %1$@ مع برودة رياح من %2$@%3$@، و %4$@ %5$@ رياح من %6$@ ورؤية منخفضة. درجة الحرارة الآن هي %8$@%9$@؛ ستكون درجة الحرارة القصوى %10$@%11$@. </tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>NEW_MOON</Position>
+      <TranslationSet>
+        <base loc="en">New Moon</base>
+        <tran loc="ar">قمر جديد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>NE</Position>
+      <TranslationSet>
+        <base loc="en">northeast</base>
+        <tran loc="ar">شمال شرق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>WMConditionThunderstorms</Position>
+      <TranslationSet>
+        <base loc="en">Thunderstorms</base>
+        <tran loc="ar">عواصف رعدية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SHORT_N</Position>
+      <TranslationSet>
+        <base loc="en">N</base>
+        <tran loc="ar">ش</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>TODAY_CONDITION</Position>
+      <TranslationSet>
+        <base loc="en">%@ today. </base>
+        <tran loc="ar">%@ اليوم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 1 = Condition (Cloudy, Rainy, etc.), 2 = High Temperature for day, 3 = Temperature Unit, 4 = Low Temperature for day, 5 = Temperature Unit,  </Description>
+      <Position>CONDITION_LIKELY_TOMORROW_WITH_HIGH_AND_LOW</Position>
+      <TranslationSet>
+        <base loc="en">%1$@ likely tomorrow with a high of %2$@%3$@ and low of %4$@%5$@. </base>
+        <tran loc="ar">سيكون %1$@ على الأرجح غدًا مع درجة حرارة قصوى %2$@%3$@ ودرجة حرارة دنيا %4$@%5$@. </tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>TUE</Position>
+      <TranslationSet>
+        <base loc="en">TUE</base>
+        <tran loc="ar">الثلاثاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>WANING_GIBBOUS</Position>
+      <TranslationSet>
+        <base loc="en">Waning Gibbous</base>
+        <tran loc="ar">قمر غير مكتمل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>WMConditionBlowingSnow</Position>
+      <TranslationSet>
+        <base loc="en">Blowing Snow</base>
+        <tran loc="ar">زوبعة ثلجية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 1 = Condition (Cloudy, Rainy, etc.), 2 = Wind Chill Temperature, 3 = Temperature Unit, 4 = Wind Speed, 5 = Wind units, 6 = Wind Direction, 8 = Low Temperature for tonight, 9 = Temperature Unit </Description>
+      <Position>CONDITION_NOW_WINDCHILL_WIND_AFTERNOON_SAME</Position>
+      <TranslationSet>
+        <base loc="en">%1$@ conditions with a wind chill of %2$@%3$@ and %4$@ %5$@ winds out of the %6$@. The low tonight will be %8$@%9$@. </base>
+        <tran loc="ar">الطقس الآن: %1$@ مع برودة رياح من %2$@%3$@ و %4$@ %5$@ رياح من %6$@. سوف تكون أدنى درجة حرارة هي %8$@%9$@. </tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>MON</Position>
+      <TranslationSet>
+        <base loc="en">MON</base>
+        <tran loc="ar">الاثنين</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>WMConditionSevereThunderstorms</Position>
+      <TranslationSet>
+        <base loc="en">Severe Thunderstorms</base>
+        <tran loc="ar">عواصف رعدية شديدة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 1 = Condition (Cloudy, Rainy, etc.), 2 = Heat Index Temperature, 3 = Temperature Unit,8 = Current Temperature, 9 = Temperature Unit, 10 = High Temperature for day, 11 = Temperature Unit  </Description>
+      <Position>CONDITION_NOW_HEAT_INDEX_IT_IS_CURRENTLY_HIGH_WILL_BE</Position>
+      <TranslationSet>
+        <base loc="en">%1$@ conditions with a heat index of %2$@%3$@. It's currently %8$@%9$@; the high will be %10$@%11$@. </base>
+        <tran loc="ar">الطقس الآن: %1$@ مع مؤشر حرارة %2$@%3$@. حاليًا هي %8$@%9$@؛ ستكون درجة الحرارة القصوى %10$@%11$@. </tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 1 = Condition (Cloudy, Rainy, etc.), 2 = Wind Chill Temperature, 3 = Temperature Unit, 4 = Wind Speed, 5 = Wind units, 6 = Wind Direction, 8 = High Temperature for day, 9 = Temperature Unit, 10 = Low Temperature for day, 11 = Temperature Unit </Description>
+      <Position>CONDITION_NOW_WINDCHILL_WIND_VISIBILITY_MIDDAY_SAME</Position>
+      <TranslationSet>
+        <base loc="en">%1$@ conditions with a wind chill of %2$@%3$@, %4$@ %5$@ winds out of the %6$@ and low visibility. The high will be %8$@%9$@. The low tonight will be %10$@%11$@. </base>
+        <tran loc="ar">الطقس الآن: %1$@ مع برودة رياح من %2$@%3$@، و %4$@ %5$@ رياح من %6$@ ورؤية منخفضة. سوف تكون درجة الحرارة القصوى %8$@%9$@. سوف تكون أدنى درجة حرارة هي %10$@%11$@. </tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UV_INDEX</Position>
+      <TranslationSet>
+        <base loc="en">UV Index</base>
+        <tran loc="ar">أشعة فوق البنفسجية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 1 = Condition (Cloudy, Rainy, etc.), 8 = Current Temperature, 9 = Temperature Unit, 10 = High Temperature for day, 11 = Temperature Unit  </Description>
+      <Position>CONDITION_NOW_VISIBILITY_IT_IS_CURRENTLY_HIGH_WILL_BE</Position>
+      <TranslationSet>
+        <base loc="en">%1$@ conditions with low visibility. It's currently %8$@%9$@; the high will be %10$@%11$@. </base>
+        <tran loc="ar">الطقس الآن: %1$@ ورؤية منخفضة. حاليًا درجة الحرارة هي %8$@%9$@. ستكون درجة الحرارة القصوى %10$@%11$@. </tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Celsius option</Description>
+      <Position>CELSIUS</Position>
+      <TranslationSet>
+        <base loc="en">C</base>
+        <tran loc="ar">مئوية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 1 = Condition (Cloudy, Rainy, etc.), 2 = Wind Speed, 3 = Wind units, 4 = Wind Direction, 8 = Low Temperature for tonight, 9 = Temperature Unit </Description>
+      <Position>CONDITION_NOW_WIND_AFTERNOON_SAME</Position>
+      <TranslationSet>
+        <base loc="en">%1$@ conditions with %2$@ %3$@ winds out of the %4$@. The low tonight will be %8$@%9$@. </base>
+        <tran loc="ar">الطقس الآن: %1$@ مع %2$@ %3$@ رياح من %4$@. ستكون أدنى درجة حرارة هي %8$@%9$@. </tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SHORT_NW</Position>
+      <TranslationSet>
+        <base loc="en">NW</base>
+        <tran loc="ar">ش غ</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>WMConditionDrizzle</Position>
+      <TranslationSet>
+        <base loc="en">Drizzle</base>
+        <tran loc="ar">رذاذ</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 1 = Condition (Cloudy, Rainy, etc.), 2 = Heat Index Temperature, 3 = Temperature Unit,8 = Low Temperature for tonight, 9 = Temperature Unit </Description>
+      <Position>CONDITION_NOW_HEAT_INDEX_AFTERNOON_SAME</Position>
+      <TranslationSet>
+        <base loc="en">%1$@ conditions with a heat index of %2$@%3$@. The low tonight will be %8$@%9$@. </base>
+        <tran loc="ar">الطقس الآن: %1$@ مع مؤشر حرارة %2$@%3$@. ستكون درجة الحرارة الصغرى هذه الليلة هي %8$@%9$@. </tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 1 = Condition (Cloudy, Rainy, etc.), 2 = Wind Chill Temperature,  3 = Temperature Unit8 = High Temperature for day, 9 = Temperature Unit, 10 = Low Temperature for day, 11 = Temperature Unit </Description>
+      <Position>CONDITION_NOW_WINDCHILL_MIDDAY_SAME</Position>
+      <TranslationSet>
+        <base loc="en">%1$@ conditions with a wind chill of %2$@%3$@. The high will be %8$@%9$@. The low tonight will be %10$@%11$@. </base>
+        <tran loc="ar">الطقس الآن: %1$@ مع برودة رياح من %2$@%3$@. ستكون درجة الحرارة القصوى هي %8$@%9$@. ستكون درجة الحرارة الصغرى هذه الليلة %10$@%11$@. </tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>WMConditionHeavySnow</Position>
+      <TranslationSet>
+        <base loc="en">Heavy Snow</base>
+        <tran loc="ar">ثلوج غزيرة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CHANCE_OF_SNOW</Position>
+      <TranslationSet>
+        <base loc="en">Chance of Snow</base>
+        <tran loc="ar">فرصة هطول الثلوج</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>WMConditionLightSnowShowers</Position>
+      <TranslationSet>
+        <base loc="en">Light Snow Showers</base>
+        <tran loc="ar">زخات ثلجية خفيفة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 1 = Condition (Cloudy, Rainy, etc.), %2 = Wind Speed, 3 = Wind units, 4 = Wind Direction, 8 = Low Temperature for tonight, 9 = Temperature Unit </Description>
+      <Position>CONDITION_NOW_WIND_VISIBILITY_AFTERNOON_SAME</Position>
+      <TranslationSet>
+        <base loc="en">%1$@ conditions with %2$@ %3$@ winds out of the %4$@ and low visibility. The low tonight will be %8$@%9$@. </base>
+        <tran loc="ar">الطقس الآن: %1$@ مع %2$@ %3$@ رياح من %4$@ ورؤية منخفضة. ستكون أدنى درجة حرارة هي %8$@%9$@. </tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>TODAY</Position>
+      <TranslationSet>
+        <base loc="en">Today</base>
+        <tran loc="ar">اليوم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 1 = Condition (Cloudy, Rainy, etc.), %2 = Wind Speed, 3 = Wind units, 4 = Wind Direction,  </Description>
+      <Position>CONDITION_NOW_WIND_VISIBILITY_</Position>
+      <TranslationSet>
+        <base loc="en">%1$@ conditions with %2$@ %3$@ winds out of the %4$@ and low visibility. </base>
+        <tran loc="ar">الطقس الآن: %1$@ مع ‏%2$@ ‏%3$@ رياح من %4$@ ورؤية منخفضة. </tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>WMConditionScatteredShowers</Position>
+      <TranslationSet>
+        <base loc="en">Scattered Showers</base>
+        <tran loc="ar">زخات مطر متناثرة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>WMConditionSleet</Position>
+      <TranslationSet>
+        <base loc="en">Sleet</base>
+        <tran loc="ar">أمطار نصف متجمدة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 1 = Condition (Cloudy, Rainy, etc.), 2 = Heat Index Temperature, 3 = Temperature Unit8 = High Temperature for day, 9 = Temperature Unit, 10 = Condition (Cloudy, Rainy, etc.), 11 = Low Temperature for day, 12 = Temperature Unit, </Description>
+      <Position>CONDITION_NOW_HEAT_INDEX_VISIBILITY_MIDDAY_DIFFERENT</Position>
+      <TranslationSet>
+        <base loc="en">%1$@ conditions with a heat index of %2$@%3$@ and low visibility. The high will be %8$@%9$@. %10$@ tonight with a low of %11$@%12$@. </base>
+        <tran loc="ar">الطقس الآن: %1$@ مع مؤشر حرارة %2$@%3$@ ورؤية منخفضة. سوف تكون درجة الحرارة القصوى %8$@%9$@. و %10$@ هذه الليلة مع درجة حرارة دنيا %11$@%12$@. </tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 1 = Condition (Cloudy, Rainy, etc.),  </Description>
+      <Position>CONDITION_NOW_VISIBILITY_</Position>
+      <TranslationSet>
+        <base loc="en">%1$@ conditions with low visibility. </base>
+        <tran loc="ar">الطقس الآن: %1$@ ورؤية منخفضة. </tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SHORT_SE</Position>
+      <TranslationSet>
+        <base loc="en">SE</base>
+        <tran loc="ar">ج ق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 1 = Condition (Cloudy, Rainy, etc.), 2 = Wind Chill Temperature,  3 = Temperature Unit8 = Condition for tonight, 9 = Low Temperature for tonight, 10 = Temperature Unit  </Description>
+      <Position>CONDITION_NOW_WINDCHILL_AFTERNOON_DIFFERENT</Position>
+      <TranslationSet>
+        <base loc="en">%1$@ conditions with a wind chill of %2$@%3$@; %8$@ tonight with a low of %9$@%10$@. </base>
+        <tran loc="ar">الطقس الآن: %1$@ مع برودة رياح من %2$@%3$@; %8$@ هذه الليلة مع درجة حرارة دنيا %10$@%9$@. </tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 1 = Condition (Cloudy, Rainy, etc.), 2 = Heat Index Temperature, 3 = Temperature Unit, 4 = Wind Speed, 5 = Wind units, 6 = Wind Direction, 8 = High Temperature for day, 9 = Temperature Unit, 10 = Low Temperature for day, 11 = Temperature Unit </Description>
+      <Position>CONDITION_NOW_HEAT_INDEX_WIND_MIDDAY_SAME</Position>
+      <TranslationSet>
+        <base loc="en">%1$@ conditions with a heat index of %2$@%3$@ and %4$@ %5$@ winds out of the %6$@. The high will be %8$@%9$@. The low tonight will be %10$@%11$@. </base>
+        <tran loc="ar">الطقس الآن: %1$@ مع مؤشر حرارة %2$@%3$@ و %4$@ %5$@ رياح من %6$@. سوف تكون درجة الحرارة القصوى %8$@%9$@. سوف تكون أدنى درجة حرارة هي %10$@%11$@. </tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>THIRD_QUARTER_MOON</Position>
+      <TranslationSet>
+        <base loc="en">Third Quarter Moon</base>
+        <tran loc="ar">الربع الثالث من القمر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 1 = Condition (Cloudy, Rainy, etc.), 2 = Wind Chill Temperature,  3 = Temperature Unit8 = Low Temperature for tonight, 9 = Temperature Unit </Description>
+      <Position>CONDITION_NOW_WINDCHILL_AFTERNOON_SAME</Position>
+      <TranslationSet>
+        <base loc="en">%1$@ conditions with a wind chill of %2$@%3$@. The low tonight will be %8$@%9$@. </base>
+        <tran loc="ar">الطقس الآن: %1$@ مع برودة رياح من %2$@%3$@. ستكون درجة الحرارة الصغرى هذه الليلة هي %8$@%9$@. </tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>WMConditionWindy</Position>
+      <TranslationSet>
+        <base loc="en">Windy</base>
+        <tran loc="ar">عاصف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SLASH</Position>
+      <TranslationSet>
+        <base loc="en">/</base>
+        <tran loc="ar">/</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>WMConditionSnow</Position>
+      <TranslationSet>
+        <base loc="en">Snow</base>
+        <tran loc="ar">ثلج</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>WMConditionScatteredThunderstorms</Position>
+      <TranslationSet>
+        <base loc="en">Scattered Thunderstorms</base>
+        <tran loc="ar">عواصف رعدية متناثرة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 1 = Condition (Cloudy, Rainy, etc.), 8 = Condition for tonight, 9 = Low Temperature for tonight, 10 = Temperature Unit  </Description>
+      <Position>CURRENTLY_COMMA_AFTERNOON_DIFFERENT</Position>
+      <TranslationSet>
+        <base loc="en">%1$@ currently; %8$@ tonight with a low of %9$@%10$@. </base>
+        <tran loc="ar">حاليًا %1$@؛ الليلة %8$@ مع درجة حرارة دنيا %9$@%10$@. </tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 1 = Condition (Cloudy, Rainy, etc.), 8 = Condition for tonight, 9 = Low Temperature for tonight, 10 = Temperature Unit  </Description>
+      <Position>CONDITION_NOW_VISIBILITY_AFTERNOON_DIFFERENT</Position>
+      <TranslationSet>
+        <base loc="en">%1$@ conditions with low visibility; %8$@ tonight with a low of %9$@%10$@. </base>
+        <tran loc="ar">الطقس الآن: %1$@ ورؤية منخفضة; هذه الليلة %8$@ مع درجة حرارة دنيا %9$@%10$@. </tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> High Temp / Low Temp --- ex.  100/90</Description>
+      <Position>HI_SLASH_LOW</Position>
+      <TranslationSet>
+        <base loc="en">%@%@%@</base>
+        <tran loc="ar">‏%@%@%@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 1 = Condition (Cloudy, Rainy, etc.), 2 = Wind Chill Temperature, 3 = Temperature Unit, 4 = Wind Speed, 5 = Wind units, 6 = Wind Direction, 8 = High Temperature for day, 9 = Temperature Unit, 10 = Condition (Cloudy, Rainy, etc.), 11 = Low Temperature for day, 12 = Temperature Unit, </Description>
+      <Position>CONDITION_NOW_WINDCHILL_WIND_MIDDAY_DIFFERENT</Position>
+      <TranslationSet>
+        <base loc="en">%1$@ conditions with a wind chill of %2$@%3$@ and %4$@ %5$@ winds out of the %6$@. The high will be %8$@%9$@. %10$@ tonight with a low of %11$@%12$@. </base>
+        <tran loc="ar">الطقس الآن: %1$@ مع برودة رياح من %2$@%3$@ و %4$@ %5$@ رياح من %6$@. سوف تكون درجة الحرارة القصوى %8$@%9$@. و %10$@ هذه الليلة مع درجة حرارة دنيا %11$@%12$@. </tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SHORT_SSW</Position>
+      <TranslationSet>
+        <base loc="en">SSW</base>
+        <tran loc="ar">ج ج غ</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>WMConditionScatteredSnowShowers</Position>
+      <TranslationSet>
+        <base loc="en">Scattered Snow Showers</base>
+        <tran loc="ar">زخات ثلجية متناثرة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SHORT_E</Position>
+      <TranslationSet>
+        <base loc="en">E</base>
+        <tran loc="ar">ق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 1 = Condition (Cloudy, Rainy, etc.), %2 = Wind Speed, 3 = Wind units, 4 = Wind Direction, 8 = High Temperature for day, 9 = Temperature Unit, 10 = Low Temperature for day, 11 = Temperature Unit </Description>
+      <Position>CONDITION_NOW_WIND_VISIBILITY_MIDDAY_SAME</Position>
+      <TranslationSet>
+        <base loc="en">%1$@ conditions with %2$@ %3$@ winds out of the %4$@ and low visibility. The high will be %8$@%9$@. The low tonight will be %10$@%11$@. </base>
+        <tran loc="ar">الطقس الآن: %1$@ مع %2$@ %3$@ رياح من %4$@ ورؤية منخفضة. ستكون درجة الحرارة القصوى هي %8$@%9$@. وأدنى درجة حرارة هي %10$@%11$@. </tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>THU</Position>
+      <TranslationSet>
+        <base loc="en">THU</base>
+        <tran loc="ar">الخميس</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 
+  Localizable.strings
+  WeatherKit
+
+  Created by JP Cafaro on 5/13/14.
+  Copyright (c) 2014 Apple Inc. All rights reserved.
+</Description>
+      <Position>WMConditionTornado</Position>
+      <TranslationSet>
+        <base loc="en">Tornado</base>
+        <tran loc="ar">تورنادو</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 1 = Condition (Cloudy, Rainy, etc.), %2 = Wind Speed, 3 = Wind units, 4 = Wind Direction, 8 = High Temperature for day, 9 = Temperature Unit, 10 = Condition (Cloudy, Rainy, etc.), 11 = Low Temperature for day, 12 = Temperature Unit, </Description>
+      <Position>CONDITION_NOW_WIND_VISIBILITY_MIDDAY_DIFFERENT</Position>
+      <TranslationSet>
+        <base loc="en">%1$@ conditions with %2$@ %3$@ winds out of the %4$@ and low visibility. The high will be %8$@%9$@. %10$@ tonight with a low of %11$@%12$@. </base>
+        <tran loc="ar">الطقس الآن: %1$@ مع %2$@ %3$@ رياح من %4$@ ورؤية منخفضة. سوف تكون درجة الحرارة القصوى %8$@%9$@. و %10$@ هذه الليلة مع درجة حرارة دنيا %11$@%12$@. </tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>WMConditionTropicalStorm</Position>
+      <TranslationSet>
+        <base loc="en">Tropical Storm</base>
+        <tran loc="ar">عاصفة استوائية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 1 = Condition (Cloudy, Rainy, etc.), 2 = Wind Chill Temperature, 3 = Temperature Unit8 = Current Temperature, 9 = Temperature Unit, 10 = High Temperature for day, 11 = Temperature Unit  </Description>
+      <Position>CONDITION_NOW_WINDCHILL_VISIBILITY_IT_IS_CURRENTLY_HIGH_WILL_BE</Position>
+      <TranslationSet>
+        <base loc="en">%1$@ conditions with a wind chill of %2$@%3$@ and low visibility. It's currently %8$@%9$@; the high will be %10$@%11$@. </base>
+        <tran loc="ar">الطقس الآن: %1$@ مع برودة رياح من %2$@%3$@ ورؤية منخفضة. حاليًا هي %8$@%9$@؛ ستكون درجة الحرارة القصوى %10$@%11$@. </tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SUNSET</Position>
+      <TranslationSet>
+        <base loc="en">Sunset</base>
+        <tran loc="ar">غروب</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SUNSET_COMPACT</Position>
+      <TranslationSet>
+        <base loc="en">Sunset</base>
+        <tran loc="ar">غروب</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>WMConditionFoggy</Position>
+      <TranslationSet>
+        <base loc="en">Foggy</base>
+        <tran loc="ar">ضبابي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>HEAT_INDEX</Position>
+      <TranslationSet>
+        <base loc="en">Heat Index</base>
+        <tran loc="ar">مؤشر الحرارة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 1 = Condition (Cloudy, Rainy, etc.), 2 = Wind Chill Temperature, 3 = Temperature Unit8 = Condition for tonight, 9 = Low Temperature for tonight, 10 = Temperature Unit  </Description>
+      <Position>CONDITION_NOW_WINDCHILL_VISIBILITY_AFTERNOON_DIFFERENT</Position>
+      <TranslationSet>
+        <base loc="en">%1$@ conditions with a wind chill of %2$@%3$@ and low visibility; %8$@ tonight with a low of %9$@%10$@. </base>
+        <tran loc="ar">الطقس الآن: %1$@ مع برودة رياح من %2$@%3$@ ورؤية منخفضة; %8$@ هذه الليلة مع درجة حرارة دنيا %10$@%9$@. </tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>FIRST_QUARTER_MOON</Position>
+      <TranslationSet>
+        <base loc="en">First Quarter Moon</base>
+        <tran loc="ar">الربع الأول من القمر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SHORT_NNW</Position>
+      <TranslationSet>
+        <base loc="en">NNW</base>
+        <tran loc="ar">ش ش غ</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 1 = Condition (Cloudy, Rainy, etc.), 2 = Wind Chill Temperature, 3 = Temperature Unit8 = High Temperature for day, 9 = Temperature Unit, 10 = Condition (Cloudy, Rainy, etc.), 11 = Low Temperature for day, 12 = Temperature Unit, </Description>
+      <Position>CONDITION_NOW_WINDCHILL_VISIBILITY_MIDDAY_DIFFERENT</Position>
+      <TranslationSet>
+        <base loc="en">%1$@ conditions with a wind chill of %2$@%3$@ and low visibility. The high will be %8$@%9$@. %10$@ tonight with a low of %11$@%12$@. </base>
+        <tran loc="ar">الطقس الآن: %1$@ مع برودة رياح من %2$@%3$@ ورؤية منخفضة. سوف تكون درجة الحرارة القصوى %8$@%9$@. و %10$@ هذه الليلة مع درجة حرارة دنيا %11$@%12$@. </tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SUNRISE</Position>
+      <TranslationSet>
+        <base loc="en">Sunrise</base>
+        <tran loc="ar">الشروق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SUNRISE_COMPACT</Position>
+      <TranslationSet>
+        <base loc="en">Sunrise</base>
+        <tran loc="ar">الشروق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CHANCE_OF_RAIN</Position>
+      <TranslationSet>
+        <base loc="en">Chance of Rain</base>
+        <tran loc="ar">فرصة هطول أمطار</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 1 = Condition (Cloudy, Rainy, etc.), 2 = Wind Chill Temperature, 3 = Temperature Unit, 4 = Wind Speed, 5 = Wind units, 6 = Wind Direction, 8 = High Temperature for day, 9 = Temperature Unit, 10 = Low Temperature for day, 11 = Temperature Unit </Description>
+      <Position>CONDITION_NOW_WINDCHILL_WIND_MIDDAY_SAME</Position>
+      <TranslationSet>
+        <base loc="en">%1$@ conditions with a wind chill of %2$@%3$@ and %4$@ %5$@ winds out of the %6$@. The high will be %8$@%9$@. The low tonight will be %10$@%11$@. </base>
+        <tran loc="ar">الطقس الآن: %1$@ مع برودة رياح من %2$@%3$@ و %4$@ %5$@ رياح من %6$@. سوف تكون درجة الحرارة القصوى %8$@%9$@. سوف تكون أدنى درجة حرارة هي %10$@%11$@. </tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>WMConditionSunny</Position>
+      <TranslationSet>
+        <base loc="en">Sunny</base>
+        <tran loc="ar">مشمس</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>KILOMETERS</Position>
+      <TranslationSet>
+        <base loc="en">km</base>
+        <tran loc="ar">كم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>KM</Position>
+      <TranslationSet>
+        <base loc="en">km</base>
+        <tran loc="ar">كم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 1 = Condition (Cloudy, Rainy, etc.), 2 = Heat Index Temperature, 3 = Temperature Unit, 4 = Wind Speed, 5 = Wind units, 6 = Wind Direction, 8 = Current Temperature, 9 = Temperature Unit, 10 = High Temperature for day, 11 = Temperature Unit  </Description>
+      <Position>CONDITION_NOW_HEAT_INDEX_WIND_VISIBILITY_IT_IS_CURRENTLY_HIGH_WILL_BE</Position>
+      <TranslationSet>
+        <base loc="en">%1$@ conditions with a heat index of %2$@%3$@, %4$@ %5$@ winds out of the %6$@ and low visibility. It's currently %8$@%9$@; the high will be %10$@%11$@. </base>
+        <tran loc="ar">الطقس الآن: %1$@ مع مؤشر حرارة %2$@%3$@، و %4$@ %5$@ رياح من %6$@ ورؤية منخفضة. درجة الحرارة الآن هي %8$@%9$@؛ ستكون درجة الحرارة القصوى %10$@°%11$@.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CENTIMETERS</Position>
+      <TranslationSet>
+        <base loc="en">cm</base>
+        <tran loc="ar">سم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>WMConditionShowers</Position>
+      <TranslationSet>
+        <base loc="en">Showers</base>
+        <tran loc="ar">زخات مطر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 1 = Condition (Cloudy, Rainy, etc.), 2 = High Temperature for day, 3 = Temperature Unit, 4 = Condition (Cloudy, Rainy, etc.), 5 = Low Temperature for day, 6 = Temperature Unit  </Description>
+      <Position>CURRENTLY_NOW_MIDDAY_DIFFERENT</Position>
+      <TranslationSet>
+        <base loc="en">%1$@ currently. The high will be %2$@%3$@. %4$@ tonight with a low of %5$@%6$@. </base>
+        <tran loc="ar">%1$@ حاليًا. ستكون درجة الحرارة القصوى %2$@%3$@. و %4$@ درجة الحرارة الصغرى هذه الليلة %5$@%6$@. </tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>NW</Position>
+      <TranslationSet>
+        <base loc="en">northwest</base>
+        <tran loc="ar">شمال غرب</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>WANING_CRESCENT</Position>
+      <TranslationSet>
+        <base loc="en">Waning Crescent</base>
+        <tran loc="ar">محاق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>WMConditionMostlyCloudyDay</Position>
+      <TranslationSet>
+        <base loc="en">Mostly Cloudy</base>
+        <tran loc="ar">غائم أغلب الوقت</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>WMConditionMostlyCloudyNight</Position>
+      <TranslationSet>
+        <base loc="en">Mostly Cloudy</base>
+        <tran loc="ar">غائم أغلب الوقت</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 1 = Condition (Cloudy, Rainy, etc.), 2 = High Temperature for day, 3 = Temperature Unit , 4 = Low Temperature for day, 5 = Temperature Unit  </Description>
+      <Position>CURRENTLY_NOW_MIDDAY_SAME</Position>
+      <TranslationSet>
+        <base loc="en">%1$@ currently. The high will be %2$@%3$@. The low tonight will be %4$@%5$@. </base>
+        <tran loc="ar">%1$@ حاليًا. ستكون درجة الحرارة القصوى %2$@%3$@. ودرجة الحرارة الصغرى هذه الليلة %4$@%5$@. </tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>NOW</Position>
+      <TranslationSet>
+        <base loc="en">Now</base>
+        <tran loc="ar">الآن</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>LOW_TEMP</Position>
+      <TranslationSet>
+        <base loc="en">L %@</base>
+        <tran loc="ar">الصغرى %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>S</Position>
+      <TranslationSet>
+        <base loc="en">south</base>
+        <tran loc="ar">جنوب</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>WAXING_CRESCENT</Position>
+      <TranslationSet>
+        <base loc="en">Waxing Crescent</base>
+        <tran loc="ar">هلال</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 1 = Condition (Cloudy, Rainy, etc.), 2 = Wind Speed, 3 = Wind units, 4 = Wind Direction, 8 = Current Temperature, 9 = Temperature Unit, 10 = High Temperature for day, 11 = Temperature Unit  </Description>
+      <Position>CONDITION_NOW_WIND_IT_IS_CURRENTLY_HIGH_WILL_BE</Position>
+      <TranslationSet>
+        <base loc="en">%1$@ conditions with %2$@ %3$@ winds out of the %4$@. It's currently %8$@%9$@; the high will be %10$@%11$@. </base>
+        <tran loc="ar">الطقس الآن: %1$@ مع %2$@ %3$@ رياح من %4$@. درجة الحرارة الآن هي %8$@%9$@؛ ستكون درجة الحرارة القصوى %10$@%11$@. </tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>WMConditionHail</Position>
+      <TranslationSet>
+        <base loc="en">Hail</base>
+        <tran loc="ar">بَرَد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>WMConditionIsolatedThunderstorms</Position>
+      <TranslationSet>
+        <base loc="en">Isolated Thunderstorms</base>
+        <tran loc="ar">عواصف رعدية معزولة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>MILLIBAR</Position>
+      <TranslationSet>
+        <base loc="en">mb</base>
+        <tran loc="ar">ميليبار</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 1 = Condition (Cloudy, Rainy, etc.), 2 = Heat Index Temperature, 3 = Temperature Unit, 4 = Wind Speed, 5 = Wind units, 6 = Wind Direction, 8 = Low Temperature for tonight, 9 = Temperature Unit </Description>
+      <Position>CONDITION_NOW_HEAT_INDEX_WIND_AFTERNOON_SAME</Position>
+      <TranslationSet>
+        <base loc="en">%1$@ conditions with a heat index of %2$@%3$@ and %4$@ %5$@ winds out of the %6$@. The low tonight will be %8$@%9$@. </base>
+        <tran loc="ar">الطقس الآن: %1$@ مع مؤشر حرارة %2$@%3$@ و %4$@ %5$@ رياح من %6$@. سوف تكون أدنى درجة حرارة هي %8$@%9$@. </tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CHANCE_OF_HAIL</Position>
+      <TranslationSet>
+        <base loc="en">Chance of Hail</base>
+        <tran loc="ar">فرصة هطول بَرَد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SW</Position>
+      <TranslationSet>
+        <base loc="en">southwest</base>
+        <tran loc="ar">جنوب غرب</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> High Temperature title for a given city</Description>
+      <Position>HIGH</Position>
+      <TranslationSet>
+        <base loc="en">H:</base>
+        <tran loc="ar">العظمى:</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 1 = Condition (Cloudy, Rainy, etc.), 8 = High Temperature for day, 9 = Temperature Unit, 10 = Condition (Cloudy, Rainy, etc.), 11 = Low Temperature for day, 12 = Temperature Unit, </Description>
+      <Position>CONDITION_NOW_VISIBILITY_MIDDAY_DIFFERENT</Position>
+      <TranslationSet>
+        <base loc="en">%1$@ conditions with low visibility. The high will be %8$@%9$@. %10$@ tonight with a low of %11$@%12$@. </base>
+        <tran loc="ar">الطقس الآن: %1$@ ورؤية منخفضة. ستكون درجة الحرارة القصوى هي %8$@%9$@. و %10$@ الليلة مع درجة حرارة دنيا %11$@%12$@.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SHORT_ENE</Position>
+      <TranslationSet>
+        <base loc="en">ENE</base>
+        <tran loc="ar">ق ش ق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 1 = Condition (Cloudy, Rainy, etc.), 2 = Wind Speed, 3 = Wind units, 4 = Wind Direction, 8 = High Temperature for day, 9 = Temperature Unit, 10 = Low Temperature for day, 11 = Temperature Unit </Description>
+      <Position>CONDITION_NOW_WIND_MIDDAY_SAME</Position>
+      <TranslationSet>
+        <base loc="en">%1$@ conditions with %2$@ %3$@ winds out of the %4$@. The high will be %8$@%9$@. The low tonight will be %10$@%11$@. </base>
+        <tran loc="ar">الطقس الآن: %1$@ مع %2$@ %3$@ رياح من %4$@. ستكون درجة الحرارة القصوى هي %8$@%9$@. وأدنى درجة حرارة هي %10$@%11$@. </tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>WAXING_GIBBOUS</Position>
+      <TranslationSet>
+        <base loc="en">Waxing Gibbous</base>
+        <tran loc="ar">قمر غير مكتمل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>WMConditionFreezingRain</Position>
+      <TranslationSet>
+        <base loc="en">Freezing Rain</base>
+        <tran loc="ar">أمطار متجمدة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SHORT_WSW</Position>
+      <TranslationSet>
+        <base loc="en">WSW</base>
+        <tran loc="ar">غ ج غ</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>WMConditionCloudy</Position>
+      <TranslationSet>
+        <base loc="en">Cloudy</base>
+        <tran loc="ar">غائم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 1 = Condition (Cloudy, Rainy, etc.), 2 = Heat Index Temperature, 3 = Temperature Unit,8 = High Temperature for day, 9 = Temperature Unit, 10 = Low Temperature for day, 11 = Temperature Unit </Description>
+      <Position>CONDITION_NOW_HEAT_INDEX_MIDDAY_SAME</Position>
+      <TranslationSet>
+        <base loc="en">%1$@ conditions with a heat index of %2$@%3$@. The high will be %8$@%9$@. The low tonight will be %10$@%11$@. </base>
+        <tran loc="ar">الطقس الآن: %1$@ مع مؤشر حرارة %2$@%3$@. ستكون درجة الحرارة القصوى هي %8$@%9$@. ستكون درجة الحرارة الصغرى هذه الليلة %10$@%11$@. </tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>MAJOR_EVENT_FORMAT</Position>
+      <TranslationSet>
+        <base loc="en">%@ Watch: check your local media for more information.</base>
+        <tran loc="ar">تحذير %@: تحقق من وسائطك المحلية للحصول على المزيد من المعلومات.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 1 = Condition (Cloudy, Rainy, etc.), 2 = Heat Index Temperature, 3 = Temperature Unit8 = Low Temperature for tonight, 9 = Temperature Unit </Description>
+      <Position>CONDITION_NOW_HEAT_INDEX_VISIBILITY_AFTERNOON_SAME</Position>
+      <TranslationSet>
+        <base loc="en">%1$@ conditions with a heat index of %2$@%3$@ and low visibility. The low tonight will be %8$@%9$@. </base>
+        <tran loc="ar">الطقس الآن: %1$@ مع مؤشر حرارة %2$@%3$@ ورؤية منخفضة. ستكون درجة الحرارة الصغرى هذه الليلة هي %8$@%9$@. </tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>W</Position>
+      <TranslationSet>
+        <base loc="en">west</base>
+        <tran loc="ar">غرب</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>TUES</Position>
+      <TranslationSet>
+        <base loc="en">TUES</base>
+        <tran loc="ar">الثلاثاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 1 = Condition (Cloudy, Rainy, etc.), 8 = Current Temperature, 9 = Temperature Unit, 10 = High Temperature for day, 11 = Temperature Unit  </Description>
+      <Position>CURRENTLY_NOW_IT_IS_CURRENTLY_HIGH_WILL_BE</Position>
+      <TranslationSet>
+        <base loc="en">%1$@ currently. It's %8$@%9$@; the high will be %10$@%11$@. </base>
+        <tran loc="ar">%1$@ حاليًا %8$@%9$@ وستكون درجة الحرارة القصوى %10$@%11$@. </tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>WMConditionSnowShowers</Position>
+      <TranslationSet>
+        <base loc="en">Snow Showers</base>
+        <tran loc="ar">زخات ثلجية</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+</Proj>

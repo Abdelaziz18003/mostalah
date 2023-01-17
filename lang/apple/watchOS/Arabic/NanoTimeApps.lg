@@ -1,0 +1,697 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Proj>
+  <ProjName>NanoTimeApps</ProjName>
+  <File>
+    <Filepath>NanoTimeApps/System/Library/AppPlaceholders/NanoAlarm.app/en.lproj/InfoPlist.strings</Filepath>
+    <TextItem>
+      <Description> Localized versions of Info.plist keys </Description>
+      <Position>CFBundleDisplayName</Position>
+      <TranslationSet>
+        <base loc="en">Alarms</base>
+        <tran loc="ar">التنبيهات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CFBundleName</Position>
+      <TranslationSet>
+        <base loc="en">Alarms</base>
+        <tran loc="ar">التنبيهات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ALARM_SNOOZE_ACTION</Position>
+      <TranslationSet>
+        <base loc="en">Snooze</base>
+        <tran loc="ar">غفوة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ALARM_STOP_ACTION</Position>
+      <TranslationSet>
+        <base loc="en">Stop</base>
+        <tran loc="ar">إيقاف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SNOOZE_STOP</Position>
+      <TranslationSet>
+        <base loc="en">Stop</base>
+        <tran loc="ar">إيقاف</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>NanoTimeApps/private/var/staged_system_apps/NanoAlarm.app/en.lproj/InfoPlist.strings</Filepath>
+    <TextItem>
+      <Description> Localized versions of Info.plist keys </Description>
+      <Position>CFBundleDisplayName</Position>
+      <TranslationSet>
+        <base loc="en">Alarms</base>
+        <tran loc="ar">التنبيهات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CFBundleName</Position>
+      <TranslationSet>
+        <base loc="en">Alarms</base>
+        <tran loc="ar">التنبيهات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ALARM_SNOOZE_ACTION</Position>
+      <TranslationSet>
+        <base loc="en">Snooze</base>
+        <tran loc="ar">غفوة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ALARM_STOP_ACTION</Position>
+      <TranslationSet>
+        <base loc="en">Stop</base>
+        <tran loc="ar">إيقاف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SNOOZE_STOP</Position>
+      <TranslationSet>
+        <base loc="en">Stop</base>
+        <tran loc="ar">إيقاف</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>NanoTimeApps/private/var/staged_system_apps/NanoAlarm.app/en.lproj/Localizable.strings</Filepath>
+    <TextItem>
+      <Description> 
+  Localizable.strings
+  NanoTimer
+
+  Created by Karen Bechtel on 2/19/14.
+  Copyright (c) 2014 Apple. All rights reserved.
+</Description>
+      <Position>STATUSBAR_ALARMS_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Alarms</base>
+        <tran loc="ar">التنبيهات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Edit/Add Alarm </Description>
+      <Position>DELETE_BUTTON</Position>
+      <TranslationSet>
+        <base loc="en">Delete</base>
+        <tran loc="ar">حذف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SNOOZE_TEXT</Position>
+      <TranslationSet>
+        <base loc="en">Snooze</base>
+        <tran loc="ar">غفوة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>REPEAT_TEXT</Position>
+      <TranslationSet>
+        <base loc="en">Repeat</base>
+        <tran loc="ar">تكرار</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>STATUSBAR_REPEAT_ALARM_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Repeat</base>
+        <tran loc="ar">تكرار</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>LABEL_TEXT</Position>
+      <TranslationSet>
+        <base loc="en">Label</base>
+        <tran loc="ar">العنوان</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>STATUSBAR_NEW_ALARM_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">New Alarm</base>
+        <tran loc="ar">منبه جديد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DAYS_TEXT</Position>
+      <TranslationSet>
+        <base loc="en">Days</base>
+        <tran loc="ar">عدد الأيام</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>NEW_ALARM</Position>
+      <TranslationSet>
+        <base loc="en">Add Alarm</base>
+        <tran loc="ar">إضافة منبه</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CHANGE_TIME_TEXT</Position>
+      <TranslationSet>
+        <base loc="en">Change time</base>
+        <tran loc="ar">تغيير الوقت</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Used to separate start and end times in a range, such as in the Up Next per-event time range in the red bar</Description>
+      <Position>TIME_RANGE_SEPARATOR</Position>
+      <TranslationSet>
+        <base loc="en"> – </base>
+        <tran loc="ar"> – </tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>STATUSBAR_EDIT_ALARM_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Edit Alarm</base>
+        <tran loc="ar">تحرير المنبه</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> locale-specific parameters 
+ Most languages should have this set to "0". Expected to be set to "1" only for locales in which there are fitment issues when displaying the time label on the main menu's cells.</Description>
+      <Position>ALARM_CELL_TIME_SMALLER_FONT_FOR_FIT</Position>
+      <TranslationSet>
+        <base loc="en">0</base>
+        <tran loc="ar">0</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Default Alarm title </Description>
+      <Position>DEFAULT_ALARM_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Alarm</base>
+        <tran loc="ar">المنبه</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>NanoTimeApps/System/Library/RelevanceEngine/DataSources/NanoAlarmDataSource.bundle/en.lproj/Localizable.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>UP_NEXT_ALARMS_SNOOZING_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Snoozing</base>
+        <tran loc="ar">غفوة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 
+  Localizable.strings
+  NanoTimer
+
+  Created by JP Cafaro on 1/23/18.
+  Copyright © 2018 Apple Inc. All rights reserved.
+
+ Up Next - Alarms </Description>
+      <Position>UP_NEXT_ALARMS_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Alarm</base>
+        <tran loc="ar">المنبه</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>NanoTimeApps/System/Library/AppPlaceholders/NanoStopwatch.app/en.lproj/InfoPlist.strings</Filepath>
+    <TextItem>
+      <Description> Localized versions of Info.plist keys </Description>
+      <Position>CFBundleDisplayName</Position>
+      <TranslationSet>
+        <base loc="en">Stopwatch</base>
+        <tran loc="ar">ساعة الإيقاف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CFBundleName</Position>
+      <TranslationSet>
+        <base loc="en">Stopwatch</base>
+        <tran loc="ar">ساعة الإيقاف</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>NanoTimeApps/System/Library/Assistant/NanoUIPlugins/NanoAlarmSiriUI.bundle/en.lproj/Localizable.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>PHONE_TEXT</Position>
+      <TranslationSet>
+        <base loc="en">iPhone</base>
+        <tran loc="ar">‏iPhone</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Active device </Description>
+      <Position>WATCH_TEXT</Position>
+      <TranslationSet>
+        <base loc="en">Watch</base>
+        <tran loc="ar">‏Watch</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PHONE_AND_WATCH_TEXT</Position>
+      <TranslationSet>
+        <base loc="en">iPhone &amp; Watch</base>
+        <tran loc="ar">‏iPhone و Watch</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>WATCH_ONLY_TEXT</Position>
+      <TranslationSet>
+        <base loc="en">Watch Only</base>
+        <tran loc="ar">‏Watch فقط</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>NO_ACTIVE_DEVICE_TEXT</Position>
+      <TranslationSet>
+        <base loc="en">None</base>
+        <tran loc="ar">لا يوجد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> locale-specific parameters 
+ Most languages should have this set to "0". Expected to be set to "1" only for locales in which there are fitment issues when displaying the time label on the main menu's cells.</Description>
+      <Position>ALARM_CELL_TIME_SMALLER_FONT_FOR_FIT</Position>
+      <TranslationSet>
+        <base loc="en">0</base>
+        <tran loc="ar">0</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 
+  Localizable.strings
+  NanoTimer
+
+  Created by Nathan Hramits on 4/15/16.
+  Copyright (c) 2016 Apple. All rights reserved.
+
+ Default Alarm title </Description>
+      <Position>DEFAULT_ALARM_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Alarm</base>
+        <tran loc="ar">المنبه</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Shows in the main list as the subtitle for the bedtime alarm </Description>
+      <Position>ALARM_BEDTIME_CELL_SUBTITLE_TEXT</Position>
+      <TranslationSet>
+        <base loc="en">Bedtime</base>
+        <tran loc="ar">وقت النوم</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>NanoTimeApps/Applications/NanoWorldClock.app/en.lproj/Localizable.strings</Filepath>
+    <TextItem>
+      <Description> no sun event </Description>
+      <Position>NO_SUN_TIME</Position>
+      <TranslationSet>
+        <base loc="en">--:--</base>
+        <tran loc="ar">--:--</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> day and offset format </Description>
+      <Position>DAY_OFFSET_FORMAT</Position>
+      <TranslationSet>
+        <base loc="en">%1$@, %2$@</base>
+        <tran loc="ar">‏%1$@، %2$@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> alert text for when no more cities can be added </Description>
+      <Position>TOO_MANY_WORLD_CLOCKS_ALERT_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">World Clock List Full</base>
+        <tran loc="ar">قائمة الساعات العالمية ممتلئة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> world clock title </Description>
+      <Position>WORLD_CLOCK</Position>
+      <TranslationSet>
+        <base loc="en">World Clock</base>
+        <tran loc="ar">الساعة العالمية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> constant sun up label </Description>
+      <Position>SUNUP</Position>
+      <TranslationSet>
+        <base loc="en">Sun up all day</base>
+        <tran loc="ar">الشمس مشرقة طول اليوم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SCRIBBLE</Position>
+      <TranslationSet>
+        <base loc="en">Scribble</base>
+        <tran loc="ar">رسم باليد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>TOO_MANY_WORLD_CLOCKS_ALERT_BUTTON_TEXT</Position>
+      <TranslationSet>
+        <base loc="en">OK</base>
+        <tran loc="ar">موافق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DICTATION</Position>
+      <TranslationSet>
+        <base loc="en">Dictation</base>
+        <tran loc="ar">إملاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>REMOVE_ORB_ACTION</Position>
+      <TranslationSet>
+        <base loc="en">Remove</base>
+        <tran loc="ar">إزالة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>TOO_MANY_WORLD_CLOCKS_ALERT_TEXT</Position>
+      <TranslationSet>
+        <base loc="en">You need to delete a world clock before you can add a new one.</base>
+        <tran loc="ar">أنت بحاجة لحذف ساعة من الساعات العالمية قبل أن تتمكن من إضافة واحدة جديدة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>NO_RESULTS_FOUND</Position>
+      <TranslationSet>
+        <base loc="en">No results found for \“%1$@\”</base>
+        <tran loc="ar">لم يُعثر على نتائج لـ "%@"</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> constant sun down label </Description>
+      <Position>SUNDOWN</Position>
+      <TranslationSet>
+        <base loc="en">Sun down all day</base>
+        <tran loc="ar">الشمس غائبة طول اليوم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> locale-specific parameters 
+ Most languages should have this set to "0". Expected to be set to "1" only for locales in which there are fitment issues when displaying the large time label (city's local time) on the World Clock app's city detail.</Description>
+      <Position>LARGE_TIME_SMALLER_FONT_FOR_FIT</Position>
+      <TranslationSet>
+        <base loc="en">0</base>
+        <tran loc="ar">0</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> modifying city list </Description>
+      <Position>ADD_CITY</Position>
+      <TranslationSet>
+        <base loc="en">Add City</base>
+        <tran loc="ar">إضافة مدينة</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>NanoTimeApps/Applications/NanoWorldClock.app/en.lproj/InfoPlist.strings</Filepath>
+    <TextItem>
+      <Description> Localized versions of Info.plist keys </Description>
+      <Position>CFBundleDisplayName</Position>
+      <TranslationSet>
+        <base loc="en">World Clock</base>
+        <tran loc="ar">الساعة العالمية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CFBundleName</Position>
+      <TranslationSet>
+        <base loc="en">World Clock</base>
+        <tran loc="ar">الساعة العالمية</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>NanoTimeApps/private/var/staged_system_apps/NanoStopwatch.app/en.lproj/Localizable.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>TIME_LESS_THAN_TEN_SECONDS</Position>
+      <TranslationSet>
+        <base loc="en">%.1fs</base>
+        <tran loc="ar">%.1f ث</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>LAP_FORMAT_TEXT</Position>
+      <TranslationSet>
+        <base loc="en">Lap %u</base>
+        <tran loc="ar">جولة %u</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>TIME_LESS_THAN_ONE_TENTH_SECOND</Position>
+      <TranslationSet>
+        <base loc="en">.0%us</base>
+        <tran loc="ar">٫٠%u ث</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>BUTTON_START</Position>
+      <TranslationSet>
+        <base loc="en">Start</base>
+        <tran loc="ar">بدء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>HYBRID_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Hybrid</base>
+        <tran loc="ar">مختلطة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>BUTTON_RESET</Position>
+      <TranslationSet>
+        <base loc="en">Reset</base>
+        <tran loc="ar">إعادة تعيين</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DIGITAL_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Digital</base>
+        <tran loc="ar">رقمية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 
+  Localizable.strings
+  NanoStopwatch
+
+  Created by Karen Bechtel on 1/21/14.
+  Copyright (c) 2014 Apple. All rights reserved.
+</Description>
+      <Position>STOPWATCH_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Stopwatch</base>
+        <tran loc="ar">ساعة الإيقاف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>BUTTON_LAP</Position>
+      <TranslationSet>
+        <base loc="en">Lap</base>
+        <tran loc="ar">جولة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>LABEL_LAP</Position>
+      <TranslationSet>
+        <base loc="en">Lap</base>
+        <tran loc="ar">جولة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>GRAPH_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Graph</base>
+        <tran loc="ar">رسم بياني</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>BUTTON_STOP</Position>
+      <TranslationSet>
+        <base loc="en">Stop</base>
+        <tran loc="ar">إيقاف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ANALOG_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Analog</base>
+        <tran loc="ar">عقارب</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>LAP_FORMAT_TEXT_ABBREVIATED</Position>
+      <TranslationSet>
+        <base loc="en">L %u</base>
+        <tran loc="ar">جولة %u</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>LAP_FORMAT_TEXT_SUPER_ABBREVIATED</Position>
+      <TranslationSet>
+        <base loc="en">%u</base>
+        <tran loc="ar">%u</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>TIME_LESS_THAN_ONE_SECOND</Position>
+      <TranslationSet>
+        <base loc="en">.%us</base>
+        <tran loc="ar">‏٫%u ث</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>NanoTimeApps/private/var/staged_system_apps/NanoStopwatch.app/en.lproj/InfoPlist.strings</Filepath>
+    <TextItem>
+      <Description> Localized versions of Info.plist keys </Description>
+      <Position>CFBundleDisplayName</Position>
+      <TranslationSet>
+        <base loc="en">Stopwatch</base>
+        <tran loc="ar">ساعة الإيقاف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CFBundleName</Position>
+      <TranslationSet>
+        <base loc="en">Stopwatch</base>
+        <tran loc="ar">ساعة الإيقاف</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>NanoTimeApps/System/Library/Carousel/Alerts/NanoClockAlertProvider.bundle/en.lproj/Localizable.strings</Filepath>
+    <TextItem>
+      <Description> Alarm button text. </Description>
+      <Position>SNOOZE_BUTTON</Position>
+      <TranslationSet>
+        <base loc="en">Snooze</base>
+        <tran loc="ar">غفوة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Repeat button text </Description>
+      <Position>REPEAT_BUTTON</Position>
+      <TranslationSet>
+        <base loc="en">Repeat</base>
+        <tran loc="ar">تكرار</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Empty label text </Description>
+      <Position>DEFAULT_LABEL</Position>
+      <TranslationSet>
+        <base loc="en">Label</base>
+        <tran loc="ar">العنوان</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Shared button text </Description>
+      <Position>DISMISS_BUTTON</Position>
+      <TranslationSet>
+        <base loc="en">Dismiss</base>
+        <tran loc="ar">استبعاد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Timer Done Label </Description>
+      <Position>TIMER_DONE</Position>
+      <TranslationSet>
+        <base loc="en">Timer\nDone</base>
+        <tran loc="ar">انتهى\nالمؤقت</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 
+  Localizable.strings
+  NanoTimer
+
+  Created by Karen Bechtel on 4/11/14.
+  Copyright (c) 2014 Apple. All rights reserved.
+
+ Shared button text </Description>
+      <Position>STOP_BUTTON</Position>
+      <TranslationSet>
+        <base loc="en">Stop</base>
+        <tran loc="ar">إيقاف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> UI Trigger text for two line alarm...internal use. </Description>
+      <Position>TWO_LINE_TEST_LABEL</Position>
+      <TranslationSet>
+        <base loc="en">Sample alarm label that will wrap to two lines</base>
+        <tran loc="ar">عينة لعنوان منبه يمتد على طول سطرين</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Default Alarm title </Description>
+      <Position>DEFAULT_ALARM_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Alarm</base>
+        <tran loc="ar">المنبه</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+</Proj>

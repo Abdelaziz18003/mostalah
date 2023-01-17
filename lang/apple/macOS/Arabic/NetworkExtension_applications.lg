@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Proj>
+  <ProjName>NetworkExtension_applications</ProjName>
+  <File>
+    <Filepath>NetworkExtension_applications/System/Library/ConfigurationProfiles/PlugIns/NetworkExtensionProfiles.profileDomainPlugin/Contents/Resources/en.lproj/Localizable.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>str_VPN_CCP</Position>
+      <TranslationSet>
+        <base loc="en">%d Bit</base>
+        <tran loc="ar">‏%d بت</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>str_Missing_RemoteAddress</Position>
+      <TranslationSet>
+        <base loc="en">Server Address:</base>
+        <tran loc="ar">عنوان الخادم:</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description>**
+** Payload Missing fields  
+**</Description>
+      <Position>str_Missing_PayloadHeader_User</Position>
+      <TranslationSet>
+        <base loc="en">Enter settings for VPN profile “%@”:</base>
+        <tran loc="ar">أدخل إعدادات ملف تعريف VPN ‏"%@":</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>str_VPN_OnDemandEnabled</Position>
+      <TranslationSet>
+        <base loc="en">OnDemand Enabled</base>
+        <tran loc="ar">تم تمكين OnDemand</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description>**
+** Payload Error Strings  
+**</Description>
+      <Position>kCPAccountVPNConfigurationCantBeCreated</Position>
+      <TranslationSet>
+        <base loc="en">The VPN service could not be created.</base>
+        <tran loc="ar">تعذر إنشاء خدمة الـ VPN.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>str_VPN_OnDemandSupported</Position>
+      <TranslationSet>
+        <base loc="en">OnDemand Supported</base>
+        <tran loc="ar">‏OnDemand مدعوم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>str_Missing_Username</Position>
+      <TranslationSet>
+        <base loc="en">Username:</base>
+        <tran loc="ar">اسم المستخدم:</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>str_vpn_Details_TRUE</Position>
+      <TranslationSet>
+        <base loc="en">True</base>
+        <tran loc="ar">صواب</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>str_VPNAppLayer_PayloadType</Position>
+      <TranslationSet>
+        <base loc="en">VPN App Layer Service</base>
+        <tran loc="ar">خدمة طبقة تطبيقات VPN</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>str_VPN_VPNAuthMethod</Position>
+      <TranslationSet>
+        <base loc="en">VPN Auth Method</base>
+        <tran loc="ar">طريقة مصادقة VPN</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>str_PPTP_insecure_body</Position>
+      <TranslationSet>
+        <base loc="en">When using PPTP, your password and any data sent or received over this connection may be read by your Internet provider.</base>
+        <tran loc="ar">عند استخدام PPTP، يمكن لموفر خدمة الإنترنت لديك قراءة كلمة السر الخاصة بك وأي بيانات يتم إرسالها أو استلامها عبر هذا الاتصال.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>str_Missing_Password</Position>
+      <TranslationSet>
+        <base loc="en">Password:</base>
+        <tran loc="ar">كلمة السر:</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>str_DNSProxy_PayloadType</Position>
+      <TranslationSet>
+        <base loc="en">DNS Proxy Service</base>
+        <tran loc="ar">خدمة وكيل DNS</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>str_VPNContentFilter_PayloadType</Position>
+      <TranslationSet>
+        <base loc="en">Content Filter Service</base>
+        <tran loc="ar">خدمة تصفية المحتوى</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>str_Missing_PayloadHeader_System</Position>
+      <TranslationSet>
+        <base loc="en">Enter settings for the system VPN profile “%@”:</base>
+        <tran loc="ar">أدخل إعدادات ملف تعريف VPN الخاص بالنظام "%@":</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>str_vpn_Details_FALSE</Position>
+      <TranslationSet>
+        <base loc="en">False</base>
+        <tran loc="ar">خطأ</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>str_VPN_CCPEither</Position>
+      <TranslationSet>
+        <base loc="en">%d or %d Bit</base>
+        <tran loc="ar">‏%d أو %d بت</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>str_PPTP_warning_body</Position>
+      <TranslationSet>
+        <base loc="en">PPTP VPN payloads are no longer supported and will be ignored</base>
+        <tran loc="ar">لم تعد حمولات PPTP VPN مدعومة وسيتم تجاهلها</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>str_PPTP_warning</Position>
+      <TranslationSet>
+        <base loc="en">WARNING</base>
+        <tran loc="ar">تحذير</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description>**
+** Payload Title(s)
+**</Description>
+      <Position>str_VPN_PayloadType</Position>
+      <TranslationSet>
+        <base loc="en">VPN Service</base>
+        <tran loc="ar">‫خدمة VPN‬</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>str_VPNAppLayer_PayloadTypePlural</Position>
+      <TranslationSet>
+        <base loc="en">VPN App Layer Services</base>
+        <tran loc="ar">خدمات طبقة تطبيقات VPN</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>str_VPN_AuthPlugins</Position>
+      <TranslationSet>
+        <base loc="en">Authentication Plugin</base>
+        <tran loc="ar">المكوّن الإضافي للمصادقة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description>**
+** Payload details
+**</Description>
+      <Position>str_VPN_ConfigurationType</Position>
+      <TranslationSet>
+        <base loc="en">VPN Configuration Type</base>
+        <tran loc="ar">نوع تكوين VPN</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>str_VPN_OverridePrimary</Position>
+      <TranslationSet>
+        <base loc="en">Override Primary</base>
+        <tran loc="ar">تجاوز الإعدادات الأولية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>str_VPN_AuthUsesCryptoCard</Position>
+      <TranslationSet>
+        <base loc="en">Uses CryptoCard</base>
+        <tran loc="ar">يستخدم CryptoCard</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>str_VPNContentFilter_PayloadTypePlural</Position>
+      <TranslationSet>
+        <base loc="en">Content Filter Services</base>
+        <tran loc="ar">خدمات تصفية المحتوى</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>str_VPN_CCPEnabled</Position>
+      <TranslationSet>
+        <base loc="en">CCP Enabled</base>
+        <tran loc="ar">تم تمكين‫ CCP</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>str_DNSProxy_PayloadTypePlural</Position>
+      <TranslationSet>
+        <base loc="en">DNS Proxy Services</base>
+        <tran loc="ar">خدمات وكيل DNS</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>str_VPN_AuthPlugin_RSA</Position>
+      <TranslationSet>
+        <base loc="en">RSA SecurID</base>
+        <tran loc="ar">RSA SecurID</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>str_VPN_XAuthName</Position>
+      <TranslationSet>
+        <base loc="en">Authorization Name</base>
+        <tran loc="ar">اسم التخويل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>str_VPN_AuthPlugin_Kerberos</Position>
+      <TranslationSet>
+        <base loc="en">Kerberos</base>
+        <tran loc="ar">Kerberos</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kCPAccountVPNConfigurationNotAuthorized</Position>
+      <TranslationSet>
+        <base loc="en">You don’t have privileges to create the VPN service.</base>
+        <tran loc="ar">ليس لديك امتيازات إنشاء خدمة الـ VPN.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>str_VPN_Payload_Simple_AppName</Position>
+      <TranslationSet>
+        <base loc="en">VPN</base>
+        <tran loc="ar">‏VPN</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>str_VPN_VPNRemoteAddress</Position>
+      <TranslationSet>
+        <base loc="en">VPN Remote Address</base>
+        <tran loc="ar">عنوان VPN البعيد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>str_VPN_PayloadTypePlural</Position>
+      <TranslationSet>
+        <base loc="en">VPN Services</base>
+        <tran loc="ar">‫خدمات VPN‬</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>str_VPN_AuthMethod</Position>
+      <TranslationSet>
+        <base loc="en">Auth Method</base>
+        <tran loc="ar">طريقة المصادقة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>str_VPN_RemoteAddress</Position>
+      <TranslationSet>
+        <base loc="en">Remote Address</base>
+        <tran loc="ar">العنوان البعيد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> "missing_VPNIPSec_RemoteAddress"         = "Enter server address for the system VPN profile “%@”:";
+ "missing_VPNIPSec_XAuthName"             = "Enter your system username for the VPN profile “%@”:";
+ "missing_VPNIPSec_XAuthPassword"         = "Enter your system password for the VPN profile “%@”:";
+ 
+ "missing_VPNPPP_CommRemoteAddress"       = "Enter server address for the VPN profile “%@”:";
+ "missing_VPNPPP_AuthName"                = "Enter your username for the VPN profile “%@”:";
+ "missing_VPNPPP_AuthPassword"            = "Enter your password for the VPN profile “%@”:";
+ not used at this time
+ "missing_VPN_ProxyUsername"  = "Enter your proxy username for the VPN profile “%@”:";
+ "missing_VPN_ProxyPassword"  = "Enter your proxy username for the VPN profile “%@”:";
+ "missing_VPN_SharedSecret"   = "Enter your shared secret for the VPN profile “%@”:";
+ "missing_VPN_PIN"            = "Enter your PIN for the VPN profile “%@”:";</Description>
+      <Position>VPN_SERVICE_NAME</Position>
+      <TranslationSet>
+        <base loc="en">VPN (%@)</base>
+        <tran loc="ar">‪VPN (%@)‬</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>str_PPTP_insecure</Position>
+      <TranslationSet>
+        <base loc="en">VPN Using PPTP May Not Be Secure</base>
+        <tran loc="ar">شبكة VPN التي تستخدم PPTP قد لا تكون آمنة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>str_VPN_IPSecRemoteAddress</Position>
+      <TranslationSet>
+        <base loc="en">IPSec Remote Address</base>
+        <tran loc="ar">عنوان IPSec البعيد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>str_VPN_IPSecAuthMethod</Position>
+      <TranslationSet>
+        <base loc="en">IPSec Auth Method</base>
+        <tran loc="ar">طريقة مصادقة IPSec</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+</Proj>

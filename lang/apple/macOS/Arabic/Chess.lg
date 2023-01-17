@@ -1,0 +1,2541 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Proj>
+  <ProjName>Chess</ProjName>
+  <File>
+    <Filepath>Chess/System/Applications/Chess.app/Contents/Resources/en.lproj/InfoPlist.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>game</Position>
+      <TranslationSet>
+        <base loc="en">Chess Game</base>
+        <tran loc="ar">لعبة الشطرنج</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>moves</Position>
+      <TranslationSet>
+        <base loc="en">Moves (PGN)</base>
+        <tran loc="ar">تحركات (PGN)</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>NSHumanReadableCopyright</Position>
+      <TranslationSet>
+        <base loc="en">Copyright 2003-2016 Apple Inc.</base>
+        <tran loc="ar">‏‎Copyright 2003-2016 Apple Inc.‎</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CFBundleDisplayName</Position>
+      <TranslationSet>
+        <base loc="en">Chess</base>
+        <tran loc="ar">شطرنج</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Localized versions of Info.plist keys </Description>
+      <Position>CFBundleName</Position>
+      <TranslationSet>
+        <base loc="en">Chess</base>
+        <tran loc="ar">شطرنج</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>Chess/System/Applications/Chess.app/Contents/Resources/en.lproj/Board.strings</Filepath>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; ibShadowedToolTip = "Play regular chess."; ObjectID = "201792"; </Description>
+      <Position>201792.ibShadowedToolTip</Position>
+      <TranslationSet>
+        <base loc="en">Play regular chess.</base>
+        <tran loc="ar">قم بلعب الشطرنج العادي.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Country:"; ObjectID = "203317"; </Description>
+      <Position>203317.title</Position>
+      <TranslationSet>
+        <base loc="en">Country:</base>
+        <tran loc="ar">البلد:</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "White"; ObjectID = "201800"; </Description>
+      <Position>201800.title</Position>
+      <TranslationSet>
+        <base loc="en">White</base>
+        <tran loc="ar">أبيض</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Default Voice"; ObjectID = "200890"; </Description>
+      <Position>200890.title</Position>
+      <TranslationSet>
+        <base loc="en">Default Voice</base>
+        <tran loc="ar">الصوت الافتراضي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Default Voice"; ObjectID = "200896"; </Description>
+      <Position>200896.title</Position>
+      <TranslationSet>
+        <base loc="en">Default Voice</base>
+        <tran loc="ar">الصوت الافتراضي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Black:"; ObjectID = "203290"; </Description>
+      <Position>203290.title</Position>
+      <TranslationSet>
+        <base loc="en">Black:</base>
+        <tran loc="ar">الأسود:</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; ibShadowedToolTip = "Play suicide chess:\nWin by losing all of your pieces."; ObjectID = "201794"; </Description>
+      <Position>201794.ibShadowedToolTip</Position>
+      <TranslationSet>
+        <base loc="en">Play suicide chess:\nWin by losing all of your pieces.</base>
+        <tran loc="ar">قم بلعب شطرنج الانتحار:\nواربح بخسارة كل القطع.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Edit Game Info…"; ObjectID = "200802"; </Description>
+      <Position>200802.title</Position>
+      <TranslationSet>
+        <base loc="en">Edit Game Info…</base>
+        <tran loc="ar">تحرير معلومات اللعبة…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Item2"; ObjectID = "200904"; </Description>
+      <Position>200904.title</Position>
+      <TranslationSet>
+        <base loc="en">Item2</base>
+        <tran loc="ar">Item2</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; ibShadowedToolTip = "Play losers chess:\nWin by losing all your pieces except the king."; ObjectID = "201793"; </Description>
+      <Position>201793.ibShadowedToolTip</Position>
+      <TranslationSet>
+        <base loc="en">Play losers chess:\nWin by losing all your pieces except the king.</base>
+        <tran loc="ar">قم بلعب شطرنج الخسارة:\nواربح بخسارة كل القطع ما عدا الملك.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Stronger"; ObjectID = "200919"; </Description>
+      <Position>200919.title</Position>
+      <TranslationSet>
+        <base loc="en">Stronger</base>
+        <tran loc="ar">أقوى</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Stronger"; ObjectID = "201776"; </Description>
+      <Position>201776.title</Position>
+      <TranslationSet>
+        <base loc="en">Stronger</base>
+        <tran loc="ar">أقوى</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Regular"; ObjectID = "201792"; </Description>
+      <Position>201792.title</Position>
+      <TranslationSet>
+        <base loc="en">Regular</base>
+        <tran loc="ar">عادي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Human vs. Human"; ObjectID = "201788"; </Description>
+      <Position>201788.title</Position>
+      <TranslationSet>
+        <base loc="en">Human vs. Human</base>
+        <tran loc="ar">شخص ضد شخص</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Radio"; ObjectID = "201801"; </Description>
+      <Position>201801.title</Position>
+      <TranslationSet>
+        <base loc="en">Radio</base>
+        <tran loc="ar">زر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Speak Human Moves"; ObjectID = "200897"; </Description>
+      <Position>200897.title</Position>
+      <TranslationSet>
+        <base loc="en">Speak Human Moves</base>
+        <tran loc="ar">نطق تحركات الشخص</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSBox"; title = "Style"; ObjectID = "200876"; </Description>
+      <Position>200876.title</Position>
+      <TranslationSet>
+        <base loc="en">Style</base>
+        <tran loc="ar">النمط</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Edit Game Information"; ObjectID = "200817"; </Description>
+      <Position>200817.title</Position>
+      <TranslationSet>
+        <base loc="en">Edit Game Information</base>
+        <tran loc="ar">تحرير معلومات اللعبة…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Alternate Voice"; ObjectID = "200892"; </Description>
+      <Position>200892.title</Position>
+      <TranslationSet>
+        <base loc="en">Alternate Voice</base>
+        <tran loc="ar">الصوت الآخر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSBox"; ibShadowedToolTip = "Select the look of the board and pieces."; ObjectID = "200876"; </Description>
+      <Position>200876.ibShadowedToolTip</Position>
+      <TranslationSet>
+        <base loc="en">Select the look of the board and pieces.</base>
+        <tran loc="ar">تحديد شكل اللوحة والقطع.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Allow Player to Speak Moves"; ObjectID = "200886"; </Description>
+      <Position>200886.title</Position>
+      <TranslationSet>
+        <base loc="en">Allow Player to Speak Moves</base>
+        <tran loc="ar">السماح للاعب بنطق التحركات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Pieces"; ObjectID = "200908"; </Description>
+      <Position>200908.title</Position>
+      <TranslationSet>
+        <base loc="en">Pieces</base>
+        <tran loc="ar">قِطع</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSSlider"; ibShadowedToolTip = "Select the speed and skill level of the computer."; ObjectID = "200915"; </Description>
+      <Position>200915.ibShadowedToolTip</Position>
+      <TranslationSet>
+        <base loc="en">Select the speed and skill level of the computer.</base>
+        <tran loc="ar">تحديد سرعة ومستوى مهارة الكمبيوتر.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSSlider"; ibShadowedToolTip = "Select the speed and skill level of the computer."; ObjectID = "201771"; </Description>
+      <Position>201771.ibShadowedToolTip</Position>
+      <TranslationSet>
+        <base loc="en">Select the speed and skill level of the computer.</base>
+        <tran loc="ar">تحديد سرعة ومستوى مهارة الكمبيوتر.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Event:"; ObjectID = "203329"; </Description>
+      <Position>203329.title</Position>
+      <TranslationSet>
+        <base loc="en">Event:</base>
+        <tran loc="ar">الحدث:</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "OK"; ObjectID = "200815"; </Description>
+      <Position>200815.title</Position>
+      <TranslationSet>
+        <base loc="en">OK</base>
+        <tran loc="ar">موافق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "OK"; ObjectID = "200921"; </Description>
+      <Position>200921.title</Position>
+      <TranslationSet>
+        <base loc="en">OK</base>
+        <tran loc="ar">موافق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButton"; ibShadowedToolTip = "Use speech recognition to listen\nfor spoken moves."; ObjectID = "200883"; </Description>
+      <Position>200883.ibShadowedToolTip</Position>
+      <TranslationSet>
+        <base loc="en">Use speech recognition to listen\nfor spoken moves.</base>
+        <tran loc="ar">استخدام التعرف على الكلام للاستماع\nإلى التحركات المنطوقة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; placeholderString = "DONT_LOCALIZE Computer Thinks X "; ObjectID = "200960"; </Description>
+      <Position>200960.placeholderString</Position>
+      <TranslationSet>
+        <base loc="en">DONT_LOCALIZE Computer Thinks X </base>
+        <tran loc="ar">DONT_LOCALIZE Computer Thinks X </tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSWindow"; title = "Preferences"; ObjectID = "200871"; </Description>
+      <Position>200871.title</Position>
+      <TranslationSet>
+        <base loc="en">Preferences</base>
+        <tran loc="ar">تفضيلات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSWindow"; title = "Panel"; ObjectID = "200803"; </Description>
+      <Position>200803.title</Position>
+      <TranslationSet>
+        <base loc="en">Panel</base>
+        <tran loc="ar">لوحة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSWindow"; title = "Panel"; ObjectID = "201758"; </Description>
+      <Position>201758.title</Position>
+      <TranslationSet>
+        <base loc="en">Panel</base>
+        <tran loc="ar">لوحة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Cancel"; ObjectID = "200816"; </Description>
+      <Position>200816.title</Position>
+      <TranslationSet>
+        <base loc="en">Cancel</base>
+        <tran loc="ar">إلغاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Cancel"; ObjectID = "200920"; </Description>
+      <Position>200920.title</Position>
+      <TranslationSet>
+        <base loc="en">Cancel</base>
+        <tran loc="ar">إلغاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Cancel"; ObjectID = "201769"; </Description>
+      <Position>201769.title</Position>
+      <TranslationSet>
+        <base loc="en">Cancel</base>
+        <tran loc="ar">إلغاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Start"; ObjectID = "201770"; </Description>
+      <Position>201770.title</Position>
+      <TranslationSet>
+        <base loc="en">Start</base>
+        <tran loc="ar">بدء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Crazyhouse"; ObjectID = "201791"; </Description>
+      <Position>201791.title</Position>
+      <TranslationSet>
+        <base loc="en">Crazyhouse</base>
+        <tran loc="ar">Crazyhouse</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Black"; ObjectID = "201799"; </Description>
+      <Position>201799.title</Position>
+      <TranslationSet>
+        <base loc="en">Black</base>
+        <tran loc="ar">أسود</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; ibShadowedToolTip = "Play against a friend or against yourself."; ObjectID = "201788"; </Description>
+      <Position>201788.ibShadowedToolTip</Position>
+      <TranslationSet>
+        <base loc="en">Play against a friend or against yourself.</base>
+        <tran loc="ar">اللعب ضد صديق أو ضد نفسك.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Item3"; ObjectID = "200906"; </Description>
+      <Position>200906.title</Position>
+      <TranslationSet>
+        <base loc="en">Item3</base>
+        <tran loc="ar">Item3</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Item3"; ObjectID = "200911"; </Description>
+      <Position>200911.title</Position>
+      <TranslationSet>
+        <base loc="en">Item3</base>
+        <tran loc="ar">Item3</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; ibShadowedToolTip = "Play crazyhouse chess:\nCaptured pieces change colors and \nmay be dropped back onto the board."; ObjectID = "201791"; </Description>
+      <Position>201791.ibShadowedToolTip</Position>
+      <TranslationSet>
+        <base loc="en">Play crazyhouse chess:\nCaptured pieces change colors and \nmay be dropped back onto the board.</base>
+        <tran loc="ar">قم بلعب شطرنج crazyhouse:‏\nالقطع التي تقع في الأسر يتغير لونها و\nيمكن إنزالها مرة أخرى إلى اللوحة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Variant:"; ObjectID = "201781"; </Description>
+      <Position>201781.title</Position>
+      <TranslationSet>
+        <base loc="en">Variant:</base>
+        <tran loc="ar">نمط اللعب:</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Speak Computer Moves"; ObjectID = "200885"; </Description>
+      <Position>200885.title</Position>
+      <TranslationSet>
+        <base loc="en">Speak Computer Moves</base>
+        <tran loc="ar">نطق تحركات الكمبيوتر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Item1"; ObjectID = "200905"; </Description>
+      <Position>200905.title</Position>
+      <TranslationSet>
+        <base loc="en">Item1</base>
+        <tran loc="ar">Item1</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; ibShadowedToolTip = "Play the black pieces against the computer."; ObjectID = "201786"; </Description>
+      <Position>201786.ibShadowedToolTip</Position>
+      <TranslationSet>
+        <base loc="en">Play the black pieces against the computer.</base>
+        <tran loc="ar">اللعب بالقطع السوداء ضد الكمبيوتر.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Suicide"; ObjectID = "201794"; </Description>
+      <Position>201794.title</Position>
+      <TranslationSet>
+        <base loc="en">Suicide</base>
+        <tran loc="ar">انتحار</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Players:"; ObjectID = "201780"; </Description>
+      <Position>201780.title</Position>
+      <TranslationSet>
+        <base loc="en">Players:</base>
+        <tran loc="ar">اللاعبون:</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Losers"; ObjectID = "201793"; </Description>
+      <Position>201793.title</Position>
+      <TranslationSet>
+        <base loc="en">Losers</base>
+        <tran loc="ar">خسارة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Game Center Match"; ObjectID = "201784"; </Description>
+      <Position>201784.title</Position>
+      <TranslationSet>
+        <base loc="en">Game Center Match</base>
+        <tran loc="ar">مباراة Game Center</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSView"; ibExternalAccessibilityDescription = "Game Log"; ObjectID = "200779"; </Description>
+      <Position>200779.ibExternalAccessibilityDescription</Position>
+      <TranslationSet>
+        <base loc="en">Game Log</base>
+        <tran loc="ar">سجل المباراة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; placeholderString = "DONT_LOCALIZE Computer Thinks X"; ObjectID = "201775"; </Description>
+      <Position>201775.placeholderString</Position>
+      <TranslationSet>
+        <base loc="en">DONT_LOCALIZE Computer Thinks X</base>
+        <tran loc="ar">DONT_LOCALIZE Computer Thinks X</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "City:"; ObjectID = "203303"; </Description>
+      <Position>203303.title</Position>
+      <TranslationSet>
+        <base loc="en">City:</base>
+        <tran loc="ar">المدينة:</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Human vs. Computer"; ObjectID = "201785"; </Description>
+      <Position>201785.title</Position>
+      <TranslationSet>
+        <base loc="en">Human vs. Computer</base>
+        <tran loc="ar">شخص ضد الكمبيوتر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenu"; title = "OtherViews"; ObjectID = "200888"; </Description>
+      <Position>200888.title</Position>
+      <TranslationSet>
+        <base loc="en">OtherViews</base>
+        <tran loc="ar">OtherViews</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenu"; title = "OtherViews"; ObjectID = "200894"; </Description>
+      <Position>200894.title</Position>
+      <TranslationSet>
+        <base loc="en">OtherViews</base>
+        <tran loc="ar">OtherViews</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenu"; title = "OtherViews"; ObjectID = "200903"; </Description>
+      <Position>200903.title</Position>
+      <TranslationSet>
+        <base loc="en">OtherViews</base>
+        <tran loc="ar">OtherViews</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenu"; title = "OtherViews"; ObjectID = "200910"; </Description>
+      <Position>200910.title</Position>
+      <TranslationSet>
+        <base loc="en">OtherViews</base>
+        <tran loc="ar">OtherViews</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenu"; title = "OtherViews"; ObjectID = "201783"; </Description>
+      <Position>201783.title</Position>
+      <TranslationSet>
+        <base loc="en">OtherViews</base>
+        <tran loc="ar">OtherViews</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenu"; title = "OtherViews"; ObjectID = "201790"; </Description>
+      <Position>201790.title</Position>
+      <TranslationSet>
+        <base loc="en">OtherViews</base>
+        <tran loc="ar">OtherViews</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Start a New Game?"; ObjectID = "201779"; </Description>
+      <Position>201779.title</Position>
+      <TranslationSet>
+        <base loc="en">Start a New Game?</base>
+        <tran loc="ar">هل تريد بدء مباراة جديدة؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Spy\n—\nSpy"; ObjectID = "200801"; </Description>
+      <Position>200801.title</Position>
+      <TranslationSet>
+        <base loc="en">Spy\n—\nSpy</base>
+        <tran loc="ar">المراقب\n—\nالمراقب</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Primary Voice"; ObjectID = "200891"; </Description>
+      <Position>200891.title</Position>
+      <TranslationSet>
+        <base loc="en">Primary Voice</base>
+        <tran loc="ar">الصوت الأساسي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Faster"; ObjectID = "200917"; </Description>
+      <Position>200917.title</Position>
+      <TranslationSet>
+        <base loc="en">Faster</base>
+        <tran loc="ar">أسرع</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Faster"; ObjectID = "201777"; </Description>
+      <Position>201777.title</Position>
+      <TranslationSet>
+        <base loc="en">Faster</base>
+        <tran loc="ar">أسرع</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "White:"; ObjectID = "203222"; </Description>
+      <Position>203222.title</Position>
+      <TranslationSet>
+        <base loc="en">White:</base>
+        <tran loc="ar">الأبيض:</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; ibShadowedToolTip = "Watch the computer play itself."; ObjectID = "201787"; </Description>
+      <Position>201787.ibShadowedToolTip</Position>
+      <TranslationSet>
+        <base loc="en">Watch the computer play itself.</base>
+        <tran loc="ar">مشاهدة الكمبيوتر يلعب بمفرده.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; ibShadowedToolTip = "Play the white pieces against the computer."; ObjectID = "201785"; </Description>
+      <Position>201785.ibShadowedToolTip</Position>
+      <TranslationSet>
+        <base loc="en">Play the white pieces against the computer.</base>
+        <tran loc="ar">اللعب بالقطع البيضاء ضد الكمبيوتر.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSBox"; title = "Playing"; ObjectID = "201760"; </Description>
+      <Position>201760.title</Position>
+      <TranslationSet>
+        <base loc="en">Playing</base>
+        <tran loc="ar">يلعب</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Playing"; ObjectID = "201797"; </Description>
+      <Position>201797.title</Position>
+      <TranslationSet>
+        <base loc="en">Playing</base>
+        <tran loc="ar">يلعب</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "CocoaBindingsConnection"; ibShadowedDisplayPattern = "%{value1}@\n—\n%{value2}@"; ObjectID = "200839"; </Description>
+      <Position>200839.ibShadowedDisplayPattern</Position>
+      <TranslationSet>
+        <base loc="en">%{value1}@\n—\n%{value2}@</base>
+        <tran loc="ar">%{value2}@\n-‏\n%{value1}@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "CocoaBindingsConnection"; ibShadowedDisplayPattern = "%{value1}@\n—\n%{value2}@"; ObjectID = "200840"; </Description>
+      <Position>200840.ibShadowedDisplayPattern</Position>
+      <TranslationSet>
+        <base loc="en">%{value1}@\n—\n%{value2}@</base>
+        <tran loc="ar">%{value2}@\n-‏\n%{value1}@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButton"; ibShadowedToolTip = "Speak the moves played by the human player."; ObjectID = "200878"; </Description>
+      <Position>200878.ibShadowedToolTip</Position>
+      <TranslationSet>
+        <base loc="en">Speak the moves played by the human player.</base>
+        <tran loc="ar">نطق التحركات التي يلعبها لاعب شخص.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "TBD"; ObjectID = "200839"; </Description>
+      <Position>200839.ibShadowedIsNilPlaceholder</Position>
+      <TranslationSet>
+        <base loc="en">TBD</base>
+        <tran loc="ar">TBD</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "TBD"; ObjectID = "200840"; </Description>
+      <Position>200840.ibShadowedIsNilPlaceholder</Position>
+      <TranslationSet>
+        <base loc="en">TBD</base>
+        <tran loc="ar">TBD</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSBox"; title = "Speech"; ObjectID = "200877"; </Description>
+      <Position>200877.title</Position>
+      <TranslationSet>
+        <base loc="en">Speech</base>
+        <tran loc="ar">التكلم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSBox"; title = "Box"; ObjectID = "200875"; </Description>
+      <Position>200875.title</Position>
+      <TranslationSet>
+        <base loc="en">Box</base>
+        <tran loc="ar">Box</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSBox"; title = "Box"; ObjectID = "201641"; </Description>
+      <Position>201641.title</Position>
+      <TranslationSet>
+        <base loc="en">Box</base>
+        <tran loc="ar">Box</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSBox"; title = "Box"; ObjectID = "201766"; </Description>
+      <Position>201766.title</Position>
+      <TranslationSet>
+        <base loc="en">Box</base>
+        <tran loc="ar">Box</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "200797"; </Description>
+      <Position>200797.title</Position>
+      <TranslationSet>
+        <base loc="en">Text Cell</base>
+        <tran loc="ar">Text Cell</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "200798"; </Description>
+      <Position>200798.title</Position>
+      <TranslationSet>
+        <base loc="en">Text Cell</base>
+        <tran loc="ar">Text Cell</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "200799"; </Description>
+      <Position>200799.title</Position>
+      <TranslationSet>
+        <base loc="en">Text Cell</base>
+        <tran loc="ar">Text Cell</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "200800"; </Description>
+      <Position>200800.title</Position>
+      <TranslationSet>
+        <base loc="en">Text Cell</base>
+        <tran loc="ar">Text Cell</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButton"; ibShadowedToolTip = "Speak the moves played by your opponent."; ObjectID = "200884"; </Description>
+      <Position>200884.ibShadowedToolTip</Position>
+      <TranslationSet>
+        <base loc="en">Speak the moves played by your opponent.</base>
+        <tran loc="ar">نطق التحركات التي يلعبها خصمك.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSView"; ibExternalAccessibilityDescription = "Board"; ObjectID = "196"; </Description>
+      <Position>196.ibExternalAccessibilityDescription</Position>
+      <TranslationSet>
+        <base loc="en">Board</base>
+        <tran loc="ar">لوحة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Board"; ObjectID = "200907"; </Description>
+      <Position>200907.title</Position>
+      <TranslationSet>
+        <base loc="en">Board</base>
+        <tran loc="ar">لوحة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSWindow"; title = "Board"; ObjectID = "21"; </Description>
+      <Position>21.title</Position>
+      <TranslationSet>
+        <base loc="en">Board</base>
+        <tran loc="ar">لوحة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Computer vs. Human"; ObjectID = "201786"; </Description>
+      <Position>201786.title</Position>
+      <TranslationSet>
+        <base loc="en">Computer vs. Human</base>
+        <tran loc="ar">الكمبيوتر ضد شخص</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Either"; ObjectID = "201798"; </Description>
+      <Position>201798.title</Position>
+      <TranslationSet>
+        <base loc="en">Either</base>
+        <tran loc="ar">أيهما</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Computer vs. Computer"; ObjectID = "201787"; </Description>
+      <Position>201787.title</Position>
+      <TranslationSet>
+        <base loc="en">Computer vs. Computer</base>
+        <tran loc="ar">الكمبيوتر ضد الكمبيوتر</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>Chess/System/Applications/Chess.app/Contents/Resources/en.lproj/Spoken.strings</Filepath>
+    <TextItem>
+      <Description> Piece drops for crazyhouse ("drop" means to take a piece an insert it somewhere on the board) </Description>
+      <Position>queen_d</Position>
+      <TranslationSet>
+        <base loc="en">drop queen at</base>
+        <tran loc="ar">إنزال الوزير عند</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>bishop_d</Position>
+      <TranslationSet>
+        <base loc="en">drop bishop at</base>
+        <tran loc="ar">إنزال الفيل عند</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>knight_d</Position>
+      <TranslationSet>
+        <base loc="en">drop knight at</base>
+        <tran loc="ar">إنزال الحصان عند</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>knight</Position>
+      <TranslationSet>
+        <base loc="en">knight</base>
+        <tran loc="ar">الحصان</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>cmove_fmt</Position>
+      <TranslationSet>
+        <base loc="en">%@ %@ %@ takes %@ %@</base>
+        <tran loc="ar">‏%@ %@ %@ يأخذ %@ %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>file_b</Position>
+      <TranslationSet>
+        <base loc="en">B</base>
+        <tran loc="ar">ف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>queen</Position>
+      <TranslationSet>
+        <base loc="en">queen</base>
+        <tran loc="ar">الوزير</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description>
+ File:		Spoken.strings
+ Contains:	Localizable strings spoken by chess
+ Version:	2.0
+ Copyright:	© 2011 by Apple Inc., all rights reserved.
+ 
+ Written rather repetitively, because I'm not sure what gender agreements 
+   are going to be necessary in what languages.
+ 
+   NOTE TO LOCALIZERS
+
+   All of these strings are meant to be spoken, they will never be used visually, so
+   don't worry about left-to-right codes etc.
+ 
+   These translations are NOT triggered by the system locale, but by the language 
+   of the VOICE selected in Chess preferences. On an English system, if Yannick is
+   selected as a Chess voice, Chess will speak German!
+ 
+ Piece names </Description>
+      <Position>king</Position>
+      <TranslationSet>
+        <base loc="en">king</base>
+        <tran loc="ar">الملك</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>file_d</Position>
+      <TranslationSet>
+        <base loc="en">D</base>
+        <tran loc="ar">D</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>draw</Position>
+      <TranslationSet>
+        <base loc="en">the game is a draw!</base>
+        <tran loc="ar">‏نتيجة المباراة التعادل!‏</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>bishop</Position>
+      <TranslationSet>
+        <base loc="en">bishop</base>
+        <tran loc="ar">الفيل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Accessibility description in move table </Description>
+      <Position>move_table_nr</Position>
+      <TranslationSet>
+        <base loc="en">Move %d:</base>
+        <tran loc="ar">نقل %d:</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>file_f</Position>
+      <TranslationSet>
+        <base loc="en">F</base>
+        <tran loc="ar">و</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kcastle_fmt</Position>
+      <TranslationSet>
+        <base loc="en">castle [[emph +]]king side</base>
+        <tran loc="ar">تحصين [[emph +]]جانب الملك</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Move formats ([[emph +]] is a speech synthesis directive to emphasize a word)
+ 
+* move_fmt     -&gt; "knight b 1 to c 3"
+ 
+* cmove_fmt    -&gt; "knight c 3 takes e 5"
+ 
+* promo_fmt    -&gt; "pawn b 7 to b 8, promoting to queen"
+ 
+* cpromo_fmt   -&gt; "pawn b 7 takes a 8, promoting to knight"
+ 
+* drop_fmt     -&gt; "drop queen at f 7"
+ 
+* kcastle_fmt  -&gt; "castle king side"
+ 
+* qcastle_fmt  -&gt; "castle queen side"
+ 
+* has_check_fmt-&gt; "e 2 to e 4, check!"
+ 
+* no_check_fmt -&gt; "e 2 to e 4."
+ </Description>
+      <Position>move_fmt</Position>
+      <TranslationSet>
+        <base loc="en">%@ %@ %@ to %@ %@</base>
+        <tran loc="ar">‏%@ %@ %@ إلى %@ %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>rank_3</Position>
+      <TranslationSet>
+        <base loc="en">3</base>
+        <tran loc="ar">٣</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>knight_p</Position>
+      <TranslationSet>
+        <base loc="en">[[emph -]] promoting to knight</base>
+        <tran loc="ar">‏[[emph -]] الترقية إلى الحصان</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>pawn</Position>
+      <TranslationSet>
+        <base loc="en">pawn</base>
+        <tran loc="ar">بيدق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>file_h</Position>
+      <TranslationSet>
+        <base loc="en">H</base>
+        <tran loc="ar">H</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Pawn Promotions ([[emph -]] is a speech synthesis directive to deemphasize a word)</Description>
+      <Position>queen_p</Position>
+      <TranslationSet>
+        <base loc="en">[[emph -]] promoting to queen</base>
+        <tran loc="ar">‏[[emph -]] الترقية إلى الوزير</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> &lt;rdar://problem/9220767&gt; Rank/File, used to form squares like d 5 
+ 
+* This probably does not need to be localized for languages
+ 
+* using the latin alphabet.
+ </Description>
+      <Position>rank_1</Position>
+      <TranslationSet>
+        <base loc="en">1</base>
+        <tran loc="ar">١</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>drop_fmt</Position>
+      <TranslationSet>
+        <base loc="en">%@ %@ %@</base>
+        <tran loc="ar">%@ %@ %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>pawn_d</Position>
+      <TranslationSet>
+        <base loc="en">drop pawn at</base>
+        <tran loc="ar">إنزال البيدق عند</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>qcastle_fmt</Position>
+      <TranslationSet>
+        <base loc="en">castle [[emph +]]queen side</base>
+        <tran loc="ar">تحصين [[emph +]]جانب الوزير</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>bishop_p</Position>
+      <TranslationSet>
+        <base loc="en">[[emph -]] promoting to bishop</base>
+        <tran loc="ar">‏[[emph -]] الترقية إلى الفيل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>rank_7</Position>
+      <TranslationSet>
+        <base loc="en">7</base>
+        <tran loc="ar">٧</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>promo_fmt</Position>
+      <TranslationSet>
+        <base loc="en">%@ %@ %@ to %@ %@, %@</base>
+        <tran loc="ar">‏%@ %@ %@ إلى %@ %@، %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>has_check_fmt</Position>
+      <TranslationSet>
+        <base loc="en">%@, %@</base>
+        <tran loc="ar">‏%@، %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>rook</Position>
+      <TranslationSet>
+        <base loc="en">rook</base>
+        <tran loc="ar">الرخ</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>rank_5</Position>
+      <TranslationSet>
+        <base loc="en">5</base>
+        <tran loc="ar">٥</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Suggestions 
+ 
+* suggest_fmt   -&gt; I would suggest "pawn e 2 to e 4"
+ 
+* last_move_fmt -&gt; The last move was "knight g 8 to f 6"
+ </Description>
+      <Position>suggest_fmt</Position>
+      <TranslationSet>
+        <base loc="en">I would suggest \"%@\"</base>
+        <tran loc="ar">أقترح \"%@\"</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>no_check_fmt</Position>
+      <TranslationSet>
+        <base loc="en">%@.</base>
+        <tran loc="ar">‏%@.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>black_win</Position>
+      <TranslationSet>
+        <base loc="en">black wins!</base>
+        <tran loc="ar">‏فاز الأسود!‏</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>rank_8</Position>
+      <TranslationSet>
+        <base loc="en">8</base>
+        <tran loc="ar">٨</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>file_c</Position>
+      <TranslationSet>
+        <base loc="en">C</base>
+        <tran loc="ar">C</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>last_move_fmt</Position>
+      <TranslationSet>
+        <base loc="en">The last move was \"%@\"</base>
+        <tran loc="ar">آخر تحريك كان \"%@\"</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>file_a</Position>
+      <TranslationSet>
+        <base loc="en">A</base>
+        <tran loc="ar">أ</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>file_g</Position>
+      <TranslationSet>
+        <base loc="en">G</base>
+        <tran loc="ar">G</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>file_e</Position>
+      <TranslationSet>
+        <base loc="en">E</base>
+        <tran loc="ar">E</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>rook_p</Position>
+      <TranslationSet>
+        <base loc="en">[[emph -]] promoting to rook</base>
+        <tran loc="ar">‏[[emph -]] الترقية إلى الرخ</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Outcomes </Description>
+      <Position>white_win</Position>
+      <TranslationSet>
+        <base loc="en">white wins!</base>
+        <tran loc="ar">‏فاز الأبيض!‏</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>move_table_desc</Position>
+      <TranslationSet>
+        <base loc="en">Game Moves</base>
+        <tran loc="ar">حركات اللعبة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>check</Position>
+      <TranslationSet>
+        <base loc="en">check!</base>
+        <tran loc="ar">‏كش ملك!‏</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>cpromo_fmt</Position>
+      <TranslationSet>
+        <base loc="en">%@ %@ %@ takes %@ %@, %@</base>
+        <tran loc="ar">‏%@ %@ %@ يأخذ %@ %@، %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>rook_d</Position>
+      <TranslationSet>
+        <base loc="en">drop rook at</base>
+        <tran loc="ar">إنزال الرخ عند</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>rank_2</Position>
+      <TranslationSet>
+        <base loc="en">2</base>
+        <tran loc="ar">٢</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>rank_4</Position>
+      <TranslationSet>
+        <base loc="en">4</base>
+        <tran loc="ar">٤</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>rank_6</Position>
+      <TranslationSet>
+        <base loc="en">6</base>
+        <tran loc="ar">٦</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>check_mate</Position>
+      <TranslationSet>
+        <base loc="en">[[emph +]] check mate!</base>
+        <tran loc="ar">‏[[emph +]] مات الملك!‏</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>Chess/System/Applications/Chess.app/Contents/Resources/en.lproj/MainMenu.strings</Filepath>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Delete"; ObjectID = "200539"; </Description>
+      <Position>200539.title</Position>
+      <TranslationSet>
+        <base loc="en">Delete</base>
+        <tran loc="ar">حذف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Open…"; ObjectID = "402"; </Description>
+      <Position>402.title</Position>
+      <TranslationSet>
+        <base loc="en">Open…</base>
+        <tran loc="ar">فتح…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Quit Chess"; ObjectID = "136"; </Description>
+      <Position>136.title</Position>
+      <TranslationSet>
+        <base loc="en">Quit Chess</base>
+        <tran loc="ar">إنهاء الشطرنج</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Hide Chess"; ObjectID = "134"; </Description>
+      <Position>134.title</Position>
+      <TranslationSet>
+        <base loc="en">Hide Chess</base>
+        <tran loc="ar">إخفاء الشطرنج</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Log Engine"; ObjectID = "200862"; </Description>
+      <Position>200862.title</Position>
+      <TranslationSet>
+        <base loc="en">Log Engine</base>
+        <tran loc="ar">محرك السجلات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; ibShadowedToolTip = "Suggest a move to play."; ObjectID = "397"; </Description>
+      <Position>397.ibShadowedToolTip</Position>
+      <TranslationSet>
+        <base loc="en">Suggest a move to play.</base>
+        <tran loc="ar">اقتراح تحريك للعب.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Decrease FSAA"; ObjectID = "201034"; </Description>
+      <Position>201034.title</Position>
+      <TranslationSet>
+        <base loc="en">Decrease FSAA</base>
+        <tran loc="ar">خفض FSAA</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Clear Menu"; ObjectID = "415"; </Description>
+      <Position>415.title</Position>
+      <TranslationSet>
+        <base loc="en">Clear Menu</base>
+        <tran loc="ar">مسح القائمة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Moves"; ObjectID = "392"; </Description>
+      <Position>392.title</Position>
+      <TranslationSet>
+        <base loc="en">Moves</base>
+        <tran loc="ar">تحركات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenu"; title = "Moves"; ObjectID = "393"; </Description>
+      <Position>393.title</Position>
+      <TranslationSet>
+        <base loc="en">Moves</base>
+        <tran loc="ar">تحركات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Edit"; ObjectID = "200530"; </Description>
+      <Position>200530.title</Position>
+      <TranslationSet>
+        <base loc="en">Edit</base>
+        <tran loc="ar">تحرير</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenu"; title = "Edit"; ObjectID = "200531"; </Description>
+      <Position>200531.title</Position>
+      <TranslationSet>
+        <base loc="en">Edit</base>
+        <tran loc="ar">تحرير</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Debug"; ObjectID = "200860"; </Description>
+      <Position>200860.title</Position>
+      <TranslationSet>
+        <base loc="en">Debug</base>
+        <tran loc="ar">تصحيح الأخطاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenu"; title = "Debug"; ObjectID = "200861"; </Description>
+      <Position>200861.title</Position>
+      <TranslationSet>
+        <base loc="en">Debug</base>
+        <tran loc="ar">تصحيح الأخطاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenu"; title = "Services"; ObjectID = "130"; </Description>
+      <Position>130.title</Position>
+      <TranslationSet>
+        <base loc="en">Services</base>
+        <tran loc="ar">الخدمات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Services"; ObjectID = "131"; </Description>
+      <Position>131.title</Position>
+      <TranslationSet>
+        <base loc="en">Services</base>
+        <tran loc="ar">الخدمات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Show All"; ObjectID = "150"; </Description>
+      <Position>150.title</Position>
+      <TranslationSet>
+        <base loc="en">Show All</base>
+        <tran loc="ar">إظهار الكل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Paste"; ObjectID = "200537"; </Description>
+      <Position>200537.title</Position>
+      <TranslationSet>
+        <base loc="en">Paste</base>
+        <tran loc="ar">لصق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Show Last Move"; ObjectID = "398"; </Description>
+      <Position>398.title</Position>
+      <TranslationSet>
+        <base loc="en">Show Last Move</base>
+        <tran loc="ar">عرض آخر تحريك</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Chess Help"; ObjectID = "111"; </Description>
+      <Position>111.title</Position>
+      <TranslationSet>
+        <base loc="en">Chess Help</base>
+        <tran loc="ar">مساعدة الشطرنج</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Chess"; ObjectID = "56"; </Description>
+      <Position>56.title</Position>
+      <TranslationSet>
+        <base loc="en">Chess</base>
+        <tran loc="ar">شطرنج</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenu"; title = "Chess"; ObjectID = "57"; </Description>
+      <Position>57.title</Position>
+      <TranslationSet>
+        <base loc="en">Chess</base>
+        <tran loc="ar">شطرنج</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Increase FSAA"; ObjectID = "201032"; </Description>
+      <Position>201032.title</Position>
+      <TranslationSet>
+        <base loc="en">Increase FSAA</base>
+        <tran loc="ar">زيادة FSAA</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Close"; ObjectID = "200519"; </Description>
+      <Position>200519.title</Position>
+      <TranslationSet>
+        <base loc="en">Close</base>
+        <tran loc="ar">إغلاق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Close"; ObjectID = "200732"; </Description>
+      <Position>200732.title</Position>
+      <TranslationSet>
+        <base loc="en">Close</base>
+        <tran loc="ar">إغلاق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Zoom"; ObjectID = "646"; </Description>
+      <Position>646.title</Position>
+      <TranslationSet>
+        <base loc="en">Zoom</base>
+        <tran loc="ar">تكبير/تصغير</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Enter Full Screen"; ObjectID = "200920"; </Description>
+      <Position>200920.title</Position>
+      <TranslationSet>
+        <base loc="en">Enter Full Screen</base>
+        <tran loc="ar">الدخول إلى وضع ملء الشاشة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Undo"; ObjectID = "200532"; </Description>
+      <Position>200532.title</Position>
+      <TranslationSet>
+        <base loc="en">Undo</base>
+        <tran loc="ar">تراجع</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "New…"; ObjectID = "82"; </Description>
+      <Position>82.title</Position>
+      <TranslationSet>
+        <base loc="en">New…</base>
+        <tran loc="ar">جديد…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Preferences…"; ObjectID = "129"; </Description>
+      <Position>129.title</Position>
+      <TranslationSet>
+        <base loc="en">Preferences…</base>
+        <tran loc="ar">تفضيلات…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Minimize"; ObjectID = "23"; </Description>
+      <Position>23.title</Position>
+      <TranslationSet>
+        <base loc="en">Minimize</base>
+        <tran loc="ar">تصغير</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Open Recent"; ObjectID = "413"; </Description>
+      <Position>413.title</Position>
+      <TranslationSet>
+        <base loc="en">Open Recent</base>
+        <tran loc="ar">فتح العناصر الأخيرة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenu"; title = "Open Recent"; ObjectID = "414"; </Description>
+      <Position>414.title</Position>
+      <TranslationSet>
+        <base loc="en">Open Recent</base>
+        <tran loc="ar">فتح العناصر الأخيرة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Hide Others"; ObjectID = "145"; </Description>
+      <Position>145.title</Position>
+      <TranslationSet>
+        <base loc="en">Hide Others</base>
+        <tran loc="ar">إخفاء الأخرى</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Redo"; ObjectID = "200533"; </Description>
+      <Position>200533.title</Position>
+      <TranslationSet>
+        <base loc="en">Redo</base>
+        <tran loc="ar">إعادة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Offer Draw"; ObjectID = "200907"; </Description>
+      <Position>200907.title</Position>
+      <TranslationSet>
+        <base loc="en">Offer Draw</base>
+        <tran loc="ar">اقترح التعادل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Copy"; ObjectID = "200536"; </Description>
+      <Position>200536.title</Position>
+      <TranslationSet>
+        <base loc="en">Copy</base>
+        <tran loc="ar">نسخ</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Take Back Move"; ObjectID = "395"; </Description>
+      <Position>395.title</Position>
+      <TranslationSet>
+        <base loc="en">Take Back Move</base>
+        <tran loc="ar">التراجع عن التحريك</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Game Log"; ObjectID = "200501"; </Description>
+      <Position>200501.title</Position>
+      <TranslationSet>
+        <base loc="en">Game Log</base>
+        <tran loc="ar">سجل المباراة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; ibShadowedToolTip = "Take back your last move\nand your opponent's response."; ObjectID = "395"; </Description>
+      <Position>395.ibShadowedToolTip</Position>
+      <TranslationSet>
+        <base loc="en">Take back your last move\nand your opponent's response.</base>
+        <tran loc="ar">التراجع عن آخر تحريك\nوعن رد فعل خصمك.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Save As…"; ObjectID = "701"; </Description>
+      <Position>701.title</Position>
+      <TranslationSet>
+        <base loc="en">Save As…</base>
+        <tran loc="ar">حفظ باسم…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; ibShadowedToolTip = "Offer a Draw to your opponent when you make your next move"; ObjectID = "200907"; </Description>
+      <Position>200907.ibShadowedToolTip</Position>
+      <TranslationSet>
+        <base loc="en">Offer a Draw to your opponent when you make your next move</base>
+        <tran loc="ar">اقترح على خصمك التعادل عند إجراء حركتك التالية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; ibShadowedToolTip = "Show a list of the moves played."; ObjectID = "200501"; </Description>
+      <Position>200501.ibShadowedToolTip</Position>
+      <TranslationSet>
+        <base loc="en">Show a list of the moves played.</base>
+        <tran loc="ar">إظهار قائمة بالتحركات التي لُعبت.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenu"; title = "MainMenu"; ObjectID = "29"; </Description>
+      <Position>29.title</Position>
+      <TranslationSet>
+        <base loc="en">MainMenu</base>
+        <tran loc="ar">MainMenu</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Window"; ObjectID = "19"; </Description>
+      <Position>19.title</Position>
+      <TranslationSet>
+        <base loc="en">Window</base>
+        <tran loc="ar">نافذة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenu"; title = "Window"; ObjectID = "24"; </Description>
+      <Position>24.title</Position>
+      <TranslationSet>
+        <base loc="en">Window</base>
+        <tran loc="ar">نافذة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Dump Language Models"; ObjectID = "200970"; </Description>
+      <Position>200970.title</Position>
+      <TranslationSet>
+        <base loc="en">Dump Language Models</base>
+        <tran loc="ar">تفريغ نماذج اللغة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Select All"; ObjectID = "200540"; </Description>
+      <Position>200540.title</Position>
+      <TranslationSet>
+        <base loc="en">Select All</base>
+        <tran loc="ar">تحديد الكل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Help"; ObjectID = "103"; </Description>
+      <Position>103.title</Position>
+      <TranslationSet>
+        <base loc="en">Help</base>
+        <tran loc="ar">مساعدة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenu"; title = "Help"; ObjectID = "106"; </Description>
+      <Position>106.title</Position>
+      <TranslationSet>
+        <base loc="en">Help</base>
+        <tran loc="ar">مساعدة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Resign"; ObjectID = "200906"; </Description>
+      <Position>200906.title</Position>
+      <TranslationSet>
+        <base loc="en">Resign</base>
+        <tran loc="ar">استسلام</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Show Hint"; ObjectID = "397"; </Description>
+      <Position>397.title</Position>
+      <TranslationSet>
+        <base loc="en">Show Hint</base>
+        <tran loc="ar">إظهار التلميح</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Achievements"; ObjectID = "200922"; </Description>
+      <Position>200922.title</Position>
+      <TranslationSet>
+        <base loc="en">Achievements</base>
+        <tran loc="ar">الإنجازات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Cut"; ObjectID = "200535"; </Description>
+      <Position>200535.title</Position>
+      <TranslationSet>
+        <base loc="en">Cut</base>
+        <tran loc="ar">قص</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Profile Drawing"; ObjectID = "201038"; </Description>
+      <Position>201038.title</Position>
+      <TranslationSet>
+        <base loc="en">Profile Drawing</base>
+        <tran loc="ar">رسم ملف التعريف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenu"; title = "Game"; ObjectID = "81"; </Description>
+      <Position>81.title</Position>
+      <TranslationSet>
+        <base loc="en">Game</base>
+        <tran loc="ar">المباراة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Game"; ObjectID = "83"; </Description>
+      <Position>83.title</Position>
+      <TranslationSet>
+        <base loc="en">Game</base>
+        <tran loc="ar">المباراة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Log Mouse Clicks"; ObjectID = "200968"; </Description>
+      <Position>200968.title</Position>
+      <TranslationSet>
+        <base loc="en">Log Mouse Clicks</base>
+        <tran loc="ar">تسجيل النقر بالماوس</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "About Chess"; ObjectID = "58"; </Description>
+      <Position>58.title</Position>
+      <TranslationSet>
+        <base loc="en">About Chess</base>
+        <tran loc="ar">حول الشطرنج</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Bring All to Front"; ObjectID = "5"; </Description>
+      <Position>5.title</Position>
+      <TranslationSet>
+        <base loc="en">Bring All to Front</base>
+        <tran loc="ar">إحضار الكل إلى الأمام</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; ibShadowedToolTip = "Show the last move played."; ObjectID = "398"; </Description>
+      <Position>398.ibShadowedToolTip</Position>
+      <TranslationSet>
+        <base loc="en">Show the last move played.</base>
+        <tran loc="ar">إظهار آخر تحريك تم لعبه.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Save"; ObjectID = "653"; </Description>
+      <Position>653.title</Position>
+      <TranslationSet>
+        <base loc="en">Save</base>
+        <tran loc="ar">حفظ</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>Chess/System/Applications/Chess.app/Contents/Resources/en.lproj/Localizable.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>draw_request_no</Position>
+      <TranslationSet>
+        <base loc="en">Refuse</base>
+        <tran loc="ar">رفض</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>takeback_request_no</Position>
+      <TranslationSet>
+        <base loc="en">Refuse</base>
+        <tran loc="ar">رفض</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>dest_check_fmt</Position>
+      <TranslationSet>
+        <base loc="en">%@ %@</base>
+        <tran loc="ar">%@ %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>pawns</Position>
+      <TranslationSet>
+        <base loc="en">pawns</base>
+        <tran loc="ar">بيادق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>takeback_msg</Position>
+      <TranslationSet>
+        <base loc="en">Takeback requested</base>
+        <tran loc="ar">تم طلب التراجع</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>queen_letter</Position>
+      <TranslationSet>
+        <base loc="en">Q</base>
+        <tran loc="ar">و</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>knight</Position>
+      <TranslationSet>
+        <base loc="en">knight</base>
+        <tran loc="ar">الحصان</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>draw_request_yes</Position>
+      <TranslationSet>
+        <base loc="en">Accept</base>
+        <tran loc="ar">قبول</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>bishop_letter</Position>
+      <TranslationSet>
+        <base loc="en">B</base>
+        <tran loc="ar">ف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>takeback_request_text</Position>
+      <TranslationSet>
+        <base loc="en">Your opponent would like to take back the last move.</base>
+        <tran loc="ar">خصمك يرغب في التراجع عن آخر حركة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>queen</Position>
+      <TranslationSet>
+        <base loc="en">queen</base>
+        <tran loc="ar">الوزير</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>title_check_fmt</Position>
+      <TranslationSet>
+        <base loc="en">%@%@</base>
+        <tran loc="ar">%@%@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>illegal_msg</Position>
+      <TranslationSet>
+        <base loc="en">Illegal Move!</base>
+        <tran loc="ar">‏تحريك غير مسموح به!‏</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>king</Position>
+      <TranslationSet>
+        <base loc="en">king</base>
+        <tran loc="ar">الملك</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>promote_to</Position>
+      <TranslationSet>
+        <base loc="en">promote to</base>
+        <tran loc="ar">الترقية إلى</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Marble</Position>
+      <TranslationSet>
+        <base loc="en">Marble</base>
+        <tran loc="ar">رخام</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>black_move_msg</Position>
+      <TranslationSet>
+        <base loc="en">Black to Move</base>
+        <tran loc="ar">الدور للأسود</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Formats for moves in game log. 
+ 
+*
+ 
+* move_origin_fmt	= &lt;Piece&gt;&lt;FromFile&gt;&lt;FromRank&gt;
+ 
+*     e.g.               e2     Nf3
+ 
+* drop_origin_fmt      = &lt;Piece&gt;
+ 
+*     e.g.               P      B     R
+ 
+* operation_fmt	= - / x / @
+ 
+* promo_dest_fmt       = &lt;ToFile&gt;&lt;ToRank&gt;=&lt;Piece&gt;
+ 
+*     e.g.               a8=Q     d1=N
+ 
+* move_dest_fmt        = &lt;ToFile&gt;&lt;ToRank&gt;
+ 
+*     e.g.               e4       d7
+ 
+* dest_check_fmt       = &lt;Dest&gt; &lt;Check/Mate&gt;
+ 
+*     e.g.               e4 +     d1=Q ≠
+ </Description>
+      <Position>move_origin_fmt</Position>
+      <TranslationSet>
+        <base loc="en">%@%c%c</base>
+        <tran loc="ar">‎%@ %c%c</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>bishop</Position>
+      <TranslationSet>
+        <base loc="en">bishop</base>
+        <tran loc="ar">الفيل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 
+ 
+* Full piece names for VoiceOver. We can't decompose into color &amp; piece
+ 
+* because of gender agreement requirements in some languages.
+ </Description>
+      <Position>versus</Position>
+      <TranslationSet>
+        <base loc="en">versus</base>
+        <tran loc="ar">ضد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>undos_msg</Position>
+      <TranslationSet>
+        <base loc="en">%d Undos</base>
+        <tran loc="ar">تراجعات %d</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description>
+	File:		Localizable.strings
+	Contains:	Localizable strings for chess
+	Version:	2.0
+	Copyright:	© 2004-2014 by Apple Computer, Inc., all rights reserved.
+</Description>
+      <Position>gc_automatch</Position>
+      <TranslationSet>
+        <base loc="en">Auto-Match Player</base>
+        <tran loc="ar">تطابق تلقائي للاعب</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Metal</Position>
+      <TranslationSet>
+        <base loc="en">Metal</base>
+        <tran loc="ar">معدن</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Glass</Position>
+      <TranslationSet>
+        <base loc="en">Glass</base>
+        <tran loc="ar">زجاج</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>draw_msg</Position>
+      <TranslationSet>
+        <base loc="en">Draw!</base>
+        <tran loc="ar">‏تعادل!‏</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Game loading messages 
+"game_load_fail"        = "Failed to load game";
+"game_load_fail_msg"    = "Chess was unable to load the specified game file. The file may be corrupt or in an improper format.";
+ Style names </Description>
+      <Position>Wood</Position>
+      <TranslationSet>
+        <base loc="en">Wood</base>
+        <tran loc="ar">خشب</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>select_square</Position>
+      <TranslationSet>
+        <base loc="en">select</base>
+        <tran loc="ar">تحديد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>pawn</Position>
+      <TranslationSet>
+        <base loc="en">pawn</base>
+        <tran loc="ar">بيدق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>takeback_refused_ok</Position>
+      <TranslationSet>
+        <base loc="en">OK</base>
+        <tran loc="ar">موافق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Formats for window title: 
+ 
+*
+ 
+* title_move_line_fmt  = Move. (... /) &lt;Last Move&gt;
+ 
+* title_move_fmt       = &lt;Piece+Origin&gt; (-/x/@) &lt;Destination+Promotion&gt;
+ 
+* 	e.g.		  e2-e4     Nf3xe5     b7xa8=R     B@f7
+ 
+* title_check_fmt      = &lt;Move&gt; &lt;Check/Checkmate&gt;
+ 
+*  e.g.         Bc4xf7+
+ 
+* game_title_fmt     	= &lt;White Player&gt; - &lt;Black Player&gt; (&lt;Last Move/Side To Move&gt;)
+ 
+*      e.g.              Alekhine - Casablance (3. ... e7 - e6)
+ 
+* game_outcome_fmt     = &lt;Game Title&gt;   &lt;Outcome of Game&gt;
+ </Description>
+      <Position>title_move_line_fmt</Position>
+      <TranslationSet>
+        <base loc="en">%@. %@%@</base>
+        <tran loc="ar">%@. %@‎%@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>operation_fmt</Position>
+      <TranslationSet>
+        <base loc="en">%C</base>
+        <tran loc="ar">%C</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>casual_game</Position>
+      <TranslationSet>
+        <base loc="en">Casual Game</base>
+        <tran loc="ar">مباراة بسيطة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>takeback_request_yes</Position>
+      <TranslationSet>
+        <base loc="en">Allow</base>
+        <tran loc="ar">السماح</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>hint_msg</Position>
+      <TranslationSet>
+        <base loc="en">1 Hint</base>
+        <tran loc="ar">تلميح ١</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>game_outcome_fmt</Position>
+      <TranslationSet>
+        <base loc="en">%@   %@</base>
+        <tran loc="ar">‏‫%@‬   ‫%@‬</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>queens</Position>
+      <TranslationSet>
+        <base loc="en">queens</base>
+        <tran loc="ar">الوزراء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>promo_dest_fmt</Position>
+      <TranslationSet>
+        <base loc="en">%c%c=%@</base>
+        <tran loc="ar">%c%c‪=%@‬</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>rook</Position>
+      <TranslationSet>
+        <base loc="en">rook</base>
+        <tran loc="ar">الرخ</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>knight_letter</Position>
+      <TranslationSet>
+        <base loc="en">N</base>
+        <tran loc="ar">ح</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>bishops</Position>
+      <TranslationSet>
+        <base loc="en">bishops</base>
+        <tran loc="ar">الأفيال</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>black_pawn</Position>
+      <TranslationSet>
+        <base loc="en">black pawn</base>
+        <tran loc="ar">البيدق الأسود</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>takeback_refused</Position>
+      <TranslationSet>
+        <base loc="en">Your opponent refused to let you take back this move.</base>
+        <tran loc="ar">خصمك رفض ترجعك عن هذه الحركة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>black_queen</Position>
+      <TranslationSet>
+        <base loc="en">black queen</base>
+        <tran loc="ar">الوزير الأسود</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>cant_duplicate_gc</Position>
+      <TranslationSet>
+        <base loc="en">Cannot duplicate Game Center games</base>
+        <tran loc="ar">لا يمكن تكرار ألعاب Game Center</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description>
+  Single letter piece names P(awn) K(night) B(ishop) R(ook) Q(ueen) K(ing)
+  
+  According to the PGN standard for chess notation, the following letters
+  are used internationally:
+
+  Czech        P J S V D K
+  Danish       B S L T D K
+  Dutch        O P L T D K
+  English      P N B R Q K
+  Estonian     P R O V L K
+  Finnish      P R L T D K
+  French       P C F T D R
+  German       B S L T D K
+  Hungarian    G H F B V K
+  Icelandic    P R B H D K
+  Italian      P C A T D R
+  Norwegian    B S L T D K
+  Polish       P S G W H K
+  Portuguese   P C B T D R
+  Romanian     P C N T D R
+  Spanish      P C A T D R
+  Swedish      B S L T D K
+</Description>
+      <Position>pawn_letter</Position>
+      <TranslationSet>
+        <base loc="en">P</base>
+        <tran loc="ar">ب</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>white_rook</Position>
+      <TranslationSet>
+        <base loc="en">white rook</base>
+        <tran loc="ar">الرخ الأبيض</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Strings for check / checkmate </Description>
+      <Position>move_is_check</Position>
+      <TranslationSet>
+        <base loc="en">+</base>
+        <tran loc="ar">+</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Grass</Position>
+      <TranslationSet>
+        <base loc="en">Grass</base>
+        <tran loc="ar">عشب</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kings</Position>
+      <TranslationSet>
+        <base loc="en">kings</base>
+        <tran loc="ar">الملكان</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>undo_msg</Position>
+      <TranslationSet>
+        <base loc="en">1 Undo</base>
+        <tran loc="ar">تراجع ١</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>black_bishop</Position>
+      <TranslationSet>
+        <base loc="en">black bishop</base>
+        <tran loc="ar">الفيل الأسود</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>engine_opponent</Position>
+      <TranslationSet>
+        <base loc="en">Speak Computer Moves</base>
+        <tran loc="ar">نطق تحركات الكمبيوتر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>rook_letter</Position>
+      <TranslationSet>
+        <base loc="en">R</base>
+        <tran loc="ar">ر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>game_title_fmt</Position>
+      <TranslationSet>
+        <base loc="en">%@ - %@   (%@)</base>
+        <tran loc="ar">‏%@ - %@   ‪(%@)‬</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>engine_player</Position>
+      <TranslationSet>
+        <base loc="en">Computer</base>
+        <tran loc="ar">الكمبيوتر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Game outcomes and other title messages </Description>
+      <Position>new_msg</Position>
+      <TranslationSet>
+        <base loc="en">New Game</base>
+        <tran loc="ar">مباراة جديدة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>white_pawn</Position>
+      <TranslationSet>
+        <base loc="en">white pawn</base>
+        <tran loc="ar">بيدق أبيض</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>black_win_msg</Position>
+      <TranslationSet>
+        <base loc="en">Black wins!</base>
+        <tran loc="ar">‏فاز الأسود!‏</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>move_dest_fmt</Position>
+      <TranslationSet>
+        <base loc="en">%c%c</base>
+        <tran loc="ar">%c%c</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>rooks</Position>
+      <TranslationSet>
+        <base loc="en">rooks</base>
+        <tran loc="ar">رخان</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>title_move_fmt</Position>
+      <TranslationSet>
+        <base loc="en">%@%@%@</base>
+        <tran loc="ar">‏%@%@%@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>black_knight</Position>
+      <TranslationSet>
+        <base loc="en">black knight</base>
+        <tran loc="ar">الحصان الأسود</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Fur</Position>
+      <TranslationSet>
+        <base loc="en">Fur</base>
+        <tran loc="ar">فرو</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>black_rook</Position>
+      <TranslationSet>
+        <base loc="en">black rook</base>
+        <tran loc="ar">الرخ الأسود</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>white_move_msg</Position>
+      <TranslationSet>
+        <base loc="en">White to Move</base>
+        <tran loc="ar">الدور للأبيض</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>fixed_depths_mode</Position>
+      <TranslationSet>
+        <base loc="en">Computer thinks %d moves ahead</base>
+        <tran loc="ar">في تقدير الكمبيوتر %d من الحركات إلى الأمام</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Draw / Takeback requests </Description>
+      <Position>draw_request_text</Position>
+      <TranslationSet>
+        <base loc="en">Your opponent offers a draw.</base>
+        <tran loc="ar">خصمك يعرض عليك التعادل.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>knights</Position>
+      <TranslationSet>
+        <base loc="en">knights</base>
+        <tran loc="ar">حصانان</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>white_queen</Position>
+      <TranslationSet>
+        <base loc="en">white queen</base>
+        <tran loc="ar">الوزير الأبيض</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>king_letter</Position>
+      <TranslationSet>
+        <base loc="en">K</base>
+        <tran loc="ar">م</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>drop_origin_fmt</Position>
+      <TranslationSet>
+        <base loc="en">%@</base>
+        <tran loc="ar">‏%@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>fixed_time_mode</Position>
+      <TranslationSet>
+        <base loc="en">Computer thinks 1 second per move</base>
+        <tran loc="ar">في تقدير الكمبيوتر ثانية واحدة لكل حركة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Engine thinking mode </Description>
+      <Position>fixed_depth_mode</Position>
+      <TranslationSet>
+        <base loc="en">Computer thinks 1 move ahead</base>
+        <tran loc="ar">في تقدير الكمبيوتر حركة واحدة إلى الأمام</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>white_king</Position>
+      <TranslationSet>
+        <base loc="en">white king</base>
+        <tran loc="ar">الملك الأبيض</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>white_bishop</Position>
+      <TranslationSet>
+        <base loc="en">white bishop</base>
+        <tran loc="ar">الفيل الأبيض</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>move_is_checkmate</Position>
+      <TranslationSet>
+        <base loc="en">≠</base>
+        <tran loc="ar">≠</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>hints_msg</Position>
+      <TranslationSet>
+        <base loc="en">%d Hints</base>
+        <tran loc="ar">تلميحات %d</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>cloud_city</Position>
+      <TranslationSet>
+        <base loc="en">Game Center</base>
+        <tran loc="ar">Game Center</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>gc_opponent</Position>
+      <TranslationSet>
+        <base loc="en">Speak Opponent Moves</base>
+        <tran loc="ar">نطق تحركات الخصم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>black_king</Position>
+      <TranslationSet>
+        <base loc="en">black king</base>
+        <tran loc="ar">الملك الأسود</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>white_knight</Position>
+      <TranslationSet>
+        <base loc="en">white knight</base>
+        <tran loc="ar">الحصان الأبيض</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>white_win_msg</Position>
+      <TranslationSet>
+        <base loc="en">White wins!</base>
+        <tran loc="ar">‏فاز الأبيض!‏</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>cloud_country</Position>
+      <TranslationSet>
+        <base loc="en">The Cloud</base>
+        <tran loc="ar">السحابة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>fixed_times_mode</Position>
+      <TranslationSet>
+        <base loc="en">Computer thinks %d seconds per move</base>
+        <tran loc="ar">في تقدير الكمبيوتر %d ثوانٍ لكل حركة</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>Chess/System/Applications/Chess.app/Contents/Resources/en.lproj/About.strings</Filepath>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "© 2003-2016\n© 2000\n© 2002"; ObjectID = "100013"; </Description>
+      <Position>100013.title</Position>
+      <TranslationSet>
+        <base loc="en">© 2003-2016\n© 2000\n© 2002</base>
+        <tran loc="ar">© 2003-2016\n© 2000\n© 2002</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Version %@\n\n"; ObjectID = "100007"; </Description>
+      <Position>100007.title</Position>
+      <TranslationSet>
+        <base loc="en">Version %@\n\n</base>
+        <tran loc="ar">الإصدار %@\n\n</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Version %@\n\n"; ObjectID = "200015"; </Description>
+      <Position>200015.title</Position>
+      <TranslationSet>
+        <base loc="en">Version %@\n\n</base>
+        <tran loc="ar">الإصدار %@\n\n</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "CocoaBindingsConnection"; ibShadowedDisplayPattern = "Build %{value1}@"; ObjectID = "200022"; </Description>
+      <Position>200022.ibShadowedDisplayPattern</Position>
+      <TranslationSet>
+        <base loc="en">Build %{value1}@</base>
+        <tran loc="ar">البنية %{value1}@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Chess"; ObjectID = "100006"; </Description>
+      <Position>100006.title</Position>
+      <TranslationSet>
+        <base loc="en">Chess</base>
+        <tran loc="ar">شطرنج</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Download Source Code…"; ObjectID = "100009"; </Description>
+      <Position>100009.title</Position>
+      <TranslationSet>
+        <base loc="en">Download Source Code…</base>
+        <tran loc="ar">تنزيل التعليمات البرمجية المصدر…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButton"; ibShadowedToolTip = "Open web location to download \nthe source code for this application."; ObjectID = "9"; </Description>
+      <Position>9.ibShadowedToolTip</Position>
+      <TranslationSet>
+        <base loc="en">Open web location to download \nthe source code for this application.</base>
+        <tran loc="ar">فتح موقع الويب لتنزيل \nتعليمات برمجية المصدر لهذا التطبيق.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Apple Inc.\nGian-Carlo Pascutto\nR. Ancell &amp; M. Duelli"; ObjectID = "200012"; </Description>
+      <Position>200012.title</Position>
+      <TranslationSet>
+        <base loc="en">Apple Inc.\nGian-Carlo Pascutto\nR. Ancell &amp; M. Duelli</base>
+        <tran loc="ar">Apple Inc.\nGian-Carlo Pascutto\nR. Ancell &amp; M. Duelli</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "CocoaBindingsConnection"; ibShadowedDisplayPattern = "Version %{value1}@"; ObjectID = "200020"; </Description>
+      <Position>200020.ibShadowedDisplayPattern</Position>
+      <TranslationSet>
+        <base loc="en">Version %{value1}@</base>
+        <tran loc="ar">الإصدار %{value1}@</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+</Proj>

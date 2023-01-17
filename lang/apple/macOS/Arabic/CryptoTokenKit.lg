@@ -1,0 +1,561 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Proj>
+  <ProjName>CryptoTokenKit</ProjName>
+  <File>
+    <Filepath>CryptoTokenKit/System/Library/SystemProfiler/SPCtkReporter.spreporter/Contents/Resources/en.lproj/Localizable.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>SPSmartCardsDataType</Position>
+      <TranslationSet>
+        <base loc="en">SmartCards</base>
+        <tran loc="ar">SmartCards</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AVAIL_SMARTCARDS_TOKEN</Position>
+      <TranslationSet>
+        <base loc="en">Available SmartCards (token)</base>
+        <tran loc="ar">بطاقات SmartCard المتوفرة (الرمز)</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>READERS_DRIVERS</Position>
+      <TranslationSet>
+        <base loc="en">Reader Drivers</base>
+        <tran loc="ar">برامج تشغيل القارئ</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>TOKEN_DRIVERS</Position>
+      <TranslationSet>
+        <base loc="en">Tokend Drivers</base>
+        <tran loc="ar">برامج تشغيل Tokend</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AVAIL_SMARTCARDS_KEYCHAIN</Position>
+      <TranslationSet>
+        <base loc="en">Available SmartCards (keychain)</base>
+        <tran loc="ar">بطاقات SmartCard المتوفرة (سلسلة المفاتيح)</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>_name</Position>
+      <TranslationSet>
+        <base loc="en">SmartCards Name</base>
+        <tran loc="ar">اسم SmartCards</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>READERS</Position>
+      <TranslationSet>
+        <base loc="en">Readers</base>
+        <tran loc="ar">القارئات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SMARTCARDS_DRIVERS</Position>
+      <TranslationSet>
+        <base loc="en">SmartCard Drivers</base>
+        <tran loc="ar">برامج تشغيل SmartCard</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>CryptoTokenKit/System/Library/Frameworks/CryptoTokenKit.framework/Versions/A/Resources/en.lproj/Localizable.strings</Filepath>
+    <TextItem>
+      <Description>
+  Localizable.strings
+  CryptoTokenKit
+</Description>
+      <Position>INVALID_PIN</Position>
+      <TranslationSet>
+        <base loc="en">PIN has invalid format</base>
+        <tran loc="ar">تنسيق غير صالح لرمز PIN</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>CryptoTokenKit/System/Library/Frameworks/CryptoTokenKit.framework/ctkbind.app/Contents/Resources/en.lproj/InfoPlist.strings</Filepath>
+    <TextItem>
+      <Description> 
+  InfoPlist.strings
+  CryptoTokenKit
+
+  Created by Dan Seknicka on 10/03/2016.
+  Copyright © 2016 Apple. All rights reserved.
+</Description>
+      <Position>CFBundleDisplayName</Position>
+      <TranslationSet>
+        <base loc="en">SmartCard Pairing</base>
+        <tran loc="ar">اقتران SmartCard</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CFBundleName</Position>
+      <TranslationSet>
+        <base loc="en">SmartCard Pairing</base>
+        <tran loc="ar">اقتران SmartCard</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>CryptoTokenKit/System/Library/Frameworks/CryptoTokenKit.framework/ctkbind.app/Contents/Resources/en.lproj/Bind.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>STORE_UNLOCK_KEY_CURRENT_USER_ERROR</Position>
+      <TranslationSet>
+        <base loc="en">Login keychain unlock key can be stored only when pairing the current user.</base>
+        <tran loc="ar">لا يمكن تخزين مفتاح فتح قفل سلسلة مفاتيح الدخول إلا عند اقتران المستخدم الحالي.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SC_IS_ALREADY_PAIRED</Position>
+      <TranslationSet>
+        <base loc="en">SmartCard is already paired.</base>
+        <tran loc="ar">‏SmartCard مقترنة بالفعل.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>OK</Position>
+      <TranslationSet>
+        <base loc="en">OK</base>
+        <tran loc="ar">موافق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>STORE_UNLOCK_KEY_FAILED</Position>
+      <TranslationSet>
+        <base loc="en">Failed to store Login keychain unlock key</base>
+        <tran loc="ar">فشل تخزين مفتاح فتح قفل سلسلة مفاتيح الدخول</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CANCEL</Position>
+      <TranslationSet>
+        <base loc="en">Cancel</base>
+        <tran loc="ar">إلغاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UN_PAIR</Position>
+      <TranslationSet>
+        <base loc="en">Pair</base>
+        <tran loc="ar">إقران</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>STORE_UNLOCK_KEY_FAILED_INFO</Position>
+      <TranslationSet>
+        <base loc="en">User was successfully paired but user password will be required after next SmartCard login to unlock Login keychain.</base>
+        <tran loc="ar">تم إقران المستخدم بنجاح، ولكن ستكون كلمة السر مطلوبة بعد عملية تسجيل الدخول التالية إلى SmartCard لفتح قفل سلسلة مفاتيح تسجيل الدخول.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AUTH_ERROR</Position>
+      <TranslationSet>
+        <base loc="en">Authorization failed (%d).</base>
+        <tran loc="ar">فشل التخويل (%d).</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UNPAIR</Position>
+      <TranslationSet>
+        <base loc="en">Unpair</base>
+        <tran loc="ar">إلغاء الاقتران</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 
+  Bind.strings
+  CryptoTokenKit
+
+  Created by Dan Seknicka on 09/03/2016.
+  Copyright © 2016 Apple. All rights reserved.
+</Description>
+      <Position>PAIRING_FAILED</Position>
+      <TranslationSet>
+        <base loc="en">SmartCard pairing failed.</base>
+        <tran loc="ar">فشل اقتران SmartCard.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>NO_WRAP_KEY_ERROR</Position>
+      <TranslationSet>
+        <base loc="en">No suitable key was found on the selected SmartCard.</base>
+        <tran loc="ar">لم يتم العثور على اي مفتاح مناسب في البطاقة الذكية المحددة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UN_UNSUPPORTED_SC</Position>
+      <TranslationSet>
+        <base loc="en">Unsupported SmartCard inserted</base>
+        <tran loc="ar">تم إدراج بطاقة SmartCard غير مدعومة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UN_UNPAIRED_SC</Position>
+      <TranslationSet>
+        <base loc="en">Unpaired SmartCard inserted:\n%@</base>
+        <tran loc="ar">تم إدراج بطاقة SmartCard غير مقترنة:\n%@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SMART_CARD</Position>
+      <TranslationSet>
+        <base loc="en">SmartCard</base>
+        <tran loc="ar">SmartCard</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UNSUITABLE_KEY</Position>
+      <TranslationSet>
+        <base loc="en">Current user is paired with unsuitable identity: ’%@’.\nPlease use different identity</base>
+        <tran loc="ar">المستخدم الحالي مقترن بهوية غير مناسبة: "%@".\nالرجاء استخدام هوية مختلفة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PAIRING_ERROR</Position>
+      <TranslationSet>
+        <base loc="en">Cannot pair SmartCard with the current user.\n%@</base>
+        <tran loc="ar">لا يمكن اقتران SmartCard بالمستخدم الحالي.\n%@</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>CryptoTokenKit/System/Library/Frameworks/CryptoTokenKit.framework/ctkahp.bundle/Contents/Resources/en.lproj/InfoPlist.strings</Filepath>
+    <TextItem>
+      <Description> 
+  InfoPlist.strings
+  CryptoTokenKit
+
+  Copyright © 2016 Apple. All rights reserved.
+</Description>
+      <Position>CFBundleDisplayName</Position>
+      <TranslationSet>
+        <base loc="en">Smartcard Agent</base>
+        <tran loc="ar">عميل SmartCard</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CFBundleName</Position>
+      <TranslationSet>
+        <base loc="en">Smartcard Agent</base>
+        <tran loc="ar">عميل SmartCard</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>CryptoTokenKit/System/Library/Frameworks/CryptoTokenKit.framework/ctkahp.bundle/Contents/Resources/en.lproj/Localizable.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>USERSELECTOR_FAILED</Position>
+      <TranslationSet>
+        <base loc="en">Unable to use internal component.</base>
+        <tran loc="ar">غير قادر على استخدام المكوّن الداخلي.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description>
+  Localizable.strings
+  CryptoTokenKit
+</Description>
+      <Position>SC_INIT_ERROR</Position>
+      <TranslationSet>
+        <base loc="en">SmartCard initialization error.</base>
+        <tran loc="ar">خطأ في تهيئة SmartCard.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SC_TRUST_ERROR</Position>
+      <TranslationSet>
+        <base loc="en">The SmartCard certificate is not trusted.</base>
+        <tran loc="ar">شهادة SmartCard غير موثوق بها.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SC_ALGO_ERROR</Position>
+      <TranslationSet>
+        <base loc="en">SmartCard algorithm initialization error.</base>
+        <tran loc="ar">خطأ في تهيئة خوارزمية SmartCard.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>OD_ERROR</Position>
+      <TranslationSet>
+        <base loc="en">OpenDirectory error.</base>
+        <tran loc="ar">خطأ في OpenDirectory.</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>CryptoTokenKit/System/Library/Frameworks/CryptoTokenKit.framework/PlugIns/pivtoken.appex/Contents/Resources/en.lproj/Localizable.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>WRONG_CONSTR</Position>
+      <TranslationSet>
+        <base loc="en">Unexpected constraint</base>
+        <tran loc="ar">قيد غير متوقع</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PIV_AUTH_CERT</Position>
+      <TranslationSet>
+        <base loc="en">Certificate For PIV Authentication</base>
+        <tran loc="ar">شهادة مصادقة PIV</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CARD_AUTH_CERT</Position>
+      <TranslationSet>
+        <base loc="en">Certificate For Card Authentication</base>
+        <tran loc="ar">شهادة مصادقة البطاقات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CARD_AUTH_KEY</Position>
+      <TranslationSet>
+        <base loc="en">Key For Card Authentication</base>
+        <tran loc="ar">مفتاح مصادقة البطاقات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DIG_SIG_CERT</Position>
+      <TranslationSet>
+        <base loc="en">Certificate For Digital Signature</base>
+        <tran loc="ar">شهادة التوقيع الرقمي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>KEY_MGMT_KEY</Position>
+      <TranslationSet>
+        <base loc="en">Key For Key Management</base>
+        <tran loc="ar">مفتاح إدارة المفاتيح</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>RET_KEY_MGMT_CERT</Position>
+      <TranslationSet>
+        <base loc="en">Retired Certificate For Key Management %ld</base>
+        <tran loc="ar">شهادة إدارة المفاتيح معزولة %ld</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description>
+ Localizable.strings
+ pivtoken
+ </Description>
+      <Position>CORRUPTED_CERT</Position>
+      <TranslationSet>
+        <base loc="en">corrupted certificate data</base>
+        <tran loc="ar">بيانات شهادة تالفة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>RET_KEY_MGMT_KEY</Position>
+      <TranslationSet>
+        <base loc="en">Retired Key For Key Management %ld</base>
+        <tran loc="ar">مفتاح إدارة المفاتيح معزول %ld</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>KEY_MGMT_CERT</Position>
+      <TranslationSet>
+        <base loc="en">Certificate For Key Management</base>
+        <tran loc="ar">شهادة إدارة المفاتيح</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PIV_AUTH_KEY</Position>
+      <TranslationSet>
+        <base loc="en">Key For PIV Authentication</base>
+        <tran loc="ar">مفتاح مصادقة PIV</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DIG_SIG_KEY</Position>
+      <TranslationSet>
+        <base loc="en">Key For Digital Signature</base>
+        <tran loc="ar">مفتاح التوقيع الرقمي</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>CryptoTokenKit/System/Library/Frameworks/CryptoTokenKit.framework/Versions/A/Resources/en.lproj/Localizable.stringsdict</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>/VERIFY_TRY_LEFT:dict/tries:dict/few:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">PIN verification failed, %d tries left</base>
+        <tran loc="ar">فشل التحقق من رمز PIN، يتبقى %d محاولات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/VERIFY_TRY_LEFT:dict/tries:dict/many:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">PIN verification failed, %d tries left</base>
+        <tran loc="ar">فشل التحقق من رمز PIN، يتبقى %d محاولة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/VERIFY_TRY_LEFT:dict/tries:dict/other:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">PIN verification failed, %d tries left</base>
+        <tran loc="ar">فشل التحقق من رمز PIN، يتبقى %d محاولة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/VERIFY_TRY_LEFT:dict/tries:dict/two:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">PIN verification failed, %d tries left</base>
+        <tran loc="ar">فشل التحقق من رمز PIN، يتبقى محاولتان</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/VERIFY_TRY_LEFT:dict/NSStringLocalizedFormatKey:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%1$#@tries@</base>
+        <tran loc="ar">%1$#@tries@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/VERIFY_TRY_LEFT:dict/tries:dict/zero:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">PIN verification failed, PIN blocked</base>
+        <tran loc="ar">فشل التحقق من رمز PIN، تم حظر رمز PIN</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/VERIFY_TRY_LEFT:dict/tries:dict/one:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">PIN verification failed, one try left</base>
+        <tran loc="ar">فشل التحقق من رمز PIN، يتبقى محاولة واحدة</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>CryptoTokenKit/System/Library/Frameworks/CryptoTokenKit.framework/ctkbind.app/Contents/Resources/en.lproj/BindDialog.strings</Filepath>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; placeholderString = "Driver Name"; ObjectID = "5Qp-bv-0oB"; </Description>
+      <Position>5Qp-bv-0oB.placeholderString</Position>
+      <TranslationSet>
+        <base loc="en">Driver Name</base>
+        <tran loc="ar">اسم برنامج التشغيل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; placeholderString = "Reader Name"; ObjectID = "q8e-0L-cVQ"; </Description>
+      <Position>q8e-0L-cVQ.placeholderString</Position>
+      <TranslationSet>
+        <base loc="en">Reader Name</base>
+        <tran loc="ar">اسم القارئ</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Reader:"; ObjectID = "uxh-O0-Umr"; </Description>
+      <Position>uxh-O0-Umr.title</Position>
+      <TranslationSet>
+        <base loc="en">Reader:</base>
+        <tran loc="ar">القارئ:</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Cancel"; ObjectID = "XHK-fY-6Iz"; </Description>
+      <Position>XHK-fY-6Iz.title</Position>
+      <TranslationSet>
+        <base loc="en">Cancel</base>
+        <tran loc="ar">إلغاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Card Identity:"; ObjectID = "9C8-UB-rtC"; </Description>
+      <Position>9C8-UB-rtC.title</Position>
+      <TranslationSet>
+        <base loc="en">Card Identity:</base>
+        <tran loc="ar">هوية البطاقة:</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Pair"; ObjectID = "0fw-xO-7qI"; </Description>
+      <Position>0fw-xO-7qI.title</Position>
+      <TranslationSet>
+        <base loc="en">Pair</base>
+        <tran loc="ar">إقران</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Driver:"; ObjectID = "Lja-Wn-r5N"; </Description>
+      <Position>Lja-Wn-r5N.title</Position>
+      <TranslationSet>
+        <base loc="en">Driver:</base>
+        <tran loc="ar">برنامج التشغيل:</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Do you want to connect the inserted SmartCard with the current user?"; ObjectID = "DYa-Jc-3Ur"; </Description>
+      <Position>DYa-Jc-3Ur.title</Position>
+      <TranslationSet>
+        <base loc="en">Do you want to connect the inserted SmartCard with the current user?</base>
+        <tran loc="ar">هل ترغب في توصيل الـ SmartCard المدرجة بالمستخدم الحالي؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Do not show again"; ObjectID = "mve-qQ-5ug"; </Description>
+      <Position>mve-qQ-5ug.title</Position>
+      <TranslationSet>
+        <base loc="en">Do not show again</base>
+        <tran loc="ar">عدم الإظهار مرة أخرى</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSWindow"; title = "SmartCard Pairing"; ObjectID = "F0z-JX-Cv5"; </Description>
+      <Position>F0z-JX-Cv5.title</Position>
+      <TranslationSet>
+        <base loc="en">SmartCard Pairing</base>
+        <tran loc="ar">اقتران SmartCard</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+</Proj>

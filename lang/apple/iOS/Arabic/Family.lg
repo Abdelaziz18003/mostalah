@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Proj>
+  <ProjName>Family</ProjName>
+  <File>
+    <Filepath>Family/System/Library/UserNotifications/Bundles/com.apple.familynotifications.bundle/en.lproj/InfoPlist.strings</Filepath>
+    <TextItem>
+      <Description> 
+  Localizable.strings
+  FamilyNotification
+
+  Created by Justin Bennett on 9/5/18.
+  Copyright © 2018 Apple Inc. All rights reserved.
+
+ Family user notification bundle name </Description>
+      <Position>CFBundleDisplayName</Position>
+      <TranslationSet>
+        <base loc="en">Family</base>
+        <tran loc="ar">العائلة</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>Family/System/Library/UserNotifications/Bundles/com.apple.familynotifications.bundle/en.lproj/Localizable.strings</Filepath>
+    <TextItem>
+      <Description> 
+  Localizable.strings
+  FamilyNotification
+
+  Created by Justin Bennett on 9/11/18.
+  Copyright © 2018 Apple Inc. All rights reserved.
+
+ Notification Header - Will appear at the top of the notification </Description>
+      <Position>FAFamilyHeader</Position>
+      <TranslationSet>
+        <base loc="en">Family</base>
+        <tran loc="ar">العائلة</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+</Proj>

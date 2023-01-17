@@ -1,0 +1,1302 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Proj>
+  <ProjName>iLMBPlugins</ProjName>
+  <File>
+    <Filepath>iLMBPlugins/Library/Application Support/iLifeMediaBrowser/Plug-Ins/iLMBPhotoBoothPlugin.ilmbplugin/Contents/Resources/English.lproj/Localizable.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>RatingSearchTitle</Position>
+      <TranslationSet>
+        <base loc="en">Rating</base>
+        <tran loc="ar">التصنيف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Search Menus </Description>
+      <Position>AllSearchTitle</Position>
+      <TranslationSet>
+        <base loc="en">All</base>
+        <tran loc="ar">الكل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>OpenPhotoBooth</Position>
+      <TranslationSet>
+        <base loc="en">Open Photo Booth</base>
+        <tran loc="ar">فتح Photo Booth</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description>"PhotoBoothLoading"				= "Loading Photo Booth snapshots…";</Description>
+      <Position>defaultLoadingMessage</Position>
+      <TranslationSet>
+        <base loc="en">Loading Photo Booth media…</base>
+        <tran loc="ar">يتم الآن تحميل وسائط Photo Booth…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description>"PhotoBoothNotFound"		= "To see Photo Booth snapshots here, open Photo Booth to take and save your pictures.";
+"PhotoBoothMoviesNotFound"	= "To see Photo Booth movies here, open Photo Booth and record a movie.";
+replaced both with generic "media" message</Description>
+      <Position>defaultNoDataMessage</Position>
+      <TranslationSet>
+        <base loc="en">To see Photo Booth media here, open Photo Booth to take and save your pictures and movies.</base>
+        <tran loc="ar">لعرض وسائط Photo Booth هنا، قم بفتح Photo Booth لالتقاط الصور والأفلام وحفظها.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>TitleSearchTitle</Position>
+      <TranslationSet>
+        <base loc="en">Title</base>
+        <tran loc="ar">العنوان</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description>
+ 
+*  Localizable.strings
+ 
+*  iLifeMediaBrowser
+ 
+*
+ 
+*  This file comes from the iLifeMediaBrowser Plugins in the iLife nn install package.
+ </Description>
+      <Position>OK</Position>
+      <TranslationSet>
+        <base loc="en">OK</base>
+        <tran loc="ar">موافق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>KeywordsSearchTitle</Position>
+      <TranslationSet>
+        <base loc="en">Keywords</base>
+        <tran loc="ar">الكلمات المفتاحية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> The ISO code for the language localization.  This does not appear in anywhere in the user
+ 
+* interface.  Instead, it gets embedded into the registration data XML that is sent to the
+ 
+* registration server.  In Mac OS 10.2.5, there is no public way to get the ISO code of the
+ 
+* active localization (though you can get the preferred localizations, they are not guaranteed
+ 
+* to be in ISO format, and there are no public APIs to do the mapping to ISO code).
+ 
+*
+ 
+* Here are the proper values for the tier 0 languages:
+ 
+*
+ 
+*		French		"fr"
+ 
+*		German		"de"
+ 
+*		Japanese	"ja"
+ 
+*		English		"en"
+ 
+* 
+ 
+* Localizers: Please modify the localization of "LocalizedLanguageISOCode" to the proper value
+ 
+* for your localization.
+ </Description>
+      <Position>LocalizedLanguageISOCode</Position>
+      <TranslationSet>
+        <base loc="en">en</base>
+        <tran loc="ar">en</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Contextual Menus </Description>
+      <Position>RevealInFinder</Position>
+      <TranslationSet>
+        <base loc="en">Reveal in Finder</base>
+        <tran loc="ar">كشف في Finder</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>iLMBPlugins/Library/Application Support/iLifeMediaBrowser/Plug-Ins/iLMBFinalCutPlugin.ilmbplugin/Contents/Resources/English.lproj/Localizable.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>FinalCutEventLibrary</Position>
+      <TranslationSet>
+        <base loc="en">Event Library</base>
+        <tran loc="ar">مكتبة الأحداث</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Search Menus </Description>
+      <Position>AllSearchTitle</Position>
+      <TranslationSet>
+        <base loc="en">All</base>
+        <tran loc="ar">الكل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>FinalCutClipNameDisplayFormat</Position>
+      <TranslationSet>
+        <base loc="en">%Y-%m-%d %I:%M:%S %p</base>
+        <tran loc="ar">%Y-%m-%d %I:%M:%S %p</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> See iMovie 'localizable.strings'::captureNameFormat</Description>
+      <Position>FinalCutClipNameFormat</Position>
+      <TranslationSet>
+        <base loc="en">%Y-%m-%d %H;%M;%S</base>
+        <tran loc="ar">%Y-%m-%d %H;%M;%S</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Display strings from iLMB framework </Description>
+      <Position>defaultLoadingMessage</Position>
+      <TranslationSet>
+        <base loc="en">Loading Final Cut projects…</base>
+        <tran loc="ar">يتم الآن تحميل مشاريع Final Cut...</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>defaultNoDataMessage</Position>
+      <TranslationSet>
+        <base loc="en">To see Final Cut projects and events here, open Final Cut Pro to edit and save your movies.</base>
+        <tran loc="ar">لعرض مشاريع وأحداث Final Cut هنا، قم بفتح Final Cut Pro لتحرير الأفلام وحفظها.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>FCProjectNotReady</Position>
+      <TranslationSet>
+        <base loc="en">The Final Cut Pro project can't be used because it hasn't been prepared for sharing. To prepare the project for sharing, open it in Final Cut Pro and choose File &gt; Share &gt; Apple Devices 720p or Apple Devices 1080p. In the Share window, click Settings, select Publish to Media Browser from the \"When done\" pop-up menu, and click Share. Note: The pop-up menu may be titled \"Open with\" or \"Add to playlist.\"</base>
+        <tran loc="ar">لا يمكن استخدام مشروع Final Cut Pro حيث لم يتم إعداده للمشاركة. لإعداد المشروع للمشاركة، قم بفتحه في Final Cut Pro واختيار ملف &gt; مشاركة &gt; أجهزة  Apple ٧٢٠ بكسل أو أجهزة Apple ١٠٨٠ بكسل. في نافذة المشاركة، انقر على إعدادات، حدد نشر إلى متصفح الوسائط من القائمة المنبثقة \"عند الانتهاء\"، وانقر على مشاركة. ملاحظة: قد تكون القائمة المنبثقة بعنوان \"فتح بواسطة\" أو \"إضافة إلى قائمة التشغيل.\"</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>TitleSearchTitle</Position>
+      <TranslationSet>
+        <base loc="en">Title</base>
+        <tran loc="ar">العنوان</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description>
+ 
+*  Localizable.strings
+ 
+*  iLifeMediaBrowser
+ 
+*
+ </Description>
+      <Position>OK</Position>
+      <TranslationSet>
+        <base loc="en">OK</base>
+        <tran loc="ar">موافق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> See iMovie 'localizable.strings'::captureNamePrefix</Description>
+      <Position>FinalCutClipNamePrefix</Position>
+      <TranslationSet>
+        <base loc="en">clip</base>
+        <tran loc="ar">مقطع</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> The ISO code for the language localization.  This does not appear in anywhere in the user
+ 
+* interface.  Instead, it gets embedded into the registration data XML that is sent to the
+ 
+* registration server.  In Mac OS 10.2.5, there is no public way to get the ISO code of the
+ 
+* active localization (though you can get the preferred localizations, they are not guaranteed
+ 
+* to be in ISO format, and there are no public APIs to do the mapping to ISO code).
+ 
+*
+ 
+* Here are the proper values for the tier 0 languages:
+ 
+*
+ 
+*		French		"fr"
+ 
+*		German		"de"
+ 
+*		Japanese	"ja"
+ 
+*		English		"en"
+ 
+* 
+ 
+* Localizers: Please modify the localization of "LocalizedLanguageISOCode" to the proper value
+ 
+* for your localization.
+ </Description>
+      <Position>LocalizedLanguageISOCode</Position>
+      <TranslationSet>
+        <base loc="en">en</base>
+        <tran loc="ar">en</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Contextual Menus </Description>
+      <Position>OpenInFinalCut</Position>
+      <TranslationSet>
+        <base loc="en">Open in Final Cut Pro</base>
+        <tran loc="ar">فتح في Final Cut Pro</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>RevealInFinder</Position>
+      <TranslationSet>
+        <base loc="en">Reveal in Finder</base>
+        <tran loc="ar">كشف في Finder</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>FinalCutProjectLibrary</Position>
+      <TranslationSet>
+        <base loc="en">Project Library</base>
+        <tran loc="ar">مكتبة المشاريع</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>OpenFinalCut</Position>
+      <TranslationSet>
+        <base loc="en">Open Final Cut Pro</base>
+        <tran loc="ar">فتح Final Cut Pro</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>iLMBPlugins/Library/Application Support/iLifeMediaBrowser/Plug-Ins/iLMBPhotosPlugin.ilmbplugin/Contents/Resources/en.lproj/Localizable.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>ProjectsGroup</Position>
+      <TranslationSet>
+        <base loc="en">Projects</base>
+        <tran loc="ar">المشاريع</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Contextual Menus </Description>
+      <Position>OpenInPhotos</Position>
+      <TranslationSet>
+        <base loc="en">Open in Photos</base>
+        <tran loc="ar">فتح في الصور</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>defaultNoDataMessage</Position>
+      <TranslationSet>
+        <base loc="en">Open Photos to see your photos in this list.</base>
+        <tran loc="ar">قم بفتح الصور لمشاهدة الصور الخاصة بك في هذه القائمة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>TopLevelAlbums</Position>
+      <TranslationSet>
+        <base loc="en">Albums</base>
+        <tran loc="ar">الألبومات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>allPlacedPhotosAlbum</Position>
+      <TranslationSet>
+        <base loc="en">Places</base>
+        <tran loc="ar">الأماكن</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AllYearsGroup</Position>
+      <TranslationSet>
+        <base loc="en">Years</base>
+        <tran loc="ar">السنوات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AllCollectionsGroup</Position>
+      <TranslationSet>
+        <base loc="en">Collections</base>
+        <tran loc="ar">المجموعات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SharedGroup</Position>
+      <TranslationSet>
+        <base loc="en">Shared</base>
+        <tran loc="ar">مشترك</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>RevealInFinder</Position>
+      <TranslationSet>
+        <base loc="en">Reveal in Finder</base>
+        <tran loc="ar">كشف في Finder</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AllMomentsGroup</Position>
+      <TranslationSet>
+        <base loc="en">Moments</base>
+        <tran loc="ar">اللحظات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>defaultLoadingMessage</Position>
+      <TranslationSet>
+        <base loc="en">Loading images…</base>
+        <tran loc="ar">يتم الآن تحميل الصور…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>MomentTitleToDateSeparator</Position>
+      <TranslationSet>
+        <base loc="en">, </base>
+        <tran loc="ar">‏، </tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AllPhotosGroup</Position>
+      <TranslationSet>
+        <base loc="en">Photos</base>
+        <tran loc="ar">الصور</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 
+  Localizable.strings
+  iLMBPlugins
+
+  Created by Martin Toeller on 2/26/14.
+
+</Description>
+      <Position>PhotosApplicationName</Position>
+      <TranslationSet>
+        <base loc="en">Photos</base>
+        <tran loc="ar">الصور</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>FacesGroup</Position>
+      <TranslationSet>
+        <base loc="en">People</base>
+        <tran loc="ar">الأشخاص</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>iLMBPlugins/Library/Application Support/iLifeMediaBrowser/Plug-Ins/iLMBLogicPlugin.ilmbplugin/Contents/Resources/en.lproj/Localizable.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>ProjectsGroupName</Position>
+      <TranslationSet>
+        <base loc="en">Projects</base>
+        <tran loc="ar">المشاريع</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 
+  Localizable.strings
+  iLMBLogicPlugin
+
+  Created by Martin Toeller on 10/17/12.
+  Copyright (c) 2012 Apple Inc. All rights reserved.
+
+ The ISO code for the language localization.  This does not appear in anywhere in the user
+ 
+* interface.  Instead, it gets embedded into the registration data XML that is sent to the
+ 
+* registration server.  In Mac OS 10.2.5, there is no public way to get the ISO code of the
+ 
+* active localization (though you can get the preferred localizations, they are not guaranteed
+ 
+* to be in ISO format, and there are no public APIs to do the mapping to ISO code).
+ 
+*
+ 
+* Here are the proper values for the tier 0 languages:
+ 
+*
+ 
+*		French		"fr"
+ 
+*		German		"de"
+ 
+*		Japanese	"ja"
+ 
+*		English		"en"
+ 
+*
+ 
+* Localizers: Please modify the localization of "LocalizedLanguageISOCode" to the proper value
+ 
+* for your localization.
+ </Description>
+      <Position>LocalizedLanguageISOCode</Position>
+      <TranslationSet>
+        <base loc="en">en</base>
+        <tran loc="ar">en</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>iLMBPlugins/Library/Application Support/iLifeMediaBrowser/Plug-Ins/iLMBMoviesFolderPlugin.ilmbplugin/Contents/Resources/en.lproj/Localizable.strings</Filepath>
+    <TextItem>
+      <Description> Search Menus </Description>
+      <Position>AllSearchTitle</Position>
+      <TranslationSet>
+        <base loc="en">All</base>
+        <tran loc="ar">الكل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>TitleSearchTitle</Position>
+      <TranslationSet>
+        <base loc="en">Title</base>
+        <tran loc="ar">العنوان</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description>
+ 
+*  Localizable.strings
+ 
+*  iLifeMediaBrowser
+ 
+*
+ 
+*  This file comes from the iLifeMediaBrowser Plugins in the iLife nn install package.
+ </Description>
+      <Position>OK</Position>
+      <TranslationSet>
+        <base loc="en">OK</base>
+        <tran loc="ar">موافق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description>"MoviesMediaLoading"			= "Loading movies…";</Description>
+      <Position>defaultLoadingMessage</Position>
+      <TranslationSet>
+        <base loc="en">Loading movies…</base>
+        <tran loc="ar">يتم الآن تحميل الأفلام…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> The ISO code for the language localization.  This does not appear in anywhere in the user
+ 
+* interface.  Instead, it gets embedded into the registration data XML that is sent to the
+ 
+* registration server.  In Mac OS 10.2.5, there is no public way to get the ISO code of the
+ 
+* active localization (though you can get the preferred localizations, they are not guaranteed
+ 
+* to be in ISO format, and there are no public APIs to do the mapping to ISO code).
+ 
+*
+ 
+* Here are the proper values for the tier 0 languages:
+ 
+*
+ 
+*		French		"fr"
+ 
+*		German		"de"
+ 
+*		Japanese	"ja"
+ 
+*		English		"en"
+ 
+* 
+ 
+* Localizers: Please modify the localization of "LocalizedLanguageISOCode" to the proper value
+ 
+* for your localization.
+ </Description>
+      <Position>LocalizedLanguageISOCode</Position>
+      <TranslationSet>
+        <base loc="en">en</base>
+        <tran loc="ar">en</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Movies</Position>
+      <TranslationSet>
+        <base loc="en">Movies</base>
+        <tran loc="ar">أفلام</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Contextual Menus </Description>
+      <Position>RevealInFinder</Position>
+      <TranslationSet>
+        <base loc="en">Reveal in Finder</base>
+        <tran loc="ar">كشف في Finder</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description>"MoviesNotFound"			= "To see iMovie projects here, use iMovie 3 or later to save them to the Movies folder.";</Description>
+      <Position>defaultNoDataMessage</Position>
+      <TranslationSet>
+        <base loc="en">To see iMovie projects here, use iMovie to save them to the Movies folder.</base>
+        <tran loc="ar">لعرض مشاريع iMovie هنا، استخدم الإصدار ٣ من iMovie أو إصدار أحدث لحفظها في مجلد الأفلام.</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>iLMBPlugins/Library/Application Support/iLifeMediaBrowser/Plug-Ins/iLMBPhotoBooth2Plugin.ilmbplugin/Contents/Resources/English.lproj/Localizable.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>RatingSearchTitle</Position>
+      <TranslationSet>
+        <base loc="en">Rating</base>
+        <tran loc="ar">التصنيف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Search Menus </Description>
+      <Position>AllSearchTitle</Position>
+      <TranslationSet>
+        <base loc="en">All</base>
+        <tran loc="ar">الكل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>OpenPhotoBooth</Position>
+      <TranslationSet>
+        <base loc="en">Open Photo Booth</base>
+        <tran loc="ar">فتح Photo Booth</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description>"PhotoBoothLoading"				= "Loading Photo Booth snapshots…";</Description>
+      <Position>defaultLoadingMessage</Position>
+      <TranslationSet>
+        <base loc="en">Loading Photo Booth media…</base>
+        <tran loc="ar">يتم الآن تحميل وسائط Photo Booth…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description>"PhotoBoothNotFound"		= "To see Photo Booth snapshots here, open Photo Booth to take and save your pictures.";
+"PhotoBoothMoviesNotFound"	= "To see Photo Booth movies here, open Photo Booth and record a movie.";
+replaced both with generic "media" message</Description>
+      <Position>defaultNoDataMessage</Position>
+      <TranslationSet>
+        <base loc="en">To see Photo Booth media here, open Photo Booth to take and save your pictures and movies.</base>
+        <tran loc="ar">لعرض وسائط Photo Booth هنا، قم بفتح Photo Booth لالتقاط الصور والأفلام وحفظها.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>TitleSearchTitle</Position>
+      <TranslationSet>
+        <base loc="en">Title</base>
+        <tran loc="ar">العنوان</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description>
+ 
+*  Localizable.strings
+ 
+*  iLifeMediaBrowser
+ 
+*
+ 
+*  This file comes from the iLifeMediaBrowser Plugins in the iLife nn install package.
+ </Description>
+      <Position>OK</Position>
+      <TranslationSet>
+        <base loc="en">OK</base>
+        <tran loc="ar">موافق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>KeywordsSearchTitle</Position>
+      <TranslationSet>
+        <base loc="en">Keywords</base>
+        <tran loc="ar">الكلمات المفتاحية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> The ISO code for the language localization.  This does not appear in anywhere in the user
+ 
+* interface.  Instead, it gets embedded into the registration data XML that is sent to the
+ 
+* registration server.  In Mac OS 10.2.5, there is no public way to get the ISO code of the
+ 
+* active localization (though you can get the preferred localizations, they are not guaranteed
+ 
+* to be in ISO format, and there are no public APIs to do the mapping to ISO code).
+ 
+*
+ 
+* Here are the proper values for the tier 0 languages:
+ 
+*
+ 
+*		French		"fr"
+ 
+*		German		"de"
+ 
+*		Japanese	"ja"
+ 
+*		English		"en"
+ 
+* 
+ 
+* Localizers: Please modify the localization of "LocalizedLanguageISOCode" to the proper value
+ 
+* for your localization.
+ </Description>
+      <Position>LocalizedLanguageISOCode</Position>
+      <TranslationSet>
+        <base loc="en">en</base>
+        <tran loc="ar">en</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Contextual Menus </Description>
+      <Position>RevealInFinder</Position>
+      <TranslationSet>
+        <base loc="en">Reveal in Finder</base>
+        <tran loc="ar">كشف في Finder</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>iLMBPlugins/Library/Application Support/iLifeMediaBrowser/Plug-Ins/iLMBiTunesPlugin.ilmbplugin/Contents/Resources/en.lproj/Localizable.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>AuthorSearchTitle</Position>
+      <TranslationSet>
+        <base loc="en">Author</base>
+        <tran loc="ar">المؤلف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AlbumSearchTitle</Position>
+      <TranslationSet>
+        <base loc="en">Album</base>
+        <tran loc="ar">الألبوم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Search Menus </Description>
+      <Position>AllSearchTitle</Position>
+      <TranslationSet>
+        <base loc="en">All</base>
+        <tran loc="ar">الكل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SongSearchTitle</Position>
+      <TranslationSet>
+        <base loc="en">Song</base>
+        <tran loc="ar">أغنية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>NameSearchTitle</Position>
+      <TranslationSet>
+        <base loc="en">Name</base>
+        <tran loc="ar">الاسم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>TitleSearchTitle</Position>
+      <TranslationSet>
+        <base loc="en">Title</base>
+        <tran loc="ar">العنوان</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description>
+ 
+*  Localizable.strings
+ 
+*  iLifeMediaBrowser
+ 
+*
+ 
+*  This file comes from the iLifeMediaBrowser Plugins in the iLife nn install package.
+ </Description>
+      <Position>OK</Position>
+      <TranslationSet>
+        <base loc="en">OK</base>
+        <tran loc="ar">موافق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> The ISO code for the language localization.  This does not appear in anywhere in the user
+ 
+* interface.  Instead, it gets embedded into the registration data XML that is sent to the
+ 
+* registration server.  In Mac OS 10.2.5, there is no public way to get the ISO code of the
+ 
+* active localization (though you can get the preferred localizations, they are not guaranteed
+ 
+* to be in ISO format, and there are no public APIs to do the mapping to ISO code).
+ 
+*
+ 
+* Here are the proper values for the tier 0 languages:
+ 
+*
+ 
+*		French		"fr"
+ 
+*		German		"de"
+ 
+*		Japanese	"ja"
+ 
+*		English		"en"
+ 
+* 
+ 
+* Localizers: Please modify the localization of "LocalizedLanguageISOCode" to the proper value
+ 
+* for your localization.
+ </Description>
+      <Position>LocalizedLanguageISOCode</Position>
+      <TranslationSet>
+        <base loc="en">en</base>
+        <tran loc="ar">en</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ArtistSearchTitle</Position>
+      <TranslationSet>
+        <base loc="en">Artist</base>
+        <tran loc="ar">الفنان</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>defaultLoadingMessage</Position>
+      <TranslationSet>
+        <base loc="en">Loading Media…</base>
+        <tran loc="ar">جاري تحميل الوسائط…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>defaultNoDataMessage</Position>
+      <TranslationSet>
+        <base loc="en">Open Music, Podcasts or TV to populate this list.</base>
+        <tran loc="ar">افتح تطبيق الموسيقى أو البودكاست أو TV لتعبئة هذه القائمة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>RevealInFinder</Position>
+      <TranslationSet>
+        <base loc="en">Reveal in Finder</base>
+        <tran loc="ar">كشف في Finder</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Contextual Menus </Description>
+      <Position>OpenInApp</Position>
+      <TranslationSet>
+        <base loc="en">Open in App</base>
+        <tran loc="ar">فتح في التطبيق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Root media group title </Description>
+      <Position>Media</Position>
+      <TranslationSet>
+        <base loc="en">Media</base>
+        <tran loc="ar">الوسائط</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>GenreSearchTitle</Position>
+      <TranslationSet>
+        <base loc="en">Genre</base>
+        <tran loc="ar">النوع</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ComposerSearchTitle</Position>
+      <TranslationSet>
+        <base loc="en">Composer</base>
+        <tran loc="ar">الملحن</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>iLMBPlugins/Library/Application Support/iLifeMediaBrowser/Plug-Ins/iLMBFolderPlugin.ilmbplugin/Contents/Resources/English.lproj/Localizable.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>AlbumSearchTitle</Position>
+      <TranslationSet>
+        <base loc="en">Album</base>
+        <tran loc="ar">الألبوم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Search Menus </Description>
+      <Position>AllSearchTitle</Position>
+      <TranslationSet>
+        <base loc="en">All</base>
+        <tran loc="ar">الكل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description>"FolderAudioNotFound"			= "No audio was found.";
+"FolderImagesNotFound"		= "No images were found.";
+"FolderMoviesNotFound"		= "No movies were found.";
+"DefaultNotFound"				= "No media was found.";</Description>
+      <Position>defaultNoDataMessage</Position>
+      <TranslationSet>
+        <base loc="en">No media was found.</base>
+        <tran loc="ar">لم يتم العثور على أي وسائط.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>NameSearchTitle</Position>
+      <TranslationSet>
+        <base loc="en">Name</base>
+        <tran loc="ar">الاسم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Contextual Menus </Description>
+      <Position>OpenFile</Position>
+      <TranslationSet>
+        <base loc="en">Open File</base>
+        <tran loc="ar">فتح ملف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>TitleSearchTitle</Position>
+      <TranslationSet>
+        <base loc="en">Title</base>
+        <tran loc="ar">العنوان</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description>
+ 
+*  Localizable.strings
+ 
+*  iLifeMediaBrowser
+ 
+*
+ 
+*  This file comes from the iLifeMediaBrowser Plugins in the iLife nn install package.
+ </Description>
+      <Position>OK</Position>
+      <TranslationSet>
+        <base loc="en">OK</base>
+        <tran loc="ar">موافق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> The ISO code for the language localization.  This does not appear in anywhere in the user
+ 
+* interface.  Instead, it gets embedded into the registration data XML that is sent to the
+ 
+* registration server.  In Mac OS 10.2.5, there is no public way to get the ISO code of the
+ 
+* active localization (though you can get the preferred localizations, they are not guaranteed
+ 
+* to be in ISO format, and there are no public APIs to do the mapping to ISO code).
+ 
+*
+ 
+* Here are the proper values for the tier 0 languages:
+ 
+*
+ 
+*		French		"fr"
+ 
+*		German		"de"
+ 
+*		Japanese	"ja"
+ 
+*		English		"en"
+ 
+* 
+ 
+* Localizers: Please modify the localization of "LocalizedLanguageISOCode" to the proper value
+ 
+* for your localization.
+ </Description>
+      <Position>LocalizedLanguageISOCode</Position>
+      <TranslationSet>
+        <base loc="en">en</base>
+        <tran loc="ar">en</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ArtistSearchTitle</Position>
+      <TranslationSet>
+        <base loc="en">Artist</base>
+        <tran loc="ar">الفنان</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>RevealInFinder</Position>
+      <TranslationSet>
+        <base loc="en">Reveal in Finder</base>
+        <tran loc="ar">كشف في Finder</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description>"FolderAudioLoading"			= "Loading audio…";
+"FolderImagesLoading"			= "Loading images…";
+"FolderMoviesLoading"			= "Loading movies…";
+"DefaultLoading"				= "Loading media…";</Description>
+      <Position>defaultLoadingMessage</Position>
+      <TranslationSet>
+        <base loc="en">Loading media…</base>
+        <tran loc="ar">يتم الآن تحميل الوسائط…</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>iLMBPlugins/Library/Application Support/iLifeMediaBrowser/Plug-Ins/iLMBiMoviePlugin.ilmbplugin/Contents/Resources/en.lproj/Localizable.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>iMovieTrailerNotReady</Position>
+      <TranslationSet>
+        <base loc="en">This iMovie trailer can't be used because it hasn't been prepared for sharing yet. To prepare it for sharing, open it in iMovie and choose Share &gt; Media Browser….</base>
+        <tran loc="ar">لا يمكن استخدام المقطع الترويجي لـ iMovie حيث لم يتم إعداده للمشاركة بعد. لإعداد المشروع للمشاركة، قم بفتحه في iMovie واختيار مشاركة &gt; مستعرض الوسائط…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>iMovieEventLibrary</Position>
+      <TranslationSet>
+        <base loc="en">Event Library</base>
+        <tran loc="ar">مكتبة الأحداث</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Search Menus </Description>
+      <Position>AllSearchTitle</Position>
+      <TranslationSet>
+        <base loc="en">All</base>
+        <tran loc="ar">الكل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>iMovieClipNameDisplayFormat</Position>
+      <TranslationSet>
+        <base loc="en">%Y-%m-%d %I:%M:%S %p</base>
+        <tran loc="ar">%Y-%m-%d %I:%M:%S %p</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> See iMovie 'localizable.strings'::captureNameFormat</Description>
+      <Position>iMovieClipNameFormat</Position>
+      <TranslationSet>
+        <base loc="en">%Y-%m-%d %H;%M;%S</base>
+        <tran loc="ar">%Y-%m-%d %H;%M;%S</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description>the iMovie plugin will use this string in place of defaultNoDataMessage when an unrendered project or trailer is selected.
+"iMovieProjectNotReady"		= "This iMovie project can't be used because it hasn't been prepared for sharing yet. To prepare it for sharing, open it in iMovie and choose Share &gt; Media Browser….";</Description>
+      <Position>iMovieProjectNotReady</Position>
+      <TranslationSet>
+        <base loc="en">This iMovie project can't be used because it hasn't been prepared for sharing yet. To prepare it for sharing, open it in iMovie and choose Share &gt; Media Browser….</base>
+        <tran loc="ar">لا يمكن استخدام مشروع iMovie حيث لم يتم إعداده للمشاركة بعد. لإعداد المشروع للمشاركة، قم بفتحه في iMovie واختيار مشاركة &gt; مستعرض الوسائط…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description>"iMovieMediaLoading"			= "Loading iMovie projects…";</Description>
+      <Position>defaultLoadingMessage</Position>
+      <TranslationSet>
+        <base loc="en">Loading iMovie projects…</base>
+        <tran loc="ar">يتم الآن تحميل مشاريع iMovie…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>TitleSearchTitle</Position>
+      <TranslationSet>
+        <base loc="en">Title</base>
+        <tran loc="ar">العنوان</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description>
+ 
+*  Localizable.strings
+ 
+*  iLifeMediaBrowser
+ 
+*
+ 
+*  This file comes from the iLifeMediaBrowser Plugins in the iLife nn install package.
+ </Description>
+      <Position>OK</Position>
+      <TranslationSet>
+        <base loc="en">OK</base>
+        <tran loc="ar">موافق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Display strings from iLMB framework 
+"iMovieAllProjectsNotReady"		= "To see iMovie projects here, open iMovie 7 or later to edit and save your movies.";</Description>
+      <Position>defaultNoDataMessage</Position>
+      <TranslationSet>
+        <base loc="en">To see iMovie projects here, open iMovie 7 or later to edit and save your movies.</base>
+        <tran loc="ar">لعرض مشاريع iMovie هنا، قم بفتح الإصدار ٧ أو أحدث من iMovie لتحرير الأفلام وحفظها.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> See iMovie 'localizable.strings'::captureNamePrefix</Description>
+      <Position>iMovieClipNamePrefix</Position>
+      <TranslationSet>
+        <base loc="en">clip</base>
+        <tran loc="ar">مقطع</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> The ISO code for the language localization.  This does not appear in anywhere in the user
+ 
+* interface.  Instead, it gets embedded into the registration data XML that is sent to the
+ 
+* registration server.  In Mac OS 10.2.5, there is no public way to get the ISO code of the
+ 
+* active localization (though you can get the preferred localizations, they are not guaranteed
+ 
+* to be in ISO format, and there are no public APIs to do the mapping to ISO code).
+ 
+*
+ 
+* Here are the proper values for the tier 0 languages:
+ 
+*
+ 
+*		French		"fr"
+ 
+*		German		"de"
+ 
+*		Japanese	"ja"
+ 
+*		English		"en"
+ 
+* 
+ 
+* Localizers: Please modify the localization of "LocalizedLanguageISOCode" to the proper value
+ 
+* for your localization.
+ </Description>
+      <Position>LocalizedLanguageISOCode</Position>
+      <TranslationSet>
+        <base loc="en">en</base>
+        <tran loc="ar">en</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>OpeniMovie</Position>
+      <TranslationSet>
+        <base loc="en">Open iMovie</base>
+        <tran loc="ar">فتح iMovie</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>RevealInFinder</Position>
+      <TranslationSet>
+        <base loc="en">Reveal in Finder</base>
+        <tran loc="ar">كشف في Finder</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>iMovieProjectLibrary</Position>
+      <TranslationSet>
+        <base loc="en">Project Library</base>
+        <tran loc="ar">مكتبة المشاريع</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Contextual Menus </Description>
+      <Position>OpenIniMovie</Position>
+      <TranslationSet>
+        <base loc="en">Open in iMovie</base>
+        <tran loc="ar">فتح في iMovie</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>iLMBPlugins/Library/Application Support/iLifeMediaBrowser/Plug-Ins/iLMBGarageBandPlugin.ilmbplugin/Contents/Resources/English.lproj/Localizable.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>AlbumSearchTitle</Position>
+      <TranslationSet>
+        <base loc="en">Album</base>
+        <tran loc="ar">الألبوم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Search Menus </Description>
+      <Position>AllSearchTitle</Position>
+      <TranslationSet>
+        <base loc="en">All</base>
+        <tran loc="ar">الكل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>NameSearchTitle</Position>
+      <TranslationSet>
+        <base loc="en">Name</base>
+        <tran loc="ar">الاسم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>defaultNoDataMessage</Position>
+      <TranslationSet>
+        <base loc="en">To see GarageBand projects here, use GarageBand to save them to the Music &gt; GarageBand folder.</base>
+        <tran loc="ar">لعرض مشاريع GarageBand هنا، استخدم GarageBand لحفظها في الموسيقى &gt; مجلد GarageBand.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>OpenGarageBand</Position>
+      <TranslationSet>
+        <base loc="en">Open GarageBand</base>
+        <tran loc="ar">فتح GarageBand</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description>
+ 
+*  Localizable.strings
+ 
+*  iLifeMediaBrowser
+ 
+*
+ 
+*  This file comes from the iLifeMediaBrowser Plugins in the iLife nn install package.
+ </Description>
+      <Position>OK</Position>
+      <TranslationSet>
+        <base loc="en">OK</base>
+        <tran loc="ar">موافق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> The ISO code for the language localization.  This does not appear in anywhere in the user
+ 
+* interface.  Instead, it gets embedded into the registration data XML that is sent to the
+ 
+* registration server.  In Mac OS 10.2.5, there is no public way to get the ISO code of the
+ 
+* active localization (though you can get the preferred localizations, they are not guaranteed
+ 
+* to be in ISO format, and there are no public APIs to do the mapping to ISO code).
+ 
+*
+ 
+* Here are the proper values for the tier 0 languages:
+ 
+*
+ 
+*		French		"fr"
+ 
+*		German		"de"
+ 
+*		Japanese	"ja"
+ 
+*		English		"en"
+ 
+* 
+ 
+* Localizers: Please modify the localization of "LocalizedLanguageISOCode" to the proper value
+ 
+* for your localization.
+ </Description>
+      <Position>LocalizedLanguageISOCode</Position>
+      <TranslationSet>
+        <base loc="en">en</base>
+        <tran loc="ar">en</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ArtistSearchTitle</Position>
+      <TranslationSet>
+        <base loc="en">Artist</base>
+        <tran loc="ar">الفنان</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description>"GarageBandLoading"				= "Loading GarageBand songs…";</Description>
+      <Position>defaultLoadingMessage</Position>
+      <TranslationSet>
+        <base loc="en">Loading GarageBand songs…</base>
+        <tran loc="ar">يتم الآن تحميل أغاني GarageBand…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>RevealInFinder</Position>
+      <TranslationSet>
+        <base loc="en">Reveal in Finder</base>
+        <tran loc="ar">كشف في Finder</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Contextual Menus </Description>
+      <Position>OpenInGarageBand</Position>
+      <TranslationSet>
+        <base loc="en">Open in GarageBand</base>
+        <tran loc="ar">فتح في GarageBand</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+</Proj>

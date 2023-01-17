@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Proj>
+  <ProjName>CalendarAssistant</ProjName>
+  <File>
+    <Filepath>CalendarAssistant/System/Library/Assistant/Plugins/Calendar.assistantBundle/en.lproj/Localizable.strings</Filepath>
+    <TextItem>
+      <Description> Attendee display text for three or more attendees with end format </Description>
+      <Position>%@ and %@ (three or more end format)</Position>
+      <TranslationSet>
+        <base loc="en">%@ and %@</base>
+        <tran loc="ar">%@ و%@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Attendee display text formatted for two attendees </Description>
+      <Position>%@ and %@ (two attendee format)</Position>
+      <TranslationSet>
+        <base loc="en">%@ and %@</base>
+        <tran loc="ar">‏%@ و%@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Attendee display text for three or more attendees with middle format </Description>
+      <Position>%@, %@ (three or more middle format)</Position>
+      <TranslationSet>
+        <base loc="en">%@, %@</base>
+        <tran loc="ar">‏%@، %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Attendee display text for three or more attendees with start format </Description>
+      <Position>%@, %@ (three or more start format)</Position>
+      <TranslationSet>
+        <base loc="en">%@, %@</base>
+        <tran loc="ar">‏%@، %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Title with participant </Description>
+      <Position>%1$@ with %2$@</Position>
+      <TranslationSet>
+        <base loc="en">%1$@ with %2$@</base>
+        <tran loc="ar">‏%1$@ مع %2$@</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+</Proj>

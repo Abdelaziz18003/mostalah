@@ -1,0 +1,1438 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Proj>
+  <ProjName>StartupDisk</ProjName>
+  <File>
+    <Filepath>StartupDisk/System/Applications/Utilities/Startup Disk.app/Contents/Resources/en.lproj/Localizable.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>ICON_LABEL_LINE2</Position>
+      <TranslationSet>
+        <base loc="en">%2</base>
+        <tran loc="ar">%2</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> descriptive text at bottom of window </Description>
+      <Position>NETBOOT_ANY_DESCRIPTION</Position>
+      <TranslationSet>
+        <base loc="en">You have selected to search for a network disk at startup.</base>
+        <tran loc="ar">لقد قمت بتحديد البحث عن قرص شبكة عند بدء التشغيل.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description>	Netboot server tooltip format string </Description>
+      <Position>NETBOOT_SERVER_TOOLTIP</Position>
+      <TranslationSet>
+        <base loc="en">%@ %@\n%@ %@\n%@ %@</base>
+        <tran loc="ar">‏%@ %@\n%@ %@‏\n%@ %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description>	Tooltip for OS 9 disk format string </Description>
+      <Position>OS_9_TOOLTIP</Position>
+      <TranslationSet>
+        <base loc="en">%@ %@\n%@ %@\n%@ %@</base>
+        <tran loc="ar">‏%@ %@\n%@ %@‏\n%@ %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>RESTART?</Position>
+      <TranslationSet>
+        <base loc="en">Are you sure you want to restart the computer?</base>
+        <tran loc="ar">هل أنت متأكد من رغبتك في إعادة تشغيل الكمبيوتر؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> More Choices tooltip </Description>
+      <Position>NETBOOT_LIST_TOOLTIP</Position>
+      <TranslationSet>
+        <base loc="en">Select a network disk below</base>
+        <tran loc="ar">قم بتحديد شبكة أدناه</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Foreign OS</Position>
+      <TranslationSet>
+        <base loc="en">Foreign OS</base>
+        <tran loc="ar">نظام تشغيل خارجي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Encrypted disk support </Description>
+      <Position>ENCRYPTED_DISK</Position>
+      <TranslationSet>
+        <base loc="en">Encrypted Disk</base>
+        <tran loc="ar">قرص مشفر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Labels inside the tool-tips </Description>
+      <Position>Volume:</Position>
+      <TranslationSet>
+        <base loc="en">Volume:</base>
+        <tran loc="ar">وحدة التخزين:</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> save sheet </Description>
+      <Position>SAVE_NETBOOT_ANY_DESCRIPT</Position>
+      <TranslationSet>
+        <base loc="en">Your computer will search for a network disk at startup.</base>
+        <tran loc="ar">سيقوم الكمبيوتر بالبحث عن قرص الشبكة عند بدء التشغيل.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Description text. %1 is the system version, %2 is the volume name, %3 is the System Folder name if it's not "System Folder" </Description>
+      <Position>DESCRIPTION_WITH_SFNAME</Position>
+      <TranslationSet>
+        <base loc="en">You have selected %1 (%3)\non the disk “%2.”</base>
+        <tran loc="ar">تم تحديد %1 (%3)\nعلى القرص \"%2‎.\"</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>OK</Position>
+      <TranslationSet>
+        <base loc="en">OK</base>
+        <tran loc="ar">موافق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>RESTART...</Position>
+      <TranslationSet>
+        <base loc="en">Restart…</base>
+        <tran loc="ar">إعادة التشغيل...</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> save sheet </Description>
+      <Position>SAVE_NETBOOT_DESCRIPT</Position>
+      <TranslationSet>
+        <base loc="en">Your computer will start up using the network disk named “%1.”</base>
+        <tran loc="ar">سيتم بدء تشغيل الكمبيوتر باستخدام قرص الشبكة \"%1‎.\"</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>System:</Position>
+      <TranslationSet>
+        <base loc="en">System:</base>
+        <tran loc="ar">النظام:</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SAVE_DESCRIPT</Position>
+      <TranslationSet>
+        <base loc="en">Your computer will start up using %1 on “%2.”</base>
+        <tran loc="ar">‫سيتم بدء تشغيل الكمبيوتر باستخدام ‫%1‬ على \"%2‎.\"‬</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ENTER_TDM</Position>
+      <TranslationSet>
+        <base loc="en">Restart</base>
+        <tran loc="ar">إعادة التشغيل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> The restart button has no ellipsis when the option key is down </Description>
+      <Position>RESTART</Position>
+      <TranslationSet>
+        <base loc="en">Restart</base>
+        <tran loc="ar">إعادة التشغيل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DESCRIPTION</Position>
+      <TranslationSet>
+        <base loc="en">You have selected %1\non the disk “%2.”</base>
+        <tran loc="ar">تم تحديد %1\nعلى القرص \"%2‎\".</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>EXTERNAL_DISKS_NOT_ALLOWED_INFO</Position>
+      <TranslationSet>
+        <base loc="en">You can change this by restarting and holding down Command-R to open macOS Recovery, then choosing Startup Security Utility.</base>
+        <tran loc="ar">يمكنك تغيير ذلك عن طريق إعادة التشغيل والضغط المطول على الأوامر-R لفتح استرداد macOS، ثم اختيار أداة أمن بدء التشغيل.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CANCEL</Position>
+      <TranslationSet>
+        <base loc="en">Cancel</base>
+        <tran loc="ar">إلغاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SHUTDOWN</Position>
+      <TranslationSet>
+        <base loc="en">Shutdown</base>
+        <tran loc="ar">إيقاف التشغيل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> NetBoot Stuff 
+ Search at startup, no NB2 server found </Description>
+      <Position>NETWORK_STARTUP</Position>
+      <TranslationSet>
+        <base loc="en">Network Startup</base>
+        <tran loc="ar">شبكة بدء التشغيل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Additional information about the disk </Description>
+      <Position>Note:</Position>
+      <TranslationSet>
+        <base loc="en">Note:</base>
+        <tran loc="ar">ملاحظة:</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Cell formatting strings 
+	Product name, typically Mac OS, vers, displayed on the second line </Description>
+      <Position>PRODUCT_NAME_FORMAT</Position>
+      <TranslationSet>
+        <base loc="en">%@, %@</base>
+        <tran loc="ar">%@, %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description>	Tooltip for OS 10 disk format string </Description>
+      <Position>OS_10_TOOLTIP</Position>
+      <TranslationSet>
+        <base loc="en">%@ %@\n%@ %@</base>
+        <tran loc="ar">‏%@ %@‎\n%@ %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>TDM...</Position>
+      <TranslationSet>
+        <base loc="en">Target Disk Mode…</base>
+        <tran loc="ar">نمط القرص المستهدف...</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> no server found tooltip </Description>
+      <Position>NETBOOT_ANY_TOOLTIP</Position>
+      <TranslationSet>
+        <base loc="en">Search for a network disk at startup</base>
+        <tran loc="ar">البحث عن قرص الشبكة عند بدء التشغيل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> More Choices icon </Description>
+      <Position>NETWORK_STARTUP_LIST</Position>
+      <TranslationSet>
+        <base loc="en">Network Startup…</base>
+        <tran loc="ar">شبكة بدء التشغيل...</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICON_LABEL_LINE1</Position>
+      <TranslationSet>
+        <base loc="en">%1</base>
+        <tran loc="ar">%1</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>XSERVER_KIND</Position>
+      <TranslationSet>
+        <base loc="en">macOS Server</base>
+        <tran loc="ar">macOS Server</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>macOS Server</Position>
+      <TranslationSet>
+        <base loc="en">macOS Server</base>
+        <tran loc="ar">macOS Server</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>RESTARTING</Position>
+      <TranslationSet>
+        <base loc="en">Restarting</base>
+        <tran loc="ar">إعادة التشغيل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ENCRYPTED_DISK_ANY_DESCRIPTION</Position>
+      <TranslationSet>
+        <base loc="en">This disk is encrypted.\nIt must be unlocked to determine if it is a valid startup disk.</base>
+        <tran loc="ar">هذا القرص مشفر.\nيجب فتح تأمينه لتحديد ما إذا كان قرص بدء تشغيل صالح.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Internet Host containing NetBoot image </Description>
+      <Position>Server:</Position>
+      <TranslationSet>
+        <base loc="en">Server:</base>
+        <tran loc="ar">الخادم:</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> save sheet </Description>
+      <Position>SAVE_NETINSTALL_DESCRIPT</Position>
+      <TranslationSet>
+        <base loc="en">Your computer will start up using the network disk named “%1.” If this disk installs software automatically, your hard disk could be erased.</base>
+        <tran loc="ar">سيتم بدء تشغيل الكمبيوتر باستخدام قرص الشبكة \"%1‎.\" إذا قام هذا القرص بتثبيت البرنامج تلقائيًا، قد يتم مسح القرص الثابت.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Product names for Beta systems that didn't have SystemVersion.plist </Description>
+      <Position>PB</Position>
+      <TranslationSet>
+        <base loc="en">Public Beta</base>
+        <tran loc="ar">إصدار تجريبي عام</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> descriptive text at bottom of window </Description>
+      <Position>NETBOOT_DESCRIPTION</Position>
+      <TranslationSet>
+        <base loc="en">You have selected the network disk “%1.”</base>
+        <tran loc="ar">لقد قمت بتحديد قرص الشبكة \"%1‎.\"</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>WWPB</Position>
+      <TranslationSet>
+        <base loc="en">World Beta</base>
+        <tran loc="ar">إصدار تجريبي عالمي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ENCRYPTED_DISK_TOOLTIP</Position>
+      <TranslationSet>
+        <base loc="en">This disk is encrypted. It must be unlocked to determine if it is a valid startup disk.</base>
+        <tran loc="ar">هذا القرص مشفر. يجب فتح تأمينه لتحديد ما إذا كان قرص بدء تشغيل صالح.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>RESCAN</Position>
+      <TranslationSet>
+        <base loc="en">Rescan</base>
+        <tran loc="ar">إعادة المسح</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> You sure you want to go into TDM sheet </Description>
+      <Position>TDM_AND_RESTART?</Position>
+      <TranslationSet>
+        <base loc="en">Are you sure you want to restart your computer in target disk mode?</base>
+        <tran loc="ar">هل أنت متأكد من رغبتك في إعادة تشغيل الكمبيوتر في نمط القرص المستهدف؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UNTITLED_NAME</Position>
+      <TranslationSet>
+        <base loc="en">Untitled</base>
+        <tran loc="ar">بلا عنوان</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> kind strings for the netboot list view </Description>
+      <Position>INSTALL_9_KIND</Position>
+      <TranslationSet>
+        <base loc="en">Install Mac OS 9</base>
+        <tran loc="ar">تثبيت Mac OS 9</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Boot Pickier Support </Description>
+      <Position>EXTERNAL_DISKS_NOT_ALLOWED</Position>
+      <TranslationSet>
+        <base loc="en">Security settings do not allow this Mac to use an external startup disk.</base>
+        <tran loc="ar">لا تسمح إعدادات الأمن لهذا الـ Mac باستخدام قرص بدء تشغيل خارجي.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>TDM_DESCRIPT</Position>
+      <TranslationSet>
+        <base loc="en">Your computer will restart in target disk mode. To use it as a hard disk, connect it to another computer using a Thunderbolt or FireWire cable. To exit target disk mode, press the power button.</base>
+        <tran loc="ar">ستتم إعادة تشغيل الكمبيوتر في نمط القرص المستهدف. لاستخدام هذا الكمبيوتر كقرص ثابت، قم بتوصيله بكمبيوتر آخر باستخدام كبل Thunderbolt أو FireWire. لإنهاء نمط القرص المستهدف، اضغط على زر التشغيل.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ENCRYPTED_DISK_NAME_DESCRIPTION</Position>
+      <TranslationSet>
+        <base loc="en">The disk “%@” is encrypted.\nIt must be unlocked to determine if it is a valid startup disk.</base>
+        <tran loc="ar">القرص \"%@‎\" مشفر.\nيجب فتح تأمينه لتحديد ما إذا كان قرص بدء تشغيل صالح.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description>	Tooltip for release version format substring </Description>
+      <Position>BUILD_VERSION_TOOLTIP</Position>
+      <TranslationSet>
+        <base loc="en">%@ (%@)</base>
+        <tran loc="ar">%@ ‪(%@)‬</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> The tdm button has no ellipsis when the option key is down </Description>
+      <Position>TDM</Position>
+      <TranslationSet>
+        <base loc="en">Target Disk Mode</base>
+        <tran loc="ar">نمط القرص المستهدف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Windows</Position>
+      <TranslationSet>
+        <base loc="en">Windows</base>
+        <tran loc="ar">Windows</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SAVE_ERROR_MSG</Position>
+      <TranslationSet>
+        <base loc="en">Startup Disk could not gather enough information on the selected disk.</base>
+        <tran loc="ar">تعذر على قرص بدء التشغيل جمع معلومات كافية عن القرص المحدد.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> name of Mac OS 9 System Folder if it's not called "System Folder" </Description>
+      <Position>Location:</Position>
+      <TranslationSet>
+        <base loc="en">Location:</base>
+        <tran loc="ar">الموقع:</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UNLOCK...</Position>
+      <TranslationSet>
+        <base loc="en">Unlock…</base>
+        <tran loc="ar">فتح القفل…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>TDM_ERROR_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">You can’t start up with target disk mode.</base>
+        <tran loc="ar">لا يمكن بدء التشغيل في نمط القرص المستهدف.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>INSTALL_X_KIND</Position>
+      <TranslationSet>
+        <base loc="en">Install macOS</base>
+        <tran loc="ar">تثبيت macOS</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>9_KIND</Position>
+      <TranslationSet>
+        <base loc="en">Mac OS 9</base>
+        <tran loc="ar">Mac OS 9</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>TDM_ERROR_MSG</Position>
+      <TranslationSet>
+        <base loc="en">Startup Disk could not set the system property.</base>
+        <tran loc="ar">تعذر على قرص بدء التشغيل تعيين خاصية النظام.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>RESTART_NETINSTALL</Position>
+      <TranslationSet>
+        <base loc="en">Are you sure you want to restart the computer using this install disk?</base>
+        <tran loc="ar">هل أنت متأكد من رغبتك في إعادة تشغيل الكمبيوتر باستخدام قرص التثبيت هذا؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>INSTALL_XSERVER_KIND</Position>
+      <TranslationSet>
+        <base loc="en">Install macOS Server</base>
+        <tran loc="ar">تثبيت macOS Server</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UNLOCK %@...</Position>
+      <TranslationSet>
+        <base loc="en">Unlock “%@”…</base>
+        <tran loc="ar">فتح قفل \"%@‎\"…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> error messages </Description>
+      <Position>SAVE_ERROR_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">You can’t change the startup disk to the selected disk.</base>
+        <tran loc="ar">لا يمكن تغيير قرص بدء التشغيل إلى القرص المحدد.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Version:</Position>
+      <TranslationSet>
+        <base loc="en">Version:</base>
+        <tran loc="ar">الإصدار:</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kSD_TDM_BOOTARGS_FOUND</Position>
+      <TranslationSet>
+        <base loc="en">To shut down your computer from Thunderbolt or FireWire target disk mode, you must hold down the power button longer than normal because boot-args contains debug settings.</base>
+        <tran loc="ar">لإيقاف تشغيل الكمبيوتر من نمط القرص المستهدف Thunderbolt أو FireWire، يجب الضغط مع الاستمرار على زر التشغيل لفترة أطول من المعتاد نظرًا لاشتمال وسيطات الإقلاع على إعدادات تصحيح الأخطاء.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> specific image icon line 2 </Description>
+      <Position>NETWORK_VOLUME</Position>
+      <TranslationSet>
+        <base loc="en">Network Disk</base>
+        <tran loc="ar">قرص الشبكة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>X_KIND</Position>
+      <TranslationSet>
+        <base loc="en">macOS</base>
+        <tran loc="ar">macOS</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> product names </Description>
+      <Position>macOS</Position>
+      <TranslationSet>
+        <base loc="en">macOS</base>
+        <tran loc="ar">macOS</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>StartupDisk/System/Library/PreferencePanes/StartupDisk.prefPane/Contents/Resources/en.lproj/Picker.nib.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>226.title</Position>
+      <TranslationSet>
+        <base loc="en">NetBoot Stuff</base>
+        <tran loc="ar">أدوات NetBoot</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>100221.title</Position>
+      <TranslationSet>
+        <base loc="en">Select a network volume</base>
+        <tran loc="ar">تحديد وحدة تخزين شبكة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>202.title</Position>
+      <TranslationSet>
+        <base loc="en">&lt;&lt; do not localize &gt;&gt;</base>
+        <tran loc="ar">&lt;&lt; do not localize &gt;&gt;</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>300293.title</Position>
+      <TranslationSet>
+        <base loc="en">Select the system you want to use to start up your computer</base>
+        <tran loc="ar">تحديد النظام المراد استخدامه لبدء تشغيل الكمبيوتر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>223.headerCell.title</Position>
+      <TranslationSet>
+        <base loc="en">Kind</base>
+        <tran loc="ar">النوع</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>222.headerCell.title</Position>
+      <TranslationSet>
+        <base loc="en">Volume Name</base>
+        <tran loc="ar">اسم وحدة التخزين</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>250.headerCell.title</Position>
+      <TranslationSet>
+        <base loc="en">Server Address</base>
+        <tran loc="ar">عنوان الخادم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>300275.ibExternalAccessibilityDescription</Position>
+      <TranslationSet>
+        <base loc="en">possible start up disks</base>
+        <tran loc="ar">أقراص بدء التشغيل الممكنة</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>StartupDisk/System/Applications/Utilities/Startup Disk.app/Contents/Resources/en.lproj/MainMenu.nib.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>58.title</Position>
+      <TranslationSet>
+        <base loc="en">About Startup Disk</base>
+        <tran loc="ar">حول قرص بدء التشغيل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>136.title</Position>
+      <TranslationSet>
+        <base loc="en">Quit Startup Disk</base>
+        <tran loc="ar">إنهاء قرص بدء التشغيل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>215.title</Position>
+      <TranslationSet>
+        <base loc="en">Shut Down</base>
+        <tran loc="ar">إيقاف التشغيل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>100227.title</Position>
+      <TranslationSet>
+        <base loc="en">Restart…</base>
+        <tran loc="ar">إعادة التشغيل...</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>56.title</Position>
+      <TranslationSet>
+        <base loc="en">Startup Disk</base>
+        <tran loc="ar">قرص بدء التشغيل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>57.title</Position>
+      <TranslationSet>
+        <base loc="en">Startup Disk</base>
+        <tran loc="ar">قرص بدء التشغيل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>29.title</Position>
+      <TranslationSet>
+        <base loc="en">MainMenu</base>
+        <tran loc="ar">MainMenu</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>21.title</Position>
+      <TranslationSet>
+        <base loc="en">Choose Startup Disk</base>
+        <tran loc="ar">اختيار قرص بدء التشغيل</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>StartupDisk/System/Library/PreferencePanes/StartupDisk.prefPane/Contents/Resources/en.lproj/StartupDisk.searchTerms</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>/StartupSearchGroup:dict/localizableStrings:dict/0:array/index:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">start, boot, up, initial, hard, disc, drive, volume, system, netboot, starting</base>
+        <tran loc="ar">بدء، البدء، إقلاع، الإقلاع، تمهيد، التمهيد، لأعلى، مبدئي، المبدئي، ثابت، الثابت، قرص، القرص، محرك أقراص، محرك الأقراص، وحدة تخزين، وحدة التخزين، نظام، النظام، netboot، بدء، البدء، start، boot، up، initial، hard، disc، drive، volume، system، netboot، starting</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/StartupSearchGroup:dict/localizableStrings:dict/0:array/title:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Startup disk</base>
+        <tran loc="ar">قرص بدء التشغيل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/StartupSearchGroup:dict/localizableStrings:dict/1:array/title:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Target Disk Mode</base>
+        <tran loc="ar">نمط القرص المستهدف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/StartupSearchGroup:dict/localizableStrings:dict/1:array/index:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">disc, FireWire, fire wire</base>
+        <tran loc="ar">قرص، القرص، disc, FireWire, fire wire</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/StartupSearchGroup:dict/localizableStrings:dict/0:array/comments:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Localizable index words</base>
+        <tran loc="ar">كلمات الفهرس القابلة للترجمة، كلمات فهرس قابلة للترجمة، كلمة الفهرس القابلة للترجمة، كلمة فهرس قابلة للترجمة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/StartupSearchGroup:dict/localizableStrings:dict/1:array/comments:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Localizable index words</base>
+        <tran loc="ar">كلمات الفهرس القابلة للترجمة، كلمات فهرس قابلة للترجمة، كلمة الفهرس القابلة للترجمة، كلمة فهرس قابلة للترجمة</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>StartupDisk/System/Applications/Utilities/Startup Disk.app/Contents/Resources/en.lproj/Picker.nib.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>226.title</Position>
+      <TranslationSet>
+        <base loc="en">NetBoot Stuff</base>
+        <tran loc="ar">أدوات NetBoot</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>100221.title</Position>
+      <TranslationSet>
+        <base loc="en">Select a network volume</base>
+        <tran loc="ar">تحديد وحدة تخزين شبكة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>202.title</Position>
+      <TranslationSet>
+        <base loc="en">&lt;&lt; do not localize &gt;&gt;</base>
+        <tran loc="ar">&lt;&lt; do not localize &gt;&gt;</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>300293.title</Position>
+      <TranslationSet>
+        <base loc="en">Select the system you want to use to start up your computer</base>
+        <tran loc="ar">تحديد النظام المراد استخدامه لبدء تشغيل الكمبيوتر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>223.headerCell.title</Position>
+      <TranslationSet>
+        <base loc="en">Kind</base>
+        <tran loc="ar">النوع</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>222.headerCell.title</Position>
+      <TranslationSet>
+        <base loc="en">Volume Name</base>
+        <tran loc="ar">اسم وحدة التخزين</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>250.headerCell.title</Position>
+      <TranslationSet>
+        <base loc="en">Server Address</base>
+        <tran loc="ar">عنوان الخادم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>300275.ibExternalAccessibilityDescription</Position>
+      <TranslationSet>
+        <base loc="en">possible start up disks</base>
+        <tran loc="ar">أقراص بدء التشغيل الممكنة</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>StartupDisk/System/Library/PreferencePanes/StartupDisk.prefPane/Contents/Resources/en.lproj/Localizable.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>ICON_LABEL_LINE2</Position>
+      <TranslationSet>
+        <base loc="en">%2</base>
+        <tran loc="ar">%2</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> descriptive text at bottom of window </Description>
+      <Position>NETBOOT_ANY_DESCRIPTION</Position>
+      <TranslationSet>
+        <base loc="en">You have selected to search for a network disk at startup.</base>
+        <tran loc="ar">لقد قمت بتحديد البحث عن قرص شبكة عند بدء التشغيل.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description>	Netboot server tooltip format string </Description>
+      <Position>NETBOOT_SERVER_TOOLTIP</Position>
+      <TranslationSet>
+        <base loc="en">%@ %@\n%@ %@\n%@ %@</base>
+        <tran loc="ar">‏%@ %@\n%@ %@‏\n%@ %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description>	Tooltip for OS 9 disk format string </Description>
+      <Position>OS_9_TOOLTIP</Position>
+      <TranslationSet>
+        <base loc="en">%@ %@\n%@ %@\n%@ %@</base>
+        <tran loc="ar">‏%@ %@\n%@ %@‏\n%@ %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>RESTART?</Position>
+      <TranslationSet>
+        <base loc="en">Are you sure you want to restart the computer?</base>
+        <tran loc="ar">هل أنت متأكد من رغبتك في إعادة تشغيل الكمبيوتر؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> More Choices tooltip </Description>
+      <Position>NETBOOT_LIST_TOOLTIP</Position>
+      <TranslationSet>
+        <base loc="en">Select a network disk below</base>
+        <tran loc="ar">قم بتحديد شبكة أدناه</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Foreign OS</Position>
+      <TranslationSet>
+        <base loc="en">Foreign OS</base>
+        <tran loc="ar">نظام تشغيل خارجي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Encrypted disk support </Description>
+      <Position>ENCRYPTED_DISK</Position>
+      <TranslationSet>
+        <base loc="en">Encrypted Disk</base>
+        <tran loc="ar">قرص مشفر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Labels inside the tool-tips </Description>
+      <Position>Volume:</Position>
+      <TranslationSet>
+        <base loc="en">Volume:</base>
+        <tran loc="ar">وحدة التخزين:</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> save sheet </Description>
+      <Position>SAVE_NETBOOT_ANY_DESCRIPT</Position>
+      <TranslationSet>
+        <base loc="en">Your computer will search for a network disk at startup.</base>
+        <tran loc="ar">سيقوم الكمبيوتر بالبحث عن قرص الشبكة عند بدء التشغيل.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Description text. %1 is the system version, %2 is the volume name, %3 is the System Folder name if it's not "System Folder" </Description>
+      <Position>DESCRIPTION_WITH_SFNAME</Position>
+      <TranslationSet>
+        <base loc="en">You have selected %1 (%3)\non the disk “%2.”</base>
+        <tran loc="ar">تم تحديد %1 (%3)\nعلى القرص \"%2‎.\"</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>OK</Position>
+      <TranslationSet>
+        <base loc="en">OK</base>
+        <tran loc="ar">موافق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>RESTART...</Position>
+      <TranslationSet>
+        <base loc="en">Restart…</base>
+        <tran loc="ar">إعادة التشغيل...</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> save sheet </Description>
+      <Position>SAVE_NETBOOT_DESCRIPT</Position>
+      <TranslationSet>
+        <base loc="en">Your computer will start up using the network disk named “%1.”</base>
+        <tran loc="ar">سيتم بدء تشغيل الكمبيوتر باستخدام قرص الشبكة \"%1‎.\"</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>System:</Position>
+      <TranslationSet>
+        <base loc="en">System:</base>
+        <tran loc="ar">النظام:</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SAVE_DESCRIPT</Position>
+      <TranslationSet>
+        <base loc="en">Your computer will start up using %1 on “%2.”</base>
+        <tran loc="ar">‫سيتم بدء تشغيل الكمبيوتر باستخدام ‫%1‬ على \"%2‎.\"‬</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ENTER_TDM</Position>
+      <TranslationSet>
+        <base loc="en">Restart</base>
+        <tran loc="ar">إعادة التشغيل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> The restart button has no ellipsis when the option key is down </Description>
+      <Position>RESTART</Position>
+      <TranslationSet>
+        <base loc="en">Restart</base>
+        <tran loc="ar">إعادة التشغيل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DESCRIPTION</Position>
+      <TranslationSet>
+        <base loc="en">You have selected %1\non the disk “%2.”</base>
+        <tran loc="ar">تم تحديد %1\nعلى القرص \"%2‎\".</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>EXTERNAL_DISKS_NOT_ALLOWED_INFO</Position>
+      <TranslationSet>
+        <base loc="en">You can change this by restarting and holding down Command-R to open macOS Recovery, then choosing Startup Security Utility.</base>
+        <tran loc="ar">يمكنك تغيير ذلك عن طريق إعادة التشغيل والضغط المطول على الأوامر-R لفتح استرداد macOS، ثم اختيار أداة أمن بدء التشغيل.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CANCEL</Position>
+      <TranslationSet>
+        <base loc="en">Cancel</base>
+        <tran loc="ar">إلغاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SHUTDOWN</Position>
+      <TranslationSet>
+        <base loc="en">Shutdown</base>
+        <tran loc="ar">إيقاف التشغيل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> NetBoot Stuff 
+ Search at startup, no NB2 server found </Description>
+      <Position>NETWORK_STARTUP</Position>
+      <TranslationSet>
+        <base loc="en">Network Startup</base>
+        <tran loc="ar">شبكة بدء التشغيل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Additional information about the disk </Description>
+      <Position>Note:</Position>
+      <TranslationSet>
+        <base loc="en">Note:</base>
+        <tran loc="ar">ملاحظة:</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Cell formatting strings 
+	Product name, typically Mac OS, vers, displayed on the second line </Description>
+      <Position>PRODUCT_NAME_FORMAT</Position>
+      <TranslationSet>
+        <base loc="en">%@, %@</base>
+        <tran loc="ar">%@, %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description>	Tooltip for OS 10 disk format string </Description>
+      <Position>OS_10_TOOLTIP</Position>
+      <TranslationSet>
+        <base loc="en">%@ %@\n%@ %@</base>
+        <tran loc="ar">‏%@ %@‎\n%@ %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>TDM...</Position>
+      <TranslationSet>
+        <base loc="en">Target Disk Mode…</base>
+        <tran loc="ar">نمط القرص المستهدف...</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> no server found tooltip </Description>
+      <Position>NETBOOT_ANY_TOOLTIP</Position>
+      <TranslationSet>
+        <base loc="en">Search for a network disk at startup</base>
+        <tran loc="ar">البحث عن قرص الشبكة عند بدء التشغيل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> More Choices icon </Description>
+      <Position>NETWORK_STARTUP_LIST</Position>
+      <TranslationSet>
+        <base loc="en">Network Startup…</base>
+        <tran loc="ar">شبكة بدء التشغيل...</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICON_LABEL_LINE1</Position>
+      <TranslationSet>
+        <base loc="en">%1</base>
+        <tran loc="ar">%1</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>XSERVER_KIND</Position>
+      <TranslationSet>
+        <base loc="en">macOS Server</base>
+        <tran loc="ar">macOS Server</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>macOS Server</Position>
+      <TranslationSet>
+        <base loc="en">macOS Server</base>
+        <tran loc="ar">macOS Server</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>RESTARTING</Position>
+      <TranslationSet>
+        <base loc="en">Restarting</base>
+        <tran loc="ar">إعادة التشغيل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ENCRYPTED_DISK_ANY_DESCRIPTION</Position>
+      <TranslationSet>
+        <base loc="en">This disk is encrypted.\nIt must be unlocked to determine if it is a valid startup disk.</base>
+        <tran loc="ar">هذا القرص مشفر.\nيجب فتح تأمينه لتحديد ما إذا كان قرص بدء تشغيل صالح.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Internet Host containing NetBoot image </Description>
+      <Position>Server:</Position>
+      <TranslationSet>
+        <base loc="en">Server:</base>
+        <tran loc="ar">الخادم:</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> save sheet </Description>
+      <Position>SAVE_NETINSTALL_DESCRIPT</Position>
+      <TranslationSet>
+        <base loc="en">Your computer will start up using the network disk named “%1.” If this disk installs software automatically, your hard disk could be erased.</base>
+        <tran loc="ar">سيتم بدء تشغيل الكمبيوتر باستخدام قرص الشبكة \"%1‎.\" إذا قام هذا القرص بتثبيت البرنامج تلقائيًا، قد يتم مسح القرص الثابت.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Product names for Beta systems that didn't have SystemVersion.plist </Description>
+      <Position>PB</Position>
+      <TranslationSet>
+        <base loc="en">Public Beta</base>
+        <tran loc="ar">إصدار تجريبي عام</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> descriptive text at bottom of window </Description>
+      <Position>NETBOOT_DESCRIPTION</Position>
+      <TranslationSet>
+        <base loc="en">You have selected the network disk “%1.”</base>
+        <tran loc="ar">لقد قمت بتحديد قرص الشبكة \"%1‎.\"</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>WWPB</Position>
+      <TranslationSet>
+        <base loc="en">World Beta</base>
+        <tran loc="ar">إصدار تجريبي عالمي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ENCRYPTED_DISK_TOOLTIP</Position>
+      <TranslationSet>
+        <base loc="en">This disk is encrypted. It must be unlocked to determine if it is a valid startup disk.</base>
+        <tran loc="ar">هذا القرص مشفر. يجب فتح تأمينه لتحديد ما إذا كان قرص بدء تشغيل صالح.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>RESCAN</Position>
+      <TranslationSet>
+        <base loc="en">Rescan</base>
+        <tran loc="ar">إعادة المسح</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> You sure you want to go into TDM sheet </Description>
+      <Position>TDM_AND_RESTART?</Position>
+      <TranslationSet>
+        <base loc="en">Are you sure you want to restart your computer in target disk mode?</base>
+        <tran loc="ar">هل أنت متأكد من رغبتك في إعادة تشغيل الكمبيوتر في نمط القرص المستهدف؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UNTITLED_NAME</Position>
+      <TranslationSet>
+        <base loc="en">Untitled</base>
+        <tran loc="ar">بلا عنوان</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> kind strings for the netboot list view </Description>
+      <Position>INSTALL_9_KIND</Position>
+      <TranslationSet>
+        <base loc="en">Install Mac OS 9</base>
+        <tran loc="ar">تثبيت Mac OS 9</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Boot Pickier Support </Description>
+      <Position>EXTERNAL_DISKS_NOT_ALLOWED</Position>
+      <TranslationSet>
+        <base loc="en">Security settings do not allow this Mac to use an external startup disk.</base>
+        <tran loc="ar">لا تسمح إعدادات الأمن لهذا الـ Mac باستخدام قرص بدء تشغيل خارجي.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>TDM_DESCRIPT</Position>
+      <TranslationSet>
+        <base loc="en">Your computer will restart in target disk mode. To use it as a hard disk, connect it to another computer using a Thunderbolt or FireWire cable. To exit target disk mode, press the power button.</base>
+        <tran loc="ar">ستتم إعادة تشغيل الكمبيوتر في نمط القرص المستهدف. لاستخدام هذا الكمبيوتر كقرص ثابت، قم بتوصيله بكمبيوتر آخر باستخدام كبل Thunderbolt أو FireWire. لإنهاء نمط القرص المستهدف، اضغط على زر التشغيل.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ENCRYPTED_DISK_NAME_DESCRIPTION</Position>
+      <TranslationSet>
+        <base loc="en">The disk “%@” is encrypted.\nIt must be unlocked to determine if it is a valid startup disk.</base>
+        <tran loc="ar">القرص \"%@‎\" مشفر.\nيجب فتح تأمينه لتحديد ما إذا كان قرص بدء تشغيل صالح.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description>	Tooltip for release version format substring </Description>
+      <Position>BUILD_VERSION_TOOLTIP</Position>
+      <TranslationSet>
+        <base loc="en">%@ (%@)</base>
+        <tran loc="ar">%@ ‪(%@)‬</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> The tdm button has no ellipsis when the option key is down </Description>
+      <Position>TDM</Position>
+      <TranslationSet>
+        <base loc="en">Target Disk Mode</base>
+        <tran loc="ar">نمط القرص المستهدف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Windows</Position>
+      <TranslationSet>
+        <base loc="en">Windows</base>
+        <tran loc="ar">Windows</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SAVE_ERROR_MSG</Position>
+      <TranslationSet>
+        <base loc="en">Startup Disk could not gather enough information on the selected disk.</base>
+        <tran loc="ar">تعذر على قرص بدء التشغيل جمع معلومات كافية عن القرص المحدد.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> name of Mac OS 9 System Folder if it's not called "System Folder" </Description>
+      <Position>Location:</Position>
+      <TranslationSet>
+        <base loc="en">Location:</base>
+        <tran loc="ar">الموقع:</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UNLOCK...</Position>
+      <TranslationSet>
+        <base loc="en">Unlock…</base>
+        <tran loc="ar">فتح القفل…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>TDM_ERROR_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">You can’t start up with target disk mode.</base>
+        <tran loc="ar">لا يمكن بدء التشغيل في نمط القرص المستهدف.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>INSTALL_X_KIND</Position>
+      <TranslationSet>
+        <base loc="en">Install macOS</base>
+        <tran loc="ar">تثبيت macOS</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>9_KIND</Position>
+      <TranslationSet>
+        <base loc="en">Mac OS 9</base>
+        <tran loc="ar">Mac OS 9</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>TDM_ERROR_MSG</Position>
+      <TranslationSet>
+        <base loc="en">Startup Disk could not set the system property.</base>
+        <tran loc="ar">تعذر على قرص بدء التشغيل تعيين خاصية النظام.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>RESTART_NETINSTALL</Position>
+      <TranslationSet>
+        <base loc="en">Are you sure you want to restart the computer using this install disk?</base>
+        <tran loc="ar">هل أنت متأكد من رغبتك في إعادة تشغيل الكمبيوتر باستخدام قرص التثبيت هذا؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>INSTALL_XSERVER_KIND</Position>
+      <TranslationSet>
+        <base loc="en">Install macOS Server</base>
+        <tran loc="ar">تثبيت macOS Server</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UNLOCK %@...</Position>
+      <TranslationSet>
+        <base loc="en">Unlock “%@”…</base>
+        <tran loc="ar">فتح قفل \"%@‎\"…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> error messages </Description>
+      <Position>SAVE_ERROR_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">You can’t change the startup disk to the selected disk.</base>
+        <tran loc="ar">لا يمكن تغيير قرص بدء التشغيل إلى القرص المحدد.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Version:</Position>
+      <TranslationSet>
+        <base loc="en">Version:</base>
+        <tran loc="ar">الإصدار:</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kSD_TDM_BOOTARGS_FOUND</Position>
+      <TranslationSet>
+        <base loc="en">To shut down your computer from Thunderbolt or FireWire target disk mode, you must hold down the power button longer than normal because boot-args contains debug settings.</base>
+        <tran loc="ar">لإيقاف تشغيل الكمبيوتر من نمط القرص المستهدف Thunderbolt أو FireWire، يجب الضغط مع الاستمرار على زر التشغيل لفترة أطول من المعتاد نظرًا لاشتمال وسيطات الإقلاع على إعدادات تصحيح الأخطاء.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> specific image icon line 2 </Description>
+      <Position>NETWORK_VOLUME</Position>
+      <TranslationSet>
+        <base loc="en">Network Disk</base>
+        <tran loc="ar">قرص الشبكة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>X_KIND</Position>
+      <TranslationSet>
+        <base loc="en">macOS</base>
+        <tran loc="ar">macOS</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> product names </Description>
+      <Position>macOS</Position>
+      <TranslationSet>
+        <base loc="en">macOS</base>
+        <tran loc="ar">macOS</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>StartupDisk/System/Library/PreferencePanes/StartupDisk.prefPane/Contents/Resources/en.lproj/InfoPlist.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>NSPrefPaneIconLabel</Position>
+      <TranslationSet>
+        <base loc="en">Startup\nDisk</base>
+        <tran loc="ar">قرص\nبدء التشغيل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Localized versions of Info.plist keys </Description>
+      <Position>CFBundleName</Position>
+      <TranslationSet>
+        <base loc="en">Startup Disk</base>
+        <tran loc="ar">قرص بدء التشغيل</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>StartupDisk/System/Library/PreferencePanes/StartupDisk.prefPane/Contents/XPCServices/com.apple.preference.startupdisk.remoteservice.xpc/Contents/Resources/en.lproj/InfoPlist.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>CFBundleVisibleComponentName</Position>
+      <TranslationSet>
+        <base loc="en">System Preferences</base>
+        <tran loc="ar">تفضيلات النظام</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Localized versions of Info.plist keys </Description>
+      <Position>CFBundleName</Position>
+      <TranslationSet>
+        <base loc="en">Startup Disk</base>
+        <tran loc="ar">قرص بدء التشغيل</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>StartupDisk/System/Library/PreferencePanes/StartupDisk.prefPane/Contents/Resources/en.lproj/StartupDiskPref.nib.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>495.title</Position>
+      <TranslationSet>
+        <base loc="en">Title</base>
+        <tran loc="ar">العنوان</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>100433.title</Position>
+      <TranslationSet>
+        <base loc="en">Restart…</base>
+        <tran loc="ar">إعادة التشغيل...</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>100500.title</Position>
+      <TranslationSet>
+        <base loc="en">After you restart this computer in target disk mode, you can connect it to another computer using a Thunderbolt or FireWire cable and use it as a hard disk.</base>
+        <tran loc="ar">بعد إعادة تشغيل هذا الكمبيوتر في نمط القرص المستهدف، يمكن توصيله بكمبيوتر آخر باستخدام كبل Thunderbolt أو FireWire واستخدامه كقرص ثابت.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>100497.title</Position>
+      <TranslationSet>
+        <base loc="en">Target Disk Mode…</base>
+        <tran loc="ar">نمط القرص المستهدف...</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>381.title</Position>
+      <TranslationSet>
+        <base loc="en">&lt;&lt; do not localize &gt;&gt;</base>
+        <tran loc="ar">&lt;&lt; do not localize &gt;&gt;</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>100501.title</Position>
+      <TranslationSet>
+        <base loc="en">Click to restart this computer in target disk mode</base>
+        <tran loc="ar">انقر لإعادة تشغيل هذا الكمبيوتر في نمط القرص المستهدف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>493.title</Position>
+      <TranslationSet>
+        <base loc="en">TDM Panel</base>
+        <tran loc="ar">لوحة نمط القرص المستهدف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>498.title</Position>
+      <TranslationSet>
+        <base loc="en">Box</base>
+        <tran loc="ar">صندوق</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>StartupDisk/System/Applications/Utilities/Startup Disk.app/Contents/Resources/en.lproj/InfoPlist.strings</Filepath>
+    <TextItem>
+      <Description> Localized versions of Info.plist keys </Description>
+      <Position>CFBundleName</Position>
+      <TranslationSet>
+        <base loc="en">Startup Disk</base>
+        <tran loc="ar">قرص بدء التشغيل</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+</Proj>

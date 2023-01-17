@@ -1,0 +1,3148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Proj>
+  <ProjName>DiskImages</ProjName>
+  <File>
+    <Filepath>DiskImages/System/Library/PrivateFrameworks/DiskImages.framework/Versions/A/Resources/en.lproj/MKLayouts.strings</Filepath>
+    <TextItem>
+      <Description> CD/DVD </Description>
+      <Position>CD/DVD</Position>
+      <TranslationSet>
+        <base loc="en">CD/DVD</base>
+        <tran loc="ar">CD/DVD</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Single partition - Apple partition map </Description>
+      <Position>Single partition - Apple Partition Map</Position>
+      <TranslationSet>
+        <base loc="en">Single partition - Apple Partition Map</base>
+        <tran loc="ar">قسم واحد - Apple Partition Map</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> hard disk </Description>
+      <Position>Hard disk</Position>
+      <TranslationSet>
+        <base loc="en">Hard disk</base>
+        <tran loc="ar">قرص ثابت</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Single partition - GUID partition map </Description>
+      <Position>Single partition - GUID Partition Map</Position>
+      <TranslationSet>
+        <base loc="en">Single partition - GUID Partition Map</base>
+        <tran loc="ar">قسم واحد - مخطط تقسيم GUID</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Single partition - CD/DVD with ISO data </Description>
+      <Position>Single partition - CD/DVD with ISO data</Position>
+      <TranslationSet>
+        <base loc="en">Single partition - CD/DVD with ISO data</base>
+        <tran loc="ar">قسم واحد - قرص CD / قرص DVD يحتوي على بيانات ISO</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Single partition - MBR partition map </Description>
+      <Position>Single partition - Master Boot Record Partition Map</Position>
+      <TranslationSet>
+        <base loc="en">Single partition - Master Boot Record Partition Map</base>
+        <tran loc="ar">قسم واحد - مخطط تقسيم سجل الإقلاع الرئيسي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Single partition - CD/DVD </Description>
+      <Position>Single partition - CD/DVD</Position>
+      <TranslationSet>
+        <base loc="en">Single partition - CD/DVD</base>
+        <tran loc="ar">قسم واحد - قرص CD / قرص DVD</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> no partition partition </Description>
+      <Position>No partition map</Position>
+      <TranslationSet>
+        <base loc="en">No partition map</base>
+        <tran loc="ar">لا يوجد مخطط تقسيم</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>DiskImages/System/Library/PrivateFrameworks/DiskImages.framework/Versions/A/Resources/en.lproj/CSegmentedNDIFEncoding.strings</Filepath>
+    <TextItem>
+      <Description> name of plugin/module </Description>
+      <Position>segmented NDIF encoding</Position>
+      <TranslationSet>
+        <base loc="en">segmented NDIF encoding</base>
+        <tran loc="ar">ترميز NDIF المقسم إلى مقاطع</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>DiskImages/System/Library/PrivateFrameworks/DiskImages.framework/Versions/A/Resources/en.lproj/CRawDiskImage.strings</Filepath>
+    <TextItem>
+      <Description> convert report: savings percentage </Description>
+      <Position>Savings: %1$.1f%%</Position>
+      <TranslationSet>
+        <base loc="en">Savings: %1$.1f%%</base>
+        <tran loc="ar">نسبة التوفير: %1$.1f%%</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> name of plugin/module </Description>
+      <Position>raw disk image</Position>
+      <TranslationSet>
+        <base loc="en">raw disk image</base>
+        <tran loc="ar">صورة قرص أولي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> raw SHA-256 checksum </Description>
+      <Position>SHA-256</Position>
+      <TranslationSet>
+        <base loc="en">SHA-256</base>
+        <tran loc="ar">SHA256-</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> convert report: speed (bytes/sec), units (none, K, M, G) </Description>
+      <Position>Speed: %1$.1f%2$cbytes/sec</Position>
+      <TranslationSet>
+        <base loc="en">Speed: %1$.1f%2$cbytes/sec</base>
+        <tran loc="ar">السرعة: %1$.1f%2$c بايت/ثانية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> convert report: elapsed time </Description>
+      <Position>Elapsed Time: %1$@</Position>
+      <TranslationSet>
+        <base loc="en">Elapsed Time: %1$@</base>
+        <tran loc="ar">الوقت المنقضي: %1$@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> raw SHA checksum </Description>
+      <Position>SHA</Position>
+      <TranslationSet>
+        <base loc="en">SHA</base>
+        <tran loc="ar">SHA</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> raw disk image format </Description>
+      <Position>read/write</Position>
+      <TranslationSet>
+        <base loc="en">read/write</base>
+        <tran loc="ar">قراءة/كتابة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> raw SHA-384 checksum </Description>
+      <Position>SHA-384</Position>
+      <TranslationSet>
+        <base loc="en">SHA-384</base>
+        <tran loc="ar">SHA384-</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Disk Copy 4.2 Checksum </Description>
+      <Position>Disk Copy 4.2</Position>
+      <TranslationSet>
+        <base loc="en">Disk Copy 4.2</base>
+        <tran loc="ar">Disk Copy 4.2</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> raw CRC32 (NDIF) Checksum </Description>
+      <Position>CRC-32 (NDIF)</Position>
+      <TranslationSet>
+        <base loc="en">CRC-32 (NDIF)</base>
+        <tran loc="ar">(CRC-32 (NDIF</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> type of disk image we create </Description>
+      <Position>DVD/CD master</Position>
+      <TranslationSet>
+        <base loc="en">DVD/CD master</base>
+        <tran loc="ar">صورة رئيسية لقرص CD/قرص DVD</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> type of disk image we create </Description>
+      <Position>read/write disk image</Position>
+      <TranslationSet>
+        <base loc="en">read/write disk image</base>
+        <tran loc="ar">صورة قرص للقراءة/الكتابة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> raw MD5 checksum </Description>
+      <Position>MD5</Position>
+      <TranslationSet>
+        <base loc="en">MD5</base>
+        <tran loc="ar">MD5</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> default name for hybrid disk image </Description>
+      <Position>Disk Image</Position>
+      <TranslationSet>
+        <base loc="en">Disk Image</base>
+        <tran loc="ar">صورة قرص</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> raw SHA-512 checksum </Description>
+      <Position>SHA-512</Position>
+      <TranslationSet>
+        <base loc="en">SHA-512</base>
+        <tran loc="ar">SHA-512</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Raw read/write disk image format description </Description>
+      <Position>raw read/write</Position>
+      <TranslationSet>
+        <base loc="en">raw read/write</base>
+        <tran loc="ar">قرص أولي للقراءة/الكتابة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> raw CRC-32 checksum </Description>
+      <Position>CRC-32</Position>
+      <TranslationSet>
+        <base loc="en">CRC-32</base>
+        <tran loc="ar">CRC-32</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> raw SHA-1 checksum </Description>
+      <Position>SHA-1</Position>
+      <TranslationSet>
+        <base loc="en">SHA-1</base>
+        <tran loc="ar">SHA1-</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>DiskImages/System/Library/PrivateFrameworks/DiskImages.framework/Versions/A/Resources/en.lproj/CWrappedDiskImage.strings</Filepath>
+    <TextItem>
+      <Description> Wrapped read/write disk image format description </Description>
+      <Position>wrapped</Position>
+      <TranslationSet>
+        <base loc="en">wrapped</base>
+        <tran loc="ar">ملتف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> CWrappedDiskImage disk image format description &lt;MASTER IMAGE FORMAT DESCRIPTION&gt; (part)  </Description>
+      <Position>%1$@ (wrapped)</Position>
+      <TranslationSet>
+        <base loc="en">%1$@ (wrapped)</base>
+        <tran loc="ar">%1$@ (التفاف)</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> name of plugin/module </Description>
+      <Position>wrapped disk image</Position>
+      <TranslationSet>
+        <base loc="en">wrapped disk image</base>
+        <tran loc="ar">صورة قرص ملتفة</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>DiskImages/System/Library/PrivateFrameworks/DiskImages.framework/Versions/A/Resources/en.lproj/CDevBackingStore.strings</Filepath>
+    <TextItem>
+      <Description> name of plugin/module </Description>
+      <Position>/dev backing store</Position>
+      <TranslationSet>
+        <base loc="en">/dev backing store</base>
+        <tran loc="ar">مخزن /dev المساعد</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>DiskImages/System/Library/PrivateFrameworks/DiskImages.framework/Versions/A/Resources/en.lproj/CSparseDiskImage.strings</Filepath>
+    <TextItem>
+      <Description> convert report: savings percentage </Description>
+      <Position>Savings: %1$.1f%%</Position>
+      <TranslationSet>
+        <base loc="en">Savings: %1$.1f%%</base>
+        <tran loc="ar">نسبة التوفير: %1$.1f%%</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> convert report: speed (bytes/sec), units (none, K, M, G) </Description>
+      <Position>Speed: %1$.1f%2$cbytes/sec</Position>
+      <TranslationSet>
+        <base loc="en">Speed: %1$.1f%2$cbytes/sec</base>
+        <tran loc="ar">السرعة: %1$.1f%2$c بايت/ثانية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> convert report: elapsed time </Description>
+      <Position>Elapsed Time: %1$@</Position>
+      <TranslationSet>
+        <base loc="en">Elapsed Time: %1$@</base>
+        <tran loc="ar">الوقت المنقضي: %1$@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> CSparseDiskImage disk image format description
+   name of disk image we create
+   name of plugin/module </Description>
+      <Position>sparse disk image</Position>
+      <TranslationSet>
+        <base loc="en">sparse disk image</base>
+        <tran loc="ar">صورة قرص متفرقة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> sparse disk image format description
+   sparse format </Description>
+      <Position>sparse</Position>
+      <TranslationSet>
+        <base loc="en">sparse</base>
+        <tran loc="ar">متفرق</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>DiskImages/System/Library/PrivateFrameworks/DiskImages.framework/Versions/A/Resources/en.lproj/BurnError.strings</Filepath>
+    <TextItem>
+      <Description> partial DiscRecording.framework error string </Description>
+      <Position>burn engine error</Position>
+      <TranslationSet>
+        <base loc="en">burn engine error</base>
+        <tran loc="ar">خطأ في مشغّل إنشاء الأقراص</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> partial DiscRecording.framework error string </Description>
+      <Position>user abort</Position>
+      <TranslationSet>
+        <base loc="en">user abort</base>
+        <tran loc="ar">إيقاف قبل الاكتمال بواسطة المستخدم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> partial DiscRecording.framework error string </Description>
+      <Position>graft file error</Position>
+      <TranslationSet>
+        <base loc="en">graft file error</base>
+        <tran loc="ar">خطأ في ملف الربط</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> partial DiscRecording.framework error string </Description>
+      <Position>target device error</Position>
+      <TranslationSet>
+        <base loc="en">target device error</base>
+        <tran loc="ar">خطأ في جهاز الهدف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> partial DiscRecording.framework error string </Description>
+      <Position>Could not read source CD</Position>
+      <TranslationSet>
+        <base loc="en">Could not read source CD</base>
+        <tran loc="ar">تعذرت قراءة قرص CD الأصل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> partial DiscRecording.framework error string </Description>
+      <Position>source device error</Position>
+      <TranslationSet>
+        <base loc="en">source device error</base>
+        <tran loc="ar">خطأ في جهاز الأصل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> partial DiscRecording.framework error string </Description>
+      <Position>Ran out of scratch disk space</Position>
+      <TranslationSet>
+        <base loc="en">Ran out of scratch disk space</base>
+        <tran loc="ar">نفدت مساحة التخزين المؤقت على القرص</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> partial DiscRecording.framework error string </Description>
+      <Position>Bad media</Position>
+      <TranslationSet>
+        <base loc="en">Bad media</base>
+        <tran loc="ar">وسائط غير صحيحة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> partial DiscRecording.framework error string </Description>
+      <Position>non-error</Position>
+      <TranslationSet>
+        <base loc="en">non-error</base>
+        <tran loc="ar">لا يوجد خطأ</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> partial DiscRecording.framework error string </Description>
+      <Position>Buffer underrun</Position>
+      <TranslationSet>
+        <base loc="en">Buffer underrun</base>
+        <tran loc="ar">نقصان سعة ذاكرة التخزين المؤقت</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> partial DiscRecording.framework error string </Description>
+      <Position>Something unexpected happened</Position>
+      <TranslationSet>
+        <base loc="en">Something unexpected happened</base>
+        <tran loc="ar">ظهر حدث غير متوقع</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> partial DiscRecording.framework error string </Description>
+      <Position>system error</Position>
+      <TranslationSet>
+        <base loc="en">system error</base>
+        <tran loc="ar">خطأ في النظام</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> partial DiscRecording.framework error string </Description>
+      <Position>System went to sleep</Position>
+      <TranslationSet>
+        <base loc="en">System went to sleep</base>
+        <tran loc="ar">دخل النظام في وضع الإسبات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> partial DiscRecording.framework error string </Description>
+      <Position>thread library error</Position>
+      <TranslationSet>
+        <base loc="en">thread library error</base>
+        <tran loc="ar">خطأ في مكتبة سلاسل العمليات</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>DiskImages/System/Library/PrivateFrameworks/DiskImages.framework/Versions/A/Resources/en.lproj/CNDIFDiskImage.strings</Filepath>
+    <TextItem>
+      <Description> convert report: savings percentage </Description>
+      <Position>Savings: %1$.1f%%</Position>
+      <TranslationSet>
+        <base loc="en">Savings: %1$.1f%%</base>
+        <tran loc="ar">نسبة التوفير: %1$.1f%%</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> convert report: file size, no checksum </Description>
+      <Position>File size: %1$qd bytes</Position>
+      <TranslationSet>
+        <base loc="en">File size: %1$qd bytes</base>
+        <tran loc="ar">حجم الملف: %1$qd بايت</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> NDIF read/write disk image format description
+   read/write format </Description>
+      <Position>NDIF read/write</Position>
+      <TranslationSet>
+        <base loc="en">NDIF read/write</base>
+        <tran loc="ar">NDIF للقراءة/الكتابة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> convert report: sectors skipped </Description>
+      <Position>, %1$ld skipped</Position>
+      <TranslationSet>
+        <base loc="en">, %1$ld skipped</base>
+        <tran loc="ar">، تم تخطي %1$ld</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> error message when trying to convert an image with partition map to NDIF format </Description>
+      <Position>NDIF disk images cannot have partition maps.</Position>
+      <TranslationSet>
+        <base loc="en">NDIF disk images cannot have partition maps.</base>
+        <tran loc="ar">لا يمكن أن تتضمن صور قرص NDIF مخططات تقسيم.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> progress message when preparing imaging engine </Description>
+      <Position>Preparing imaging engine\\U2026</Position>
+      <TranslationSet>
+        <base loc="en">Preparing imaging engine…</base>
+        <tran loc="ar">يتم الآن إعداد محرك الصور…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> convert report: speed (bytes/sec), units (none, K, M, G) </Description>
+      <Position>Speed: %1$.1f%2$cbytes/sec</Position>
+      <TranslationSet>
+        <base loc="en">Speed: %1$.1f%2$cbytes/sec</base>
+        <tran loc="ar">السرعة: %1$.1f%2$c بايت/ثانية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> NDIF read-only disk image format
+   read-only format </Description>
+      <Position>NDIF read-only</Position>
+      <TranslationSet>
+        <base loc="en">NDIF read-only</base>
+        <tran loc="ar">NDIF للقراءة فقط</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> convert report: sectors processed </Description>
+      <Position>Sectors processed: %1$ld</Position>
+      <TranslationSet>
+        <base loc="en">Sectors processed: %1$ld</base>
+        <tran loc="ar">الأقسام التي تمت معالجتها: %1$ld</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> error message when trying to convert incorrectly too big an image to NDIF format </Description>
+      <Position>NDIF disk images must be 2GB or smaller.</Position>
+      <TranslationSet>
+        <base loc="en">NDIF disk images must be 2GB or smaller.</base>
+        <tran loc="ar">يجب أن يكون حجم صور قرص NDIF هو ٢ غ.ب. أو أصغر.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> convert report: sectors compressed </Description>
+      <Position>, %1$ld compressed</Position>
+      <TranslationSet>
+        <base loc="en">, %1$ld compressed</base>
+        <tran loc="ar">، تم ضغط %1$ld</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> convert report: elapsed time </Description>
+      <Position>Elapsed Time: %1$s</Position>
+      <TranslationSet>
+        <base loc="en">Elapsed Time: %1$s</base>
+        <tran loc="ar">الوقت المنقضي: %1$s</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> progress message when adding resources to segments </Description>
+      <Position>Adding resources\\U2026</Position>
+      <TranslationSet>
+        <base loc="en">Adding resources…</base>
+        <tran loc="ar">يتم الآن إضافة الموارد...</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> NDIF default image format description </Description>
+      <Position>NDIF</Position>
+      <TranslationSet>
+        <base loc="en">NDIF</base>
+        <tran loc="ar">NDIF</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> convert report: single task, + weight </Description>
+      <Position> (%1$ld task, weight %2$ld)</Position>
+      <TranslationSet>
+        <base loc="en"> (%1$ld task, weight %2$ld)</base>
+        <tran loc="ar"> (%1$ld مهمة، الحجم %2$ld)</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> error message when trying to convert incorrectly sized image to Disk Copy 4.2 format </Description>
+      <Position>Disk Copy 4.2 images can be only 400K, 720K, 800K, or 1440K.</Position>
+      <TranslationSet>
+        <base loc="en">Disk Copy 4.2 images can be only 400K, 720K, 800K, or 1440K.</base>
+        <tran loc="ar">يجب أن يكون حجم صور Disk Copy 4.2 هو 400 أو 720 أو 800 أو 1440 كيلوبايت فقط.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> progress message when terminating imaging engine </Description>
+      <Position>Terminating imaging engine\\U2026</Position>
+      <TranslationSet>
+        <base loc="en">Terminating imaging engine…</base>
+        <tran loc="ar">يتم الآن إنهاء مشغّل التصوير...</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> convert report: sectors copied </Description>
+      <Position>, %1$ld copied</Position>
+      <TranslationSet>
+        <base loc="en">, %1$ld copied</base>
+        <tran loc="ar">، تم نسخ %1$ld</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> compressed format, old compressor </Description>
+      <Position>NDIF compressed (KenCode)</Position>
+      <TranslationSet>
+        <base loc="en">NDIF compressed (KenCode)</base>
+        <tran loc="ar">NDIF مضغوط (KenCode)</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> compressed format </Description>
+      <Position>NDIF compressed</Position>
+      <TranslationSet>
+        <base loc="en">NDIF compressed</base>
+        <tran loc="ar">NDIF مضغوط</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> NDIF self mounting image format description </Description>
+      <Position>NDIF self mounting image</Position>
+      <TranslationSet>
+        <base loc="en">NDIF self mounting image</base>
+        <tran loc="ar">صورة التحميل الذاتي لـ NDIF</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> name of plugin/module </Description>
+      <Position>NDIF disk image</Position>
+      <TranslationSet>
+        <base loc="en">NDIF disk image</base>
+        <tran loc="ar">صورة قرص NDIF</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> convert report: file size, + checksum type and value </Description>
+      <Position>File size: %1$qd bytes, Checksum: %2$@ %3$@</Position>
+      <TranslationSet>
+        <base loc="en">File size: %1$qd bytes, Checksum: %2$@ %3$@</base>
+        <tran loc="ar">حجم الملف: %1$qd بايت، المجموع الاختباري: %2$@ %3$@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> convert report: multiple tasks, + weight </Description>
+      <Position> (%1$ld tasks, weight %2$ld)</Position>
+      <TranslationSet>
+        <base loc="en"> (%1$ld tasks, weight %2$ld)</base>
+        <tran loc="ar"> ‏(%1$ld مهمة، الحجم %2$ld)</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>DiskImages/System/Library/PrivateFrameworks/DiskImages.framework/Versions/A/Resources/en.lproj/status.strings</Filepath>
+    <TextItem>
+      <Description> sla-end stage </Description>
+      <Position>sla-end</Position>
+      <TranslationSet>
+        <base loc="en">Finishing software license…</base>
+        <tran loc="ar">يتم الآن إنهاء ترخيص البرنامج...</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> formatting stage </Description>
+      <Position>format</Position>
+      <TranslationSet>
+        <base loc="en">Formatting…</base>
+        <tran loc="ar">يتم الآن التهيئة...</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> creating stage </Description>
+      <Position>create</Position>
+      <TranslationSet>
+        <base loc="en">Creating…</base>
+        <tran loc="ar">يتم الآن الإنشاء...</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> cleanup stage </Description>
+      <Position>cleanup</Position>
+      <TranslationSet>
+        <base loc="en">Finishing…</base>
+        <tran loc="ar">يتم الآن الإنهاء…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> post-processing stage </Description>
+      <Position>post-process</Position>
+      <TranslationSet>
+        <base loc="en">Finishing…</base>
+        <tran loc="ar">يتم الآن الإنهاء…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> detaching stage </Description>
+      <Position>eject</Position>
+      <TranslationSet>
+        <base loc="en">Detaching…</base>
+        <tran loc="ar">يتم الآن الفصل...</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> compacting stage </Description>
+      <Position>compact</Position>
+      <TranslationSet>
+        <base loc="en">Compacting…</base>
+        <tran loc="ar">يتم الآن الضغط...</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> unmounting stage </Description>
+      <Position>unmount</Position>
+      <TranslationSet>
+        <base loc="en">Unmounting…</base>
+        <tran loc="ar">يتم الآن إلغاء التحميل...</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> partitioning stage </Description>
+      <Position>partition</Position>
+      <TranslationSet>
+        <base loc="en">Partitioning…</base>
+        <tran loc="ar">يتم الآن التقسيم...</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> indexing stage </Description>
+      <Position>indexing</Position>
+      <TranslationSet>
+        <base loc="en">Indexing…</base>
+        <tran loc="ar">يتم الآن الفهرسة…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> verify-start stage </Description>
+      <Position>verify-start</Position>
+      <TranslationSet>
+        <base loc="en">Verifying…</base>
+        <tran loc="ar">يتم الآن التحقق...</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> initializing stage </Description>
+      <Position>initialize</Position>
+      <TranslationSet>
+        <base loc="en">Initializing…</base>
+        <tran loc="ar">يتم الآن التهيئة…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> encrypting stage </Description>
+      <Position>encrypt</Position>
+      <TranslationSet>
+        <base loc="en">Encrypting…</base>
+        <tran loc="ar">يتم الآن التشفير...</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> attaching stage </Description>
+      <Position>attach</Position>
+      <TranslationSet>
+        <base loc="en">Attaching…</base>
+        <tran loc="ar">يتم الآن الإرفاق...</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> present-sla </Description>
+      <Position>present-sla</Position>
+      <TranslationSet>
+        <base loc="en">Presenting software license…</base>
+        <tran loc="ar">يتم الآن عرض ترخيص البرنامج...</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> converting stage </Description>
+      <Position>convert</Position>
+      <TranslationSet>
+        <base loc="en">Converting…</base>
+        <tran loc="ar">يتم الآن التحويل...</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> scanning stage </Description>
+      <Position>scan</Position>
+      <TranslationSet>
+        <base loc="en">Scanning…</base>
+        <tran loc="ar">يتم الآن الفحص...</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> verify-end stage </Description>
+      <Position>verify-end</Position>
+      <TranslationSet>
+        <base loc="en">Verification completed…</base>
+        <tran loc="ar">اكتمل التحقق...</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> sla-start stage </Description>
+      <Position>sla-start</Position>
+      <TranslationSet>
+        <base loc="en">Begin software license…</base>
+        <tran loc="ar">بدء ترخيص البرنامج...</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> copying stage </Description>
+      <Position>copy</Position>
+      <TranslationSet>
+        <base loc="en">Copying…</base>
+        <tran loc="ar">يتم الآن النسخ...</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>DiskImages/System/Library/PrivateFrameworks/DiskImages.framework/Versions/A/Resources/en.lproj/CDARTDiskImage.strings</Filepath>
+    <TextItem>
+      <Description> DART disk image format description string - no need to localize </Description>
+      <Position>DART</Position>
+      <TranslationSet>
+        <base loc="en">DART</base>
+        <tran loc="ar">DART</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> name of plugin/module </Description>
+      <Position>DART disk image</Position>
+      <TranslationSet>
+        <base loc="en">DART disk image</base>
+        <tran loc="ar">صورة قرص DART</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>DiskImages/System/Library/PrivateFrameworks/DiskImages.framework/Versions/A/Resources/en.lproj/CCarbonBackingStore.strings</Filepath>
+    <TextItem>
+      <Description> name of plugin/module </Description>
+      <Position>Carbon backing store</Position>
+      <TranslationSet>
+        <base loc="en">Carbon backing store</base>
+        <tran loc="ar">مخزن Carbon المساعد</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>DiskImages/System/Library/PrivateFrameworks/DiskImages.framework/Versions/A/Resources/en.lproj/CBundleBackingStore.strings</Filepath>
+    <TextItem>
+      <Description> name of plugin/module </Description>
+      <Position>CFBundle backing store</Position>
+      <TranslationSet>
+        <base loc="en">CFBundle backing store</base>
+        <tran loc="ar">مخزن CFBundle المساعد</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>DiskImages/System/Library/PrivateFrameworks/DiskImages.framework/Versions/A/Resources/en.lproj/DIHelper.strings</Filepath>
+    <TextItem>
+      <Description> DIHelperIFD: operation title string </Description>
+      <Position>Creating \"%1$@\" from disk node \"%2$@\"\\U2026</Position>
+      <TranslationSet>
+        <base loc="en">Creating \"%1$@\" from disk node \"%2$@\"…</base>
+        <tran loc="ar">يتم الآن إنشاء \"%1$@\" من نقطة توصيل القرص \"%2$@\"...</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> error acknowledgement </Description>
+      <Position>OK</Position>
+      <TranslationSet>
+        <base loc="en">OK</base>
+        <tran loc="ar">موافق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> DIHelperAttach: operation title string </Description>
+      <Position>Opening \"%1$@\"\\U2026</Position>
+      <TranslationSet>
+        <base loc="en">Opening \"%1$@\"…</base>
+        <tran loc="ar">يتم الآن فتح \"%1$@\"...</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> IDME: copying a file 1$. </Description>
+      <Position>Copying \"%1$@\"\\U2026</Position>
+      <TranslationSet>
+        <base loc="en">Copying \"%1$@\"…</base>
+        <tran loc="ar">يتم الآن نسخ \"%1$@\"...</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> DIHelperIFF: operation title string </Description>
+      <Position>Creating \"%1$@\" from \"%2$@\"\\U2026</Position>
+      <TranslationSet>
+        <base loc="en">Creating \"%1$@\" from \"%2$@\"…</base>
+        <tran loc="ar">يتم الآن إنشاء \"%1$@\" من \"%2$@\"...</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> IDME: copying a symlink 1$. </Description>
+      <Position>Copying symlink \"%1$@\"\\U2026</Position>
+      <TranslationSet>
+        <base loc="en">Copying symlink \"%1$@\"…</base>
+        <tran loc="ar">يتم الآن نسخ الرابط الرمزي \"%1$@\"...</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> DIHelperIFF: operation title string, multiple sources
+   DIHelperNBI: operation title string </Description>
+      <Position>Creating \"%1$@\"\\U2026</Position>
+      <TranslationSet>
+        <base loc="en">Creating \"%1$@\"…</base>
+        <tran loc="ar">يتم الآن إنشاء \"%1$@\"...</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> DIHelperCompact: operation title string </Description>
+      <Position>Compacting \"%1$@\"\\U2026</Position>
+      <TranslationSet>
+        <base loc="en">Compacting \"%1$@\"…</base>
+        <tran loc="ar">يتم الآن ضغط \"%1$@\"...</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> IDME: copying a directory 1$. </Description>
+      <Position>Copying directory \"%1$@\"\\U2026</Position>
+      <TranslationSet>
+        <base loc="en">Copying directory \"%1$@\"…</base>
+        <tran loc="ar">يتم الآن نسخ الدليل \"%1$@\"...</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> IDME: copying a device node 1$. </Description>
+      <Position>Copying device node \"%1$@\"\\U2026</Position>
+      <TranslationSet>
+        <base loc="en">Copying device node \"%1$@\"…</base>
+        <tran loc="ar">يتم الآن نسخ نقطة توصيل الجهاز \"%1$@\"...</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>DiskImages/System/Library/PrivateFrameworks/DiskImages.framework/Versions/A/Resources/en.lproj/fsck-override.strings</Filepath>
+    <TextItem>
+      <Description> mounting stage </Description>
+      <Position>mounting</Position>
+      <TranslationSet>
+        <base loc="en">Mounting…</base>
+        <tran loc="ar">يتم الآن التحميل...</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> attach: damaged disk image explanation / subtext </Description>
+      <Position>Opening this disk image may make your computer less secure or cause other problems.</Position>
+      <TranslationSet>
+        <base loc="en">Opening this disk image may make your computer less secure or cause other problems.</base>
+        <tran loc="ar">قد يؤدي فتح صورة القرص هذه إلى تقليل أمان الكمبيوتر أو قد يتسبب في حدوث مشكلات أخرى.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> attach: damaged disk image detected / confirm </Description>
+      <Position>There may be a problem with this disk image. Are you sure you want to open it?</Position>
+      <TranslationSet>
+        <base loc="en">There may be a problem with this disk image. Are you sure you want to open it?</base>
+        <tran loc="ar">قد تكون هناك مشكلة في صورة القرص هذه. هل ترغب بالتأكيد في فتحها؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> present-auto-fsck-override stage </Description>
+      <Position>present-auto-fsck-override</Position>
+      <TranslationSet>
+        <base loc="en">Prompting user…</base>
+        <tran loc="ar">يتم الآن مطالبة المستخدم...</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> check-start stage </Description>
+      <Position>check-start</Position>
+      <TranslationSet>
+        <base loc="en">Checking volumes…</base>
+        <tran loc="ar">يتم الآن فحص وحدات التخزين...</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> check-end stage </Description>
+      <Position>check-end</Position>
+      <TranslationSet>
+        <base loc="en">Volume check completed…</base>
+        <tran loc="ar">اكتمل التحقق من وحدة التخزين...</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> attach: button title: don't open image </Description>
+      <Position>Don\\U2019t Open</Position>
+      <TranslationSet>
+        <base loc="en">Don’t Open</base>
+        <tran loc="ar">عدم الفتح</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> attach: button title: open image despite warning </Description>
+      <Position>Open</Position>
+      <TranslationSet>
+        <base loc="en">Open</base>
+        <tran loc="ar">فتح</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>DiskImages/System/Library/PrivateFrameworks/DiskImages.framework/Versions/A/Resources/en.lproj/CDiskCopy42DiskImage.strings</Filepath>
+    <TextItem>
+      <Description> name of plugin/module </Description>
+      <Position>Disk Copy 4.2 disk image</Position>
+      <TranslationSet>
+        <base loc="en">Disk Copy 4.2 disk image</base>
+        <tran loc="ar">صورة قرص Disk Copy 4.2</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Disk Copy 4.2 format
+   Disk Copy 4.2 image format description string - no need to localize </Description>
+      <Position>Disk Copy 4.2</Position>
+      <TranslationSet>
+        <base loc="en">Disk Copy 4.2</base>
+        <tran loc="ar">Disk Copy 4.2</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>DiskImages/System/Library/PrivateFrameworks/DiskImages.framework/Versions/A/Resources/en.lproj/CMacBinaryEncoding.strings</Filepath>
+    <TextItem>
+      <Description> name of plugin/module </Description>
+      <Position>MacBinary encoding</Position>
+      <TranslationSet>
+        <base loc="en">MacBinary encoding</base>
+        <tran loc="ar">ترميز MacBinary</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>DiskImages/System/Library/PrivateFrameworks/DiskImages.framework/Versions/A/Resources/en.lproj/CAppleSingleEncoding.strings</Filepath>
+    <TextItem>
+      <Description> name of plugin/module </Description>
+      <Position>AppleSingle encoding</Position>
+      <TranslationSet>
+        <base loc="en">AppleSingle encoding</base>
+        <tran loc="ar">ترميز AppleSingle</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>DiskImages/System/Library/CoreServices/CoreTypes.bundle/Contents/Resources/en.lproj/ErrnoErrors.strings</Filepath>
+    <TextItem>
+      <Description> errno error 10 </Description>
+      <Position>No child processes</Position>
+      <TranslationSet>
+        <base loc="en">No child processes</base>
+        <tran loc="ar">لا توجد عمليات تابعة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> errno error 80 </Description>
+      <Position>Authentication error</Position>
+      <TranslationSet>
+        <base loc="en">Authentication error</base>
+        <tran loc="ar">خطأ في المصادقة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> errno error 42 </Description>
+      <Position>Protocol not available</Position>
+      <TranslationSet>
+        <base loc="en">Protocol not available</base>
+        <tran loc="ar">البروتوكول غير متوفر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> errno error 105 </Description>
+      <Position>Previous owner died</Position>
+      <TranslationSet>
+        <base loc="en">Previous owner died</base>
+        <tran loc="ar">مات المالك السابق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> errno error 31 </Description>
+      <Position>Too many links</Position>
+      <TranslationSet>
+        <base loc="en">Too many links</base>
+        <tran loc="ar">يوجد عدد كبير جدًا من الروابط</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> errno error 53 </Description>
+      <Position>Software caused connection abort</Position>
+      <TranslationSet>
+        <base loc="en">Software caused connection abort</base>
+        <tran loc="ar">نتج عن البرنامج إيقاف الاتصال قبل اكتماله</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> errno error 20 </Description>
+      <Position>Not a directory</Position>
+      <TranslationSet>
+        <base loc="en">Not a directory</base>
+        <tran loc="ar">ليس دليلاً</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> errno error 88 </Description>
+      <Position>Malformed Mach-o file</Position>
+      <TranslationSet>
+        <base loc="en">Malformed Mach-o file</base>
+        <tran loc="ar">لم تتم صياغة ملف Mach-o بشكل صحيح</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> errno error 41 </Description>
+      <Position>Protocol wrong type for socket</Position>
+      <TranslationSet>
+        <base loc="en">Protocol wrong type for socket</base>
+        <tran loc="ar">نوع البروتوكول غير صحيح للمأخذ</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> errno error 66 </Description>
+      <Position>Directory not empty</Position>
+      <TranslationSet>
+        <base loc="en">Directory not empty</base>
+        <tran loc="ar">الدليل غير فارغ</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> errno error 75 </Description>
+      <Position>Program version wrong</Position>
+      <TranslationSet>
+        <base loc="en">Program version wrong</base>
+        <tran loc="ar">إصدار البرنامج غير صحيح</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> errno error 45 </Description>
+      <Position>Operation not supported</Position>
+      <TranslationSet>
+        <base loc="en">Operation not supported</base>
+        <tran loc="ar">العملية غير مدعومة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> errno error 56 </Description>
+      <Position>Socket is already connected</Position>
+      <TranslationSet>
+        <base loc="en">Socket is already connected</base>
+        <tran loc="ar">المأخذ متصل بالفعل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> errno error 22 </Description>
+      <Position>Invalid argument</Position>
+      <TranslationSet>
+        <base loc="en">Invalid argument</base>
+        <tran loc="ar">وسيطة غير صالحة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> errno error 11 </Description>
+      <Position>Resource deadlock avoided</Position>
+      <TranslationSet>
+        <base loc="en">Resource deadlock avoided</base>
+        <tran loc="ar">تم تجنب التوقف التام للمورد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> errno error 99 </Description>
+      <Position>Not a STREAM</Position>
+      <TranslationSet>
+        <base loc="en">Not a STREAM</base>
+        <tran loc="ar">ليس STREAM</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> errno error 71 </Description>
+      <Position>Too many levels of remote in path</Position>
+      <TranslationSet>
+        <base loc="en">Too many levels of remote in path</base>
+        <tran loc="ar">يوجد عدد كبير جدًا من مستويات الطلب البعيد في المسار</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> errno error 84 </Description>
+      <Position>Value too large to be stored in data type</Position>
+      <TranslationSet>
+        <base loc="en">Value too large to be stored in data type</base>
+        <tran loc="ar">القيمة كبيرة جدًا بحيث لا يمكن تخزينها في نوع البيانات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> errno error 18 </Description>
+      <Position>Cross-device link</Position>
+      <TranslationSet>
+        <base loc="en">Cross-device link</base>
+        <tran loc="ar">رابط بين الأجهزة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> errno error 63 </Description>
+      <Position>File name too long</Position>
+      <TranslationSet>
+        <base loc="en">File name too long</base>
+        <tran loc="ar">اسم الملف طويل جدًا</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> errno error 27 </Description>
+      <Position>File too large</Position>
+      <TranslationSet>
+        <base loc="en">File too large</base>
+        <tran loc="ar">الملف كبير جدًا</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> errno error 28 </Description>
+      <Position>No space left on device</Position>
+      <TranslationSet>
+        <base loc="en">No space left on device</base>
+        <tran loc="ar">لا توجد مساحة متبقية على الجهاز</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> errno error 87 </Description>
+      <Position>Shared library version mismatch</Position>
+      <TranslationSet>
+        <base loc="en">Shared library version mismatch</base>
+        <tran loc="ar">إصدار المكتبة المشتركة غير متطابق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> errno error 72 </Description>
+      <Position>RPC struct is bad</Position>
+      <TranslationSet>
+        <base loc="en">RPC struct is bad</base>
+        <tran loc="ar">بنية RPC غير صحيحة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> errno error 60 </Description>
+      <Position>Operation timed out</Position>
+      <TranslationSet>
+        <base loc="en">Operation timed out</base>
+        <tran loc="ar">انتهت مهلة العملية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> errno error 16 </Description>
+      <Position>Resource busy</Position>
+      <TranslationSet>
+        <base loc="en">Resource busy</base>
+        <tran loc="ar">المورد مشغول</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> errno error 19 </Description>
+      <Position>Operation not supported by device</Position>
+      <TranslationSet>
+        <base loc="en">Operation not supported by device</base>
+        <tran loc="ar">لا يدعم الجهاز هذه العملية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> errno error 83 </Description>
+      <Position>Device error</Position>
+      <TranslationSet>
+        <base loc="en">Device error</base>
+        <tran loc="ar">خطأ في الجهاز</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> errno error 36 </Description>
+      <Position>Operation now in progress</Position>
+      <TranslationSet>
+        <base loc="en">Operation now in progress</base>
+        <tran loc="ar">العملية قيد التقدم حاليًا</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> errno error 7 </Description>
+      <Position>Argument list too long</Position>
+      <TranslationSet>
+        <base loc="en">Argument list too long</base>
+        <tran loc="ar">قائمة الوسيطات طويلة جدًا</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> package up error # </Description>
+      <Position>error %1$d</Position>
+      <TranslationSet>
+        <base loc="en">error %1$d</base>
+        <tran loc="ar">خطأ %1$d</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> errno error 82 </Description>
+      <Position>Device power is off</Position>
+      <TranslationSet>
+        <base loc="en">Device power is off</base>
+        <tran loc="ar">تم إيقاف تشغيل الجهاز</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> errno error 76 </Description>
+      <Position>Bad procedure for program</Position>
+      <TranslationSet>
+        <base loc="en">Bad procedure for program</base>
+        <tran loc="ar">إجراء غير صحيح للبرنامج</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> errno error 44 </Description>
+      <Position>Socket type not supported</Position>
+      <TranslationSet>
+        <base loc="en">Socket type not supported</base>
+        <tran loc="ar">نوع المأخذ غير مدعوم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> errno error 47 </Description>
+      <Position>Address family not supported by protocol family</Position>
+      <TranslationSet>
+        <base loc="en">Address family not supported by protocol family</base>
+        <tran loc="ar">مجموعة العناوين غير مدعومة بواسطة مجموعة البروتوكولات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> errno error 67 </Description>
+      <Position>Too many processes</Position>
+      <TranslationSet>
+        <base loc="en">Too many processes</base>
+        <tran loc="ar">يوجد عدد كبير جدًا من العمليات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> errno error 5 </Description>
+      <Position>Input/output error</Position>
+      <TranslationSet>
+        <base loc="en">Input/output error</base>
+        <tran loc="ar">خطأ في الإدخال/الإخراج</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> errno error 46 </Description>
+      <Position>Protocol family not supported</Position>
+      <TranslationSet>
+        <base loc="en">Protocol family not supported</base>
+        <tran loc="ar">مجموعة البروتوكولات غير مدعومة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> errno error 15 </Description>
+      <Position>Block device required</Position>
+      <TranslationSet>
+        <base loc="en">Block device required</base>
+        <tran loc="ar">جهاز الحظر مطلوب</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> errno error 33 </Description>
+      <Position>Numerical argument out of domain</Position>
+      <TranslationSet>
+        <base loc="en">Numerical argument out of domain</base>
+        <tran loc="ar">الوسيطة الرقمية خارج النطاق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> errno error 61 </Description>
+      <Position>Connection refused</Position>
+      <TranslationSet>
+        <base loc="en">Connection refused</base>
+        <tran loc="ar">تم رفض الاتصال</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> errno error 58 </Description>
+      <Position>Can't send after socket shutdown</Position>
+      <TranslationSet>
+        <base loc="en">Can't send after socket shutdown</base>
+        <tran loc="ar">لا يمكن الإرسال بعد إيقاف تشغيل المأخذ</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> errno error 34 </Description>
+      <Position>Result too large</Position>
+      <TranslationSet>
+        <base loc="en">Result too large</base>
+        <tran loc="ar">النتيجة طويلة جدًا</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> errno error 54 </Description>
+      <Position>Connection reset by peer</Position>
+      <TranslationSet>
+        <base loc="en">Connection reset by peer</base>
+        <tran loc="ar">تمت إعادة تعيين الاتصال بواسطة النظير</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>error %1$#x</Position>
+      <TranslationSet>
+        <base loc="en">error %1$#x</base>
+        <tran loc="ar">خطأ %1$#x</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> errno error 40 </Description>
+      <Position>Message too long</Position>
+      <TranslationSet>
+        <base loc="en">Message too long</base>
+        <tran loc="ar">الرسالة طويلة جدًا</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> errno error 49 </Description>
+      <Position>Can't assign requested address</Position>
+      <TranslationSet>
+        <base loc="en">Can't assign requested address</base>
+        <tran loc="ar">لا يمكن تعيين العنوان المطلوب</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> errno error 13 </Description>
+      <Position>Permission denied</Position>
+      <TranslationSet>
+        <base loc="en">Permission denied</base>
+        <tran loc="ar">تم رفض الإذن</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> errno error 64 </Description>
+      <Position>Host is down</Position>
+      <TranslationSet>
+        <base loc="en">Host is down</base>
+        <tran loc="ar">المضيف متعطل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> errno error 98 </Description>
+      <Position>No STREAM resources</Position>
+      <TranslationSet>
+        <base loc="en">No STREAM resources</base>
+        <tran loc="ar">لا توجد موارد STREAM</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> errno error 81 </Description>
+      <Position>Need authenticator</Position>
+      <TranslationSet>
+        <base loc="en">Need authenticator</base>
+        <tran loc="ar">يجب توفر مُصادق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> errno error 35 </Description>
+      <Position>Resource temporarily unavailable</Position>
+      <TranslationSet>
+        <base loc="en">Resource temporarily unavailable</base>
+        <tran loc="ar">المورد غير متوفر مؤقتًا</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> errno error 95 </Description>
+      <Position>EMULTIHOP (Reserved)</Position>
+      <TranslationSet>
+        <base loc="en">EMULTIHOP (Reserved)</base>
+        <tran loc="ar">EMULTIHOP (محجوز)</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> errno error 65 </Description>
+      <Position>No route to host</Position>
+      <TranslationSet>
+        <base loc="en">No route to host</base>
+        <tran loc="ar">لا يوجد توجيه للمضيف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> errno error 78 </Description>
+      <Position>Function not implemented</Position>
+      <TranslationSet>
+        <base loc="en">Function not implemented</base>
+        <tran loc="ar">لم يتم تنفيذ الوظيفة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> errno error 74 </Description>
+      <Position>RPC prog. not avail</Position>
+      <TranslationSet>
+        <base loc="en">RPC prog. not avail</base>
+        <tran loc="ar">برنامج RPC غير متوفر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> errno error 26 </Description>
+      <Position>Text file busy</Position>
+      <TranslationSet>
+        <base loc="en">Text file busy</base>
+        <tran loc="ar">الملف النصي مشغول</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> errno error 97 </Description>
+      <Position>ENOLINK (Reserved)</Position>
+      <TranslationSet>
+        <base loc="en">ENOLINK (Reserved)</base>
+        <tran loc="ar">‏ENOLINK (محجوز)</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> errno error 4 </Description>
+      <Position>Interrupted system call</Position>
+      <TranslationSet>
+        <base loc="en">Interrupted system call</base>
+        <tran loc="ar">تمت مقاطعة استدعاء النظام</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> errno error 90 </Description>
+      <Position>Identifier removed</Position>
+      <TranslationSet>
+        <base loc="en">Identifier removed</base>
+        <tran loc="ar">تمت إزالة المعرّف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> errno error 50 </Description>
+      <Position>Network is down</Position>
+      <TranslationSet>
+        <base loc="en">Network is down</base>
+        <tran loc="ar">الشبكة متعطلة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> errno error 68 </Description>
+      <Position>Too many users</Position>
+      <TranslationSet>
+        <base loc="en">Too many users</base>
+        <tran loc="ar">يوجد عدد كبير جدًا من المستخدمين</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> errno error 106 </Description>
+      <Position>Interface output queue is full</Position>
+      <TranslationSet>
+        <base loc="en">Interface output queue is full</base>
+        <tran loc="ar">قائمة انتظار إخراج الواجهة ممتلئة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> errno error 103 </Description>
+      <Position>Policy not found</Position>
+      <TranslationSet>
+        <base loc="en">Policy not found</base>
+        <tran loc="ar">لم يتم العثور على السياسة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> errno error 89 </Description>
+      <Position>Operation canceled</Position>
+      <TranslationSet>
+        <base loc="en">Operation canceled</base>
+        <tran loc="ar">تم إلغاء العملية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> errno error 23 </Description>
+      <Position>Too many open files in system</Position>
+      <TranslationSet>
+        <base loc="en">Too many open files in system</base>
+        <tran loc="ar">يوجد عدد كبير جدًا من الملفات المفتوحة في النظام</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> errno error 62 </Description>
+      <Position>Too many levels of symbolic links</Position>
+      <TranslationSet>
+        <base loc="en">Too many levels of symbolic links</base>
+        <tran loc="ar">يوجد عدد كبير جدًا من مستويات الروابط الرمزية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> errno error 14 </Description>
+      <Position>Bad address</Position>
+      <TranslationSet>
+        <base loc="en">Bad address</base>
+        <tran loc="ar">عنوان غير صحيح</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> errno error 38 </Description>
+      <Position>Socket operation on non-socket</Position>
+      <TranslationSet>
+        <base loc="en">Socket operation on non-socket</base>
+        <tran loc="ar">عملية مأخذ تتم في موضع غير مخصص للمآخذ</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> errno error 86 </Description>
+      <Position>Bad CPU type in executable</Position>
+      <TranslationSet>
+        <base loc="en">Bad CPU type in executable</base>
+        <tran loc="ar">نوع وحدة CPU غير صحيح في المكوّن التنفيذي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> errno error 96 </Description>
+      <Position>No message available on STREAM</Position>
+      <TranslationSet>
+        <base loc="en">No message available on STREAM</base>
+        <tran loc="ar">لا تتوفر رسالة على STREAM</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> errno error 1 </Description>
+      <Position>Operation not permitted</Position>
+      <TranslationSet>
+        <base loc="en">Operation not permitted</base>
+        <tran loc="ar">غير مسموح بالعملية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> errno error 2 </Description>
+      <Position>No such file or directory</Position>
+      <TranslationSet>
+        <base loc="en">No such file or directory</base>
+        <tran loc="ar">لا يوجد ملف أو دليل بهذا الاسم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> errno error 59 </Description>
+      <Position>Too many references: can't splice</Position>
+      <TranslationSet>
+        <base loc="en">Too many references: can't splice</base>
+        <tran loc="ar">يوجد عدد كبير جدًا من المراجع: لا يمكن إجراء الربط</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> errno error 55 </Description>
+      <Position>No buffer space available</Position>
+      <TranslationSet>
+        <base loc="en">No buffer space available</base>
+        <tran loc="ar">لا تتوفر مساحة بذاكرة التخزين المؤقت</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> errno error 94 </Description>
+      <Position>Bad message</Position>
+      <TranslationSet>
+        <base loc="en">Bad message</base>
+        <tran loc="ar">رسالة غير صحيحة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> errno error 85 </Description>
+      <Position>Bad executable (or shared library)</Position>
+      <TranslationSet>
+        <base loc="en">Bad executable (or shared library)</base>
+        <tran loc="ar">مكوّن تنفيذي (أو مكتبة مشتركة) غير صحيح</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> errno error 79 </Description>
+      <Position>Inappropriate file type or format</Position>
+      <TranslationSet>
+        <base loc="en">Inappropriate file type or format</base>
+        <tran loc="ar">نوع الملف أو تنسيقه غير صالح</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> errno error 93 </Description>
+      <Position>Attribute not found</Position>
+      <TranslationSet>
+        <base loc="en">Attribute not found</base>
+        <tran loc="ar">لم يتم العثور على السمة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> errno error 43 </Description>
+      <Position>Protocol not supported</Position>
+      <TranslationSet>
+        <base loc="en">Protocol not supported</base>
+        <tran loc="ar">البروتوكول غير مدعوم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> errno error 32 </Description>
+      <Position>Broken pipe</Position>
+      <TranslationSet>
+        <base loc="en">Broken pipe</base>
+        <tran loc="ar">ممر بيانات غير متصل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> errno error 77 </Description>
+      <Position>No locks available</Position>
+      <TranslationSet>
+        <base loc="en">No locks available</base>
+        <tran loc="ar">لا يتوفر أي تأمين</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> errno error 8 </Description>
+      <Position>Exec format error</Position>
+      <TranslationSet>
+        <base loc="en">Exec format error</base>
+        <tran loc="ar">خطأ في تنسيق المكوّن التنفيذي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> errno error 39 </Description>
+      <Position>Destination address required</Position>
+      <TranslationSet>
+        <base loc="en">Destination address required</base>
+        <tran loc="ar">عنوان الوجهة مطلوب</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> errno error 6 </Description>
+      <Position>Device not configured</Position>
+      <TranslationSet>
+        <base loc="en">Device not configured</base>
+        <tran loc="ar">لم يتم تكوين الجهاز</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> errno error 51 </Description>
+      <Position>Network is unreachable</Position>
+      <TranslationSet>
+        <base loc="en">Network is unreachable</base>
+        <tran loc="ar">لا يمكن الوصول إلى الشبكة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> errno error 100 </Description>
+      <Position>Protocol error</Position>
+      <TranslationSet>
+        <base loc="en">Protocol error</base>
+        <tran loc="ar">خطأ متعلق بالبروتوكول</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> errno error 48 </Description>
+      <Position>Address already in use</Position>
+      <TranslationSet>
+        <base loc="en">Address already in use</base>
+        <tran loc="ar">العنوان قيد الاستخدام بالفعل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> errno error 9 </Description>
+      <Position>Bad file descriptor</Position>
+      <TranslationSet>
+        <base loc="en">Bad file descriptor</base>
+        <tran loc="ar">واصف ملف غير صحيح</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> errno error 52 </Description>
+      <Position>Network dropped connection on reset</Position>
+      <TranslationSet>
+        <base loc="en">Network dropped connection on reset</base>
+        <tran loc="ar">تعطل اتصال الشبكة عند إعادة التعيين</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> errno error 69 </Description>
+      <Position>Disc quota exceeded</Position>
+      <TranslationSet>
+        <base loc="en">Disc quota exceeded</base>
+        <tran loc="ar">تم تجاوز الحصة المخصصة للقرص</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> errno error 70 </Description>
+      <Position>Stale NFS file handle</Position>
+      <TranslationSet>
+        <base loc="en">Stale NFS file handle</base>
+        <tran loc="ar">معالج ملف NFS قديم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> errno error 101 </Description>
+      <Position>STREAM ioctl timeout</Position>
+      <TranslationSet>
+        <base loc="en">STREAM ioctl timeout</base>
+        <tran loc="ar">انتهت مهلة STREAM ioctl</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> errno error 21 </Description>
+      <Position>Is a directory</Position>
+      <TranslationSet>
+        <base loc="en">Is a directory</base>
+        <tran loc="ar">عبارة عن دليل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> errno error 25 </Description>
+      <Position>Inappropriate ioctl for device</Position>
+      <TranslationSet>
+        <base loc="en">Inappropriate ioctl for device</base>
+        <tran loc="ar">ioctl غير صالح للجهاز</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> errno error 92 </Description>
+      <Position>Illegal byte sequence</Position>
+      <TranslationSet>
+        <base loc="en">Illegal byte sequence</base>
+        <tran loc="ar">تسلسل وحدات البايت غير مشروع</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> errno error 102 </Description>
+      <Position>Operation not supported on socket</Position>
+      <TranslationSet>
+        <base loc="en">Operation not supported on socket</base>
+        <tran loc="ar">لا يتم دعم العملية على المأخذ</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> errno error 17 </Description>
+      <Position>File exists</Position>
+      <TranslationSet>
+        <base loc="en">File exists</base>
+        <tran loc="ar">الملف موجود</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> errno error 57 </Description>
+      <Position>Socket is not connected</Position>
+      <TranslationSet>
+        <base loc="en">Socket is not connected</base>
+        <tran loc="ar">المأخذ غير متصل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> errno error 30 </Description>
+      <Position>Read-only file system</Position>
+      <TranslationSet>
+        <base loc="en">Read-only file system</base>
+        <tran loc="ar">نظام الملفات للقراءة فقط</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> errno error 29 </Description>
+      <Position>Illegal seek</Position>
+      <TranslationSet>
+        <base loc="en">Illegal seek</base>
+        <tran loc="ar">بحث غير مشروع</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> errno error 12 </Description>
+      <Position>Cannot allocate memory</Position>
+      <TranslationSet>
+        <base loc="en">Cannot allocate memory</base>
+        <tran loc="ar">لا يمكن تخصيص مساحة بالذاكرة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> errno error 37 </Description>
+      <Position>Operation already in progress</Position>
+      <TranslationSet>
+        <base loc="en">Operation already in progress</base>
+        <tran loc="ar">العملية قيد التقدم بالفعل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> errno error 91 </Description>
+      <Position>No message of desired type</Position>
+      <TranslationSet>
+        <base loc="en">No message of desired type</base>
+        <tran loc="ar">لا توجد رسالة من النوع المطلوب</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> errno error 73 </Description>
+      <Position>RPC version wrong</Position>
+      <TranslationSet>
+        <base loc="en">RPC version wrong</base>
+        <tran loc="ar">إصدار RPC غير صحيح</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> errno error 3 </Description>
+      <Position>No such process</Position>
+      <TranslationSet>
+        <base loc="en">No such process</base>
+        <tran loc="ar">لا توجد عملية بهذا الاسم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> errno error 0 </Description>
+      <Position>Undefined error: 0</Position>
+      <TranslationSet>
+        <base loc="en">Undefined error: 0</base>
+        <tran loc="ar">خطأ غير معروف: 0</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> errno error 104 </Description>
+      <Position>State not recoverable</Position>
+      <TranslationSet>
+        <base loc="en">State not recoverable</base>
+        <tran loc="ar">لا يمكن استرداد الحالة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> errno error 24 </Description>
+      <Position>Too many open files</Position>
+      <TranslationSet>
+        <base loc="en">Too many open files</base>
+        <tran loc="ar">يوجد عدد كبير جدًا من الملفات المفتوحة</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>DiskImages/System/Library/PrivateFrameworks/DiskImages.framework/Versions/A/Resources/en.lproj/CShadowedDiskImage.strings</Filepath>
+    <TextItem>
+      <Description> CShadowedDiskImage disk image format description &lt;MASTER IMAGE FORMAT DESCRIPTION&gt; (shadowed)  </Description>
+      <Position>%1$@ (shadowed)</Position>
+      <TranslationSet>
+        <base loc="en">%1$@ (shadowed)</base>
+        <tran loc="ar">%1$@ (مظلل)</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> name of plugin/module </Description>
+      <Position>shadowed disk image</Position>
+      <TranslationSet>
+        <base loc="en">shadowed disk image</base>
+        <tran loc="ar">صورة القرص المظللة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> shadow disk image format description </Description>
+      <Position>shadow</Position>
+      <TranslationSet>
+        <base loc="en">shadow</base>
+        <tran loc="ar">ظل</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>DiskImages/System/Library/PrivateFrameworks/DiskImages.framework/Versions/A/Resources/en.lproj/CSegmentedUDIFEncoding.strings</Filepath>
+    <TextItem>
+      <Description> missing multiple segment error message </Description>
+      <Position>Missing parts %1$@</Position>
+      <TranslationSet>
+        <base loc="en">Missing parts %1$@</base>
+        <tran loc="ar">الأجزاء المفقودة %1$@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> invalid segment error message </Description>
+      <Position>Invalid part(s): %1$@</Position>
+      <TranslationSet>
+        <base loc="en">Invalid part(s): %1$@</base>
+        <tran loc="ar">الأجزاء غير الصالحة: %1$@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> name of plugin/module </Description>
+      <Position>segmented UDIF encoding</Position>
+      <TranslationSet>
+        <base loc="en">segmented UDIF encoding</base>
+        <tran loc="ar">ترميز UDIF المقسم إلى مقاطع</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> missing single segment error message </Description>
+      <Position>Missing part %1$@</Position>
+      <TranslationSet>
+        <base loc="en">Missing part %1$@</base>
+        <tran loc="ar">الجزء المفقود %1$@</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>DiskImages/System/Library/PrivateFrameworks/DiskImages.framework/Versions/A/Resources/en.lproj/CSubDiskImage.strings</Filepath>
+    <TextItem>
+      <Description> Sub disk image format description </Description>
+      <Position>partial</Position>
+      <TranslationSet>
+        <base loc="en">partial</base>
+        <tran loc="ar">جزئي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> CSubDiskImage disk image format description &lt;MASTER IMAGE FORMAT DESCRIPTION&gt; (part)  </Description>
+      <Position>%1$@ (part)</Position>
+      <TranslationSet>
+        <base loc="en">%1$@ (part)</base>
+        <tran loc="ar">%1$@ (جزء)</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> name of plugin/module </Description>
+      <Position>partial disk image</Position>
+      <TranslationSet>
+        <base loc="en">partial disk image</base>
+        <tran loc="ar">صورة قرص جزئية</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>DiskImages/System/Library/PrivateFrameworks/DiskImages.framework/Versions/A/Resources/en.lproj/CWOUDIFDiskImage.strings</Filepath>
+    <TextItem>
+      <Description> name of write-once disk image format we create with lzma </Description>
+      <Position>compressed (lzma) [write-once]</Position>
+      <TranslationSet>
+        <base loc="en">compressed (lzma) [write-once]</base>
+        <tran loc="ar">‏(lzma) مضغوط [كتابة مرة واحدة]</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> name of write-once disk image format we create with ADC </Description>
+      <Position>compressed (ADC) [write-once]</Position>
+      <TranslationSet>
+        <base loc="en">compressed (ADC) [write-once]</base>
+        <tran loc="ar">مضغوط (ADC) [كتابة مرة واحدة]</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> name of write-once disk image format we create with lzfse </Description>
+      <Position>compressed (lzfse) [write-once]</Position>
+      <TranslationSet>
+        <base loc="en">compressed (lzfse) [write-once]</base>
+        <tran loc="ar">‏(lzfse) مضغوط [كتابة مرة واحدة]</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> tag for write-once UDIF disk images </Description>
+      <Position>[write-once]</Position>
+      <TranslationSet>
+        <base loc="en">[write-once]</base>
+        <tran loc="ar">[كتابة مرة واحدة]</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> name of write-once disk image format we create with zlib </Description>
+      <Position>compressed [write-once]</Position>
+      <TranslationSet>
+        <base loc="en">compressed [write-once]</base>
+        <tran loc="ar">مضغوط [كتابة مرة واحدة]</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> name of write-once disk image format we create with bzip2 </Description>
+      <Position>compressed (bzip2) [write-once]</Position>
+      <TranslationSet>
+        <base loc="en">compressed (bzip2) [write-once]</base>
+        <tran loc="ar">مضغوط (bzip2) [كتابة مرة واحدة]</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> name of write-once disk image format we create </Description>
+      <Position>read-only [write-once]</Position>
+      <TranslationSet>
+        <base loc="en">read-only [write-once]</base>
+        <tran loc="ar">للقراءة فقط [كتابة مرة واحدة]</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> name of plugin/module </Description>
+      <Position>UDIF disk image [write-once]</Position>
+      <TranslationSet>
+        <base loc="en">UDIF disk image [write-once]</base>
+        <tran loc="ar">صورة قرص UDIF [كتابة مرة واحدة]</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> UDIF read-only [write once] disk image format </Description>
+      <Position>UDIF read-only [write once]</Position>
+      <TranslationSet>
+        <base loc="en">UDIF read-only [write once]</base>
+        <tran loc="ar">UDIF للقراءة فقط [كتابة مرة واحدة]</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>DiskImages/System/Library/PrivateFrameworks/DiskImages.framework/Versions/A/Resources/en.lproj/CUDIFEncoding.strings</Filepath>
+    <TextItem>
+      <Description> progress message when validating a segment </Description>
+      <Position>Validating \"%1$@\"\\U2026</Position>
+      <TranslationSet>
+        <base loc="en">Validating \"%1$@\"…</base>
+        <tran loc="ar">يتم الآن التحقق من صحة \"%1$@\"...</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> error when unrecognized checksum type 1$ </Description>
+      <Position>Unknown checksum type %1$ld.</Position>
+      <TranslationSet>
+        <base loc="en">Unknown checksum type %1$ld.</base>
+        <tran loc="ar">نوع المجموع الاختباري %1$ld غير معروف.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> name of plugin/module </Description>
+      <Position>UDIF encoding</Position>
+      <TranslationSet>
+        <base loc="en">UDIF encoding</base>
+        <tran loc="ar">ترميز UDIF</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>DiskImages/System/Library/PrivateFrameworks/DiskImages.framework/Versions/A/Resources/en.lproj/CSgmtdUDIFRawEncoding.strings</Filepath>
+    <TextItem>
+      <Description> name of plugin/module </Description>
+      <Position>segmented read/write UDIF encoding</Position>
+      <TranslationSet>
+        <base loc="en">segmented read/write UDIF encoding</base>
+        <tran loc="ar">ترميز UDIF للقراءة/الكتابة المقسم إلى مقاطع</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>DiskImages/System/Library/PrivateFrameworks/DiskImages.framework/Versions/A/Resources/en.lproj/CSparseBundleDiskImage.strings</Filepath>
+    <TextItem>
+      <Description> convert report: savings percentage </Description>
+      <Position>Savings: %1$.1f%%</Position>
+      <TranslationSet>
+        <base loc="en">Savings: %1$.1f%%</base>
+        <tran loc="ar">نسبة التوفير: %1$.1f%%</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> convert report: speed (bytes/sec), units (none, K, M, G) </Description>
+      <Position>Speed: %1$.1f%2$cbytes/sec</Position>
+      <TranslationSet>
+        <base loc="en">Speed: %1$.1f%2$cbytes/sec</base>
+        <tran loc="ar">السرعة: %1$.1f%2$c بايت/ثانية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> sparse bundle format </Description>
+      <Position>sparsebundle</Position>
+      <TranslationSet>
+        <base loc="en">sparsebundle</base>
+        <tran loc="ar">مجموعة متفرقة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> convert report: elapsed time </Description>
+      <Position>Elapsed Time: %1$@</Position>
+      <TranslationSet>
+        <base loc="en">Elapsed Time: %1$@</base>
+        <tran loc="ar">الوقت المنقضي: %1$@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> sparse disk image format description </Description>
+      <Position>sparse</Position>
+      <TranslationSet>
+        <base loc="en">sparse</base>
+        <tran loc="ar">متفرق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> CSparseBundleDiskImage disk image format description
+   name of disk image we create
+   name of plugin/module </Description>
+      <Position>sparse bundle disk image</Position>
+      <TranslationSet>
+        <base loc="en">sparse bundle disk image</base>
+        <tran loc="ar">صورة قرص لمجموعة متفرقة</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>DiskImages/System/Library/PrivateFrameworks/DiskImages.framework/Versions/A/Resources/en.lproj/CDINoPartitionScheme.strings</Filepath>
+    <TextItem>
+      <Description> string used to partition name when there is no partitioning, e.g. the entire disk </Description>
+      <Position>whole disk</Position>
+      <TranslationSet>
+        <base loc="en">whole disk</base>
+        <tran loc="ar">القرص بالكامل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> unknown partition type string </Description>
+      <Position>unknown partition</Position>
+      <TranslationSet>
+        <base loc="en">unknown partition</base>
+        <tran loc="ar">قسم غير معروف</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>DiskImages/System/Library/PrivateFrameworks/DiskImages.framework/Versions/A/Resources/en.lproj/CUDIFDiskImage.strings</Filepath>
+    <TextItem>
+      <Description> convert report: savings percentage </Description>
+      <Position>Savings: %1$.1f%%</Position>
+      <TranslationSet>
+        <base loc="en">Savings: %1$.1f%%</base>
+        <tran loc="ar">نسبة التوفير: %1$.1f%%</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> stub format </Description>
+      <Position>UDIF stub</Position>
+      <TranslationSet>
+        <base loc="en">UDIF stub</base>
+        <tran loc="ar">UDIF فرعي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> convert report: file size, no checksum </Description>
+      <Position>File size: %1$qd bytes</Position>
+      <TranslationSet>
+        <base loc="en">File size: %1$qd bytes</base>
+        <tran loc="ar">حجم الملف: %1$qd بايت</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> convert report: sectors skipped </Description>
+      <Position>, %1$ld skipped</Position>
+      <TranslationSet>
+        <base loc="en">, %1$ld skipped</base>
+        <tran loc="ar">، تم تخطي %1$ld</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> identifier for restricted segments </Description>
+      <Position>restricted segment %d</Position>
+      <TranslationSet>
+        <base loc="en">restricted segment %d</base>
+        <tran loc="ar">المقطع المقيد %d</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> progress message when reporting error encountered when checksumming a partition </Description>
+      <Position>%1$@: checksum failed with error %2$ld.</Position>
+      <TranslationSet>
+        <base loc="en">%1$@: checksum failed with error %2$ld.</base>
+        <tran loc="ar">%1$@: فشل المجموع الاختباري مع ظهور الخطأ %2$ld.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> description of partition: name, type, and number </Description>
+      <Position>%1$@ (%2$@ : %3$d)</Position>
+      <TranslationSet>
+        <base loc="en">%1$@ (%2$@ : %3$d)</base>
+        <tran loc="ar">‏%1$@ (‏%2$@ : ‏%3$d)</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> progress message when preparing imaging engine </Description>
+      <Position>Preparing imaging engine\\U2026</Position>
+      <TranslationSet>
+        <base loc="en">Preparing imaging engine…</base>
+        <tran loc="ar">يتم الآن إعداد محرك الصور…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> convert report: speed (bytes/sec), units (none, K, M, G) </Description>
+      <Position>Speed: %1$.1f%2$cbytes/sec</Position>
+      <TranslationSet>
+        <base loc="en">Speed: %1$.1f%2$cbytes/sec</base>
+        <tran loc="ar">السرعة: %1$.1f%2$c بايت/ثانية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> UDIF read-only disk image format </Description>
+      <Position>UDIF read-only</Position>
+      <TranslationSet>
+        <base loc="en">UDIF read-only</base>
+        <tran loc="ar">UDIF للقراءة فقط</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> iPod image checksum </Description>
+      <Position>iPod image checksum</Position>
+      <TranslationSet>
+        <base loc="en">iPod image checksum</base>
+        <tran loc="ar">المجموع الاختباري لصورة iPod</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> UDIF read-only compressed disk image format </Description>
+      <Position>UDIF read-only compressed</Position>
+      <TranslationSet>
+        <base loc="en">UDIF read-only compressed</base>
+        <tran loc="ar">UDIF للقراءة فقط مضغوط</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> compressed format with zlib </Description>
+      <Position>compressed</Position>
+      <TranslationSet>
+        <base loc="en">compressed</base>
+        <tran loc="ar">مضغوط</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> complete format </Description>
+      <Position>iPod image</Position>
+      <TranslationSet>
+        <base loc="en">iPod image</base>
+        <tran loc="ar">صورة iPod</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> name of plugin/module </Description>
+      <Position>UDIF disk image</Position>
+      <TranslationSet>
+        <base loc="en">UDIF disk image</base>
+        <tran loc="ar">صورة قرص UDIF</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> convert report: sectors compressed </Description>
+      <Position>, %1$ld compressed</Position>
+      <TranslationSet>
+        <base loc="en">, %1$ld compressed</base>
+        <tran loc="ar">، تم ضغط %1$ld</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> log message when done converting a partition w/o checksum, substitutions: partition name </Description>
+      <Position>   (%1$@)</Position>
+      <TranslationSet>
+        <base loc="en">   (%1$@)</base>
+        <tran loc="ar">   (%1$@)</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> convert report: elapsed time </Description>
+      <Position>Elapsed Time: %1$s</Position>
+      <TranslationSet>
+        <base loc="en">Elapsed Time: %1$s</base>
+        <tran loc="ar">الوقت المنقضي: %1$s</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> progress message when adding resources to segments </Description>
+      <Position>Adding resources\\U2026</Position>
+      <TranslationSet>
+        <base loc="en">Adding resources…</base>
+        <tran loc="ar">يتم الآن إضافة الموارد...</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> progress message when reporting results of checksumming a partition </Description>
+      <Position>%1$@: %2$@</Position>
+      <TranslationSet>
+        <base loc="en">%1$@: %2$@</base>
+        <tran loc="ar">%1$@: %2$@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> UDIF read-only compressed disk image format with bzip2 </Description>
+      <Position>UDIF read-only compressed (bzip2)</Position>
+      <TranslationSet>
+        <base loc="en">UDIF read-only compressed (bzip2)</base>
+        <tran loc="ar">UDIF للقراءة فقط مضغوط (bzip2)</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> compressed format with bzip2 </Description>
+      <Position>compressed (bzip2)</Position>
+      <TranslationSet>
+        <base loc="en">compressed (bzip2)</base>
+        <tran loc="ar">مضغوط (bzip2)</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> progress message when reading a partition, substitution: #1 partition name
+   progress message when reading a partition, substitution: partition name </Description>
+      <Position>Reading %1$@\\U2026</Position>
+      <TranslationSet>
+        <base loc="en">Reading %1$@…</base>
+        <tran loc="ar">يتم الآن قراءة %1$@...</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> type of disk image we create </Description>
+      <Position>read/write</Position>
+      <TranslationSet>
+        <base loc="en">read/write</base>
+        <tran loc="ar">قراءة/كتابة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> UDIF read-only compressed disk image format with zlib </Description>
+      <Position>UDIF read-only compressed (zlib)</Position>
+      <TranslationSet>
+        <base loc="en">UDIF read-only compressed (zlib)</base>
+        <tran loc="ar">UDIF للقراءة فقط مضغوط (zlib)</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> UDIF read-only compressed disk image format with lzma </Description>
+      <Position>UDIF read-only compressed (lzma)</Position>
+      <TranslationSet>
+        <base loc="en">UDIF read-only compressed (lzma)</base>
+        <tran loc="ar">‏(lzma) مضغوط للقراءة فقط UDIF</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> tag for restricted segments </Description>
+      <Position>[restricted segment]</Position>
+      <TranslationSet>
+        <base loc="en">[restricted segment]</base>
+        <tran loc="ar">[مقطع مقيد]</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> compressed format with ADC </Description>
+      <Position>compressed (ADC)</Position>
+      <TranslationSet>
+        <base loc="en">compressed (ADC)</base>
+        <tran loc="ar">مضغوط (ADC)</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> type of disk image we create </Description>
+      <Position>hybrid image (HFS+/ISO/UDF)</Position>
+      <TranslationSet>
+        <base loc="en">hybrid image (HFS+/ISO/UDF)</base>
+        <tran loc="ar">صورة مختلطة (HFS+/ISO/UDF)</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> convert report: sectors copied </Description>
+      <Position>, %1$ld copied</Position>
+      <TranslationSet>
+        <base loc="en">, %1$ld copied</base>
+        <tran loc="ar">، تم نسخ %1$ld</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> read-only format </Description>
+      <Position>read-only</Position>
+      <TranslationSet>
+        <base loc="en">read-only</base>
+        <tran loc="ar">للقراءة فقط</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> compressed format with lzma </Description>
+      <Position>compressed (lzma)</Position>
+      <TranslationSet>
+        <base loc="en">compressed (lzma)</base>
+        <tran loc="ar">‏(lzma) مضغوط</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> partition label for unidentified partition </Description>
+      <Position>partition %d</Position>
+      <TranslationSet>
+        <base loc="en">partition %d</base>
+        <tran loc="ar">القسم %d</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> UDIF read-only compressed disk image format with lzfse </Description>
+      <Position>UDIF read-only compressed (lzfse)</Position>
+      <TranslationSet>
+        <base loc="en">UDIF read-only compressed (lzfse)</base>
+        <tran loc="ar">‏(lzfse) مضغوط للقراءة فقط UDIF</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> progress message when checksumming a partition </Description>
+      <Position>Checksumming %1$@\\U2026</Position>
+      <TranslationSet>
+        <base loc="en">Checksumming %1$@…</base>
+        <tran loc="ar">يتم الآن إجراء مجموع اختباري على %1$@‎…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> compressed format with lzfse </Description>
+      <Position>compressed (lzfse)</Position>
+      <TranslationSet>
+        <base loc="en">compressed (lzfse)</base>
+        <tran loc="ar">‏(lzfse) مضغوط</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> type of disk image we create </Description>
+      <Position>DVD/CD master</Position>
+      <TranslationSet>
+        <base loc="en">DVD/CD master</base>
+        <tran loc="ar">صورة رئيسية لقرص CD/قرص DVD</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> progress message when user cancels checksumming a partition </Description>
+      <Position>%1$@: checksum canceled.</Position>
+      <TranslationSet>
+        <base loc="en">%1$@: checksum canceled.</base>
+        <tran loc="ar">%1$@: تم إلغاء المجموع الاختباري.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> UDIF CRC-32 image checksum </Description>
+      <Position>CRC-32 image checksum</Position>
+      <TranslationSet>
+        <base loc="en">CRC-32 image checksum</base>
+        <tran loc="ar">المجموع الاختباري لصورة CRC-32</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> convert report: file size, + checksum type and value </Description>
+      <Position>File size: %1$qd bytes, Checksum: %2$@ %3$@</Position>
+      <TranslationSet>
+        <base loc="en">File size: %1$qd bytes, Checksum: %2$@ %3$@</base>
+        <tran loc="ar">حجم الملف: %1$qd بايت، المجموع الاختباري: %2$@ %3$@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> complete format </Description>
+      <Position>entire device</Position>
+      <TranslationSet>
+        <base loc="en">entire device</base>
+        <tran loc="ar">الجهاز بالكامل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> UDIF read-only compressed disk image format with ADC </Description>
+      <Position>UDIF read-only compressed (ADC)</Position>
+      <TranslationSet>
+        <base loc="en">UDIF read-only compressed (ADC)</base>
+        <tran loc="ar">UDIF للقراءة فقط مضغوط (ADC)</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> partition name for DDM </Description>
+      <Position>Driver Descriptor Map</Position>
+      <TranslationSet>
+        <base loc="en">Driver Descriptor Map</base>
+        <tran loc="ar">مخطط واصف برنامج التشغيل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> convert report: sectors processed </Description>
+      <Position>Sectors processed: %1$qd</Position>
+      <TranslationSet>
+        <base loc="en">Sectors processed: %1$qd</base>
+        <tran loc="ar">الأقسام التي تمت معالجتها: %1$qd</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> progress message when checksumming a restricted segment </Description>
+      <Position>Checksumming restricted segment %1$d\\U2026</Position>
+      <TranslationSet>
+        <base loc="en">Checksumming restricted segment %1$d…</base>
+        <tran loc="ar">يتم الآن الحصول على المجموع الاختباري للمقطع المقيد %1$d‎...</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> log message when done converting a partition w/checksum, substitutions: short checksum name, checksum value, partition name </Description>
+      <Position>   (%1$@ %2$@: %3$@)</Position>
+      <TranslationSet>
+        <base loc="en">   (%1$@ %2$@: %3$@)</base>
+        <tran loc="ar">   (%1$@ %2$@: %3$@)</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> UDIF MD5 image checksum </Description>
+      <Position>MD5 image checksum</Position>
+      <TranslationSet>
+        <base loc="en">MD5 image checksum</base>
+        <tran loc="ar">المجموع الاختباري لصورة MD5</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>DiskImages/System/Library/PrivateFrameworks/DiskImages.framework/Versions/A/Resources/en.lproj/CFDiskWrappedDiskImage.strings</Filepath>
+    <TextItem>
+      <Description> CFDiskWrappedDiskImage disk image format description &lt;MASTER IMAGE FORMAT DESCRIPTION&gt; (part)  </Description>
+      <Position>%1$@ (wrapped with FDisk partition map)</Position>
+      <TranslationSet>
+        <base loc="en">%1$@ (wrapped with FDisk partition map)</base>
+        <tran loc="ar">%1$@ (التفاف باستخدام مخطط تقسيم FDisk)</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>DiskImages/System/Library/PrivateFrameworks/DiskImages.framework/Versions/A/Resources/en.lproj/CDiskImage.strings</Filepath>
+    <TextItem>
+      <Description> size reclaimed (1) out of max possible (2) when compacting disk image file </Description>
+      <Position>Reclaimed %1$@ out of %2$@ possible.</Position>
+      <TranslationSet>
+        <base loc="en">Reclaimed %1$@ out of %2$@ possible.</base>
+        <tran loc="ar">تم استرداد %1$@ من %2$@ كحد أقصى ممكن.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> BURN: Burn completed successfully </Description>
+      <Position>Burn completed successfully</Position>
+      <TranslationSet>
+        <base loc="en">Burn completed successfully</base>
+        <tran loc="ar">تم إنشاء القرص بنجاح</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> BURN: Finishing burn </Description>
+      <Position>Finishing burn</Position>
+      <TranslationSet>
+        <base loc="en">Finishing burn</base>
+        <tran loc="ar">إنهاء إنشاء القرص</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> format string when checksum is verified </Description>
+      <Position>verified   %1$@ %2$@</Position>
+      <TranslationSet>
+        <base loc="en">verified   %1$@ %2$@</base>
+        <tran loc="ar">‫تم التحقق من   %1$@ %2$@‬</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> unknown image format description string </Description>
+      <Position>&lt;unknown&gt;</Position>
+      <TranslationSet>
+        <base loc="en">&lt;unknown&gt;</base>
+        <tran loc="ar">&lt;غير معروف&gt;</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> progress message when reclaiming freespace in a disk image file </Description>
+      <Position>Reclaiming free space\\U2026</Position>
+      <TranslationSet>
+        <base loc="en">Reclaiming free space…</base>
+        <tran loc="ar">يتم الآن استرداد المساحة الخالية...</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> progress message when finishing compaction of a disk image file </Description>
+      <Position>Finishing compaction\\U2026</Position>
+      <TranslationSet>
+        <base loc="en">Finishing compaction…</base>
+        <tran loc="ar">يتم الآن إنهاء الضغط...</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> progress message when starting to compact a disk image file </Description>
+      <Position>Starting to compact\\U2026</Position>
+      <TranslationSet>
+        <base loc="en">Starting to compact…</base>
+        <tran loc="ar">يتم الآن بدء الضغط...</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> format string when checksum is calculated (but not verified) </Description>
+      <Position>calculated %1$@ %2$@</Position>
+      <TranslationSet>
+        <base loc="en">calculated %1$@ %2$@</base>
+        <tran loc="ar">تم حساب %1$@ %2$@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> BURN: message when verifying a burn </Description>
+      <Position>Verifying burn\\U2026</Position>
+      <TranslationSet>
+        <base loc="en">Verifying burn…</base>
+        <tran loc="ar">يتم الآن التحقق من إنشاء القرص...</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> message with burn is canceled </Description>
+      <Position>Burn was canceled.</Position>
+      <TranslationSet>
+        <base loc="en">Burn was canceled.</base>
+        <tran loc="ar">تم إلغاء إنشاء القرص.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> BURN: Burn failed </Description>
+      <Position>Burn failed</Position>
+      <TranslationSet>
+        <base loc="en">Burn failed</base>
+        <tran loc="ar">فشل إنشاء القرص</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> BURN: Writing track </Description>
+      <Position>Writing track</Position>
+      <TranslationSet>
+        <base loc="en">Writing track</base>
+        <tran loc="ar">كتابة المسار</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> BURN: Opening track </Description>
+      <Position>Opening track</Position>
+      <TranslationSet>
+        <base loc="en">Opening track</base>
+        <tran loc="ar">فتح المسار</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> BURN: Verifying burn </Description>
+      <Position>Verifying</Position>
+      <TranslationSet>
+        <base loc="en">Verifying</base>
+        <tran loc="ar">تحقق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> progress message subtitle when test burn in effect </Description>
+      <Position>[test burn]</Position>
+      <TranslationSet>
+        <base loc="en">[test burn]</base>
+        <tran loc="ar">[اختبار الإنشاء]</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> format string when checksum is invalid </Description>
+      <Position>calculated %1$@ %2$@, expected   %3$@ %4$@</Position>
+      <TranslationSet>
+        <base loc="en">calculated %1$@ %2$@, expected   %3$@ %4$@</base>
+        <tran loc="ar">تم حساب %1$@ %2$@، المتوقع   %3$@ %4$@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> BURN: Closing track </Description>
+      <Position>Closing track</Position>
+      <TranslationSet>
+        <base loc="en">Closing track</base>
+        <tran loc="ar">إغلاق المسار</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> message with burn verify is canceled </Description>
+      <Position>Verify was canceled.</Position>
+      <TranslationSet>
+        <base loc="en">Verify was canceled.</base>
+        <tran loc="ar">تم إلغاء التحقق.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> BURN: Closing session </Description>
+      <Position>Closing session</Position>
+      <TranslationSet>
+        <base loc="en">Closing session</base>
+        <tran loc="ar">إغلاق جلسة العمل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> format string when checksum is displayed (and not calculated or verified) </Description>
+      <Position>expected   %1$@ %2$@</Position>
+      <TranslationSet>
+        <base loc="en">expected   %1$@ %2$@</base>
+        <tran loc="ar">المتوقع   %1$@ %2$@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> BURN: Opening session </Description>
+      <Position>Opening session</Position>
+      <TranslationSet>
+        <base loc="en">Opening session</base>
+        <tran loc="ar">فتح جلسة العمل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> BURN: Preparing data for burn </Description>
+      <Position>Preparing data for burn</Position>
+      <TranslationSet>
+        <base loc="en">Preparing data for burn</base>
+        <tran loc="ar">إعداد البيانات لإنشائها على القرص</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>DiskImages/System/Library/PrivateFrameworks/DiskImages.framework/Versions/A/Resources/en.lproj/CNoneChecksum.strings</Filepath>
+    <TextItem>
+      <Description> name of checksum type when there is no checksum, i.e. nothing </Description>
+      <Position>none</Position>
+      <TranslationSet>
+        <base loc="en">none</base>
+        <tran loc="ar">لا شيء</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>DiskImages/System/Library/PrivateFrameworks/DiskImages.framework/Versions/A/Resources/en.lproj/DIErrors.strings</Filepath>
+    <TextItem>
+      <Description> errAuthorizationInteractionNotAllowed from Authorization.h -60007 </Description>
+      <Position>user interaction required for authorization</Position>
+      <TranslationSet>
+        <base loc="en">user interaction required for authorization</base>
+        <tran loc="ar">تفاعل المستخدم مطلوب للتخويل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> DiskImages.framework error 118 </Description>
+      <Position>encrypted images are disabled</Position>
+      <TranslationSet>
+        <base loc="en">encrypted images are disabled</base>
+        <tran loc="ar">تم تعطيل الصور المشفرة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> DiskImages.framework error 107 </Description>
+      <Position>corrupt image</Position>
+      <TranslationSet>
+        <base loc="en">corrupt image</base>
+        <tran loc="ar">صورة تالفة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> DiskImages.framework error 119 </Description>
+      <Position>framework not initialized</Position>
+      <TranslationSet>
+        <base loc="en">framework not initialized</base>
+        <tran loc="ar">لم تتم تهيئة إطار العمل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> DiskImages.framework error 114 </Description>
+      <Position>wake failed</Position>
+      <TranslationSet>
+        <base loc="en">wake failed</base>
+        <tran loc="ar">فشل التنبيه</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> DiskImages.framework error 108 </Description>
+      <Position>missing plugin</Position>
+      <TranslationSet>
+        <base loc="en">missing plugin</base>
+        <tran loc="ar">مكوّن إضافي مفقود</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> fsDSIntErr from MacErrors.h, used for corrupt wrapper -127 </Description>
+      <Position>internal file system error</Position>
+      <TranslationSet>
+        <base loc="en">internal file system error</base>
+        <tran loc="ar">خطأ داخلي في نظام الملفات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> DiskImages.framework error 109 </Description>
+      <Position>missing segment</Position>
+      <TranslationSet>
+        <base loc="en">missing segment</base>
+        <tran loc="ar">مقطع مفقود</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> DiskImages.framework error 110 </Description>
+      <Position>image not recognized</Position>
+      <TranslationSet>
+        <base loc="en">image not recognized</base>
+        <tran loc="ar">لم يتم التعرف على الصورة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> DiskImages.framework codec error 1001 </Description>
+      <Position>decompression error</Position>
+      <TranslationSet>
+        <base loc="en">decompression error</base>
+        <tran loc="ar">خطأ في فك الضغط</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> DiskImages.framework codec error 1000 </Description>
+      <Position>image data corrupted</Position>
+      <TranslationSet>
+        <base loc="en">image data corrupted</base>
+        <tran loc="ar">بيانات الصورة تالفة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> DiskImages.framework error 999 </Description>
+      <Position>internal error</Position>
+      <TranslationSet>
+        <base loc="en">internal error</base>
+        <tran loc="ar">خطأ داخلي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> DiskImages.framework error 115 </Description>
+      <Position>image/device is too large</Position>
+      <TranslationSet>
+        <base loc="en">image/device is too large</base>
+        <tran loc="ar">الصورة/الجهاز كبير للغاية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> DiskImages.framework error 112 </Description>
+      <Position>no mountable file systems</Position>
+      <TranslationSet>
+        <base loc="en">no mountable file systems</base>
+        <tran loc="ar">لا توجد أنظمة ملفات قابلة للتحميل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> DiskImages.framework error 122 </Description>
+      <Position>HTTP server: ranges not supported</Position>
+      <TranslationSet>
+        <base loc="en">HTTP server: ranges not supported</base>
+        <tran loc="ar">خادم HTTP: النطاقات غير مدعومة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> DiskImages.framework error 116 </Description>
+      <Position>invalid checksum</Position>
+      <TranslationSet>
+        <base loc="en">invalid checksum</base>
+        <tran loc="ar">مجموع اختباري غير صالح</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> DiskImages.framework error 117 </Description>
+      <Position>user skipped operation</Position>
+      <TranslationSet>
+        <base loc="en">user skipped operation</base>
+        <tran loc="ar">قام المستخدم بتخطي العملية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> DiskImages.framework error 120 </Description>
+      <Position>one volume per image assumed</Position>
+      <TranslationSet>
+        <base loc="en">one volume per image assumed</base>
+        <tran loc="ar">تم افتراض وحدة تخزين واحدة لكل صورة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> DiskImages.framework error 113 </Description>
+      <Position>sleep canceled</Position>
+      <TranslationSet>
+        <base loc="en">sleep canceled</base>
+        <tran loc="ar">تم إلغاء الإسبات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> DiskImages.framework error 123 </Description>
+      <Position>legacy image should be converted</Position>
+      <TranslationSet>
+        <base loc="en">legacy image should be converted</base>
+        <tran loc="ar">يجب تحويل الصورة القديمة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> DiskImages.framework error 111 </Description>
+      <Position>user canceled operation</Position>
+      <TranslationSet>
+        <base loc="en">user canceled operation</base>
+        <tran loc="ar">قام المستخدم بإلغاء العملية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> DiskImages.framework error 121 </Description>
+      <Position>image no longer available</Position>
+      <TranslationSet>
+        <base loc="en">image no longer available</base>
+        <tran loc="ar">لم تعد الصورة متوفرة</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>DiskImages/System/Library/PrivateFrameworks/DiskImages.framework/Versions/A/Resources/en.lproj/CBSDBackingStore.strings</Filepath>
+    <TextItem>
+      <Description> name of plugin/module </Description>
+      <Position>BSD backing store</Position>
+      <TranslationSet>
+        <base loc="en">BSD backing store</base>
+        <tran loc="ar">مخزن BSD المساعد</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>DiskImages/System/Library/PrivateFrameworks/DiskImages.framework/Versions/A/Resources/en.lproj/CRAMBackingStore.strings</Filepath>
+    <TextItem>
+      <Description> name of plugin/module </Description>
+      <Position>RAM backing store</Position>
+      <TranslationSet>
+        <base loc="en">RAM backing store</base>
+        <tran loc="ar">المخزن المساعد لذاكرة RAM</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>DiskImages/System/Library/PrivateFrameworks/DiskImages.framework/Versions/A/Resources/en.lproj/CSegmentedToastEncoding.strings</Filepath>
+    <TextItem>
+      <Description> name of plugin/module </Description>
+      <Position>segmented Toast encoding</Position>
+      <TranslationSet>
+        <base loc="en">segmented Toast encoding</base>
+        <tran loc="ar">ترميز Toast المقسم إلى مقاطع</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>DiskImages/System/Library/PrivateFrameworks/DiskImages.framework/Versions/A/Resources/en.lproj/CAppleWrappedDiskImage.strings</Filepath>
+    <TextItem>
+      <Description> CAppleWrappedDiskImage disk image format description &lt;MASTER IMAGE FORMAT DESCRIPTION&gt; (part)  </Description>
+      <Position>%1$@ (wrapped with Apple Partition Map)</Position>
+      <TranslationSet>
+        <base loc="en">%1$@ (wrapped with Apple Partition Map)</base>
+        <tran loc="ar">%1$@ (التفاف باستخدام Apple Partition Map)</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>DiskImages/System/Library/PrivateFrameworks/DiskImages.framework/Versions/A/Resources/en.lproj/CVectoredBackingStore.strings</Filepath>
+    <TextItem>
+      <Description> name of plugin/module </Description>
+      <Position>vectored backing store</Position>
+      <TranslationSet>
+        <base loc="en">vectored backing store</base>
+        <tran loc="ar">المخزن المساعد المتِّجه</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>DiskImages/System/Library/PrivateFrameworks/DiskImages.framework/Versions/A/Resources/en.lproj/CCURLBackingStore.strings</Filepath>
+    <TextItem>
+      <Description> name of plugin/module </Description>
+      <Position>CURL backing store</Position>
+      <TranslationSet>
+        <base loc="en">CURL backing store</base>
+        <tran loc="ar">مخزن CURL المساعد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> passphrase panel: password field title </Description>
+      <Position>Password:</Position>
+      <TranslationSet>
+        <base loc="en">Password:</base>
+        <tran loc="ar">كلمة السر:</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> passphrase panel: ok button </Description>
+      <Position>OK</Position>
+      <TranslationSet>
+        <base loc="en">OK</base>
+        <tran loc="ar">موافق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> passphrase panel: cancel button </Description>
+      <Position>Cancel</Position>
+      <TranslationSet>
+        <base loc="en">Cancel</base>
+        <tran loc="ar">إلغاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> passphrase panel: username field title </Description>
+      <Position>User:</Position>
+      <TranslationSet>
+        <base loc="en">User:</base>
+        <tran loc="ar">المستخدم:</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> passphrase panel: header title - parameter is hostname </Description>
+      <Position>Authentication required to access \"%1$@\".</Position>
+      <TranslationSet>
+        <base loc="en">Authentication required to access \"%1$@\".</base>
+        <tran loc="ar">يجب إجراء المصادقة للوصول إلى \"%1$@\".</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>DiskImages/System/Library/PrivateFrameworks/DiskImages.framework/Versions/A/Resources/en.lproj/CEncryptedEncoding.strings</Filepath>
+    <TextItem>
+      <Description> Prompt for password when mounting an existing Disk Image.  %1$@ is replaced with the filename of the Disk Image. </Description>
+      <Position>Enter password to access %1$@</Position>
+      <TranslationSet>
+        <base loc="en">Enter password to access %1$@</base>
+        <tran loc="ar">إدخال كلمة السر للوصول إلى %1$@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Prompt for password when changing passphrase on an encrypted Disk Image.  %1$@ is replaced with the filename of the Disk Image.
+   Prompt for password when creating a new Disk Image.  %1$@ is replaced with the filename of the Disk Image. </Description>
+      <Position>Enter a new password to secure %1$@. If you forget this password you will not be able to access the files stored on this image. Forgotten passwords cannot be retrieved.</Position>
+      <TranslationSet>
+        <base loc="en">Enter a new password to secure %1$@. If you forget this password you will not be able to access the files stored on this image. Forgotten passwords cannot be retrieved.</base>
+        <tran loc="ar">أدخل كلمة سر جديدة لتأمين %1$@. إذا نسيت كلمة السر، فلن تتمكن من الوصول إلى الملفات المخزنة على هذه الصورة. لا يمكن استرداد كلمات السر التي تم نسيانها.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> TTY Prompt for password when creating a new Disk Image.  %1$@ is replaced with the filename of the Disk Image. </Description>
+      <Position>Enter a new password to secure \"%1$@\": </Position>
+      <TranslationSet>
+        <base loc="en">Enter a new password to secure \"%1$@\": </base>
+        <tran loc="ar">أدخل كلمة سر جديدة لتأمين \"%1$@\": </tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> name of AES-256 plugin/module </Description>
+      <Position>256-bit AES encryption (more secure, but slower)</Position>
+      <TranslationSet>
+        <base loc="en">256-bit AES encryption (more secure, but slower)</base>
+        <tran loc="ar">تشفير AES 256- بت (أكثر أمانًا، ولكن أبطأ)</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Re-prompt for password when mounting an existing Disk Image.  %1$@ is replaced with the filename of the Disk Image. </Description>
+      <Position>Try again - please enter password to access the files on %1$@</Position>
+      <TranslationSet>
+        <base loc="en">Try again - please enter password to access the files on %1$@</base>
+        <tran loc="ar">حاول مرة أخرى - الرجاء إدخال كلمة السر اللازمة للوصول إلى الملفات الموجودة على %1$@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> string for non-standard encryption-class </Description>
+      <Position>(CSSM non-standard algorithm)</Position>
+      <TranslationSet>
+        <base loc="en">(CSSM non-standard algorithm)</base>
+        <tran loc="ar">(خوارزمية غير قياسية CSSM)</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> TTY Prompt for confirming password. </Description>
+      <Position>Re-enter new password: </Position>
+      <TranslationSet>
+        <base loc="en">Re-enter new password: </base>
+        <tran loc="ar">أعد إدخال كلمة السر الجديدة: </tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> description for keychain entries </Description>
+      <Position>disk image password</Position>
+      <TranslationSet>
+        <base loc="en">disk image password</base>
+        <tran loc="ar">كلمة سر صورة القرص</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> name of plugin/module </Description>
+      <Position>128-bit AES encryption (recommended)</Position>
+      <TranslationSet>
+        <base loc="en">128-bit AES encryption (recommended)</base>
+        <tran loc="ar">تشفير AES 128- بت (مستحسن)</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> TTY Warning when passwords don't match. </Description>
+      <Position>Passwords must match.</Position>
+      <TranslationSet>
+        <base loc="en">Passwords must match.</base>
+        <tran loc="ar">يجب أن تكون كلمتا السر متطابقتين.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> TTY Prompt for password when mounting an existing Disk Image.  %1$@ is replaced with the filename of the Disk Image. </Description>
+      <Position>Enter password to access \"%1$@\": </Position>
+      <TranslationSet>
+        <base loc="en">Enter password to access \"%1$@\": </base>
+        <tran loc="ar">إدخال كلمة السر للوصول إلى \"%1$@\": </tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>DiskImages/System/Library/PrivateFrameworks/DiskImages.framework/Versions/A/Resources/en.lproj/CDiskImageObject.strings</Filepath>
+    <TextItem>
+      <Description> and </Description>
+      <Position>and</Position>
+      <TranslationSet>
+        <base loc="en">and</base>
+        <tran loc="ar">و</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+</Proj>

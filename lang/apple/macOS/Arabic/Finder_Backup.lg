@@ -1,0 +1,342 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Proj>
+  <ProjName>Finder_Backup</ProjName>
+  <File>
+    <Filepath>Finder_Backup/System/Library/PrivateFrameworks/Backup.framework/Versions/A/Resources/en.lproj/Localizable.strings</Filepath>
+    <TextItem>
+      <Description> rItemCountTemplateStrings</Description>
+      <Position>U_COUNT_R1</Position>
+      <TranslationSet>
+        <base loc="en">=0</base>
+        <tran loc="ar">=٠</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> rAboutADayString - Template displaying an approximate time remaining, when more than 23 hours, but less than 36</Description>
+      <Position>U25.1</Position>
+      <TranslationSet>
+        <base loc="en">About a day</base>
+        <tran loc="ar">حوالي يوم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> rTruncateMiddleEllipsis</Description>
+      <Position>U18</Position>
+      <TranslationSet>
+        <base loc="en">…</base>
+        <tran loc="ar">…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description>
+	File:	DateFormatter.strings
+
+	Contains:	Localizable strings for Date formatting in the Finder
+	Copyright:	© 2013-2019 by Apple Inc., all rights reserved.
+
+ Notes for localizers:
+ This date format is intended to match the ScreenCapture date format used
+ in SystemUIServer.
+ Consistent with the SystemUIServer localization, there are four items to localize:
+ 1. The date format yyyy-MM-dd.		(SystemUIServer ScreenCapture key: yyyy-MM-dd)
+ 2. The '-' separator					(SystemUIServer ScreenCapture key: -)
+ 3. The '.' separator					(SystemUIServer ScreenCapture key: .)
+ 4. 'at' - the ' should remain		(SystemUIServer ScreenCapture key: %@ %@ at %@)</Description>
+      <Position>DATE_FORMATTER1</Position>
+      <TranslationSet>
+        <base loc="en">yyyy-MM-dd 'at' h.mm.ss a</base>
+        <tran loc="ar">‏yyyy-MM-dd \"الساعة\" h.mm.ss a</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> rEstimatedDurationDaysTemplate - Template displaying an approximate time remaining, in days &gt;1</Description>
+      <Position>U26.1</Position>
+      <TranslationSet>
+        <base loc="en">About ^0 days</base>
+        <tran loc="ar">حوالي ^0 من الأيام</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> rBackupTimeline</Description>
+      <Position>BUF27</Position>
+      <TranslationSet>
+        <base loc="en">Backup Timeline</base>
+        <tran loc="ar">المخطط الزمني للنسخ الاحتياطي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> rMinuteDurationTemplate - Template used to display an exact duration in seconds</Description>
+      <Position>U35</Position>
+      <TranslationSet>
+        <base loc="en">^0 min</base>
+        <tran loc="ar">^0 من الدقائق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> rMSDurationTemplate</Description>
+      <Position>U29</Position>
+      <TranslationSet>
+        <base loc="en">^0m^1s</base>
+        <tran loc="ar">^0د^1ث</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Timeline "Today (Now)" marker label
+ rBackupTimelineTodayNowMarkerLabel</Description>
+      <Position>BUF20</Position>
+      <TranslationSet>
+        <base loc="en">Today (Now)</base>
+        <tran loc="ar">اليوم (الآن)</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Timeline "Yesterday" marker label
+ rBackupTimelineYesterdayMarkerLabel</Description>
+      <Position>BUF18</Position>
+      <TranslationSet>
+        <base loc="en">Yesterday</base>
+        <tran loc="ar">أمس</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>U_COUNT_V3</Position>
+      <TranslationSet>
+        <base loc="en">^0 items</base>
+        <tran loc="ar">^0 من العناصر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>U_COUNT_V1</Position>
+      <TranslationSet>
+        <base loc="en">No items</base>
+        <tran loc="ar">بلا عناصر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> rEstimatedDurationHoursTemplate - Template displaying an approximate time remaining, in hours &gt;1</Description>
+      <Position>U26</Position>
+      <TranslationSet>
+        <base loc="en">About ^0 hours</base>
+        <tran loc="ar">حوالي ^0 ساعة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description>
+	File:		FString.strings
+
+	Contains:	Localizable strings
+	Copyright:	© 2003-2019 by Apple Inc., all rights reserved.
+
+ rNoDateString</Description>
+      <Position>U12</Position>
+      <TranslationSet>
+        <base loc="en">--</base>
+        <tran loc="ar">--</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description>	File:		BackupFramework.strings
+	Old Log:	&lt;http://svn.apple.com/trac/Backup/browser/BackupFramework/Browser/English.lproj/Backup.strings?rev=2865&gt;
+	Contains:	Localizable strings for the BackupFramework TM UI.
+	Copyright:	© 2007-2019 by Apple Inc., all rights reserved.
+ Cancel button title
+ rBackupCancel</Description>
+      <Position>BUF9</Position>
+      <TranslationSet>
+        <base loc="en">Cancel</base>
+        <tran loc="ar">إلغاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> rNoString</Description>
+      <Position>U33</Position>
+      <TranslationSet>
+        <base loc="en">No</base>
+        <tran loc="ar">لا</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> rEstimatedDurationMinutesTemplate - Template displaying an approximate time remaining, in minutes &gt;1</Description>
+      <Position>U24</Position>
+      <TranslationSet>
+        <base loc="en">About ^0 minutes</base>
+        <tran loc="ar">حوالي ^0 دقيقة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> rLessThanAMinuteString - Template displaying an approximate time remaining, when &lt;= 50 seconds</Description>
+      <Position>U22</Position>
+      <TranslationSet>
+        <base loc="en">Less than a minute</base>
+        <tran loc="ar">أقل من دقيقة واحدة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>U_COUNT_R2</Position>
+      <TranslationSet>
+        <base loc="en">=1</base>
+        <tran loc="ar">=1</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> rHourMinSecDurationTemplate - Template used to display an exact duration in hours, minutes and seconds</Description>
+      <Position>U28</Position>
+      <TranslationSet>
+        <base loc="en">^0:^1:^2</base>
+        <tran loc="ar">^0:^1:^2</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Show Changed Items Only checkbox title
+ rChangedItems</Description>
+      <Position>BUF10</Position>
+      <TranslationSet>
+        <base loc="en">Highlight Changes</base>
+        <tran loc="ar">تمييز التغييرات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> rBackupControls</Description>
+      <Position>BUF30</Position>
+      <TranslationSet>
+        <base loc="en">Time Machine Controls</base>
+        <tran loc="ar">عناصر التحكم بـ Time Machine</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> rAboutSomeSecondsTemplate - Template displaying an approximate time remaining, when &lt;= 6 or &lt;= 12 seconds</Description>
+      <Position>U20</Position>
+      <TranslationSet>
+        <base loc="en">About ^0 seconds</base>
+        <tran loc="ar">حوالي ^0 من الثواني</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Restore All button title
+ rRestoreAll</Description>
+      <Position>BUF11</Position>
+      <TranslationSet>
+        <base loc="en">Restore All</base>
+        <tran loc="ar">استعادة الكل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Timeline "Today" marker label
+ rBackupTimelineTodayMarkerLabel</Description>
+      <Position>BUF17</Position>
+      <TranslationSet>
+        <base loc="en">Today</base>
+        <tran loc="ar">اليوم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>U_COUNT_V2</Position>
+      <TranslationSet>
+        <base loc="en">^0 item</base>
+        <tran loc="ar">^0 من العناصر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> rSecondsDurationTemplate - Template used to display an exact duration in seconds</Description>
+      <Position>U34</Position>
+      <TranslationSet>
+        <base loc="en">^0 sec</base>
+        <tran loc="ar">من الثواني ^0</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> rMinSecDurationTemplate - Template used to display an exact duration in minutes and seconds</Description>
+      <Position>U27</Position>
+      <TranslationSet>
+        <base loc="en">^0:^1</base>
+        <tran loc="ar">^0:^1</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> rListSeparatorString</Description>
+      <Position>U31</Position>
+      <TranslationSet>
+        <base loc="en">, </base>
+        <tran loc="ar">،</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Restore button title
+ rRestore</Description>
+      <Position>BUF12</Position>
+      <TranslationSet>
+        <base loc="en">Restore</base>
+        <tran loc="ar">استعادة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> rYesString</Description>
+      <Position>U32</Position>
+      <TranslationSet>
+        <base loc="en">Yes</base>
+        <tran loc="ar">نعم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> rAboutAMinuteString - Template displaying an approximate time remaining, when less than 90 seconds</Description>
+      <Position>U23</Position>
+      <TranslationSet>
+        <base loc="en">About a minute</base>
+        <tran loc="ar">حوالي دقيقة واحدة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> rFreeSpaceTemplate</Description>
+      <Position>U41</Position>
+      <TranslationSet>
+        <base loc="en">^0 (^1 purgeable)</base>
+        <tran loc="ar">^0 (^1 قابلة للتنظيف)</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> rPreviewKindAndStringTemplate</Description>
+      <Position>U40</Position>
+      <TranslationSet>
+        <base loc="en">^0 - ^1</base>
+        <tran loc="ar">‏^0 - ‏^1</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Timeline "Now" marker label
+ rBackupTimelineNowMarkerLabel</Description>
+      <Position>BUF19</Position>
+      <TranslationSet>
+        <base loc="en">Now</base>
+        <tran loc="ar">الآن</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> rHMSDurationTemplate</Description>
+      <Position>U30</Position>
+      <TranslationSet>
+        <base loc="en">^0h^1m^2s</base>
+        <tran loc="ar">^0س^1د^2ث</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> rAboutAnHourString - Template displaying an approximate time remaining, when more than 55 minutes, but less than 90</Description>
+      <Position>U25</Position>
+      <TranslationSet>
+        <base loc="en">About an hour</base>
+        <tran loc="ar">حوالي ساعة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> rHourDurationTemplate - Template used to display an exact duration in seconds</Description>
+      <Position>U36</Position>
+      <TranslationSet>
+        <base loc="en">^0 h</base>
+        <tran loc="ar">^0 من الساعات</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+</Proj>

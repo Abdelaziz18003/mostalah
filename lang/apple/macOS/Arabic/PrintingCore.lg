@@ -1,0 +1,5473 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Proj>
+  <ProjName>PrintingCore</ProjName>
+  <File>
+    <Filepath>PrintingCore/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/PrintCore.framework/Versions/A/Resources/en.lproj/cgpdftoraster.strings</Filepath>
+    <TextItem>
+      <Description> Write error. </Description>
+      <Position>Unable to write print data.</Position>
+      <TranslationSet>
+        <base loc="en">Unable to write print data.</base>
+        <tran loc="ar">غير قادر على كتابة بيانات الطباعة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Input URL error. </Description>
+      <Position>Can't get url for \"%s.\"</Position>
+      <TranslationSet>
+        <base loc="en">Can’t get url for “%s.”</base>
+        <tran loc="ar">لا يمكن الحصول على عنوان url لـ \"%s\".</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Cover page open error. </Description>
+      <Position>Can't open \"%s.\" as a PDF cover page document.</Position>
+      <TranslationSet>
+        <base loc="en">Can’t open “%s.” as a PDF cover page document.</base>
+        <tran loc="ar">لا يمكن فتح \"%s\" كمستند صفحة غلاف PDF.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Unsupported color space. </Description>
+      <Position>Unsupported colorspace = %d.</Position>
+      <TranslationSet>
+        <base loc="en">Unsupported colorspace = %d.</base>
+        <tran loc="ar">مساحة لون غير مدعومة = %d.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Image processing allocation error. </Description>
+      <Position>%s: Unable to allocate memory for image processing.</Position>
+      <TranslationSet>
+        <base loc="en">%s: Unable to allocate memory for image processing.</base>
+        <tran loc="ar">‏%s: غير قادر على تخصيص ذاكرة لمعالجة الصور.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Session startup error. </Description>
+      <Position>Unable to startup session, error = %d.</Position>
+      <TranslationSet>
+        <base loc="en">Unable to startup session, error = %d.</base>
+        <tran loc="ar">غير قادر على بدء تشغيل الجلسة، خطأ = %d.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> unhandled layout direction. </Description>
+      <Position>The layout direction, %d, could not be used.</Position>
+      <TranslationSet>
+        <base loc="en">The layout direction, %d, could not be used.</base>
+        <tran loc="ar">تعذر استخدام اتجاه التخطيط، %d.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Cover page creation error. </Description>
+      <Position>Can't get url for \"%s.\" Probably a cover page creation error.</Position>
+      <TranslationSet>
+        <base loc="en">Can’t get url for “%s.” Probably a cover page creation error.</base>
+        <tran loc="ar">لا يمكن الحصول على عنوان url لـ \"%s\". ربما هناك خطأ في إنشاء صفحة الغلاف.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No PDF pages error. </Description>
+      <Position>\"%s\" contains no pages.</Position>
+      <TranslationSet>
+        <base loc="en">“%s” contains no pages.</base>
+        <tran loc="ar">لا يحتوي \"%s\" على أي صفحات.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> End of page. </Description>
+      <Position>Finished page %@.</Position>
+      <TranslationSet>
+        <base loc="en">Finished page %@.</base>
+        <tran loc="ar">نهاية الصفحة %@.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Banding termination error. </Description>
+      <Position>%s: Can't terminate banding.</Position>
+      <TranslationSet>
+        <base loc="en">%s: Can’t terminate banding.</base>
+        <tran loc="ar">‏%s: لا يمكن إنهاء التباين.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> invalid nUp value </Description>
+      <Position>The pages per sheet value is invalid.</Position>
+      <TranslationSet>
+        <base loc="en">The pages per sheet value is invalid.</base>
+        <tran loc="ar">قيمة الصفحات في الورقة غير صالحة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Initialize banding error. </Description>
+      <Position>%s: Unable to initialize banding.</Position>
+      <TranslationSet>
+        <base loc="en">%s: Unable to initialize banding.</base>
+        <tran loc="ar">‏%s: تعذرت تهيئة التباين.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Start of fax cover page. </Description>
+      <Position>Starting cover page.</Position>
+      <TranslationSet>
+        <base loc="en">Starting cover page.</base>
+        <tran loc="ar">بدء صفحة الغلاف.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Program usage. </Description>
+      <Position>Usage: %s job-id user title copies options [file]</Position>
+      <TranslationSet>
+        <base loc="en">Usage: %s job-id user title copies options [file]</base>
+        <tran loc="ar">الاستخدام: %s job-id خيارات نسخ عنوان مستخدم معرّف المهمة [الملف]</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Copy input PDF error. </Description>
+      <Position>Unable to copy input PDF file.</Position>
+      <TranslationSet>
+        <base loc="en">Unable to copy input PDF file.</base>
+        <tran loc="ar">غير قادر على نسخ ملف PDF الإدخال.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Cover page script execution error. </Description>
+      <Position>Execution of cover page script generated error = \"%s.\"</Position>
+      <TranslationSet>
+        <base loc="en">Execution of cover page script generated error = “%s.””</base>
+        <tran loc="ar">أدى تنفيذ النص البرمجي لصفحة الغلاف إلى خطأ = \"%s\"\".</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Display list context error. </Description>
+      <Position>%s: Couldn't create display list context.</Position>
+      <TranslationSet>
+        <base loc="en">%s: Couldn’t create display list context.</base>
+        <tran loc="ar">‏%s: تعذر إنشاء سياق لقائمة العرض.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> End of fax cover page. </Description>
+      <Position>Finished cover page.</Position>
+      <TranslationSet>
+        <base loc="en">Finished cover page.</base>
+        <tran loc="ar">انتهت صفحة الغلاف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Raster context creation error. </Description>
+      <Position>%s: Couldn't create raster context for rendering.</Position>
+      <TranslationSet>
+        <base loc="en">%s: Couldn’t create raster context for rendering.</base>
+        <tran loc="ar">‏%s: تعذر إنشاء سياق المخطط النقطي للعرض.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Start of page. </Description>
+      <Position>Starting page %@.</Position>
+      <TranslationSet>
+        <base loc="en">Starting page %@.</base>
+        <tran loc="ar">بداية الصفحة %@.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Image processing error. </Description>
+      <Position>Can't perform image processing, error = %d.</Position>
+      <TranslationSet>
+        <base loc="en">Can’t perform image processing, error = %d.</base>
+        <tran loc="ar">لا يمكن إجراء معالجة للصور، خطأ = %d.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Initialize error. </Description>
+      <Position>%s: Initialize call failed.</Position>
+      <TranslationSet>
+        <base loc="en">%s: Initialize call failed.</base>
+        <tran loc="ar">‏%s: فشلت تهيئة المكالمة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> PDF permission error. </Description>
+      <Position>\"%s\" has permissions that do not allow printing.</Position>
+      <TranslationSet>
+        <base loc="en">“%s” has permissions that do not allow printing.</base>
+        <tran loc="ar">يحتوي \"%s\" على أذون لا تسمح بالطباعة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Cover page temp file error. </Description>
+      <Position>Unable to create temporary file for cover page.</Position>
+      <TranslationSet>
+        <base loc="en">Unable to create temporary file for cover page.</base>
+        <tran loc="ar">غير قادر على إنشاء ملف مؤقت لصفحة الغلاف.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> cupsRasterInterpretPPD error. </Description>
+      <Position>'cupsRasterInterpretPPD' had an error = %s.</Position>
+      <TranslationSet>
+        <base loc="en">‘cupsRasterInterpretPPD’ had an error = %s.</base>
+        <tran loc="ar">وجد خطأ في ‘cupsRasterInterpretPPD’ = ‏%s.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Can't create CFString </Description>
+      <Position>Can't create CFString.</Position>
+      <TranslationSet>
+        <base loc="en">Can’t create CFString.</base>
+        <tran loc="ar">لا يمكن إنشاء CFString.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Library load error. </Description>
+      <Position>%s: Can't load necessary resources.</Position>
+      <TranslationSet>
+        <base loc="en">%s: Can’t load necessary resources.</base>
+        <tran loc="ar">‏%s: لا يمكن تحميل الموارد اللازمة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Input file read error. </Description>
+      <Position>Can't open \"%s.\"</Position>
+      <TranslationSet>
+        <base loc="en">Can’t open “%s.”</base>
+        <tran loc="ar">لا يمكن فتح \"%s\".</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Unsupported number-up value. </Description>
+      <Position>number-up value of %d is unsupported.</Position>
+      <TranslationSet>
+        <base loc="en">number-up value of %d is unsupported.</base>
+        <tran loc="ar">قيمة number-up لـ %d غير مدعومة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Read pixels failed. </Description>
+      <Position>Reading pixels failed (%d).</Position>
+      <TranslationSet>
+        <base loc="en">Reading pixels failed (%d).</base>
+        <tran loc="ar">فشلت قراءة البكسل (%d).</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Can't create CFURL </Description>
+      <Position>Can't create CFURL.</Position>
+      <TranslationSet>
+        <base loc="en">Can’t create CFURL.</base>
+        <tran loc="ar">لا يمكن إنشاء CFURL.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Colorspace creation failure. </Description>
+      <Position>Couldn't create %s colorspace.</Position>
+      <TranslationSet>
+        <base loc="en">Couldn’t create %s colorspace.</base>
+        <tran loc="ar">تعذر إنشاء مساحة لون %s.</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>PrintingCore/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/PrintCore.framework/Versions/A/Resources/en.lproj/Localizable.strings</Filepath>
+    <TextItem>
+      <Description> R </Description>
+      <Position>iso_ra0_860x1220mm</Position>
+      <TranslationSet>
+        <base loc="en">RA0</base>
+        <tran loc="ar">RA0</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> RGB CM Profile - PPD_CS_RGB </Description>
+      <Position>RGB</Position>
+      <TranslationSet>
+        <base loc="en">RGB</base>
+        <tran loc="ar">RGB</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Folio</Position>
+      <TranslationSet>
+        <base loc="en">Folio</base>
+        <tran loc="ar">Folio</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>folio</Position>
+      <TranslationSet>
+        <base loc="en">Folio</base>
+        <tran loc="ar">Folio</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>c9 (envelope)</Position>
+      <TranslationSet>
+        <base loc="en"> Envelope C9</base>
+        <tran loc="ar"> مغلف C9</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>FanFoldUS</Position>
+      <TranslationSet>
+        <base loc="en">14.8 x 11</base>
+        <tran loc="ar">‏١٤,٨ x ١١</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DoublePostcardRotated</Position>
+      <TranslationSet>
+        <base loc="en">Postcard Double Long Edge</base>
+        <tran loc="ar">بطاقة بريدية مزدوجة حافة طويلة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ARCHA.Transverse</Position>
+      <TranslationSet>
+        <base loc="en">Letter Oversize Long Edge</base>
+        <tran loc="ar">Letter Oversize Long Edge</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Preset to print photos with the paper type being auto-detected. </Description>
+      <Position>Photo</Position>
+      <TranslationSet>
+        <base loc="en">Photo</base>
+        <tran loc="ar">صورة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Photo4x6</Position>
+      <TranslationSet>
+        <base loc="en">Photo</base>
+        <tran loc="ar">صورة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>EnvPersonal</Position>
+      <TranslationSet>
+        <base loc="en">Envelope Personal</base>
+        <tran loc="ar">Envelope Personal</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>EnvPRC3Rotated</Position>
+      <TranslationSet>
+        <base loc="en">Envelope PRC3 Long Edge</base>
+        <tran loc="ar">Envelope PRC3 Long Edge</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>iso_a2x3_594x1261mm</Position>
+      <TranslationSet>
+        <base loc="en">A2x3</base>
+        <tran loc="ar">A2x3</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Preset to print photos on high gloss paper with high quality </Description>
+      <Position>Photo on High Gloss Paper - Fine</Position>
+      <TranslationSet>
+        <base loc="en">Photo on High Gloss Paper - Fine</base>
+        <tran loc="ar">صورة على ورق شديد اللمعة - فاخرة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Local Raw Printer </Description>
+      <Position>Local Raw Printer</Position>
+      <TranslationSet>
+        <base loc="en">Local Raw Printer</base>
+        <tran loc="ar">طابعة أولية محلية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>w41h144</Position>
+      <TranslationSet>
+        <base loc="en">Hanging Folder</base>
+        <tran loc="ar">Hanging Folder</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Legal.Transverse</Position>
+      <TranslationSet>
+        <base loc="en">US Legal Long Edge</base>
+        <tran loc="ar">US Legal Long Edge</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>EnvISOB6</Position>
+      <TranslationSet>
+        <base loc="en">Envelope B6</base>
+        <tran loc="ar">Envelope B6</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>EnvC2</Position>
+      <TranslationSet>
+        <base loc="en">Envelope C2</base>
+        <tran loc="ar">Envelope C2</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>iso-c2</Position>
+      <TranslationSet>
+        <base loc="en">Envelope C2</base>
+        <tran loc="ar">Envelope C2</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>A1</Position>
+      <TranslationSet>
+        <base loc="en">A1</base>
+        <tran loc="ar">A1</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>iso-a1</Position>
+      <TranslationSet>
+        <base loc="en">A1</base>
+        <tran loc="ar">A1</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>EnvPRC9</Position>
+      <TranslationSet>
+        <base loc="en">Envelope PRC9</base>
+        <tran loc="ar">Envelope PRC9</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>EnvYou6</Position>
+      <TranslationSet>
+        <base loc="en">Envelope You6</base>
+        <tran loc="ar">Envelope You6</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>roc16k</Position>
+      <TranslationSet>
+        <base loc="en">ROC 16K</base>
+        <tran loc="ar">ROC 16K</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>iso_ra2_430x610mm</Position>
+      <TranslationSet>
+        <base loc="en">RA2</base>
+        <tran loc="ar">RA2</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>A3.Transverse</Position>
+      <TranslationSet>
+        <base loc="en">A3 Long Edge</base>
+        <tran loc="ar">A3 Long Edge</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>A3Rotated</Position>
+      <TranslationSet>
+        <base loc="en">A3 Long Edge</base>
+        <tran loc="ar">A3 Long Edge</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> CMYK CM Profile - PPD_CS_CMYK </Description>
+      <Position>CMYK</Position>
+      <TranslationSet>
+        <base loc="en">CMYK</base>
+        <tran loc="ar">CMYK</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>w153h198</Position>
+      <TranslationSet>
+        <base loc="en">3.5” Disk</base>
+        <tran loc="ar">قرص ٣,٥/ بوصة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> A borderless variant of a known paper size. The %1 
+ parameter is the known paper name. </Description>
+      <Position>%1$@ Borderless</Position>
+      <TranslationSet>
+        <base loc="en">%1$@ Borderless</base>
+        <tran loc="ar">%1$@ بلا حدود</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>jis_exec_216x330mm</Position>
+      <TranslationSet>
+        <base loc="en">JIS Executive</base>
+        <tran loc="ar">‏JIS تنفيذي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ARCHC</Position>
+      <TranslationSet>
+        <base loc="en">ARCH C</base>
+        <tran loc="ar">ARCH C</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>arch-c</Position>
+      <TranslationSet>
+        <base loc="en">ARCH C</base>
+        <tran loc="ar">ARCH C</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>EnvPRC9Rotated</Position>
+      <TranslationSet>
+        <base loc="en">Envelope PRC9 Long Edge</base>
+        <tran loc="ar">Envelope PRC9 Long Edge</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>A4Tab</Position>
+      <TranslationSet>
+        <base loc="en">A4 Tab</base>
+        <tran loc="ar">علامة تبويب A4</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Legal</Position>
+      <TranslationSet>
+        <base loc="en">US Legal</base>
+        <tran loc="ar">US Legal</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>na-legal</Position>
+      <TranslationSet>
+        <base loc="en">US Legal</base>
+        <tran loc="ar">US Legal</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ISOB10</Position>
+      <TranslationSet>
+        <base loc="en">B10</base>
+        <tran loc="ar">B10</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>iso-b10</Position>
+      <TranslationSet>
+        <base loc="en">B10</base>
+        <tran loc="ar">B10</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>A5Extra</Position>
+      <TranslationSet>
+        <base loc="en">A5 Oversize</base>
+        <tran loc="ar">A5 Oversize</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>B5.Transverse</Position>
+      <TranslationSet>
+        <base loc="en">JIS B5 Long Edge</base>
+        <tran loc="ar">JIS B5 Long Edge</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>B5Rotated</Position>
+      <TranslationSet>
+        <base loc="en">JIS B5 Long Edge</base>
+        <tran loc="ar">JIS B5 Long Edge</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Local System V Printer </Description>
+      <Position>Local System V Printer</Position>
+      <TranslationSet>
+        <base loc="en">Local System V Printer</base>
+        <tran loc="ar">طابعة محلية بنظام System V</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>EnvISOB4</Position>
+      <TranslationSet>
+        <base loc="en">Envelope B4</base>
+        <tran loc="ar">Envelope B4</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> ISO Envelopes </Description>
+      <Position>iso-b4-envelope</Position>
+      <TranslationSet>
+        <base loc="en">Envelope B4</base>
+        <tran loc="ar">Envelope B4</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>iso_a3x3_420x891mm</Position>
+      <TranslationSet>
+        <base loc="en">A3x3</base>
+        <tran loc="ar">A3x3</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>A3</Position>
+      <TranslationSet>
+        <base loc="en">A3</base>
+        <tran loc="ar">A3</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>iso-a3</Position>
+      <TranslationSet>
+        <base loc="en">A3</base>
+        <tran loc="ar">A3</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>na-10x14-envelope</Position>
+      <TranslationSet>
+        <base loc="en">Envelope 10 x 14</base>
+        <tran loc="ar">Envelope 10 x 14</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>EnvC0</Position>
+      <TranslationSet>
+        <base loc="en">Envelope C0</base>
+        <tran loc="ar">Envelope C0</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>iso-c0</Position>
+      <TranslationSet>
+        <base loc="en">Envelope C0</base>
+        <tran loc="ar">Envelope C0</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> A note for Localization 
+ The Japanese translation for "EnvChou3" should be "Envelope Choukei 3" 
+ The Chinese translation for "EnvChou3" should be "Envelope You 0 (Furusu 10)" </Description>
+      <Position>EnvChou3</Position>
+      <TranslationSet>
+        <base loc="en">Envelope Choukei 3</base>
+        <tran loc="ar">Envelope Choukei 3</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Misc Envelopes </Description>
+      <Position>cho-3-envelope</Position>
+      <TranslationSet>
+        <base loc="en">Envelope Choukei 3</base>
+        <tran loc="ar">Envelope Choukei 3</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>b</Position>
+      <TranslationSet>
+        <base loc="en">B</base>
+        <tran loc="ar">B</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>EnvYou4</Position>
+      <TranslationSet>
+        <base loc="en">Envelope You4</base>
+        <tran loc="ar">Envelope You4</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>3.5x5</Position>
+      <TranslationSet>
+        <base loc="en">3.5 x 5</base>
+        <tran loc="ar">‏٣,٥ × ٥</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Color - Fine</Position>
+      <TranslationSet>
+        <base loc="en">Color - Fine</base>
+        <tran loc="ar">اللون - ناعم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>FanFoldGermanLegal</Position>
+      <TranslationSet>
+        <base loc="en">8.5 x 13</base>
+        <tran loc="ar">‏١٣ x ٨,٥</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Preset to print photos on photo paper </Description>
+      <Position>Photo on Photo Paper</Position>
+      <TranslationSet>
+        <base loc="en">Photo on Photo Paper</base>
+        <tran loc="ar">صورة على ورق صور</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Env10.Transverse</Position>
+      <TranslationSet>
+        <base loc="en">Envelope #10 Long Edge</base>
+        <tran loc="ar">Envelope #10 Long Edge</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>iso_ra4_215x305mm</Position>
+      <TranslationSet>
+        <base loc="en">RA4</base>
+        <tran loc="ar">RA4</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Preset to print photos on semi-gloss paper </Description>
+      <Position>Photo on Semi-Gloss Paper</Position>
+      <TranslationSet>
+        <base loc="en">Photo on Semi-Gloss Paper</base>
+        <tran loc="ar">صورة على ورق شبه لامع</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Env11</Position>
+      <TranslationSet>
+        <base loc="en">Envelope #11</base>
+        <tran loc="ar">Envelope #11</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>na-number-11-envelope</Position>
+      <TranslationSet>
+        <base loc="en">Envelope #11</base>
+        <tran loc="ar">Envelope #11</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>w162h504</Position>
+      <TranslationSet>
+        <base loc="en">Internet Postage 3-Part</base>
+        <tran loc="ar">Internet Postage 3-Part</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Ledger (which is Tabloid in landscape orientation) </Description>
+      <Position>ledger</Position>
+      <TranslationSet>
+        <base loc="en">Ledger</base>
+        <tran loc="ar">Ledger</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>B10</Position>
+      <TranslationSet>
+        <base loc="en">JIS B10</base>
+        <tran loc="ar">JIS B10</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>jis-b10</Position>
+      <TranslationSet>
+        <base loc="en">JIS B10</base>
+        <tran loc="ar">JIS B10</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PostcardRotated</Position>
+      <TranslationSet>
+        <base loc="en">Postcard Long Edge</base>
+        <tran loc="ar">بطاقة بريدية حافة طويلة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ARCHE</Position>
+      <TranslationSet>
+        <base loc="en">ARCH E</base>
+        <tran loc="ar">ARCH E</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>arch-e</Position>
+      <TranslationSet>
+        <base loc="en">ARCH E</base>
+        <tran loc="ar">ARCH E</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Preset to print photos on matte photo paper with high quality. </Description>
+      <Position>Photo on Matte Paper - Fine</Position>
+      <TranslationSet>
+        <base loc="en">Photo on Matte Paper - Fine</base>
+        <tran loc="ar">صورة على ورق غير لامع - فاخرة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ISOB9</Position>
+      <TranslationSet>
+        <base loc="en">B9</base>
+        <tran loc="ar">B9</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>iso-b9</Position>
+      <TranslationSet>
+        <base loc="en">B9</base>
+        <tran loc="ar">B9</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Preset to print photos on plain paper with high quality </Description>
+      <Position>Photo on Plain Paper - Fine</Position>
+      <TranslationSet>
+        <base loc="en">Photo on Plain Paper - Fine</base>
+        <tran loc="ar">صورة على ورق عادي - فاخرة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>9x12</Position>
+      <TranslationSet>
+        <base loc="en">9 x 12</base>
+        <tran loc="ar">‏٩ x ١٢</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>EnvPRC2Rotated</Position>
+      <TranslationSet>
+        <base loc="en">Envelope PRC2 Long Edge</base>
+        <tran loc="ar">Envelope PRC2 Long Edge</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>EnvKaku8</Position>
+      <TranslationSet>
+        <base loc="en">Envelope Kaku8</base>
+        <tran loc="ar">مغلف Kaku8</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Preset to print photos with the paper type being auto-detected and with high quality. </Description>
+      <Position>Photo - Fine</Position>
+      <TranslationSet>
+        <base loc="en">Photo - Fine</base>
+        <tran loc="ar">صورة - فاخرة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>jpn_kaku5_190x240mm</Position>
+      <TranslationSet>
+        <base loc="en">Kakugata 5 Envelope</base>
+        <tran loc="ar">مغلف Kakugata 5</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>iso_a3x5_420x1486mm</Position>
+      <TranslationSet>
+        <base loc="en">A3x5</base>
+        <tran loc="ar">A3x5</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SuperA</Position>
+      <TranslationSet>
+        <base loc="en">Super A</base>
+        <tran loc="ar">Super A</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>A10</Position>
+      <TranslationSet>
+        <base loc="en">A10</base>
+        <tran loc="ar">A10</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>iso-a10</Position>
+      <TranslationSet>
+        <base loc="en">A10</base>
+        <tran loc="ar">A10</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>d</Position>
+      <TranslationSet>
+        <base loc="en">D</base>
+        <tran loc="ar">D</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>A5</Position>
+      <TranslationSet>
+        <base loc="en">A5</base>
+        <tran loc="ar">A5</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>iso-a5</Position>
+      <TranslationSet>
+        <base loc="en">A5</base>
+        <tran loc="ar">A5</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>C6</Position>
+      <TranslationSet>
+        <base loc="en">Envelope C6</base>
+        <tran loc="ar">Envelope C6</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>EnvC6</Position>
+      <TranslationSet>
+        <base loc="en">Envelope C6</base>
+        <tran loc="ar">Envelope C6</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>iso-c6</Position>
+      <TranslationSet>
+        <base loc="en">Envelope C6</base>
+        <tran loc="ar">Envelope C6</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>iso-c6-envelope</Position>
+      <TranslationSet>
+        <base loc="en">Envelope C6</base>
+        <tran loc="ar">Envelope C6</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>iso_a0x3_1189x2523mm</Position>
+      <TranslationSet>
+        <base loc="en">A0x3</base>
+        <tran loc="ar">A0x3</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>5x7</Position>
+      <TranslationSet>
+        <base loc="en">5 x 7</base>
+        <tran loc="ar">‏٥ x ٧</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>iso_a4x9_297x1892mm</Position>
+      <TranslationSet>
+        <base loc="en">A4x9</base>
+        <tran loc="ar">A4x9</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>A3Extra.Transverse</Position>
+      <TranslationSet>
+        <base loc="en">A3 Oversize Long Edge</base>
+        <tran loc="ar">A3 Oversize Long Edge</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>B4Rotated</Position>
+      <TranslationSet>
+        <base loc="en">JIS B4 Long Edge</base>
+        <tran loc="ar">JIS B4 Long Edge</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>A4Extra</Position>
+      <TranslationSet>
+        <base loc="en">A4 Oversize</base>
+        <tran loc="ar">A4 Oversize</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>A4Plus</Position>
+      <TranslationSet>
+        <base loc="en">A4 Oversize</base>
+        <tran loc="ar">A4 Oversize</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Tabloid</Position>
+      <TranslationSet>
+        <base loc="en">Tabloid</base>
+        <tran loc="ar">Tabloid</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>tabloid</Position>
+      <TranslationSet>
+        <base loc="en">Tabloid</base>
+        <tran loc="ar">Tabloid</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ARCHC.Transverse</Position>
+      <TranslationSet>
+        <base loc="en">ARCH C Long Edge</base>
+        <tran loc="ar">ARCH C Long Edge</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Preset to print monochrome documents </Description>
+      <Position>Black and White</Position>
+      <TranslationSet>
+        <base loc="en">Black and White</base>
+        <tran loc="ar">أسود وأبيض</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>iso_a2x5_594x2102mm</Position>
+      <TranslationSet>
+        <base loc="en">A2x5</base>
+        <tran loc="ar">A2x5</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>B8</Position>
+      <TranslationSet>
+        <base loc="en">JIS B8</base>
+        <tran loc="ar">JIS B8</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>jis-b8</Position>
+      <TranslationSet>
+        <base loc="en">JIS B8</base>
+        <tran loc="ar">JIS B8</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>iso_a3x7_420x2080mm</Position>
+      <TranslationSet>
+        <base loc="en">A3x7</base>
+        <tran loc="ar">A3x7</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>EnvPRC8Rotated</Position>
+      <TranslationSet>
+        <base loc="en">Envelope PRC8 Long Edge</base>
+        <tran loc="ar">Envelope PRC8 Long Edge</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>f</Position>
+      <TranslationSet>
+        <base loc="en">F</base>
+        <tran loc="ar">ف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>EnvChou3.Transverse</Position>
+      <TranslationSet>
+        <base loc="en">Envelope Choukei 3 Long Edge</base>
+        <tran loc="ar">Envelope Choukei 3 Long Edge</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>EnvChou3Rotated</Position>
+      <TranslationSet>
+        <base loc="en">Envelope Choukei 3 Long Edge</base>
+        <tran loc="ar">Envelope Choukei 3 Long Edge</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>iso_a1x3_841x1783mm</Position>
+      <TranslationSet>
+        <base loc="en">A1x3</base>
+        <tran loc="ar">A1x3</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>EnvYou4Rotated</Position>
+      <TranslationSet>
+        <base loc="en">Envelope You4 Long Edge</base>
+        <tran loc="ar">Envelope You4 Long Edge</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>C4</Position>
+      <TranslationSet>
+        <base loc="en">Envelope C4</base>
+        <tran loc="ar">Envelope C4</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>EnvC4</Position>
+      <TranslationSet>
+        <base loc="en">Envelope C4</base>
+        <tran loc="ar">Envelope C4</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>iso-c4</Position>
+      <TranslationSet>
+        <base loc="en">Envelope C4</base>
+        <tran loc="ar">Envelope C4</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>iso-c4-envelope</Position>
+      <TranslationSet>
+        <base loc="en">Envelope C4</base>
+        <tran loc="ar">Envelope C4</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>A7</Position>
+      <TranslationSet>
+        <base loc="en">A7</base>
+        <tran loc="ar">A7</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>iso-a7</Position>
+      <TranslationSet>
+        <base loc="en">A7</base>
+        <tran loc="ar">A7</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Letter</Position>
+      <TranslationSet>
+        <base loc="en">US Letter</base>
+        <tran loc="ar">US Letter</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>na-letter</Position>
+      <TranslationSet>
+        <base loc="en">US Letter</base>
+        <tran loc="ar">US Letter</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>A2.Transverse</Position>
+      <TranslationSet>
+        <base loc="en">A2 Long Edge</base>
+        <tran loc="ar">A2 Long Edge</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Postfix (envelope)</Position>
+      <TranslationSet>
+        <base loc="en">Envelope Postfix</base>
+        <tran loc="ar">لاحقة مغلف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>postfix_114x229mm</Position>
+      <TranslationSet>
+        <base loc="en">Envelope Postfix</base>
+        <tran loc="ar">لاحقة مغلف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>EnvA2</Position>
+      <TranslationSet>
+        <base loc="en">Envelope A2</base>
+        <tran loc="ar">Envelope A2</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>iso_a4x7_297x1471mm</Position>
+      <TranslationSet>
+        <base loc="en">A4x7</base>
+        <tran loc="ar">A4x7</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AnsiC</Position>
+      <TranslationSet>
+        <base loc="en">ANSI C</base>
+        <tran loc="ar">ANSI C</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>EnvKaku4</Position>
+      <TranslationSet>
+        <base loc="en">Envelope Kaku4</base>
+        <tran loc="ar">مغلف Kaku4</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>EnvItalian</Position>
+      <TranslationSet>
+        <base loc="en">Envelope Italian</base>
+        <tran loc="ar">Envelope Italian</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PRC32KRotated</Position>
+      <TranslationSet>
+        <base loc="en">PRC32K Long Edge</base>
+        <tran loc="ar">PRC32K Long Edge</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>EnvPRC10</Position>
+      <TranslationSet>
+        <base loc="en">Envelope PRC10</base>
+        <tran loc="ar">Envelope PRC10</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ISOB5</Position>
+      <TranslationSet>
+        <base loc="en">B5</base>
+        <tran loc="ar">B5</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>iso-b5</Position>
+      <TranslationSet>
+        <base loc="en">B5</base>
+        <tran loc="ar">B5</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>LegalExtra</Position>
+      <TranslationSet>
+        <base loc="en">US Legal Oversize</base>
+        <tran loc="ar">US Legal Oversize</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>iso_sra4_225x320mm</Position>
+      <TranslationSet>
+        <base loc="en">SRA4</base>
+        <tran loc="ar">SRA4</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DL</Position>
+      <TranslationSet>
+        <base loc="en">Envelope DL</base>
+        <tran loc="ar">Envelope DL</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>EnvDL</Position>
+      <TranslationSet>
+        <base loc="en">Envelope DL</base>
+        <tran loc="ar">Envelope DL</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>iso-designated</Position>
+      <TranslationSet>
+        <base loc="en">Envelope DL</base>
+        <tran loc="ar">Envelope DL</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>iso-designated-long-envelope</Position>
+      <TranslationSet>
+        <base loc="en">Envelope DL</base>
+        <tran loc="ar">Envelope DL</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>B6</Position>
+      <TranslationSet>
+        <base loc="en">JIS B6</base>
+        <tran loc="ar">JIS B6</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>jis-b6</Position>
+      <TranslationSet>
+        <base loc="en">JIS B6</base>
+        <tran loc="ar">JIS B6</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PRC32KBigRotated</Position>
+      <TranslationSet>
+        <base loc="en">PRC32K Oversize Long Edge</base>
+        <tran loc="ar">PRC32K Oversize Long Edge</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Non-standard sizes... </Description>
+      <Position>Oficio</Position>
+      <TranslationSet>
+        <base loc="en">Oficio</base>
+        <tran loc="ar">Oficio</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>A1.Transverse</Position>
+      <TranslationSet>
+        <base loc="en">A1 Long Edge</base>
+        <tran loc="ar">A1 Long Edge</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>w167h288</Position>
+      <TranslationSet>
+        <base loc="en">Shipping Address</base>
+        <tran loc="ar">عنوان الشحن</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>A9</Position>
+      <TranslationSet>
+        <base loc="en">A9</base>
+        <tran loc="ar">A9</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>iso-a9</Position>
+      <TranslationSet>
+        <base loc="en">A9</base>
+        <tran loc="ar">A9</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>EnvPRC1</Position>
+      <TranslationSet>
+        <base loc="en">Envelope PRC1</base>
+        <tran loc="ar">Envelope PRC1</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Preset to print color documents </Description>
+      <Position>Color</Position>
+      <TranslationSet>
+        <base loc="en">Color</base>
+        <tran loc="ar">اللون</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>10x14</Position>
+      <TranslationSet>
+        <base loc="en">10 x 14</base>
+        <tran loc="ar">‏١٤ x ١٠</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>iso_a4x5_297x1051mm</Position>
+      <TranslationSet>
+        <base loc="en">A4x5</base>
+        <tran loc="ar">A4x5</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Preset to print photos on semi-gloss paper with high quality </Description>
+      <Position>Photo on Semi-Gloss Paper - Fine</Position>
+      <TranslationSet>
+        <base loc="en">Photo on Semi-Gloss Paper - Fine</base>
+        <tran loc="ar">صورة على ورق شبه لامع - فاخرة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>12x11</Position>
+      <TranslationSet>
+        <base loc="en">12 x 11</base>
+        <tran loc="ar">‏١١ x ١٢</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> ANSI Sizes </Description>
+      <Position>AnsiA</Position>
+      <TranslationSet>
+        <base loc="en">ANSI A</base>
+        <tran loc="ar">ANSI A</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>EnvPRC1Rotated</Position>
+      <TranslationSet>
+        <base loc="en">Envelope PRC1 Long Edge</base>
+        <tran loc="ar">Envelope PRC1 Long Edge</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AnsiF</Position>
+      <TranslationSet>
+        <base loc="en">44 x 68</base>
+        <tran loc="ar">44 x 68</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ISOB7</Position>
+      <TranslationSet>
+        <base loc="en">B7</base>
+        <tran loc="ar">B7</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>iso-b7</Position>
+      <TranslationSet>
+        <base loc="en">B7</base>
+        <tran loc="ar">B7</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>om_large-photo</Position>
+      <TranslationSet>
+        <base loc="en">Large Photo</base>
+        <tran loc="ar">صورة كبيرة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>om_small-photo</Position>
+      <TranslationSet>
+        <base loc="en">Small Photo</base>
+        <tran loc="ar">صورة صغيرة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>custom_z_10x12in.Transverse</Position>
+      <TranslationSet>
+        <base loc="en">10 x 12 Long Edge</base>
+        <tran loc="ar">10 x 12 Long Edge</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>EnvChou40</Position>
+      <TranslationSet>
+        <base loc="en">Envelope Choukei 40</base>
+        <tran loc="ar">مغلف Choukei 40</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>na-9x12-envelope</Position>
+      <TranslationSet>
+        <base loc="en">Envelope 9 x 12</base>
+        <tran loc="ar">Envelope 9 x 12</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>B4</Position>
+      <TranslationSet>
+        <base loc="en">JIS B4</base>
+        <tran loc="ar">JIS B4</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>jis-b4</Position>
+      <TranslationSet>
+        <base loc="en">JIS B4</base>
+        <tran loc="ar">JIS B4</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> iso page sizes 
+ A </Description>
+      <Position>iso-10</Position>
+      <TranslationSet>
+        <base loc="en">ISO 10</base>
+        <tran loc="ar">ISO 10</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PRC16KRotated</Position>
+      <TranslationSet>
+        <base loc="en">PRC16K Long Edge</base>
+        <tran loc="ar">PRC16K Long Edge</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>om_wide-photo</Position>
+      <TranslationSet>
+        <base loc="en">100 x 200mm</base>
+        <tran loc="ar">100 ‏x ‏200ملم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>c8 (envelope)</Position>
+      <TranslationSet>
+        <base loc="en">Envelope C8</base>
+        <tran loc="ar">مغلف C8</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>iso_c8_57x81mm</Position>
+      <TranslationSet>
+        <base loc="en">Envelope C8</base>
+        <tran loc="ar">مغلف C8</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>EnvPRC3</Position>
+      <TranslationSet>
+        <base loc="en">Envelope PRC3</base>
+        <tran loc="ar">Envelope PRC3</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>15x11</Position>
+      <TranslationSet>
+        <base loc="en">15 x 11</base>
+        <tran loc="ar">‏١٥ x ١١</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>EnvInvite</Position>
+      <TranslationSet>
+        <base loc="en">Envelope Invite</base>
+        <tran loc="ar">Envelope Invite</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>iso_a4x3_297x630mm</Position>
+      <TranslationSet>
+        <base loc="en">A4x3</base>
+        <tran loc="ar">A4x3</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>A0.Transverse</Position>
+      <TranslationSet>
+        <base loc="en">A0 Long Edge</base>
+        <tran loc="ar">A0 Long Edge</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>8x10.Transverse</Position>
+      <TranslationSet>
+        <base loc="en">8 x 10 Long Edge</base>
+        <tran loc="ar">8 x 10 Long Edge</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PRC16K</Position>
+      <TranslationSet>
+        <base loc="en">PRC16K</base>
+        <tran loc="ar">PRC16K</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ISOB1</Position>
+      <TranslationSet>
+        <base loc="en">B1</base>
+        <tran loc="ar">B1</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>iso-b1</Position>
+      <TranslationSet>
+        <base loc="en">B1</base>
+        <tran loc="ar">B1</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Preset to print photos on plain paper </Description>
+      <Position>Photo on Plain Paper</Position>
+      <TranslationSet>
+        <base loc="en">Photo on Plain Paper</base>
+        <tran loc="ar">صورة على ورق عادي </tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>B6Rotated</Position>
+      <TranslationSet>
+        <base loc="en">JIS B6 Long Edge</base>
+        <tran loc="ar">JIS B6 Long Edge</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> S </Description>
+      <Position>iso_sra0_900x1280mm</Position>
+      <TranslationSet>
+        <base loc="en">SRA0</base>
+        <tran loc="ar">SRA0</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>B2</Position>
+      <TranslationSet>
+        <base loc="en">JIS B2</base>
+        <tran loc="ar">JIS B2</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>jis-b2</Position>
+      <TranslationSet>
+        <base loc="en">JIS B2</base>
+        <tran loc="ar">JIS B2</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ISOB5Extra</Position>
+      <TranslationSet>
+        <base loc="en">B5 Oversize</base>
+        <tran loc="ar">B5 Oversize</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>EnvPRC5</Position>
+      <TranslationSet>
+        <base loc="en">Envelope PRC5</base>
+        <tran loc="ar">Envelope PRC5</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AnsiE</Position>
+      <TranslationSet>
+        <base loc="en">ANSI E</base>
+        <tran loc="ar">ANSI E</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>na-personal-envelope</Position>
+      <TranslationSet>
+        <base loc="en">Personal Envelope</base>
+        <tran loc="ar">مغلف شخصي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>EnvKaku2</Position>
+      <TranslationSet>
+        <base loc="en">Envelope Kaku2</base>
+        <tran loc="ar">Envelope Kaku2</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>13x19</Position>
+      <TranslationSet>
+        <base loc="en">Super B/A3</base>
+        <tran loc="ar">Super B/A3</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>arch-b-extra</Position>
+      <TranslationSet>
+        <base loc="en">Super B/A3</base>
+        <tran loc="ar">Super B/A3</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> This is the ISO super-b size which is different than the Adobe SuperB size </Description>
+      <Position>super-b</Position>
+      <TranslationSet>
+        <base loc="en">Super B/A3</base>
+        <tran loc="ar">Super B/A3</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Preset to print photos on glossy paper with high quality </Description>
+      <Position>Photo on Glossy Paper - Fine</Position>
+      <TranslationSet>
+        <base loc="en">Photo on Glossy Paper - Fine</base>
+        <tran loc="ar">صورة على ورق لامع - فاخرة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ISOB3</Position>
+      <TranslationSet>
+        <base loc="en">B3</base>
+        <tran loc="ar">B3</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>iso-b3</Position>
+      <TranslationSet>
+        <base loc="en">B3</base>
+        <tran loc="ar">B3</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Preset to print photos on high gloss paper </Description>
+      <Position>Photo on High Gloss Paper</Position>
+      <TranslationSet>
+        <base loc="en">Photo on High Gloss Paper</base>
+        <tran loc="ar">صورة على ورق شديد اللمعة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Page Sizes 
+ page sizes </Description>
+      <Position>3x5</Position>
+      <TranslationSet>
+        <base loc="en">3 x 5</base>
+        <tran loc="ar">‏٣ x ٥</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>iso_sra2_450x640mm</Position>
+      <TranslationSet>
+        <base loc="en">SRA2</base>
+        <tran loc="ar">SRA2</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>B0</Position>
+      <TranslationSet>
+        <base loc="en">JIS B0</base>
+        <tran loc="ar">JIS B0</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> jis page sizes </Description>
+      <Position>jis-b0</Position>
+      <TranslationSet>
+        <base loc="en">JIS B0</base>
+        <tran loc="ar">JIS B0</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Quarto</Position>
+      <TranslationSet>
+        <base loc="en">Quarto</base>
+        <tran loc="ar">قطع الربع</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>quarto</Position>
+      <TranslationSet>
+        <base loc="en">Quarto</base>
+        <tran loc="ar">قطع الربع</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>EnvPRC7</Position>
+      <TranslationSet>
+        <base loc="en">Envelope PRC7</base>
+        <tran loc="ar">Envelope PRC7</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>custom_z_10x12in</Position>
+      <TranslationSet>
+        <base loc="en">10 x 12</base>
+        <tran loc="ar">10 x 12</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>11x14</Position>
+      <TranslationSet>
+        <base loc="en">11 x 14</base>
+        <tran loc="ar">‏١١ x ١٤</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>iso_ra3_305x430mm</Position>
+      <TranslationSet>
+        <base loc="en">RA3</base>
+        <tran loc="ar">RA3</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>LetterExtra.Transverse</Position>
+      <TranslationSet>
+        <base loc="en">US Letter Oversize Long Edge</base>
+        <tran loc="ar">US Letter Oversize Long Edge</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Disc Paper Sizes </Description>
+      <Position>116x116mm</Position>
+      <TranslationSet>
+        <base loc="en">116mm Disc</base>
+        <tran loc="ar">‏Disc ١١٦ مم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Preset to print photos on satin finish paper </Description>
+      <Position>Photo on Satin Paper</Position>
+      <TranslationSet>
+        <base loc="en">Photo on Satin Paper</base>
+        <tran loc="ar">صورة على ورق ساتان</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>w101h252</Position>
+      <TranslationSet>
+        <base loc="en">Large Address</base>
+        <tran loc="ar">عنوان كبير</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>na-7x9-envelope</Position>
+      <TranslationSet>
+        <base loc="en">Envelope 7 x 9</base>
+        <tran loc="ar">Envelope 7 x 9</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>na-8x10-envelope</Position>
+      <TranslationSet>
+        <base loc="en">Envelope 8 x 10</base>
+        <tran loc="ar">Envelope 8 x 10</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Show paper sizes by their dimension. </Description>
+      <Position>%s x %s inches</Position>
+      <TranslationSet>
+        <base loc="en">%s x %s inches</base>
+        <tran loc="ar">‏%s x %s بوصة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>A6Rotated</Position>
+      <TranslationSet>
+        <base loc="en">A6 Long Edge</base>
+        <tran loc="ar">A6 Long Edge</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Preset to print photos on satin finish paper with high quality </Description>
+      <Position>Photo on Satin Paper - Fine</Position>
+      <TranslationSet>
+        <base loc="en">Photo on Satin Paper - Fine</base>
+        <tran loc="ar">صورة على ورق ساتان - فاخرة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>EnvDL.Transverse</Position>
+      <TranslationSet>
+        <base loc="en">Envelope DL Long Edge</base>
+        <tran loc="ar">Envelope DL Long Edge</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>EnvISOB5</Position>
+      <TranslationSet>
+        <base loc="en">Envelope B5</base>
+        <tran loc="ar">Envelope B5</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>iso-b5-envelope</Position>
+      <TranslationSet>
+        <base loc="en">Envelope B5</base>
+        <tran loc="ar">Envelope B5</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>LegalSmall</Position>
+      <TranslationSet>
+        <base loc="en">US Legal Small</base>
+        <tran loc="ar">US Legal Small</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>na-10x15-envelope</Position>
+      <TranslationSet>
+        <base loc="en">Envelope 10 x 15</base>
+        <tran loc="ar">Envelope 10 x 15</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>A2</Position>
+      <TranslationSet>
+        <base loc="en">A2</base>
+        <tran loc="ar">A2</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>iso-a2</Position>
+      <TranslationSet>
+        <base loc="en">A2</base>
+        <tran loc="ar">A2</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>EnvC1</Position>
+      <TranslationSet>
+        <base loc="en">Envelope C1</base>
+        <tran loc="ar">Envelope C1</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>iso-c1</Position>
+      <TranslationSet>
+        <base loc="en">Envelope C1</base>
+        <tran loc="ar">Envelope C1</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PhotoLabel</Position>
+      <TranslationSet>
+        <base loc="en">Photo Labels</base>
+        <tran loc="ar">عناوين الصور</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>c</Position>
+      <TranslationSet>
+        <base loc="en">C</base>
+        <tran loc="ar">C</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>iso_ra1_610x860mm</Position>
+      <TranslationSet>
+        <base loc="en">RA1</base>
+        <tran loc="ar">RA1</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Env14</Position>
+      <TranslationSet>
+        <base loc="en">Envelope #14</base>
+        <tran loc="ar">Envelope #14</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>na-number-14-envelope</Position>
+      <TranslationSet>
+        <base loc="en">Envelope #14</base>
+        <tran loc="ar">Envelope #14</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Preset to print photos on photo paper with high quality </Description>
+      <Position>Photo on Photo Paper - Fine</Position>
+      <TranslationSet>
+        <base loc="en">Photo on Photo Paper - Fine</base>
+        <tran loc="ar">صورة على ورق صور - فاخرة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>c10 (envelope)</Position>
+      <TranslationSet>
+        <base loc="en">Envelope C10</base>
+        <tran loc="ar">مغلف C10</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>iso_c10_28x40mm</Position>
+      <TranslationSet>
+        <base loc="en">Envelope C10</base>
+        <tran loc="ar">مغلف C10</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>LetterSmall</Position>
+      <TranslationSet>
+        <base loc="en">US Letter Small</base>
+        <tran loc="ar">US Letter Small</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>7x9</Position>
+      <TranslationSet>
+        <base loc="en">7 x 9</base>
+        <tran loc="ar">‏٧ x ٩</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Executive</Position>
+      <TranslationSet>
+        <base loc="en">Executive</base>
+        <tran loc="ar">Executive</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>executive</Position>
+      <TranslationSet>
+        <base loc="en">Executive</base>
+        <tran loc="ar">Executive</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>w81h252</Position>
+      <TranslationSet>
+        <base loc="en">Address</base>
+        <tran loc="ar">العنوان</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>EnvC3</Position>
+      <TranslationSet>
+        <base loc="en">Envelope C3</base>
+        <tran loc="ar">Envelope C3</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>iso-c3</Position>
+      <TranslationSet>
+        <base loc="en">Envelope C3</base>
+        <tran loc="ar">Envelope C3</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>iso-c3-envelope</Position>
+      <TranslationSet>
+        <base loc="en">Envelope C3</base>
+        <tran loc="ar">Envelope C3</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>EnvPRC8</Position>
+      <TranslationSet>
+        <base loc="en">Envelope PRC8</base>
+        <tran loc="ar">Envelope PRC8</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>A0</Position>
+      <TranslationSet>
+        <base loc="en">A0</base>
+        <tran loc="ar">A0</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>iso-a0</Position>
+      <TranslationSet>
+        <base loc="en">A0</base>
+        <tran loc="ar">A0</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>iso_a1x4_841x2378mm</Position>
+      <TranslationSet>
+        <base loc="en">A1x4</base>
+        <tran loc="ar">A1x4</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>a</Position>
+      <TranslationSet>
+        <base loc="en">A</base>
+        <tran loc="ar">A</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>EnvPRC6Rotated</Position>
+      <TranslationSet>
+        <base loc="en">Envelope PRC6 Long Edge</base>
+        <tran loc="ar">Envelope PRC6 Long Edge</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Env12</Position>
+      <TranslationSet>
+        <base loc="en">Envelope #12</base>
+        <tran loc="ar">Envelope #12</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>na-number-12-envelope</Position>
+      <TranslationSet>
+        <base loc="en">Envelope #12</base>
+        <tran loc="ar">Envelope #12</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>iso_a4x8_297x1682mm</Position>
+      <TranslationSet>
+        <base loc="en">A4x8</base>
+        <tran loc="ar">A4x8</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>9x11</Position>
+      <TranslationSet>
+        <base loc="en">9 x 11</base>
+        <tran loc="ar">‏٩ x ١١</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> If we don't have the name of the document being previewed, then use \"unnamed document\" for the document name. </Description>
+      <Position>unnamed document</Position>
+      <TranslationSet>
+        <base loc="en">unnamed document</base>
+        <tran loc="ar">مستند ليس له اسم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>iso_a2x4_594x1682mm</Position>
+      <TranslationSet>
+        <base loc="en">A2x4</base>
+        <tran loc="ar">A2x4</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>B9</Position>
+      <TranslationSet>
+        <base loc="en">JIS B9</base>
+        <tran loc="ar">JIS B9</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>jis-b9</Position>
+      <TranslationSet>
+        <base loc="en">JIS B9</base>
+        <tran loc="ar">JIS B9</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>iso_a3x6_420x1783mm</Position>
+      <TranslationSet>
+        <base loc="en">A3x6</base>
+        <tran loc="ar">A3x6</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>dai-pa-kai</Position>
+      <TranslationSet>
+        <base loc="en">Chinese 8K (Large)</base>
+        <tran loc="ar">الصينية ‎8K (كبيرة)</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>om_dai-pa-kai_275x395mm</Position>
+      <TranslationSet>
+        <base loc="en">Chinese 8K (Large)</base>
+        <tran loc="ar">الصينية ‎8K (كبيرة)</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Statement</Position>
+      <TranslationSet>
+        <base loc="en">Statement</base>
+        <tran loc="ar">Statement</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>invoice</Position>
+      <TranslationSet>
+        <base loc="en">Statement</base>
+        <tran loc="ar">Statement</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> This is the Adobe SuperB size which is different than the ISO super-b size </Description>
+      <Position>SuperB</Position>
+      <TranslationSet>
+        <base loc="en">Super B</base>
+        <tran loc="ar">Super B</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>w936h1368</Position>
+      <TranslationSet>
+        <base loc="en">Super B</base>
+        <tran loc="ar">Super B</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>C5</Position>
+      <TranslationSet>
+        <base loc="en">Envelope C5</base>
+        <tran loc="ar">Envelope C5</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>EnvC5</Position>
+      <TranslationSet>
+        <base loc="en">Envelope C5</base>
+        <tran loc="ar">Envelope C5</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>iso-c5</Position>
+      <TranslationSet>
+        <base loc="en">Envelope C5</base>
+        <tran loc="ar">Envelope C5</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>iso-c5-envelope</Position>
+      <TranslationSet>
+        <base loc="en">Envelope C5</base>
+        <tran loc="ar">Envelope C5</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>A6</Position>
+      <TranslationSet>
+        <base loc="en">A6</base>
+        <tran loc="ar">A6</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>iso-a6</Position>
+      <TranslationSet>
+        <base loc="en">A6</base>
+        <tran loc="ar">A6</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>EnvPRC7Rotated</Position>
+      <TranslationSet>
+        <base loc="en">Envelope PRC7 Long Edge</base>
+        <tran loc="ar">Envelope PRC7 Long Edge</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>FanFoldGerman</Position>
+      <TranslationSet>
+        <base loc="en">8.5 x 12</base>
+        <tran loc="ar">‏٨,٥ x ١٢</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>iso_b6c4_125x324mm</Position>
+      <TranslationSet>
+        <base loc="en">Envelope B6/C4</base>
+        <tran loc="ar">مغلف B6/C4</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Env10</Position>
+      <TranslationSet>
+        <base loc="en">Envelope #10</base>
+        <tran loc="ar">Envelope #10</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>na-number-10-envelope</Position>
+      <TranslationSet>
+        <base loc="en">Envelope #10</base>
+        <tran loc="ar">Envelope #10</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Preset to quickly print monochrome documents </Description>
+      <Position>Black and White - Draft</Position>
+      <TranslationSet>
+        <base loc="en">Black and White - Draft</base>
+        <tran loc="ar">أسود وأبيض - مسوّدة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Gray CM Profile - PPD_CS_GRAY </Description>
+      <Position>Gray</Position>
+      <TranslationSet>
+        <base loc="en">Gray</base>
+        <tran loc="ar">رمادي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ARCHD</Position>
+      <TranslationSet>
+        <base loc="en">ARCH D</base>
+        <tran loc="ar">ARCH D</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>arch-d</Position>
+      <TranslationSet>
+        <base loc="en">ARCH D</base>
+        <tran loc="ar">ARCH D</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ISOB8</Position>
+      <TranslationSet>
+        <base loc="en">B8</base>
+        <tran loc="ar">B8</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>iso-b8</Position>
+      <TranslationSet>
+        <base loc="en">B8</base>
+        <tran loc="ar">B8</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ARCHB</Position>
+      <TranslationSet>
+        <base loc="en">Tabloid Oversize</base>
+        <tran loc="ar">Tabloid Oversize</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>TabloidExtra</Position>
+      <TranslationSet>
+        <base loc="en">Tabloid Oversize</base>
+        <tran loc="ar">Tabloid Oversize</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>arch-b</Position>
+      <TranslationSet>
+        <base loc="en">Tabloid Oversize</base>
+        <tran loc="ar">Tabloid Oversize</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>roc8k</Position>
+      <TranslationSet>
+        <base loc="en">ROC 8K</base>
+        <tran loc="ar">ROC 8K</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>w54h144</Position>
+      <TranslationSet>
+        <base loc="en">Return Address</base>
+        <tran loc="ar">عنوان الإرجاع</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>iso_a3x4_420x1189mm</Position>
+      <TranslationSet>
+        <base loc="en">A3x4</base>
+        <tran loc="ar">A3x4</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>e</Position>
+      <TranslationSet>
+        <base loc="en">E</base>
+        <tran loc="ar">E</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>A4</Position>
+      <TranslationSet>
+        <base loc="en">A4</base>
+        <tran loc="ar">A4</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>iso-a4</Position>
+      <TranslationSet>
+        <base loc="en">A4</base>
+        <tran loc="ar">A4</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>na-10x13-envelope</Position>
+      <TranslationSet>
+        <base loc="en">Envelope 10 x 13</base>
+        <tran loc="ar">Envelope 10 x 13</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>EnvC7</Position>
+      <TranslationSet>
+        <base loc="en">Envelope C7</base>
+        <tran loc="ar">Envelope C7</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>iso-c7</Position>
+      <TranslationSet>
+        <base loc="en">Envelope C7</base>
+        <tran loc="ar">Envelope C7</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>EnvChou4</Position>
+      <TranslationSet>
+        <base loc="en">Envelope Choukei 4</base>
+        <tran loc="ar">Envelope Choukei 4</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>stationery-recycled</Position>
+      <TranslationSet>
+        <base loc="en">Recycled</base>
+        <tran loc="ar">تمت إعادة التدوير</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PRC32KBig</Position>
+      <TranslationSet>
+        <base loc="en">PRC32K Oversize</base>
+        <tran loc="ar">PRC32K Oversize</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Remote Printer </Description>
+      <Position>Remote Printer</Position>
+      <TranslationSet>
+        <base loc="en">Remote Printer</base>
+        <tran loc="ar">طابعة عن بُعد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>iso_2a0_1189x1682mm</Position>
+      <TranslationSet>
+        <base loc="en">A0x2</base>
+        <tran loc="ar">A0x2</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>iso_a4x4_297x841mm</Position>
+      <TranslationSet>
+        <base loc="en">A4x4</base>
+        <tran loc="ar">A4x4</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>EnvPRC4Rotated</Position>
+      <TranslationSet>
+        <base loc="en">Envelope PRC4 Long Edge</base>
+        <tran loc="ar">Envelope PRC4 Long Edge</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> String for when we are handed a paper with "Unknown" as the name </Description>
+      <Position>Unknown</Position>
+      <TranslationSet>
+        <base loc="en">Unknown</base>
+        <tran loc="ar">غير معروف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>%s x %s mm.</Position>
+      <TranslationSet>
+        <base loc="en">%s x %s mm</base>
+        <tran loc="ar">‏%s ‏x‏ %s ملم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>EnvKaku7</Position>
+      <TranslationSet>
+        <base loc="en">Envelope Kaku7</base>
+        <tran loc="ar">مغلف Kaku7</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ISOB6</Position>
+      <TranslationSet>
+        <base loc="en">B6</base>
+        <tran loc="ar">B6</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>iso-b6</Position>
+      <TranslationSet>
+        <base loc="en">B6</base>
+        <tran loc="ar">B6</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>EnvKaku3Rotated</Position>
+      <TranslationSet>
+        <base loc="en">Envelope Kaku3 Long Edge</base>
+        <tran loc="ar">Envelope Kaku3 Long Edge</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Note</Position>
+      <TranslationSet>
+        <base loc="en">Note</base>
+        <tran loc="ar">ملاحظة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>B5</Position>
+      <TranslationSet>
+        <base loc="en">JIS B5</base>
+        <tran loc="ar">JIS B5</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>jis-b5</Position>
+      <TranslationSet>
+        <base loc="en">JIS B5</base>
+        <tran loc="ar">JIS B5</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>4x6</Position>
+      <TranslationSet>
+        <base loc="en">4 x 6</base>
+        <tran loc="ar">‏٤ x ٦</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>iso_c9_40x57mm</Position>
+      <TranslationSet>
+        <base loc="en">Envelope C9</base>
+        <tran loc="ar"> مغلف C9</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>EnvPRC2</Position>
+      <TranslationSet>
+        <base loc="en">Envelope PRC2</base>
+        <tran loc="ar">Envelope PRC2</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Executive.Transverse</Position>
+      <TranslationSet>
+        <base loc="en">Executive Long Edge</base>
+        <tran loc="ar">Executive Long Edge</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ARCHE.Transverse</Position>
+      <TranslationSet>
+        <base loc="en">ARCH E Long Edge</base>
+        <tran loc="ar">ARCH E Long Edge</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>iso_a4x6_297x1261mm</Position>
+      <TranslationSet>
+        <base loc="en">A4x6</base>
+        <tran loc="ar">A4x6</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>5x8</Position>
+      <TranslationSet>
+        <base loc="en">5 x 8</base>
+        <tran loc="ar">‏٥ x ٨</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ARCHB.Transverse</Position>
+      <TranslationSet>
+        <base loc="en">Tabloid Oversize Long Edge</base>
+        <tran loc="ar">Tabloid Oversize Long Edge</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AnsiB</Position>
+      <TranslationSet>
+        <base loc="en">ANSI B</base>
+        <tran loc="ar">ANSI B</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>EnvMonarch</Position>
+      <TranslationSet>
+        <base loc="en">Envelope Monarch</base>
+        <tran loc="ar">Envelope Monarch</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Monarch</Position>
+      <TranslationSet>
+        <base loc="en">Envelope Monarch</base>
+        <tran loc="ar">Envelope Monarch</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>monarch-envelope</Position>
+      <TranslationSet>
+        <base loc="en">Envelope Monarch</base>
+        <tran loc="ar">Envelope Monarch</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>EnvKaku5</Position>
+      <TranslationSet>
+        <base loc="en">Envelope Kaku5</base>
+        <tran loc="ar">مغلف Kaku5</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Local Printer Class </Description>
+      <Position>Local Printer Class</Position>
+      <TranslationSet>
+        <base loc="en">Printer Pool</base>
+        <tran loc="ar">مجمع الطابعات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>EnvC65</Position>
+      <TranslationSet>
+        <base loc="en">Envelope C65</base>
+        <tran loc="ar">Envelope C65</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ISOB4</Position>
+      <TranslationSet>
+        <base loc="en">B4</base>
+        <tran loc="ar">B4</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>iso-b4</Position>
+      <TranslationSet>
+        <base loc="en">B4</base>
+        <tran loc="ar">B4</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>LetterExtra</Position>
+      <TranslationSet>
+        <base loc="en">US Letter Oversize</base>
+        <tran loc="ar">US Letter Oversize</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>LetterPlus</Position>
+      <TranslationSet>
+        <base loc="en">US Letter Oversize</base>
+        <tran loc="ar">US Letter Oversize</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>A4.Transverse</Position>
+      <TranslationSet>
+        <base loc="en">A4 Long Edge</base>
+        <tran loc="ar">A4 Long Edge</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>A4Rotated</Position>
+      <TranslationSet>
+        <base loc="en">A4 Long Edge</base>
+        <tran loc="ar">A4 Long Edge</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>na-9x11-envelope</Position>
+      <TranslationSet>
+        <base loc="en">Envelope 9 x 11</base>
+        <tran loc="ar">Envelope 9 x 11</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PRC32K</Position>
+      <TranslationSet>
+        <base loc="en">PRC32K</base>
+        <tran loc="ar">PRC32K</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>B7</Position>
+      <TranslationSet>
+        <base loc="en">JIS B7</base>
+        <tran loc="ar">JIS B7</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>jis-b7</Position>
+      <TranslationSet>
+        <base loc="en">JIS B7</base>
+        <tran loc="ar">JIS B7</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Letter.Transverse</Position>
+      <TranslationSet>
+        <base loc="en">US Letter Long Edge</base>
+        <tran loc="ar">US Letter Long Edge</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>LetterRotated</Position>
+      <TranslationSet>
+        <base loc="en">US Letter Long Edge</base>
+        <tran loc="ar">US Letter Long Edge</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ARCHA</Position>
+      <TranslationSet>
+        <base loc="en">Letter Oversize</base>
+        <tran loc="ar">Letter Oversize</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> arch sizes </Description>
+      <Position>arch-a</Position>
+      <TranslationSet>
+        <base loc="en">Letter Oversize</base>
+        <tran loc="ar">Letter Oversize</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Env9</Position>
+      <TranslationSet>
+        <base loc="en">Envelope #9</base>
+        <tran loc="ar">Envelope #9</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>na-number-9-envelope</Position>
+      <TranslationSet>
+        <base loc="en">Envelope #9</base>
+        <tran loc="ar">Envelope #9</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>A8</Position>
+      <TranslationSet>
+        <base loc="en">A8</base>
+        <tran loc="ar">A8</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>iso-a8</Position>
+      <TranslationSet>
+        <base loc="en">A8</base>
+        <tran loc="ar">A8</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>om_pa-kai_267x389mm</Position>
+      <TranslationSet>
+        <base loc="en">Chinese 8K</base>
+        <tran loc="ar">الصينية (‎8K)</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>pa-kai</Position>
+      <TranslationSet>
+        <base loc="en">Chinese 8K</base>
+        <tran loc="ar">الصينية (‎8K)</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AnsiD</Position>
+      <TranslationSet>
+        <base loc="en">ANSI D</base>
+        <tran loc="ar">ANSI D</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>EnvKaku3</Position>
+      <TranslationSet>
+        <base loc="en">Envelope Kaku3</base>
+        <tran loc="ar">Envelope Kaku3</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ISOB2</Position>
+      <TranslationSet>
+        <base loc="en">B2</base>
+        <tran loc="ar">B2</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>iso-b2</Position>
+      <TranslationSet>
+        <base loc="en">B2</base>
+        <tran loc="ar">B2</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>EnvKaku2Rotated</Position>
+      <TranslationSet>
+        <base loc="en">Envelope Kaku2 Long Edge</base>
+        <tran loc="ar">Envelope Kaku2 Long Edge</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Envelopes 
+ Note: The natural reading order would be "&lt;size&gt; Envelope", however the 
+ current paper size menu code tries to group envelope sizes using their 
+ translated names. This will be changing in a future version of the OS. 
+ na Envelopes </Description>
+      <Position>na-6x9-envelope</Position>
+      <TranslationSet>
+        <base loc="en">Envelope 6 x 9</base>
+        <tran loc="ar">Envelope 6 x 9</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>iso_sra3_320x450mm</Position>
+      <TranslationSet>
+        <base loc="en">SRA3</base>
+        <tran loc="ar">SRA3</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>B1</Position>
+      <TranslationSet>
+        <base loc="en">JIS B1</base>
+        <tran loc="ar">JIS B1</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>jis-b1</Position>
+      <TranslationSet>
+        <base loc="en">JIS B1</base>
+        <tran loc="ar">JIS B1</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Localized name for default paper. Localizers, please look in /System/Library/Frameworks/ 
+Carbon.framework/Frameworks/Print.framework/Resources/English.lproj/Localizable.strings file 
+for standard paper sizes. </Description>
+      <Position>DefaultPaperSize</Position>
+      <TranslationSet>
+        <base loc="en">na-letter</base>
+        <tran loc="ar">na-letter</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>118x118mm</Position>
+      <TranslationSet>
+        <base loc="en">118mm Disc</base>
+        <tran loc="ar">‏Disc ١١٨ مم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>EnvPRC5Rotated</Position>
+      <TranslationSet>
+        <base loc="en">Envelope PRC5 Long Edge</base>
+        <tran loc="ar">Envelope PRC5 Long Edge</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>EnvPRC6</Position>
+      <TranslationSet>
+        <base loc="en">Envelope PRC6</base>
+        <tran loc="ar">Envelope PRC6</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>w162h540</Position>
+      <TranslationSet>
+        <base loc="en">Internet Postage 2-Part</base>
+        <tran loc="ar">Internet Postage 2-Part</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>10x13</Position>
+      <TranslationSet>
+        <base loc="en">10 x 13</base>
+        <tran loc="ar">‏١٣ x ١٠</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DoublePostcard</Position>
+      <TranslationSet>
+        <base loc="en">Postcard Double</base>
+        <tran loc="ar">بطاقة بريدية مزدوجة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>A3Extra</Position>
+      <TranslationSet>
+        <base loc="en">A3 Oversize</base>
+        <tran loc="ar">A3 Oversize</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>iso-a3-extra</Position>
+      <TranslationSet>
+        <base loc="en">A3 Oversize</base>
+        <tran loc="ar">A3 Oversize</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>c7/c6 (envelope)</Position>
+      <TranslationSet>
+        <base loc="en">Envelope C7/C6</base>
+        <tran loc="ar">مغلف C7/C6</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>iso_c7c6_81x162mm</Position>
+      <TranslationSet>
+        <base loc="en">Envelope C7/C6</base>
+        <tran loc="ar">مغلف C7/C6</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>w41h248</Position>
+      <TranslationSet>
+        <base loc="en">File Folder</base>
+        <tran loc="ar">File Folder</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>A5.Transverse</Position>
+      <TranslationSet>
+        <base loc="en">A5 Long Edge</base>
+        <tran loc="ar">A5 Long Edge</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>A5Rotated</Position>
+      <TranslationSet>
+        <base loc="en">A5 Long Edge</base>
+        <tran loc="ar">A5 Long Edge</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>EnvChou4Rotated</Position>
+      <TranslationSet>
+        <base loc="en">Envelope Choukei 4 Long Edge</base>
+        <tran loc="ar">Envelope Choukei 4 Long Edge</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>na_wide-format_30x42in</Position>
+      <TranslationSet>
+        <base loc="en">ARCH E1</base>
+        <tran loc="ar">ARCH E1</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ISOB0</Position>
+      <TranslationSet>
+        <base loc="en">B0</base>
+        <tran loc="ar">B0</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> B </Description>
+      <Position>iso-b0</Position>
+      <TranslationSet>
+        <base loc="en">B0</base>
+        <tran loc="ar">B0</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Preset to print photos on glossy paper </Description>
+      <Position>Photo on Glossy Paper</Position>
+      <TranslationSet>
+        <base loc="en">Photo on Glossy Paper</base>
+        <tran loc="ar">صورة على ورق لامع</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>FolioSP</Position>
+      <TranslationSet>
+        <base loc="en">Folio - Special</base>
+        <tran loc="ar">Folio - Special</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>EnvPRC10Rotated</Position>
+      <TranslationSet>
+        <base loc="en">Envelope PRC10 Long Edge</base>
+        <tran loc="ar">Envelope PRC10 Long Edge</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description>**** Non Automatic stuff follows 
+ Other is displayed as a paper size when we can't find a matching size to 
+ correspond with the user's previously selected paper. </Description>
+      <Position>OTHER</Position>
+      <TranslationSet>
+        <base loc="en">Other</base>
+        <tran loc="ar">أخرى</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>juuro-ku-kai</Position>
+      <TranslationSet>
+        <base loc="en">Chinese 16K</base>
+        <tran loc="ar">الصينية (‎16K)</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>om_juuro-ku-kai_198x275mm</Position>
+      <TranslationSet>
+        <base loc="en">Chinese 16K</base>
+        <tran loc="ar">الصينية (‎16K)</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>8x10</Position>
+      <TranslationSet>
+        <base loc="en">8 x 10</base>
+        <tran loc="ar">‏٨ x ١٠</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>na-8x10</Position>
+      <TranslationSet>
+        <base loc="en">8 x 10</base>
+        <tran loc="ar">‏٨ x ١٠</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>iso_sra1_640x900mm</Position>
+      <TranslationSet>
+        <base loc="en">SRA1</base>
+        <tran loc="ar">SRA1</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> PPD_CS_N </Description>
+      <Position>DeviceN</Position>
+      <TranslationSet>
+        <base loc="en">DeviceN</base>
+        <tran loc="ar">DeviceN</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Postcard</Position>
+      <TranslationSet>
+        <base loc="en">Postcard</base>
+        <tran loc="ar">بطاقة بريدية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>B3</Position>
+      <TranslationSet>
+        <base loc="en">JIS B3</base>
+        <tran loc="ar">JIS B3</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>jis-b3</Position>
+      <TranslationSet>
+        <base loc="en">JIS B3</base>
+        <tran loc="ar">JIS B3</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>A4Small</Position>
+      <TranslationSet>
+        <base loc="en">A4 Small</base>
+        <tran loc="ar">A4 Small</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Preset to print photos on matte photo paper. </Description>
+      <Position>Photo on Matte Paper</Position>
+      <TranslationSet>
+        <base loc="en">Photo on Matte Paper</base>
+        <tran loc="ar">صورة على ورق غير لامع</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>10x11</Position>
+      <TranslationSet>
+        <base loc="en">10 x 11</base>
+        <tran loc="ar">‏١٠ x ١١</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>EnvPRC4</Position>
+      <TranslationSet>
+        <base loc="en">Envelope PRC4</base>
+        <tran loc="ar">Envelope PRC4</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ARCHD.Transverse</Position>
+      <TranslationSet>
+        <base loc="en">ARCH D Long Edge</base>
+        <tran loc="ar">ARCH D Long Edge</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>PrintingCore/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/PrintCore.framework/Versions/A/Resources/en.lproj/status.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>socket reading from input steam</Position>
+      <TranslationSet>
+        <base loc="en">socket reading from input steam</base>
+        <tran loc="ar">قراءة المأخذ من مصدر الإدخال</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>status:PrinterError: service call</Position>
+      <TranslationSet>
+        <base loc="en">The printer needs a service call.</base>
+        <tran loc="ar">الطابعة تحتاج للصيانة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>status:PrinterError: incorrect paper size setting</Position>
+      <TranslationSet>
+        <base loc="en">The paper size chosen in the Page Setup or Print dialog does not match the paper in the printer.</base>
+        <tran loc="ar">حجم الورق المختار في إعداد الصفحة أو مربع حوار الطباعة غير متطابق مع الورق الموجود بالطابعة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> The strings in this file are used to translate the status field of status messages received from a PostScript printer. 
+ Status format: %%[ status: &lt;one of these&gt; ]%% </Description>
+      <Position>status:idle</Position>
+      <TranslationSet>
+        <base loc="en">Starting job</base>
+        <tran loc="ar">بدء عملية الطباعة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Unable to create socket</Position>
+      <TranslationSet>
+        <base loc="en">Unable to create socket</base>
+        <tran loc="ar">غير قادر على إنشاء مأخذ</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Destination printer does not exist!</Position>
+      <TranslationSet>
+        <base loc="en">Destination printer does not exist.</base>
+        <tran loc="ar">الطابعة الوجهة غير موجودة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PrinterError:test printing stage</Position>
+      <TranslationSet>
+        <base loc="en">The printer is in the test printing stage.</base>
+        <tran loc="ar">الطابعة في مرحلة الاختبار.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>status:PrinterError: test printing stage</Position>
+      <TranslationSet>
+        <base loc="en">The printer is in the test printing stage.</base>
+        <tran loc="ar">الطابعة في مرحلة الاختبار.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Unable to send initial PAP send data request</Position>
+      <TranslationSet>
+        <base loc="en">Unable to send initial PAP send data request</base>
+        <tran loc="ar">غير قادر على إرسال طلب بيانات إرسال PAP الأولي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>status:waiting</Position>
+      <TranslationSet>
+        <base loc="en">Preparing data</base>
+        <tran loc="ar">إعداد البيانات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Printer off-line.</Position>
+      <TranslationSet>
+        <base loc="en">Printer off-line</base>
+        <tran loc="ar">الطباعة غير متصلة بالشبكة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Media tray empty!</Position>
+      <TranslationSet>
+        <base loc="en">The media tray is out of paper</base>
+        <tran loc="ar">لا يوجد ورق في الدرج</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PrinterError:Cassette (250 Sheets): out of paper</Position>
+      <TranslationSet>
+        <base loc="en">The printer has no paper in the 250 sheet cassette.</base>
+        <tran loc="ar">لا تحتوي الطابعة على ورق في الدرج سعة ٢٥٠ ورقة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>status:PrinterError: Cassette (250 Sheets): out of paper</Position>
+      <TranslationSet>
+        <base loc="en">The printer has no paper in the 250 sheet cassette.</base>
+        <tran loc="ar">لا تحتوي الطابعة على ورق في الدرج سعة ٢٥٠ ورقة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Serial port busy; will retry in 30 seconds...</Position>
+      <TranslationSet>
+        <base loc="en">Serial port busy; will retry in 30 seconds…</base>
+        <tran loc="ar">المنفذ التسلسلي مشغول، ستتم إعادة المحاولة خلال ٣٠ ثانية…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Printer busy; will retry in 10 seconds...</Position>
+      <TranslationSet>
+        <base loc="en">Printer busy; will retry in 10 seconds…</base>
+        <tran loc="ar">الطابعة مشغولة؛ ستتم إعادة المحاولة خلال ١٠ ثوانٍ…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Error:timeout</Position>
+      <TranslationSet>
+        <base loc="en">The printer has timed-out waiting for data.</base>
+        <tran loc="ar">هناك مهلة للطابعة لانتظار البيانات.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Print file sent, waiting for printer to finish...</Position>
+      <TranslationSet>
+        <base loc="en">Print file sent, waiting for printer to finish…</base>
+        <tran loc="ar">تم إرسال ملف الطباعة، وفي انتظار قيام الطابعة بالإنهاء…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Unable to wait for pictwpstops</Position>
+      <TranslationSet>
+        <base loc="en">Unable to wait for pictwpstops</base>
+        <tran loc="ar">غير قادر على انتظار pictwpstops</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Unable to send trailing nul to printer</Position>
+      <TranslationSet>
+        <base loc="en">Unable to send trailing nul to printer</base>
+        <tran loc="ar">غير قادر على إرسال قيمة خالية لاحقة إلى الطباعة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>unable to write to temporary file</Position>
+      <TranslationSet>
+        <base loc="en">Unable to write to temporary file</base>
+        <tran loc="ar">غير قادر على الكتابة إلى الملف المؤقت</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Printer busy</Position>
+      <TranslationSet>
+        <base loc="en">Printer busy</base>
+        <tran loc="ar">الطابعة مشغولة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>There was a timeout error while sending data to the printer</Position>
+      <TranslationSet>
+        <base loc="en">There was a timeout error while sending data to the printer</base>
+        <tran loc="ar">حدث خطأ انتهاء المهلة أثناء إرسال البيانات إلى الطابعة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PrinterError:paper exit misfeed</Position>
+      <TranslationSet>
+        <base loc="en">The printer has a paper jam.</base>
+        <tran loc="ar">يوجد تكدس للورق بالطابعة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PrinterError:paper jam</Position>
+      <TranslationSet>
+        <base loc="en">The printer has a paper jam.</base>
+        <tran loc="ar">يوجد تكدس للورق بالطابعة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PrinterError:paper pre-registration misfeed</Position>
+      <TranslationSet>
+        <base loc="en">The printer has a paper jam.</base>
+        <tran loc="ar">يوجد تكدس للورق بالطابعة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PrinterError:paper registration misfeed</Position>
+      <TranslationSet>
+        <base loc="en">The printer has a paper jam.</base>
+        <tran loc="ar">يوجد تكدس للورق بالطابعة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>status:PrinterError: paper exit misfeed</Position>
+      <TranslationSet>
+        <base loc="en">The printer has a paper jam.</base>
+        <tran loc="ar">يوجد تكدس للورق بالطابعة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>status:PrinterError: paper jam</Position>
+      <TranslationSet>
+        <base loc="en">The printer has a paper jam.</base>
+        <tran loc="ar">يوجد تكدس للورق بالطابعة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>status:PrinterError: paper pre-registration misfeed</Position>
+      <TranslationSet>
+        <base loc="en">The printer has a paper jam.</base>
+        <tran loc="ar">يوجد تكدس للورق بالطابعة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>status:PrinterError: paper registration misfeed</Position>
+      <TranslationSet>
+        <base loc="en">The printer has a paper jam.</base>
+        <tran loc="ar">يوجد تكدس للورق بالطابعة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>USB port busy; will retry in 30 seconds...</Position>
+      <TranslationSet>
+        <base loc="en">USB port busy; will retry in 30 seconds…</base>
+        <tran loc="ar">منفذ USB مشغول، ستتم إعادة المحاولة خلال ٣٠ ثانية…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Unable to connect to printer; will retry in 30 seconds...</Position>
+      <TranslationSet>
+        <base loc="en">Unable to connect to printer; will retry in 30 seconds…</base>
+        <tran loc="ar">غير قادر على الاتصال بالطابعة؛ ستتم إعادة المحاولة خلال ٣٠ ثانية…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PrinterError:Cassette (500 Sheets): out of paper</Position>
+      <TranslationSet>
+        <base loc="en">The printer has no paper in the 500 sheet cassette.</base>
+        <tran loc="ar">لا تحتوي الطابعة على ورق في الدرج سعة ٥٠٠ ورقة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>status:PrinterError: Cassette (500 Sheets): out of paper</Position>
+      <TranslationSet>
+        <base loc="en">The printer has no paper in the 500 sheet cassette.</base>
+        <tran loc="ar">لا تحتوي الطابعة على ورق في الدرج سعة ٥٠٠ ورقة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PrinterError:Multipurpose Tray: out of paper</Position>
+      <TranslationSet>
+        <base loc="en">The multipurpose tray is empty.</base>
+        <tran loc="ar">درج متعدد المهام فارغ.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>status:PrinterError: Multipurpose Tray: out of paper</Position>
+      <TranslationSet>
+        <base loc="en">The multipurpose tray is empty.</base>
+        <tran loc="ar">درج متعدد المهام فارغ.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Printer sent unexpected EOF</Position>
+      <TranslationSet>
+        <base loc="en">Printer sent unexpected EOF</base>
+        <tran loc="ar">أرسلت الطابعة رمز EOF غير متوقع</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Internally generated error strings. Reported by the PSPM itself. </Description>
+      <Position>Unable to open printer connection.</Position>
+      <TranslationSet>
+        <base loc="en">Unable to open printer connection.</base>
+        <tran loc="ar">لم استطع الاتصال بالطابعة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Unable to exec pictwpstops</Position>
+      <TranslationSet>
+        <base loc="en">Unable to exec pictwpstops</base>
+        <tran loc="ar">غير قادر على تنفيذ pictwpstops</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>select</Position>
+      <TranslationSet>
+        <base loc="en">select</base>
+        <tran loc="ar">تحديد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Opening connection</Position>
+      <TranslationSet>
+        <base loc="en">Opening connection</base>
+        <tran loc="ar">فتح الاتصال</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Couldn't create read channel</Position>
+      <TranslationSet>
+        <base loc="en">Couldn’t create read channel</base>
+        <tran loc="ar">تعذر إنشاء قناة قراءة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Ready to print.</Position>
+      <TranslationSet>
+        <base loc="en">Ready to print.</base>
+        <tran loc="ar">جاهز للطباعة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Printer Error format: %%[ PrinterError: &lt;one of these&gt; ]%% </Description>
+      <Position>PrinterError:cover open</Position>
+      <TranslationSet>
+        <base loc="en">The printer’s cover is open.</base>
+        <tran loc="ar">غطاء الطابعة مفتوح.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>status:PrinterError: cover open</Position>
+      <TranslationSet>
+        <base loc="en">The printer’s cover is open.</base>
+        <tran loc="ar">غطاء الطابعة مفتوح.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Printer not responding</Position>
+      <TranslationSet>
+        <base loc="en">Printer not responding</base>
+        <tran loc="ar">الطابعة لا تستجيب</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>socket failed socket write</Position>
+      <TranslationSet>
+        <base loc="en">socket failed socket write</base>
+        <tran loc="ar">فشل المأخذ في إجراء كتابة المأخذ</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Printer not connected; will retry in 30 seconds...</Position>
+      <TranslationSet>
+        <base loc="en">Printer not connected; will retry in 30 seconds…</base>
+        <tran loc="ar">الطابعة غير متصلة، ستتم إعادة المحاولة خلال ٣٠ ثانية…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>unable to create temporary file</Position>
+      <TranslationSet>
+        <base loc="en">Unable to create temporary file</base>
+        <tran loc="ar">غير قادر على إنشاء ملف مؤقت</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Unable to get PAP request</Position>
+      <TranslationSet>
+        <base loc="en">Unable to get PAP request</base>
+        <tran loc="ar">غير قادر على إحضار طلب PAP</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PrinterError:Envelope Feeder: no paper tray</Position>
+      <TranslationSet>
+        <base loc="en">The envelope feeder is empty.</base>
+        <tran loc="ar">وحدة تغذية المغلفات فارغة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PrinterError:Envelope Feeder: out of paper</Position>
+      <TranslationSet>
+        <base loc="en">The envelope feeder is empty.</base>
+        <tran loc="ar">وحدة تغذية المغلفات فارغة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>status:PrinterError: Envelope Feeder: no paper tray</Position>
+      <TranslationSet>
+        <base loc="en">The envelope feeder is empty.</base>
+        <tran loc="ar">وحدة تغذية المغلفات فارغة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>status:PrinterError: Envelope Feeder: out of paper</Position>
+      <TranslationSet>
+        <base loc="en">The envelope feeder is empty.</base>
+        <tran loc="ar">وحدة تغذية المغلفات فارغة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Sending data</Position>
+      <TranslationSet>
+        <base loc="en">Sending data</base>
+        <tran loc="ar">إرسال البيانات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PRINTER environment variable not defined!</Position>
+      <TranslationSet>
+        <base loc="en">PRINTER environment variable not defined.</base>
+        <tran loc="ar">لم يتم تعريف متغير بيئة PRINTER.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PrinterError:fixing temperature malfunction</Position>
+      <TranslationSet>
+        <base loc="en">The printer is fixing a temperature malfunction.</base>
+        <tran loc="ar">تقوم الطابعة بإصلاح خلل في درجة الحرارة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>status:PrinterError: fixing temperature malfunction</Position>
+      <TranslationSet>
+        <base loc="en">The printer is fixing a temperature malfunction.</base>
+        <tran loc="ar">تقوم الطابعة بإصلاح خلل في درجة الحرارة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Error:unregistered</Position>
+      <TranslationSet>
+        <base loc="en">The printer has reported an internal error.</base>
+        <tran loc="ar">هناك خطأ داخلي في الطابعة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PrinterError:service call</Position>
+      <TranslationSet>
+        <base loc="en">The printer needs to be serviced.</base>
+        <tran loc="ar">يلزم إجراء صيانة للطابعة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Unable to connect to printer (retrying in 30 seconds)</Position>
+      <TranslationSet>
+        <base loc="en">Unable to connect to printer (retrying in 30 seconds)</base>
+        <tran loc="ar">غير قادر على الاتصال بالطابعة (إعادة المحاولة خلال ٣٠ ثانية)</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Unable to reserve port</Position>
+      <TranslationSet>
+        <base loc="en">Unable to reserve port</base>
+        <tran loc="ar">غير قادر على حجز المنفذ</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Print file accepted - job ID unknown.</Position>
+      <TranslationSet>
+        <base loc="en">Print file accepted - job ID unknown.</base>
+        <tran loc="ar">تم قبول ملف الطباعة - معرّف المهمة غير معروف.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PrinterError:incorrect paper size setting</Position>
+      <TranslationSet>
+        <base loc="en">The printer’s paper size setting is incorrect..</base>
+        <tran loc="ar">إعداد حجم ورق الطابعة غير صحيح..</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Unable to send PAP tickle request</Position>
+      <TranslationSet>
+        <base loc="en">Unable to send PAP tickle request</base>
+        <tran loc="ar">غير قادر على إرسال طلب PAP البسيط</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Printer fault!</Position>
+      <TranslationSet>
+        <base loc="en">Printer fault</base>
+        <tran loc="ar">خطأ في الطابعة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PrinterError:duplex unit disconnected</Position>
+      <TranslationSet>
+        <base loc="en">The printer’s duplex unit is disconnected.</base>
+        <tran loc="ar">وحدة الطباعة على الوجهين بالطابعة غير متصلة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>status:PrinterError: duplex unit disconnected</Position>
+      <TranslationSet>
+        <base loc="en">The printer’s duplex unit is disconnected.</base>
+        <tran loc="ar">وحدة الطباعة على الوجهين بالطابعة غير متصلة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Control file sent successfully</Position>
+      <TranslationSet>
+        <base loc="en">Control file sent successfully</base>
+        <tran loc="ar">تم إرسال ملف التحكم بنجاح</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PrinterError:warming up</Position>
+      <TranslationSet>
+        <base loc="en">The printer is warming up.</base>
+        <tran loc="ar">الطابعة في مرحلة التجهيز.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>status:PrinterError: warming up</Position>
+      <TranslationSet>
+        <base loc="en">The printer is warming up.</base>
+        <tran loc="ar">الطابعة في مرحلة التجهيز.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PrinterError:duplex unit: no paper tray</Position>
+      <TranslationSet>
+        <base loc="en">The printer has no duplex paper tray.</base>
+        <tran loc="ar">لا يوجد درج أوراق للطباعة على الوجهين في الطابعة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>status:PrinterError: duplex unit: no paper tray</Position>
+      <TranslationSet>
+        <base loc="en">The printer has no duplex paper tray.</base>
+        <tran loc="ar">لا يوجد درج أوراق للطباعة على الوجهين في الطابعة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Unable to fork pictwpstops</Position>
+      <TranslationSet>
+        <base loc="en">Unable to fork pictwpstops</base>
+        <tran loc="ar">غير قادر على تكرار pictwpstops</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>status:busy</Position>
+      <TranslationSet>
+        <base loc="en">Processing job</base>
+        <tran loc="ar">تنفيذ عملية الطباعة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Parallel port busy; will retry in 30 seconds...</Position>
+      <TranslationSet>
+        <base loc="en">Parallel port busy; will retry in 30 seconds…</base>
+        <tran loc="ar">المنفذ المتوازي مشغول؛ ستتم إعادة المحاولة خلال ٣٠ ثانية…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Waiting for job to complete...</Position>
+      <TranslationSet>
+        <base loc="en">Waiting for job to complete…</base>
+        <tran loc="ar">يتم الآن انتظار اكتمال المهمة…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Unable to connect to IPP host</Position>
+      <TranslationSet>
+        <base loc="en">Unable to connect to IPP host</base>
+        <tran loc="ar">غير قادر على الاتصال بمضيف IPP</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>USB printer is busy; will retry in 5 seconds...</Position>
+      <TranslationSet>
+        <base loc="en">USB printer is busy; will retry in 5 seconds…</base>
+        <tran loc="ar">طابعة USB مشغولة، ستتم إعادة المحاولة خلال ٥ ثوانٍ…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Printer does not support IPP/1.1, trying IPP/1.0...</Position>
+      <TranslationSet>
+        <base loc="en">Printer does not support IPP/1.1, trying IPP/1.0…</base>
+        <tran loc="ar">الطابعة لا تدعم IPP/1.1، يتم الآن تجربة IPP/1.0…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Missing device URI on command-line and no DEVICE_URI environment variable!</Position>
+      <TranslationSet>
+        <base loc="en">Missing device URI on command-line and no DEVICE_URI environment variable.</base>
+        <tran loc="ar">يوجد عنوان URI مفقود لجهاز في سطر الأوامر ولا يوجد متغير بيئة DEVICE_URI.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>unable to open print file for reading</Position>
+      <TranslationSet>
+        <base loc="en">unable to open print file for reading</base>
+        <tran loc="ar">غير قادر على فتح ملف الطباعة للقراءة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Connected to host, sending print job...</Position>
+      <TranslationSet>
+        <base loc="en">Connected to host, sending print job…</base>
+        <tran loc="ar">تم الاتصال بالمضيف، ويتم إرسال مهمة الطباعة…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AppleTalk disabled in System Preferences.</Position>
+      <TranslationSet>
+        <base loc="en">AppleTalk disabled in System Preferences.</base>
+        <tran loc="ar">تم تعطيل AppleTalk في تفضيلات النظام.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AppleTalk disabled in System Preferences</Position>
+      <TranslationSet>
+        <base loc="en">AppleTalk disabled in System Preferences</base>
+        <tran loc="ar">تم تعطيل AppleTalk في تفضيلات النظام</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Unable to send LPD command</Position>
+      <TranslationSet>
+        <base loc="en">Unable to send LPD command</base>
+        <tran loc="ar">غير قادر على إرسال أمر LPD</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PrinterError:Complex page, image approximated</Position>
+      <TranslationSet>
+        <base loc="en">The printer is low on memory and will print a compressed image which may be of lower quality.</base>
+        <tran loc="ar">ذاكرة الطابعة منخفضة وستقوم بطباعة صورة مضغوطة ربما تكون ذات جودة أقل.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>status:PrinterError: Complex page, image approximated</Position>
+      <TranslationSet>
+        <base loc="en">The printer is low on memory and will print a compressed image which may be of lower quality.</base>
+        <tran loc="ar">ذاكرة الطابعة منخفضة وستقوم بطباعة صورة مضغوطة ربما تكون ذات جودة أقل.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Unable to send PAP status request</Position>
+      <TranslationSet>
+        <base loc="en">Unable to send PAP status request</base>
+        <tran loc="ar">غير قادر على إرسال طلب حالة PAP</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>unable to open print file</Position>
+      <TranslationSet>
+        <base loc="en">unable to open print file</base>
+        <tran loc="ar">غير قادر على فتح ملف الطباعة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Error:VMError</Position>
+      <TranslationSet>
+        <base loc="en">The printer does not have enough memory to print this job.</base>
+        <tran loc="ar">الطابعة ليس فيها ذاكرة إضافية لإتمام عملية الطباعة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>No device URI found in argv[0] or in DEVICE_URI environment variable!</Position>
+      <TranslationSet>
+        <base loc="en">No device URI found in argv[0] or in DEVICE_URI environment variable.</base>
+        <tran loc="ar">لم يتم العثور على عنوان URI لجهاز في argv[0] أو في متغير بيئة DEVICE_URI.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Unable to get default AppleTalk zone</Position>
+      <TranslationSet>
+        <base loc="en">Unable to get default AppleTalk zone</base>
+        <tran loc="ar">غير قادر على إحضار منطقة AppleTalk الافتراضية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Unable to lookup AppleTalk printers</Position>
+      <TranslationSet>
+        <base loc="en">Unable to lookup AppleTalk printers</base>
+        <tran loc="ar">غير قادر على البحث عن طابعات AppleTalk</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PrinterError:duplex unit rear cover open</Position>
+      <TranslationSet>
+        <base loc="en">The printer’s rear duplex cover is open.</base>
+        <tran loc="ar">الغطاء الخلفي لوحدة الطباعة على الوجهين بالطابعة مفتوح.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>status:PrinterError: duplex unit rear cover open</Position>
+      <TranslationSet>
+        <base loc="en">The printer’s rear duplex cover is open.</base>
+        <tran loc="ar">الغطاء الخلفي لوحدة الطباعة على الوجهين بالطابعة مفتوح.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Unable to look for PAP response</Position>
+      <TranslationSet>
+        <base loc="en">Unable to look for PAP response</base>
+        <tran loc="ar">غير قادر على البحث عن استجابة PAP</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Couldn't allocate internal buffer</Position>
+      <TranslationSet>
+        <base loc="en">Couldn’t allocate internal buffer</base>
+        <tran loc="ar">تعذر تخصيص ذاكرة التخزين المؤقت الداخلية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PrinterError:paper duplex inlet misfeed</Position>
+      <TranslationSet>
+        <base loc="en">The printer has a duplex unit paper jam.</base>
+        <tran loc="ar">الورق عالق في وحدة الطباعة على الوجهين بالطابعة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>status:PrinterError: paper duplex inlet misfeed</Position>
+      <TranslationSet>
+        <base loc="en">The printer has a duplex unit paper jam.</base>
+        <tran loc="ar">الورق عالق في وحدة الطباعة على الوجهين بالطابعة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>unable to stat print file</Position>
+      <TranslationSet>
+        <base loc="en">unable to stat print file</base>
+        <tran loc="ar">غير قادر على بدء ملف الطباعة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Unable to open USB Printing Class port</Position>
+      <TranslationSet>
+        <base loc="en">Unable to open USB Printing Class port</base>
+        <tran loc="ar">غير قادر على فتح منفذ فئة طباعة USB</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Error Format: %%[ Error:&lt;one of these&gt; ]%% </Description>
+      <Position>Error</Position>
+      <TranslationSet>
+        <base loc="en">This print job failed due to a printer PostScript™ error. (%@)</base>
+        <tran loc="ar">فشلت مهمة الطباعة هذه بسبب حدوث خطأ في طابعة PostScript™. (%@)</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Unable to write control file</Position>
+      <TranslationSet>
+        <base loc="en">Unable to write control file</base>
+        <tran loc="ar">غير قادر على كتابة ملف التحكم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PrinterError:Cassette (250 Sheets): no paper tray</Position>
+      <TranslationSet>
+        <base loc="en">The printer has no paper tray.</base>
+        <tran loc="ar">لا تحتوي الطابعة على درج ورق.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PrinterError:Cassette (500 Sheets): no paper tray</Position>
+      <TranslationSet>
+        <base loc="en">The printer has no paper tray.</base>
+        <tran loc="ar">لا تحتوي الطابعة على درج ورق.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>status:PrinterError: Cassette (250 Sheets): no paper tray</Position>
+      <TranslationSet>
+        <base loc="en">The printer has no paper tray.</base>
+        <tran loc="ar">لا تحتوي الطابعة على درج ورق.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>status:PrinterError: Cassette (500 Sheets): no paper tray</Position>
+      <TranslationSet>
+        <base loc="en">The printer has no paper tray.</base>
+        <tran loc="ar">لا تحتوي الطابعة على درج ورق.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Printer is busy; retrying print job...</Position>
+      <TranslationSet>
+        <base loc="en">Printer is busy; retrying print job…</base>
+        <tran loc="ar">الطابعة مشغولة؛ يتم الآن إعادة محاولة طباعة المهمة…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Unable to get PAP response</Position>
+      <TranslationSet>
+        <base loc="en">Unable to get PAP response</base>
+        <tran loc="ar">غير قادر على إحضار استجابة PAP</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Data file sent successfully</Position>
+      <TranslationSet>
+        <base loc="en">Data file sent successfully</base>
+        <tran loc="ar">تم إرسال ملف البيانات بنجاح</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Unable to send print file to printer</Position>
+      <TranslationSet>
+        <base loc="en">Unable to send print file to printer</base>
+        <tran loc="ar">غير قادر على إرسال ملف الطباعة إلى الطابعة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Error:configurationerror</Position>
+      <TranslationSet>
+        <base loc="en">The printer reported a configuration error.</base>
+        <tran loc="ar">هناك خطأ في تهيئة الطابعة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PrinterError:toner cartridge missing or incorrect</Position>
+      <TranslationSet>
+        <base loc="en">The printer has a missing or incorrect toner cartridge.</base>
+        <tran loc="ar">هناك عبوة مسحوق حبر مفقودة أو غير صحيحة بالطابعة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>status:PrinterError: toner cartridge missing or incorrect</Position>
+      <TranslationSet>
+        <base loc="en">The printer has a missing or incorrect toner cartridge.</base>
+        <tran loc="ar">هناك عبوة مسحوق حبر مفقودة أو غير صحيحة بالطابعة.</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>PrintingCore/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/PrintCore.framework/Versions/A/Resources/en.lproj/cups_apple.strings</Filepath>
+    <TextItem>
+      <Description> cgpdftoraster error </Description>
+      <Position>Execution of cgpdftoraster returned the error %d.</Position>
+      <TranslationSet>
+        <base loc="en">Execution of cgpdftoraster returned the error %d.</base>
+        <tran loc="ar">تنفيذ cgpdftoraster أرجع الخطأ %d.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Error communicating with printer. </Description>
+      <Position>Communication error.</Position>
+      <TranslationSet>
+        <base loc="en">Communication error.</base>
+        <tran loc="ar">خطأ في الاتصال.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> unable to open print file </Description>
+      <Position>Unable to open the print file.</Position>
+      <TranslationSet>
+        <base loc="en">Unable to open the print file.</base>
+        <tran loc="ar">غير قادر على فتح ملف الطباعة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Problem reading image file. </Description>
+      <Position>The image file, %s, could not be read.</Position>
+      <TranslationSet>
+        <base loc="en">The image file, %s, could not be read.</base>
+        <tran loc="ar">تعذرت قراءة ملف الصورة، `%s'.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Write error. </Description>
+      <Position>Unable to write print data.</Position>
+      <TranslationSet>
+        <base loc="en">Unable to write print data.</base>
+        <tran loc="ar">غير قادر على كتابة بيانات الطباعة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>USB invalid read size</Position>
+      <TranslationSet>
+        <base loc="en">USB invalid read size</base>
+        <tran loc="ar">قراءة حجم USB غير صالحة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> unable to open ppd file </Description>
+      <Position>Can't open the PPD file.</Position>
+      <TranslationSet>
+        <base loc="en">Can’t open the PPD file.</base>
+        <tran loc="ar">لا يمكن فتح ملف الـ PPD.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> efax stopped </Description>
+      <Position>The efax process was stopped with signal %d.</Position>
+      <TranslationSet>
+        <base loc="en">The efax process was stopped with signal %d.</base>
+        <tran loc="ar">تم إيقاف عملية efax بالإشارة %d.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Unable to connect to USB Printer on Airport Base Station. </Description>
+      <Position>Unable to open the printer (%s).</Position>
+      <TranslationSet>
+        <base loc="en">Unable to open the printer (%s).</base>
+        <tran loc="ar">غير قادر على فتح ملف الطباعة (%s).</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> fax process terminated </Description>
+      <Position>The fax process stopped unexpectedly.</Position>
+      <TranslationSet>
+        <base loc="en">The fax process stopped unexpectedly.</base>
+        <tran loc="ar">توقفت عملية الفاكس بشكل غير متوقع.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>Device name conflict</Position>
+      <TranslationSet>
+        <base loc="en">Device name conflict</base>
+        <tran loc="ar">تعارض في اسم الجهاز</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Message shown while we connect to a network printer. </Description>
+      <Position>Connecting to printer.</Position>
+      <TranslationSet>
+        <base loc="en">Connecting to printer.</base>
+        <tran loc="ar">يتم الآن الاتصال بالطابعة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Error reading cover page file. </Description>
+      <Position>Bad cover page file.</Position>
+      <TranslationSet>
+        <base loc="en">Bad cover page file.</base>
+        <tran loc="ar">ملف صفحة الغلاف غير صالح.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>Device specific error</Position>
+      <TranslationSet>
+        <base loc="en">Device specific error</base>
+        <tran loc="ar">خطأ خاص بالجهاز</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Printer is not connected to AirPort Base Station or is powered off. </Description>
+      <Position>AirPort printer is not connected or not powered on.</Position>
+      <TranslationSet>
+        <base loc="en">AirPort printer is not connected or not powered on.</base>
+        <tran loc="ar">طابعة AirPort غير متصلة أو أنها ليست قيد التشغيل.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Unable to connect to USB printer on Airport Base Station. </Description>
+      <Position>Unable to open printer (write failure).</Position>
+      <TranslationSet>
+        <base loc="en">Unable to open printer (write failure).</base>
+        <tran loc="ar">غير قادر على فتح الطابعة (فشل في الكتابة).</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> eprint invalid arg. </Description>
+      <Position>%s: '%s' is an invalid argument for the '%c' flag.</Position>
+      <TranslationSet>
+        <base loc="en">%1$s: ‘%2$s’ is an invalid argument for the ‘%3$c’ flag.</base>
+        <tran loc="ar">‏%1$s: ‏‘%2$s’ وسيطة غير صالحة للعلم ‘%3$c’.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Job source in cover page. </Description>
+      <Position>Printed From: </Position>
+      <TranslationSet>
+        <base loc="en">Printed From: </base>
+        <tran loc="ar">تمت الطباعة من: </tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> fax protocol error </Description>
+      <Position>There was a fax protocol error.</Position>
+      <TranslationSet>
+        <base loc="en">There was a fax protocol error.</base>
+        <tran loc="ar">خطأ في بروتوكول الفاكس.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>Open failure</Position>
+      <TranslationSet>
+        <base loc="en">Open failure</base>
+        <tran loc="ar">فشل الفتح</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> fatal, bad permissions for printing </Description>
+      <Position>'%s' can not be printed because of incorrect permissions.</Position>
+      <TranslationSet>
+        <base loc="en">‘%s’ can not be printed because of incorrect permissions.</base>
+        <tran loc="ar">لا يمكن طباعة ‘%s’ بسبب أذونات غير صحيحة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> writeProlog error </Description>
+      <Position> Unable to print %d text columns.</Position>
+      <TranslationSet>
+        <base loc="en"> Unable to print %d text columns.</base>
+        <tran loc="ar"> غير قادر على طباعة أعمدة نص %d.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No input data </Description>
+      <Position>There was no input data.</Position>
+      <TranslationSet>
+        <base loc="en">There was no input data.</base>
+        <tran loc="ar">لم يكن هناك بيانات إدخال.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> unhandled layout direction. </Description>
+      <Position>The layout direction, %d, could not be used.</Position>
+      <TranslationSet>
+        <base loc="en">The layout direction, %d, could not be used.</base>
+        <tran loc="ar">تعذر استخدام اتجاه التخطيط، %d.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> fax software error </Description>
+      <Position>There was a software fax error.</Position>
+      <TranslationSet>
+        <base loc="en">There was a software fax error.</base>
+        <tran loc="ar">حدث خطأ فاكس في البرنامج.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Driver version in cover/test page. </Description>
+      <Position>Driver Version: </Position>
+      <TranslationSet>
+        <base loc="en">Driver Version: </base>
+        <tran loc="ar">إصدار برنامج التشغيل: </tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> no answer </Description>
+      <Position>There was no answer to the call.</Position>
+      <TranslationSet>
+        <base loc="en">There was no answer to the call.</base>
+        <tran loc="ar">لم يتم الرد على المكالمة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> nstexttopdf 'prettyprint' option unsupported </Description>
+      <Position>nstexttopdf failed to set a font with %d characters per inch.</Position>
+      <TranslationSet>
+        <base loc="en">nstexttopdf failed to set a font with %d characters per inch.</base>
+        <tran loc="ar">فشل nstexttopdf في تعيين خط به %d من الحروف في البوصة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Unable to copy input file </Description>
+      <Position>Unable to copy the input file.</Position>
+      <TranslationSet>
+        <base loc="en">Unable to copy the input file.</base>
+        <tran loc="ar">غير قادر على نسخ ملف الإدخال.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> unable to create tiff pages </Description>
+      <Position>Unable to create tiff pages.</Position>
+      <TranslationSet>
+        <base loc="en">Unable to create tiff pages.</base>
+        <tran loc="ar">غير قادر على إنشاء صفحات tiff.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Job title in cover page. </Description>
+      <Position>Title: </Position>
+      <TranslationSet>
+        <base loc="en">Title: </base>
+        <tran loc="ar">العنوان: </tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> writeProlog error </Description>
+      <Position>Unable to print %dx%d text page.</Position>
+      <TranslationSet>
+        <base loc="en">Unable to print %1$dx%2$d text page.</base>
+        <tran loc="ar">غير قادر على طباعة الصفحة النصية %1$dx%2$d.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Header/footer for classified cover page. </Description>
+      <Position>Classified</Position>
+      <TranslationSet>
+        <base loc="en">Classified</base>
+        <tran loc="ar">سري</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Header/footer for unclassified cover page. </Description>
+      <Position>Unclassified</Position>
+      <TranslationSet>
+        <base loc="en">Unclassified</base>
+        <tran loc="ar">غير مصنف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>Thread failure</Position>
+      <TranslationSet>
+        <base loc="en">Thread failure</base>
+        <tran loc="ar">فشلت السلسلة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Unable to open file error. </Description>
+      <Position>Unable to open print file: %s</Position>
+      <TranslationSet>
+        <base loc="en">Unable to open print file: %s</base>
+        <tran loc="ar">غير قادر على فتح ملف الطباعة: %s</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>Invalid device name</Position>
+      <TranslationSet>
+        <base loc="en">Invalid device name</base>
+        <tran loc="ar">اسم جهاز غير صالح</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> preparing fax </Description>
+      <Position>Preparing fax...</Position>
+      <TranslationSet>
+        <base loc="en">Preparing fax…</base>
+        <tran loc="ar">يتم الآن تحضير الفاكس…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> CGPDFDocumentCreateWithURL open err. </Description>
+      <Position>The file '%s' could not be opened.</Position>
+      <TranslationSet>
+        <base loc="en">The file ‘%s’ could not be opened.</base>
+        <tran loc="ar">تعذر فتح الملف ‘%s’.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> unable to convert ps file </Description>
+      <Position>Unable to convert PostScript file.</Position>
+      <TranslationSet>
+        <base loc="en">Unable to convert PostScript file.</base>
+        <tran loc="ar">غير قادر على تحويل ملف PostScript.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> urfError, unable to read line. </Description>
+      <Position>Unable to read line: %s.</Position>
+      <TranslationSet>
+        <base loc="en">Unable to read line: %s.</base>
+        <tran loc="ar">غير قادر على قراءة السطر: %s.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Unable to resolve network printer address. </Description>
+      <Position>Unable to locate printer \"%s\".</Position>
+      <TranslationSet>
+        <base loc="en">Unable to locate printer “%s.”</base>
+        <tran loc="ar">غير قادر على تحديد موقع الطابعة \"%s\".</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> can't use pdf as cover page </Description>
+      <Position>Can not open '%s' as a PDF coverpage document.</Position>
+      <TranslationSet>
+        <base loc="en">Can not open ‘%s’ as a PDF coverpage document.</base>
+        <tran loc="ar">لا يمكن فتح ‘%s’ كمستند صفحة غلاف PDF.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> could not run efax </Description>
+      <Position>The efax process could not be started: %s.</Position>
+      <TranslationSet>
+        <base loc="en">The efax process could not be started: %s.</base>
+        <tran loc="ar">تعذر بدء عملية efax: ‏%s.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Printer location in cover/test page. </Description>
+      <Position>Location: </Position>
+      <TranslationSet>
+        <base loc="en">Location: </base>
+        <tran loc="ar">الموقع: </tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> End of page. </Description>
+      <Position>Finished page %@.</Position>
+      <TranslationSet>
+        <base loc="en">Finished page %@.</base>
+        <tran loc="ar">نهاية الصفحة %@.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Final message at end of job. </Description>
+      <Position>Ready to print.</Position>
+      <TranslationSet>
+        <base loc="en">Ready to print.</base>
+        <tran loc="ar">جاهز للطباعة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Paper dimensions in inches. </Description>
+      <Position>%@ x %@ inches</Position>
+      <TranslationSet>
+        <base loc="en">%1$@ x %2$@ inches</base>
+        <tran loc="ar">‏%1$@ x %2$@ بوصة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Connected to printer message. </Description>
+      <Position>Connected to printer.</Position>
+      <TranslationSet>
+        <base loc="en">Connected to printer.</base>
+        <tran loc="ar">متصل بالطابعة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Paper dimensions in cover/text page. </Description>
+      <Position>Media Dimensions: </Position>
+      <TranslationSet>
+        <base loc="en">Media Dimensions: </base>
+        <tran loc="ar">أبعاد الوسائط: </tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Bad input file. </Description>
+      <Position>Unsupported print data.</Position>
+      <TranslationSet>
+        <base loc="en">Unsupported print data.</base>
+        <tran loc="ar">بيانات الطابعة غير مدعومة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> invalid nUp value </Description>
+      <Position>The pages per sheet value is invalid.</Position>
+      <TranslationSet>
+        <base loc="en">The pages per sheet value is invalid.</base>
+        <tran loc="ar">قيمة الصفحات في الورقة غير صالحة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>USB invalid write size</Position>
+      <TranslationSet>
+        <base loc="en">USB invalid write size</base>
+        <tran loc="ar">كتابة حجم USB غير صالحة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Printer description in cover/test page. </Description>
+      <Position>Description: </Position>
+      <TranslationSet>
+        <base loc="en">Description: </base>
+        <tran loc="ar">الوصف: </tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Error sending print data to printer. </Description>
+      <Position>Unable to write print data: %@</Position>
+      <TranslationSet>
+        <base loc="en">Unable to write print data: %@</base>
+        <tran loc="ar">غير قادر على كتابة بيانات الطباعة: %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Unable to connect to USB printer on AirPort Base Station. </Description>
+      <Position>Unable to open the printer (read failure).</Position>
+      <TranslationSet>
+        <base loc="en">Unable to open the printer (read failure).</base>
+        <tran loc="ar">غير قادر على فتح الطابعة (فشل في القراءة).</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>Device not found</Position>
+      <TranslationSet>
+        <base loc="en">Device not found</base>
+        <tran loc="ar">لم يتم العثور على الجهاز</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> unable to open ppd. </Description>
+      <Position>Unable to open PPD file \"%s\" - %s on line %d</Position>
+      <TranslationSet>
+        <base loc="en">Unable to open PPD file “%1$s” - %2$s on line %3$d</base>
+        <tran loc="ar">غير قادر على فتح ملف PPD ‏ \"%1$s\" - ‏%2$s في السطر %3$d.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Printable area (left, bottom, right, top) in inches. </Description>
+      <Position>%@ x %@ to %@ x %@ inches</Position>
+      <TranslationSet>
+        <base loc="en">%1$@ x %2$@ to %3$@ x %4$@ inches</base>
+        <tran loc="ar">‏%1$@ x %2$@ إلى %3$@ x %4$@ بوصة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> no fax number provided </Description>
+      <Position>A fax number was not provided.</Position>
+      <TranslationSet>
+        <base loc="en">A fax number was not provided.</base>
+        <tran loc="ar">لم يتم توفير رقم الفاكس.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> connected to fax </Description>
+      <Position>Connected to %@.</Position>
+      <TranslationSet>
+        <base loc="en">Connected to %@.</base>
+        <tran loc="ar">متصل بـ %@.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Program usage. </Description>
+      <Position>Usage: %s job-id user title copies options [file]</Position>
+      <TranslationSet>
+        <base loc="en">Usage: %s job-id user title copies options [file]</base>
+        <tran loc="ar">الاستخدام: %s job-id خيارات نسخ عنوان مستخدم معرّف المهمة [الملف]</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>Device busy</Position>
+      <TranslationSet>
+        <base loc="en">Device busy</base>
+        <tran loc="ar">الجهاز مشغول.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> can't get url for cover page </Description>
+      <Position>Can not get the file path for '%s.'</Position>
+      <TranslationSet>
+        <base loc="en">Can not get the file path for ‘%s.’</base>
+        <tran loc="ar">لا يمكن الحصول على مسار الملف لـ ‘%s.’</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Printer is being used by another computer. </Description>
+      <Position>AirPort printer is busy.</Position>
+      <TranslationSet>
+        <base loc="en">AirPort printer is busy.</base>
+        <tran loc="ar">طابعة AirPort مشغولة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> unable to copy PDF file </Description>
+      <Position>Unable to copy the PDF file.</Position>
+      <TranslationSet>
+        <base loc="en">Unable to copy the PDF file.</base>
+        <tran loc="ar">غير قادر على نسخ ملف الـ PDF.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Internal inconsistency - some authentication data is missing </Description>
+      <Position>Authentication data is missing.</Position>
+      <TranslationSet>
+        <base loc="en">Authentication data is missing.</base>
+        <tran loc="ar">بيانات المصادقة مفقودة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> bad cpi value. </Description>
+      <Position>The lines per inch value, %f, was bad.</Position>
+      <TranslationSet>
+        <base loc="en">The lines per inch value, %f, was bad.</base>
+        <tran loc="ar">قيمة السطور في البوصة، %f، غير صالحة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> fatal, no pages </Description>
+      <Position>The file '%s' does not contain any pages.</Position>
+      <TranslationSet>
+        <base loc="en">The file ‘%s’ does not contain any pages.</base>
+        <tran loc="ar">الملف ‘%s’ لا يحتوي على أي صفحات.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> bad columns value. </Description>
+      <Position>The columns value, %d, was bad.</Position>
+      <TranslationSet>
+        <base loc="en">The columns value, %d, was bad.</base>
+        <tran loc="ar">قيمة الأعمدة، %d، غير صالحة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> incorrect permissions. </Description>
+      <Position>The file '%s' can not be printed because of incorrect permissions.</Position>
+      <TranslationSet>
+        <base loc="en">The file ‘%s’ can not be printed because of incorrect permissions.</base>
+        <tran loc="ar">لا يمكن طباعة الملف ‘%s’ بسبب أذونات غير صحيحة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>Close failure</Position>
+      <TranslationSet>
+        <base loc="en">Close failure</base>
+        <tran loc="ar">فشل الإغلاق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Printable area (left, bottom, right, top) in millimeters. </Description>
+      <Position>%@ x %@ to %@ x %@ millimeters</Position>
+      <TranslationSet>
+        <base loc="en">%1$@ x %2$@ to %3$@ x %4$@ millimeters</base>
+        <tran loc="ar">‏%1$@ x ‏%2$@ إلى %3$@ x %4$@ ميليمتر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Job owner in cover page. </Description>
+      <Position>Printed For: </Position>
+      <TranslationSet>
+        <base loc="en">Printed For: </base>
+        <tran loc="ar">تمت الطباعة لـ: </tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Unroutable address. </Description>
+      <Position>Network printer \"%s\" is unreachable at this time.</Position>
+      <TranslationSet>
+        <base loc="en">Network printer “%s” is unreachable at this time.</base>
+        <tran loc="ar">لا يمكن الوصول إلى طابعة الشبكة\"%s\" في الوقت الحالي.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> unable to copy raster file </Description>
+      <Position>Unable to open raster file.</Position>
+      <TranslationSet>
+        <base loc="en">Unable to open raster file.</base>
+        <tran loc="ar">تعذر فتح ملف المخطط النقطي.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> filter chain open error </Description>
+      <Position>Can't open temp file for writing to filter chain.</Position>
+      <TranslationSet>
+        <base loc="en">Can’t open temp file for writing to filter chain.</base>
+        <tran loc="ar">لا يمكن فتح الملف المؤقت من أجل الكتابة إلى سلسلة التصفية.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Can't fork to execute cgpdftoraster </Description>
+      <Position>Can't fork to execute the cgpdftoraster command.</Position>
+      <TranslationSet>
+        <base loc="en">Can’t fork to execute the cgpdftoraster command.</base>
+        <tran loc="ar">لا يمكن التفرع لتنفيذ أمر cgpdftoraster.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Unable to create temporary file error. </Description>
+      <Position>The fax backend could not create a temporary file.</Position>
+      <TranslationSet>
+        <base loc="en">The fax backend could not create a temporary file.</base>
+        <tran loc="ar">تعذر على العملية الخلفية للفاكس إنشاء ملف مؤقت.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Could not open stderr from efax </Description>
+      <Position>Could not open stderr from efax: %s.</Position>
+      <TranslationSet>
+        <base loc="en">Could not open stderr from efax: %s.</base>
+        <tran loc="ar">تعذر فتح stderr من efax: ‏%s.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Connection refused/printer busy. </Description>
+      <Position>Network printer \"%s\" is busy.</Position>
+      <TranslationSet>
+        <base loc="en">Network printer “%s” is busy.</base>
+        <tran loc="ar">طابعة الشبكة \"%s\" مشغولة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> urfError. </Description>
+      <Position>There was a urf error:%s.</Position>
+      <TranslationSet>
+        <base loc="en">There was a urf error:%s.</base>
+        <tran loc="ar">حدث خطأ urf:‏%s.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Start of page. </Description>
+      <Position>Starting page %@.</Position>
+      <TranslationSet>
+        <base loc="en">Starting page %@.</base>
+        <tran loc="ar">بداية الصفحة %@.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> nstexttopdf 'lpi' option unsupported </Description>
+      <Position>nstexttopdf 'lpi' option is currently unsupported.</Position>
+      <TranslationSet>
+        <base loc="en">nstexttopdf ‘lpi’ option is currently unsupported.</base>
+        <tran loc="ar">خيار nstexttopdf ‏‘lpi’ غير مدعوم حاليًا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>USB write error</Position>
+      <TranslationSet>
+        <base loc="en">USB write error</base>
+        <tran loc="ar">خطأ كتابة USB</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> unable to create CGPS Context </Description>
+      <Position>Unable to create graphic context.</Position>
+      <TranslationSet>
+        <base loc="en">Unable to create graphic context.</base>
+        <tran loc="ar">غير قادر على إنشاء سياق للرسومات.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> dialing </Description>
+      <Position>Dialing %@...</Position>
+      <TranslationSet>
+        <base loc="en">Dialing %@…</base>
+        <tran loc="ar">يتم الآن الاتصال بـ %@…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Header/footer for secret cover page. </Description>
+      <Position>Secret</Position>
+      <TranslationSet>
+        <base loc="en">Secret</base>
+        <tran loc="ar">سري</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Level 1 PS printers not supported </Description>
+      <Position>Level 1 PS printers are not supported.</Position>
+      <TranslationSet>
+        <base loc="en">Level 1 PS printers are not supported.</base>
+        <tran loc="ar">طابعات PS المستوى ١ غير مدعومة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Paper dimensions in millimeters. </Description>
+      <Position>%@ x %@ millimeters</Position>
+      <TranslationSet>
+        <base loc="en">%1$@ x %2$@ millimeters</base>
+        <tran loc="ar">‏%1$@ ‏x ‏%2$@ ميليمتر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> fax not responding </Description>
+      <Position>There is no response from the fax modem.</Position>
+      <TranslationSet>
+        <base loc="en">There is no response from the fax modem.</base>
+        <tran loc="ar">لا توجد استجابة من مودم الفاكس.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> pstopdfilter i/o error </Description>
+      <Position>The pstopdfilter had an i/o error while writing output.</Position>
+      <TranslationSet>
+        <base loc="en">The pstopdfilter had an i/o error while writing output.</base>
+        <tran loc="ar">وجد خطأ إدخال/إخراج في pstopdfilter أثناء كتابة الإخراج.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> fatal, invalid password </Description>
+      <Position>The password is invalid.</Position>
+      <TranslationSet>
+        <base loc="en">The password is invalid.</base>
+        <tran loc="ar">كلمة السر غير صالحة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> efax terminated </Description>
+      <Position>The efax process was terminated with signal %d.</Position>
+      <TranslationSet>
+        <base loc="en">The efax process was terminated with signal %d.</base>
+        <tran loc="ar">تم إنهاء عملية efax بالإشارة %d.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> unable to create cover page temp file </Description>
+      <Position>Unable to create temporary file for cover page.</Position>
+      <TranslationSet>
+        <base loc="en">Unable to create temporary file for cover page.</base>
+        <tran loc="ar">غير قادر على إنشاء ملف مؤقت لصفحة الغلاف.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Driver name in cover/test page. </Description>
+      <Position>Driver Name: </Position>
+      <TranslationSet>
+        <base loc="en">Driver Name: </base>
+        <tran loc="ar">اسم برنامج التشغيل: </tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Job options in cover page. </Description>
+      <Position>Options: </Position>
+      <TranslationSet>
+        <base loc="en">Options: </base>
+        <tran loc="ar">الخيارات: </tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> nstexttopdf 'prettyprint' option unsupported </Description>
+      <Position>nstexttopdf 'prettyprint' option is currently unsupported.</Position>
+      <TranslationSet>
+        <base loc="en">nstexttopdf ‘prettyprint’ option is currently unsupported.</base>
+        <tran loc="ar">خيار nstexttopdf ‏‘prettyprint’ غير مدعوم حاليًا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> no pages. </Description>
+      <Position>The file '%s' contains no pages.</Position>
+      <TranslationSet>
+        <base loc="en">The file ‘%s’ contains no pages.</base>
+        <tran loc="ar">الملف ‘%s’ لا يحتوي على صفحات.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Creation date/time in cover page. </Description>
+      <Position>Created On: </Position>
+      <TranslationSet>
+        <base loc="en">Created On: </base>
+        <tran loc="ar">تم الإنشاء في: </tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> sending pages </Description>
+      <Position>Sending page %d of %d...</Position>
+      <TranslationSet>
+        <base loc="en">Sending page %1$d of %2$d…</base>
+        <tran loc="ar">يتم الآن إرسال الصفحة %1$d من %2$d…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> bad cpi value. </Description>
+      <Position>The characters per inch value, %f, was bad.</Position>
+      <TranslationSet>
+        <base loc="en">The characters per inch value, %f, was bad.</base>
+        <tran loc="ar">قيمة الأحرف في البوصة، %f، غير صالحة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> ps message callback error. </Description>
+      <Position>ERROR: %s.</Position>
+      <TranslationSet>
+        <base loc="en">ERROR: %s.</base>
+        <tran loc="ar">خطأ: %s.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Print date/time in cover page. </Description>
+      <Position>Printed On: </Position>
+      <TranslationSet>
+        <base loc="en">Printed On: </base>
+        <tran loc="ar">تمت الطباعة في: </tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>Read failure</Position>
+      <TranslationSet>
+        <base loc="en">Read failure</base>
+        <tran loc="ar">فشلت القراءة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> problem reading image file </Description>
+      <Position>There was a problem reading the image file %s.</Position>
+      <TranslationSet>
+        <base loc="en">There was a problem reading the image file %s.</base>
+        <tran loc="ar">حدثت مشكلة أثناء قراءة ملف الصورة %s.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Page size in cover/test page. </Description>
+      <Position>Media Name: </Position>
+      <TranslationSet>
+        <base loc="en">Media Name: </base>
+        <tran loc="ar">اسم الوسائط: </tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> unable to copy pdf file </Description>
+      <Position>Unable to copy PDF file.</Position>
+      <TranslationSet>
+        <base loc="en">Unable to copy PDF file.</base>
+        <tran loc="ar">غير قادر على نسخ ملف PDF.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Job identifier in cover page. </Description>
+      <Position>Job ID: </Position>
+      <TranslationSet>
+        <base loc="en">Job ID: </base>
+        <tran loc="ar">معرّف المهمة: </tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Bad printer configuration detected. </Description>
+      <Position>Bad printer configuration.</Position>
+      <TranslationSet>
+        <base loc="en">Bad printer configuration.</base>
+        <tran loc="ar">تكوين الطابعة غير صحيح.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> waiting for modem </Description>
+      <Position>Waiting for modem to become available...</Position>
+      <TranslationSet>
+        <base loc="en">Waiting for modem to become available…</base>
+        <tran loc="ar">في انتظار أن يصبح المودم متاحًا…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>No error</Position>
+      <TranslationSet>
+        <base loc="en">No error</base>
+        <tran loc="ar">لا يوجد خطأ</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Make and model in cover/test page. </Description>
+      <Position>Make and Model: </Position>
+      <TranslationSet>
+        <base loc="en">Make and Model: </base>
+        <tran loc="ar">الصناعة والطراز: </tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>Unknown ioctl</Position>
+      <TranslationSet>
+        <base loc="en">Unknown ioctl</base>
+        <tran loc="ar">‏ioctl غير معروف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>Authentication required</Position>
+      <TranslationSet>
+        <base loc="en">Authentication required</base>
+        <tran loc="ar">المصادقة مطلوبة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Message shown when a printer in a pool is busy. </Description>
+      <Position>Unable to contact printer, queuing on next printer in class.</Position>
+      <TranslationSet>
+        <base loc="en">Unable to contact printer, queuing on next printer in class.</base>
+        <tran loc="ar">غير قادر على الاتصال بالطابعة، يتم الآن الإدراج على قائمة انتظار الطابعة التالية في الفئة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> nstexttopdf can't read text file </Description>
+      <Position>The text file, %s, could not be read.</Position>
+      <TranslationSet>
+        <base loc="en">The text file, %s, could not be read.</base>
+        <tran loc="ar">تعذرت قراءة ملف النص، `%s'.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Header/footer for confidential cover page. </Description>
+      <Position>Confidential</Position>
+      <TranslationSet>
+        <base loc="en">Confidential</base>
+        <tran loc="ar">خاص</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Printable area in cover/test page. </Description>
+      <Position>Media Limits: </Position>
+      <TranslationSet>
+        <base loc="en">Media Limits: </base>
+        <tran loc="ar">حدود الوسائط: </tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Job global identifier in cover page. </Description>
+      <Position>Job UUID: </Position>
+      <TranslationSet>
+        <base loc="en">Job UUID: </base>
+        <tran loc="ar">‏UUID المهمة: </tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> nstexttopdf 'columns' option unsupported </Description>
+      <Position>nstexttopdf 'columns' option is currently unsupported.</Position>
+      <TranslationSet>
+        <base loc="en">nstexttopdf ‘columns’ option is currently unsupported.</base>
+        <tran loc="ar">خيار nstexttopdf ‏‘أعمدة’ غير مدعوم حاليًا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> coverpage creation script fork error </Description>
+      <Position>Can not execute coverpage creation script due to error %s.</Position>
+      <TranslationSet>
+        <base loc="en">Can not execute coverpage creation script due to error %s.</base>
+        <tran loc="ar">لا يمكن تنفيذ البرنامج النصي لإنشاء صفحة غلاف بسبب الخطأ %s.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> number was busy </Description>
+      <Position>The phone number was busy.</Position>
+      <TranslationSet>
+        <base loc="en">The phone number was busy.</base>
+        <tran loc="ar">رقم الهاتف مشغول.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> unable to copy stdin </Description>
+      <Position>Unable to copy stdin.</Position>
+      <TranslationSet>
+        <base loc="en">Unable to copy stdin.</base>
+        <tran loc="ar">غير قادر على نسخ stdin.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Can't get URL for input file. </Description>
+      <Position>Can't get file path for '%s'.</Position>
+      <TranslationSet>
+        <base loc="en">Can’t get file path for ‘%s.’</base>
+        <tran loc="ar">لا يمكن الحصول على مسار الملف لـ ‘%s.’</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> eprint invalid arg. </Description>
+      <Position>%s: '%s' is an invalid argument.</Position>
+      <TranslationSet>
+        <base loc="en">%1$s: ‘%2$s’ is an invalid argument.</base>
+        <tran loc="ar">‏%1$s: ‏‘%2$s’ وسيطة غير صالحة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> coverpage script failed </Description>
+      <Position>Can not execute coverpage script due to error %s.</Position>
+      <TranslationSet>
+        <base loc="en">Can not execute coverpage script due to error %s.</base>
+        <tran loc="ar">لا يمكن تنفيذ البرنامج النصي لصفحة الغلاف بسبب الخطأ %s.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Can't create CFString </Description>
+      <Position>Can't create CFString.</Position>
+      <TranslationSet>
+        <base loc="en">Can’t create CFString.</base>
+        <tran loc="ar">لا يمكن إنشاء CFString.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Billing information in cover page. </Description>
+      <Position>Billing Information: </Position>
+      <TranslationSet>
+        <base loc="en">Billing Information: </base>
+        <tran loc="ar">معلومات الفوترة:</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>Client error</Position>
+      <TranslationSet>
+        <base loc="en">Client error</base>
+        <tran loc="ar">خطأ في العميل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Header/footer for top secret cover page. </Description>
+      <Position>Top Secret</Position>
+      <TranslationSet>
+        <base loc="en">Top Secret</base>
+        <tran loc="ar">سري للغاية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> no dial tone </Description>
+      <Position>No dial tone was detected.</Position>
+      <TranslationSet>
+        <base loc="en">No dial tone was detected.</base>
+        <tran loc="ar">لم يتم اكتشاف نغمة الاتصال.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Some other connection error. </Description>
+      <Position>Network printer \"%s\" is not responding.</Position>
+      <TranslationSet>
+        <base loc="en">Network printer “%s” is not responding.</base>
+        <tran loc="ar">طابعة الشبكة \"%s\" لا تستجيب.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Header/footer for standard cover page. </Description>
+      <Position>Cover Page</Position>
+      <TranslationSet>
+        <base loc="en">Cover Page</base>
+        <tran loc="ar">صفحة الغلاف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> finished sending fax document </Description>
+      <Position>Finished sending fax document.</Position>
+      <TranslationSet>
+        <base loc="en">Finished sending fax document.</base>
+        <tran loc="ar">تم الانتهاء من إرسال مستند الفاكس.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Routable address but unable to connect. </Description>
+      <Position>Network printer \"%s\" may not exist or is unavailable at this time.</Position>
+      <TranslationSet>
+        <base loc="en">Network printer “%s” may not exist or is unavailable at this time.</base>
+        <tran loc="ar">قد تكون طابعة الشبكة \"%s\" غير موجودة أو غير متوفرة في الوقت الحالي.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> fax process exited </Description>
+      <Position>The fax process has exited with status %d.</Position>
+      <TranslationSet>
+        <base loc="en">The fax process has exited with status %d.</base>
+        <tran loc="ar">تم إنهاء عملية الفاكس مع الحالة %d.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Header/footer for printer test page. </Description>
+      <Position>Printer Test Page</Position>
+      <TranslationSet>
+        <base loc="en">Printer Test Page</base>
+        <tran loc="ar">صفحة اختبار الطابعة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Can't create CFURL </Description>
+      <Position>Can't create CFURL.</Position>
+      <TranslationSet>
+        <base loc="en">Can’t create CFURL.</base>
+        <tran loc="ar">لا يمكن إنشاء CFURL.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Printer name in cover/test page. </Description>
+      <Position>Printer Name: </Position>
+      <TranslationSet>
+        <base loc="en">Printer Name: </base>
+        <tran loc="ar">اسم الطابعة: </tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>USB read error</Position>
+      <TranslationSet>
+        <base loc="en">USB read error</base>
+        <tran loc="ar">خطأ قراءة USB</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Can't create CG data consumer </Description>
+      <Position>Unable to create graphics data consumer.</Position>
+      <TranslationSet>
+        <base loc="en">Unable to create graphics data consumer.</base>
+        <tran loc="ar">غير قادر على إنشاء مستهلك بيانات الرسومات.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Can't open input file. </Description>
+      <Position>Can't open the file '%s'.</Position>
+      <TranslationSet>
+        <base loc="en">Can’t open the file ‘%s.’</base>
+        <tran loc="ar">لا يمكن فتح الملف ‘%s.’</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>PrintingCore/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/PrintCore.framework/Versions/A/Resources/en.lproj/pdfservices.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>Send via Messages</Position>
+      <TranslationSet>
+        <base loc="en">Send via Messages</base>
+        <tran loc="ar">إرسال في تطبيق الرسائل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> The strings in this file are used to translate the PDF Service names in /System/Library/PDF Services/. </Description>
+      <Position>Send in Mail</Position>
+      <TranslationSet>
+        <base loc="en">Send in Mail</base>
+        <tran loc="ar">إرسال في تطبيق البريد</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+</Proj>

@@ -1,0 +1,463 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Proj>
+  <ProjName>SQLiteAutomatorActions</ProjName>
+  <File>
+    <Filepath>SQLiteAutomatorActions/System/Library/Automator/Execute SQL.action/Contents/Resources/English.lproj/InfoPlist.strings</Filepath>
+    <TextItem>
+      <Description>  Description localized strings  </Description>
+      <Position>AMDSummary</Position>
+      <TranslationSet>
+        <base loc="en">This action executes some SQL against an SQLite database and produces output in one of several formats.</base>
+        <tran loc="ar">يؤدي هذا الإجراء إلى تنفيذ بعض جمل SQL على قاعدة بيانات SQLite وإظهار الإخراج بتنسيق واحد من عدة تنسيقات.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AMDOptions</Position>
+      <TranslationSet>
+        <base loc="en">Supply SQL to execute against each database and the format of the output.  The output may be formatted as plain text, HTML, or comma-separated values (CSV).</base>
+        <tran loc="ar">قم بتوفير جملة SQL المراد تنفيذها على كل قاعدة بيانات وتنسيق الإخراج.  قد يتم تنسيق الإخراج كنص عادي أو HTML أو قيم مفصولة بفواصل (CSV).</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description>  AMCategory localized strings  </Description>
+      <Position>Development</Position>
+      <TranslationSet>
+        <base loc="en">Development</base>
+        <tran loc="ar">تطوير</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>NSHumanReadableCopyright</Position>
+      <TranslationSet>
+        <base loc="en">Copyright © 2009-2013 Apple Inc.  All rights reserved.</base>
+        <tran loc="ar">‏‎Copyright © 2009-2013 Apple Inc.‎\n‏ كافة الحقوق محفوظة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AMDInput</Position>
+      <TranslationSet>
+        <base loc="en">One or more SQLite database files.</base>
+        <tran loc="ar">ملف قاعدة بيانات SQLite واحد أو أكثر.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AMDResult</Position>
+      <TranslationSet>
+        <base loc="en">One string per input database describing the results of executing the supplied SQL, in the requested output format.</base>
+        <tran loc="ar">سلسلة واحدة لكل قاعدة بيانات إدخال لوصف نتائج تنفيذ جملة SQL المحددة، بتنسيق الإخراج المطلوب.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AMName</Position>
+      <TranslationSet>
+        <base loc="en">Execute SQL</base>
+        <tran loc="ar">تنفيذ SQL</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Localized versions of Info.plist keys </Description>
+      <Position>CFBundleName</Position>
+      <TranslationSet>
+        <base loc="en">Execute SQL</base>
+        <tran loc="ar">تنفيذ SQL</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description>  AMApplication localized strings  </Description>
+      <Position>Xcode</Position>
+      <TranslationSet>
+        <base loc="en">Xcode</base>
+        <tran loc="ar">Xcode</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>SQLiteAutomatorActions/System/Library/Automator/Apply SQL.action/Contents/Resources/English.lproj/Localizable.strings</Filepath>
+    <TextItem>
+      <Description> Error string indicating that the SQLite subtask encountered an error.  Text is whatever the SQLite subtask printed to stderr, and will not be localized. </Description>
+      <Position>SQLite encountered an error: %@</Position>
+      <TranslationSet>
+        <base loc="en">SQLite encountered an error: %@</base>
+        <tran loc="ar">صادفت SQLite خطأ: %@</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>SQLiteAutomatorActions/System/Library/Automator/Execute SQL.action/Contents/Resources/English.lproj/Localizable.strings</Filepath>
+    <TextItem>
+      <Description> Error string indicating that the SQLite subtask encountered an error.  Text is whatever the SQLite subtask printed to stderr, and will not be localized. </Description>
+      <Position>SQLite encountered an error: %@</Position>
+      <TranslationSet>
+        <base loc="en">SQLite encountered an error: %@</base>
+        <tran loc="ar">صادفت SQLite خطأ: %@</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>SQLiteAutomatorActions/System/Library/Automator/Convert CSV to SQL.action/Contents/Resources/English.lproj/Localizable.strings</Filepath>
+    <TextItem>
+      <Description> There wasn't enough data for an entire column or row while parsing. </Description>
+      <Position>An error occurred while parsing CSV data: Insufficient data.</Position>
+      <TranslationSet>
+        <base loc="en">An error occurred while parsing CSV data: Insufficient data.</base>
+        <tran loc="ar">حدث خطأ أثناء توزيع بيانات CSV: البيانات غير كافية.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> End of row was expected but was not encountered, parameter is character that was seen instead. </Description>
+      <Position>An error occurred while parsing CSV data: Expected end of row, saw '%c' instead.</Position>
+      <TranslationSet>
+        <base loc="en">An error occurred while parsing CSV data: Expected end of row, saw '%c' instead.</base>
+        <tran loc="ar">حدث خطأ أثناء توزيع بيانات CSV: تم توقع نهاية صف، ولكن تم ظهور '%c' بدلاً من ذلك.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> End of column was reached and a column separator was expected but was not encountered, parameter is character that was seen instead. </Description>
+      <Position>An error occurred while parsing CSV data: Expected a column separator, saw '%c' instead.</Position>
+      <TranslationSet>
+        <base loc="en">An error occurred while parsing CSV data: Expected a column separator, saw '%c' instead.</base>
+        <tran loc="ar">حدث خطأ أثناء توزيع بيانات CSV: تم توقع فاصل أعمدة، ولكن تم ظهور '%c' بدلاً من ذلك.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> End of column was expected but was not encountered, parameter is character that was seen instead. </Description>
+      <Position>An error occurred while parsing CSV data: Expected end of column, saw '%c' instead.</Position>
+      <TranslationSet>
+        <base loc="en">An error occurred while parsing CSV data: Expected end of column, saw '%c' instead.</base>
+        <tran loc="ar">حدث خطأ أثناء توزيع بيانات CSV: تم توقع نهاية عمود، ولكن تم ظهور '%c' بدلاً من ذلك.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Internal error while parsing CSV data; this error should never be reached. </Description>
+      <Position>An internal error occurred while parsing CSV data.</Position>
+      <TranslationSet>
+        <base loc="en">An internal error occurred while parsing CSV data.</base>
+        <tran loc="ar">حدث خطأ داخلي أثناء توزيع بيانات CSV.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Start of column was expected but was not encountered, parameter is character that was seen instead. </Description>
+      <Position>An error occurred while parsing CSV data: Expected start of column, saw '%c' instead.</Position>
+      <TranslationSet>
+        <base loc="en">An error occurred while parsing CSV data: Expected start of column, saw '%c' instead.</base>
+        <tran loc="ar">حدث خطأ أثناء توزيع بيانات CSV: تم توقع بداية عمود، ولكن تم ظهور '%c' بدلاً من ذلك.</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>SQLiteAutomatorActions/System/Library/Automator/Convert CSV to SQL.action/Contents/Resources/English.lproj/main.strings</Filepath>
+    <TextItem>
+      <Description> Class = "NSTabViewItem"; label = "Before"; ObjectID = "14"; </Description>
+      <Position>14.label</Position>
+      <TranslationSet>
+        <base loc="en">Before</base>
+        <tran loc="ar">قبل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "First Row is Header"; ObjectID = "63"; </Description>
+      <Position>63.title</Position>
+      <TranslationSet>
+        <base loc="en">First Row is Header</base>
+        <tran loc="ar">الصف الأول عبارة عن رأس</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTabViewItem"; label = "Per Row"; ObjectID = "16"; </Description>
+      <Position>16.label</Position>
+      <TranslationSet>
+        <base loc="en">Per Row</base>
+        <tran loc="ar">لكل صف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Enter the SQL to be inserted at the beginning of the output, per each row of output, and at the end of the output."; ObjectID = "62"; </Description>
+      <Position>62.title</Position>
+      <TranslationSet>
+        <base loc="en">Enter the SQL to be inserted at the beginning of the output, per each row of output, and at the end of the output.</base>
+        <tran loc="ar">أدخل جملة SQL المراد إدراجها في بداية الإخراج، لكل صف من الإخراج، وفي نهاية الإخراج.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTabViewItem"; label = "After"; ObjectID = "20"; </Description>
+      <Position>20.label</Position>
+      <TranslationSet>
+        <base loc="en">After</base>
+        <tran loc="ar">بعد</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>SQLiteAutomatorActions/System/Library/Automator/Apply SQL.action/Contents/Resources/English.lproj/main.strings</Filepath>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Output:"; ObjectID = "88"; </Description>
+      <Position>88.title</Position>
+      <TranslationSet>
+        <base loc="en">Output:</base>
+        <tran loc="ar">الإخراج:</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "CSV"; ObjectID = "17"; </Description>
+      <Position>17.title</Position>
+      <TranslationSet>
+        <base loc="en">CSV</base>
+        <tran loc="ar">CSV</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Database:"; ObjectID = "87"; </Description>
+      <Position>87.title</Position>
+      <TranslationSet>
+        <base loc="en">Database:</base>
+        <tran loc="ar">قاعدة البيانات:</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "HTML"; ObjectID = "19"; </Description>
+      <Position>19.title</Position>
+      <TranslationSet>
+        <base loc="en">HTML</base>
+        <tran loc="ar">HTML</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "AMPathPopUpButton"; placeholder = "No Selection No Selection No Selection No Selection No Selection No Selection No Selection No Selection"; ObjectID = "20"; </Description>
+      <Position>20.placeholder</Position>
+      <TranslationSet>
+        <base loc="en">No Selection No Selection No Selection No Selection No Selection No Selection No Selection No Selection</base>
+        <tran loc="ar">لا يوجد تحديد لا يوجد تحديد لا يوجد تحديد لا يوجد تحديد لا يوجد تحديد لا يوجد تحديد لا يوجد تحديد لا يوجد تحديد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenu"; title = "OtherViews"; ObjectID = "16"; </Description>
+      <Position>16.title</Position>
+      <TranslationSet>
+        <base loc="en">OtherViews</base>
+        <tran loc="ar">OtherViews</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Plain Text"; ObjectID = "18"; </Description>
+      <Position>18.title</Position>
+      <TranslationSet>
+        <base loc="en">Plain Text</base>
+        <tran loc="ar">نص عادي</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>SQLiteAutomatorActions/System/Library/Automator/Convert CSV to SQL.action/Contents/Resources/English.lproj/InfoPlist.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>AMDInput</Position>
+      <TranslationSet>
+        <base loc="en">One or more strings or files in comma-separated value format.</base>
+        <tran loc="ar">توجد سلسلة أو ملف واحد أو أكثر بتنسيق قيم مفصولة بفواصل.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description>  AMCategory localized strings  </Description>
+      <Position>Development</Position>
+      <TranslationSet>
+        <base loc="en">Development</base>
+        <tran loc="ar">تطوير</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>NSHumanReadableCopyright</Position>
+      <TranslationSet>
+        <base loc="en">Copyright © 2009-2013 Apple Inc.  All rights reserved.</base>
+        <tran loc="ar">‏‎Copyright © 2009-2013 Apple Inc.‎\n‏ كافة الحقوق محفوظة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description>  Description localized strings  </Description>
+      <Position>AMDSummary</Position>
+      <TranslationSet>
+        <base loc="en">This action converts comma-separated value (CSV) input to SQL suitable for application to a database.</base>
+        <tran loc="ar">يؤدي هذا الإجراء إلى تحويل إدخال القيم المفصولة بفواصل (CSV) إلى جملة SQL مناسبة للتطبيق على قاعدة بيانات.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AMDOptions</Position>
+      <TranslationSet>
+        <base loc="en">Supply SQL commands to be placed before the input, to be used in place of each line of input, and to be placed after the input.  Also indicate whether the first line of input is a header containing column names.  To substitute the value of a field in the current line of input, use the format %{field}@ where field is the number of the field starting from 1.  In the SQL to be placed before and after the input, the current line is the first line of input.</base>
+        <tran loc="ar">قم بتوفير أوامر SQL المراد وضعها قبل الإدخال، واستخدامها مكان كل سطر من الإدخال، ووضعها بعد الإدخال.  قم أيضًا بتحديد ما إذا كان السطر الأول من الإدخال عنوانًا يشتمل على أسماء أعمدة أم لا.  لاستبدال قيمة حقل في السطر الحالي من الإدخال، استخدم التنسيق %{field}@ حيث تشير كلمة field إلى رقم الحقل بداية من 1.  في جملة SQL المراد وضعها قبل الإدخال وبعده، يكون السطر الحالي هو السطر الأول من الإدخال.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AMName</Position>
+      <TranslationSet>
+        <base loc="en">Convert CSV to SQL</base>
+        <tran loc="ar">تحويل CSV إلى SQL</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Localized versions of Info.plist keys </Description>
+      <Position>CFBundleName</Position>
+      <TranslationSet>
+        <base loc="en">Convert CSV to SQL</base>
+        <tran loc="ar">تحويل CSV إلى SQL</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description>  AMApplication localized strings  </Description>
+      <Position>Xcode</Position>
+      <TranslationSet>
+        <base loc="en">Xcode</base>
+        <tran loc="ar">Xcode</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AMDResult</Position>
+      <TranslationSet>
+        <base loc="en">One sequence of SQL commands per input.</base>
+        <tran loc="ar">تسلسل واحد من أوامر SQL لكل إدخال.</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>SQLiteAutomatorActions/System/Library/Automator/Apply SQL.action/Contents/Resources/English.lproj/InfoPlist.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>AMDOptions</Position>
+      <TranslationSet>
+        <base loc="en">Select the database to apply the input SQL commands to and the format of the output.  You may choose an existing database or create a new one.  The output may be formatted as plain text, HTML, or comma-separated values (CSV).</base>
+        <tran loc="ar">حدد قاعدة البيانات المراد تطبيق أوامر SQL المدخلة عليها وتنسيق الإخراج.  يمكن اختيار قاعدة بيانات موجودة أو إنشاء واحدة جديدة.  قد يتم تنسيق الإخراج كنص عادي أو HTML أو قيم مفصولة بفواصل (CSV).</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AMName</Position>
+      <TranslationSet>
+        <base loc="en">Apply SQL</base>
+        <tran loc="ar">تطبيق SQL</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Localized versions of Info.plist keys </Description>
+      <Position>CFBundleName</Position>
+      <TranslationSet>
+        <base loc="en">Apply SQL</base>
+        <tran loc="ar">تطبيق SQL</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AMDInput</Position>
+      <TranslationSet>
+        <base loc="en">One or more sequences of SQL commands, either as strings or files.  Each string or file is executed against the database in sequence.</base>
+        <tran loc="ar">واحد أو أكثر من تسلسلات أوامر SQL، إما أن تكون سلاسل أو ملفات.  يتم تنفيذ كل سلسلة أو ملف على قاعدة البيانات في التسلسل.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description>  AMCategory localized strings  </Description>
+      <Position>Development</Position>
+      <TranslationSet>
+        <base loc="en">Development</base>
+        <tran loc="ar">تطوير</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>NSHumanReadableCopyright</Position>
+      <TranslationSet>
+        <base loc="en">Copyright © 2009-2013 Apple Inc.  All rights reserved.</base>
+        <tran loc="ar">‏‎Copyright © 2009-2013 Apple Inc.‎\n‏ كافة الحقوق محفوظة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description>  AMApplication localized strings  </Description>
+      <Position>Xcode</Position>
+      <TranslationSet>
+        <base loc="en">Xcode</base>
+        <tran loc="ar">Xcode</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AMDResult</Position>
+      <TranslationSet>
+        <base loc="en">One string per input sequence of SQL commands, describing the results of executing the SQL against the specified database, in the requested output format.</base>
+        <tran loc="ar">سلسلة واحدة لكل تسلسل إدخال من أوامر SQL، لوصف نتائج تنفيذ SQL على قاعدة البيانات المحددة، في تنسيق الإخراج المطلوب.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description>  Description localized strings  </Description>
+      <Position>AMDSummary</Position>
+      <TranslationSet>
+        <base loc="en">This action applies the input SQL against an SQLite database and produces output in one of several formats.</base>
+        <tran loc="ar">يؤدي هذا الإجراء إلى تطبيق إدخال SQL على قاعدة البيانات SQLite وإظهار الإخراج بتنسيق واحد من عدة تنسيقات.</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>SQLiteAutomatorActions/System/Library/Automator/Execute SQL.action/Contents/Resources/English.lproj/main.strings</Filepath>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Output:"; ObjectID = "39"; </Description>
+      <Position>39.title</Position>
+      <TranslationSet>
+        <base loc="en">Output:</base>
+        <tran loc="ar">الإخراج:</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "CSV"; ObjectID = "18"; </Description>
+      <Position>18.title</Position>
+      <TranslationSet>
+        <base loc="en">CSV</base>
+        <tran loc="ar">CSV</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "HTML"; ObjectID = "20"; </Description>
+      <Position>20.title</Position>
+      <TranslationSet>
+        <base loc="en">HTML</base>
+        <tran loc="ar">HTML</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "SQL Commands:"; ObjectID = "38"; </Description>
+      <Position>38.title</Position>
+      <TranslationSet>
+        <base loc="en">SQL Commands:</base>
+        <tran loc="ar">أوامر SQL:</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenu"; title = "OtherViews"; ObjectID = "17"; </Description>
+      <Position>17.title</Position>
+      <TranslationSet>
+        <base loc="en">OtherViews</base>
+        <tran loc="ar">OtherViews</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Plain Text"; ObjectID = "19"; </Description>
+      <Position>19.title</Position>
+      <TranslationSet>
+        <base loc="en">Plain Text</base>
+        <tran loc="ar">نص عادي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "CocoaBindingsConnection"; ibShadowedNoSelectionPlaceholder = "Enter SQL commands to execute in this field."; ObjectID = "36"; </Description>
+      <Position>36.ibShadowedNoSelectionPlaceholder</Position>
+      <TranslationSet>
+        <base loc="en">Enter SQL commands to execute in this field.</base>
+        <tran loc="ar">أدخل أوامر SQL المراد تنفيذها في هذا الحقل.</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+</Proj>

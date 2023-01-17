@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Proj>
+  <ProjName>Security_executables</ProjName>
+  <File>
+    <Filepath>Security_executables/System/Library/CoreServices/Keychain Circle Notification.app/Contents/Resources/en.lproj/Localizable.strings</Filepath>
+    <TextItem>
+      <Description> Message text for new keychain syncing device notification </Description>
+      <Position>\\U201C%1$@\\U201D wants to use your passwords.</Position>
+      <TranslationSet>
+        <base loc="en">“%1$@” wants to use your passwords.</base>
+        <tran loc="ar">يرغب \"%1$@\" في استخدام كلمات السر الخاصة بك.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Body for iCloud Keychain Reset notification
+   Body text for iCloud Keychain Application still pending (from this device) reminder </Description>
+      <Position>Approve this Mac from another device to use iCloud Keychain.</Position>
+      <TranslationSet>
+        <base loc="en">Approve this Mac from another device to use iCloud Keychain.</base>
+        <tran loc="ar">الموافقة على هذا الـ Mac من جهاز آخر لاستخدام سلسلة مفاتيح iCloud.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Title for iCloud Keychain Application still pending (from this device) reminder
+   Title for new keychain syncing device notification </Description>
+      <Position>iCloud Keychain</Position>
+      <TranslationSet>
+        <base loc="en">iCloud Keychain</base>
+        <tran loc="ar">سلسلة مفاتيح iCloud</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+</Proj>

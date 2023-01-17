@@ -1,0 +1,967 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Proj>
+  <ProjName>CFNetwork</ProjName>
+  <File>
+    <Filepath>CFNetwork/System/Library/Frameworks/CFNetwork.framework/Versions/A/Resources/en.lproj/Localizable.strings</Filepath>
+    <TextItem>
+      <Description> HTTP result code string </Description>
+      <Position>redirected</Position>
+      <TranslationSet>
+        <base loc="en">redirected</base>
+        <tran loc="ar">تمت إعادة التوجيه</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> AuthBrokerAgent proxy credential settings user notification - alert message, args are 1) host name, 2) port number 3) (optional) proces name </Description>
+      <Position>Enter the password for the HTTP proxy %@:%d in Settings.%@</Position>
+      <TranslationSet>
+        <base loc="en">Enter the password for the HTTP proxy %@:%d in Settings.%@</base>
+        <tran loc="ar">أدخل كلمة السر لمُلقم HTTP‏ %@:%d في الإعدادات.%@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> HTTP result code string </Description>
+      <Position>non-authoritative information</Position>
+      <TranslationSet>
+        <base loc="en">non-authoritative information</base>
+        <tran loc="ar">معلومات غير مخوّل بها</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> WebFoundationErrorNoPermissionsToReadFile description </Description>
+      <Position>Err-1102</Position>
+      <TranslationSet>
+        <base loc="en">You do not have permission to access the requested resource.</base>
+        <tran loc="ar">لا يتوفر لديك الإذن للوصول إلى المصدر المطلوب.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> WebFoundationErrorCannotCloseFile description </Description>
+      <Position>Err-3002</Position>
+      <TranslationSet>
+        <base loc="en">Failure occurred while closing file</base>
+        <tran loc="ar">حدث فشل أثناء إغلاق الملف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> HTTP result code string </Description>
+      <Position>switching protocols</Position>
+      <TranslationSet>
+        <base loc="en">switching protocols</base>
+        <tran loc="ar">تبديل البروتوكولات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> kCFURLErrorInternationalRoamingOff description </Description>
+      <Position>Err-1018</Position>
+      <TranslationSet>
+        <base loc="en">International roaming is currently off.</base>
+        <tran loc="ar">التجوال الدولي مغلق حاليًا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> HTTP result code string </Description>
+      <Position>no error</Position>
+      <TranslationSet>
+        <base loc="en">no error</base>
+        <tran loc="ar">لا يوجد خطأ</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> HTTP result code string </Description>
+      <Position>reset content</Position>
+      <TranslationSet>
+        <base loc="en">reset content</base>
+        <tran loc="ar">إعادة تعيين المحتوى</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> HTTP result code string </Description>
+      <Position>service unavailable</Position>
+      <TranslationSet>
+        <base loc="en">service unavailable</base>
+        <tran loc="ar">الخدمة غير متوفرة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> WebFoundationErrorClientCertificateRejected description </Description>
+      <Position>Err-1205</Position>
+      <TranslationSet>
+        <base loc="en">The server did not accept the certificate.</base>
+        <tran loc="ar">لم يقبل الخادم الشهادة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> This computer’s Internet connection may be offline. </Description>
+      <Position>CONNECTION_INDETERMINATE</Position>
+      <TranslationSet>
+        <base loc="en">This computer’s Internet connection may be offline.</base>
+        <tran loc="ar">قد يكون اتصال الكمبيوتر بالإنترنت في وضع عدم الاتصال.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> HTTP result code string </Description>
+      <Position>method not allowed</Position>
+      <TranslationSet>
+        <base loc="en">method not allowed</base>
+        <tran loc="ar">الطريقة غير مسموح بها</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> AuthBrokerAgent proxy credential user notification - alert message, args are 1) proxy type, 2) host name, 3) port number, e.g.:  Authentication for HTTP proxy csd3.apple.com:8080 </Description>
+      <Position>Enter the password for the %@ proxy %@:%d%@</Position>
+      <TranslationSet>
+        <base loc="en">Enter the password for the %@ proxy %@:%d%@</base>
+        <tran loc="ar">أدخل كلمة السر لمُلقم %@ ‏%@:%d%@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> WebFoundationErrorServerCertificateHasUnknownRoot description </Description>
+      <Position>Err-1203</Position>
+      <TranslationSet>
+        <base loc="en">The certificate for this server was signed by an unknown certifying authority.</base>
+        <tran loc="ar">الشهادة لهذا الخادم موقعة من قِبل جهة موثقة غير معروفة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> HTTP result code string </Description>
+      <Position>bad gateway</Position>
+      <TranslationSet>
+        <base loc="en">bad gateway</base>
+        <tran loc="ar">عبّارة غير صالحة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> HTTP result code string </Description>
+      <Position>precondition failed</Position>
+      <TranslationSet>
+        <base loc="en">precondition failed</base>
+        <tran loc="ar">فشل الشرط المسبق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> WebFoundationErrorZeroByteResourceError description </Description>
+      <Position>Err-1014</Position>
+      <TranslationSet>
+        <base loc="en">zero byte resource</base>
+        <tran loc="ar">مورد بحجم صفر بايت</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> kCFURLErrorRequestBodyStreamExhausted description.  Should never be seen by an end user. </Description>
+      <Position>Err-1021</Position>
+      <TranslationSet>
+        <base loc="en">request body stream exhausted</base>
+        <tran loc="ar">طلب تدفق النص قد استُنفذ</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> HTTP result code string </Description>
+      <Position>no content</Position>
+      <TranslationSet>
+        <base loc="en">no content</base>
+        <tran loc="ar">بلا محتوى</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> WebFoundationErrorCannotParseResponse description </Description>
+      <Position>Err-1017</Position>
+      <TranslationSet>
+        <base loc="en">cannot parse response</base>
+        <tran loc="ar">لا يمكن توزيع الاستجابة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> WebFoundationErrorServerCertificateNotYetValid description </Description>
+      <Position>Err-1204</Position>
+      <TranslationSet>
+        <base loc="en">The certificate for this server is not yet valid.</base>
+        <tran loc="ar">الشهادة لهذا الخادم غير صالحة بعد.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> WebFoundationErrorUnsupportedURL description </Description>
+      <Position>Err-1002</Position>
+      <TranslationSet>
+        <base loc="en">unsupported URL</base>
+        <tran loc="ar">‏URL غير مدعوم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> HTTP result code string </Description>
+      <Position>proxy authentication required</Position>
+      <TranslationSet>
+        <base loc="en">proxy authentication required</base>
+        <tran loc="ar">مصادقة المُلقم مطلوبة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> HTTP result code string </Description>
+      <Position>requested range not satisfiable</Position>
+      <TranslationSet>
+        <base loc="en">requested range not satisfiable</base>
+        <tran loc="ar">النطاق المطلوب غير مُرضي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> HTTP result code string </Description>
+      <Position>not found</Position>
+      <TranslationSet>
+        <base loc="en">not found</base>
+        <tran loc="ar">لم يتم العثور عليه</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> WebFoundationErrorDataLengthExceedsMaximum description </Description>
+      <Position>Err-1103</Position>
+      <TranslationSet>
+        <base loc="en">resource exceeds maximum size</base>
+        <tran loc="ar">تجاوز المورد الحد الأقصى للحجم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> WebFoundationErrorCannotMoveFile description </Description>
+      <Position>Err-3005</Position>
+      <TranslationSet>
+        <base loc="en">Cannot move file</base>
+        <tran loc="ar">لا يمكن نقل الملف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> kCFURLErrorDataNotAllowed description </Description>
+      <Position>Err-1020</Position>
+      <TranslationSet>
+        <base loc="en">A data connection is not currently allowed.</base>
+        <tran loc="ar">اتصال البيانات غير مسموح به حاليًا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> WebFoundationErrorCannotFindHostError description </Description>
+      <Position>Err-1003</Position>
+      <TranslationSet>
+        <base loc="en">A server with the specified hostname could not be found.</base>
+        <tran loc="ar">لم يتم العثور على خادم باسم المضيف المحدد.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> AuthBrokerAgent proxy credential user notification - System Preferences button title </Description>
+      <Position>System Preferences</Position>
+      <TranslationSet>
+        <base loc="en">System Preferences</base>
+        <tran loc="ar">تفضيلات النظام</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> WebFoundationErrorBadURLError description </Description>
+      <Position>Err-1000</Position>
+      <TranslationSet>
+        <base loc="en">bad URL</base>
+        <tran loc="ar">‏URL غير صالح</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> This computer’s DNS server is not responding. </Description>
+      <Position>NAMESERVER_DOWN</Position>
+      <TranslationSet>
+        <base loc="en">This computer’s DNS server is not responding.</base>
+        <tran loc="ar">خادم DNS الخاص بهذا الكمبيوتر لا يستجيب.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> HTTP result code string </Description>
+      <Position>no longer exists</Position>
+      <TranslationSet>
+        <base loc="en">no longer exists</base>
+        <tran loc="ar">لم يعد موجودًا</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> WebFoundationErrorSecureConnectionFailed description </Description>
+      <Position>Err-1200</Position>
+      <TranslationSet>
+        <base loc="en">An SSL error has occurred and a secure connection to the server cannot be made.</base>
+        <tran loc="ar">حدث خطأ في SSL ولا يمكن عمل اتصال آمن للخادم.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> HTTP result code string </Description>
+      <Position>unauthorized</Position>
+      <TranslationSet>
+        <base loc="en">unauthorized</base>
+        <tran loc="ar">غير مصرّح به</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> HTTP result code string </Description>
+      <Position>unsupported media type</Position>
+      <TranslationSet>
+        <base loc="en">unsupported media type</base>
+        <tran loc="ar">نوع وسائط غير مدعوم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> WebFoundationErrorServerCertificateNotYetValid description </Description>
+      <Position>Err-1204.w</Position>
+      <TranslationSet>
+        <base loc="en">The certificate for this server is not yet valid. You might be connecting to a server that is pretending to be “%@” which could put your confidential information at risk.</base>
+        <tran loc="ar">الشهادة لهذا الخادم غير صالحة بعد. يمكن أن تكون على اتصال بخادم مدّعى أنه \"%@\" الذي يمكن أن يعرّض معلوماتك السرية للخطر.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> HTTP result code string </Description>
+      <Position>client error</Position>
+      <TranslationSet>
+        <base loc="en">client error</base>
+        <tran loc="ar">خطأ في العميل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> WebFoundationErrorTimedOut description </Description>
+      <Position>Err-1001</Position>
+      <TranslationSet>
+        <base loc="en">The request timed out.</base>
+        <tran loc="ar">انتهت مهلة الطلب.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> WebFoundationErrorServerCertificateUntrusted description </Description>
+      <Position>Err-1202.w</Position>
+      <TranslationSet>
+        <base loc="en">The certificate for this server is invalid. You might be connecting to a server that is pretending to be “%@” which could put your confidential information at risk.</base>
+        <tran loc="ar">الشهادة لهذا الخادم غير صالحة. يمكن أن تكون على اتصال بخادم مدّعى أنه \"%@\" الذي يمكن أن يعرّض معلوماتك السرية للخطر.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> This computer’s Internet connection appears to be online. </Description>
+      <Position>CONNECTION_UP</Position>
+      <TranslationSet>
+        <base loc="en">This computer’s Internet connection appears to be online.</base>
+        <tran loc="ar">يبدو أن اتصال الكمبيوتر بالإنترنت في وضع الاتصال.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> This computer’s Internet connection appears to be online. </Description>
+      <Position>SERVER_UP</Position>
+      <TranslationSet>
+        <base loc="en">This computer’s Internet connection appears to be online.</base>
+        <tran loc="ar">يبدو أن اتصال الكمبيوتر بالإنترنت في وضع الاتصال.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> HTTP result code string </Description>
+      <Position>length required</Position>
+      <TranslationSet>
+        <base loc="en">length required</base>
+        <tran loc="ar">الطول المطلوب</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> HTTP result code string </Description>
+      <Position>see other</Position>
+      <TranslationSet>
+        <base loc="en">see other</base>
+        <tran loc="ar">راجع أخرى</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> WebFoundationErrorCannotCreateFile description </Description>
+      <Position>Err-3000</Position>
+      <TranslationSet>
+        <base loc="en">Cannot create file</base>
+        <tran loc="ar">لا يمكن إنشاء الملف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> The DNS server could not find the server name. </Description>
+      <Position>NAMELOOKUP_FAILED</Position>
+      <TranslationSet>
+        <base loc="en">The DNS server could not find the server name.</base>
+        <tran loc="ar">تعذر على خادم DNS العثور على اسم الخادم.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> WebFoundationErrorCannotLoadFromNetworkError description </Description>
+      <Position>Err-2000</Position>
+      <TranslationSet>
+        <base loc="en">can’t load from network</base>
+        <tran loc="ar">لا يمكن التحميل من الشبكة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> WebFoundationErrorDownloadDecodingFailedMidStream description </Description>
+      <Position>Err-3006</Position>
+      <TranslationSet>
+        <base loc="en">Download decoding failed</base>
+        <tran loc="ar">فشل فك ترميز التنزيل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> WebFoundationErrorDownloadDecodingFailedToComplete description </Description>
+      <Position>Err-3007</Position>
+      <TranslationSet>
+        <base loc="en">Download decoding failed</base>
+        <tran loc="ar">فشل فك ترميز التنزيل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> AuthBrokerAgent proxy credential user notification - Cancel button title </Description>
+      <Position>Cancel</Position>
+      <TranslationSet>
+        <base loc="en">Cancel</base>
+        <tran loc="ar">إلغاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Recovery suggestion </Description>
+      <Position>Please check your proxy settings. For help with this problem, contact your system administrator.</Position>
+      <TranslationSet>
+        <base loc="en">Please check your proxy settings. For help with this problem, contact your system administrator.</base>
+        <tran loc="ar">الرجاء التحقق من إعدادات المُلقم الخاصة بك. للحصول على مساعدة في حل هذه المشكلة، اتصل بمسؤول النظام لديك.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> HTTP result code string </Description>
+      <Position>conflict</Position>
+      <TranslationSet>
+        <base loc="en">conflict</base>
+        <tran loc="ar">تعارض</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> WebFoundationErrorCannotWriteToFile description </Description>
+      <Position>Err-3003</Position>
+      <TranslationSet>
+        <base loc="en">Cannot write file</base>
+        <tran loc="ar">لا يمكن كتابة الملف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> HTTP result code string </Description>
+      <Position>needs proxy</Position>
+      <TranslationSet>
+        <base loc="en">needs proxy</base>
+        <tran loc="ar">يحتاج إلى مُلقم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> WebFoundationErrorCannotDecodeContentData description </Description>
+      <Position>Err-1016</Position>
+      <TranslationSet>
+        <base loc="en">cannot decode content data</base>
+        <tran loc="ar">لا يمكن فك ترميز بيانات المحتوى</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> AuthBrokerAgent proxy credential user notification - AppleTV alert header </Description>
+      <Position>Proxy Authentication</Position>
+      <TranslationSet>
+        <base loc="en">Proxy Authentication</base>
+        <tran loc="ar">مصادقة المُلقم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> WebFoundationErrorDNSLookupError description </Description>
+      <Position>Err-1006</Position>
+      <TranslationSet>
+        <base loc="en">DNS lookup error</base>
+        <tran loc="ar">خطأ في البحث عن DNS</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> WebFoundationErrorBadServerResponseError description </Description>
+      <Position>Err-1011</Position>
+      <TranslationSet>
+        <base loc="en">There was a bad response from the server.</base>
+        <tran loc="ar">كان هناك استجابة غير صحيحة من الخادم.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> WebFoundationErrorClientCertificateRejected description </Description>
+      <Position>Err-1205.w</Position>
+      <TranslationSet>
+        <base loc="en">The server “%@” did not accept the certificate.</base>
+        <tran loc="ar">لم يقبل الخادم \"%@\" الشهادة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> NSURLErrorBackgroundSessionInUseByAnotherProcess description </Description>
+      <Position>Err-996</Position>
+      <TranslationSet>
+        <base loc="en">Could not communicate with background transfer service</base>
+        <tran loc="ar">تعذر الاتصال بخدمة النقل في الخلفية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> HTTP result code string </Description>
+      <Position>found</Position>
+      <TranslationSet>
+        <base loc="en">found</base>
+        <tran loc="ar">تم العثور عليه</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> WebFoundationErrorCannotRemoveFile description </Description>
+      <Position>Err-3004</Position>
+      <TranslationSet>
+        <base loc="en">Cannot remove file</base>
+        <tran loc="ar">لا يمكن إزالة الملف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> WebFoundationErrorClientCertificateRequired description </Description>
+      <Position>Err-1206</Position>
+      <TranslationSet>
+        <base loc="en">The server requires a client certificate.</base>
+        <tran loc="ar">الخادم يتطلب شهادة عميل.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> WebFoundationErrorCancelled description </Description>
+      <Position>Err-999</Position>
+      <TranslationSet>
+        <base loc="en">cancelled</base>
+        <tran loc="ar">مُلغى</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> HTTP result code string </Description>
+      <Position>partial content</Position>
+      <TranslationSet>
+        <base loc="en">partial content</base>
+        <tran loc="ar">محتوى جزئي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> WebFoundationErrorNetworkConnectionLostError description </Description>
+      <Position>Err-1005</Position>
+      <TranslationSet>
+        <base loc="en">The network connection was lost.</base>
+        <tran loc="ar">تم فقدان اتصال الشبكة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> HTTP result code string </Description>
+      <Position>server error</Position>
+      <TranslationSet>
+        <base loc="en">server error</base>
+        <tran loc="ar">خطأ في الخادم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Kind string used for keychain items from forms-based logins </Description>
+      <Position>KEYCHAIN_WEB_FORM_PASSWORD</Position>
+      <TranslationSet>
+        <base loc="en">Web form password</base>
+        <tran loc="ar">كلمة سر نموذج الويب</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> WebFoundationErrorRedirectToNonExistentLocation description </Description>
+      <Position>Err-1010</Position>
+      <TranslationSet>
+        <base loc="en">redirected to nowhere</base>
+        <tran loc="ar">تمت إعادة التوجيه إلى مكان غير محدد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> HTTP result code string </Description>
+      <Position>gateway timed out</Position>
+      <TranslationSet>
+        <base loc="en">gateway timed out</base>
+        <tran loc="ar">انتهت مهلة العبّارة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> WebFoundationErrorUnknown description </Description>
+      <Position>Err-998</Position>
+      <TranslationSet>
+        <base loc="en">unknown error</base>
+        <tran loc="ar">خطأ غير معروف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> HTTP result code string </Description>
+      <Position>forbidden</Position>
+      <TranslationSet>
+        <base loc="en">forbidden</base>
+        <tran loc="ar">ممنوع</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> WebFoundationErrorServerCertificateHasBadDate description </Description>
+      <Position>Err-1201</Position>
+      <TranslationSet>
+        <base loc="en">The certificate for this server has expired.</base>
+        <tran loc="ar">انتهت مدة صلاحية شهادة الخادم.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> WebFoundationErrorFileDoesNotExist description </Description>
+      <Position>Err-1100</Position>
+      <TranslationSet>
+        <base loc="en">The requested URL was not found on this server.</base>
+        <tran loc="ar">‏URL المطلوب غير موجود على هذا الخادم.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> WebFoundationErrorServerCertificateHasBadDate description </Description>
+      <Position>Err-1201.w</Position>
+      <TranslationSet>
+        <base loc="en">The certificate for this server has expired. You might be connecting to a server that is pretending to be “%@” which could put your confidential information at risk.</base>
+        <tran loc="ar">الشهادة لهذا الخادم قد انتهت صلاحيتها. يمكن أن تكون على اتصال بخادم مدّعى أنه \"%@\" الذي يمكن أن يعرّض معلوماتك السرية للخطر.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> AuthBrokerAgent proxy credential user notification - Not Now button title </Description>
+      <Position>Not Now</Position>
+      <TranslationSet>
+        <base loc="en">Not Now</base>
+        <tran loc="ar">ليس الآن</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> HTTP result code string </Description>
+      <Position>moved permanently</Position>
+      <TranslationSet>
+        <base loc="en">moved permanently</base>
+        <tran loc="ar">تم النقل نهائيًا</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> HTTP result code string </Description>
+      <Position>request timed out</Position>
+      <TranslationSet>
+        <base loc="en">request timed out</base>
+        <tran loc="ar">انتهت مهلة الطلب</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> HTTP result code string </Description>
+      <Position>payment required</Position>
+      <TranslationSet>
+        <base loc="en">payment required</base>
+        <tran loc="ar">يلزم الدفع</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> WebFoundationErrorHTTPTooManyRedirectsError description </Description>
+      <Position>Err-1007</Position>
+      <TranslationSet>
+        <base loc="en">too many HTTP redirects</base>
+        <tran loc="ar">يوجد الكثير من عمليات إعادة توجيه HTTP</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> WebFoundationErrorNotConnectedToInternetError description </Description>
+      <Position>Err-1009</Position>
+      <TranslationSet>
+        <base loc="en">The Internet connection appears to be offline.</base>
+        <tran loc="ar">يبدو أن الاتصال بالإنترنت في وضع عدم الاتصال.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> HTTP result code string </Description>
+      <Position>continue</Position>
+      <TranslationSet>
+        <base loc="en">continue</base>
+        <tran loc="ar">متابعة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> HTTP result code string </Description>
+      <Position>request too large</Position>
+      <TranslationSet>
+        <base loc="en">request too large</base>
+        <tran loc="ar">الطلب كبير جدًا</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> NSURLErrorBackgroundSessionWasDisconnected description </Description>
+      <Position>Err-997</Position>
+      <TranslationSet>
+        <base loc="en">Lost connection to background transfer service</base>
+        <tran loc="ar">تم فقدان الاتصال بخدمة النقل في الخلفية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> WebFoundationErrorResourceUnavailableError description </Description>
+      <Position>Err-1008</Position>
+      <TranslationSet>
+        <base loc="en">resource unavailable</base>
+        <tran loc="ar">المورد غير متوفر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> HTTP result code string </Description>
+      <Position>unsupported version</Position>
+      <TranslationSet>
+        <base loc="en">unsupported version</base>
+        <tran loc="ar">إصدار غير مدعوم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> HTTP result code string </Description>
+      <Position>success</Position>
+      <TranslationSet>
+        <base loc="en">success</base>
+        <tran loc="ar">نجاح</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> HTTP result code string </Description>
+      <Position>internal server error</Position>
+      <TranslationSet>
+        <base loc="en">internal server error</base>
+        <tran loc="ar">خطأ خادم داخلي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> kCFErrorHTTPSProxyConnectionFailure description </Description>
+      <Position>Err310</Position>
+      <TranslationSet>
+        <base loc="en">There was a problem communicating with the secure web proxy server (HTTPS).</base>
+        <tran loc="ar">كان هناك خطأ في الاتصال مع خادم الويب المُلقم الآمن (HTTPS).</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Format string for label of a saved password in Keychain: URL (USERNAME) </Description>
+      <Position>KEYCHAIN_LABEL_FORMAT</Position>
+      <TranslationSet>
+        <base loc="en">%@ (%@)</base>
+        <tran loc="ar">%@ (%@)</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> AuthBrokerAgent proxy credential user notification - Password title </Description>
+      <Position>Password</Position>
+      <TranslationSet>
+        <base loc="en">Password</base>
+        <tran loc="ar">كلمة السر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> HTTP result code string </Description>
+      <Position>multiple choices</Position>
+      <TranslationSet>
+        <base loc="en">multiple choices</base>
+        <tran loc="ar">اختيارات متعددة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> WebFoundationErrorCannotDecodeRawData description </Description>
+      <Position>Err-1015</Position>
+      <TranslationSet>
+        <base loc="en">cannot decode raw data</base>
+        <tran loc="ar">لا يمكن فك ترميز البيانات الأولية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> AuthBrokerAgent proxy credential system preferences user notification - alert message, args are 1) host name, 2) port number 3) (optional) proces name </Description>
+      <Position>Enter the password for the HTTP proxy %@:%d in System Preferences.%@</Position>
+      <TranslationSet>
+        <base loc="en">Enter the password for the HTTP proxy %@:%d in System Preferences.%@</base>
+        <tran loc="ar">أدخل كلمة السر لمُلقم HTTP‏ %@:%d في تفضيلات النظام.%@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> WebFoundationErrorFileIsDirectory description </Description>
+      <Position>Err-1101</Position>
+      <TranslationSet>
+        <base loc="en">file is directory</base>
+        <tran loc="ar">الملف عبارة عن دليل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> AuthBrokerAgent proxy credential user notification - alert header </Description>
+      <Position>Proxy Authentication Required</Position>
+      <TranslationSet>
+        <base loc="en">Proxy Authentication Required</base>
+        <tran loc="ar">مصادقة المُلقم مطلوبة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Recovery suggestion </Description>
+      <Position>Would you like to connect to the server anyway?</Position>
+      <TranslationSet>
+        <base loc="en">Would you like to connect to the server anyway?</base>
+        <tran loc="ar">هل تود الاتصال بالخادم على أي حال؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> WebFoundationErrorCannotOpenFile description </Description>
+      <Position>Err-3001</Position>
+      <TranslationSet>
+        <base loc="en">Cannot open file</base>
+        <tran loc="ar">لا يمكن فتح الملف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> HTTP result code string </Description>
+      <Position>bad request</Position>
+      <TranslationSet>
+        <base loc="en">bad request</base>
+        <tran loc="ar">طلب غير صالح</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> This computer’s Internet connection appears to be offline. </Description>
+      <Position>CONNECTION_DOWN</Position>
+      <TranslationSet>
+        <base loc="en">This computer’s Internet connection appears to be offline.</base>
+        <tran loc="ar">يبدو أن اتصال الكمبيوتر بالإنترنت في وضع عدم الاتصال.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> This computer’s router is not responding. </Description>
+      <Position>ROUTER_DOWN</Position>
+      <TranslationSet>
+        <base loc="en">This computer’s router is not responding.</base>
+        <tran loc="ar">جهاز التوجيه الخاص بالكمبيوتر لا يستجيب.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> kCFURLErrorCallIsActive description </Description>
+      <Position>Err-1019</Position>
+      <TranslationSet>
+        <base loc="en">A data connection cannot be established since a call is currently active.</base>
+        <tran loc="ar">لا يمكن إنشاء اتصال بيانات لوجود مكالمة فعّالة حاليًا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> The server this computer is attempting to connect to is not responding. </Description>
+      <Position>SERVER_DOWN</Position>
+      <TranslationSet>
+        <base loc="en">The server this computer is attempting to connect to is not responding.</base>
+        <tran loc="ar">الخادم الذي يحاول جهاز الكمبيوتر هذا الاتصال به لا يستجيب.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> HTTP result code string </Description>
+      <Position>temporarily redirected</Position>
+      <TranslationSet>
+        <base loc="en">temporarily redirected</base>
+        <tran loc="ar">تمت إعادة التوجيه مؤقتًا</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> HTTP result code string </Description>
+      <Position>created</Position>
+      <TranslationSet>
+        <base loc="en">created</base>
+        <tran loc="ar">تم الإنشاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> AuthBrokerAgent proxy credential user notification - Username title </Description>
+      <Position>Username</Position>
+      <TranslationSet>
+        <base loc="en">Username</base>
+        <tran loc="ar">اسم المستخدم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> WebFoundationErrorServerCertificateUntrusted description </Description>
+      <Position>Err-1202</Position>
+      <TranslationSet>
+        <base loc="en">The certificate for this server is invalid.</base>
+        <tran loc="ar">شهادة هذا الخادم غير صالحة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> WebFoundationErrorClientCertificateRequired description </Description>
+      <Position>Err-1206.w</Position>
+      <TranslationSet>
+        <base loc="en">The server “%@” requires a client certificate.</base>
+        <tran loc="ar">الخادم \"%@\" يتطلب شهادة عميل.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> HTTP result code string </Description>
+      <Position>expectation failed</Position>
+      <TranslationSet>
+        <base loc="en">expectation failed</base>
+        <tran loc="ar">فشل التوقع</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> HTTP result code string </Description>
+      <Position>unimplemented</Position>
+      <TranslationSet>
+        <base loc="en">unimplemented</base>
+        <tran loc="ar">غير مطبّق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> HTTP result code string </Description>
+      <Position>informational</Position>
+      <TranslationSet>
+        <base loc="en">informational</base>
+        <tran loc="ar">معلوماتيّ</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> WebFoundationErrorCannotConnectToHostError description </Description>
+      <Position>Err-1004</Position>
+      <TranslationSet>
+        <base loc="en">Could not connect to the server.</base>
+        <tran loc="ar">لا يمكن الاتصال بالخادم.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> WebFoundationErrorServerCertificateHasUnknownRoot description </Description>
+      <Position>Err-1203.w</Position>
+      <TranslationSet>
+        <base loc="en">The certificate for this server was signed by an unknown certifying authority. You might be connecting to a server that is pretending to be “%@” which could put your confidential information at risk.</base>
+        <tran loc="ar">الشهادة لهذا الخادم موقعة من قبل جهة موثقة غير معروفة. يمكن أن تكون على اتصال بخادم مدّعى أنه \"%@\" الذي يمكن أن يعرّض معلوماتك السرية للخطر.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> HTTP result code string </Description>
+      <Position>accepted</Position>
+      <TranslationSet>
+        <base loc="en">accepted</base>
+        <tran loc="ar">مقبول</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> AuthBrokerAgent proxy credential user notification - Settings button title </Description>
+      <Position>Settings</Position>
+      <TranslationSet>
+        <base loc="en">Settings</base>
+        <tran loc="ar">الإعدادات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> HTTP result code string </Description>
+      <Position>requested URL too long</Position>
+      <TranslationSet>
+        <base loc="en">requested URL too long</base>
+        <tran loc="ar">عنوان URL المطلوب طويل جدًا</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> kCFErrorHTTPProxyConnectionFailure description </Description>
+      <Position>Err306</Position>
+      <TranslationSet>
+        <base loc="en">There was a problem communicating with the web proxy server (HTTP).</base>
+        <tran loc="ar">كان هناك خطأ في الاتصال مع خادم الويب المُلقم (HTTP).</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> HTTP result code string </Description>
+      <Position>unacceptable</Position>
+      <TranslationSet>
+        <base loc="en">unacceptable</base>
+        <tran loc="ar">غير مقبول</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> HTTP result code string </Description>
+      <Position>not modified</Position>
+      <TranslationSet>
+        <base loc="en">not modified</base>
+        <tran loc="ar">غير معدّلة</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+</Proj>

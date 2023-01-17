@@ -1,0 +1,439 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Proj>
+  <ProjName>CalendarNotification</ProjName>
+  <File>
+    <Filepath>CalendarNotification/System/Library/PrivateFrameworks/CalendarNotification.framework/Versions/A/Resources/en.lproj/Localizable.strings</Filepath>
+    <TextItem>
+      <Description> Hidden previews body placeholder for resource change notification. </Description>
+      <Position>notification.hiddenPreviewsBodyPlaceholder.resourceChange</Position>
+      <TranslationSet>
+        <base loc="en">Shared Event Change</base>
+        <tran loc="ar">تغيير حدث مشترك</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Delete button for a suggested event in notification center </Description>
+      <Position>Delete button for a canceled suggested event</Position>
+      <TranslationSet>
+        <base loc="en">Delete</base>
+        <tran loc="ar">حذف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Delete button for event canceled notification </Description>
+      <Position>EventCanceledDeleteButton</Position>
+      <TranslationSet>
+        <base loc="en">Delete</base>
+        <tran loc="ar">حذف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> %@ strings in order: Airline name (Delta Airlines) and number (DL1583) </Description>
+      <Position>Flight airline and number format (ie: Delta Airlines DL1583)</Position>
+      <TranslationSet>
+        <base loc="en">%@ %@</base>
+        <tran loc="ar">%@ %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Flight arrival notice </Description>
+      <Position>%@ has arrived</Position>
+      <TranslationSet>
+        <base loc="en">%@ has arrived</base>
+        <tran loc="ar">وصلت %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Invitation subtitle canceled format </Description>
+      <Position>Canceled by %@</Position>
+      <TranslationSet>
+        <base loc="en">Canceled by %@</base>
+        <tran loc="ar">تم الإلغاء بواسطة %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Button in event notification for emailing the organizer/sender </Description>
+      <Position>EventNotificationEmailSenderButton</Position>
+      <TranslationSet>
+        <base loc="en">Email Sender</base>
+        <tran loc="ar">إرسال بريد إلكتروني للمرسل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Button for accept response to event invitation in notification center </Description>
+      <Position>EventInvitationAcceptButton</Position>
+      <TranslationSet>
+        <base loc="en">Accept</base>
+        <tran loc="ar">قبول</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Accept button for event invitation notification </Description>
+      <Position>EventInvitationNotificationAcceptButton</Position>
+      <TranslationSet>
+        <base loc="en">Accept</base>
+        <tran loc="ar">قبول</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Prefix for TTL notification message with a suggested location </Description>
+      <Position>Suggested Location: %@</Position>
+      <TranslationSet>
+        <base loc="en">Suggested Location: %@</base>
+        <tran loc="ar">الموقع المقترح: ‏%@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Title for snooze button in event notification </Description>
+      <Position>Snooze</Position>
+      <TranslationSet>
+        <base loc="en">Snooze</base>
+        <tran loc="ar">غفوة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Report junk button for event invitation notification </Description>
+      <Position>EventInvitationNotificationReportJunkButton</Position>
+      <TranslationSet>
+        <base loc="en">Report Junk</base>
+        <tran loc="ar">إبلاغ كرسالة مزعجة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Report junk button for shared calendar invitation </Description>
+      <Position>SharedCalendarInvitationReportJunkButton</Position>
+      <TranslationSet>
+        <base loc="en">Report Junk</base>
+        <tran loc="ar">إبلاغ كرسالة مزعجة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Shared calendar invite message </Description>
+      <Position>Invitation to share a calendar with %@.</Position>
+      <TranslationSet>
+        <base loc="en">Invitation to share a calendar with %@.</base>
+        <tran loc="ar">دعوة لمشاركة تقويم مع %@.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Join button for shared calendar/reminder list invitations </Description>
+      <Position>CalendarNotificationJoinButton</Position>
+      <TranslationSet>
+        <base loc="en">Join</base>
+        <tran loc="ar">انضمام</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Join button for shared calendar invitation </Description>
+      <Position>SharedCalendarInvitationJoinButton</Position>
+      <TranslationSet>
+        <base loc="en">Join</base>
+        <tran loc="ar">انضمام</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Title for a button that, when pressed, sends you to Maps to find a route to the event. </Description>
+      <Position>Directions</Position>
+      <TranslationSet>
+        <base loc="en">Directions</base>
+        <tran loc="ar">الاتجاهات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Invitation location modification message </Description>
+      <Position>Location changed to %@</Position>
+      <TranslationSet>
+        <base loc="en">Location changed to %@</base>
+        <tran loc="ar">تم تغيير الموقع إلى %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> OK button title for calendar/reminder notifications </Description>
+      <Position>CalendarNotificationOKButton</Position>
+      <TranslationSet>
+        <base loc="en">OK</base>
+        <tran loc="ar">موافق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Shared calendar invitation alert title </Description>
+      <Position>Shared Calendar Invitation</Position>
+      <TranslationSet>
+        <base loc="en">Shared Calendar Invitation</base>
+        <tran loc="ar">دعوة تقويم مشترك</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> View button for calendar/reminder notifications </Description>
+      <Position>CalendarNotificationViewButton</Position>
+      <TranslationSet>
+        <base loc="en">View</base>
+        <tran loc="ar">عرض</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Subtitle in notifications to identify which identity the notification is for if there are enabled delegates </Description>
+      <Position>For %@</Position>
+      <TranslationSet>
+        <base loc="en">For %@</base>
+        <tran loc="ar">لـ %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Late flight departure </Description>
+      <Position>%@ is scheduled to depart %@ minutes late</Position>
+      <TranslationSet>
+        <base loc="en">%@ is scheduled to depart %@ minutes late</base>
+        <tran loc="ar">من المقرر أن تغادر %@ متأخرة %@ دقائق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Reminders notification display name </Description>
+      <Position>Reminders</Position>
+      <TranslationSet>
+        <base loc="en">Reminders</base>
+        <tran loc="ar">التذكيرات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Invitation is from possible spammer </Description>
+      <Position>Unknown Sender</Position>
+      <TranslationSet>
+        <base loc="en">Unknown Sender</base>
+        <tran loc="ar">مرسل غير معروف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Shared calendar resource change alert title </Description>
+      <Position>Shared Calendar Change</Position>
+      <TranslationSet>
+        <base loc="en">Shared Calendar Change</base>
+        <tran loc="ar">تغيير في التقويم المشترك</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Title of flight update notification </Description>
+      <Position>Flight Update</Position>
+      <TranslationSet>
+        <base loc="en">Flight Update</base>
+        <tran loc="ar">تحديث الرحلة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Invitation subtitle format </Description>
+      <Position>Invitation From %@</Position>
+      <TranslationSet>
+        <base loc="en">Invitation From %@</base>
+        <tran loc="ar">دعوة من %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Add to calendar button for a suggested event in notification center </Description>
+      <Position>Add to calendar button for a suggested event</Position>
+      <TranslationSet>
+        <base loc="en">Add to Calendar</base>
+        <tran loc="ar">إضافة إلى التقويم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Hidden previews body placeholder for upcoming event notification. </Description>
+      <Position>notification.hiddenPreviewsBodyPlaceholder.upcomingEvent</Position>
+      <TranslationSet>
+        <base loc="en">Upcoming Event</base>
+        <tran loc="ar">حدث مقبل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Decline button for event invitation notification </Description>
+      <Position>EventInvitationNotificationDeclineButton</Position>
+      <TranslationSet>
+        <base loc="en">Decline</base>
+        <tran loc="ar">رفض</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Decline button for shared calendar invitation </Description>
+      <Position>SharedCalendarInvitationDeclineButton</Position>
+      <TranslationSet>
+        <base loc="en">Decline</base>
+        <tran loc="ar">رفض</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Coalesced title, &lt;number greater than kMaxMessagesBeforeCoalescing (currently 5)&gt; for app-name </Description>
+      <Position>%ld notifications for %@</Position>
+      <TranslationSet>
+        <base loc="en">%ld notifications for %@</base>
+        <tran loc="ar">‏%ld إشعارات لـ "%@"</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Default title for event invitation notifications when the actual title is inaccessible (perhaps before first unlock) </Description>
+      <Position>EventInvitationNotificationDefaultTitle</Position>
+      <TranslationSet>
+        <base loc="en">Invitation</base>
+        <tran loc="ar">دعوة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Hidden previews body placeholder for shared calendar invitation notification. </Description>
+      <Position>notification.hiddenPreviewsBodyPlaceholder.calendar.invitation</Position>
+      <TranslationSet>
+        <base loc="en">Invitation</base>
+        <tran loc="ar">دعوة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Hidden previews body placeholder for event invitation notification. </Description>
+      <Position>notification.hiddenPreviewsBodyPlaceholder.event.invitation</Position>
+      <TranslationSet>
+        <base loc="en">Invitation</base>
+        <tran loc="ar">دعوة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Early flight arrival </Description>
+      <Position>%@ is scheduled to arrive %@ minutes early</Position>
+      <TranslationSet>
+        <base loc="en">%@ is scheduled to arrive %@ minutes early</base>
+        <tran loc="ar">من المقرر أن تصل %@ مبكرًا %@ دقائق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Maybe button for event invitation notification </Description>
+      <Position>EventInvitationNotificationMaybeButton</Position>
+      <TranslationSet>
+        <base loc="en">Maybe</base>
+        <tran loc="ar">ربما</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Invitation location removal message </Description>
+      <Position>Location removed</Position>
+      <TranslationSet>
+        <base loc="en">Location removed</base>
+        <tran loc="ar">تمت إزالة الموقع</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Ignore button for calendar/reminder notification </Description>
+      <Position>Ignore</Position>
+      <TranslationSet>
+        <base loc="en">Ignore</base>
+        <tran loc="ar">تجاهل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Ignore button for a suggested event in notification center </Description>
+      <Position>Ignore button for a suggested event</Position>
+      <TranslationSet>
+        <base loc="en">Ignore</base>
+        <tran loc="ar">تجاهل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> The default title for an attendee reply notification for an event </Description>
+      <Position>EventNotificationDefaultTitleAttendeeReply</Position>
+      <TranslationSet>
+        <base loc="en">Attendee Response</base>
+        <tran loc="ar">استجابة الحضور</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Early flight departure </Description>
+      <Position>%@ is scheduled to depart %@ minutes early</Position>
+      <TranslationSet>
+        <base loc="en">%@ is scheduled to depart %@ minutes early</base>
+        <tran loc="ar">من المقرر أن تغادر %@ مبكرًا %@ دقائق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Flight cancelation notice </Description>
+      <Position>%@ has been canceled</Position>
+      <TranslationSet>
+        <base loc="en">%@ has been canceled</base>
+        <tran loc="ar">تم إلغاء %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Late flight arrival </Description>
+      <Position>%@ is scheduled to arrive %@ minutes late</Position>
+      <TranslationSet>
+        <base loc="en">%@ is scheduled to arrive %@ minutes late</base>
+        <tran loc="ar">من المقرر أن تصل %@ متأخرة %@ دقائق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Calendar notification display name </Description>
+      <Position>Calendar</Position>
+      <TranslationSet>
+        <base loc="en">Calendar</base>
+        <tran loc="ar">التقويم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Invitation time modification message </Description>
+      <Position>Time changed to %@</Position>
+      <TranslationSet>
+        <base loc="en">Time changed to %@</base>
+        <tran loc="ar">تم تغيير الوقت ليصبح %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Invitation date modification message </Description>
+      <Position>Date changed to %@</Position>
+      <TranslationSet>
+        <base loc="en">Date changed to %@</base>
+        <tran loc="ar">تم تغيير التاريخ ليصبح %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>Email sender unknown title</Position>
+      <TranslationSet>
+        <base loc="en">Event</base>
+        <tran loc="ar">حدث</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Title for event with no name </Description>
+      <Position>Event</Position>
+      <TranslationSet>
+        <base loc="en">Event</base>
+        <tran loc="ar">الحدث</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Join meeting button </Description>
+      <Position>Join Meeting</Position>
+      <TranslationSet>
+        <base loc="en">Join Meeting</base>
+        <tran loc="ar">انضمام إلى الاجتماع</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Hidden previews body placeholder for shared calendar invitation response notification. </Description>
+      <Position>notification.hiddenPreviewsBodyPlaceholder.calendar.invitationResponse</Position>
+      <TranslationSet>
+        <base loc="en">Invitation Response</base>
+        <tran loc="ar">الرد على الدعوة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Hidden previews body placeholder for event invitation response notification. </Description>
+      <Position>notification.hiddenPreviewsBodyPlaceholder.event.invitationResponse</Position>
+      <TranslationSet>
+        <base loc="en">Invitation Response</base>
+        <tran loc="ar">الرد على الدعوة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Coalesced subtitle, with notifications greater than &lt;kMaxMessagesBeforeCoalescing (currently 5)&gt; </Description>
+      <Position>You have %ld unread notifications.</Position>
+      <TranslationSet>
+        <base loc="en">You have %ld unread notifications.</base>
+        <tran loc="ar">لديك %ld إشعارات غير مقروءة.</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+</Proj>

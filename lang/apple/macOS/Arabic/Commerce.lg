@@ -1,0 +1,3876 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Proj>
+  <ProjName>Commerce</ProjName>
+  <File>
+    <Filepath>Commerce/System/Library/PrivateFrameworks/StoreUI.framework/Versions/A/Resources/en.lproj/Localizable.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>CREATE_ACCOUNT_MENU_ITEM_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Create Account…</base>
+        <tran loc="ar">إنشاء حساب…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SIGN_OUT_MENU_ITEM_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Sign Out</base>
+        <tran loc="ar">الخروج</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>FORWARD_AXDESCRIPTION</Position>
+      <TranslationSet>
+        <base loc="en">forward</base>
+        <tran loc="ar">إلى الأمام</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> These strings are for any store that fails to connect before the bag is loaded.</Description>
+      <Position>SPLASH_CANNOT_CONNECT_STORE</Position>
+      <TranslationSet>
+        <base loc="en">Cannot Connect to the Store</base>
+        <tran loc="ar">لا يمكن الاتصال بالمتجر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UNSIGNED_BAG_MESSAGE</Position>
+      <TranslationSet>
+        <base loc="en">Would you like to connect anyway?</base>
+        <tran loc="ar">هل ترغب بالاتصال على أي حال؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>VIEW_ACCOUNT_MENU_ITEM_TITLE_FORMAT</Position>
+      <TranslationSet>
+        <base loc="en">View My Account (%@)…</base>
+        <tran loc="ar">عرض حسابي (%@)…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SPLASH_INTERNET_CONNECTION_REQUIRED</Position>
+      <TranslationSet>
+        <base loc="en">An Internet connection is required.</base>
+        <tran loc="ar">‫يلزم الاتصال بالإنترنت.‬</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UNSIGNED_BAG_CANCEL_BUTTON</Position>
+      <TranslationSet>
+        <base loc="en">Cancel</base>
+        <tran loc="ar">إلغاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UNSIGNED_BAG_CONTINUE_BUTTON</Position>
+      <TranslationSet>
+        <base loc="en">Continue</base>
+        <tran loc="ar">متابعة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 
+   Localizable.strings
+   Firenze
+
+   Created by Daniel Feldman on 9/19/09.
+   Copyright 2009 __MyCompanyName__. All rights reserved.
+ </Description>
+      <Position>BACK_AXDESCRIPTION</Position>
+      <TranslationSet>
+        <base loc="en">back</base>
+        <tran loc="ar">للخلف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Sign in </Description>
+      <Position>SIGN_IN_MENU_ITEM_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Sign In…</base>
+        <tran loc="ar">الدخول…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> unsigned bag support 10060310</Description>
+      <Position>UNSIGNED_BAG_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">App Store cannot verify a secure connection with the App Store.</base>
+        <tran loc="ar">لا يمكن لـ App Store التأكد من اتصال آمن مع App Store.</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>Commerce/System/Library/PrivateFrameworks/CommerceKit.framework/Versions/A/Resources/storeuid.app/Contents/Resources/en.lproj/MainMenu.strings</Filepath>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "storeuid"; ObjectID = "56"; </Description>
+      <Position>56.title</Position>
+      <TranslationSet>
+        <base loc="en">storeuid</base>
+        <tran loc="ar">storeuid</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenu"; title = "storeuid"; ObjectID = "57"; </Description>
+      <Position>57.title</Position>
+      <TranslationSet>
+        <base loc="en">storeuid</base>
+        <tran loc="ar">storeuid</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Show Ruler"; ObjectID = "505"; </Description>
+      <Position>505.title</Position>
+      <TranslationSet>
+        <base loc="en">Show Ruler</base>
+        <tran loc="ar">إظهار المسطرة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Paste Style"; ObjectID = "404"; </Description>
+      <Position>404.title</Position>
+      <TranslationSet>
+        <base loc="en">Paste Style</base>
+        <tran loc="ar">لصق النمط</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Delete"; ObjectID = "202"; </Description>
+      <Position>202.title</Position>
+      <TranslationSet>
+        <base loc="en">Delete</base>
+        <tran loc="ar">حذف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Paste Ruler"; ObjectID = "507"; </Description>
+      <Position>507.title</Position>
+      <TranslationSet>
+        <base loc="en">Paste Ruler</base>
+        <tran loc="ar">لصق المسطرة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Open…"; ObjectID = "72"; </Description>
+      <Position>72.title</Position>
+      <TranslationSet>
+        <base loc="en">Open…</base>
+        <tran loc="ar">فتح…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Text Replacement"; ObjectID = "462"; </Description>
+      <Position>462.title</Position>
+      <TranslationSet>
+        <base loc="en">Text Replacement</base>
+        <tran loc="ar">استبدال النص</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Check Document Now"; ObjectID = "201"; </Description>
+      <Position>201.title</Position>
+      <TranslationSet>
+        <base loc="en">Check Document Now</base>
+        <tran loc="ar">تدقيق المستند الآن</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Correct Spelling Automatically"; ObjectID = "454"; </Description>
+      <Position>454.title</Position>
+      <TranslationSet>
+        <base loc="en">Correct Spelling Automatically</base>
+        <tran loc="ar">تصحيح الأخطاء الإملائية تلقائيًا</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Show Spelling and Grammar"; ObjectID = "204"; </Description>
+      <Position>204.title</Position>
+      <TranslationSet>
+        <base loc="en">Show Spelling and Grammar</base>
+        <tran loc="ar">إظهار التدقيق الإملائي والتدقيق النحوي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Revert to Saved"; ObjectID = "112"; </Description>
+      <Position>112.title</Position>
+      <TranslationSet>
+        <base loc="en">Revert to Saved</base>
+        <tran loc="ar">إعادة لحالة الحفظ السابقة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Baseline"; ObjectID = "399"; </Description>
+      <Position>399.title</Position>
+      <TranslationSet>
+        <base loc="en">Baseline</base>
+        <tran loc="ar">الخط الأساسي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenu"; title = "Baseline"; ObjectID = "405"; </Description>
+      <Position>405.title</Position>
+      <TranslationSet>
+        <base loc="en">Baseline</base>
+        <tran loc="ar">الخط الأساسي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Paragraph"; ObjectID = "509"; </Description>
+      <Position>509.title</Position>
+      <TranslationSet>
+        <base loc="en">Paragraph</base>
+        <tran loc="ar">فقرة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Stop Speaking"; ObjectID = "195"; </Description>
+      <Position>195.title</Position>
+      <TranslationSet>
+        <base loc="en">Stop Speaking</base>
+        <tran loc="ar">إيقاف التكلم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenu"; title = "Spelling and Grammar"; ObjectID = "200"; </Description>
+      <Position>200.title</Position>
+      <TranslationSet>
+        <base loc="en">Spelling and Grammar</base>
+        <tran loc="ar">التدقيق الإملائي والنحوي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Spelling and Grammar"; ObjectID = "216"; </Description>
+      <Position>216.title</Position>
+      <TranslationSet>
+        <base loc="en">Spelling and Grammar</base>
+        <tran loc="ar">التدقيق الإملائي والنحوي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Jump to Selection"; ObjectID = "210"; </Description>
+      <Position>210.title</Position>
+      <TranslationSet>
+        <base loc="en">Jump to Selection</base>
+        <tran loc="ar">انتقال سريع إلى التحديد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Justify"; ObjectID = "500"; </Description>
+      <Position>500.title</Position>
+      <TranslationSet>
+        <base loc="en">Justify</base>
+        <tran loc="ar">ضبط كلي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Show Fonts"; ObjectID = "389"; </Description>
+      <Position>389.title</Position>
+      <TranslationSet>
+        <base loc="en">Show Fonts</base>
+        <tran loc="ar">إظهار الخطوط</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Show Toolbar"; ObjectID = "297"; </Description>
+      <Position>297.title</Position>
+      <TranslationSet>
+        <base loc="en">Show Toolbar</base>
+        <tran loc="ar">إظهار شريط الأدوات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Font"; ObjectID = "377"; </Description>
+      <Position>377.title</Position>
+      <TranslationSet>
+        <base loc="en">Font</base>
+        <tran loc="ar">الخط</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenu"; title = "Font"; ObjectID = "388"; </Description>
+      <Position>388.title</Position>
+      <TranslationSet>
+        <base loc="en">Font</base>
+        <tran loc="ar">الخط</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Clear Menu"; ObjectID = "126"; </Description>
+      <Position>126.title</Position>
+      <TranslationSet>
+        <base loc="en">Clear Menu</base>
+        <tran loc="ar">مسح القائمة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Print…"; ObjectID = "78"; </Description>
+      <Position>78.title</Position>
+      <TranslationSet>
+        <base loc="en">Print…</base>
+        <tran loc="ar">طباعة…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Subscript"; ObjectID = "408"; </Description>
+      <Position>408.title</Position>
+      <TranslationSet>
+        <base loc="en">Subscript</base>
+        <tran loc="ar">خط منخفض</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Show Substitutions"; ObjectID = "457"; </Description>
+      <Position>457.title</Position>
+      <TranslationSet>
+        <base loc="en">Show Substitutions</base>
+        <tran loc="ar">إظهار البدائل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Selection"; ObjectID = "514"; </Description>
+      <Position>514.title</Position>
+      <TranslationSet>
+        <base loc="en">Selection</base>
+        <tran loc="ar">التحديد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "View"; ObjectID = "295"; </Description>
+      <Position>295.title</Position>
+      <TranslationSet>
+        <base loc="en">View</base>
+        <tran loc="ar">عرض</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenu"; title = "View"; ObjectID = "296"; </Description>
+      <Position>296.title</Position>
+      <TranslationSet>
+        <base loc="en">View</base>
+        <tran loc="ar">عرض</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Use Default"; ObjectID = "406"; </Description>
+      <Position>406.title</Position>
+      <TranslationSet>
+        <base loc="en">Use Default</base>
+        <tran loc="ar">استخدام الإعداد الافتراضي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Use Default"; ObjectID = "412"; </Description>
+      <Position>412.title</Position>
+      <TranslationSet>
+        <base loc="en">Use Default</base>
+        <tran loc="ar">استخدام الإعداد الافتراضي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Use Default"; ObjectID = "416"; </Description>
+      <Position>416.title</Position>
+      <TranslationSet>
+        <base loc="en">Use Default</base>
+        <tran loc="ar">استخدام الإعداد الافتراضي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenu"; title = "Edit"; ObjectID = "205"; </Description>
+      <Position>205.title</Position>
+      <TranslationSet>
+        <base loc="en">Edit</base>
+        <tran loc="ar">تحرير</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Edit"; ObjectID = "217"; </Description>
+      <Position>217.title</Position>
+      <TranslationSet>
+        <base loc="en">Edit</base>
+        <tran loc="ar">تحرير</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Smart Quotes"; ObjectID = "351"; </Description>
+      <Position>351.title</Position>
+      <TranslationSet>
+        <base loc="en">Smart Quotes</base>
+        <tran loc="ar">علامات الاقتباس الذكية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenu"; title = "Services"; ObjectID = "130"; </Description>
+      <Position>130.title</Position>
+      <TranslationSet>
+        <base loc="en">Services</base>
+        <tran loc="ar">خدمات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Services"; ObjectID = "131"; </Description>
+      <Position>131.title</Position>
+      <TranslationSet>
+        <base loc="en">Services</base>
+        <tran loc="ar">خدمات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Align Left"; ObjectID = "498"; </Description>
+      <Position>498.title</Position>
+      <TranslationSet>
+        <base loc="en">Align Left</base>
+        <tran loc="ar">محاذاة إلى اليسار</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Center"; ObjectID = "499"; </Description>
+      <Position>499.title</Position>
+      <TranslationSet>
+        <base loc="en">Center</base>
+        <tran loc="ar">الوسط</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Show All"; ObjectID = "150"; </Description>
+      <Position>150.title</Position>
+      <TranslationSet>
+        <base loc="en">Show All</base>
+        <tran loc="ar">إظهار الكل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Italic"; ObjectID = "391"; </Description>
+      <Position>391.title</Position>
+      <TranslationSet>
+        <base loc="en">Italic</base>
+        <tran loc="ar">مائل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Paste"; ObjectID = "203"; </Description>
+      <Position>203.title</Position>
+      <TranslationSet>
+        <base loc="en">Paste</base>
+        <tran loc="ar">لصق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Superscript"; ObjectID = "407"; </Description>
+      <Position>407.title</Position>
+      <TranslationSet>
+        <base loc="en">Superscript</base>
+        <tran loc="ar">خط مرتفع</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Quit storeuid"; ObjectID = "136"; </Description>
+      <Position>136.title</Position>
+      <TranslationSet>
+        <base loc="en">Quit storeuid</base>
+        <tran loc="ar">إنهاء storeuid</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "store_helper Help"; ObjectID = "492"; </Description>
+      <Position>492.title</Position>
+      <TranslationSet>
+        <base loc="en">store_helper Help</base>
+        <tran loc="ar">مساعدة مساعد_المتجر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Find Previous"; ObjectID = "213"; </Description>
+      <Position>213.title</Position>
+      <TranslationSet>
+        <base loc="en">Find Previous</base>
+        <tran loc="ar">بحث عن السابق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenu"; title = "File"; ObjectID = "81"; </Description>
+      <Position>81.title</Position>
+      <TranslationSet>
+        <base loc="en">File</base>
+        <tran loc="ar">ملف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "File"; ObjectID = "83"; </Description>
+      <Position>83.title</Position>
+      <TranslationSet>
+        <base loc="en">File</base>
+        <tran loc="ar">ملف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Use Selection for Find"; ObjectID = "221"; </Description>
+      <Position>221.title</Position>
+      <TranslationSet>
+        <base loc="en">Use Selection for Find</base>
+        <tran loc="ar">استخدام التحديد للبحث</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Copy Ruler"; ObjectID = "506"; </Description>
+      <Position>506.title</Position>
+      <TranslationSet>
+        <base loc="en">Copy Ruler</base>
+        <tran loc="ar">نسخ المسطرة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Bold"; ObjectID = "390"; </Description>
+      <Position>390.title</Position>
+      <TranslationSet>
+        <base loc="en">Bold</base>
+        <tran loc="ar">عريض</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Copy Style"; ObjectID = "403"; </Description>
+      <Position>403.title</Position>
+      <TranslationSet>
+        <base loc="en">Copy Style</base>
+        <tran loc="ar">نسخ النمط</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Use None"; ObjectID = "413"; </Description>
+      <Position>413.title</Position>
+      <TranslationSet>
+        <base loc="en">Use None</base>
+        <tran loc="ar">عدم استخدام أي عناصر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Use None"; ObjectID = "417"; </Description>
+      <Position>417.title</Position>
+      <TranslationSet>
+        <base loc="en">Use None</base>
+        <tran loc="ar">عدم استخدام أي عناصر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Transformations"; ObjectID = "450"; </Description>
+      <Position>450.title</Position>
+      <TranslationSet>
+        <base loc="en">Transformations</base>
+        <tran loc="ar">تحويلات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenu"; title = "Transformations"; ObjectID = "451"; </Description>
+      <Position>451.title</Position>
+      <TranslationSet>
+        <base loc="en">Transformations</base>
+        <tran loc="ar">تحويلات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Close"; ObjectID = "73"; </Description>
+      <Position>73.title</Position>
+      <TranslationSet>
+        <base loc="en">Close</base>
+        <tran loc="ar">إغلاق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Zoom"; ObjectID = "239"; </Description>
+      <Position>239.title</Position>
+      <TranslationSet>
+        <base loc="en">Zoom</base>
+        <tran loc="ar">تكبير/تصغير</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Undo"; ObjectID = "207"; </Description>
+      <Position>207.title</Position>
+      <TranslationSet>
+        <base loc="en">Undo</base>
+        <tran loc="ar">تراجع</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Find Next"; ObjectID = "208"; </Description>
+      <Position>208.title</Position>
+      <TranslationSet>
+        <base loc="en">Find Next</base>
+        <tran loc="ar">بحث عن التالي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Hide store_helper"; ObjectID = "134"; </Description>
+      <Position>134.title</Position>
+      <TranslationSet>
+        <base loc="en">Hide store_helper</base>
+        <tran loc="ar">إخفاء مساعد_المتجر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Preferences…"; ObjectID = "129"; </Description>
+      <Position>129.title</Position>
+      <TranslationSet>
+        <base loc="en">Preferences…</base>
+        <tran loc="ar">تفضيلات…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Minimize"; ObjectID = "23"; </Description>
+      <Position>23.title</Position>
+      <TranslationSet>
+        <base loc="en">Minimize</base>
+        <tran loc="ar">تصغير</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Open Recent"; ObjectID = "124"; </Description>
+      <Position>124.title</Position>
+      <TranslationSet>
+        <base loc="en">Open Recent</base>
+        <tran loc="ar">فتح العناصر الأخيرة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenu"; title = "Open Recent"; ObjectID = "125"; </Description>
+      <Position>125.title</Position>
+      <TranslationSet>
+        <base loc="en">Open Recent</base>
+        <tran loc="ar">فتح العناصر الأخيرة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Paste and Match Style"; ObjectID = "485"; </Description>
+      <Position>485.title</Position>
+      <TranslationSet>
+        <base loc="en">Paste and Match Style</base>
+        <tran loc="ar">لصق ومطابقة النمط</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Check Grammar With Spelling"; ObjectID = "346"; </Description>
+      <Position>346.title</Position>
+      <TranslationSet>
+        <base loc="en">Check Grammar With Spelling</base>
+        <tran loc="ar">تدقيق نحوي مع التدقيق الإملائي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Hide Others"; ObjectID = "145"; </Description>
+      <Position>145.title</Position>
+      <TranslationSet>
+        <base loc="en">Hide Others</base>
+        <tran loc="ar">إخفاء الأخرى</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Redo"; ObjectID = "215"; </Description>
+      <Position>215.title</Position>
+      <TranslationSet>
+        <base loc="en">Redo</base>
+        <tran loc="ar">إعادة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "New"; ObjectID = "82"; </Description>
+      <Position>82.title</Position>
+      <TranslationSet>
+        <base loc="en">New</base>
+        <tran loc="ar">جديد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Tighten"; ObjectID = "418"; </Description>
+      <Position>418.title</Position>
+      <TranslationSet>
+        <base loc="en">Tighten</base>
+        <tran loc="ar">تضييق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Align Right"; ObjectID = "501"; </Description>
+      <Position>501.title</Position>
+      <TranslationSet>
+        <base loc="en">Align Right</base>
+        <tran loc="ar">محاذاة إلى اليمين</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "About storeuid"; ObjectID = "58"; </Description>
+      <Position>58.title</Position>
+      <TranslationSet>
+        <base loc="en">About storeuid</base>
+        <tran loc="ar">حول storeuid</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Lower"; ObjectID = "410"; </Description>
+      <Position>410.title</Position>
+      <TranslationSet>
+        <base loc="en">Lower</base>
+        <tran loc="ar">خفض</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Smart Copy/Paste"; ObjectID = "350"; </Description>
+      <Position>350.title</Position>
+      <TranslationSet>
+        <base loc="en">Smart Copy/Paste</base>
+        <tran loc="ar">النسخ/اللصق الذكي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Copy"; ObjectID = "197"; </Description>
+      <Position>197.title</Position>
+      <TranslationSet>
+        <base loc="en">Copy</base>
+        <tran loc="ar">نسخ</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Find"; ObjectID = "218"; </Description>
+      <Position>218.title</Position>
+      <TranslationSet>
+        <base loc="en">Find</base>
+        <tran loc="ar">بحث</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenu"; title = "Find"; ObjectID = "220"; </Description>
+      <Position>220.title</Position>
+      <TranslationSet>
+        <base loc="en">Find</base>
+        <tran loc="ar">بحث</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Kern"; ObjectID = "397"; </Description>
+      <Position>397.title</Position>
+      <TranslationSet>
+        <base loc="en">Kern</base>
+        <tran loc="ar">تقنين الأحرف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenu"; title = "Kern"; ObjectID = "415"; </Description>
+      <Position>415.title</Position>
+      <TranslationSet>
+        <base loc="en">Kern</base>
+        <tran loc="ar">تقنين الأحرف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Format"; ObjectID = "375"; </Description>
+      <Position>375.title</Position>
+      <TranslationSet>
+        <base loc="en">Format</base>
+        <tran loc="ar">التنسيق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenu"; title = "Format"; ObjectID = "376"; </Description>
+      <Position>376.title</Position>
+      <TranslationSet>
+        <base loc="en">Format</base>
+        <tran loc="ar">التنسيق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Use All"; ObjectID = "414"; </Description>
+      <Position>414.title</Position>
+      <TranslationSet>
+        <base loc="en">Use All</base>
+        <tran loc="ar">استخدام الكل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "\tDefault"; ObjectID = "510"; </Description>
+      <Position>510.title</Position>
+      <TranslationSet>
+        <base loc="en">\tDefault</base>
+        <tran loc="ar">‏‎\tافتراضي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "\tDefault"; ObjectID = "515"; </Description>
+      <Position>515.title</Position>
+      <TranslationSet>
+        <base loc="en">\tDefault</base>
+        <tran loc="ar">‏‎\tافتراضي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Save As…"; ObjectID = "80"; </Description>
+      <Position>80.title</Position>
+      <TranslationSet>
+        <base loc="en">Save As…</base>
+        <tran loc="ar">حفظ باسم…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Substitutions"; ObjectID = "348"; </Description>
+      <Position>348.title</Position>
+      <TranslationSet>
+        <base loc="en">Substitutions</base>
+        <tran loc="ar">بدائل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenu"; title = "Substitutions"; ObjectID = "349"; </Description>
+      <Position>349.title</Position>
+      <TranslationSet>
+        <base loc="en">Substitutions</base>
+        <tran loc="ar">بدائل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Start Speaking"; ObjectID = "196"; </Description>
+      <Position>196.title</Position>
+      <TranslationSet>
+        <base loc="en">Start Speaking</base>
+        <tran loc="ar">بدء التكلم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Underline"; ObjectID = "392"; </Description>
+      <Position>392.title</Position>
+      <TranslationSet>
+        <base loc="en">Underline</base>
+        <tran loc="ar">تسطير</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Text"; ObjectID = "496"; </Description>
+      <Position>496.title</Position>
+      <TranslationSet>
+        <base loc="en">Text</base>
+        <tran loc="ar">نص</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenu"; title = "Text"; ObjectID = "497"; </Description>
+      <Position>497.title</Position>
+      <TranslationSet>
+        <base loc="en">Text</base>
+        <tran loc="ar">نص</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Capitalize"; ObjectID = "466"; </Description>
+      <Position>466.title</Position>
+      <TranslationSet>
+        <base loc="en">Capitalize</base>
+        <tran loc="ar">الكتابة بأحرف كبيرة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Window"; ObjectID = "19"; </Description>
+      <Position>19.title</Position>
+      <TranslationSet>
+        <base loc="en">Window</base>
+        <tran loc="ar">نافذة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenu"; title = "Window"; ObjectID = "24"; </Description>
+      <Position>24.title</Position>
+      <TranslationSet>
+        <base loc="en">Window</base>
+        <tran loc="ar">نافذة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Bigger"; ObjectID = "394"; </Description>
+      <Position>394.title</Position>
+      <TranslationSet>
+        <base loc="en">Bigger</base>
+        <tran loc="ar">أكبر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Make Upper Case"; ObjectID = "452"; </Description>
+      <Position>452.title</Position>
+      <TranslationSet>
+        <base loc="en">Make Upper Case</base>
+        <tran loc="ar">تحويل إلى أحرف كبيرة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Select All"; ObjectID = "198"; </Description>
+      <Position>198.title</Position>
+      <TranslationSet>
+        <base loc="en">Select All</base>
+        <tran loc="ar">تحديد الكل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Help"; ObjectID = "490"; </Description>
+      <Position>490.title</Position>
+      <TranslationSet>
+        <base loc="en">Help</base>
+        <tran loc="ar">مساعدة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenu"; title = "Help"; ObjectID = "491"; </Description>
+      <Position>491.title</Position>
+      <TranslationSet>
+        <base loc="en">Help</base>
+        <tran loc="ar">مساعدة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "\tRight to Left"; ObjectID = "512"; </Description>
+      <Position>512.title</Position>
+      <TranslationSet>
+        <base loc="en">\tRight to Left</base>
+        <tran loc="ar">‏‎\tمن اليمين إلى اليسار</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "\tRight to Left"; ObjectID = "517"; </Description>
+      <Position>517.title</Position>
+      <TranslationSet>
+        <base loc="en">\tRight to Left</base>
+        <tran loc="ar">‏‎\tمن اليمين إلى اليسار</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Cut"; ObjectID = "199"; </Description>
+      <Position>199.title</Position>
+      <TranslationSet>
+        <base loc="en">Cut</base>
+        <tran loc="ar">قص</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "\tLeft to Right"; ObjectID = "511"; </Description>
+      <Position>511.title</Position>
+      <TranslationSet>
+        <base loc="en">\tLeft to Right</base>
+        <tran loc="ar">‏‎\tمن اليسار إلى اليمين</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "\tLeft to Right"; ObjectID = "516"; </Description>
+      <Position>516.title</Position>
+      <TranslationSet>
+        <base loc="en">\tLeft to Right</base>
+        <tran loc="ar">‏‎\tمن اليسار إلى اليمين</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Smart Links"; ObjectID = "354"; </Description>
+      <Position>354.title</Position>
+      <TranslationSet>
+        <base loc="en">Smart Links</base>
+        <tran loc="ar">الروابط الذكية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Find…"; ObjectID = "209"; </Description>
+      <Position>209.title</Position>
+      <TranslationSet>
+        <base loc="en">Find…</base>
+        <tran loc="ar">بحث…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenu"; title = "AMainMenu"; ObjectID = "29"; </Description>
+      <Position>29.title</Position>
+      <TranslationSet>
+        <base loc="en">AMainMenu</base>
+        <tran loc="ar">قائمة رئيسية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Page Setup..."; ObjectID = "77"; </Description>
+      <Position>77.title</Position>
+      <TranslationSet>
+        <base loc="en">Page Setup...</base>
+        <tran loc="ar">إعداد الصفحة...</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Customize Toolbar…"; ObjectID = "298"; </Description>
+      <Position>298.title</Position>
+      <TranslationSet>
+        <base loc="en">Customize Toolbar…</base>
+        <tran loc="ar">تخصيص شريط الأدوات…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Ligature"; ObjectID = "398"; </Description>
+      <Position>398.title</Position>
+      <TranslationSet>
+        <base loc="en">Ligature</base>
+        <tran loc="ar">حرف مزدوج</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenu"; title = "Ligature"; ObjectID = "411"; </Description>
+      <Position>411.title</Position>
+      <TranslationSet>
+        <base loc="en">Ligature</base>
+        <tran loc="ar">حرف مزدوج</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Check Spelling While Typing"; ObjectID = "219"; </Description>
+      <Position>219.title</Position>
+      <TranslationSet>
+        <base loc="en">Check Spelling While Typing</base>
+        <tran loc="ar">تدقيق إملائي أثناء الكتابة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Speech"; ObjectID = "211"; </Description>
+      <Position>211.title</Position>
+      <TranslationSet>
+        <base loc="en">Speech</base>
+        <tran loc="ar">الكلام</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenu"; title = "Speech"; ObjectID = "212"; </Description>
+      <Position>212.title</Position>
+      <TranslationSet>
+        <base loc="en">Speech</base>
+        <tran loc="ar">الكلام</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Make Lower Case"; ObjectID = "465"; </Description>
+      <Position>465.title</Position>
+      <TranslationSet>
+        <base loc="en">Make Lower Case</base>
+        <tran loc="ar">تحويل إلى أحرف صغيرة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Show Colors"; ObjectID = "401"; </Description>
+      <Position>401.title</Position>
+      <TranslationSet>
+        <base loc="en">Show Colors</base>
+        <tran loc="ar">إظهار الألوان</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Loosen"; ObjectID = "419"; </Description>
+      <Position>419.title</Position>
+      <TranslationSet>
+        <base loc="en">Loosen</base>
+        <tran loc="ar">توسيع</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Raise"; ObjectID = "409"; </Description>
+      <Position>409.title</Position>
+      <TranslationSet>
+        <base loc="en">Raise</base>
+        <tran loc="ar">رفع</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Bring All to Front"; ObjectID = "5"; </Description>
+      <Position>5.title</Position>
+      <TranslationSet>
+        <base loc="en">Bring All to Front</base>
+        <tran loc="ar">إحضار الكل إلى الأمام</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Smart Dashes"; ObjectID = "460"; </Description>
+      <Position>460.title</Position>
+      <TranslationSet>
+        <base loc="en">Smart Dashes</base>
+        <tran loc="ar">شرط ذكية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Writing Direction"; ObjectID = "503"; </Description>
+      <Position>503.title</Position>
+      <TranslationSet>
+        <base loc="en">Writing Direction</base>
+        <tran loc="ar">اتجاه الكتابة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenu"; title = "Writing Direction"; ObjectID = "508"; </Description>
+      <Position>508.title</Position>
+      <TranslationSet>
+        <base loc="en">Writing Direction</base>
+        <tran loc="ar">اتجاه الكتابة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Smaller"; ObjectID = "395"; </Description>
+      <Position>395.title</Position>
+      <TranslationSet>
+        <base loc="en">Smaller</base>
+        <tran loc="ar">أصغر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Save"; ObjectID = "75"; </Description>
+      <Position>75.title</Position>
+      <TranslationSet>
+        <base loc="en">Save</base>
+        <tran loc="ar">حفظ</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>Commerce/System/Library/PrivateFrameworks/CommerceKit.framework/Versions/A/Resources/English.lproj/UTD.strings</Filepath>
+    <TextItem>
+      <Description> 
+  UTD.strings
+  Pisa
+
+  Created by James Wilson on 6/25/13.
+
+
+
+ 
+* Up To Date
+ </Description>
+      <Position>UTD_CLAIMED_NOT_INSTALLED_NOTIFICATION_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Get iWork for Free</base>
+        <tran loc="ar">الحصول على iWork مجانًا</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UTD_CLAIMED_NOT_INSTALLED_NOTIFICATION_DISMISS_BUTTON</Position>
+      <TranslationSet>
+        <base loc="en">Not Now</base>
+        <tran loc="ar">ليس الآن</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UTD_CLAIMED_NOT_INSTALLED_NOTIFICATION_TEXT</Position>
+      <TranslationSet>
+        <base loc="en">Pages, Numbers, and Keynote were added to the Purchases page.</base>
+        <tran loc="ar">تمت إضافة Pages،‏ Numbers، وKeynote إلى صفحة Purchases.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UTD_CLAIMED_NOT_INSTALLED_NOTIFICATION_ACTION_BUTTON</Position>
+      <TranslationSet>
+        <base loc="en">Get It</base>
+        <tran loc="ar">احصل عليه</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>Commerce/System/Library/PrivateFrameworks/StoreFoundation.framework/Versions/A/Resources/en.lproj/SignInPrompt.strings</Filepath>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "&lt;MESSAGE - NO LOC&gt;\n&lt;MESSAGE - NO LOC&gt;\n&lt;MESSAGE - NO LOC&gt;"; ObjectID = "49"; </Description>
+      <Position>49.title</Position>
+      <TranslationSet>
+        <base loc="en">&lt;MESSAGE - NO LOC&gt;\n&lt;MESSAGE - NO LOC&gt;\n&lt;MESSAGE - NO LOC&gt;</base>
+        <tran loc="ar">&lt;MESSAGE - NO LOC&gt;\n&lt;MESSAGE - NO LOC&gt;\n&lt;MESSAGE - NO LOC&gt;</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "&lt;Title noloc&gt;"; ObjectID = "19"; </Description>
+      <Position>19.title</Position>
+      <TranslationSet>
+        <base loc="en">&lt;Title noloc&gt;</base>
+        <tran loc="ar">&lt;Title noloc&gt;</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Sign In"; ObjectID = "5"; </Description>
+      <Position>5.title</Position>
+      <TranslationSet>
+        <base loc="en">Sign In</base>
+        <tran loc="ar">تسجيل الدخول</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Cancel"; ObjectID = "7"; </Description>
+      <Position>7.title</Position>
+      <TranslationSet>
+        <base loc="en">Cancel</base>
+        <tran loc="ar">إلغاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "&lt;SIGN IN ERROR - NO LOC&gt;"; ObjectID = "54"; </Description>
+      <Position>54.title</Position>
+      <TranslationSet>
+        <base loc="en">&lt;SIGN IN ERROR - NO LOC&gt;</base>
+        <tran loc="ar">&lt;SIGN IN ERROR - NO LOC&gt;</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Create Apple ID"; ObjectID = "9"; </Description>
+      <Position>9.title</Position>
+      <TranslationSet>
+        <base loc="en">Create Apple ID</base>
+        <tran loc="ar">إنشاء Apple ID</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Password"; ObjectID = "47"; </Description>
+      <Position>47.title</Position>
+      <TranslationSet>
+        <base loc="en">Password</base>
+        <tran loc="ar">كلمة السر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Forgot?"; ObjectID = "89"; </Description>
+      <Position>89.title</Position>
+      <TranslationSet>
+        <base loc="en">Forgot?</base>
+        <tran loc="ar">هل نسيت؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Apple ID "; ObjectID = "48"; </Description>
+      <Position>48.title</Position>
+      <TranslationSet>
+        <base loc="en">Apple ID </base>
+        <tran loc="ar">Apple ID </tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>Commerce/System/Library/PrivateFrameworks/CommerceKit.framework/Versions/A/Resources/English.lproj/iBooks.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>SHOW_PURCHASES_SIGN_IN_HEADER</Position>
+      <TranslationSet>
+        <base loc="en">Sign in to show your purchases in iCloud.</base>
+        <tran loc="ar">قم بتسجيل الدخول لإظهار مشترياتك في iCloud.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DOWNLOAD_FAILED_TRY_LATER</Position>
+      <TranslationSet>
+        <base loc="en">Try again later.</base>
+        <tran loc="ar">حاول مرة أخرى في وقت لاحق.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SIGN_IN_DESCRIPTION</Position>
+      <TranslationSet>
+        <base loc="en">If you have an Apple ID and password, enter them here. If you’ve used the iTunes Store or iCloud, for example, you have an Apple ID.</base>
+        <tran loc="ar">إذا كان لديك Apple ID وكلمة سر، فأدخلهما هنا. إذا كنت قد استخدمت iTunes Store أو iCloud، مثلًا، فهذا يعني أن لديك Apple ID.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SIGN_IN_BUY_BUTTON_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Buy</base>
+        <tran loc="ar">شراء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SIGN_IN_DESCRIPTION_AUTHORIZE</Position>
+      <TranslationSet>
+        <base loc="en">If you have an Apple ID and password, enter them here. (If you’ve used the iTunes Store or iCloud, for example, you have an Apple ID.) You may authorize up to %i computers for each Apple ID.</base>
+        <tran loc="ar">إذا كان لديك Apple ID وكلمة سر، فأدخلهما هنا. (إذا كنت قد استخدمت iTunes Store أو iCloud مثلاً، فهذا يعني أن لديك Apple ID). يمكنك تخويل حتى %i من أجهزة الكمبيوتر لكل Apple ID.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AUTHORIZE_SIGN_IN_HEADER</Position>
+      <TranslationSet>
+        <base loc="en">Enter an Apple ID and password.</base>
+        <tran loc="ar">أدخل Apple ID وكلمة السر.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> CKPurchaseController -- Server Download Queue Check Dialog </Description>
+      <Position>NO_DOWNLOADS_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">All updates and purchases have been downloaded for this Apple ID.</base>
+        <tran loc="ar">تم تنزيل كافة التحديثات والمشتريات لـ Apple ID هذا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> iBooks specific strings </Description>
+      <Position>STORE_SIGN_IN_HEADER</Position>
+      <TranslationSet>
+        <base loc="en">Sign in to download from Apple Books.</base>
+        <tran loc="ar">سجل الدخول للتنزيل من Apple Books.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SIGN_IN_GET_BUTTON_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Get</base>
+        <tran loc="ar">إحضار</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DOWNLOAD_FAILED_BODY</Position>
+      <TranslationSet>
+        <base loc="en">To try again, select Check for Available Downloads from the Store menu.</base>
+        <tran loc="ar">للمحاولة مرة أخرى، قم بتحديد التحقق من وجود تنزيلات متوفرة من قائمة Store.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PREFLIGHT_ERROR_BODY</Position>
+      <TranslationSet>
+        <base loc="en">To try again, select Check for Available Downloads from the Store menu.</base>
+        <tran loc="ar">للمحاولة مرة أخرى، قم بتحديد التحقق من وجود تنزيلات متوفرة من قائمة Store.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SIGN_IN_DESCRIPTION_NO_CREATE</Position>
+      <TranslationSet>
+        <base loc="en">Enter the password for your Apple ID.</base>
+        <tran loc="ar">أدخل كلمة سر الـ Apple ID.</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>Commerce/System/Library/PrivateFrameworks/CommerceKit.framework/Versions/A/Resources/storeuid.app/Contents/Resources/en.lproj/GatekeeperProgress.strings</Filepath>
+    <TextItem>
+      <Description> 
+  GatekeeperProgress.strings
+  CoreServicesUIAgent
+
+  Created by Jonathan Grynspan on 8/25/14.
+
+</Description>
+      <Position>GK_PROGRESS_LABEL_FORMAT_NO_FILENAME</Position>
+      <TranslationSet>
+        <base loc="en">Verifying file…</base>
+        <tran loc="ar">يتم الآن التحقق من الملف…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> file name </Description>
+      <Position>GK_PROGRESS_LABEL_FORMAT</Position>
+      <TranslationSet>
+        <base loc="en">Verifying “%@”…</base>
+        <tran loc="ar">يتم الآن التحقق من \"%@\"…</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>Commerce/System/Library/PrivateFrameworks/CommerceKit.framework/Versions/A/Resources/English.lproj/CKFirmwareWarningSheet.strings</Filepath>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Label"; ObjectID = "32"; </Description>
+      <Position>32.title</Position>
+      <TranslationSet>
+        <base loc="en">Label</base>
+        <tran loc="ar">العنوان</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Cancel"; ObjectID = "18"; </Description>
+      <Position>18.title</Position>
+      <TranslationSet>
+        <base loc="en">Cancel</base>
+        <tran loc="ar">إلغاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Continue"; ObjectID = "16"; </Description>
+      <Position>16.title</Position>
+      <TranslationSet>
+        <base loc="en">Continue</base>
+        <tran loc="ar">متابعة</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>Commerce/System/Library/PrivateFrameworks/AppStoreUI.framework/Versions/A/Resources/en.lproj/Localizable.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>REVIEW_TAP_TO_RATE</Position>
+      <TranslationSet>
+        <base loc="en">Click a star to rate it on the App Store.</base>
+        <tran loc="ar">انقر على نجمة لتقييمه على App Store.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>REVIEW_BODY</Position>
+      <TranslationSet>
+        <base loc="en">Review</base>
+        <tran loc="ar">مراجعة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>REVIEW_AX_RATE_2_STARS</Position>
+      <TranslationSet>
+        <base loc="en">Rate two stars</base>
+        <tran loc="ar">تقييم نجمتين</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>REVIEW_AX_RATE_4_STARS</Position>
+      <TranslationSet>
+        <base loc="en">Rate four stars</base>
+        <tran loc="ar">تقييم أربع نجوم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>REVIEW_BODY_OPTIONAL</Position>
+      <TranslationSet>
+        <base loc="en">Review (optional)</base>
+        <tran loc="ar">مراجعة (اختياري)</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>NICKNAME_ALERT_PLACEHOLDER</Position>
+      <TranslationSet>
+        <base loc="en">Nickname</base>
+        <tran loc="ar">الاسم المستعار</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>REVIEW_ENJOYING_APP</Position>
+      <TranslationSet>
+        <base loc="en">Enjoying %@?</base>
+        <tran loc="ar">هل تستمتع بـ %@؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>NICKNAME_ALERT_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Enter a Nickname</base>
+        <tran loc="ar">أدخل اسمًا مستعارًا</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>REVIEW_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Title</base>
+        <tran loc="ar">العنوان</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>NICKNAME_ALERT_OK</Position>
+      <TranslationSet>
+        <base loc="en">OK</base>
+        <tran loc="ar">موافق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>REVIEW_OK</Position>
+      <TranslationSet>
+        <base loc="en">OK</base>
+        <tran loc="ar">موافق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>NICKNAME_ALERT_CANCEL</Position>
+      <TranslationSet>
+        <base loc="en">Cancel</base>
+        <tran loc="ar">إلغاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>REVIEW_CANCEL</Position>
+      <TranslationSet>
+        <base loc="en">Cancel</base>
+        <tran loc="ar">إلغاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>REVIEW_THANKS</Position>
+      <TranslationSet>
+        <base loc="en">Thanks for your feedback.</base>
+        <tran loc="ar">شكرًا لك على ملاحظاتك.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 
+  Localizable.strings
+  AppStoreUI
+
+  Created by Sam Vafaee on 4/23/18.
+  Copyright © 2018 Apple Inc. All rights reserved.
+</Description>
+      <Position>REVIEW_SUBMIT</Position>
+      <TranslationSet>
+        <base loc="en">Submit</base>
+        <tran loc="ar">إرسال</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>REVIEW_NOT_NOW</Position>
+      <TranslationSet>
+        <base loc="en">Not Now</base>
+        <tran loc="ar">ليس الآن</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>REVIEW_AX_RATE_5_STARS</Position>
+      <TranslationSet>
+        <base loc="en">Rate five stars</base>
+        <tran loc="ar">تقييم خمس نجوم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>REVIEW_WRITE_A_REVIEW</Position>
+      <TranslationSet>
+        <base loc="en">Write a Review</base>
+        <tran loc="ar">كتابة مراجعة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>REVIEW_AX_RATE_1_STARS</Position>
+      <TranslationSet>
+        <base loc="en">Rate one star</base>
+        <tran loc="ar">تقييم نجمة واحدة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>REVIEW_THANKS_WRITE_REVIEW</Position>
+      <TranslationSet>
+        <base loc="en">You can also write a review.</base>
+        <tran loc="ar">يمكنك أيضًا كتابة مراجعة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>NICKNAME_ALERT_MESSAGE</Position>
+      <TranslationSet>
+        <base loc="en">Your nickname will be displayed next to any reviews you write.</base>
+        <tran loc="ar">سيُعرَض اسمك المستعار بجوار أي مراجعات تكتبها.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>REVIEW_AX_RATE_3_STARS</Position>
+      <TranslationSet>
+        <base loc="en">Rate three stars</base>
+        <tran loc="ar">تقييم ثلاث نجوم</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>Commerce/System/Library/PrivateFrameworks/CommerceKit.framework/Versions/A/Resources/English.lproj/CKLicenseAgreementSheet.strings</Filepath>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Disagree"; ObjectID = "18"; </Description>
+      <Position>18.title</Position>
+      <TranslationSet>
+        <base loc="en">Disagree</base>
+        <tran loc="ar">عدم الموافقة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Agree"; ObjectID = "16"; </Description>
+      <Position>16.title</Position>
+      <TranslationSet>
+        <base loc="en">Agree</base>
+        <tran loc="ar">موافقة</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>Commerce/System/Library/PrivateFrameworks/CommerceKit.framework/Versions/A/Resources/English.lproj/Localizable.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>UPDATES_AVAILABLE_ILIFEIWORK_NOTIFICATION_TEXT_AND_ONE_OTHER_FORMAT</Position>
+      <TranslationSet>
+        <base loc="en">%@ and %i other update is available</base>
+        <tran loc="ar">يتوفر %@ و%i من التحديثات الأخرى</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> HI Reviewed 4/16</Description>
+      <Position>AUTOUPDATE_POSTUPDATE_NOTIFICATION_TEXT_SINGLE</Position>
+      <TranslationSet>
+        <base loc="en">The update was installed automatically</base>
+        <tran loc="ar">تم تثبيت التحديث تلقائيًا</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>RETRY</Position>
+      <TranslationSet>
+        <base loc="en">Retry</base>
+        <tran loc="ar">إعادة المحاولة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Auto Update of Restart Required Updates -- Opt In Notification 
+ HI Reviewed 6/24</Description>
+      <Position>AUTOUPDATE_RESTARTREQUIRED_OPTIN_NOTIFICATION_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Automatically Update macOS?</base>
+        <tran loc="ar">هل ترغب في تحديث macOS تلقائيًا؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AUTOUPDATE_ABORT_PLUGINS_IN_USE</Position>
+      <TranslationSet>
+        <base loc="en">PlugIns contained in application are in use.</base>
+        <tran loc="ar">المكوّنات الإضافية المتضمنة في التطبيق قيد الاستخدام.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UPDATE_NOTIFICATION_LATER_OPTION_AUTOUPDATE_OPTIN</Position>
+      <TranslationSet>
+        <base loc="en">Turn On Auto Update</base>
+        <tran loc="ar">تشغيل التحديث التلقائي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UPDATE_NOTIFICATION_LATER_OPTION_AUTOUPDATE_RESTART_REQUIRED_OPTIN</Position>
+      <TranslationSet>
+        <base loc="en">Turn On Automatic Software Updates</base>
+        <tran loc="ar">تشغيل التحديثات التلقائية للبرامج</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Preflight Error Dialog </Description>
+      <Position>PREFLIGHT_ERROR_TITLE_FORMAT</Position>
+      <TranslationSet>
+        <base loc="en">Failed to download %@.</base>
+        <tran loc="ar">فشل تنزيل %@.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> HI Reviewed 5/14</Description>
+      <Position>UPDATEFAILED_DIALOG_OTHER_USERS_STILL_LOGGED_IN_BODY</Position>
+      <TranslationSet>
+        <base loc="en">Click \“Install\” to log out other user accounts and install these updates now.</base>
+        <tran loc="ar">انقر على \"تثبيت\" لتسجيل الخروج من حسابات المستخدمين الأخرى وتثبيت هذه التحديثات الآن.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> HI Review 4/16</Description>
+      <Position>UPDATES_AVAILABLE_ILIFEIWORK_NOTIFICATION_TEXT_AND_OTHERS_FORMAT</Position>
+      <TranslationSet>
+        <base loc="en">%@ and %i other updates are available</base>
+        <tran loc="ar">يتوفر %@ و%i من التحديثات الأخرى</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>INSTALL_QUIT_APP_MESSAGE_FORMAT</Position>
+      <TranslationSet>
+        <base loc="en">Click Continue to quit \“%@\” and begin the update. The application will open when the update is complete.</base>
+        <tran loc="ar">قم بالنقر فوق إنهاء \"%@\" ثم ابدأ في التحديث. سيتم فتح التطبيق عندما يكتمل التحديث.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PREFLIGHT_WARNING_DEFAULT_BODY</Position>
+      <TranslationSet>
+        <base loc="en">Your computer meets the minimum requirements, but not the suggested requirements.</base>
+        <tran loc="ar">الكمبيوتر الخاص بك يفي بالحد الأدنى من المتطلبات، ولكن لا يفي بالمتطلبات المقترحة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SIGN_OUT_BUTTON_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Sign Out</base>
+        <tran loc="ar">الخروج</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SKERRORPAYMENTCANCELLED_ERROR_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">The payment was canceled by the user.</base>
+        <tran loc="ar">تم إلغاء الدفع من قِبل المستخدم.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>INSTALL_ERROR_FILE_DOESNT_EXIST</Position>
+      <TranslationSet>
+        <base loc="en">%@ does not exist. Would you like to create it?</base>
+        <tran loc="ar">‏%@ غير موجود. هل ترغب في إنشائه؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CRITICAL_UPDATES_NOTIFICATION_TEXT</Position>
+      <TranslationSet>
+        <base loc="en">These updates should be installed as soon as possible.</base>
+        <tran loc="ar">يجب تثبيت هذه التحديثات في أسرع وقت ممكن.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DOWNLOAD_FAILED_BODY</Position>
+      <TranslationSet>
+        <base loc="en">Try again later.</base>
+        <tran loc="ar">حاول مرة أخرى في وقت لاحق.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CANNOT_UPDATE_BODY_MULTIPLE</Position>
+      <TranslationSet>
+        <base loc="en">\“%@\” cannot be updated because its extensions are in use by the following applications. Click OK and quit the applications.</base>
+        <tran loc="ar">لا يمكن تحديث \"%@\" لأن ملحقاته قيد الاستخدام في التطبيقات التالية. انقر على \"موافق\" ثم قم بإنهاء التطبيقات.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DEFAULT_ERROR_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Unknown Error.</base>
+        <tran loc="ar">خطأ غير معروف.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> HI Reviewed 7/9</Description>
+      <Position>VPP_INVITE_NOTIFICATION_ENROLL_BUTTON</Position>
+      <TranslationSet>
+        <base loc="en">Accept</base>
+        <tran loc="ar">قبول</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>VIEW_ACC_HEADER</Position>
+      <TranslationSet>
+        <base loc="en">Enter password for “%@”.</base>
+        <tran loc="ar">قم بإدخال كلمة السر لـ \"%@\".</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 
+ 
+* Update Failed Dialog 
+ 
+ HI Reviewed 4/16</Description>
+      <Position>UPDATEFAILED_DIALOG_INSTALL_BUTTON</Position>
+      <TranslationSet>
+        <base loc="en">Install</base>
+        <tran loc="ar">تثبيت</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UPDATE_NOTIFICATION_INSTALL_BUTTON</Position>
+      <TranslationSet>
+        <base loc="en">Install</base>
+        <tran loc="ar">تثبيت</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AC_POWER_MESSAGE</Position>
+      <TranslationSet>
+        <base loc="en">Continue on battery power?</base>
+        <tran loc="ar">المتابعة بطاقة البطارية؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> download &amp; installation </Description>
+      <Position>INSTALL_ERROR_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Installation Error</base>
+        <tran loc="ar">خطأ في التثبيت</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Auto Update -- Failure Reasons </Description>
+      <Position>AUTOUPDATE_ABORT_UNKNOWN</Position>
+      <TranslationSet>
+        <base loc="en">Unknown reason</base>
+        <tran loc="ar">سبب غير معروف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> CKPurchaseController -- More Updates Dialog </Description>
+      <Position>MORE_UPDATES_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">You have updates available for other accounts.</base>
+        <tran loc="ar">لديك تحديثات متوفرة لحسابات أخرى.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>INSTALL_QUIT_APP_SKIPALL_BUTTON</Position>
+      <TranslationSet>
+        <base loc="en">Skip All</base>
+        <tran loc="ar">تخطي الكل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UPDATE_NOTIFICATION_DETAILS_BUTTON</Position>
+      <TranslationSet>
+        <base loc="en">Details</base>
+        <tran loc="ar">التفاصيل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>VPP_EXPIRED_LAUNCH_NOTIFICATION_BUTTON_DETAILS</Position>
+      <TranslationSet>
+        <base loc="en">Details</base>
+        <tran loc="ar">التفاصيل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>VPP_REVOKED_NOTIFICATION_BUTTON_DETAILS</Position>
+      <TranslationSet>
+        <base loc="en">Details</base>
+        <tran loc="ar">التفاصيل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Sign in </Description>
+      <Position>SIGN_IN_BUTTON_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Sign In</base>
+        <tran loc="ar">الدخول</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SIGN_IN_BUY_BUTTON_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Sign In</base>
+        <tran loc="ar">الدخول</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SIGN_IN_GET_BUTTON_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Sign In</base>
+        <tran loc="ar">الدخول</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CANCEL_APP_CANCEL_DOWNLOAD_BUTTON</Position>
+      <TranslationSet>
+        <base loc="en">Cancel Download</base>
+        <tran loc="ar">إلغاء التنزيل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Generic 
+ HI Reviewed 5/14</Description>
+      <Position>UPDATEFAILED_DIALOG_GENERIC_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Some updates were not installed automatically.</base>
+        <tran loc="ar">لم يتم تثبيت بعض التحديثات تلقائيًا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>NO_DOWNLOADS_BODY</Position>
+      <TranslationSet>
+        <base loc="en">You can use the Purchases page to download applications again.</base>
+        <tran loc="ar">يمكنك استخدام صفحة Purchases لتنزيل التطبيقات مرة أخرى.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CRITICAL_UPDATE_INSTALL_NOW_RESTART_TEXT</Position>
+      <TranslationSet>
+        <base loc="en">Your computer will restart to complete this update.</base>
+        <tran loc="ar">سيقوم الكمبيوتر الخاص بك بإعادة التشغيل لإكمال هذا التحديث.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CRITICAL_UPDATE_RESTART_NOTIFICATION_TEXT</Position>
+      <TranslationSet>
+        <base loc="en">Your computer will restart to complete this update.</base>
+        <tran loc="ar">سيقوم الكمبيوتر الخاص بك بإعادة التشغيل لإكمال هذا التحديث.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Missed Later Window 
+ HI Reviewed 5/14</Description>
+      <Position>UPDATEFAILED_DIALOG_MISSED_WINDOW_BATTERY_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Some updates couldn’t be installed because your computer was not connected to a power outlet.</base>
+        <tran loc="ar">تعذر تثبيت بعض التحديثات لأن الكمبيوتر الخاص بك لم يكن متصلاً بمنفذ طاقة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>RECEIPT_RENEWAL_STORE_UNAVAILABLE_BODY</Position>
+      <TranslationSet>
+        <base loc="en">An internet connection is required to verify this purchase before it can be used on this computer.</base>
+        <tran loc="ar">مطلوب الاتصال بالإنترنت للتحقق من شراء هذا المنتج قبل استخدامه على هذا الكمبيوتر.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> HI Reviewed 4/16</Description>
+      <Position>UPDATES_AVAILABLE_AUTOUPDATE_FAILED_NOTIFICATION_TEXT_APP_RUNNING</Position>
+      <TranslationSet>
+        <base loc="en">Some apps currently in use are preventing automatic updates.</base>
+        <tran loc="ar">بعض التطبيقات قيد الاستخدام حاليًا وتمنع التحديثات التلقائية.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> StoreKit Errors </Description>
+      <Position>SKERRORCLIENTINVALID_ERROR_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">This application can not perform In-App Purchases.</base>
+        <tran loc="ar">لا يمكن لهذا التطبيق إجراء مشتريات من داخل التطبيق.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> HI Reviewed 4/16</Description>
+      <Position>UPDATES_AVAILABLE_LATER_FAILED_NOTIFICATION_TEXT</Position>
+      <TranslationSet>
+        <base loc="en">Some updates could not be installed automatically.</base>
+        <tran loc="ar">تعذر تثبيت بعض التحديثات تلقائيًا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UPDATES_AVAILABLE_POSTLOGOUT_FAILED_NOTIFICATION_TEXT</Position>
+      <TranslationSet>
+        <base loc="en">Some updates could not be installed automatically.</base>
+        <tran loc="ar">تعذر تثبيت بعض التحديثات تلقائيًا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>VPP_REVOKED_NOTIFICATION_BUTTON_BUY</Position>
+      <TranslationSet>
+        <base loc="en">Buy</base>
+        <tran loc="ar">شراء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AUTOUPDATE_SCHEDULED_NOTIFICATION_TEXT_MULTIPLE</Position>
+      <TranslationSet>
+        <base loc="en">%@ updates are available and will be installed later tonight.</base>
+        <tran loc="ar">هناك %@ تحديث متوفر وسيتم التثبيت لاحقًا الليلة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> HI Reviewed 4/16</Description>
+      <Position>DOITLATER_HELPER_POWER_TEXT</Position>
+      <TranslationSet>
+        <base loc="en">Your computer must be connected to power to install updates later.</base>
+        <tran loc="ar">يجب أن يكون الكمبيوتر متصلاً بمصدر طاقة لتثبيت التحديثات في وقت لاحق.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PREFLIGHT_ERROR_BODY</Position>
+      <TranslationSet>
+        <base loc="en">The application will be available from the Purchased page.</base>
+        <tran loc="ar">سيكون التطبيق متوفرًا في صفحة Purchased.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>INSTALL_ERROR_FAILED_TO_FINISH</Position>
+      <TranslationSet>
+        <base loc="en">The installation could not be completed.</base>
+        <tran loc="ar">تعذر إكمال التثبيت.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>VIEW_ACC_BUTTON_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">View Account</base>
+        <tran loc="ar">عرض الحساب</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UPDATEFAILED_DIALOG_AVAILABLE_UPDATES_CHANGED_BODY</Position>
+      <TranslationSet>
+        <base loc="en">Click \“Show Details\” to see the available updates.</base>
+        <tran loc="ar">انقر على \"إظهار التفاصيل\" لرؤية التحديثات المتوفرة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CONTINUE_SIGN_IN_DESCRIPTION</Position>
+      <TranslationSet>
+        <base loc="en">If you use Apple services like the iTunes Store, iCloud, and iMessage, then you already have an Apple ID and don’t need to create a new one.</base>
+        <tran loc="ar">إذا كنت تستخدم خدمات Apple مثل iTunes Store و iCloud و iMessage، فهذا يعني أن لديك Apple ID بالفعل ولست بحاجة إلى إنشاء حساب جديد.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ADMIN_INSTALLED_UPDATE_POSTINSTALL_NOTIFICATION_TEXT</Position>
+      <TranslationSet>
+        <base loc="en">A new update was installed on your Mac by an administrator.</base>
+        <tran loc="ar">تم تثبيت تحديث جديد على الـ Mac الخاص بك بواسطة مسؤول.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> UpdateController -- Restart Dialog (Download) 
+ HI Reviewed 5/14</Description>
+      <Position>CONFIRM_RESTART_TITLE_DOWNLOAD</Position>
+      <TranslationSet>
+        <base loc="en">Some updates need to finish downloading before they are installed.</base>
+        <tran loc="ar">بعض التحديثات يجب الانتهاء من تنزيلها قبل تثبيتها.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CONTINUE_SIGN_IN_HEADER</Position>
+      <TranslationSet>
+        <base loc="en">To continue, sign in with your Apple ID.</base>
+        <tran loc="ar">للمتابعة، سجّل الدخول باستخدام Apple ID.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UPDATEFAILED_DIALOG_APP_RUNNING_BODY</Position>
+      <TranslationSet>
+        <base loc="en">Click \“%@\” to complete the updates.</base>
+        <tran loc="ar">انقر على \"%@\" لإكمال التحديثات.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CRITICAL_UPDATE_NOTIFICATION_TEXT</Position>
+      <TranslationSet>
+        <base loc="en">This update should be installed as soon as possible.</base>
+        <tran loc="ar">يجب تثبيت هذا التحديث في أسرع وقت ممكن.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>INSTALL_QUIT_APP_MULTIPLE_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">The following applications cannot be open during installation.</base>
+        <tran loc="ar">التطبيقات التالية لا يمكن فتحها أثناء التثبيت.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DOWNLOAD_ERROR_FORMAT</Position>
+      <TranslationSet>
+        <base loc="en">An error occurred while downloading %@.</base>
+        <tran loc="ar">حدث خطأ أثناء تنزيل %@.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>APP_IS_ON_LOCKED_MEDIA_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">“%@” can’t be opened. Move “%@” to the Applications folder, and try again.</base>
+        <tran loc="ar">لا يمكن فتح \"%@\". قم بنقل \"%@\" إلى مجلد التطبيقات، وحاول مرة أخرى.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Device Offers</Description>
+      <Position>DEVICE_OFFERS_FOLLOWUP_APPLE_MUSIC_DESC</Position>
+      <TranslationSet>
+        <base loc="en">Apple Music is ready to be used with Apple ID, “%@”.</base>
+        <tran loc="ar">‏Apple Music جاهز للاستخدام مع الـ Apple ID ‏\"%@\".</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>INSTALL_WARNING_DISTRIBUTION_FREE_SPACE_CHECK</Position>
+      <TranslationSet>
+        <base loc="en">There may not be enough disk space available to install the product.</base>
+        <tran loc="ar">قد لا يكون هناك مساحة قرص متوفرة كافية لتثبيت هذا المنتج.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>USER_CANCELLED_ERROR</Position>
+      <TranslationSet>
+        <base loc="en">The operation was cancelled.</base>
+        <tran loc="ar">تم إلغاء العملية.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> VPP Revoked Notification </Description>
+      <Position>VPP_REVOKED_NOTIFICATION_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Apps Expiring Soon</base>
+        <tran loc="ar">تطبيقات تنتهي صلاحيتها قريبًا</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> SLA</Description>
+      <Position>SOFTWARE_LICENSE_AGREEMENT_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Software License Agreement</base>
+        <tran loc="ar">اتفاقية ترخيص البرنامج</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> HI Reviewed 5/14</Description>
+      <Position>UPDATEFAILED_DIALOG_RESTART_REQUIRED_BODY</Position>
+      <TranslationSet>
+        <base loc="en">Click \“Restart\” to complete these updates.</base>
+        <tran loc="ar">انقر على \"إعادة التشغيل\" لإكمال هذه التحديثات.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SIGN_IN_DESCRIPTION_AUTHORIZE</Position>
+      <TranslationSet>
+        <base loc="en">If you have an Apple ID and password, enter them here. (If you’ve used the iTunes Store or iCloud, for example, you have an Apple ID.) You may authorize up to %i computers for each Apple ID.</base>
+        <tran loc="ar">إذا كان لديك Apple ID وكلمة سر، فأدخلهما هنا. (إذا كنت قد استخدمت iTunes Store أو iCloud مثلاً، فهذا يعني أن لديك Apple ID). يمكنك تخويل حتى %i من أجهزة الكمبيوتر لكل Apple ID.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> HI Reviewed 4/16</Description>
+      <Position>DOITLATER_HELPER_OTHER_USERS_TEXT</Position>
+      <TranslationSet>
+        <base loc="en">Log out of other user accounts so updates can install later.</base>
+        <tran loc="ar">قم بتسجيل الخروج من حسابات المستخدمين الأخرى حتى يمكن تثبيت التحديثات في وقت لاحق.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>RESUME_ERROR_BODY</Position>
+      <TranslationSet>
+        <base loc="en">You can re-download this application for free at any time from the Purchased page.</base>
+        <tran loc="ar">يمكنك إعادة تنزيل هذا التطبيق مجانًا في أي وقت من صفحة Purchased.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UPDATEFAILED_RESTART_DIALOG_OTHER_USERS_STILL_LOGGED_IN_BODY</Position>
+      <TranslationSet>
+        <base loc="en">Click \“Restart\” to log out other user accounts and install these updates now.</base>
+        <tran loc="ar">انقر على \"إعادة التشغيل\" لتسجيل الخروج من حسابات المستخدمين الأخرى وتثبيت هذه التحديثات الآن.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UPDATEFAILED_RESTART_DIALOG_MISSED_WINDOW_BATTERY_BODY</Position>
+      <TranslationSet>
+        <base loc="en">Click \“Restart\” to update now, or make sure you are connected to power for them to install automatically later.</base>
+        <tran loc="ar">انقر على \"إعادة التشغيل\" للتحديث الآن، أو تأكد من اتصالك بمصدر طاقة حتى يمكن تثبيتها تلقائيًا في وقت لاحق.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>INSTALL_ERROR_DISTRIBUTION_VERIFICATION</Position>
+      <TranslationSet>
+        <base loc="en">The product distribution file could not be verified. It may be damaged or was not signed.</base>
+        <tran loc="ar">تعذر التحقق من ملف توزيع المنتج. قد يكون تالفًا أو لم يتم توقيعه.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>VIEW_ACC_NOID_HEADER</Position>
+      <TranslationSet>
+        <base loc="en">Sign in to view account.</base>
+        <tran loc="ar">قم بتسجيل الدخول لعرض الحساب.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AUTOENROLL_AUTOUPDATE_NOTIFICATION_DISMISS</Position>
+      <TranslationSet>
+        <base loc="en">OK</base>
+        <tran loc="ar">موافق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CANNOT_UPDATE_DEFAULT_BUTTON</Position>
+      <TranslationSet>
+        <base loc="en">OK</base>
+        <tran loc="ar">موافق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DOWNLOAD_FAILED_DONE</Position>
+      <TranslationSet>
+        <base loc="en">OK</base>
+        <tran loc="ar">موافق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>MORE_UPDATES_DEFAULT_BUTTON</Position>
+      <TranslationSet>
+        <base loc="en">OK</base>
+        <tran loc="ar">موافق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>NO_DOWNLOADS_DEFAULT_BUTTON</Position>
+      <TranslationSet>
+        <base loc="en">OK</base>
+        <tran loc="ar">موافق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>OK</Position>
+      <TranslationSet>
+        <base loc="en">OK</base>
+        <tran loc="ar">موافق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PREFLIGHT_ERROR_DEFAULT_BUTTON</Position>
+      <TranslationSet>
+        <base loc="en">OK</base>
+        <tran loc="ar">موافق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>RECEIPT_RENEWAL_STORE_UNAVAILABLE_BUTTON_OK</Position>
+      <TranslationSet>
+        <base loc="en">OK</base>
+        <tran loc="ar">موافق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>RESUME_ERROR_DEFAULT_BUTTON</Position>
+      <TranslationSet>
+        <base loc="en">OK</base>
+        <tran loc="ar">موافق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UPDATING_LOCKED_DEFAULT_BUTTON</Position>
+      <TranslationSet>
+        <base loc="en">OK</base>
+        <tran loc="ar">موافق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ADMIN_INSTALLED_POST_LOGOUT_UPDATE_POSTINSTALL_NOTIFICATION_TEXT</Position>
+      <TranslationSet>
+        <base loc="en">A new update was requested to be installed by an administrator.</base>
+        <tran loc="ar">قام مسؤول بطلب تثبيت تحديث جديد.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>GENERIC_PURCHASE_ERROR</Position>
+      <TranslationSet>
+        <base loc="en">An error occurred during purchase.</base>
+        <tran loc="ar">حدث خطأ أثناء الشراء.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>INSTALL_ERROR_DISTRIBUTION_SIGNED_BY_APPLE</Position>
+      <TranslationSet>
+        <base loc="en">Failed to verify the preflight file. It is not signed by Apple.</base>
+        <tran loc="ar">فشل التحقق من ملف الفحص المبدئي. لم يتم توقيعه من قبل Apple.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> HI Reviewed 4/16</Description>
+      <Position>DOITLATER_HELPER_POWER_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Not Connected to Power</base>
+        <tran loc="ar">غير متصل بالطاقة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CRITICAL_UPDATES_INSTALL_NOW_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Security Updates Required</base>
+        <tran loc="ar">مطلوب تحديثات الأمن</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Restart Required 
+ HI Reviewed 5/14</Description>
+      <Position>UPDATEFAILED_DIALOG_RESTART_REQUIRED_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Some updates were not installed automatically because they require restarting your computer.</base>
+        <tran loc="ar">لم يتم تثبيت بعض التحديثات تلقائيًا لأنها تتطلب إعادة تشغيل الكمبيوتر.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>INSTALL_ERROR_DISTRIBUTION_FREE_SPACE_CHECK</Position>
+      <TranslationSet>
+        <base loc="en">There is not enough disk space available to install the product.</base>
+        <tran loc="ar">لا توجد مساحة قرص متوفرة كافية لتثبيت هذا المنتج.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Apps Running Prevented Updates </Description>
+      <Position>UPDATEFAILED_DIALOG_APP_RUNNING_TITLE_SINGLE</Position>
+      <TranslationSet>
+        <base loc="en">\“%@\” prevented updates being installed.</base>
+        <tran loc="ar">حالت \"%@\" دون تثبيت التحديثات.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> HI Reviewed 1/20/14</Description>
+      <Position>AUTOUPDATE_OPTIN_BODY</Position>
+      <TranslationSet>
+        <base loc="en">When new updates are available, they will be installed automatically. You will be asked before installing updates that require a restart.</base>
+        <tran loc="ar">عندما تتوفر تحديثات جديدة، سيتم تثبيتها تلقائيًا. سيتم سؤالك قبل تثبيت التحديثات التي تتطلب إعادة تشغيل.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CONFIRM_RESTART_RESTART_BUTTON</Position>
+      <TranslationSet>
+        <base loc="en">Restart</base>
+        <tran loc="ar">إعادة التشغيل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> HI Reviewed 4/16</Description>
+      <Position>UPDATEFAILED_DIALOG_RESTART_BUTTON</Position>
+      <TranslationSet>
+        <base loc="en">Restart</base>
+        <tran loc="ar">إعادة التشغيل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UPDATE_NOTIFICATION_RESTART_BUTTON</Position>
+      <TranslationSet>
+        <base loc="en">Restart</base>
+        <tran loc="ar">إعادة التشغيل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CRITICAL_UPDATES_INSTALL_NOW_RESTART_TEXT</Position>
+      <TranslationSet>
+        <base loc="en">Your computer will restart to complete these updates.</base>
+        <tran loc="ar">سيقوم الكمبيوتر الخاص بك بإعادة التشغيل لإكمال هذه التحديثات.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CRITICAL_UPDATES_RESTART_NOTIFICATION_TEXT</Position>
+      <TranslationSet>
+        <base loc="en">Your computer will restart to complete these updates.</base>
+        <tran loc="ar">سيقوم الكمبيوتر الخاص بك بإعادة التشغيل لإكمال هذه التحديثات.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UPDATES_AVAILABLE_NOTIFICATION_LATER_NOT_OFFERED_RESTART_TEXT</Position>
+      <TranslationSet>
+        <base loc="en">Your computer will restart to complete these updates.</base>
+        <tran loc="ar">سيقوم الكمبيوتر الخاص بك بإعادة التشغيل لإكمال هذه التحديثات.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Available Updates Notification Buttons </Description>
+      <Position>UPDATE_NOTIFICATION_UPDATE_BUTTON</Position>
+      <TranslationSet>
+        <base loc="en">Update</base>
+        <tran loc="ar">تحديث</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CANCEL_APP_DELETE_BUTTON</Position>
+      <TranslationSet>
+        <base loc="en">Delete App</base>
+        <tran loc="ar">حذف التطبيق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> HI Reviewed 7/9</Description>
+      <Position>VPP_INVITE_NOTIFICATION_BODY_FORMAT</Position>
+      <TranslationSet>
+        <base loc="en">\“%@\” wants to make apps and books available to you.</base>
+        <tran loc="ar">يريد \"%@\" أن يوفر لك التطبيقات والكتب.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> HI Reviewed 4/16</Description>
+      <Position>UPDATE_NOTIFICATION_LATER_OPTION_1HOUR</Position>
+      <TranslationSet>
+        <base loc="en">Try in an Hour</base>
+        <tran loc="ar">المحاولة خلال ساعة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> HI Reviewed 4/16</Description>
+      <Position>UPDATE_NOTIFICATION_LATER_OPTION_1HOUR_SHORT</Position>
+      <TranslationSet>
+        <base loc="en">Try in an Hour</base>
+        <tran loc="ar">المحاولة خلال ساعة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Do It Later Helpers 
+ HI Reviewed 4/16</Description>
+      <Position>DOITLATER_HELPER_OTHER_USERS_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Other Users Are Logged In</base>
+        <tran loc="ar">تم تسجيل دخول المستخدمين الآخرين</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>VPP_EXPIRED_DIALOG_BODY_FORMAT</Position>
+      <TranslationSet>
+        <base loc="en">\“%@\” is no longer making the app \“%@\” available to you. To use it, you need to buy your own copy from the App Store.</base>
+        <tran loc="ar">ما عاد \"%@\" يوفر لك التطبيق \"%@\". لاستخدامه، يتعين عليك شراء نسختك الخاصة من App Store.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AC_POWER_CANCEL_BUTTON</Position>
+      <TranslationSet>
+        <base loc="en">Cancel</base>
+        <tran loc="ar">إلغاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CANCEL</Position>
+      <TranslationSet>
+        <base loc="en">Cancel</base>
+        <tran loc="ar">إلغاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DISK_SPACE_CANCEL_BUTTON</Position>
+      <TranslationSet>
+        <base loc="en">Cancel</base>
+        <tran loc="ar">إلغاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>INSTALL_ERROR_FILE_CANCEL_BUTTON</Position>
+      <TranslationSet>
+        <base loc="en">Cancel</base>
+        <tran loc="ar">إلغاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>INSTALL_QUIT_APP_CANCEL_BUTTON</Position>
+      <TranslationSet>
+        <base loc="en">Cancel</base>
+        <tran loc="ar">إلغاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PREFLIGHT_WARNING_CANCEL_BUTTON</Position>
+      <TranslationSet>
+        <base loc="en">Cancel</base>
+        <tran loc="ar">إلغاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>VPP_EXPIRED_DIALOG_CANCEL_BUTTON</Position>
+      <TranslationSet>
+        <base loc="en">Cancel</base>
+        <tran loc="ar">إلغاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AUTOUPDATE_ABORT_PURCHASEFAILED</Position>
+      <TranslationSet>
+        <base loc="en">Store Sign-In Required.</base>
+        <tran loc="ar">مطلوب تسجيل الدخول إلى المتجر.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> HI Reviewed 5/14</Description>
+      <Position>UPDATEFAILED_DIALOG_GENERIC_BODY</Position>
+      <TranslationSet>
+        <base loc="en">Click \“Install\” to update them now.</base>
+        <tran loc="ar">انقر على \"تثبيت\" لتحديثها الآن.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> HI Reviewed 5/14</Description>
+      <Position>UPDATEFAILED_DIALOG_OTHER_USERS_BODY</Position>
+      <TranslationSet>
+        <base loc="en">Click \“Install\” to update them now.</base>
+        <tran loc="ar">انقر على \"تثبيت\" لتحديثها الآن.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> VPP Expired Notification </Description>
+      <Position>VPP_EXPIRED_LAUNCH_NOTIFICATION_TITLE_FORMAT</Position>
+      <TranslationSet>
+        <base loc="en">\“%@\” has Expired</base>
+        <tran loc="ar">انتهت صلاحية \"%@\"</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> HI Reviewed 4/16</Description>
+      <Position>UPDATE_NOTIFICATION_LATER_OPTION_TONIGHT</Position>
+      <TranslationSet>
+        <base loc="en">Try Tonight</base>
+        <tran loc="ar">المحاولة الليلة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> HI Reviewed 4/16</Description>
+      <Position>UPDATE_NOTIFICATION_LATER_OPTION_TONIGHT_SHORT</Position>
+      <TranslationSet>
+        <base loc="en">Try Tonight</base>
+        <tran loc="ar">المحاولة الليلة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>INSTALL_ERROR_FAILED_TO_START</Position>
+      <TranslationSet>
+        <base loc="en">The installation could not be started.</base>
+        <tran loc="ar">تعذر بدء التثبيت.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UPDATES_AVAILABLE_ILIFEIWORK_NOTIFICATION_3_UPDATES_FORMAT</Position>
+      <TranslationSet>
+        <base loc="en">%@, %@ and %@</base>
+        <tran loc="ar">‏%@، ‏%@، و%@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UPDATES_AVAILABLE_ILIFEIWORK_NOTIFICATION_2_UPDATES_FORMAT</Position>
+      <TranslationSet>
+        <base loc="en">%@ and %@</base>
+        <tran loc="ar">%@ و%@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DOWNLOAD_FAILED_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Unable to Download %@</base>
+        <tran loc="ar">غير قادر على تنزيل %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Auto Updatew Post-Install 
+ HI Reviewed 4/16</Description>
+      <Position>AUTOUPDATE_POSTUPDATE_NOTIFICATION_TITLE_SINGLE</Position>
+      <TranslationSet>
+        <base loc="en">“%@” Updated</base>
+        <tran loc="ar">تم تحديث \"%@\"</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Available Updates (Do it Later Failed) 
+ HI Reviewed 4/16</Description>
+      <Position>UPDATES_AVAILABLE_LATER_FAILED_NOTIFICATION_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Updates Not Installed</base>
+        <tran loc="ar">لم يتم تثبيت التحديثات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Available Updates (Post-Logout Failed) </Description>
+      <Position>UPDATES_AVAILABLE_POSTLOGOUT_FAILED_NOTIFICATION_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Updates Not Installed</base>
+        <tran loc="ar">لم يتم تثبيت التحديثات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description>
+ 
+* VPP
+ 
+ VPP Invitation 
+ HI Reviewed 7/9</Description>
+      <Position>VPP_INVITE_NOTIFICATION_TITLE_FORMAT</Position>
+      <TranslationSet>
+        <base loc="en">Invitation from \“%@\”</base>
+        <tran loc="ar">دعوة من \"%@\"</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CRITICAL_UPDATES_POSTINSTALL_NOTIFICATION_TEXT</Position>
+      <TranslationSet>
+        <base loc="en">New security updates were installed on your Mac.</base>
+        <tran loc="ar">تم تثبيت تحديثات أمن جديدة على الـ Mac الخاص بك.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DEAUTHORIZE_BUTTON_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Deauthorize</base>
+        <tran loc="ar">إلغاء التخويل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AC_POWER_CONTINUE_BUTTON</Position>
+      <TranslationSet>
+        <base loc="en">Continue</base>
+        <tran loc="ar">متابعة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CANCEL_APP_CANCEL_BUTTON</Position>
+      <TranslationSet>
+        <base loc="en">Continue</base>
+        <tran loc="ar">متابعة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DEVICE_OFFERS_FOLLOWUP_CONTINUE_LABEL</Position>
+      <TranslationSet>
+        <base loc="en">Continue</base>
+        <tran loc="ar">متابعة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>INSTALL_QUIT_APP_BUTTON</Position>
+      <TranslationSet>
+        <base loc="en">Continue</base>
+        <tran loc="ar">متابعة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PREFLIGHT_WARNING_DEFAULT_BUTTON</Position>
+      <TranslationSet>
+        <base loc="en">Continue</base>
+        <tran loc="ar">متابعة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>RECEIPT_RENEWAL_STORE_UNAVAILABLE_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">“%@” was purchased using the App Store on another computer.</base>
+        <tran loc="ar">تم شراء \"%@\" باستخدام App Store على كمبيوتر آخر.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AUTOENROLL_AUTOUPDATE_NOTIFICATION_SETTINGS</Position>
+      <TranslationSet>
+        <base loc="en">Turn Off</base>
+        <tran loc="ar">إيقاف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>VIEW_ACC_NOID_DESCRIPTION</Position>
+      <TranslationSet>
+        <base loc="en">To view your account information, enter your Apple ID and password, and then click View Account. If you don’t have an Apple ID, click Create Apple ID to create one.</base>
+        <tran loc="ar">لعرض معلومات الحساب الخاص بك، قم بإدخال Apple ID الخاص بك وكلمة السر، ثم قم بالنقر فوق عرض الحساب، إذا لم يكن لديك Apple ID، قم بالنقر فوق إنشاء Apple ID لإنشائه.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SIGN_IN_DESCRIPTION_RECOVERY</Position>
+      <TranslationSet>
+        <base loc="en">If you have an Apple ID, sign in with it here. If you have used the iTunes Store or iCloud, for example, you have an Apple ID.</base>
+        <tran loc="ar">إذا كان لديك Apple ID، فقم بتسجيل الدخول بواسطته هنا. إذا كنت قد استخدمت iTunes Store أو iCloud، مثلًا، فهذا يعني أن لديك Apple ID.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UPDATES_AVAILABLE_ILIFEIWORK_NOTIFICATION_2_UPDATES_AND_MORE_FORMAT</Position>
+      <TranslationSet>
+        <base loc="en">%@, %@</base>
+        <tran loc="ar">‏%@، ‏%@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>VPP_REVOKED_NOTIFICATION_TEXT_SINGLE_FORMAT</Position>
+      <TranslationSet>
+        <base loc="en">\“%@\” will no longer be available to you in %i days</base>
+        <tran loc="ar">لن يظل \"%@\" متوفرًا لك بعد %i من الأيام</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>INSTALL_ERROR_DISTRIBUTION_PACKAGE_CHECK</Position>
+      <TranslationSet>
+        <base loc="en">This product contains no application to install.</base>
+        <tran loc="ar">هذا المنتج لا يحتوي على تطبيقات للتثبيت.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Admin installed restart-required updates strings </Description>
+      <Position>ADMIN_INSTALLED_POST_LOGOUT_UPDATE_POSTINSTALL_NOTIFICATION_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Update Requested</base>
+        <tran loc="ar">تم طلب تحديث</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CANNOT_UPDATE_BODY</Position>
+      <TranslationSet>
+        <base loc="en">\“%@\” cannot be updated because its extensions are in use by \“%@\”. Click OK and quit the application.</base>
+        <tran loc="ar">لا يمكن تحديث \"%@\" لأن ملحقاته قيد الاستخدام من قِبل \"%@\". انقر على \"موافق\" ثم قم بإنهاء التطبيق.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>INSTALL_QUIT_APP_TITLE_FORMAT</Position>
+      <TranslationSet>
+        <base loc="en">\“%@\” cannot be open during installation.</base>
+        <tran loc="ar">لا يمكن فتح \"%@\" أثناء التثبيت.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Available Updates (Later Not Offered) </Description>
+      <Position>UPDATES_AVAILABLE_NOTIFICATION_LATER_NOT_OFFERED_TEXT</Position>
+      <TranslationSet>
+        <base loc="en">New software is ready to be installed.</base>
+        <tran loc="ar">لا توجد برامج جاهزة للتثبيت.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SKERRORPAYMENTINVALID_ERROR_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">The product identifier was not valid.</base>
+        <tran loc="ar">معرّف المنتج غير صالح.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Admin installed non-restart-required updates strings </Description>
+      <Position>ADMIN_INSTALLED_UPDATE_POSTINSTALL_NOTIFICATION_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Update Installed</base>
+        <tran loc="ar">تم تثبيت تحديث</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>INSTALL_WARNING_DISTRIBUTION_FREE_SPACE_CHECK_FORMAT</Position>
+      <TranslationSet>
+        <base loc="en">There may not be enough disk space available to install \“%@\”.</base>
+        <tran loc="ar">ربما لا توجد مساحة قرص متوفرة كافية لتثبيت \"%@\".</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Other Users Logged In 
+ HI Reviewed 5/14</Description>
+      <Position>UPDATEFAILED_DIALOG_OTHER_USERS_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Some updates couldn’t be installed automatically because other user accounts were logged in.</base>
+        <tran loc="ar">تعذر تثبيت بعض التحديثات تلقائيًا نظرًا لأنه تم تسجيل الدخول إلى حسابات مستخدمين أخرى.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>STORE_SIGN_IN_HEADER</Position>
+      <TranslationSet>
+        <base loc="en">Sign in to download from the App Store.</base>
+        <tran loc="ar">قم بتسجيل الدخول للتنزيل من App Store.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Application is damaged </Description>
+      <Position>APP_IS_DAMAGED_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">“%@” is damaged and can’t be opened. Delete “%@” and download it again from the App Store.</base>
+        <tran loc="ar">‫\"%@\" تالف ولا يمكن فتحه. قم بحذف \"%@\" وتنزيله مرة أخرى من App Store.‬</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UPDATE_NOTIFICATION_CLOSE_BUTTON</Position>
+      <TranslationSet>
+        <base loc="en">Close</base>
+        <tran loc="ar">إغلاق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>VPP_EXPIRED_LAUNCH_NOTIFICATION_BUTTON_CLOSE</Position>
+      <TranslationSet>
+        <base loc="en">Close</base>
+        <tran loc="ar">إغلاق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>VPP_REVOKED_NOTIFICATION_BUTTON_CLOSE</Position>
+      <TranslationSet>
+        <base loc="en">Close</base>
+        <tran loc="ar">إغلاق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>NEW_ACCOUNT_BUTTON_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Create Apple ID</base>
+        <tran loc="ar">إنشاء Apple ID</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AUTHORIZE_BUTTON_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Authorize</base>
+        <tran loc="ar">تخويل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> HI Reviewed 6/24</Description>
+      <Position>AUTOUPDATE_RESTARTREQUIRED_OPTIN_NOTIFICATION_BODY</Position>
+      <TranslationSet>
+        <base loc="en">You can change this setting later in App Store preferences.</base>
+        <tran loc="ar">يمكنك تغيير هذا الإعداد لاحقًا في تفضيلات App Store.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>NOT_ENOUGH_SPACE_SPECIFIC</Position>
+      <TranslationSet>
+        <base loc="en">Your volume is out of space.</base>
+        <tran loc="ar">نفذت المساحة على وحدة التخزين الخاصة بك.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> HI Reviewed 4/16</Description>
+      <Position>UPDATES_AVAILABLE_AUTOUPDATE_FAILED_NOTIFICATION_TEXT_GENERIC</Position>
+      <TranslationSet>
+        <base loc="en">Some apps could not be updated automatically.</base>
+        <tran loc="ar">تعذر تحديث بعض التطبيقات تلقائيًا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DISK_SPACE_MESSAGE</Position>
+      <TranslationSet>
+        <base loc="en">Installing these updates requires %@ of disk space.</base>
+        <tran loc="ar">تثبيت هذه التحديثات يتطلب %@ من مساحة القرص.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AUTOUPDATE_POSTUPDATE_NOTIFICATION_TEXT_MULTIPLE_AND</Position>
+      <TranslationSet>
+        <base loc="en">, and </base>
+        <tran loc="ar">، و </tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> HI Review 4/16</Description>
+      <Position>UPDATES_AVAILABLE_ILIFEIWORK_NOTIFICATION_TEXT_FORMAT</Position>
+      <TranslationSet>
+        <base loc="en">%@ updates are available</base>
+        <tran loc="ar">يتوفر %@ من التحديثات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> OS Updates have changed </Description>
+      <Position>UPDATEFAILED_DIALOG_AVAILABLE_UPDATES_CHANGED_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Available updates have changed.</base>
+        <tran loc="ar">تم تغيير التحديثات المتوفرة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CRITICAL_UPDATE_INSTALL_NOW_TEXT</Position>
+      <TranslationSet>
+        <base loc="en">This update must be completed.</base>
+        <tran loc="ar">يجب إكمال هذا التحديث.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> HI Reviewed 4/16</Description>
+      <Position>AUTOUPDATE_OPTIN_NOTIFICATION_ENABLE</Position>
+      <TranslationSet>
+        <base loc="en">Turn On</base>
+        <tran loc="ar">تشغيل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> HI Reviewed 4/16</Description>
+      <Position>AUTOUPDATE_OPTIN_OK</Position>
+      <TranslationSet>
+        <base loc="en">Turn On</base>
+        <tran loc="ar">تشغيل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> HI Reviewed 6/24</Description>
+      <Position>AUTOUPDATE_RESTARTREQUIRED_OPTIN_NOTIFICATION_ENABLE</Position>
+      <TranslationSet>
+        <base loc="en">Turn On</base>
+        <tran loc="ar">تشغيل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AUTO_PUSH_FIRST_BUY_NOTIFICATION_ACTION_BUTTON</Position>
+      <TranslationSet>
+        <base loc="en">Turn On</base>
+        <tran loc="ar">تشغيل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>MORE_UPDATES_NO_ID_BODY</Position>
+      <TranslationSet>
+        <base loc="en">To update this application, sign in to the account you used to purchase it.</base>
+        <tran loc="ar">لتحديث هذا التطبيق، قم بتسجيل الدخول في الحساب الذي استخدمت لشرائه.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> HI Reviewed 5/14</Description>
+      <Position>UPDATEFAILED_DIALOG_MISSED_WINDOW_BATTERY_BODY</Position>
+      <TranslationSet>
+        <base loc="en">Click \“Install\” to update now, or make sure you are connected to power for them to install automatically later.</base>
+        <tran loc="ar">انقر على \"تثبيت\" للتحديث الآن، أو تأكد من اتصالك بمصدر طاقة حتى يمكن تثبيتها تلقائيًا في وقت لاحق.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> HI Reviewed 4/16</Description>
+      <Position>UPDATE_NOTIFICATION_LATER_OPTION_REMIND</Position>
+      <TranslationSet>
+        <base loc="en">Remind Me Tomorrow</base>
+        <tran loc="ar">تذكيري غدًا</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> HI Reviewed 4/16</Description>
+      <Position>AUTOUPDATE_OPTIN_CANCEL</Position>
+      <TranslationSet>
+        <base loc="en">Not Now</base>
+        <tran loc="ar">ليس الآن</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> HI Reviewed 4/16</Description>
+      <Position>AUTOUPDATE_OPTIN_NOTIFICATION_CLOSE</Position>
+      <TranslationSet>
+        <base loc="en">Not Now</base>
+        <tran loc="ar">ليس الآن</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> HI Reviewed 6/24</Description>
+      <Position>AUTOUPDATE_RESTARTREQUIRED_OPTIN_NOTIFICATION_CLOSE</Position>
+      <TranslationSet>
+        <base loc="en">Not Now</base>
+        <tran loc="ar">ليس الآن</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AUTO_PUSH_FIRST_BUY_NOTIFICATION_CLOSE_BUTTON</Position>
+      <TranslationSet>
+        <base loc="en">Not Now</base>
+        <tran loc="ar">ليس الآن</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CONFIRM_RESTART_NOT_NOW_BUTTON</Position>
+      <TranslationSet>
+        <base loc="en">Not Now</base>
+        <tran loc="ar">ليس الآن</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> HI Reviewed 5/14</Description>
+      <Position>CONFIRM_RESTART_NOT_NOW_BUTTON_DOWNLOAD</Position>
+      <TranslationSet>
+        <base loc="en">Not Now</base>
+        <tran loc="ar">ليس الآن</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> HI Reviewed 4/16</Description>
+      <Position>UPDATEFAILED_DIALOG_CANCEL_BUTTON</Position>
+      <TranslationSet>
+        <base loc="en">Not Now</base>
+        <tran loc="ar">ليس الآن</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UPDATE_NOTIFICATION_NOTNOW_BUTTON</Position>
+      <TranslationSet>
+        <base loc="en">Not Now</base>
+        <tran loc="ar">ليس الآن</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> HI Reviewed 7/9</Description>
+      <Position>VPP_INVITE_NOTIFICATION_CLOSE_BUTTON</Position>
+      <TranslationSet>
+        <base loc="en">Not Now</base>
+        <tran loc="ar">ليس الآن</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> HI Reviewed 4/16</Description>
+      <Position>DOITLATER_POSTLOGOUTINSTALLED_NOTIFICATION_TEXT</Position>
+      <TranslationSet>
+        <base loc="en">Your computer restarted to install these updates.</base>
+        <tran loc="ar">تمت إعادة تشغيل الكمبيوتر الخاص بك لتثبيت هذه التحديثات.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Auto Enroll in Auto-Update for SU Notification </Description>
+      <Position>AUTOENROLL_AUTOUPDATE_NOTIFICATION_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Automatic Updates Turned On</base>
+        <tran loc="ar">تم تشغيل التحديثات التلقائية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CANCEL_BOOK_BODY</Position>
+      <TranslationSet>
+        <base loc="en">You can re-download this book for free at any time.</base>
+        <tran loc="ar">يمكنك إعادة تنزيل هذا الكتاب مجانًا في أي وقت.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Do It Later Installed Updates After Logout/Restart 
+ HI Reviewed 4/16</Description>
+      <Position>DOITLATER_POSTLOGOUTINSTALLED_NOTIFICATION_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">macOS Updates Installed</base>
+        <tran loc="ar">تم تثبيت تحديثات macOS</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> HI Reviewed 4/16</Description>
+      <Position>UPDATE_NOTIFICATION_LATER_OPTION_NOW</Position>
+      <TranslationSet>
+        <base loc="en">Install Now</base>
+        <tran loc="ar">تثبيت الآن</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> HI Reviewed 4/16</Description>
+      <Position>UPDATES_AVAILABLE_AUTOUPDATE_FAILED_NOTIFICATION_TEXT_RESTART</Position>
+      <TranslationSet>
+        <base loc="en">Do you want to restart to install these updates now or try tonight?</base>
+        <tran loc="ar">هل ترغب في إعادة التشغيل لتثبيت هذه التحديثات الآن أم محاولة ذلك الليلة؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> HI Reviewed 4/16</Description>
+      <Position>UPDATES_AVAILABLE_NOTIFICATION_TEXT_RESTART</Position>
+      <TranslationSet>
+        <base loc="en">Do you want to restart to install these updates now or try tonight?</base>
+        <tran loc="ar">هل ترغب في إعادة التشغيل لتثبيت هذه التحديثات الآن أم محاولة ذلك الليلة؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> HI Reviewed 4/16</Description>
+      <Position>UPDATES_AVAILABLE_NOTIFICATION_TEXT</Position>
+      <TranslationSet>
+        <base loc="en">Do you want to install the updates now or try tonight?</base>
+        <tran loc="ar">هل ترغب في تثبيت التحديثات الآن أم محاولة ذلك الليلة؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>MORE_UPDATES_BODY_FORMAT</Position>
+      <TranslationSet>
+        <base loc="en">Sign in to %@ to update applications for that account.</base>
+        <tran loc="ar">قم بالدخول إلى %@ لتحديث تطبيقات هذا الحساب.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>VIEW_ACC_DESCRIPTION</Position>
+      <TranslationSet>
+        <base loc="en">To view your account information, enter your password and click View Account. To prevent others from using your account to make purchases, click Sign out.</base>
+        <tran loc="ar">لعرض معلومات الحساب الخاصة بك، قم بإدخال كلمة السر الخاصة بك وقم بالنقر فوق عرض الحساب. لمنع الآخرين من استخدام الحساب الخاص بك في شراء المشتريات، قم بالنقر فوق الخروج.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> HI Reviewed 5/14</Description>
+      <Position>CONFIRM_RESTART_RESTART_BUTTON_DOWNLOAD</Position>
+      <TranslationSet>
+        <base loc="en">Download &amp; Restart</base>
+        <tran loc="ar">تنزيل وإعادة تشغيل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Can't update because must-quit-apps contain extensions used by other apps </Description>
+      <Position>CANNOT_UPDATE_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Update \“%@\”</base>
+        <tran loc="ar">تحديث \"%@\"</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AUTOUPDATE_ABORT_QUIT</Position>
+      <TranslationSet>
+        <base loc="en">Application could not be quit safely.</base>
+        <tran loc="ar">تعذر إنهاء التطبيق بأمان.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>INSTALL_ERROR_DISTRIBUTION_FREE_SPACE_CHECK_FORMAT</Position>
+      <TranslationSet>
+        <base loc="en">There is not enough disk space available to install \“%@\”.</base>
+        <tran loc="ar">لا توجد مساحة قرص متوفرة كافية لتثبيت \"%@\".</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SIGN_IN_DESCRIPTION_DEAUTHORIZE</Position>
+      <TranslationSet>
+        <base loc="en">Enter your Apple ID and password. Items purchased with this Apple ID will no longer open on this computer.</base>
+        <tran loc="ar">قم بإدخال Apple ID الخاص بك وكلمة السر. العناصر التي تم شراؤها باستخدام Apple ID هذا لن تفتح على هذا الكمبيوتر بعد ذلك.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> HI Reviewed 4/16</Description>
+      <Position>AUTOUPDATE_OPTIN_NOTIFICATION_BODY</Position>
+      <TranslationSet>
+        <base loc="en">You will be asked before installing updates that require a restart.</base>
+        <tran loc="ar">سيتم سؤالك قبل تثبيت التحديثات التي تتطلب إعادة تشغيل.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CONFIRM_RESTART_MESSAGE</Position>
+      <TranslationSet>
+        <base loc="en">To finish the installation and restart your computer, click Restart.</base>
+        <tran loc="ar">لإنهاء التثبيت وإعادة تشغيل الكمبيوتر، قم بالنقر على إعادة التشغيل.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CRITICAL_UPDATE_INSTALL_NOW_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Security Update Required</base>
+        <tran loc="ar">مطلوب تحديث الأمن</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Auto Update -- Opt In Dialog 
+ HI Reviewed 1/20/14</Description>
+      <Position>AUTOUPDATE_OPTIN_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Do you want to turn on automatic updates?</base>
+        <tran loc="ar">هل ترغب في تشغيل التحديثات التلقائية؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UPDATING_LOCKED_MESSAGE</Position>
+      <TranslationSet>
+        <base loc="en">%@ cannot be opened while it is being updated.</base>
+        <tran loc="ar">لا يمكن فتح %@ أثناء تحديثه.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>RECEIPT_RENEW_HEADER</Position>
+      <TranslationSet>
+        <base loc="en">Sign in to use this application on this computer</base>
+        <tran loc="ar">قم بتسجيل الدخول لاستخدام هذا التطبيق على هذا الكمبيوتر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Available Updates (Auto Update On and Failed) 
+ HI Reviewed 4/16</Description>
+      <Position>UPDATES_AVAILABLE_AUTOUPDATE_FAILED_NOTIFICATION_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Updates Ready to Install</base>
+        <tran loc="ar">التحديثات جاهزة للتثبيت</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Available Updates (iWork / iLife 
+ HI Review 4/16</Description>
+      <Position>UPDATES_AVAILABLE_ILIFEIWORK_NOTIFICATION_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Updates Ready to Install</base>
+        <tran loc="ar">التحديثات جاهزة للتثبيت</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CANCEL_APP_CANCEL_UPLOAD_BUTTON</Position>
+      <TranslationSet>
+        <base loc="en">Cancel Update</base>
+        <tran loc="ar">إلغاء التحديث</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> UpdateController -- Restart Dialog (No Download) </Description>
+      <Position>CONFIRM_RESTART_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">To install the updates, you must restart your computer.</base>
+        <tran loc="ar">لتثبيت التحديثات، يجب إعادة تشغيل الكمبيوتر.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>RECEIPT_RENEW_DESCRIPTION</Position>
+      <TranslationSet>
+        <base loc="en">“%@” was purchased using the App Store on another computer. To use “%@” on this computer, sign in using the Apple ID and password used to purchase it.</base>
+        <tran loc="ar">تم شراء \"%@\" من خلال App Store على كمبيوتر آخر. لاستخدام \"%@\" على هذا الكمبيوتر، قم بتسجيل الدخول باستخدام Apple ID وكلمة السر التي تم استخدامها في الشراء.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> CKPurchaseController -- Server Download Queue Check Dialog </Description>
+      <Position>NO_DOWNLOADS_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">All purchases have been downloaded for this account.</base>
+        <tran loc="ar">تم تنزيل كافة المشتريات لهذا الحساب.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Auto Update -- Opt In Notification 
+ HI Reviewed 4/16</Description>
+      <Position>AUTOUPDATE_OPTIN_NOTIFICATION_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Turn on Auto Updates?</base>
+        <tran loc="ar">هل ترغب في تشغيل التحديثات التلقائية؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>VPP_EXPIRED_LAUNCH_NOTIFICATION_TEXT</Position>
+      <TranslationSet>
+        <base loc="en">The app is no longer available. You can buy it in the App Store.</base>
+        <tran loc="ar">ما عاد التطبيق متوفرًا. يمكنك شراؤه في App Store.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> HI Reviewed 4/16</Description>
+      <Position>AUTOUPDATE_POSTUPDATE_NOTIFICATION_TEXT_MULTIPLE_AND_OTHERS</Position>
+      <TranslationSet>
+        <base loc="en">and others</base>
+        <tran loc="ar">وآخرين</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> App Locked During Update </Description>
+      <Position>UPDATING_LOCKED_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">%@ is being updated</base>
+        <tran loc="ar">يتم الآن تحديث %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>VPP_EXPIRED_DIALOG_DETAILS_BUTTON</Position>
+      <TranslationSet>
+        <base loc="en">View in App Store</base>
+        <tran loc="ar">عرض في App Store</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Auto Scheduled OS Update Notification </Description>
+      <Position>AUTOUPDATE_SCHEDULED_NOTIFICATION_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Software Update</base>
+        <tran loc="ar">تحديث البرامج</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UPDATES_AVAILABLE_ILIFEIWORK_NOTIFICATION_TEXT_SINGLE_FORMAT</Position>
+      <TranslationSet>
+        <base loc="en">%@ update is available</base>
+        <tran loc="ar">يتوفر %@ من التحديثات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Auto-push first buy notification </Description>
+      <Position>AUTO_PUSH_FIRST_BUY_NOTIFICATION_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">App Store Purchases</base>
+        <tran loc="ar">الشراء من App Store</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> HI Reviewed 5/14</Description>
+      <Position>CONFIRM_RESTART_MESSAGE_DOWNLOAD</Position>
+      <TranslationSet>
+        <base loc="en">Your computer will restart to complete the updates.</base>
+        <tran loc="ar">ستتم إعادة تشغيل الكمبيوتر لإكمال التحديثات.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>NO_NETWORK_SIGNIN_ERROR</Position>
+      <TranslationSet>
+        <base loc="en">Connection failed.</base>
+        <tran loc="ar">فشل الاتصال.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CRITICAL_UPDATE_POSTINSTALL_NOTIFICATION_TEXT</Position>
+      <TranslationSet>
+        <base loc="en">A new security update was installed on your Mac.</base>
+        <tran loc="ar">تم تثبيت تحديث أمن جديد على الـ Mac الخاص بك.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SIGN_IN_DESCRIPTION_NO_CREATE</Position>
+      <TranslationSet>
+        <base loc="en">Enter the password for your Apple ID.</base>
+        <tran loc="ar">أدخل كلمة سر الـ Apple ID.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CRITICAL_UPDATE_POSTINSTALL_NOTIFICATION_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Security Update Installed</base>
+        <tran loc="ar">تم تثبيت تحديث الأمن</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>INSTALL_QUIT_APP_SKIP_OS_UPDATES</Position>
+      <TranslationSet>
+        <base loc="en">Skip This Update</base>
+        <tran loc="ar">تخطي هذا التحديث</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CRITICAL_UPDATES_INSTALL_NOW_TEXT</Position>
+      <TranslationSet>
+        <base loc="en">These updates must be completed.</base>
+        <tran loc="ar">يجب إكمال هذه التحديثات.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ADMIN_INSTALLED_POST_LOGOUT_UPDATES_POSTINSTALL_NOTIFICATION_TEXT</Position>
+      <TranslationSet>
+        <base loc="en">New updates were requested to be installed by an administrator.</base>
+        <tran loc="ar">قام مسؤول بطلب تثبيت تحديثات جديدة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UPDATEFAILED_RESTART_DIALOG_OTHER_USERS_BODY</Position>
+      <TranslationSet>
+        <base loc="en">Click \“Restart\” to update them now.</base>
+        <tran loc="ar">انقر على \"إعادة التشغيل\" لتحديثها الآن.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> HI Reviewed 4/16</Description>
+      <Position>UPDATE_NOTIFICATION_LATER_OPTION_RESTART_NOW</Position>
+      <TranslationSet>
+        <base loc="en">Restart Now</base>
+        <tran loc="ar">إعادة التشغيل الآن</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AUTO_PUSH_FIRST_BUY_NOTIFICATION_BODY</Position>
+      <TranslationSet>
+        <base loc="en">Automatically download purchases made on other Macs.</base>
+        <tran loc="ar">تنزيل المشتريات تلقائيًا على أجهزة الـ Mac الأخرى.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Critical Update Strings </Description>
+      <Position>CRITICAL_UPDATE_NOTIFICATION_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Security Update Available</base>
+        <tran loc="ar">يوجد تحديث أمن</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PREFLIGHT_WARNING_TITLE_FORMAT</Position>
+      <TranslationSet>
+        <base loc="en">Would you like to continue downloading %@?</base>
+        <tran loc="ar">هل ترغب في متابعة تنزيل %@؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SIGN_IN_DESCRIPTION</Position>
+      <TranslationSet>
+        <base loc="en">If you have an Apple ID, sign in with it here. If you have used the iTunes Store or iCloud, for example, you have an Apple ID. If you don’t have an Apple ID, click Create Apple ID.</base>
+        <tran loc="ar">إذا كان لديك Apple ID، فقم بتسجيل الدخول بواسطته هنا. إذا كنت قد استخدمت iTunes Store أو iCloud، مثلًا، فهذا يعني أن لديك Apple ID. إذا لم يكن لديك Apple ID، فانقر على إنشاء Apple ID.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UPDATE_NOTIFICATION_LATER_BUTTON</Position>
+      <TranslationSet>
+        <base loc="en">Later</base>
+        <tran loc="ar">لاحقًا</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> These two are defined again later in this file with identical strings. Commenting these ones out but we may need to rename them if we want different strings.
+"MORE_UPDATES_TITLE" = "You have updates available for other accounts.";</Description>
+      <Position>MORE_UPDATES_BODY</Position>
+      <TranslationSet>
+        <base loc="en">Install the updates individually or sign in to the other accounts to use Update All.</base>
+        <tran loc="ar">قم بتثبيت التحديثات على حدة أو قم بالدخول إلى الحسابات الأخرى لاستخدام تحديث الكل.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CRITICAL_UPDATES_NOTIFICATION_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Security Updates Available</base>
+        <tran loc="ar">يوجد تحديثات أمن</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AUTOUPDATE_ABORT_OTHER</Position>
+      <TranslationSet>
+        <base loc="en">Other reason</base>
+        <tran loc="ar">سبب آخر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>VPP_REVOKED_NOTIFICATION_TEXT_MULTIPLE</Position>
+      <TranslationSet>
+        <base loc="en">Some apps will no longer be available to you in %i days</base>
+        <tran loc="ar">لن تظل بعض التطبيقات متوفرة لك بعد %i من الأيام</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Update Controller -- Disk Space Dialog </Description>
+      <Position>PURCHASE_NOT_COMPLETE</Position>
+      <TranslationSet>
+        <base loc="en">We could not complete your purchase.</base>
+        <tran loc="ar">تعذر علينا إكمال عملية الشراء الخاصة بك.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CRITICAL_UPDATES_POSTINSTALL_NOTIFICATION_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Security Updates Installed</base>
+        <tran loc="ar">تم تثبيت تحديثات الأمن</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> VPP Expired Dialog </Description>
+      <Position>VPP_EXPIRED_DIALOG_TITLE_FORMAT</Position>
+      <TranslationSet>
+        <base loc="en">Access to \“%@\” has expired.</base>
+        <tran loc="ar">انتهت صلاحية الوصول إلى \"%@\".</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> HI Reviewed 4/16</Description>
+      <Position>AUTOUPDATE_POSTUPDATE_NOTIFICATION_TITLE_MULTIPLE</Position>
+      <TranslationSet>
+        <base loc="en">Updated %@ Apps</base>
+        <tran loc="ar">تم تحديث %@ من التطبيقات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>RESUME_ERROR_FORMAT</Position>
+      <TranslationSet>
+        <base loc="en">Download cannot be resumed. The download session for \“%@\” has expired.</base>
+        <tran loc="ar">لا يمكن استئناف التنزيل. انتهت صلاحية جلسة التنزيل لـ \"%@\".</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DEVICE_OFFERS_FOLLOWUP_APPLE_MUSIC_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Activate Apple Music</base>
+        <tran loc="ar">تنشيط Apple Music</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>STATUS_CODE_ERROR</Position>
+      <TranslationSet>
+        <base loc="en">The server gave an error during download: %d %@.</base>
+        <tran loc="ar">لقد أعطى الخادم خطأً أثناء التنزيل: %d %@.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CANCEL_APP_TITLE_FORMAT</Position>
+      <TranslationSet>
+        <base loc="en">Are you sure you want to cancel the download of \“%@\”?</base>
+        <tran loc="ar">هل أنت متأكد من رغبتك في إلغاء تنزيل \"%@\"؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UPDATEFAILED_DIALOG_APP_RUNNING_TITLE_MULTIPLE</Position>
+      <TranslationSet>
+        <base loc="en">The following applications prevented updates being installed.</base>
+        <tran loc="ar">حالت التطبيقات التالية دون تثبيت التحديثات.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AUTH_FAILED</Position>
+      <TranslationSet>
+        <base loc="en">An unexpected error occurred while signing in.</base>
+        <tran loc="ar">حدث خطأ غير متوقع أثناء تسجيل الدخول.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CANCEL_APP_BODY</Position>
+      <TranslationSet>
+        <base loc="en">You can re-download this app for free at any time.</base>
+        <tran loc="ar">يمكنك إعادة تنزيل هذا التطبيق مجانًا في أي وقت.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>INSTALL_QUIT_APP_SKIP_BUTTON_FORMAT</Position>
+      <TranslationSet>
+        <base loc="en">Skip %@</base>
+        <tran loc="ar">تخطي %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UPDATEFAILED_DIALOG_AVAILABLE_UPDATES_SHOW_DETAILS_BUTTON</Position>
+      <TranslationSet>
+        <base loc="en">Show Details</base>
+        <tran loc="ar">إظهار التفاصيل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AUTHORIZE_SIGN_IN_HEADER</Position>
+      <TranslationSet>
+        <base loc="en">Sign in to authorize this computer.</base>
+        <tran loc="ar">قم بتسجيل الدخول لتخويل هذا الكمبيوتر.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UPDATE_NOTIFICATION_GETIT_BUTTON</Position>
+      <TranslationSet>
+        <base loc="en">Get It</base>
+        <tran loc="ar">احصل عليه</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>INSTALL_QUIT_APP_MULTIPLE_MESSAGE_FORMAT</Position>
+      <TranslationSet>
+        <base loc="en">Click Continue to quit these applications and begin the update. They will open when the update is complete.&lt;br&gt;&lt;br&gt;&lt;ul&gt;%@&lt;/ul&gt;</base>
+        <tran loc="ar">انقر على متابعة لإنهاء تلك التطبيقات وبدء التحديث. سيتم فتحها عندما يكتمل التحديث.&lt;br&gt;&lt;br&gt;&lt;ul&gt;%@&lt;/ul&gt;</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Update Controller -- AC Power Dialog </Description>
+      <Position>AC_POWER_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Please connect to AC power before continuing updates.</base>
+        <tran loc="ar">الرجاء التوصيل بتيار كهربي متردد قبل متابعة التحديثات.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DISK_SPACE_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Your disk does not have enough free space.</base>
+        <tran loc="ar">لا تتوفر مساحة خالية كافية على القرص.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>INSTALL_ERROR_FILE_CREATE_BUTTON</Position>
+      <TranslationSet>
+        <base loc="en">Create</base>
+        <tran loc="ar">إنشاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SKERRORPAYMENTNOTALLOWED_ERROR_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">This account can not make In-App Purchases.</base>
+        <tran loc="ar">لا يمكن لهذا الحساب إجراء مشتريات من داخل التطبيق.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UPDATES_AVAILABLE_ILIFEIWORK_NOTIFICATION_3_UPDATES_AND_MORE_FORMAT</Position>
+      <TranslationSet>
+        <base loc="en">%@, %@, %@</base>
+        <tran loc="ar">‏%@، %@، %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description>"MORE_UPDATES_DEFAULT_BUTTON" = "OK";
+ 
+ 
+* Update Notification Strings 
+ 
+ Available Updates (Auto Update Off) 
+ HI Reviewed 4/16</Description>
+      <Position>UPDATES_AVAILABLE_NOTIFICATION_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Updates Available</base>
+        <tran loc="ar">التحديثات المتاحة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ADMIN_INSTALLED_UPDATES_POSTINSTALL_NOTIFICATION_TEXT</Position>
+      <TranslationSet>
+        <base loc="en">New updates were installed on your Mac by an administrator.</base>
+        <tran loc="ar">تم تثبيت تحديثات جديدة على الـ Mac الخاص بك بواسطة مسؤول.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ADMIN_INSTALLED_POST_LOGOUT_UPDATES_POSTINSTALL_NOTIFICATION_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Updates Requested</base>
+        <tran loc="ar">تم طلب تحديثات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DEAUTHORIZE_SIGN_IN_HEADER</Position>
+      <TranslationSet>
+        <base loc="en">Enter your Apple ID password to deauthorize this computer.</base>
+        <tran loc="ar">قم بإدخال كلمة سر Apple ID الخاص بك لإلغاء تخويل هذا الكمبيوتر.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> HI Reviewed 4/16</Description>
+      <Position>AUTOUPDATE_POSTUPDATE_NOTIFICATION_TEXT_MULTIPLE_WERE_UPDATED</Position>
+      <TranslationSet>
+        <base loc="en">were updated</base>
+        <tran loc="ar">تم تحديثها</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AUTOENROLL_AUTOUPDATE_NOTIFICATION_BODY</Position>
+      <TranslationSet>
+        <base loc="en">Your Mac stays up to date with the latest features, security, and improvements.</base>
+        <tran loc="ar">سيظل الـ Mac محدثًا باستمرار بأحدث الميزات وإجراءات الأمن والتحسينات.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ADMIN_INSTALLED_UPDATES_POSTINSTALL_NOTIFICATION_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Updates Installed</base>
+        <tran loc="ar">تم تثبيت تحديثات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AUTOUPDATE_SCHEDULED_NOTIFICATION_TEXT_SINGLE</Position>
+      <TranslationSet>
+        <base loc="en">%@ is available and will be installed later tonight.</base>
+        <tran loc="ar">هناك %@ متوفر وسيتم تثبيته لاحقًا الليلة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>INSTALL_ERROR_CODE_SIGN_VERIFICATION</Position>
+      <TranslationSet>
+        <base loc="en">Failed to verify the application being installed. It may be damaged or was not signed by the developer.</base>
+        <tran loc="ar">فشل التحقق من التطبيق الذي يتم تثبيته. قد يكون تالفًا أو لم يتم توقيعه من قبل المطور.</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>Commerce/System/Library/PrivateFrameworks/CommerceKit.framework/Versions/A/Resources/English.lproj/Localizable-BBBAA77A32.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>TOUCHID_AUTHENTICATION_REASON_FORMAT</Position>
+      <TranslationSet>
+        <base loc="en">authenticate your Apple\U00A0ID %@</base>
+        <tran loc="ar">مصادقة حساب Apple\U00A0ID %@ الخاص بك</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>TOUCHID_SETTINGS_FAILED_BODY</Position>
+      <TranslationSet>
+        <base loc="en">Try again later.</base>
+        <tran loc="ar">حاول مرة أخرى في وقت لاحق.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>TOUCHID_SETTINGS_DIALOG_BODY</Position>
+      <TranslationSet>
+        <base loc="en">Do you want to use Touch ID for future purchases?</base>
+        <tran loc="ar">هل ترغب في استخدام Touch ID لإجراء عمليات الشراء المستقبلية؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>TOUCHID_SETTINGS_FAILED_OK</Position>
+      <TranslationSet>
+        <base loc="en">OK</base>
+        <tran loc="ar">موافق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>TOUCHID_SETTINGS_FAILED_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Failed to enable Touch ID settings.</base>
+        <tran loc="ar">فشل تمكين إعدادات Touch ID.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 
+  Localizable-BBBAA77A32.strings
+  CommerceKit
+
+ This file will be mastered out during B&amp;I build process for FujiSeed
+ Needs HI review : placeholder</Description>
+      <Position>TOUCHID_TO_ENABLE</Position>
+      <TranslationSet>
+        <base loc="en">Password is required to enable purchases with Touch ID.</base>
+        <tran loc="ar">مطلوب كلمة السر لتمكين إجراء عمليات الشراء باستخدام Touch ID.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>TOUCHID_PREFERENCE_SIGN_IN_NO_BAG_BODY</Position>
+      <TranslationSet>
+        <base loc="en">You must sign in to enable Touch ID settings. An Internet connection is required</base>
+        <tran loc="ar">يجب عليك تسجيل الدخول لتمكين إعدادات Touch ID. يلزم الاتصال بالإنترنت.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>TOUCHID_SETTINGS_DIALOG_OPT_OUT</Position>
+      <TranslationSet>
+        <base loc="en">Not Now</base>
+        <tran loc="ar">ليس الآن</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>TOUCHID_PREFERENCE_SIGN_IN_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Using Touch ID.</base>
+        <tran loc="ar">استخدام Touch ID.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>TOUCHID_TO_PURCHASE</Position>
+      <TranslationSet>
+        <base loc="en">Use your fingerprint to authenticate this purchase.</base>
+        <tran loc="ar">استخدم بصمة إصبعك للمصادقة على عملية الشراء هذه.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>TOUCHID_SETTINGS_FAILED_CONTINUE_BUY</Position>
+      <TranslationSet>
+        <base loc="en">This purchase will use your Apple ID and password instead of Touch ID.</base>
+        <tran loc="ar">ستستخدم عملية الشراء هذه Apple ID وكلمة السر الخاصين بك بدلاً من Touch ID.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>TOUCHID_PREFERENCE_SIGN_IN_NO_BAG_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Cannot connect to the store.</base>
+        <tran loc="ar">لا يمكن الاتصال بالمتجر.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>TOUCHID_SETTINGS_DIALOG_OPT_IN</Position>
+      <TranslationSet>
+        <base loc="en">Yes</base>
+        <tran loc="ar">نعم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>TOUCHID_PREFERENCE_SIGN_IN_BODY</Position>
+      <TranslationSet>
+        <base loc="en">Sign in to enable Touch ID settings. You will be prompted to use your fingerprint to purchase from iTunes, Mac App Store and Apple Books.</base>
+        <tran loc="ar">سجل الدخول لتمكين إعدادات Touch ID. ستتم مطالبتك باستخدام بصمتك عند الشراء من iTunes و Mac App Store و Apple Books.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>TOUCHID_SETTINGS_DIALOG_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Using Touch ID</base>
+        <tran loc="ar">استخدام Touch ID</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+</Proj>

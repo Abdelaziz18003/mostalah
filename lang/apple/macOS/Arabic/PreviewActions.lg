@@ -1,0 +1,2013 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Proj>
+  <ProjName>PreviewActions</ProjName>
+  <File>
+    <Filepath>PreviewActions/System/Library/Automator/Extract PDF Annotations.action/Contents/Resources/en.lproj/Localizable.strings</Filepath>
+    <TextItem>
+      <Description> annotation unknown attribute value </Description>
+      <Position>?</Position>
+      <TranslationSet>
+        <base loc="en">?</base>
+        <tran loc="ar">?</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> annotation empty attribute value </Description>
+      <Position>-</Position>
+      <TranslationSet>
+        <base loc="en">-</base>
+        <tran loc="ar">-</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>PreviewActions/System/Library/Automator/Split PDF.action/Contents/Resources/en.lproj/InfoPlist.strings</Filepath>
+    <TextItem>
+      <Description>  AMCategory localized strings  
+  e.g. "Text" = "Text";  
+  AMDefaultParameters localized values  
+  e.g. myDefaultIntegerParameter = 0;  
+  e.g. myDefaultStringParameter = "Default String Value";  
+  AMDescription localized strings  </Description>
+      <Position>AMDInput</Position>
+      <TranslationSet>
+        <base loc="en">PDF Files</base>
+        <tran loc="ar">ملفات PDF</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AMDResult</Position>
+      <TranslationSet>
+        <base loc="en">PDF Files</base>
+        <tran loc="ar">ملفات PDF</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description>  AMApplication localized strings  </Description>
+      <Position>Preview</Position>
+      <TranslationSet>
+        <base loc="en">Preview</base>
+        <tran loc="ar">معاينة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AMName</Position>
+      <TranslationSet>
+        <base loc="en">Split PDF</base>
+        <tran loc="ar">تقسيم PDF</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AMDSummary</Position>
+      <TranslationSet>
+        <base loc="en">Creates a new single-page PDF document from each page of an input PDF document</base>
+        <tran loc="ar">لإنشاء مستند PDF من صفحة واحدة باستخدام كل صفحة من مستند PDF مدخل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Localized versions of Info.plist keys </Description>
+      <Position>NSHumanReadableCopyright</Position>
+      <TranslationSet>
+        <base loc="en">Copyright © 2006–2019 Apple Inc. All rights reserved.</base>
+        <tran loc="ar">‏Copyright © 2006-2019 Apple Inc.‎\nكافة الحقوق محفوظة.</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>PreviewActions/System/Library/Automator/New PDF from Images.action/Contents/Resources/en.lproj/Localizable.strings</Filepath>
+    <TextItem>
+      <Description> default output file name </Description>
+      <Position>New PDF from Images Output</Position>
+      <TranslationSet>
+        <base loc="en">New PDF from Images Output</base>
+        <tran loc="ar">ملف PDF جديد من مخرجات صور</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>PreviewActions/System/Library/Automator/Search PDFs.action/Contents/Resources/en.lproj/main.strings</Filepath>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Page Width"; ObjectID = "ifa-2p-Y48"; </Description>
+      <Position>ifa-2p-Y48.title</Position>
+      <TranslationSet>
+        <base loc="en">Page Width</base>
+        <tran loc="ar">عرض الصفحة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "All"; ObjectID = "zxR-CB-WWO"; </Description>
+      <Position>zxR-CB-WWO.title</Position>
+      <TranslationSet>
+        <base loc="en">All</base>
+        <tran loc="ar">الكل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Page Height"; ObjectID = "SfX-zf-hD1"; </Description>
+      <Position>SfX-zf-hD1.title</Position>
+      <TranslationSet>
+        <base loc="en">Page Height</base>
+        <tran loc="ar">ارتفاع الصفحة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "is greater than or equal to"; ObjectID = "0bF-YH-ogd"; </Description>
+      <Position>0bF-YH-ogd.title</Position>
+      <TranslationSet>
+        <base loc="en">is greater than or equal to</base>
+        <tran loc="ar">أكبر من أو يساوي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "is greater than or equal to"; ObjectID = "lzF-YL-Xqv"; </Description>
+      <Position>lzF-YL-Xqv.title</Position>
+      <TranslationSet>
+        <base loc="en">is greater than or equal to</base>
+        <tran loc="ar">أكبر من أو يساوي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "is like"; ObjectID = "mCm-ni-fg0"; </Description>
+      <Position>mCm-ni-fg0.title</Position>
+      <TranslationSet>
+        <base loc="en">is like</base>
+        <tran loc="ar">مثل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Any Keyword"; ObjectID = "KlG-lE-Qlq"; </Description>
+      <Position>KlG-lE-Qlq.title</Position>
+      <TranslationSet>
+        <base loc="en">Any Keyword</base>
+        <tran loc="ar">أي كلمة مفتاحية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "1.5"; ObjectID = "MnH-St-b19"; </Description>
+      <Position>MnH-St-b19.title</Position>
+      <TranslationSet>
+        <base loc="en">1.5</base>
+        <tran loc="ar">١,٥</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Creator"; ObjectID = "G0g-MR-A5u"; </Description>
+      <Position>G0g-MR-A5u.title</Position>
+      <TranslationSet>
+        <base loc="en">Creator</base>
+        <tran loc="ar">المُنشئ</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Title"; ObjectID = "Ore-6v-Azn"; </Description>
+      <Position>Ore-6v-Azn.title</Position>
+      <TranslationSet>
+        <base loc="en">Title</base>
+        <tran loc="ar">العنوان</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "PDF Version"; ObjectID = "mvL-fo-zHs"; </Description>
+      <Position>mvL-fo-zHs.title</Position>
+      <TranslationSet>
+        <base loc="en">PDF Version</base>
+        <tran loc="ar">إصدار PDF:</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Any"; ObjectID = "0ML-0y-SXx"; </Description>
+      <Position>0ML-0y-SXx.title</Position>
+      <TranslationSet>
+        <base loc="en">Any</base>
+        <tran loc="ar">أي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Content"; ObjectID = "xOt-Y7-OO2"; </Description>
+      <Position>xOt-Y7-OO2.title</Position>
+      <TranslationSet>
+        <base loc="en">Content</base>
+        <tran loc="ar">المحتوى</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "is"; ObjectID = "aDs-pb-sJ8"; </Description>
+      <Position>aDs-pb-sJ8.title</Position>
+      <TranslationSet>
+        <base loc="en">is</base>
+        <tran loc="ar">هو</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "is"; ObjectID = "fda-4k-AFt"; </Description>
+      <Position>fda-4k-AFt.title</Position>
+      <TranslationSet>
+        <base loc="en">is</base>
+        <tran loc="ar">هو</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "1.3"; ObjectID = "SZj-Re-22q"; </Description>
+      <Position>SZj-Re-22q.title</Position>
+      <TranslationSet>
+        <base loc="en">1.3</base>
+        <tran loc="ar">١,٣</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Encoding Application"; ObjectID = "Rv9-OO-IU3"; </Description>
+      <Position>Rv9-OO-IU3.title</Position>
+      <TranslationSet>
+        <base loc="en">Encoding Application</base>
+        <tran loc="ar">تطبيق الترميز</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "is less than or equal to"; ObjectID = "3TQ-Vd-jlj"; </Description>
+      <Position>3TQ-Vd-jlj.title</Position>
+      <TranslationSet>
+        <base loc="en">is less than or equal to</base>
+        <tran loc="ar">أقل من أو يساوي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "is less than or equal to"; ObjectID = "kuw-tp-GZk"; </Description>
+      <Position>kuw-tp-GZk.title</Position>
+      <TranslationSet>
+        <base loc="en">is less than or equal to</base>
+        <tran loc="ar">أقل من أو يساوي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "None"; ObjectID = "AaP-Vf-C1d"; </Description>
+      <Position>AaP-Vf-C1d.title</Position>
+      <TranslationSet>
+        <base loc="en">None</base>
+        <tran loc="ar">لا شيء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "AMPathPopUpButton"; placeholder = "No Selection"; ObjectID = "266"; </Description>
+      <Position>266.placeholder</Position>
+      <TranslationSet>
+        <base loc="en">No Selection</base>
+        <tran loc="ar">لم يتم تحديد شيء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Anything"; ObjectID = "a6B-4o-cum"; </Description>
+      <Position>a6B-4o-cum.title</Position>
+      <TranslationSet>
+        <base loc="en">Anything</base>
+        <tran loc="ar">أي شيء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "begins with"; ObjectID = "D3l-XA-0MC"; </Description>
+      <Position>D3l-XA-0MC.title</Position>
+      <TranslationSet>
+        <base loc="en">begins with</base>
+        <tran loc="ar">يبدأ بـ</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "for files where:"; ObjectID = "300271"; </Description>
+      <Position>300271.title</Position>
+      <TranslationSet>
+        <base loc="en">for files where:</base>
+        <tran loc="ar">الملفات حيث:</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "is not"; ObjectID = "Kze-Dp-9E7"; </Description>
+      <Position>Kze-Dp-9E7.title</Position>
+      <TranslationSet>
+        <base loc="en">is not</base>
+        <tran loc="ar">ليس</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Description"; ObjectID = "ZAU-PR-6vp"; </Description>
+      <Position>ZAU-PR-6vp.title</Position>
+      <TranslationSet>
+        <base loc="en">Description</base>
+        <tran loc="ar">الوصف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenu"; title = "OtherViews"; ObjectID = "267"; </Description>
+      <Position>267.title</Position>
+      <TranslationSet>
+        <base loc="en">OtherViews</base>
+        <tran loc="ar">OtherViews</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "1.6"; ObjectID = "Htk-db-bye"; </Description>
+      <Position>Htk-db-bye.title</Position>
+      <TranslationSet>
+        <base loc="en">1.6</base>
+        <tran loc="ar">١,٦</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "1.4"; ObjectID = "mJA-ZT-NrV"; </Description>
+      <Position>mJA-ZT-NrV.title</Position>
+      <TranslationSet>
+        <base loc="en">1.4</base>
+        <tran loc="ar">١,٤</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "is greater than"; ObjectID = "UNw-wF-nRl"; </Description>
+      <Position>UNw-wF-nRl.title</Position>
+      <TranslationSet>
+        <base loc="en">is greater than</base>
+        <tran loc="ar">أكبر من</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "is greater than"; ObjectID = "o4S-ST-FSb"; </Description>
+      <Position>o4S-ST-FSb.title</Position>
+      <TranslationSet>
+        <base loc="en">is greater than</base>
+        <tran loc="ar">أكبر من</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "contains"; ObjectID = "wEo-hh-xHf"; </Description>
+      <Position>wEo-hh-xHf.title</Position>
+      <TranslationSet>
+        <base loc="en">contains</base>
+        <tran loc="ar">يتضمن</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "ends with"; ObjectID = "lvE-ca-MUg"; </Description>
+      <Position>lvE-ca-MUg.title</Position>
+      <TranslationSet>
+        <base loc="en">ends with</base>
+        <tran loc="ar">ينتهي بـ</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Search"; ObjectID = "300270"; </Description>
+      <Position>300270.title</Position>
+      <TranslationSet>
+        <base loc="en">Search</base>
+        <tran loc="ar">بحث</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Any Author"; ObjectID = "jzh-ML-Xsz"; </Description>
+      <Position>jzh-ML-Xsz.title</Position>
+      <TranslationSet>
+        <base loc="en">Any Author</base>
+        <tran loc="ar">أي مؤلف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "of the following are true"; ObjectID = "sFf-iq-Rlm"; </Description>
+      <Position>sFf-iq-Rlm.title</Position>
+      <TranslationSet>
+        <base loc="en">of the following are true</base>
+        <tran loc="ar">من العناصر التالية صحيح</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "is less than"; ObjectID = "96G-hG-O8y"; </Description>
+      <Position>96G-hG-O8y.title</Position>
+      <TranslationSet>
+        <base loc="en">is less than</base>
+        <tran loc="ar">أقل من</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "is less than"; ObjectID = "Qtf-el-Btt"; </Description>
+      <Position>Qtf-el-Btt.title</Position>
+      <TranslationSet>
+        <base loc="en">is less than</base>
+        <tran loc="ar">أقل من</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Number of pages"; ObjectID = "tDy-BC-j78"; </Description>
+      <Position>tDy-BC-j78.title</Position>
+      <TranslationSet>
+        <base loc="en">Number of pages</base>
+        <tran loc="ar">عدد الصفحات</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>PreviewActions/System/Library/Automator/Set PDF Metadata.action/Contents/Resources/en.lproj/main.strings</Filepath>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Author"; ObjectID = "100018"; </Description>
+      <Position>100018.title</Position>
+      <TranslationSet>
+        <base loc="en">Author</base>
+        <tran loc="ar">المؤلف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Content Creator"; ObjectID = "100024"; </Description>
+      <Position>100024.title</Position>
+      <TranslationSet>
+        <base loc="en">Content Creator</base>
+        <tran loc="ar">مُنشئ المحتوى</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Title"; ObjectID = "100015"; </Description>
+      <Position>100015.title</Position>
+      <TranslationSet>
+        <base loc="en">Title</base>
+        <tran loc="ar">العنوان</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Keywords"; ObjectID = "100036"; </Description>
+      <Position>100036.title</Position>
+      <TranslationSet>
+        <base loc="en">Keywords</base>
+        <tran loc="ar">الكلمات المفتاحية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "110"; </Description>
+      <Position>110.title</Position>
+      <TranslationSet>
+        <base loc="en">Text Cell</base>
+        <tran loc="ar">Text Cell</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Subject"; ObjectID = "100021"; </Description>
+      <Position>100021.title</Position>
+      <TranslationSet>
+        <base loc="en">Subject</base>
+        <tran loc="ar">الموضوع</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>PreviewActions/System/Library/Automator/Set PDF Metadata.action/Contents/Resources/en.lproj/InfoPlist.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>IgnoreButton</Position>
+      <TranslationSet>
+        <base loc="en">(* Button label for user not to add proposed Action, e.g. Don't Add. *)</base>
+        <tran loc="ar">(* عنوان زر مخصص للمستخدم لعدم إضافة الإجراء المقترح؛ على سبيل المثال، عدم الإضافة. *)</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Message</Position>
+      <TranslationSet>
+        <base loc="en">(* Warning message presented to user goes here. *)</base>
+        <tran loc="ar">(* تظهر رسالة التحذير المقدمة للمستخدم هنا. *)</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AMName</Position>
+      <TranslationSet>
+        <base loc="en">Set PDF Metadata</base>
+        <tran loc="ar">تعيين بيانات تعريف PDF</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AMDInput</Position>
+      <TranslationSet>
+        <base loc="en">PDF Files</base>
+        <tran loc="ar">ملفات PDF</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description>  AMApplication localized strings  </Description>
+      <Position>Preview</Position>
+      <TranslationSet>
+        <base loc="en">Preview</base>
+        <tran loc="ar">معاينة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AMDSummary</Position>
+      <TranslationSet>
+        <base loc="en">Adds or replaces specified metadata in PDF documents</base>
+        <tran loc="ar">لإضافة أو استبدال بيانات التعريف المحددة في مستندات PDF</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description>  AMKeyword localized strings  
+  e.g. "Filter" = "Filter";  
+  AMWarning localized strings  </Description>
+      <Position>ApplyButton</Position>
+      <TranslationSet>
+        <base loc="en">(* Button label for user to add proposed Action, e.g. Add. *)</base>
+        <tran loc="ar">(* عنوان زر مخصص للمستخدم لإضافة الإجراء المقترح؛ على سبيل المثال، إضافة. *)</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Localized versions of Info.plist keys </Description>
+      <Position>NSHumanReadableCopyright</Position>
+      <TranslationSet>
+        <base loc="en">Copyright © 2006–2019 Apple Inc. All rights reserved.</base>
+        <tran loc="ar">‏Copyright © 2006-2019 Apple Inc.‎\nكافة الحقوق محفوظة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description>  AMCategory localized strings  
+  e.g. "Text" = "Text";  
+  AMDefaultParameters localized values  
+  e.g. myDefaultIntegerParameter = 0;  
+  e.g. myDefaultStringParameter = "Default String Value";  
+  AMDescription localized strings  </Description>
+      <Position>AMDAlert</Position>
+      <TranslationSet>
+        <base loc="en">Rewrites the entire PDF document in place</base>
+        <tran loc="ar">لإعادة كتابة مستند PDF بالكامل في موضعه</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>PreviewActions/System/Library/Automator/Get PDF Metadata.action/Contents/Resources/en.lproj/main.strings</Filepath>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Author"; ObjectID = "100014"; </Description>
+      <Position>100014.title</Position>
+      <TranslationSet>
+        <base loc="en">Author</base>
+        <tran loc="ar">المؤلف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "PDF Producer"; ObjectID = "100017"; </Description>
+      <Position>100017.title</Position>
+      <TranslationSet>
+        <base loc="en">PDF Producer</base>
+        <tran loc="ar">منتِج PDF</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Write Input File Name"; ObjectID = "100032"; </Description>
+      <Position>100032.title</Position>
+      <TranslationSet>
+        <base loc="en">Write Input File Name</base>
+        <tran loc="ar">كتابة اسم ملف الإدخال</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Content Creator"; ObjectID = "100016"; </Description>
+      <Position>100016.title</Position>
+      <TranslationSet>
+        <base loc="en">Content Creator</base>
+        <tran loc="ar">مُنشئ المحتوى</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Creation Date"; ObjectID = "100018"; </Description>
+      <Position>100018.title</Position>
+      <TranslationSet>
+        <base loc="en">Creation Date</base>
+        <tran loc="ar">تاريخ الإنشاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Title"; ObjectID = "100013"; </Description>
+      <Position>100013.title</Position>
+      <TranslationSet>
+        <base loc="en">Title</base>
+        <tran loc="ar">العنوان</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Keywords"; ObjectID = "100020"; </Description>
+      <Position>100020.title</Position>
+      <TranslationSet>
+        <base loc="en">Keywords</base>
+        <tran loc="ar">الكلمات المفتاحية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Modification Date"; ObjectID = "100019"; </Description>
+      <Position>100019.title</Position>
+      <TranslationSet>
+        <base loc="en">Modification Date</base>
+        <tran loc="ar">تاريخ التعديل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSBox"; title = "Metadata To Extract"; ObjectID = "30"; </Description>
+      <Position>30.title</Position>
+      <TranslationSet>
+        <base loc="en">Metadata To Extract</base>
+        <tran loc="ar">بيانات التعريف المراد استخراجها</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "AMGroupBox"; title = "Metadata Fields"; ObjectID = "34"; </Description>
+      <Position>34.title</Position>
+      <TranslationSet>
+        <base loc="en">Metadata Fields</base>
+        <tran loc="ar">حقول بيانات التعريف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Subject"; ObjectID = "100015"; </Description>
+      <Position>100015.title</Position>
+      <TranslationSet>
+        <base loc="en">Subject</base>
+        <tran loc="ar">الموضوع</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>PreviewActions/System/Library/Automator/New PDF from Images.action/Contents/Resources/en.lproj/InfoPlist.strings</Filepath>
+    <TextItem>
+      <Description>  AMApplication localized strings  </Description>
+      <Position>Preview</Position>
+      <TranslationSet>
+        <base loc="en">Preview</base>
+        <tran loc="ar">معاينة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description>  AMCategory localized strings  
+  e.g. "Text" = "Text";  
+  AMDefaultParameters localized values  
+  e.g. myDefaultIntegerParameter = 0;  
+  e.g. myDefaultStringParameter = "Default String Value";  
+  AMDescription localized strings  </Description>
+      <Position>AMDInput</Position>
+      <TranslationSet>
+        <base loc="en">Image Files (JPEG, PNG, TIFF, PDF)</base>
+        <tran loc="ar">ملفات الصور (JPEG وPNG وTIFF وPDF)</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AMDResult</Position>
+      <TranslationSet>
+        <base loc="en">PDF Document</base>
+        <tran loc="ar">مستند PDF</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Localized versions of Info.plist keys </Description>
+      <Position>NSHumanReadableCopyright</Position>
+      <TranslationSet>
+        <base loc="en">Copyright © 2006–2019 Apple Inc. All rights reserved.</base>
+        <tran loc="ar">‏Copyright © 2006-2019 Apple Inc.‎\nكافة الحقوق محفوظة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AMName</Position>
+      <TranslationSet>
+        <base loc="en">New PDF from Images</base>
+        <tran loc="ar">ملف PDF جديد من الصور</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AMDSummary</Position>
+      <TranslationSet>
+        <base loc="en">Creates a single multi-page PDF document from a number of input images</base>
+        <tran loc="ar">لإنشاء مستند PDF متعدد الصفحات من عدة صور مدخلة</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>PreviewActions/System/Library/Automator/Extract PDF Annotations.action/Contents/Resources/en.lproj/InfoPlist.strings</Filepath>
+    <TextItem>
+      <Description>  AMCategory localized strings  
+  e.g. "Text" = "Text";  
+  AMDefaultParameters localized values  
+  e.g. myDefaultIntegerParameter = 0;  
+  e.g. myDefaultStringParameter = "Default String Value";  
+  AMDescription localized strings  </Description>
+      <Position>AMDInput</Position>
+      <TranslationSet>
+        <base loc="en">PDF Files</base>
+        <tran loc="ar">ملفات PDF</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description>  AMApplication localized strings  </Description>
+      <Position>Preview</Position>
+      <TranslationSet>
+        <base loc="en">Preview</base>
+        <tran loc="ar">معاينة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AMDResult</Position>
+      <TranslationSet>
+        <base loc="en">Text, with one annotation per line. Annotation fields on each line are tab-delimited</base>
+        <tran loc="ar">نص مصحوب بتعليق توضيحي واحد في كل سطر. حقول التعليق التوضيحي في كل سطر تكون محددة بعلامات تبويب</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AMName</Position>
+      <TranslationSet>
+        <base loc="en">Extract PDF Annotations</base>
+        <tran loc="ar">استخراج تعليقات PDF التوضيحية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Localized versions of Info.plist keys </Description>
+      <Position>NSHumanReadableCopyright</Position>
+      <TranslationSet>
+        <base loc="en">Copyright © 2006–2019 Apple Inc. All rights reserved.</base>
+        <tran loc="ar">‏Copyright © 2006-2019 Apple Inc.‎\nكافة الحقوق محفوظة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AMDSummary</Position>
+      <TranslationSet>
+        <base loc="en">Extracts Text, FreeText, and/or Highlight Annotations from PDF documents</base>
+        <tran loc="ar">لاستخراج النص والنص الحر و/أو تمييز التعليقات التوضيحية من مستندات PDF.</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>PreviewActions/System/Library/Automator/Search PDFs.action/Contents/Resources/en.lproj/InfoPlist.strings</Filepath>
+    <TextItem>
+      <Description>  AMApplication localized strings  </Description>
+      <Position>Preview</Position>
+      <TranslationSet>
+        <base loc="en">Preview</base>
+        <tran loc="ar">معاينة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AMDResult</Position>
+      <TranslationSet>
+        <base loc="en">File names of PDFs that match the search criteria</base>
+        <tran loc="ar">أسماء ملفات PDF التي تطابق معايير البحث</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AMDSummary</Position>
+      <TranslationSet>
+        <base loc="en">Searches for PDF documents that match a Spotlight metadata query</base>
+        <tran loc="ar">للبحث عن مستندات PDF التي تطابق استعلام بيانات تعريف البحث السريع Spotlight</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Localized versions of Info.plist keys </Description>
+      <Position>NSHumanReadableCopyright</Position>
+      <TranslationSet>
+        <base loc="en">Copyright © 2006–2019 Apple Inc. All rights reserved.</base>
+        <tran loc="ar">‏Copyright © 2006-2019 Apple Inc.‎\nكافة الحقوق محفوظة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AMName</Position>
+      <TranslationSet>
+        <base loc="en">Search PDFs</base>
+        <tran loc="ar">بحث عن ملفات PDF</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description>  AMCategory localized strings  
+  e.g. "Text" = "Text";  
+  AMDefaultParameters localized values  
+  e.g. myDefaultIntegerParameter = 0;  
+  e.g. myDefaultStringParameter = "Default String Value";  
+  AMDescription localized strings  </Description>
+      <Position>AMDInput</Position>
+      <TranslationSet>
+        <base loc="en">Folders in which to search</base>
+        <tran loc="ar">المجلدات المراد البحث فيها</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AMDOptions</Position>
+      <TranslationSet>
+        <base loc="en">When given files or folders as input, the search will be restricted to those files or folders. Otherwise, the whole computer is searched.</base>
+        <tran loc="ar">عند تحديد ملفات أو مجلدات باعتبارها الإدخال، يكون البحث قاصرًا على تلك الملفات أو المجلدات فقط. وإلا، سيتم البحث في جهاز الكمبيوتر بالكامل.</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>PreviewActions/System/Library/Automator/Search PDFs.action/Contents/Resources/en.lproj/SearchPredicateEditor.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>%[Title]@ %[ends with]@ %@</Position>
+      <TranslationSet>
+        <base loc="en">%1$[Title]@ %2$[ends with]@ %3$@</base>
+        <tran loc="ar">%1$[العنوان]@ %2$[ينتهي بــ]@ %3$@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>%[Title]@ %[contains]@ %@</Position>
+      <TranslationSet>
+        <base loc="en">%1$[Title]@ %2$[contains]@ %3$@</base>
+        <tran loc="ar">%1$[العنوان]@ %2$[يحتوي علي]@ %3$@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>%[Description]@ %[is like]@ %@</Position>
+      <TranslationSet>
+        <base loc="en">%1$[Description]@ %2$[is like]@ %3$@</base>
+        <tran loc="ar">%1$[الوصف]@ %2$[يشبه]@ %3$@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>%[Page Height]@ %[is greater than]@ %@</Position>
+      <TranslationSet>
+        <base loc="en">%1$[Page Height]@ %2$[is greater than]@ %3$@</base>
+        <tran loc="ar">%1$[ارتفاع الصفحة]@ %2$[أكبر من]@ %3$@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>%[PDF Version]@ %[is less than]@ %[1.4]@</Position>
+      <TranslationSet>
+        <base loc="en">%1$[PDF Version]@ %2$[is less than]@ %3$[1.4]@</base>
+        <tran loc="ar">%1$[إصدار PDF]@ %2$[أقل من]@ %3$[1.4]@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>%[Any Author]@ %[contains]@ %@</Position>
+      <TranslationSet>
+        <base loc="en">%1$[Any Author]@ %2$[contains]@ %3$@</base>
+        <tran loc="ar">‏%1$[أي مؤلف]@ %2$[يحتوي على]@ ‏%3$@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>%[Any Author]@ %[begins with]@ %@</Position>
+      <TranslationSet>
+        <base loc="en">%1$[Any Author]@ %2$[begins with]@ %3$@</base>
+        <tran loc="ar">‏%1$[أي مؤلف]@ %2$[يبدأ بـ]@ ‏%3$@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>%[PDF Version]@ %[is]@ %[1.6]@</Position>
+      <TranslationSet>
+        <base loc="en">%1$[PDF Version]@ %2$[is]@ %3$[1.6]@</base>
+        <tran loc="ar">%1$[إصدار PDF]@ %2$[هو]@ %3$[1.6]@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>%[PDF Version]@ %[is less than]@ %[1.5]@</Position>
+      <TranslationSet>
+        <base loc="en">%1$[PDF Version]@ %2$[is less than]@ %3$[1.5]@</base>
+        <tran loc="ar">%1$[إصدار PDF]@ %2$[أقل من]@ %3$[1.5]@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>%[Any Keyword]@ %[ends with]@ %@</Position>
+      <TranslationSet>
+        <base loc="en">%1$[Any Keyword]@ %2$[ends with]@ %3$@</base>
+        <tran loc="ar">‏%1$[أية كلمة مفتاحية]@ %2$[تنتهي بـ]@ ‏%3$@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>%[PDF Version]@ %[is less than]@ %[1.6]@</Position>
+      <TranslationSet>
+        <base loc="en">%1$[PDF Version]@ %2$[is less than]@ %3$[1.6]@</base>
+        <tran loc="ar">%1$[إصدار PDF]@ %2$[أقل من]@ %3$[1.6]@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>%[PDF Version]@ %[is]@ %[1.5]@</Position>
+      <TranslationSet>
+        <base loc="en">%1$[PDF Version]@ %2$[is]@ %3$[1.5]@</base>
+        <tran loc="ar">%1$[إصدار PDF]@ %2$[هو]@ %3$[1.5]@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>%[Page Width]@ %[is greater than or equal to]@ %@</Position>
+      <TranslationSet>
+        <base loc="en">%1$[Page Width]@ %2$[is greater than or equal to]@ %3$@</base>
+        <tran loc="ar">%1$[عرض الصفحة]@ %2$[أكبر من أو يساوي]@ %3$@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>%[Anything]@ %[is like]@ %@</Position>
+      <TranslationSet>
+        <base loc="en">%1$[Anything]@ %2$[is like]@ %3$@</base>
+        <tran loc="ar">%1$[أي شيء]@ %2$[يشبه]@ %3$@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>%[Number of pages]@ %[is less than or equal to]@ %@</Position>
+      <TranslationSet>
+        <base loc="en">%1$[Number of pages]@ %2$[is less than or equal to]@ %3$@</base>
+        <tran loc="ar">%1$[عدد الصفحات]@ %2$[أقل من أو يساوي]@ %3$@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>%[Any Author]@ %[is like]@ %@</Position>
+      <TranslationSet>
+        <base loc="en">%1$[Any Author]@ %2$[is like]@ %3$@</base>
+        <tran loc="ar">‏%1$[أي مؤلف]@ %2$[يشبه]@ ‏%3$@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>%[All]@ of the following are true</Position>
+      <TranslationSet>
+        <base loc="en">%1$[All]@ of the following are true</base>
+        <tran loc="ar">%1$[كل]@ من العناصر التالية صحيح</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>%[PDF Version]@ %[is]@ %[1.4]@</Position>
+      <TranslationSet>
+        <base loc="en">%1$[PDF Version]@ %2$[is]@ %3$[1.4]@</base>
+        <tran loc="ar">%1$[إصدار PDF]@ %2$[هو]@ %3$[1.4]@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>%[Any Keyword]@ %[is like]@ %@</Position>
+      <TranslationSet>
+        <base loc="en">%1$[Any Keyword]@ %2$[is like]@ %3$@</base>
+        <tran loc="ar">‏%1$[أية كلمة مفتاحية]@ %2$[تشبه]@ ‏%3$@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>%[PDF Version]@ %[is]@ %[1.3]@</Position>
+      <TranslationSet>
+        <base loc="en">%1$[PDF Version]@ %2$[is]@ %3$[1.3]@</base>
+        <tran loc="ar">%1$[إصدار PDF]@ %2$[هو]@ %3$[1.3]@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>%[Any Author]@ %[ends with]@ %@</Position>
+      <TranslationSet>
+        <base loc="en">%1$[Any Author]@ %2$[ends with]@ %3$@</base>
+        <tran loc="ar">‏%1$[أي مؤلف]@ %2$[ينتهي بـ]@ ‏%3$@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>%[Page Width]@ %[is]@ %@</Position>
+      <TranslationSet>
+        <base loc="en">%1$[Page Width]@ %2$[is]@ %3$@</base>
+        <tran loc="ar">%1$[عرض الصفحة]@ %2$[هو]@ %3$@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>%[Description]@ %[contains]@ %@</Position>
+      <TranslationSet>
+        <base loc="en">%1$[Description]@ %2$[contains]@ %3$@</base>
+        <tran loc="ar">%1$[الوصف]@ %2$[يحتوي على]@ %3$@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>%[Page Width]@ %[is less than]@ %@</Position>
+      <TranslationSet>
+        <base loc="en">%1$[Page Width]@ %2$[is less than]@ %3$@</base>
+        <tran loc="ar">%1$[عرض الصفحة]@ %2$[أقل من]@ %3$@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>%[Anything]@ %[contains]@ %@</Position>
+      <TranslationSet>
+        <base loc="en">%1$[Anything]@ %2$[contains]@ %3$@</base>
+        <tran loc="ar">%1$[أي شيء]@ %2$[يحتوي على]@ %3$@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>%[Page Height]@ %[is greater than or equal to]@ %@</Position>
+      <TranslationSet>
+        <base loc="en">%1$[Page Height]@ %2$[is greater than or equal to]@ %3$@</base>
+        <tran loc="ar">%1$[ارتفاع الصفحة]@ %2$[أكبر من أو يساوي]@ %3$@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>%[Content]@ %[is like]@ %@</Position>
+      <TranslationSet>
+        <base loc="en">%1$[Content]@ %2$[is like]@ %3$@</base>
+        <tran loc="ar">%1$[المحتوى]@ %2$[يشبه]@ %3$@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>%[None]@ of the following are true</Position>
+      <TranslationSet>
+        <base loc="en">%1$[None]@ of the following are true</base>
+        <tran loc="ar">%1$[ليس أي]@ من العناصر التالية صحيحًا</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>%[Number of pages]@ %[is greater than or equal to]@ %@</Position>
+      <TranslationSet>
+        <base loc="en">%1$[Number of pages]@ %2$[is greater than or equal to]@ %3$@</base>
+        <tran loc="ar">%1$[عدد الصفحات]@ %2$[أكبر من أو يساوي]@ %3$@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>%[PDF Version]@ %[is less than]@ %[1.3]@</Position>
+      <TranslationSet>
+        <base loc="en">%1$[PDF Version]@ %2$[is less than]@ %3$[1.3]@</base>
+        <tran loc="ar">%1$[إصدار PDF]@ %2$[أقل من]@ %3$[1.3]@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>%[Creator]@ %[contains]@ %@</Position>
+      <TranslationSet>
+        <base loc="en">%1$[Creator]@ %2$[contains]@ %3$@</base>
+        <tran loc="ar">%1$[المنشئ]@ %2$[يحتوي على]@ %3$@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>%[Page Width]@ %[is less than or equal to]@ %@</Position>
+      <TranslationSet>
+        <base loc="en">%1$[Page Width]@ %2$[is less than or equal to]@ %3$@</base>
+        <tran loc="ar">%1$[عرض الصفحة]@ %2$[أقل من أو يساوي]@ %3$@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>%[Any Keyword]@ %[contains]@ %@</Position>
+      <TranslationSet>
+        <base loc="en">%1$[Any Keyword]@ %2$[contains]@ %3$@</base>
+        <tran loc="ar">‏%1$[أية كلمة مفتاحية]@ %2$[تحتوي على]@ ‏%3$@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>%[PDF Version]@ %[is less than or equal to]@ %[1.5]@</Position>
+      <TranslationSet>
+        <base loc="en">%1$[PDF Version]@ %2$[is less than or equal to]@ %3$[1.5]@</base>
+        <tran loc="ar">%1$[إصدار PDF]@ %2$[أقل من أو يساوي]@ %3$[1.5]@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>%[Number of pages]@ %[is]@ %@</Position>
+      <TranslationSet>
+        <base loc="en">%1$[Number of pages]@ %2$[is]@ %3$@</base>
+        <tran loc="ar">%1$[عدد الصفحات]@ %2$[هو]@ %3$@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>%[PDF Version]@ %[is greater than or equal to]@ %[1.3]@</Position>
+      <TranslationSet>
+        <base loc="en">%1$[PDF Version]@ %2$[is greater than or equal to]@ %3$[1.3]@</base>
+        <tran loc="ar">%1$[إصدار PDF]@ %2$[أعلى من أو يساوي]@ %3$[1.3]@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>%[Anything]@ %[ends with]@ %@</Position>
+      <TranslationSet>
+        <base loc="en">%1$[Anything]@ %2$[ends with]@ %3$@</base>
+        <tran loc="ar">%1$[أي شيء]@ %2$[ينتهي بـ]@ %3$@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>%[Encoding Application]@ %[contains]@ %@</Position>
+      <TranslationSet>
+        <base loc="en">%1$[Encoding Application]@ %2$[contains]@ %3$@</base>
+        <tran loc="ar">%1$[تطبيق الترميز]@ %2$[يحتوي على]@ %3$@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>%[Number of pages]@ %[is less than]@ %@</Position>
+      <TranslationSet>
+        <base loc="en">%1$[Number of pages]@ %2$[is less than]@ %3$@</base>
+        <tran loc="ar">%1$[عدد الصفحات]@ %2$[أقل من]@ %3$@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>%[Page Height]@ %[is]@ %@</Position>
+      <TranslationSet>
+        <base loc="en">%1$[Page Height]@ %2$[is]@ %3$@</base>
+        <tran loc="ar">%1$[ارتفاع الصفحة]@ %2$[هو]@ %3$@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>%[PDF Version]@ %[is less than or equal to]@ %[1.4]@</Position>
+      <TranslationSet>
+        <base loc="en">%1$[PDF Version]@ %2$[is less than or equal to]@ %3$[1.4]@</base>
+        <tran loc="ar">%1$[إصدار PDF]@ %2$[أقل من أو يساوي]@ %3$[1.4]@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>%[Encoding Application]@ %[begins with]@ %@</Position>
+      <TranslationSet>
+        <base loc="en">%1$[Encoding Application]@ %2$[begins with]@ %3$@</base>
+        <tran loc="ar">%1$[تطبيق الترميز]@ %2$[يبدأ بـ]@ %3$@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>%[Content]@ %[begins with]@ %@</Position>
+      <TranslationSet>
+        <base loc="en">%1$[Content]@ %2$[begins with]@ %3$@</base>
+        <tran loc="ar">%1$[المحتوى]@ %2$[يبدأ بـ]@ %3$@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>%[Page Height]@ %[is less than or equal to]@ %@</Position>
+      <TranslationSet>
+        <base loc="en">%1$[Page Height]@ %2$[is less than or equal to]@ %3$@</base>
+        <tran loc="ar">%1$[ارتفاع الصفحة]@ %2$[أقل من أو يساوي]@ %3$@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>%[Title]@ %[begins with]@ %@</Position>
+      <TranslationSet>
+        <base loc="en">%1$[Title]@ %2$[begins with]@ %3$@</base>
+        <tran loc="ar">%1$[العنوان]@ %2$[يبدأ بـ]@ %3$@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>%[Encoding Application]@ %[ends with]@ %@</Position>
+      <TranslationSet>
+        <base loc="en">%1$[Encoding Application]@ %2$[ends with]@ %3$@</base>
+        <tran loc="ar">%1$[تطبيق الترميز]@ %2$[ينتهي بـ]@ %3$@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>%[Description]@ %[begins with]@ %@</Position>
+      <TranslationSet>
+        <base loc="en">%1$[Description]@ %2$[begins with]@ %3$@</base>
+        <tran loc="ar">%1$[الوصف]@ %2$[يبدأ بـ]@ %3$@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>%[PDF Version]@ %[is not]@ %[1.3]@</Position>
+      <TranslationSet>
+        <base loc="en">%1$[PDF Version]@ %2$[is not]@ %3$[1.3]@</base>
+        <tran loc="ar">%1$[إصدار PDF]@ %2$[ليس]@ %3$[1.3]@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>%[PDF Version]@ %[is less than or equal to]@ %[1.6]@</Position>
+      <TranslationSet>
+        <base loc="en">%1$[PDF Version]@ %2$[is less than or equal to]@ %3$[1.6]@</base>
+        <tran loc="ar">%1$[إصدار PDF]@ %2$[أقل من أو يساوي]@ %3$[1.6]@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>%[PDF Version]@ %[is greater than]@ %[1.3]@</Position>
+      <TranslationSet>
+        <base loc="en">%1$[PDF Version]@ %2$[is greater than]@ %3$[1.3]@</base>
+        <tran loc="ar">%1$[إصدار PDF]@ %2$[أعلى من]@ %3$[1.3]@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>%[Number of pages]@ %[is greater than]@ %@</Position>
+      <TranslationSet>
+        <base loc="en">%1$[Number of pages]@ %2$[is greater than]@ %3$@</base>
+        <tran loc="ar">%1$[عدد الصفحات]@ %2$[أكبر من]@ %3$@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>%[Description]@ %[ends with]@ %@</Position>
+      <TranslationSet>
+        <base loc="en">%1$[Description]@ %2$[ends with]@ %3$@</base>
+        <tran loc="ar">%1$[الوصف]@ %2$[ينتهي بـ]@ %3$@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>%[PDF Version]@ %[is not]@ %[1.4]@</Position>
+      <TranslationSet>
+        <base loc="en">%1$[PDF Version]@ %2$[is not]@ %3$[1.4]@</base>
+        <tran loc="ar">%1$[إصدار PDF]@ %2$[ليس]@ %3$[1.4]@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>%[PDF Version]@ %[is greater than]@ %[1.4]@</Position>
+      <TranslationSet>
+        <base loc="en">%1$[PDF Version]@ %2$[is greater than]@ %3$[1.4]@</base>
+        <tran loc="ar">%1$[إصدار PDF]@ %2$[أعلى من]@ %3$[1.4]@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>%[Creator]@ %[is like]@ %@</Position>
+      <TranslationSet>
+        <base loc="en">%1$[Creator]@ %2$[is like]@ %3$@</base>
+        <tran loc="ar">%1$[المنشئ]@ %2$[يشبه]@ %3$@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>%[PDF Version]@ %[is greater than or equal to]@ %[1.6]@</Position>
+      <TranslationSet>
+        <base loc="en">%1$[PDF Version]@ %2$[is greater than or equal to]@ %3$[1.6]@</base>
+        <tran loc="ar">%1$[إصدار PDF]@ %2$[أعلى من أو يساوي]@ %3$[1.6]@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>%[PDF Version]@ %[is not]@ %[1.5]@</Position>
+      <TranslationSet>
+        <base loc="en">%1$[PDF Version]@ %2$[is not]@ %3$[1.5]@</base>
+        <tran loc="ar">%1$[إصدار PDF]@ %2$[ليس]@ %3$[1.5]@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>%[Creator]@ %[begins with]@ %@</Position>
+      <TranslationSet>
+        <base loc="en">%1$[Creator]@ %2$[begins with]@ %3$@</base>
+        <tran loc="ar">%1$[المنشئ]@ %2$[يبدأ بـ]@ %3$@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>%[PDF Version]@ %[is greater than]@ %[1.5]@</Position>
+      <TranslationSet>
+        <base loc="en">%1$[PDF Version]@ %2$[is greater than]@ %3$[1.5]@</base>
+        <tran loc="ar">%1$[إصدار PDF]@ %2$[أعلى من]@ %3$[1.5]@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>%[Content]@ %[ends with]@ %@</Position>
+      <TranslationSet>
+        <base loc="en">%1$[Content]@ %2$[ends with]@ %3$@</base>
+        <tran loc="ar">%1$[المحتوى]@ %2$[ينتهي بـ]@ %3$@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>%[Any]@ of the following are true</Position>
+      <TranslationSet>
+        <base loc="en">%1$[Any]@ of the following are true</base>
+        <tran loc="ar">%1$[أي]@ من العناصر التالية صحيح</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>%[Any Keyword]@ %[begins with]@ %@</Position>
+      <TranslationSet>
+        <base loc="en">%1$[Any Keyword]@ %2$[begins with]@ %3$@</base>
+        <tran loc="ar">‏%1$[أية كلمة مفتاحية]@ %2$[تبدأ بـ]@ ‏%3$@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>%[Title]@ %[is like]@ %@</Position>
+      <TranslationSet>
+        <base loc="en">%1$[Title]@ %2$[is like]@ %3$@</base>
+        <tran loc="ar">%1$[العنوان]@ %2$[يشبه]@ %3$@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>%[PDF Version]@ %[is less than or equal to]@ %[1.3]@</Position>
+      <TranslationSet>
+        <base loc="en">%1$[PDF Version]@ %2$[is less than or equal to]@ %3$[1.3]@</base>
+        <tran loc="ar">%1$[إصدار PDF]@ %2$[أقل من أو يساوي]@ %3$[1.3]@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>%[PDF Version]@ %[is greater than]@ %[1.6]@</Position>
+      <TranslationSet>
+        <base loc="en">%1$[PDF Version]@ %2$[is greater than]@ %3$[1.6]@</base>
+        <tran loc="ar">%1$[إصدار PDF]@ %2$[أعلى من]@ %3$[1.6]@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>%[Page Height]@ %[is less than]@ %@</Position>
+      <TranslationSet>
+        <base loc="en">%1$[Page Height]@ %2$[is less than]@ %3$@</base>
+        <tran loc="ar">%1$[ارتفاع الصفحة]@ %2$[أقل من]@ %3$@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>%[PDF Version]@ %[is greater than or equal to]@ %[1.5]@</Position>
+      <TranslationSet>
+        <base loc="en">%1$[PDF Version]@ %2$[is greater than or equal to]@ %3$[1.5]@</base>
+        <tran loc="ar">%1$[إصدار PDF]@ %2$[أعلى من أو يساوي]@ %3$[1.5]@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>%[PDF Version]@ %[is not]@ %[1.6]@</Position>
+      <TranslationSet>
+        <base loc="en">%1$[PDF Version]@ %2$[is not]@ %3$[1.6]@</base>
+        <tran loc="ar">%1$[إصدار PDF]@ %2$[ليس]@ %3$[1.6]@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>%[Encoding Application]@ %[is like]@ %@</Position>
+      <TranslationSet>
+        <base loc="en">%1$[Encoding Application]@ %2$[is like]@ %3$@</base>
+        <tran loc="ar">%1$[تطبيق الترميز]@ %2$[يشبه]@ %3$@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>%[Anything]@ %[begins with]@ %@</Position>
+      <TranslationSet>
+        <base loc="en">%1$[Anything]@ %2$[begins with]@ %3$@</base>
+        <tran loc="ar">%1$[أي شيء]@ %2$[يبدأ بـ]@ %3$@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>%[Page Width]@ %[is greater than]@ %@</Position>
+      <TranslationSet>
+        <base loc="en">%1$[Page Width]@ %2$[is greater than]@ %3$@</base>
+        <tran loc="ar">%1$[عرض الصفحة]@ %2$[أكبر من]@ %3$@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>%[Content]@ %[contains]@ %@</Position>
+      <TranslationSet>
+        <base loc="en">%1$[Content]@ %2$[contains]@ %3$@</base>
+        <tran loc="ar">%1$[المحتوى]@ %2$[يحتوي على]@ %3$@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>%[PDF Version]@ %[is greater than or equal to]@ %[1.4]@</Position>
+      <TranslationSet>
+        <base loc="en">%1$[PDF Version]@ %2$[is greater than or equal to]@ %3$[1.4]@</base>
+        <tran loc="ar">%1$[إصدار PDF]@ %2$[أعلى من أو يساوي]@ %3$[1.4]@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>%[Creator]@ %[ends with]@ %@</Position>
+      <TranslationSet>
+        <base loc="en">%1$[Creator]@ %2$[ends with]@ %3$@</base>
+        <tran loc="ar">%1$[المنشئ]@ %2$[ينتهي بـ]@ %3$@</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>PreviewActions/System/Library/Automator/Extract PDF Text.action/Contents/Resources/en.lproj/Localizable.strings</Filepath>
+    <TextItem>
+      <Description> default output file name </Description>
+      <Position>Extract Text Output</Position>
+      <TranslationSet>
+        <base loc="en">Extract Text Output</base>
+        <tran loc="ar">استخراج النص الناتج</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> default page header </Description>
+      <Position>--- ##Page ---</Position>
+      <TranslationSet>
+        <base loc="en">--- ##Page ---</base>
+        <tran loc="ar">--- الصفحة## ---</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>PreviewActions/System/Library/Automator/Split PDF.action/Contents/Resources/en.lproj/main.strings</Filepath>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Custom Name"; ObjectID = "29"; </Description>
+      <Position>29.title</Position>
+      <TranslationSet>
+        <base loc="en">Custom Name</base>
+        <tran loc="ar">اسم مخصص</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Radio"; ObjectID = "100027"; </Description>
+      <Position>100027.title</Position>
+      <TranslationSet>
+        <base loc="en">Radio</base>
+        <tran loc="ar">زر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Same as Input Name"; ObjectID = "28"; </Description>
+      <Position>28.title</Position>
+      <TranslationSet>
+        <base loc="en">Same as Input Name</base>
+        <tran loc="ar">نفس الاسم المدخل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Save Output to:"; ObjectID = "100015"; </Description>
+      <Position>100015.title</Position>
+      <TranslationSet>
+        <base loc="en">Save Output to:</base>
+        <tran loc="ar">حفظ الإخراج إلى:</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "AMPathPopUpButton"; placeholder = "No Selection"; ObjectID = "13"; </Description>
+      <Position>13.placeholder</Position>
+      <TranslationSet>
+        <base loc="en">No Selection</base>
+        <tran loc="ar">لم يتم تحديد شيء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSBox"; title = "Output File Name"; ObjectID = "31"; </Description>
+      <Position>31.title</Position>
+      <TranslationSet>
+        <base loc="en">Output File Name</base>
+        <tran loc="ar">اسم ملف الإخراج</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "AMGroupBox"; title = "Output File Name"; ObjectID = "35"; </Description>
+      <Position>35.title</Position>
+      <TranslationSet>
+        <base loc="en">Output File Name</base>
+        <tran loc="ar">اسم ملف الإخراج</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Replace Existing Files"; ObjectID = "100018"; </Description>
+      <Position>100018.title</Position>
+      <TranslationSet>
+        <base loc="en">Replace Existing Files</base>
+        <tran loc="ar">استبدال الملفات الموجودة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenu"; title = "OtherViews"; ObjectID = "14"; </Description>
+      <Position>14.title</Position>
+      <TranslationSet>
+        <base loc="en">OtherViews</base>
+        <tran loc="ar">OtherViews</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "AMGroupBox"; title = "Output Folder"; ObjectID = "34"; </Description>
+      <Position>34.title</Position>
+      <TranslationSet>
+        <base loc="en">Output Folder</base>
+        <tran loc="ar">مجلد الإخراج</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>PreviewActions/System/Library/Automator/Split PDF.action/Contents/Resources/en.lproj/Localizable.strings</Filepath>
+    <TextItem>
+      <Description> default output file name </Description>
+      <Position>Split PDF Output</Position>
+      <TranslationSet>
+        <base loc="en">Split PDF Output</base>
+        <tran loc="ar">إخراج تقسيم PDF</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> part of file name </Description>
+      <Position>page</Position>
+      <TranslationSet>
+        <base loc="en">page</base>
+        <tran loc="ar">صفحة</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>PreviewActions/System/Library/Automator/Set PDF Metadata.action/Contents/Resources/en.lproj/Localizable.strings</Filepath>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>New Keyword</Position>
+      <TranslationSet>
+        <base loc="en">New Keyword</base>
+        <tran loc="ar">كلمة مفتاحية جديدة</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>PreviewActions/System/Library/Automator/Extract PDF Text.action/Contents/Resources/en.lproj/main.strings</Filepath>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Custom Name"; ObjectID = "43"; </Description>
+      <Position>43.title</Position>
+      <TranslationSet>
+        <base loc="en">Custom Name</base>
+        <tran loc="ar">اسم مخصص</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Output:"; ObjectID = "100013"; </Description>
+      <Position>100013.title</Position>
+      <TranslationSet>
+        <base loc="en">Output:</base>
+        <tran loc="ar">الإخراج:</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Add Page Header"; ObjectID = "100020"; </Description>
+      <Position>100020.title</Position>
+      <TranslationSet>
+        <base loc="en">Add Page Header</base>
+        <tran loc="ar">إضافة عنوان الصفحة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Rich Text"; ObjectID = "19"; </Description>
+      <Position>19.title</Position>
+      <TranslationSet>
+        <base loc="en">Rich Text</base>
+        <tran loc="ar">نص منسق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Radio"; ObjectID = "100014"; </Description>
+      <Position>100014.title</Position>
+      <TranslationSet>
+        <base loc="en">Radio</base>
+        <tran loc="ar">زر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Radio"; ObjectID = "100041"; </Description>
+      <Position>100041.title</Position>
+      <TranslationSet>
+        <base loc="en">Radio</base>
+        <tran loc="ar">زر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Same as Input Name"; ObjectID = "42"; </Description>
+      <Position>42.title</Position>
+      <TranslationSet>
+        <base loc="en">Same as Input Name</base>
+        <tran loc="ar">نفس الاسم المدخل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Save Output to:"; ObjectID = "100055"; </Description>
+      <Position>100055.title</Position>
+      <TranslationSet>
+        <base loc="en">Save Output to:</base>
+        <tran loc="ar">حفظ الإخراج إلى:</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "AMGroupBox"; title = "Page Header"; ObjectID = "34"; </Description>
+      <Position>34.title</Position>
+      <TranslationSet>
+        <base loc="en">Page Header</base>
+        <tran loc="ar">عنوان الصفحة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "AMPathPopUpButton"; placeholder = "No Selection"; ObjectID = "53"; </Description>
+      <Position>53.placeholder</Position>
+      <TranslationSet>
+        <base loc="en">No Selection</base>
+        <tran loc="ar">لم يتم تحديد شيء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "AMGroupBox"; title = "Output File Name"; ObjectID = "37"; </Description>
+      <Position>37.title</Position>
+      <TranslationSet>
+        <base loc="en">Output File Name</base>
+        <tran loc="ar">اسم ملف الإخراج</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSBox"; title = "Output File Name"; ObjectID = "38"; </Description>
+      <Position>38.title</Position>
+      <TranslationSet>
+        <base loc="en">Output File Name</base>
+        <tran loc="ar">اسم ملف الإخراج</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Replace Existing Files"; ObjectID = "100036"; </Description>
+      <Position>100036.title</Position>
+      <TranslationSet>
+        <base loc="en">Replace Existing Files</base>
+        <tran loc="ar">استبدال الملفات الموجودة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "AMGroupBox"; title = "Output Kind"; ObjectID = "33"; </Description>
+      <Position>33.title</Position>
+      <TranslationSet>
+        <base loc="en">Output Kind</base>
+        <tran loc="ar">نوع الإخراج</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Add Page Footer"; ObjectID = "100021"; </Description>
+      <Position>100021.title</Position>
+      <TranslationSet>
+        <base loc="en">Add Page Footer</base>
+        <tran loc="ar">إضافة تذييل الصفحة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenu"; title = "OtherViews"; ObjectID = "54"; </Description>
+      <Position>54.title</Position>
+      <TranslationSet>
+        <base loc="en">OtherViews</base>
+        <tran loc="ar">OtherViews</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "AMGroupBox"; title = "Page Footer"; ObjectID = "35"; </Description>
+      <Position>35.title</Position>
+      <TranslationSet>
+        <base loc="en">Page Footer</base>
+        <tran loc="ar">تذييل الصفحة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Plain Text"; ObjectID = "18"; </Description>
+      <Position>18.title</Position>
+      <TranslationSet>
+        <base loc="en">Plain Text</base>
+        <tran loc="ar">نص عادي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "AMGroupBox"; title = "Output Folder"; ObjectID = "52"; </Description>
+      <Position>52.title</Position>
+      <TranslationSet>
+        <base loc="en">Output Folder</base>
+        <tran loc="ar">مجلد الإخراج</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>PreviewActions/System/Library/Automator/New PDF from Images.action/Contents/Resources/en.lproj/main.strings</Filepath>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Make All Pages the Same Size"; ObjectID = "34"; </Description>
+      <Position>34.title</Position>
+      <TranslationSet>
+        <base loc="en">Make All Pages the Same Size</base>
+        <tran loc="ar">جعل كل الصفحات بنفس الحجم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Output File Name:"; ObjectID = "100021"; </Description>
+      <Position>100021.title</Position>
+      <TranslationSet>
+        <base loc="en">Output File Name:</base>
+        <tran loc="ar">اسم ملف الإخراج:</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Radio"; ObjectID = "100030"; </Description>
+      <Position>100030.title</Position>
+      <TranslationSet>
+        <base loc="en">Radio</base>
+        <tran loc="ar">زر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "width:"; ObjectID = "100052"; </Description>
+      <Position>100052.title</Position>
+      <TranslationSet>
+        <base loc="en">width:</base>
+        <tran loc="ar">العرض:</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Save Output to:"; ObjectID = "100016"; </Description>
+      <Position>100016.title</Position>
+      <TranslationSet>
+        <base loc="en">Save Output to:</base>
+        <tran loc="ar">حفظ الإخراج إلى:</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "height:"; ObjectID = "100053"; </Description>
+      <Position>100053.title</Position>
+      <TranslationSet>
+        <base loc="en">height:</base>
+        <tran loc="ar">الارتفاع:</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Size Each Page to Fit"; ObjectID = "33"; </Description>
+      <Position>33.title</Position>
+      <TranslationSet>
+        <base loc="en">Size Each Page to Fit</base>
+        <tran loc="ar">تغيير حجم كل صفحة للاحتواء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "AMPathPopUpButton"; placeholder = "No Selection"; ObjectID = "13"; </Description>
+      <Position>13.placeholder</Position>
+      <TranslationSet>
+        <base loc="en">No Selection</base>
+        <tran loc="ar">لم يتم تحديد شيء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "AMGroupBox"; title = "Output Page Size"; ObjectID = "62"; </Description>
+      <Position>62.title</Position>
+      <TranslationSet>
+        <base loc="en">Output Page Size</base>
+        <tran loc="ar">حجم صفحة الإخراج</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "AMGroupBox"; title = "Output File Name"; ObjectID = "61"; </Description>
+      <Position>61.title</Position>
+      <TranslationSet>
+        <base loc="en">Output File Name</base>
+        <tran loc="ar">اسم ملف الإخراج</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Replace Existing Files"; ObjectID = "100022"; </Description>
+      <Position>100022.title</Position>
+      <TranslationSet>
+        <base loc="en">Replace Existing Files</base>
+        <tran loc="ar">استبدال الملفات الموجودة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Make All Pages this Size:"; ObjectID = "35"; </Description>
+      <Position>35.title</Position>
+      <TranslationSet>
+        <base loc="en">Make All Pages this Size:</base>
+        <tran loc="ar">جعل كل الصفحات بهذا الحجم:</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenu"; title = "OtherViews"; ObjectID = "14"; </Description>
+      <Position>14.title</Position>
+      <TranslationSet>
+        <base loc="en">OtherViews</base>
+        <tran loc="ar">OtherViews</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "points"; ObjectID = "100054"; </Description>
+      <Position>100054.title</Position>
+      <TranslationSet>
+        <base loc="en">points</base>
+        <tran loc="ar">نقطة</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>PreviewActions/System/Library/Automator/Extract PDF Text.action/Contents/Resources/en.lproj/InfoPlist.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>AMDSummary</Position>
+      <TranslationSet>
+        <base loc="en">Extracts plain or styled text from PDF documents</base>
+        <tran loc="ar">لاستخراج النص العادي أو النص المنسق بأنماط من مستندات PDF</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description>  AMCategory localized strings  
+  e.g. "Text" = "Text";  
+  AMDefaultParameters localized values  
+  e.g. myDefaultIntegerParameter = 0;  
+  e.g. myDefaultStringParameter = "Default String Value";  
+  AMDescription localized strings  </Description>
+      <Position>AMDInput</Position>
+      <TranslationSet>
+        <base loc="en">PDF Files</base>
+        <tran loc="ar">ملفات PDF</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description>  AMApplication localized strings  </Description>
+      <Position>Preview</Position>
+      <TranslationSet>
+        <base loc="en">Preview</base>
+        <tran loc="ar">معاينة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AMName</Position>
+      <TranslationSet>
+        <base loc="en">Extract PDF Text</base>
+        <tran loc="ar">استخراج نص PDF</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Localized versions of Info.plist keys </Description>
+      <Position>NSHumanReadableCopyright</Position>
+      <TranslationSet>
+        <base loc="en">Copyright © 2006–2019 Apple Inc. All rights reserved.</base>
+        <tran loc="ar">‏Copyright © 2006-2019 Apple Inc.‎\nكافة الحقوق محفوظة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AMDResult</Position>
+      <TranslationSet>
+        <base loc="en">Text Files</base>
+        <tran loc="ar">الملفات النصية</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>PreviewActions/System/Library/Automator/Get PDF Metadata.action/Contents/Resources/en.lproj/InfoPlist.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>AMDSummary</Position>
+      <TranslationSet>
+        <base loc="en">Extracts specified metadata from PDF documents</base>
+        <tran loc="ar">لاستخراج بيانات تعريف محددة من مستندات PDF</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AMDResult</Position>
+      <TranslationSet>
+        <base loc="en">Text, where each line contains tab-delimited metadata from each input file</base>
+        <tran loc="ar">نص حيث يحتفظ كل سطر ببيانات تعريف محددة بعلامات تبويب لكل ملف إدخال</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description>  AMCategory localized strings  
+  e.g. "Text" = "Text";  
+  AMDefaultParameters localized values  
+  e.g. myDefaultIntegerParameter = 0;  
+  e.g. myDefaultStringParameter = "Default String Value";  
+  AMDescription localized strings  </Description>
+      <Position>AMDInput</Position>
+      <TranslationSet>
+        <base loc="en">PDF Files</base>
+        <tran loc="ar">ملفات PDF</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description>  AMApplication localized strings  </Description>
+      <Position>Preview</Position>
+      <TranslationSet>
+        <base loc="en">Preview</base>
+        <tran loc="ar">معاينة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AMName</Position>
+      <TranslationSet>
+        <base loc="en">Get PDF Metadata</base>
+        <tran loc="ar">إحضار بيانات تعريف PDF</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Localized versions of Info.plist keys </Description>
+      <Position>NSHumanReadableCopyright</Position>
+      <TranslationSet>
+        <base loc="en">Copyright © 2006–2019 Apple Inc. All rights reserved.</base>
+        <tran loc="ar">‏Copyright © 2006-2019 Apple Inc.‎\nكافة الحقوق محفوظة.</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>PreviewActions/System/Library/Automator/Extract PDF Annotations.action/Contents/Resources/en.lproj/main.strings</Filepath>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Page Label"; ObjectID = "100020"; </Description>
+      <Position>100020.title</Position>
+      <TranslationSet>
+        <base loc="en">Page Label</base>
+        <tran loc="ar">عنوان الصفحة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Modification Date"; ObjectID = "100022"; </Description>
+      <Position>100022.title</Position>
+      <TranslationSet>
+        <base loc="en">Modification Date</base>
+        <tran loc="ar">تاريخ التعديل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSBox"; title = "Fields to Extract"; ObjectID = "18"; </Description>
+      <Position>18.title</Position>
+      <TranslationSet>
+        <base loc="en">Fields to Extract</base>
+        <tran loc="ar">الحقول المراد استخراجها</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "AMGroupBox"; title = "Fields to Extract"; ObjectID = "32"; </Description>
+      <Position>32.title</Position>
+      <TranslationSet>
+        <base loc="en">Fields to Extract</base>
+        <tran loc="ar">الحقول المراد استخراجها</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "User Name"; ObjectID = "100021"; </Description>
+      <Position>100021.title</Position>
+      <TranslationSet>
+        <base loc="en">User Name</base>
+        <tran loc="ar">اسم المستخدم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Free Text"; ObjectID = "100016"; </Description>
+      <Position>100016.title</Position>
+      <TranslationSet>
+        <base loc="en">Free Text</base>
+        <tran loc="ar">النص الحر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Highlight"; ObjectID = "100017"; </Description>
+      <Position>100017.title</Position>
+      <TranslationSet>
+        <base loc="en">Highlight</base>
+        <tran loc="ar">تمييز</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Text"; ObjectID = "100015"; </Description>
+      <Position>100015.title</Position>
+      <TranslationSet>
+        <base loc="en">Text</base>
+        <tran loc="ar">نص</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Contents"; ObjectID = "100023"; </Description>
+      <Position>100023.title</Position>
+      <TranslationSet>
+        <base loc="en">Contents</base>
+        <tran loc="ar">المحتويات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Prepend output with file path"; ObjectID = "100033"; </Description>
+      <Position>100033.title</Position>
+      <TranslationSet>
+        <base loc="en">Prepend output with file path</base>
+        <tran loc="ar">إضافة مسار الملف إلى الإخراج</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSBox"; title = "Annotation Kinds"; ObjectID = "13"; </Description>
+      <Position>13.title</Position>
+      <TranslationSet>
+        <base loc="en">Annotation Kinds</base>
+        <tran loc="ar">أنواع التعليقات التوضيحية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "AMGroupBox"; title = "Annotation Kinds"; ObjectID = "31"; </Description>
+      <Position>31.title</Position>
+      <TranslationSet>
+        <base loc="en">Annotation Kinds</base>
+        <tran loc="ar">أنواع التعليقات التوضيحية</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+</Proj>

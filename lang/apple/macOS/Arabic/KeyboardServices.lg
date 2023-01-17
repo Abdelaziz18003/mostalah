@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Proj>
+  <ProjName>KeyboardServices</ProjName>
+  <File>
+    <Filepath>KeyboardServices/System/Library/PrivateFrameworks/KeyboardServices.framework/Versions/A/Resources/en.lproj/Localizable.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>DefaultPhrase</Position>
+      <TranslationSet>
+        <base loc="en">On my way!</base>
+        <tran loc="ar">إلى آخره.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 
+  Localizable.strings
+  KeyboardServices
+
+  Copyright © 2016 Apple Inc. All rights reserved.
+
+ Used only when migration result has no entry at all, then we add this default shortcut.</Description>
+      <Position>DefaultShortcut</Position>
+      <TranslationSet>
+        <base loc="en">omw</base>
+        <tran loc="ar">إلخ</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+</Proj>

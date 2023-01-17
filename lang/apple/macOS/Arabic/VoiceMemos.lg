@@ -1,0 +1,4004 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Proj>
+  <ProjName>VoiceMemos</ProjName>
+  <File>
+    <Filepath>VoiceMemos/System/Applications/VoiceMemos.app/Contents/Resources/en.lproj/Localizable.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>INSERT_MODE_OUT_BUTTON_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Out</base>
+        <tran loc="ar">خروج</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Label to use when ALL recordings have been uploaded to iCloud (but not cleared by the device running out of space)</Description>
+      <Position>LIBRARY_TEXT_WATCH_ICLOUD_COMPLETE</Position>
+      <TranslationSet>
+        <base loc="en">Recordings are also in Voice Memos on your iPhone, iPad and Mac.</base>
+        <tran loc="ar">توجد التسجيلات أيضًا في تطبيق المذكرات الصوتية على iPhone و iPad و Mac.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Formatting to use when making a copy of a recording.  Example: "My Recording" becomes "My Recording copy"</Description>
+      <Position>RECORDING_COPY_FORMAT</Position>
+      <TranslationSet>
+        <base loc="en">%@ copy</base>
+        <tran loc="ar">نسخة من %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>EDIT_NAME_OF_NEW_RECORDING_ALERT_MESSAGE</Position>
+      <TranslationSet>
+        <base loc="en">Enter a name for this voice memo.</base>
+        <tran loc="ar">أدخل اسمًا لهذه المذكرة الصوتية.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>EDIT_NAME_OF_RECORDING_ALERT_MESSAGE</Position>
+      <TranslationSet>
+        <base loc="en">Enter a name for this voice memo.</base>
+        <tran loc="ar">أدخل اسمًا لهذه المذكرة الصوتية.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ERASE_RECENTLY_DELETED_IMMEDIATELY</Position>
+      <TranslationSet>
+        <base loc="en">Immediately</base>
+        <tran loc="ar">فورًا</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CREATE_RECORDING_FAILED_ALERT_MESSAGE</Position>
+      <TranslationSet>
+        <base loc="en">There was a problem creating or saving “%@”.</base>
+        <tran loc="ar">حدثت مشكلة أثناء إنشاء أو حفظ \"%@\".</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SAVING_IN_PROGRESS_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Saving…</base>
+        <tran loc="ar">جاري الحفظ…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>RECORDING_ACTIVE_LOCKSCREEN_LABEL</Position>
+      <TranslationSet>
+        <base loc="en">Recording</base>
+        <tran loc="ar">جاري التسجيل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>RECORDING_MENU</Position>
+      <TranslationSet>
+        <base loc="en">Recording</base>
+        <tran loc="ar">تسجيل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>RECORDING_SEARCH_KEYWORD_RECORDING</Position>
+      <TranslationSet>
+        <base loc="en">Recording</base>
+        <tran loc="ar">تسجيل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Base label to use when creating a new recording on Apple Watch.  If "Recording" already exists, the _1, _2_N formats will be used to create a unique name.</Description>
+      <Position>UNTITLED_NEW_WATCH_RECORDING_LABEL</Position>
+      <TranslationSet>
+        <base loc="en">Recording</base>
+        <tran loc="ar">تسجيل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> ---- Time / Duration Formats ----
+ </Description>
+      <Position>RECORDING_STATUS_BAR_FORMAT</Position>
+      <TranslationSet>
+        <base loc="en">Recording  %@</base>
+        <tran loc="ar">جاري التسجيل  %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> ----- Siri Actions ----- </Description>
+      <Position>RECORD_NEW_VOICE_MEMO_INVOCATION_PHRASE</Position>
+      <TranslationSet>
+        <base loc="en">Record new voice memo.</base>
+        <tran loc="ar">تسجيل مذكرة صوتية جديدة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Label to use when not all recordings have been uploaded to iCloud (but iCloud is also enabled)</Description>
+      <Position>LIBRARY_TEXT_WATCH_ICLOUD_INCOMPLETE</Position>
+      <TranslationSet>
+        <base loc="en">Recordings will also be in Voice Memos on your iPhone, iPad and Mac.</base>
+        <tran loc="ar">ستكون التسجيلات موجودة أيضًا في تطبيق المذكرات الصوتية على iPhone و iPad و Mac.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UNABLE_TO_RECORD_ALERT_BODY</Position>
+      <TranslationSet>
+        <base loc="en">Connect a microphone to record voice memos.</base>
+        <tran loc="ar">قم بتوصيل الميكروفون لتسجيل المذكرات الصوتية.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DELETE_MEMO_INFORMATION_ALERT_MESSAGE_SEVEN_DAYS</Position>
+      <TranslationSet>
+        <base loc="en">Deleted Recordings will be available in the “Recently Deleted” folder for seven days.</base>
+        <tran loc="ar">ستكون التسجيلات المحذوفة متوفرة في مجلد \"المحذوفة مؤخرًا\" لمدة سبعة أيام.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DELETE</Position>
+      <TranslationSet>
+        <base loc="en">Delete</base>
+        <tran loc="ar">حذف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DELETE_RANGE_CONFIRMATION_ACTION_TITLE_DELETE</Position>
+      <TranslationSet>
+        <base loc="en">Delete</base>
+        <tran loc="ar">حذف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>EDIT_MODE_DELETE_BUTTON_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Delete</base>
+        <tran loc="ar">حذف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>TITLE_FOR_DELETE_RANGE_REDO</Position>
+      <TranslationSet>
+        <base loc="en">Delete</base>
+        <tran loc="ar">حذف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>TITLE_FOR_DELETE_RANGE_UNDO</Position>
+      <TranslationSet>
+        <base loc="en">Delete</base>
+        <tran loc="ar">حذف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>WAVEFORM_SELECTION_CHANGED_END_TIME</Position>
+      <TranslationSet>
+        <base loc="en">Moved end of selection</base>
+        <tran loc="ar">تم نقل نهاية التحديد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CURRENT_POSITION</Position>
+      <TranslationSet>
+        <base loc="en">Current Position</base>
+        <tran loc="ar">الموضع الحالي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>INTERVIEW_LABEL</Position>
+      <TranslationSet>
+        <base loc="en">Interview</base>
+        <tran loc="ar">مقابلة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>RECORDING_LABEL_UNIQUENESS_FORMAT_2_N</Position>
+      <TranslationSet>
+        <base loc="en">%@ %@</base>
+        <tran loc="ar">%@ %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DEMO_TIME_LIMIT_REACHED_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Recording Stopped</base>
+        <tran loc="ar">تم إيقاف التسجيل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>INSERT_MODE_IN_BUTTON_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">In</base>
+        <tran loc="ar">دخول</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>RENAME_CURRENT_RECORDING_MENU_ITEM</Position>
+      <TranslationSet>
+        <base loc="en">Rename…</base>
+        <tran loc="ar">إعادة تسمية…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>FASTFORWARD_BUTTON</Position>
+      <TranslationSet>
+        <base loc="en">Fast Forward, 15 seconds</base>
+        <tran loc="ar">تقديم سريع، ١٥ ثانية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> ---- Save / Rename Dialog ----
+ </Description>
+      <Position>SAVE_MEMO_ALERT_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Save Voice Memo</base>
+        <tran loc="ar">حفظ المذكرة الصوتية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> ------ Welcome Screen ------ 
+ The complete title shown at the top of the Welcome page. Do not enclose the app name in quotes or other special characters. THE APP NAME WILL DISPLAYED IN BLUE TO HIGHLIGHT IT. </Description>
+      <Position>WELCOME_TITLE_FULL</Position>
+      <TranslationSet>
+        <base loc="en">Welcome to Voice Memos</base>
+        <tran loc="ar">مرحبا بك في المذكرات الصوتية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Label displayed when a recording has no custom label, the value after the - will be the creation date</Description>
+      <Position>UNNAMED_RECORDING_LABEL</Position>
+      <TranslationSet>
+        <base loc="en">Unnamed Recording</base>
+        <tran loc="ar">تسجيل بدون اسم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ROW_EXPANDED</Position>
+      <TranslationSet>
+        <base loc="en">Row expanded</base>
+        <tran loc="ar">صف موسع</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>EDIT_CURRENT_RECORDING_MENU_ITEM</Position>
+      <TranslationSet>
+        <base loc="en">Edit Recording</base>
+        <tran loc="ar">تحرير التسجيل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>EDIT_MENU_ITEM</Position>
+      <TranslationSet>
+        <base loc="en">Edit Recording</base>
+        <tran loc="ar">تحرير التسجيل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DELETE_MEMO_INFORMATION_ALERT_MESSAGE_FOREVER</Position>
+      <TranslationSet>
+        <base loc="en">Deleted Recordings will be available in the “Recently Deleted” folder.</base>
+        <tran loc="ar">ستكون التسجيلات المحذوفة متوفرة في مجلد \"المحذوفة مؤخرًا\".</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>POST_WELCOME_ICLOUD_CONFIRMATION_ALERT_BUTTON_TITLE_ENABLE</Position>
+      <TranslationSet>
+        <base loc="en">Enable</base>
+        <tran loc="ar">تمكين</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> ---- Route Item AX Strings ----
+ </Description>
+      <Position>ROUTE_AX_BLUETOOTH</Position>
+      <TranslationSet>
+        <base loc="en">Bluetooth Device</base>
+        <tran loc="ar">جهاز Bluetooth</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>EDIT_NAME_OF_RECORDING_ALERT_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Voice Memo</base>
+        <tran loc="ar">مذكرة صوتية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DELETE_ALL</Position>
+      <TranslationSet>
+        <base loc="en">Delete All</base>
+        <tran loc="ar">حذف الكل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ROUTE_AX_OTHER</Position>
+      <TranslationSet>
+        <base loc="en">AirPlay</base>
+        <tran loc="ar">‏AirPlay</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Force-Touch menu on watchOS in main Library view
+ </Description>
+      <Position>SHOW_LOCAL_RECORDINGS_ON_WATCH</Position>
+      <TranslationSet>
+        <base loc="en">Watch Recordings</base>
+        <tran loc="ar">تسجيلات Watch</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SETTINGS_DEFAULT_RECORDING_NAME</Position>
+      <TranslationSet>
+        <base loc="en">Default Name</base>
+        <tran loc="ar">اسم افتراضي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PLAYBACK_LATEST_VOICE_MEMO_INVOCATION_PHRASE</Position>
+      <TranslationSet>
+        <base loc="en">Playback the most recent voice memo</base>
+        <tran loc="ar">إعادة تشغيل أحدث مذكرة صوتية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DONE</Position>
+      <TranslationSet>
+        <base loc="en">Done</base>
+        <tran loc="ar">تم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>RESTORE_MEMO_ALERT_MESSAGE_MAC_ONLY</Position>
+      <TranslationSet>
+        <base loc="en">Recovered recordings will be moved back to the library.</base>
+        <tran loc="ar">سيتم نقل التسجيلات المستعادة إلى المكتبة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>EMPTY_LIBRARY_TEXT_MAC</Position>
+      <TranslationSet>
+        <base loc="en">Click the Record button to start a Voice Memo</base>
+        <tran loc="ar">اضغط على زر التسجيل لبدء مذكرة صوتية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DELETE_RANGE_CONFIRMATION_OPTION_USE_ORIGINAL</Position>
+      <TranslationSet>
+        <base loc="en">Delete From Original</base>
+        <tran loc="ar">حذف من الأصل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DELETE_MEMO_INFORMATION_ALERT_MESSAGE_ONE_DAY</Position>
+      <TranslationSet>
+        <base loc="en">Deleted Recordings will be available in the “Recently Deleted” folder for one day.</base>
+        <tran loc="ar">ستكون التسجيلات المحذوفة متوفرة في مجلد \"المحذوفة مؤخرًا\" لمدة يوم واحد.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SET_OUT_POINT</Position>
+      <TranslationSet>
+        <base loc="en">Set out point for insertion</base>
+        <tran loc="ar">تعيين نقطة للإدخال</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>QUALITY_UNCOMPRESSED</Position>
+      <TranslationSet>
+        <base loc="en">Lossless</base>
+        <tran loc="ar">دون فقد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>QUALITY_AAC_AUDIO</Position>
+      <TranslationSet>
+        <base loc="en">Compressed</base>
+        <tran loc="ar">مضغوط</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AX_TRIM_DETAIL_WAVEFORM_START</Position>
+      <TranslationSet>
+        <base loc="en">Trim Beginning, Waveform Detail</base>
+        <tran loc="ar">قص البداية، تفاصيل شكل الموجة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PREPARING_TO_SHARE_MEMO_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Preparing…</base>
+        <tran loc="ar">جاري التحضير…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AX_ACTION_EDIT_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Edit Title</base>
+        <tran loc="ar">تحرير العنوان</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DUPLICATE_CURRENT_RECORDING_MENU_ITEM</Position>
+      <TranslationSet>
+        <base loc="en">Duplicate</base>
+        <tran loc="ar">تكرار</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Options in some toolbars and in the "..." menu
+ </Description>
+      <Position>DUPLICATE_MENU_ITEM</Position>
+      <TranslationSet>
+        <base loc="en">Duplicate</base>
+        <tran loc="ar">تكرار</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DEFAULT_RECORDING_NUMBER</Position>
+      <TranslationSet>
+        <base loc="en">Recording Number</base>
+        <tran loc="ar">رقم التسجيل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>MEMO_IS_DOWNLOADING</Position>
+      <TranslationSet>
+        <base loc="en">Downloading…</base>
+        <tran loc="ar">جاري التنزيل…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ERASE_ALL_MEMOS_CONFIRMATION_ALERT_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Are you sure you want to permanently delete all recordings?</base>
+        <tran loc="ar">هل ترغب بالتأكيد في حذف جميع التسجيلات؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SCRIBBLE</Position>
+      <TranslationSet>
+        <base loc="en">Scribble</base>
+        <tran loc="ar">رسم باليد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AX_TRIM_OVERVIEW_WAVEFORM_END</Position>
+      <TranslationSet>
+        <base loc="en">Trim End, Waveform Overview</base>
+        <tran loc="ar">قص النهاية، نظرة عامة على شكل الموجة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>MEMO_LABEL</Position>
+      <TranslationSet>
+        <base loc="en">Memo</base>
+        <tran loc="ar">مذكرة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> When applicable, the confirmation of using iCloud </Description>
+      <Position>POST_WELCOME_ICLOUD_CONFIRMATION_ALERT_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">iCloud Syncing</base>
+        <tran loc="ar">مزامنة iCloud</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> ---- Misc ----
+ </Description>
+      <Position>DELETE_MEMO_FORMAT</Position>
+      <TranslationSet>
+        <base loc="en">Delete “%@”</base>
+        <tran loc="ar">حذف \"%@\"</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ERASE_RECENTLY_DELETED_ONE_DAY</Position>
+      <TranslationSet>
+        <base loc="en">After 1 Day</base>
+        <tran loc="ar">بعد يوم واحد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PODCAST_LABEL</Position>
+      <TranslationSet>
+        <base loc="en">Podcast</base>
+        <tran loc="ar">بودكاست</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>APPEND</Position>
+      <TranslationSet>
+        <base loc="en">Append</base>
+        <tran loc="ar">إلحاق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>OK</Position>
+      <TranslationSet>
+        <base loc="en">OK</base>
+        <tran loc="ar">موافق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> ------ Accessibility --------- </Description>
+      <Position>REWIND_BUTTON</Position>
+      <TranslationSet>
+        <base loc="en">Rewind, 15 seconds</base>
+        <tran loc="ar">ترجيع، ١٥ ثانية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>RECORDING_NOT_AVAILABLE_ON_WATCH_ALERT_MESSAGE</Position>
+      <TranslationSet>
+        <base loc="en">“%@” is available in Voice Memos on your iOS device or Mac.</base>
+        <tran loc="ar">‏\"%@\" متوفر على تطبيق المذكرات الصوتية على أجهزة iOS أو Mac الخاصة بك.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ENDED_EDITING</Position>
+      <TranslationSet>
+        <base loc="en">Ended editing</base>
+        <tran loc="ar">أنهى التحرير</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> ---- Recording Table ----
+ </Description>
+      <Position>EMPTY_LIBRARY_TEXT</Position>
+      <TranslationSet>
+        <base loc="en">Tap the Record button to start a Voice Memo</base>
+        <tran loc="ar">اضغط على زر التسجيل لبدء مذكرة صوتية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>WELCOME_ITEM_1_DESCRIPTION</Position>
+      <TranslationSet>
+        <base loc="en">Create recordings on your iPhone, iPad, or Mac and iCloud will sync them across all your devices.</base>
+        <tran loc="ar">يمكنك إنشاء التسجيلات على الـ iPhone أو الـ iPad أو الـ Mac، وستتم مزامنتها عبر iCloud على جميع أجهزتك.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> ---- Recording Table Cells ----
+ </Description>
+      <Position>EDIT</Position>
+      <TranslationSet>
+        <base loc="en">Edit</base>
+        <tran loc="ar">تحرير</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>WELCOME_ITEM_3_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Now on Apple Watch</base>
+        <tran loc="ar">الآن على Apple Watch</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PREPARE_TO_SHARE_MEMO_FAILED_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Preparing Failed</base>
+        <tran loc="ar">فشل التحضير</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AX_DURATION</Position>
+      <TranslationSet>
+        <base loc="en">Duration</base>
+        <tran loc="ar">المدة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DURATION</Position>
+      <TranslationSet>
+        <base loc="en">Duration</base>
+        <tran loc="ar">المدة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>LECTURE_LABEL</Position>
+      <TranslationSet>
+        <base loc="en">Lecture</base>
+        <tran loc="ar">محاضرة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CARD_OVERLAY</Position>
+      <TranslationSet>
+        <base loc="en">Card Overlay</base>
+        <tran loc="ar">تراكب البطاقة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>RECORDING_PAUSED_STATUS_BAR_FORMAT</Position>
+      <TranslationSet>
+        <base loc="en">Recording Paused  %@</base>
+        <tran loc="ar">إيقاف مؤقت للتسجيل  %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> ---- Standard items ----
+ </Description>
+      <Position>CANCEL</Position>
+      <TranslationSet>
+        <base loc="en">Cancel</base>
+        <tran loc="ar">إلغاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ERASE_RECENTLY_DELETED_SEVEN_DAYS</Position>
+      <TranslationSet>
+        <base loc="en">After 7 Days</base>
+        <tran loc="ar">بعد ٧ أيام</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>MORE_ACTIONS</Position>
+      <TranslationSet>
+        <base loc="en">More Actions</base>
+        <tran loc="ar">المزيد من الإجراءات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>WAVEFORM_SELECTION_START_TIME_BAR</Position>
+      <TranslationSet>
+        <base loc="en">Beginning of selection</base>
+        <tran loc="ar">بداية التحديد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CREATE_RECORDING_FAILED_ALERT_MESSAGE_NO_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">There was a problem creating or saving the voice memo.</base>
+        <tran loc="ar">حدثت مشكلة أثناء إنشاء أو حفظ المذكرة الصوتية.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>POST_WELCOME_ICLOUD_CONFIRMATION_ALERT_DESCRIPTION</Position>
+      <TranslationSet>
+        <base loc="en">iCloud for Voice Memos is off. Enabling iCloud for Voice Memos will allow you to access and synchronize your recordings across all of your devices.</base>
+        <tran loc="ar">‏iCloud متوقف لتطبيق المذكرات الصوتية. سيؤدي تمكين iCloud لتطبيق مذكرات صوتية من الوصول إلى تسجيلاتك ومزامنتها على جميع أجهزتك.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ERASE_RECENTLY_DELETED_THIRTY_DAYS</Position>
+      <TranslationSet>
+        <base loc="en">After 30 Days</base>
+        <tran loc="ar">بعد ٣٠ يومًا</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>EMPTY_LIBRARY_TEXT_WATCH</Position>
+      <TranslationSet>
+        <base loc="en">Tap to record.</base>
+        <tran loc="ar">اضغط للتسجيل.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ROUTE_AX_SPEAKER</Position>
+      <TranslationSet>
+        <base loc="en">Speaker On</base>
+        <tran loc="ar">تشغيل السماعة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>TRACK_SLIDER</Position>
+      <TranslationSet>
+        <base loc="en">Track Position</base>
+        <tran loc="ar">موضع المسار</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DELETE_MEMO_INFORMATION_ALERT_MESSAGE_THIRTY_DAYS</Position>
+      <TranslationSet>
+        <base loc="en">Deleted Recordings will be available in the “Recently Deleted” folder for 30 days.</base>
+        <tran loc="ar">ستكون التسجيلات المحذوفة متوفرة في مجلد \"المحذوفة مؤخرًا\" لمدة ٣٠ يومًا</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PLAY</Position>
+      <TranslationSet>
+        <base loc="en">Play</base>
+        <tran loc="ar">تشغيل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SETTINGS_AUDIO_COMPRESSION_QUALITY</Position>
+      <TranslationSet>
+        <base loc="en">Audio Quality</base>
+        <tran loc="ar">جودة الصوت</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DELETE_RANGE_CONFIRMATION_OPTION_SAVE_AS_NEW</Position>
+      <TranslationSet>
+        <base loc="en">Save As New Recording</base>
+        <tran loc="ar">حفظ كتسجيل جديد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>TRIM_TO_RANGE_CONFIRMATION_OPTION_SAVE_AS_NEW</Position>
+      <TranslationSet>
+        <base loc="en">Save As New Recording</base>
+        <tran loc="ar">حفظ كتسجيل جديد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DELETE_MEMO_INFORMATION_ALERT_ONE</Position>
+      <TranslationSet>
+        <base loc="en">Recording moved to “Recently Deleted”</base>
+        <tran loc="ar">تم نقل التسجيل إلى \"المحذوفة مؤخرًا\"</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>WAVEFORM_SELECTION_HINT</Position>
+      <TranslationSet>
+        <base loc="en">Double tap and hold, then drag to edit selection</base>
+        <tran loc="ar">اضغط مرتين مطولاً، ثم اسحب لتحرير ما تم تحديده</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> The title of the button for closing the Welcome screen. </Description>
+      <Position>WELCOME_CONTINUE</Position>
+      <TranslationSet>
+        <base loc="en">Continue</base>
+        <tran loc="ar">متابعة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UNABLE_TO_RECORD_WITH_ACTIVE_PHONE_CALL_BODY</Position>
+      <TranslationSet>
+        <base loc="en">To record voice memos, end call.</base>
+        <tran loc="ar">لتسجيل مذكرات صوتية، قم بإنهاء المكالمة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>INSERT_START_ANNOUNCE</Position>
+      <TranslationSet>
+        <base loc="en">Insert mode started. Tap on Insert button to insert recording.</base>
+        <tran loc="ar">بدأ نمط الإدراج. اضغط على زر الإدراج لإدراج التسجيل.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ROUTE_AX_HANDSET</Position>
+      <TranslationSet>
+        <base loc="en">Speaker Off</base>
+        <tran loc="ar">إيقاف السماعة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>WAVEFORM_SELECTION_END_TIME_BAR</Position>
+      <TranslationSet>
+        <base loc="en">End of selection</base>
+        <tran loc="ar">نهاية التحديد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SKIP_BACKWARD</Position>
+      <TranslationSet>
+        <base loc="en">Jump Backward 15s</base>
+        <tran loc="ar">عودة للخلف ١٥ث</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DEFAULT_RECORDING_NAME_BY_LOCATION</Position>
+      <TranslationSet>
+        <base loc="en">Current Location</base>
+        <tran loc="ar">الموقع الحالي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>WELCOME_ITEM_2_DESCRIPTION</Position>
+      <TranslationSet>
+        <base loc="en">Features like trim, replace, and resume let you fine-tune recordings and keep just the parts you want.</base>
+        <tran loc="ar">تسمح لك الميزات، مثل القص والاستبدال والاستئناف، بضبط التسجيلات والاحتفاظ بالأجزاء التي تريدها فقط.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CREATE_DATABASE_FAILED_ALERT_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Unable to Create Application Resources</base>
+        <tran loc="ar">غير قادر على إنشاء مصادر التطبيق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>TRIM_END_ANNOUNCE</Position>
+      <TranslationSet>
+        <base loc="en">Trim mode ended.</base>
+        <tran loc="ar">انتهى نمط الاقتصاص.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PREPARE_TO_SHARE_MEMO_FAILED_MESSAGE_FORMAT</Position>
+      <TranslationSet>
+        <base loc="en">“%@” is being optimized for sharing at this time.</base>
+        <tran loc="ar">يتم تحسين \"%@\" للمشاركة في هذا الوقت.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>NONE_LABEL</Position>
+      <TranslationSet>
+        <base loc="en">None</base>
+        <tran loc="ar">لا شيء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> ------ Settings ------ </Description>
+      <Position>VOICE_MEMOS_SETTINGS</Position>
+      <TranslationSet>
+        <base loc="en">Voice Memos Settings</base>
+        <tran loc="ar">إعدادات المذكرات الصوتية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DICTATION</Position>
+      <TranslationSet>
+        <base loc="en">Dictation</base>
+        <tran loc="ar">الإملاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UNABLE_TO_RECORD_WITH_ACTIVE_PHONE_CALL_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Recording Disabled</base>
+        <tran loc="ar">تم إيقاف التسجيل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SHARE_CURRENT_RECORDING_MENU_ITEM</Position>
+      <TranslationSet>
+        <base loc="en">Share…</base>
+        <tran loc="ar">مشاركة…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AX_ACTION_RECOVER</Position>
+      <TranslationSet>
+        <base loc="en">Recover</base>
+        <tran loc="ar">استرداد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>RECOVER</Position>
+      <TranslationSet>
+        <base loc="en">Recover</base>
+        <tran loc="ar">استرداد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>EDIT_MODE_UNDO_BUTTON_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Undo</base>
+        <tran loc="ar">تراجع</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CARD_OVERLAY_HALF_SCREEN</Position>
+      <TranslationSet>
+        <base loc="en">Half Screen</base>
+        <tran loc="ar">نصف الشاشة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> ---- Editing Progress ----
+ </Description>
+      <Position>SAVING_CHANGES</Position>
+      <TranslationSet>
+        <base loc="en">Saving changes…</base>
+        <tran loc="ar">جاري حفظ التغييرات…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Label to use when recordings have been uploaded to iCloud and some have been cleared by the device to free up storage</Description>
+      <Position>LIBRARY_TEXT_WATCH_ALSO_IN_ICLOUD_AND_HAVE_BEEN_REMOVED</Position>
+      <TranslationSet>
+        <base loc="en">Older recordings are in Voice Memos on your iPhone, iPad and Mac.</base>
+        <tran loc="ar">توجد التسجيلات القديمة في تطبيق المذكرات الصوتية على iPhone و iPad و Mac.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>RECOVER_ALL</Position>
+      <TranslationSet>
+        <base loc="en">Recover All</base>
+        <tran loc="ar">استرداد الكل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AX_WAVEFORM</Position>
+      <TranslationSet>
+        <base loc="en">Waveform</base>
+        <tran loc="ar">شكل الموجة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>LOW_DISK_SPACE_ALERT_BODY</Position>
+      <TranslationSet>
+        <base loc="en">There is not enough disk space to continue recording voice memos. Make room by deleting existing videos or photos.</base>
+        <tran loc="ar">ليست هناك مساحة كافية على القرص لمواصلة تسجيل المذكرات الصوتية. قم بتوفير مساحة وذلك بحذف الفيديوهات أو الصور الموجودة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SHOW_ALL_RECORDINGS_ON_WATCH</Position>
+      <TranslationSet>
+        <base loc="en">All Recordings</base>
+        <tran loc="ar">جميع التسجيلات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>INSERT_START_ANNOUNCE_MAC</Position>
+      <TranslationSet>
+        <base loc="en">Insert mode started. Click on Insert button to insert recording.</base>
+        <tran loc="ar">بدأ نمط الإدراج. اضغط على زر الإدراج لإدراج التسجيل.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SHARING_EXT_TEXT</Position>
+      <TranslationSet>
+        <base loc="en">Save to Voice Memos</base>
+        <tran loc="ar">حفظ في المذكرات الصوتية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AX_CURRENT_TIME</Position>
+      <TranslationSet>
+        <base loc="en">Current Time</base>
+        <tran loc="ar">الوقت الحالي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DEMO_TIME_LIMIT_REACHED_BODY-%@</Position>
+      <TranslationSet>
+        <base loc="en">In store demo mode, recordings are limited to </base>
+        <tran loc="ar">في نمط العرض التجريبي بالمتجر، تكون التسجيلات محدودة بـ </tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>FULL_SCREEN</Position>
+      <TranslationSet>
+        <base loc="en">Switch to full screen playback view</base>
+        <tran loc="ar">تبديل إلى عرض التشغيل بملء الشاشة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>REPLACE</Position>
+      <TranslationSet>
+        <base loc="en">Replace</base>
+        <tran loc="ar">استبدال</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>EDIT_NAME_ON_WATCH_NOWPLAYING</Position>
+      <TranslationSet>
+        <base loc="en">Edit Name</base>
+        <tran loc="ar">تحرير الاسم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>TRIM_CURRENT_RECORDING_MENU_ITEM</Position>
+      <TranslationSet>
+        <base loc="en">Trim Recording</base>
+        <tran loc="ar">قص التسجيل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> ---- Recording Errors ----
+ </Description>
+      <Position>UNABLE_TO_RECORD_ALERT_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">No Microphone Available</base>
+        <tran loc="ar">لا يوجد ميكروفون متوفر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>RESUME</Position>
+      <TranslationSet>
+        <base loc="en">Resume</base>
+        <tran loc="ar">استئناف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CARD_OVERLAY_AX_HINTS</Position>
+      <TranslationSet>
+        <base loc="en">Adjusts the size of the overlay</base>
+        <tran loc="ar">يضبط حجم التراكب.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AX_DETAIL_WAVEFORM</Position>
+      <TranslationSet>
+        <base loc="en">Waveform Detail</base>
+        <tran loc="ar">تفاصيل شكل الموجة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CUSTOM_LABEL</Position>
+      <TranslationSet>
+        <base loc="en">Custom</base>
+        <tran loc="ar">مخصص</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AX_RECORDING_UNAVAILABLE</Position>
+      <TranslationSet>
+        <base loc="en">Recording is not available. Return to main screen.</base>
+        <tran loc="ar">التسجيل غير متوفر. العودة إلى الشاشة الرئيسية.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ERASE_MEMO_CONFIRMATION_ALERT_TITLE_IPHONE</Position>
+      <TranslationSet>
+        <base loc="en">These recordings will be deleted. This action cannot be undone.</base>
+        <tran loc="ar">سيتم حذف هذه التسجيلات. لا يمكن التراجع عن هذا الإجراء.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ERASE_MEMO_CONFIRMATION_ALERT_TITLE_IPHONE_ONE_SELECTION</Position>
+      <TranslationSet>
+        <base loc="en">This recording will be deleted. This action cannot be undone.</base>
+        <tran loc="ar">سيتم حذف هذا التسجيل. لا يمكن التراجع عن هذا الإجراء.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AX_RECORDING_LIST</Position>
+      <TranslationSet>
+        <base loc="en">Library</base>
+        <tran loc="ar">المكتبة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>LOW_DISK_SPACE_ALERT_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Low Disk Space</base>
+        <tran loc="ar">مساحة القرص منخفضة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>WELCOME_ITEM_2_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Editing tools</base>
+        <tran loc="ar">أدوات التحرير</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AX_DIMMED_VALUE</Position>
+      <TranslationSet>
+        <base loc="en">Dimmed</base>
+        <tran loc="ar">باهت</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AX_TRIM_OVERVIEW_WAVEFORM_START</Position>
+      <TranslationSet>
+        <base loc="en">Trim Beginning, Waveform Overview</base>
+        <tran loc="ar">قص البداية، نظرة عامة على شكل الموجة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> ------ Key Commands ------ </Description>
+      <Position>MOVE_SELECTION_UP</Position>
+      <TranslationSet>
+        <base loc="en">Move Selection Up</base>
+        <tran loc="ar">نقل التحديد إلى الأعلى</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> ------ Errors ------ </Description>
+      <Position>ERROR_RECORDING_FAILED</Position>
+      <TranslationSet>
+        <base loc="en">Recording Failed</base>
+        <tran loc="ar">فشل التسجيل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>STOP</Position>
+      <TranslationSet>
+        <base loc="en">Stop</base>
+        <tran loc="ar">إيقاف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>RECORDING_COPY_SUFFIX</Position>
+      <TranslationSet>
+        <base loc="en"> copy</base>
+        <tran loc="ar"> (نسخة)</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>RECENTLY_DELETED</Position>
+      <TranslationSet>
+        <base loc="en">Recently Deleted</base>
+        <tran loc="ar">محذوفة مؤخرًا</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>RECOVER_RECORDING_ACTION</Position>
+      <TranslationSet>
+        <base loc="en">recover recording</base>
+        <tran loc="ar">استعادة التسجيل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>TITLE_FOR_OVERDUB_REDO</Position>
+      <TranslationSet>
+        <base loc="en">New Recording</base>
+        <tran loc="ar">تسجيل جديد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> ---- Undo Titles ----
+ 
+ The undo title will read: "Undo &lt;TITLE_FOR_OVERDUB_UNDO&gt;"</Description>
+      <Position>TITLE_FOR_OVERDUB_UNDO</Position>
+      <TranslationSet>
+        <base loc="en">New Recording</base>
+        <tran loc="ar">تسجيل جديد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> ---- Recording Titles / Labels ----
+ 
+ Base label to use when creating a new recording.  If "New Recording" already exists, the _1, _2_N formats will be used to create a unique name.</Description>
+      <Position>UNTITLED_NEW_RECORDING_LABEL</Position>
+      <TranslationSet>
+        <base loc="en">New Recording</base>
+        <tran loc="ar">تسجيل جديد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Track Position slider value. Important for VoiceOver too. 
+"First variable is current time string, Second variable is total duration string, for example: 2 seconds of 30 seconds" </Description>
+      <Position>DURATION_PROGRESS</Position>
+      <TranslationSet>
+        <base loc="en">%@ of %@</base>
+        <tran loc="ar">‏%@ من %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> ----- Undo Actions ----- </Description>
+      <Position>DELETE_RECORDING_ACTION</Position>
+      <TranslationSet>
+        <base loc="en">delete recording</base>
+        <tran loc="ar">حذف التسجيل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ERASE_RECENTLY_DELETED_NEVER</Position>
+      <TranslationSet>
+        <base loc="en">Never</base>
+        <tran loc="ar">مطلقًا</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SETTINGS_USE_LOCATION_BASED_NAMING</Position>
+      <TranslationSet>
+        <base loc="en">Location-based Naming</base>
+        <tran loc="ar">التسمية المستندة إلى الموقع</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>EDIT_MODE_INSERT_BUTTON_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Insert</base>
+        <tran loc="ar">إدراج</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>EDIT_MODE_INSERT_VIEW_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Insert</base>
+        <tran loc="ar">إدراج</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>INSERT</Position>
+      <TranslationSet>
+        <base loc="en">Insert</base>
+        <tran loc="ar">إدراج</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>INSERT_IN_CURRENT_RECORDING_MENU_ITEM</Position>
+      <TranslationSet>
+        <base loc="en">Insert</base>
+        <tran loc="ar">إدخال</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SHARE_BUTTON</Position>
+      <TranslationSet>
+        <base loc="en">Share</base>
+        <tran loc="ar">مشاركة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SHARE_MENU_ITEM</Position>
+      <TranslationSet>
+        <base loc="en">Share</base>
+        <tran loc="ar">مشاركة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>RECORDING_PAUSED_LOCKSCREEN_LABEL</Position>
+      <TranslationSet>
+        <base loc="en">Paused</base>
+        <tran loc="ar">تم الإيقاف مؤقتًا</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>TRIM_TO_RANGE_CONFIRMATION_OPTION_USE_ORIGINAL</Position>
+      <TranslationSet>
+        <base loc="en">Trim Original</base>
+        <tran loc="ar">قص المقطع الأصلي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AX_TRIM_BUTTON</Position>
+      <TranslationSet>
+        <base loc="en">Trim</base>
+        <tran loc="ar">قص</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>EDIT_MODE_TRIM_BUTTON_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Trim</base>
+        <tran loc="ar">قص</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>EDIT_MODE_TRIM_VIEW_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Trim</base>
+        <tran loc="ar">قص</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>TITLE_FOR_TRIM_TO_RANGE_REDO</Position>
+      <TranslationSet>
+        <base loc="en">Trim</base>
+        <tran loc="ar">قص</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>TITLE_FOR_TRIM_TO_RANGE_UNDO</Position>
+      <TranslationSet>
+        <base loc="en">Trim</base>
+        <tran loc="ar">قص</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> ---- Trim Sheet (public trim sheet) ----
+ </Description>
+      <Position>TRIM_DIALOG_TRIM_BUTTON_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Trim</base>
+        <tran loc="ar">قص</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> ---- Trim / Delete Confirmation (in app's edit screen) ----
+ </Description>
+      <Position>TRIM_TO_RANGE_CONFIRMATION_ACTION_TITLE_TRIM</Position>
+      <TranslationSet>
+        <base loc="en">Trim</base>
+        <tran loc="ar">قص</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>WELCOME_ITEM_1_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Your recordings, everywhere</base>
+        <tran loc="ar">تسجيلاتك في كل مكان</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>INSERT_END_ANNOUNCE</Position>
+      <TranslationSet>
+        <base loc="en">Insert mode ended.</base>
+        <tran loc="ar">انتهى نمط الإدارج.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SETTINGS_PERMANENTLY_DELETE</Position>
+      <TranslationSet>
+        <base loc="en">Clear Deleted</base>
+        <tran loc="ar">حذف العناصر المحذوفة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>EDIT_NAME_OF_NEW_RECORDING_ALERT_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">New Voice Memo</base>
+        <tran loc="ar">مذكرة صوتية جديدة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DELETE_MEMO_INFORMATION_ALERT_MULTIPLE</Position>
+      <TranslationSet>
+        <base loc="en">Recordings moved  to “Recently Deleted”</base>
+        <tran loc="ar">تم نقل التسجيلات إلى \"المحذوفة مؤخرًا\"</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SKIP_FORWARD</Position>
+      <TranslationSet>
+        <base loc="en">Jump Forward 15s</base>
+        <tran loc="ar">تقديم ١٥ث</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Format to use when attempting to make a unique label.  Example: "My Recording", the first "Copy" would end up being "My Recording Copy", and 2nd would be "My Recording Copy 2"</Description>
+      <Position>RECORDING_LABEL_UNIQUENESS_FORMAT_1</Position>
+      <TranslationSet>
+        <base loc="en">%@</base>
+        <tran loc="ar">‏%@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PREPARING_TO_SHARE_MEMO_MESSAGE_FORMAT</Position>
+      <TranslationSet>
+        <base loc="en">“%@” is being optimized for sharing. This may take some time to complete.</base>
+        <tran loc="ar">يتم تحسين \"%@\" للمشاركة. قد يستغرق بعض الوقت حتى يكتمل.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SET_IN_POINT</Position>
+      <TranslationSet>
+        <base loc="en">Set in point for insertion</base>
+        <tran loc="ar">تعيين نقطة للإدخال</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>WELCOME_ITEM_3_DESCRIPTION</Position>
+      <TranslationSet>
+        <base loc="en">Capture and play back recordings right from your wrist with the new Voice Memos app for Apple Watch.</base>
+        <tran loc="ar">يمكنك إنشاء التسجيلات وإعادة تشغيلها من معصمك مباشرةً باستخدام تطبيق المذكرات الصوتية الجديد للـ Apple Watch.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CARD_OVERLAY_FULL_SCREEN</Position>
+      <TranslationSet>
+        <base loc="en">Full Screen</base>
+        <tran loc="ar">شاشة كاملة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>MEETING_LABEL</Position>
+      <TranslationSet>
+        <base loc="en">Meeting</base>
+        <tran loc="ar">اجتماع</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>MOVE_SELECTION_DOWN</Position>
+      <TranslationSet>
+        <base loc="en">Move Selection Down</base>
+        <tran loc="ar">نقل التحديد إلى الأسفل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>WAVEFORM_SELECTION_HINT_MAC</Position>
+      <TranslationSet>
+        <base loc="en">Double click and hold, then drag to edit selection</base>
+        <tran loc="ar">اضغط مرتين مطولاً، ثم اسحب لتحرير ما تم تحديده</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>IDEA_LABEL</Position>
+      <TranslationSet>
+        <base loc="en">Idea</base>
+        <tran loc="ar">فكرة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>WAVEFORM_SELECTION_CHANGED_START_TIME</Position>
+      <TranslationSet>
+        <base loc="en">Moved beginning of selection</base>
+        <tran loc="ar">تم نقل بداية التحديد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> ------ Menu Items ------ </Description>
+      <Position>START_NEW_RECORDING_MENU_ITEM</Position>
+      <TranslationSet>
+        <base loc="en">Start New Recording</base>
+        <tran loc="ar">بدء تسجيل جديد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PLAY_PAUSE_CURRENT_RECORDING_MENU_ITEM</Position>
+      <TranslationSet>
+        <base loc="en">Play/Pause Recording</base>
+        <tran loc="ar">تشغيل/إيقاف التسجيل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PLAY_CURRENT_SELECTION</Position>
+      <TranslationSet>
+        <base loc="en">Play/Pause Selected Voice Memo</base>
+        <tran loc="ar">تشغيل/إيقاف تشغيل المذكرات الصوتية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DELETE_FOREVER</Position>
+      <TranslationSet>
+        <base loc="en">Delete Forever</base>
+        <tran loc="ar">حذف للأبد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> ---- Navigation Titles ----
+ 
+ default navigation title in the edit screen</Description>
+      <Position>EDIT_MEMO_SCREEN_DEFAULT_NAVIGATION_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Record</base>
+        <tran loc="ar">تسجيل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>RECORD</Position>
+      <TranslationSet>
+        <base loc="en">Record</base>
+        <tran loc="ar">تسجيل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>WATCH_DELETE_MEMO_CONFIRMATION_ALERT_FORMAT</Position>
+      <TranslationSet>
+        <base loc="en">“%@” will be permanently erased.</base>
+        <tran loc="ar">سيتم مسح \"%@\" نهائيًا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CREATE_DATABASE_FAILED_ALERT_MESSAGE</Position>
+      <TranslationSet>
+        <base loc="en">There was a problem creating some application resources. Make room by deleting existing videos or photos.</base>
+        <tran loc="ar">هناك مشكلة في إنشاء بعض مصادر التطبيق. قم بتوفير مساحة وذلك بحذف الفيديوهات أو الصور الموجودة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>NO_NEW_RECORDINGS_LABEL</Position>
+      <TranslationSet>
+        <base loc="en">No recordings</base>
+        <tran loc="ar">لا يوجد تسجيلات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AX_OVERVIEW_WAVEFORM</Position>
+      <TranslationSet>
+        <base loc="en">Waveform Overview</base>
+        <tran loc="ar">شكل موجة عام</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UNLOCK</Position>
+      <TranslationSet>
+        <base loc="en">Unlock</base>
+        <tran loc="ar">فتح القفل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Navigation title that shows on the main screen (when not recording)</Description>
+      <Position>DEFAULT_NAVIGATION_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Voice Memos</base>
+        <tran loc="ar">المذكرات الصوتية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>VOICE_MEMOS_APP_NAME</Position>
+      <TranslationSet>
+        <base loc="en">Voice Memos</base>
+        <tran loc="ar">المذكرات الصوتية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> The app name only. This is the part of WELCOME_TITLE_FULL that will be displayed in blue. The app name should not include inflection characters, for example, that may be present in WELCOME_TITLE_FULL. </Description>
+      <Position>WELCOME_TITLE_APP_NAME</Position>
+      <TranslationSet>
+        <base loc="en">Voice Memos</base>
+        <tran loc="ar">المذكرات الصوتية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AX_TRIM_DETAIL_WAVEFORM_END</Position>
+      <TranslationSet>
+        <base loc="en">Trim End, Waveform Detail</base>
+        <tran loc="ar">قص النهاية، تفاصيل شكل الموجة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CREATE_RECORDING_FAILED_ALERT_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Unable to Create Voice Memo</base>
+        <tran loc="ar">غير قادر على إنشاء المذكرة الصوتية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DELETE_MEMO_NO_LABEL</Position>
+      <TranslationSet>
+        <base loc="en">Delete Memo</base>
+        <tran loc="ar">حذف المذكرة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DELETE_CURRENT_SELECTION</Position>
+      <TranslationSet>
+        <base loc="en">Delete Current Selection</base>
+        <tran loc="ar">حذف التحديد الحالي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PAUSE</Position>
+      <TranslationSet>
+        <base loc="en">Pause</base>
+        <tran loc="ar">إيقاف مؤقت</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ERROR_NO_AUDIO_DEVICES_FOUND</Position>
+      <TranslationSet>
+        <base loc="en">No audio devices found.</base>
+        <tran loc="ar">لم يتم العثور على أجهزة صوت.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SAVE</Position>
+      <TranslationSet>
+        <base loc="en">Save</base>
+        <tran loc="ar">حفظ</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>VoiceMemos/System/Applications/VoiceMemos.app/Contents/Resources/en.lproj/Localizable-OrbHW.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>START_RECORDING_QUICK_ACTION_TITLE_DOCK</Position>
+      <TranslationSet>
+        <base loc="en">New Recording…</base>
+        <tran loc="ar">تسجيل جديد…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 
+  Localizable-OrbHW.strings
+  VoiceMemos
+
+  Created by Kevin Jorgensen on 4/28/15.
+  Copyright © 2015 Apple Inc. All rights reserved.
+</Description>
+      <Position>START_RECORDING_QUICK_ACTION_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">New Recording</base>
+        <tran loc="ar">تسجيل جديد</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>VoiceMemos/System/iOSSupport/System/Library/PrivateFrameworks/VoiceMemos.framework/Versions/A/Resources/en.lproj/Localizable.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>INSERT_MODE_OUT_BUTTON_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Out</base>
+        <tran loc="ar">خروج</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Label to use when ALL recordings have been uploaded to iCloud (but not cleared by the device running out of space)</Description>
+      <Position>LIBRARY_TEXT_WATCH_ICLOUD_COMPLETE</Position>
+      <TranslationSet>
+        <base loc="en">Recordings are also in Voice Memos on your iPhone, iPad and Mac.</base>
+        <tran loc="ar">توجد التسجيلات أيضًا في تطبيق المذكرات الصوتية على iPhone و iPad و Mac.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Formatting to use when making a copy of a recording.  Example: "My Recording" becomes "My Recording copy"</Description>
+      <Position>RECORDING_COPY_FORMAT</Position>
+      <TranslationSet>
+        <base loc="en">%@ copy</base>
+        <tran loc="ar">نسخة من %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>EDIT_NAME_OF_NEW_RECORDING_ALERT_MESSAGE</Position>
+      <TranslationSet>
+        <base loc="en">Enter a name for this voice memo.</base>
+        <tran loc="ar">أدخل اسمًا لهذه المذكرة الصوتية.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>EDIT_NAME_OF_RECORDING_ALERT_MESSAGE</Position>
+      <TranslationSet>
+        <base loc="en">Enter a name for this voice memo.</base>
+        <tran loc="ar">أدخل اسمًا لهذه المذكرة الصوتية.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ERASE_RECENTLY_DELETED_IMMEDIATELY</Position>
+      <TranslationSet>
+        <base loc="en">Immediately</base>
+        <tran loc="ar">فورًا</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CREATE_RECORDING_FAILED_ALERT_MESSAGE</Position>
+      <TranslationSet>
+        <base loc="en">There was a problem creating or saving “%@”.</base>
+        <tran loc="ar">حدثت مشكلة أثناء إنشاء أو حفظ \"%@\".</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SAVING_IN_PROGRESS_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Saving…</base>
+        <tran loc="ar">جاري الحفظ…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>RECORDING_ACTIVE_LOCKSCREEN_LABEL</Position>
+      <TranslationSet>
+        <base loc="en">Recording</base>
+        <tran loc="ar">جاري التسجيل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>RECORDING_MENU</Position>
+      <TranslationSet>
+        <base loc="en">Recording</base>
+        <tran loc="ar">تسجيل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>RECORDING_SEARCH_KEYWORD_RECORDING</Position>
+      <TranslationSet>
+        <base loc="en">Recording</base>
+        <tran loc="ar">تسجيل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Base label to use when creating a new recording on Apple Watch.  If "Recording" already exists, the _1, _2_N formats will be used to create a unique name.</Description>
+      <Position>UNTITLED_NEW_WATCH_RECORDING_LABEL</Position>
+      <TranslationSet>
+        <base loc="en">Recording</base>
+        <tran loc="ar">تسجيل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> ---- Time / Duration Formats ----
+ </Description>
+      <Position>RECORDING_STATUS_BAR_FORMAT</Position>
+      <TranslationSet>
+        <base loc="en">Recording  %@</base>
+        <tran loc="ar">جاري التسجيل  %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> ----- Siri Actions ----- </Description>
+      <Position>RECORD_NEW_VOICE_MEMO_INVOCATION_PHRASE</Position>
+      <TranslationSet>
+        <base loc="en">Record new voice memo.</base>
+        <tran loc="ar">تسجيل مذكرة صوتية جديدة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Label to use when not all recordings have been uploaded to iCloud (but iCloud is also enabled)</Description>
+      <Position>LIBRARY_TEXT_WATCH_ICLOUD_INCOMPLETE</Position>
+      <TranslationSet>
+        <base loc="en">Recordings will also be in Voice Memos on your iPhone, iPad and Mac.</base>
+        <tran loc="ar">ستكون التسجيلات موجودة أيضًا في تطبيق المذكرات الصوتية على iPhone و iPad و Mac.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UNABLE_TO_RECORD_ALERT_BODY</Position>
+      <TranslationSet>
+        <base loc="en">Connect a microphone to record voice memos.</base>
+        <tran loc="ar">قم بتوصيل الميكروفون لتسجيل المذكرات الصوتية.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DELETE_MEMO_INFORMATION_ALERT_MESSAGE_SEVEN_DAYS</Position>
+      <TranslationSet>
+        <base loc="en">Deleted Recordings will be available in the “Recently Deleted” folder for seven days.</base>
+        <tran loc="ar">ستكون التسجيلات المحذوفة متوفرة في مجلد \"المحذوفة مؤخرًا\" لمدة سبعة أيام.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DELETE</Position>
+      <TranslationSet>
+        <base loc="en">Delete</base>
+        <tran loc="ar">حذف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DELETE_RANGE_CONFIRMATION_ACTION_TITLE_DELETE</Position>
+      <TranslationSet>
+        <base loc="en">Delete</base>
+        <tran loc="ar">حذف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>EDIT_MODE_DELETE_BUTTON_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Delete</base>
+        <tran loc="ar">حذف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>TITLE_FOR_DELETE_RANGE_REDO</Position>
+      <TranslationSet>
+        <base loc="en">Delete</base>
+        <tran loc="ar">حذف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>TITLE_FOR_DELETE_RANGE_UNDO</Position>
+      <TranslationSet>
+        <base loc="en">Delete</base>
+        <tran loc="ar">حذف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>WAVEFORM_SELECTION_CHANGED_END_TIME</Position>
+      <TranslationSet>
+        <base loc="en">Moved end of selection</base>
+        <tran loc="ar">تم نقل نهاية التحديد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CURRENT_POSITION</Position>
+      <TranslationSet>
+        <base loc="en">Current Position</base>
+        <tran loc="ar">الموضع الحالي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>INTERVIEW_LABEL</Position>
+      <TranslationSet>
+        <base loc="en">Interview</base>
+        <tran loc="ar">مقابلة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>RECORDING_LABEL_UNIQUENESS_FORMAT_2_N</Position>
+      <TranslationSet>
+        <base loc="en">%@ %@</base>
+        <tran loc="ar">%@ %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DEMO_TIME_LIMIT_REACHED_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Recording Stopped</base>
+        <tran loc="ar">تم إيقاف التسجيل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>INSERT_MODE_IN_BUTTON_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">In</base>
+        <tran loc="ar">دخول</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>RENAME_CURRENT_RECORDING_MENU_ITEM</Position>
+      <TranslationSet>
+        <base loc="en">Rename…</base>
+        <tran loc="ar">إعادة تسمية…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>FASTFORWARD_BUTTON</Position>
+      <TranslationSet>
+        <base loc="en">Fast Forward, 15 seconds</base>
+        <tran loc="ar">تقديم سريع، ١٥ ثانية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> ---- Save / Rename Dialog ----
+ </Description>
+      <Position>SAVE_MEMO_ALERT_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Save Voice Memo</base>
+        <tran loc="ar">حفظ المذكرة الصوتية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> ------ Welcome Screen ------ 
+ The complete title shown at the top of the Welcome page. Do not enclose the app name in quotes or other special characters. THE APP NAME WILL DISPLAYED IN BLUE TO HIGHLIGHT IT. </Description>
+      <Position>WELCOME_TITLE_FULL</Position>
+      <TranslationSet>
+        <base loc="en">Welcome to Voice Memos</base>
+        <tran loc="ar">مرحبا بك في المذكرات الصوتية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Label displayed when a recording has no custom label, the value after the - will be the creation date</Description>
+      <Position>UNNAMED_RECORDING_LABEL</Position>
+      <TranslationSet>
+        <base loc="en">Unnamed Recording</base>
+        <tran loc="ar">تسجيل بدون اسم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ROW_EXPANDED</Position>
+      <TranslationSet>
+        <base loc="en">Row expanded</base>
+        <tran loc="ar">صف موسع</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>EDIT_CURRENT_RECORDING_MENU_ITEM</Position>
+      <TranslationSet>
+        <base loc="en">Edit Recording</base>
+        <tran loc="ar">تحرير التسجيل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>EDIT_MENU_ITEM</Position>
+      <TranslationSet>
+        <base loc="en">Edit Recording</base>
+        <tran loc="ar">تحرير التسجيل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DELETE_MEMO_INFORMATION_ALERT_MESSAGE_FOREVER</Position>
+      <TranslationSet>
+        <base loc="en">Deleted Recordings will be available in the “Recently Deleted” folder.</base>
+        <tran loc="ar">ستكون التسجيلات المحذوفة متوفرة في مجلد \"المحذوفة مؤخرًا\".</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>POST_WELCOME_ICLOUD_CONFIRMATION_ALERT_BUTTON_TITLE_ENABLE</Position>
+      <TranslationSet>
+        <base loc="en">Enable</base>
+        <tran loc="ar">تمكين</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> ---- Route Item AX Strings ----
+ </Description>
+      <Position>ROUTE_AX_BLUETOOTH</Position>
+      <TranslationSet>
+        <base loc="en">Bluetooth Device</base>
+        <tran loc="ar">جهاز Bluetooth</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>EDIT_NAME_OF_RECORDING_ALERT_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Voice Memo</base>
+        <tran loc="ar">مذكرة صوتية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DELETE_ALL</Position>
+      <TranslationSet>
+        <base loc="en">Delete All</base>
+        <tran loc="ar">حذف الكل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ROUTE_AX_OTHER</Position>
+      <TranslationSet>
+        <base loc="en">AirPlay</base>
+        <tran loc="ar">‏AirPlay</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Force-Touch menu on watchOS in main Library view
+ </Description>
+      <Position>SHOW_LOCAL_RECORDINGS_ON_WATCH</Position>
+      <TranslationSet>
+        <base loc="en">Watch Recordings</base>
+        <tran loc="ar">تسجيلات Watch</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SETTINGS_DEFAULT_RECORDING_NAME</Position>
+      <TranslationSet>
+        <base loc="en">Default Name</base>
+        <tran loc="ar">اسم افتراضي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PLAYBACK_LATEST_VOICE_MEMO_INVOCATION_PHRASE</Position>
+      <TranslationSet>
+        <base loc="en">Playback the most recent voice memo</base>
+        <tran loc="ar">إعادة تشغيل أحدث مذكرة صوتية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DONE</Position>
+      <TranslationSet>
+        <base loc="en">Done</base>
+        <tran loc="ar">تم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>RESTORE_MEMO_ALERT_MESSAGE_MAC_ONLY</Position>
+      <TranslationSet>
+        <base loc="en">Recovered recordings will be moved back to the library.</base>
+        <tran loc="ar">سيتم نقل التسجيلات المستعادة إلى المكتبة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>EMPTY_LIBRARY_TEXT_MAC</Position>
+      <TranslationSet>
+        <base loc="en">Click the Record button to start a Voice Memo</base>
+        <tran loc="ar">اضغط على زر التسجيل لبدء مذكرة صوتية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DELETE_RANGE_CONFIRMATION_OPTION_USE_ORIGINAL</Position>
+      <TranslationSet>
+        <base loc="en">Delete From Original</base>
+        <tran loc="ar">حذف من الأصل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DELETE_MEMO_INFORMATION_ALERT_MESSAGE_ONE_DAY</Position>
+      <TranslationSet>
+        <base loc="en">Deleted Recordings will be available in the “Recently Deleted” folder for one day.</base>
+        <tran loc="ar">ستكون التسجيلات المحذوفة متوفرة في مجلد \"المحذوفة مؤخرًا\" لمدة يوم واحد.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SET_OUT_POINT</Position>
+      <TranslationSet>
+        <base loc="en">Set out point for insertion</base>
+        <tran loc="ar">تعيين نقطة للإدخال</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>QUALITY_UNCOMPRESSED</Position>
+      <TranslationSet>
+        <base loc="en">Lossless</base>
+        <tran loc="ar">دون فقد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>QUALITY_AAC_AUDIO</Position>
+      <TranslationSet>
+        <base loc="en">Compressed</base>
+        <tran loc="ar">مضغوط</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AX_TRIM_DETAIL_WAVEFORM_START</Position>
+      <TranslationSet>
+        <base loc="en">Trim Beginning, Waveform Detail</base>
+        <tran loc="ar">قص البداية، تفاصيل شكل الموجة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PREPARING_TO_SHARE_MEMO_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Preparing…</base>
+        <tran loc="ar">جاري التحضير…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AX_ACTION_EDIT_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Edit Title</base>
+        <tran loc="ar">تحرير العنوان</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DUPLICATE_CURRENT_RECORDING_MENU_ITEM</Position>
+      <TranslationSet>
+        <base loc="en">Duplicate</base>
+        <tran loc="ar">تكرار</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Options in some toolbars and in the "..." menu
+ </Description>
+      <Position>DUPLICATE_MENU_ITEM</Position>
+      <TranslationSet>
+        <base loc="en">Duplicate</base>
+        <tran loc="ar">تكرار</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DEFAULT_RECORDING_NUMBER</Position>
+      <TranslationSet>
+        <base loc="en">Recording Number</base>
+        <tran loc="ar">رقم التسجيل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>MEMO_IS_DOWNLOADING</Position>
+      <TranslationSet>
+        <base loc="en">Downloading…</base>
+        <tran loc="ar">جاري التنزيل…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ERASE_ALL_MEMOS_CONFIRMATION_ALERT_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Are you sure you want to permanently delete all recordings?</base>
+        <tran loc="ar">هل ترغب بالتأكيد في حذف جميع التسجيلات؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SCRIBBLE</Position>
+      <TranslationSet>
+        <base loc="en">Scribble</base>
+        <tran loc="ar">رسم باليد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AX_TRIM_OVERVIEW_WAVEFORM_END</Position>
+      <TranslationSet>
+        <base loc="en">Trim End, Waveform Overview</base>
+        <tran loc="ar">قص النهاية، نظرة عامة على شكل الموجة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>MEMO_LABEL</Position>
+      <TranslationSet>
+        <base loc="en">Memo</base>
+        <tran loc="ar">مذكرة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> When applicable, the confirmation of using iCloud </Description>
+      <Position>POST_WELCOME_ICLOUD_CONFIRMATION_ALERT_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">iCloud Syncing</base>
+        <tran loc="ar">مزامنة iCloud</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> ---- Misc ----
+ </Description>
+      <Position>DELETE_MEMO_FORMAT</Position>
+      <TranslationSet>
+        <base loc="en">Delete “%@”</base>
+        <tran loc="ar">حذف \"%@\"</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ERASE_RECENTLY_DELETED_ONE_DAY</Position>
+      <TranslationSet>
+        <base loc="en">After 1 Day</base>
+        <tran loc="ar">بعد يوم واحد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PODCAST_LABEL</Position>
+      <TranslationSet>
+        <base loc="en">Podcast</base>
+        <tran loc="ar">بودكاست</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>APPEND</Position>
+      <TranslationSet>
+        <base loc="en">Append</base>
+        <tran loc="ar">إلحاق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>OK</Position>
+      <TranslationSet>
+        <base loc="en">OK</base>
+        <tran loc="ar">موافق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> ------ Accessibility --------- </Description>
+      <Position>REWIND_BUTTON</Position>
+      <TranslationSet>
+        <base loc="en">Rewind, 15 seconds</base>
+        <tran loc="ar">ترجيع، ١٥ ثانية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>RECORDING_NOT_AVAILABLE_ON_WATCH_ALERT_MESSAGE</Position>
+      <TranslationSet>
+        <base loc="en">“%@” is available in Voice Memos on your iOS device or Mac.</base>
+        <tran loc="ar">‏\"%@\" متوفر على تطبيق المذكرات الصوتية على أجهزة iOS أو Mac الخاصة بك.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ENDED_EDITING</Position>
+      <TranslationSet>
+        <base loc="en">Ended editing</base>
+        <tran loc="ar">أنهى التحرير</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> ---- Recording Table ----
+ </Description>
+      <Position>EMPTY_LIBRARY_TEXT</Position>
+      <TranslationSet>
+        <base loc="en">Tap the Record button to start a Voice Memo</base>
+        <tran loc="ar">اضغط على زر التسجيل لبدء مذكرة صوتية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>WELCOME_ITEM_1_DESCRIPTION</Position>
+      <TranslationSet>
+        <base loc="en">Create recordings on your iPhone, iPad, or Mac and iCloud will sync them across all your devices.</base>
+        <tran loc="ar">يمكنك إنشاء التسجيلات على الـ iPhone أو الـ iPad أو الـ Mac، وستتم مزامنتها عبر iCloud على جميع أجهزتك.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> ---- Recording Table Cells ----
+ </Description>
+      <Position>EDIT</Position>
+      <TranslationSet>
+        <base loc="en">Edit</base>
+        <tran loc="ar">تحرير</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>WELCOME_ITEM_3_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Now on Apple Watch</base>
+        <tran loc="ar">الآن على Apple Watch</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PREPARE_TO_SHARE_MEMO_FAILED_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Preparing Failed</base>
+        <tran loc="ar">فشل التحضير</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AX_DURATION</Position>
+      <TranslationSet>
+        <base loc="en">Duration</base>
+        <tran loc="ar">المدة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DURATION</Position>
+      <TranslationSet>
+        <base loc="en">Duration</base>
+        <tran loc="ar">المدة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>LECTURE_LABEL</Position>
+      <TranslationSet>
+        <base loc="en">Lecture</base>
+        <tran loc="ar">محاضرة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CARD_OVERLAY</Position>
+      <TranslationSet>
+        <base loc="en">Card Overlay</base>
+        <tran loc="ar">تراكب البطاقة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>RECORDING_PAUSED_STATUS_BAR_FORMAT</Position>
+      <TranslationSet>
+        <base loc="en">Recording Paused  %@</base>
+        <tran loc="ar">إيقاف مؤقت للتسجيل  %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> ---- Standard items ----
+ </Description>
+      <Position>CANCEL</Position>
+      <TranslationSet>
+        <base loc="en">Cancel</base>
+        <tran loc="ar">إلغاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ERASE_RECENTLY_DELETED_SEVEN_DAYS</Position>
+      <TranslationSet>
+        <base loc="en">After 7 Days</base>
+        <tran loc="ar">بعد ٧ أيام</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>MORE_ACTIONS</Position>
+      <TranslationSet>
+        <base loc="en">More Actions</base>
+        <tran loc="ar">المزيد من الإجراءات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>WAVEFORM_SELECTION_START_TIME_BAR</Position>
+      <TranslationSet>
+        <base loc="en">Beginning of selection</base>
+        <tran loc="ar">بداية التحديد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CREATE_RECORDING_FAILED_ALERT_MESSAGE_NO_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">There was a problem creating or saving the voice memo.</base>
+        <tran loc="ar">حدثت مشكلة أثناء إنشاء أو حفظ المذكرة الصوتية.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>POST_WELCOME_ICLOUD_CONFIRMATION_ALERT_DESCRIPTION</Position>
+      <TranslationSet>
+        <base loc="en">iCloud for Voice Memos is off. Enabling iCloud for Voice Memos will allow you to access and synchronize your recordings across all of your devices.</base>
+        <tran loc="ar">‏iCloud متوقف لتطبيق المذكرات الصوتية. سيؤدي تمكين iCloud لتطبيق مذكرات صوتية من الوصول إلى تسجيلاتك ومزامنتها على جميع أجهزتك.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ERASE_RECENTLY_DELETED_THIRTY_DAYS</Position>
+      <TranslationSet>
+        <base loc="en">After 30 Days</base>
+        <tran loc="ar">بعد ٣٠ يومًا</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>EMPTY_LIBRARY_TEXT_WATCH</Position>
+      <TranslationSet>
+        <base loc="en">Tap to record.</base>
+        <tran loc="ar">اضغط للتسجيل.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ROUTE_AX_SPEAKER</Position>
+      <TranslationSet>
+        <base loc="en">Speaker On</base>
+        <tran loc="ar">تشغيل السماعة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>TRACK_SLIDER</Position>
+      <TranslationSet>
+        <base loc="en">Track Position</base>
+        <tran loc="ar">موضع المسار</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DELETE_MEMO_INFORMATION_ALERT_MESSAGE_THIRTY_DAYS</Position>
+      <TranslationSet>
+        <base loc="en">Deleted Recordings will be available in the “Recently Deleted” folder for 30 days.</base>
+        <tran loc="ar">ستكون التسجيلات المحذوفة متوفرة في مجلد \"المحذوفة مؤخرًا\" لمدة ٣٠ يومًا</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PLAY</Position>
+      <TranslationSet>
+        <base loc="en">Play</base>
+        <tran loc="ar">تشغيل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SETTINGS_AUDIO_COMPRESSION_QUALITY</Position>
+      <TranslationSet>
+        <base loc="en">Audio Quality</base>
+        <tran loc="ar">جودة الصوت</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DELETE_RANGE_CONFIRMATION_OPTION_SAVE_AS_NEW</Position>
+      <TranslationSet>
+        <base loc="en">Save As New Recording</base>
+        <tran loc="ar">حفظ كتسجيل جديد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>TRIM_TO_RANGE_CONFIRMATION_OPTION_SAVE_AS_NEW</Position>
+      <TranslationSet>
+        <base loc="en">Save As New Recording</base>
+        <tran loc="ar">حفظ كتسجيل جديد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DELETE_MEMO_INFORMATION_ALERT_ONE</Position>
+      <TranslationSet>
+        <base loc="en">Recording moved to “Recently Deleted”</base>
+        <tran loc="ar">تم نقل التسجيل إلى \"المحذوفة مؤخرًا\"</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>WAVEFORM_SELECTION_HINT</Position>
+      <TranslationSet>
+        <base loc="en">Double tap and hold, then drag to edit selection</base>
+        <tran loc="ar">اضغط مرتين مطولاً، ثم اسحب لتحرير ما تم تحديده</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> The title of the button for closing the Welcome screen. </Description>
+      <Position>WELCOME_CONTINUE</Position>
+      <TranslationSet>
+        <base loc="en">Continue</base>
+        <tran loc="ar">متابعة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UNABLE_TO_RECORD_WITH_ACTIVE_PHONE_CALL_BODY</Position>
+      <TranslationSet>
+        <base loc="en">To record voice memos, end call.</base>
+        <tran loc="ar">لتسجيل مذكرات صوتية، قم بإنهاء المكالمة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>INSERT_START_ANNOUNCE</Position>
+      <TranslationSet>
+        <base loc="en">Insert mode started. Tap on Insert button to insert recording.</base>
+        <tran loc="ar">بدأ نمط الإدراج. اضغط على زر الإدراج لإدراج التسجيل.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ROUTE_AX_HANDSET</Position>
+      <TranslationSet>
+        <base loc="en">Speaker Off</base>
+        <tran loc="ar">إيقاف السماعة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>WAVEFORM_SELECTION_END_TIME_BAR</Position>
+      <TranslationSet>
+        <base loc="en">End of selection</base>
+        <tran loc="ar">نهاية التحديد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SKIP_BACKWARD</Position>
+      <TranslationSet>
+        <base loc="en">Jump Backward 15s</base>
+        <tran loc="ar">عودة للخلف ١٥ث</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DEFAULT_RECORDING_NAME_BY_LOCATION</Position>
+      <TranslationSet>
+        <base loc="en">Current Location</base>
+        <tran loc="ar">الموقع الحالي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>WELCOME_ITEM_2_DESCRIPTION</Position>
+      <TranslationSet>
+        <base loc="en">Features like trim, replace, and resume let you fine-tune recordings and keep just the parts you want.</base>
+        <tran loc="ar">تسمح لك الميزات، مثل القص والاستبدال والاستئناف، بضبط التسجيلات والاحتفاظ بالأجزاء التي تريدها فقط.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CREATE_DATABASE_FAILED_ALERT_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Unable to Create Application Resources</base>
+        <tran loc="ar">غير قادر على إنشاء مصادر التطبيق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>TRIM_END_ANNOUNCE</Position>
+      <TranslationSet>
+        <base loc="en">Trim mode ended.</base>
+        <tran loc="ar">انتهى نمط الاقتصاص.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PREPARE_TO_SHARE_MEMO_FAILED_MESSAGE_FORMAT</Position>
+      <TranslationSet>
+        <base loc="en">“%@” is being optimized for sharing at this time.</base>
+        <tran loc="ar">يتم تحسين \"%@\" للمشاركة في هذا الوقت.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>NONE_LABEL</Position>
+      <TranslationSet>
+        <base loc="en">None</base>
+        <tran loc="ar">لا شيء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> ------ Settings ------ </Description>
+      <Position>VOICE_MEMOS_SETTINGS</Position>
+      <TranslationSet>
+        <base loc="en">Voice Memos Settings</base>
+        <tran loc="ar">إعدادات المذكرات الصوتية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DICTATION</Position>
+      <TranslationSet>
+        <base loc="en">Dictation</base>
+        <tran loc="ar">الإملاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UNABLE_TO_RECORD_WITH_ACTIVE_PHONE_CALL_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Recording Disabled</base>
+        <tran loc="ar">تم إيقاف التسجيل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SHARE_CURRENT_RECORDING_MENU_ITEM</Position>
+      <TranslationSet>
+        <base loc="en">Share…</base>
+        <tran loc="ar">مشاركة…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AX_ACTION_RECOVER</Position>
+      <TranslationSet>
+        <base loc="en">Recover</base>
+        <tran loc="ar">استرداد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>RECOVER</Position>
+      <TranslationSet>
+        <base loc="en">Recover</base>
+        <tran loc="ar">استرداد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>EDIT_MODE_UNDO_BUTTON_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Undo</base>
+        <tran loc="ar">تراجع</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CARD_OVERLAY_HALF_SCREEN</Position>
+      <TranslationSet>
+        <base loc="en">Half Screen</base>
+        <tran loc="ar">نصف الشاشة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> ---- Editing Progress ----
+ </Description>
+      <Position>SAVING_CHANGES</Position>
+      <TranslationSet>
+        <base loc="en">Saving changes…</base>
+        <tran loc="ar">جاري حفظ التغييرات…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Label to use when recordings have been uploaded to iCloud and some have been cleared by the device to free up storage</Description>
+      <Position>LIBRARY_TEXT_WATCH_ALSO_IN_ICLOUD_AND_HAVE_BEEN_REMOVED</Position>
+      <TranslationSet>
+        <base loc="en">Older recordings are in Voice Memos on your iPhone, iPad and Mac.</base>
+        <tran loc="ar">توجد التسجيلات القديمة في تطبيق المذكرات الصوتية على iPhone و iPad و Mac.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>RECOVER_ALL</Position>
+      <TranslationSet>
+        <base loc="en">Recover All</base>
+        <tran loc="ar">استرداد الكل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AX_WAVEFORM</Position>
+      <TranslationSet>
+        <base loc="en">Waveform</base>
+        <tran loc="ar">شكل الموجة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>LOW_DISK_SPACE_ALERT_BODY</Position>
+      <TranslationSet>
+        <base loc="en">There is not enough disk space to continue recording voice memos. Make room by deleting existing videos or photos.</base>
+        <tran loc="ar">ليست هناك مساحة كافية على القرص لمواصلة تسجيل المذكرات الصوتية. قم بتوفير مساحة وذلك بحذف الفيديوهات أو الصور الموجودة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SHOW_ALL_RECORDINGS_ON_WATCH</Position>
+      <TranslationSet>
+        <base loc="en">All Recordings</base>
+        <tran loc="ar">جميع التسجيلات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>INSERT_START_ANNOUNCE_MAC</Position>
+      <TranslationSet>
+        <base loc="en">Insert mode started. Click on Insert button to insert recording.</base>
+        <tran loc="ar">بدأ نمط الإدراج. اضغط على زر الإدراج لإدراج التسجيل.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SHARING_EXT_TEXT</Position>
+      <TranslationSet>
+        <base loc="en">Save to Voice Memos</base>
+        <tran loc="ar">حفظ في المذكرات الصوتية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AX_CURRENT_TIME</Position>
+      <TranslationSet>
+        <base loc="en">Current Time</base>
+        <tran loc="ar">الوقت الحالي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DEMO_TIME_LIMIT_REACHED_BODY-%@</Position>
+      <TranslationSet>
+        <base loc="en">In store demo mode, recordings are limited to </base>
+        <tran loc="ar">في نمط العرض التجريبي بالمتجر، تكون التسجيلات محدودة بـ </tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>FULL_SCREEN</Position>
+      <TranslationSet>
+        <base loc="en">Switch to full screen playback view</base>
+        <tran loc="ar">تبديل إلى عرض التشغيل بملء الشاشة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>REPLACE</Position>
+      <TranslationSet>
+        <base loc="en">Replace</base>
+        <tran loc="ar">استبدال</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>EDIT_NAME_ON_WATCH_NOWPLAYING</Position>
+      <TranslationSet>
+        <base loc="en">Edit Name</base>
+        <tran loc="ar">تحرير الاسم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>TRIM_CURRENT_RECORDING_MENU_ITEM</Position>
+      <TranslationSet>
+        <base loc="en">Trim Recording</base>
+        <tran loc="ar">قص التسجيل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> ---- Recording Errors ----
+ </Description>
+      <Position>UNABLE_TO_RECORD_ALERT_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">No Microphone Available</base>
+        <tran loc="ar">لا يوجد ميكروفون متوفر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>RESUME</Position>
+      <TranslationSet>
+        <base loc="en">Resume</base>
+        <tran loc="ar">استئناف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CARD_OVERLAY_AX_HINTS</Position>
+      <TranslationSet>
+        <base loc="en">Adjusts the size of the overlay</base>
+        <tran loc="ar">يضبط حجم التراكب.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AX_DETAIL_WAVEFORM</Position>
+      <TranslationSet>
+        <base loc="en">Waveform Detail</base>
+        <tran loc="ar">تفاصيل شكل الموجة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CUSTOM_LABEL</Position>
+      <TranslationSet>
+        <base loc="en">Custom</base>
+        <tran loc="ar">مخصص</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AX_RECORDING_UNAVAILABLE</Position>
+      <TranslationSet>
+        <base loc="en">Recording is not available. Return to main screen.</base>
+        <tran loc="ar">التسجيل غير متوفر. العودة إلى الشاشة الرئيسية.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ERASE_MEMO_CONFIRMATION_ALERT_TITLE_IPHONE</Position>
+      <TranslationSet>
+        <base loc="en">These recordings will be deleted. This action cannot be undone.</base>
+        <tran loc="ar">سيتم حذف هذه التسجيلات. لا يمكن التراجع عن هذا الإجراء.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ERASE_MEMO_CONFIRMATION_ALERT_TITLE_IPHONE_ONE_SELECTION</Position>
+      <TranslationSet>
+        <base loc="en">This recording will be deleted. This action cannot be undone.</base>
+        <tran loc="ar">سيتم حذف هذا التسجيل. لا يمكن التراجع عن هذا الإجراء.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AX_RECORDING_LIST</Position>
+      <TranslationSet>
+        <base loc="en">Library</base>
+        <tran loc="ar">المكتبة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>LOW_DISK_SPACE_ALERT_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Low Disk Space</base>
+        <tran loc="ar">مساحة القرص منخفضة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>WELCOME_ITEM_2_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Editing tools</base>
+        <tran loc="ar">أدوات التحرير</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AX_DIMMED_VALUE</Position>
+      <TranslationSet>
+        <base loc="en">Dimmed</base>
+        <tran loc="ar">باهت</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AX_TRIM_OVERVIEW_WAVEFORM_START</Position>
+      <TranslationSet>
+        <base loc="en">Trim Beginning, Waveform Overview</base>
+        <tran loc="ar">قص البداية، نظرة عامة على شكل الموجة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> ------ Key Commands ------ </Description>
+      <Position>MOVE_SELECTION_UP</Position>
+      <TranslationSet>
+        <base loc="en">Move Selection Up</base>
+        <tran loc="ar">نقل التحديد إلى الأعلى</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> ------ Errors ------ </Description>
+      <Position>ERROR_RECORDING_FAILED</Position>
+      <TranslationSet>
+        <base loc="en">Recording Failed</base>
+        <tran loc="ar">فشل التسجيل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>STOP</Position>
+      <TranslationSet>
+        <base loc="en">Stop</base>
+        <tran loc="ar">إيقاف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>RECORDING_COPY_SUFFIX</Position>
+      <TranslationSet>
+        <base loc="en"> copy</base>
+        <tran loc="ar"> (نسخة)</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>RECENTLY_DELETED</Position>
+      <TranslationSet>
+        <base loc="en">Recently Deleted</base>
+        <tran loc="ar">محذوفة مؤخرًا</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>RECOVER_RECORDING_ACTION</Position>
+      <TranslationSet>
+        <base loc="en">recover recording</base>
+        <tran loc="ar">استعادة التسجيل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>TITLE_FOR_OVERDUB_REDO</Position>
+      <TranslationSet>
+        <base loc="en">New Recording</base>
+        <tran loc="ar">تسجيل جديد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> ---- Undo Titles ----
+ 
+ The undo title will read: "Undo &lt;TITLE_FOR_OVERDUB_UNDO&gt;"</Description>
+      <Position>TITLE_FOR_OVERDUB_UNDO</Position>
+      <TranslationSet>
+        <base loc="en">New Recording</base>
+        <tran loc="ar">تسجيل جديد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> ---- Recording Titles / Labels ----
+ 
+ Base label to use when creating a new recording.  If "New Recording" already exists, the _1, _2_N formats will be used to create a unique name.</Description>
+      <Position>UNTITLED_NEW_RECORDING_LABEL</Position>
+      <TranslationSet>
+        <base loc="en">New Recording</base>
+        <tran loc="ar">تسجيل جديد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Track Position slider value. Important for VoiceOver too. 
+"First variable is current time string, Second variable is total duration string, for example: 2 seconds of 30 seconds" </Description>
+      <Position>DURATION_PROGRESS</Position>
+      <TranslationSet>
+        <base loc="en">%@ of %@</base>
+        <tran loc="ar">‏%@ من %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> ----- Undo Actions ----- </Description>
+      <Position>DELETE_RECORDING_ACTION</Position>
+      <TranslationSet>
+        <base loc="en">delete recording</base>
+        <tran loc="ar">حذف التسجيل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ERASE_RECENTLY_DELETED_NEVER</Position>
+      <TranslationSet>
+        <base loc="en">Never</base>
+        <tran loc="ar">مطلقًا</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SETTINGS_USE_LOCATION_BASED_NAMING</Position>
+      <TranslationSet>
+        <base loc="en">Location-based Naming</base>
+        <tran loc="ar">التسمية المستندة إلى الموقع</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>EDIT_MODE_INSERT_BUTTON_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Insert</base>
+        <tran loc="ar">إدراج</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>EDIT_MODE_INSERT_VIEW_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Insert</base>
+        <tran loc="ar">إدراج</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>INSERT</Position>
+      <TranslationSet>
+        <base loc="en">Insert</base>
+        <tran loc="ar">إدراج</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>INSERT_IN_CURRENT_RECORDING_MENU_ITEM</Position>
+      <TranslationSet>
+        <base loc="en">Insert</base>
+        <tran loc="ar">إدخال</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SHARE_BUTTON</Position>
+      <TranslationSet>
+        <base loc="en">Share</base>
+        <tran loc="ar">مشاركة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SHARE_MENU_ITEM</Position>
+      <TranslationSet>
+        <base loc="en">Share</base>
+        <tran loc="ar">مشاركة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>RECORDING_PAUSED_LOCKSCREEN_LABEL</Position>
+      <TranslationSet>
+        <base loc="en">Paused</base>
+        <tran loc="ar">تم الإيقاف مؤقتًا</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>TRIM_TO_RANGE_CONFIRMATION_OPTION_USE_ORIGINAL</Position>
+      <TranslationSet>
+        <base loc="en">Trim Original</base>
+        <tran loc="ar">قص المقطع الأصلي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AX_TRIM_BUTTON</Position>
+      <TranslationSet>
+        <base loc="en">Trim</base>
+        <tran loc="ar">قص</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>EDIT_MODE_TRIM_BUTTON_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Trim</base>
+        <tran loc="ar">قص</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>EDIT_MODE_TRIM_VIEW_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Trim</base>
+        <tran loc="ar">قص</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>TITLE_FOR_TRIM_TO_RANGE_REDO</Position>
+      <TranslationSet>
+        <base loc="en">Trim</base>
+        <tran loc="ar">قص</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>TITLE_FOR_TRIM_TO_RANGE_UNDO</Position>
+      <TranslationSet>
+        <base loc="en">Trim</base>
+        <tran loc="ar">قص</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> ---- Trim Sheet (public trim sheet) ----
+ </Description>
+      <Position>TRIM_DIALOG_TRIM_BUTTON_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Trim</base>
+        <tran loc="ar">قص</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> ---- Trim / Delete Confirmation (in app's edit screen) ----
+ </Description>
+      <Position>TRIM_TO_RANGE_CONFIRMATION_ACTION_TITLE_TRIM</Position>
+      <TranslationSet>
+        <base loc="en">Trim</base>
+        <tran loc="ar">قص</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>WELCOME_ITEM_1_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Your recordings, everywhere</base>
+        <tran loc="ar">تسجيلاتك في كل مكان</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>INSERT_END_ANNOUNCE</Position>
+      <TranslationSet>
+        <base loc="en">Insert mode ended.</base>
+        <tran loc="ar">انتهى نمط الإدارج.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SETTINGS_PERMANENTLY_DELETE</Position>
+      <TranslationSet>
+        <base loc="en">Clear Deleted</base>
+        <tran loc="ar">حذف العناصر المحذوفة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>EDIT_NAME_OF_NEW_RECORDING_ALERT_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">New Voice Memo</base>
+        <tran loc="ar">مذكرة صوتية جديدة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DELETE_MEMO_INFORMATION_ALERT_MULTIPLE</Position>
+      <TranslationSet>
+        <base loc="en">Recordings moved  to “Recently Deleted”</base>
+        <tran loc="ar">تم نقل التسجيلات إلى \"المحذوفة مؤخرًا\"</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SKIP_FORWARD</Position>
+      <TranslationSet>
+        <base loc="en">Jump Forward 15s</base>
+        <tran loc="ar">تقديم ١٥ث</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Format to use when attempting to make a unique label.  Example: "My Recording", the first "Copy" would end up being "My Recording Copy", and 2nd would be "My Recording Copy 2"</Description>
+      <Position>RECORDING_LABEL_UNIQUENESS_FORMAT_1</Position>
+      <TranslationSet>
+        <base loc="en">%@</base>
+        <tran loc="ar">‏%@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PREPARING_TO_SHARE_MEMO_MESSAGE_FORMAT</Position>
+      <TranslationSet>
+        <base loc="en">“%@” is being optimized for sharing. This may take some time to complete.</base>
+        <tran loc="ar">يتم تحسين \"%@\" للمشاركة. قد يستغرق بعض الوقت حتى يكتمل.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SET_IN_POINT</Position>
+      <TranslationSet>
+        <base loc="en">Set in point for insertion</base>
+        <tran loc="ar">تعيين نقطة للإدخال</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>WELCOME_ITEM_3_DESCRIPTION</Position>
+      <TranslationSet>
+        <base loc="en">Capture and play back recordings right from your wrist with the new Voice Memos app for Apple Watch.</base>
+        <tran loc="ar">يمكنك إنشاء التسجيلات وإعادة تشغيلها من معصمك مباشرةً باستخدام تطبيق المذكرات الصوتية الجديد للـ Apple Watch.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CARD_OVERLAY_FULL_SCREEN</Position>
+      <TranslationSet>
+        <base loc="en">Full Screen</base>
+        <tran loc="ar">شاشة كاملة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>MEETING_LABEL</Position>
+      <TranslationSet>
+        <base loc="en">Meeting</base>
+        <tran loc="ar">اجتماع</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>MOVE_SELECTION_DOWN</Position>
+      <TranslationSet>
+        <base loc="en">Move Selection Down</base>
+        <tran loc="ar">نقل التحديد إلى الأسفل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>WAVEFORM_SELECTION_HINT_MAC</Position>
+      <TranslationSet>
+        <base loc="en">Double click and hold, then drag to edit selection</base>
+        <tran loc="ar">اضغط مرتين مطولاً، ثم اسحب لتحرير ما تم تحديده</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>IDEA_LABEL</Position>
+      <TranslationSet>
+        <base loc="en">Idea</base>
+        <tran loc="ar">فكرة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>WAVEFORM_SELECTION_CHANGED_START_TIME</Position>
+      <TranslationSet>
+        <base loc="en">Moved beginning of selection</base>
+        <tran loc="ar">تم نقل بداية التحديد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> ------ Menu Items ------ </Description>
+      <Position>START_NEW_RECORDING_MENU_ITEM</Position>
+      <TranslationSet>
+        <base loc="en">Start New Recording</base>
+        <tran loc="ar">بدء تسجيل جديد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PLAY_PAUSE_CURRENT_RECORDING_MENU_ITEM</Position>
+      <TranslationSet>
+        <base loc="en">Play/Pause Recording</base>
+        <tran loc="ar">تشغيل/إيقاف التسجيل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PLAY_CURRENT_SELECTION</Position>
+      <TranslationSet>
+        <base loc="en">Play/Pause Selected Voice Memo</base>
+        <tran loc="ar">تشغيل/إيقاف تشغيل المذكرات الصوتية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DELETE_FOREVER</Position>
+      <TranslationSet>
+        <base loc="en">Delete Forever</base>
+        <tran loc="ar">حذف للأبد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> ---- Navigation Titles ----
+ 
+ default navigation title in the edit screen</Description>
+      <Position>EDIT_MEMO_SCREEN_DEFAULT_NAVIGATION_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Record</base>
+        <tran loc="ar">تسجيل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>RECORD</Position>
+      <TranslationSet>
+        <base loc="en">Record</base>
+        <tran loc="ar">تسجيل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>WATCH_DELETE_MEMO_CONFIRMATION_ALERT_FORMAT</Position>
+      <TranslationSet>
+        <base loc="en">“%@” will be permanently erased.</base>
+        <tran loc="ar">سيتم مسح \"%@\" نهائيًا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CREATE_DATABASE_FAILED_ALERT_MESSAGE</Position>
+      <TranslationSet>
+        <base loc="en">There was a problem creating some application resources. Make room by deleting existing videos or photos.</base>
+        <tran loc="ar">هناك مشكلة في إنشاء بعض مصادر التطبيق. قم بتوفير مساحة وذلك بحذف الفيديوهات أو الصور الموجودة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>NO_NEW_RECORDINGS_LABEL</Position>
+      <TranslationSet>
+        <base loc="en">No recordings</base>
+        <tran loc="ar">لا يوجد تسجيلات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AX_OVERVIEW_WAVEFORM</Position>
+      <TranslationSet>
+        <base loc="en">Waveform Overview</base>
+        <tran loc="ar">شكل موجة عام</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UNLOCK</Position>
+      <TranslationSet>
+        <base loc="en">Unlock</base>
+        <tran loc="ar">فتح القفل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Navigation title that shows on the main screen (when not recording)</Description>
+      <Position>DEFAULT_NAVIGATION_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Voice Memos</base>
+        <tran loc="ar">المذكرات الصوتية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>VOICE_MEMOS_APP_NAME</Position>
+      <TranslationSet>
+        <base loc="en">Voice Memos</base>
+        <tran loc="ar">المذكرات الصوتية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> The app name only. This is the part of WELCOME_TITLE_FULL that will be displayed in blue. The app name should not include inflection characters, for example, that may be present in WELCOME_TITLE_FULL. </Description>
+      <Position>WELCOME_TITLE_APP_NAME</Position>
+      <TranslationSet>
+        <base loc="en">Voice Memos</base>
+        <tran loc="ar">المذكرات الصوتية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AX_TRIM_DETAIL_WAVEFORM_END</Position>
+      <TranslationSet>
+        <base loc="en">Trim End, Waveform Detail</base>
+        <tran loc="ar">قص النهاية، تفاصيل شكل الموجة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CREATE_RECORDING_FAILED_ALERT_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Unable to Create Voice Memo</base>
+        <tran loc="ar">غير قادر على إنشاء المذكرة الصوتية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DELETE_MEMO_NO_LABEL</Position>
+      <TranslationSet>
+        <base loc="en">Delete Memo</base>
+        <tran loc="ar">حذف المذكرة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DELETE_CURRENT_SELECTION</Position>
+      <TranslationSet>
+        <base loc="en">Delete Current Selection</base>
+        <tran loc="ar">حذف التحديد الحالي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PAUSE</Position>
+      <TranslationSet>
+        <base loc="en">Pause</base>
+        <tran loc="ar">إيقاف مؤقت</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ERROR_NO_AUDIO_DEVICES_FOUND</Position>
+      <TranslationSet>
+        <base loc="en">No audio devices found.</base>
+        <tran loc="ar">لم يتم العثور على أجهزة صوت.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SAVE</Position>
+      <TranslationSet>
+        <base loc="en">Save</base>
+        <tran loc="ar">حفظ</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>VoiceMemos/System/Applications/VoiceMemos.app/Contents/Resources/en.lproj/Intents.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>rBQa24</Position>
+      <TranslationSet>
+        <base loc="en">Listen to my most recent voice memo</base>
+        <tran loc="ar">الاستماع إلى أحدث المذكرات الصوتية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>pnMPJT</Position>
+      <TranslationSet>
+        <base loc="en">Listen to Voice Memos</base>
+        <tran loc="ar">الاستماع إلى المذكرات الصوتية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>24hxga</Position>
+      <TranslationSet>
+        <base loc="en">Record a New Voice Memo</base>
+        <tran loc="ar">تسجيل مذكرة صوتية جديدة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>n5xaIl</Position>
+      <TranslationSet>
+        <base loc="en">Record a new voice memo</base>
+        <tran loc="ar">تسجيل مذكرة صوتية جديدة</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>VoiceMemos/System/Applications/VoiceMemos.app/Contents/Resources/en.lproj/InfoPlist.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>UIMenuBarItemTitleQuit</Position>
+      <TranslationSet>
+        <base loc="en">Quit Voice Memos</base>
+        <tran loc="ar">إنهاء المذكرات الصوتية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>NSHumanReadableCopyright</Position>
+      <TranslationSet>
+        <base loc="en">Copyright © 2019 Apple Inc. All rights reserved.</base>
+        <tran loc="ar">‏Copyright © 2019 Apple Inc.‎\nكافة الحقوق محفوظة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UIMenuBarItemTitleHide</Position>
+      <TranslationSet>
+        <base loc="en">Hide Voice Memos</base>
+        <tran loc="ar">إخفاء المذكرات الصوتية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UIMenuBarItemTitleAbout</Position>
+      <TranslationSet>
+        <base loc="en">About Voice Memos</base>
+        <tran loc="ar">حول المذكرات الصوتية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>NSLocationUsageDescription</Position>
+      <TranslationSet>
+        <base loc="en">Voice Memos will be named with the location where they are recorded.</base>
+        <tran loc="ar">سيتم تسمية المذكرات الصوتية باسم مكان تسجيلها.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>NSLocationWhenInUseUsageDescription</Position>
+      <TranslationSet>
+        <base loc="en">Voice Memos will be named with the location where they are recorded.</base>
+        <tran loc="ar">سيتم تسمية المذكرات الصوتية باسم مكان تسجيلها.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UIMenuBarItemTitleHelp</Position>
+      <TranslationSet>
+        <base loc="en">Voice Memos Help</base>
+        <tran loc="ar">مساعدة تطبيق المذكرات الصوتية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CFBundleDisplayName</Position>
+      <TranslationSet>
+        <base loc="en">Voice Memos</base>
+        <tran loc="ar">المذكرات الصوتية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CFBundleName</Position>
+      <TranslationSet>
+        <base loc="en">Voice Memos</base>
+        <tran loc="ar">المذكرات الصوتية</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>VoiceMemos/System/Applications/VoiceMemos.app/Contents/Resources/en.lproj/Localizable.stringsdict</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>/Permanently Delete %d Recordings:dict/recordings:dict/one:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Recording</base>
+        <tran loc="ar">تسجيل واحد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/Recover %d Recordings:dict/recordings:dict/one:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Recording</base>
+        <tran loc="ar">تسجيل واحد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/%lu Selected:dict/NSStringLocalizedFormatKey:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%#@num_rows_selected@</base>
+        <tran loc="ar">%#@num_rows_selected@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/ERASE_RECORDINGS:dict/recordings:dict/few:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Are you sure you want to permanently delete %d recordings?</base>
+        <tran loc="ar">هل ترغب بالتأكيد في حذف التسجيلات الـ %d المحددة؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/ERASE_RECORDINGS:dict/recordings:dict/many:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Are you sure you want to permanently delete %d recordings?</base>
+        <tran loc="ar">هل ترغب بالتأكيد في حذف التسجيلات الـ %d المحددة؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/ERASE_RECORDINGS:dict/recordings:dict/other:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Are you sure you want to permanently delete %d recordings?</base>
+        <tran loc="ar">هل ترغب بالتأكيد في حذف التسجيلات الـ %d المحددة؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/ERASE_RECORDINGS:dict/recordings:dict/two:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Are you sure you want to permanently delete %d recordings?</base>
+        <tran loc="ar">هل ترغب بالتأكيد في حذف التسجيلين المحددين؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/ERASE_RECORDINGS:dict/recordings:dict/zero:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Are you sure you want to permanently delete %d recordings?</base>
+        <tran loc="ar">هل ترغب بالتأكيد في حذف التسجيلات الـ %d المحددة؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/%d Files:dict/Files:dict/one:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%d File</base>
+        <tran loc="ar">ملف واحد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/%d Files:dict/Files:dict/few:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%d Files</base>
+        <tran loc="ar">‏%d ملفات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/%d Files:dict/Files:dict/many:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%d Files</base>
+        <tran loc="ar">‏%d ملفًا</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/%d Files:dict/Files:dict/other:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%d Files</base>
+        <tran loc="ar">‏%d ملف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/%d Files:dict/Files:dict/two:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%d Files</base>
+        <tran loc="ar">ملفان</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/%d Files:dict/Files:dict/zero:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%d Files</base>
+        <tran loc="ar">‏%d ملف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/%lu Selected:dict/num_rows_selected:dict/few:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%lu Selected</base>
+        <tran loc="ar">تم تحديد %lu</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/%lu Selected:dict/num_rows_selected:dict/many:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%lu Selected</base>
+        <tran loc="ar">تم تحديد %lu</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/%lu Selected:dict/num_rows_selected:dict/one:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%lu Selected</base>
+        <tran loc="ar">تم تحديد %lu</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/%lu Selected:dict/num_rows_selected:dict/other:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%lu Selected</base>
+        <tran loc="ar">تم تحديد %lu</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/%lu Selected:dict/num_rows_selected:dict/two:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%lu Selected</base>
+        <tran loc="ar">تم تحديد %lu</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/%lu Selected:dict/num_rows_selected:dict/zero:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%lu Selected</base>
+        <tran loc="ar">تم تحديد %lu</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/Permanently Delete %d Recordings:dict/recordings:dict/few:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%d Recordings</base>
+        <tran loc="ar">‏%d تسجيلات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/Permanently Delete %d Recordings:dict/recordings:dict/many:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%d Recordings</base>
+        <tran loc="ar">‏%d تسجيلاً</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/Permanently Delete %d Recordings:dict/recordings:dict/other:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%d Recordings</base>
+        <tran loc="ar">‏%d تسجيل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/Permanently Delete %d Recordings:dict/recordings:dict/two:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%d Recordings</base>
+        <tran loc="ar">تسجيلان</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/Permanently Delete %d Recordings:dict/recordings:dict/zero:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%d Recordings</base>
+        <tran loc="ar">‏%d تسجيل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/Recover %d Recordings:dict/recordings:dict/few:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%d Recordings</base>
+        <tran loc="ar">‏%d تسجيلات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/Recover %d Recordings:dict/recordings:dict/many:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%d Recordings</base>
+        <tran loc="ar">‏%d تسجيلاً</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/Recover %d Recordings:dict/recordings:dict/other:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%d Recordings</base>
+        <tran loc="ar">‏%d تسجيل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/Recover %d Recordings:dict/recordings:dict/two:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%d Recordings</base>
+        <tran loc="ar">تسجيلان</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/Recover %d Recordings:dict/recordings:dict/zero:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%d Recordings</base>
+        <tran loc="ar">‏%d تسجيل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/ERASE_RECORDINGS:dict/recordings:dict/one:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Are you sure you want to permanently delete this recording?</base>
+        <tran loc="ar">هل ترغب بالتأكيد في حذف هذا التسجيل نهائيًا؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/Permanently Delete %d Recordings:dict/NSStringLocalizedFormatKey:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Permanently Delete %#@recordings@</base>
+        <tran loc="ar">حذف %#@recordings@ نهائيًا</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/ERASE_RECORDINGS:dict/NSStringLocalizedFormatKey:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%#@recordings@</base>
+        <tran loc="ar">%#@recordings@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/%d Files:dict/NSStringLocalizedFormatKey:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%#@Files@</base>
+        <tran loc="ar">%#@Files@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/Recover %d Recordings:dict/NSStringLocalizedFormatKey:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Recover %#@recordings@</base>
+        <tran loc="ar">استعادة %#@recordings@</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>VoiceMemos/System/Applications/VoiceMemos.app/Contents/Resources/Settings.bundle/en.lproj/Root.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>ERASE_RECENTLY_DELETED_IMMEDIATELY</Position>
+      <TranslationSet>
+        <base loc="en">Immediately</base>
+        <tran loc="ar">فورًا</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SETTINGS_DEFAULT_RECORDING_NAME</Position>
+      <TranslationSet>
+        <base loc="en">Default Name</base>
+        <tran loc="ar">اسم افتراضي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>QUALITY_UNCOMPRESSED</Position>
+      <TranslationSet>
+        <base loc="en">Lossless</base>
+        <tran loc="ar">دون فقد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>QUALITY_AAC_AUDIO</Position>
+      <TranslationSet>
+        <base loc="en">Compressed</base>
+        <tran loc="ar">مضغوط</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DEFAULT_RECORDING_NUMBER</Position>
+      <TranslationSet>
+        <base loc="en">Recording Number</base>
+        <tran loc="ar">رقم التسجيل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ERASE_RECENTLY_DELETED_ONE_DAY</Position>
+      <TranslationSet>
+        <base loc="en">After 1 Day</base>
+        <tran loc="ar">بعد يوم واحد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ERASE_RECENTLY_DELETED_SEVEN_DAYS</Position>
+      <TranslationSet>
+        <base loc="en">After 7 Days</base>
+        <tran loc="ar">بعد ٧ أيام</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ERASE_RECENTLY_DELETED_THIRTY_DAYS</Position>
+      <TranslationSet>
+        <base loc="en">After 30 Days</base>
+        <tran loc="ar">بعد ٣٠ يومًا</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SETTINGS_AUDIO_COMPRESSION_QUALITY</Position>
+      <TranslationSet>
+        <base loc="en">Audio Quality</base>
+        <tran loc="ar">جودة الصوت</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DEFAULT_RECORDING_NAME_BY_LOCATION</Position>
+      <TranslationSet>
+        <base loc="en">Current Location</base>
+        <tran loc="ar">الموقع الحالي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ERASE_RECENTLY_DELETED_NEVER</Position>
+      <TranslationSet>
+        <base loc="en">Never</base>
+        <tran loc="ar">مطلقًا</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SETTINGS_USE_LOCATION_BASED_NAMING</Position>
+      <TranslationSet>
+        <base loc="en">Location-based Naming</base>
+        <tran loc="ar">التسمية المستندة إلى الموقع</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SETTINGS_PERMANENTLY_DELETE</Position>
+      <TranslationSet>
+        <base loc="en">Clear Deleted</base>
+        <tran loc="ar">حذف العناصر المحذوفة</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>VoiceMemos/System/iOSSupport/System/Library/PrivateFrameworks/VoiceMemos.framework/Versions/A/Resources/en.lproj/Intents.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>rBQa24</Position>
+      <TranslationSet>
+        <base loc="en">Listen to my most recent voice memo</base>
+        <tran loc="ar">الاستماع إلى أحدث المذكرات الصوتية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>pnMPJT</Position>
+      <TranslationSet>
+        <base loc="en">Listen to Voice Memos</base>
+        <tran loc="ar">الاستماع إلى المذكرات الصوتية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>24hxga</Position>
+      <TranslationSet>
+        <base loc="en">Record a New Voice Memo</base>
+        <tran loc="ar">تسجيل مذكرة صوتية جديدة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>n5xaIl</Position>
+      <TranslationSet>
+        <base loc="en">Record a new voice memo</base>
+        <tran loc="ar">تسجيل مذكرة صوتية جديدة</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+</Proj>

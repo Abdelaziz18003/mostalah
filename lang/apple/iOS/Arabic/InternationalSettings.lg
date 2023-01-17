@@ -1,0 +1,1519 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Proj>
+  <ProjName>InternationalSettings</ProjName>
+  <File>
+    <Filepath>InternationalSettings/System/Library/NanoPreferenceBundles/General/CompanionInternationalSettings.bundle/en.lproj/InternationalSettings.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>SELECT_REGION</Position>
+      <TranslationSet>
+        <base loc="en">Select Region</base>
+        <tran loc="ar">اختيار المنطقة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CHANGE_DEVICE_REGION</Position>
+      <TranslationSet>
+        <base loc="en">Setting Region…</base>
+        <tran loc="ar">جاري تعيين المنطقة…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Temperature Units</Description>
+      <Position>TEMPERATURE_UNIT</Position>
+      <TranslationSet>
+        <base loc="en">Temperature Unit</base>
+        <tran loc="ar">وحدة درجة الحرارة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SUGGESTED_LANGUAGES</Position>
+      <TranslationSet>
+        <base loc="en">Suggested Languages</base>
+        <tran loc="ar">اللغات المقترحة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> example: Safari will use the first language that it supports from Language &amp; Region settings. You can select a different language for Safari to use if you prefer.</Description>
+      <Position>SUGGESTED_LANGUAGE_INFO</Position>
+      <TranslationSet>
+        <base loc="en">%@ will use the first language that it supports from Language &amp; Region settings. You can select a different language for %@ to use if you prefer.</base>
+        <tran loc="ar">سيستخدم %@ أول لغة يدعمها من إعدادات اللغة والمنطقة. يمكنك اختيار لغة أخرى للاستخدام مع %@ إذا كنت تفضل ذلك.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description>
+  InternationalSettings.strings
+  InternationalPref
+
+  Created by Albert Wan on 3/16/15.
+
+
+ PSInternational</Description>
+      <Position>INTERNATIONAL</Position>
+      <TranslationSet>
+        <base loc="en">Language &amp; Region</base>
+        <tran loc="ar">اللغة والمنطقة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PREFER_%@</Position>
+      <TranslationSet>
+        <base loc="en">Prefer %@</base>
+        <tran loc="ar">تفضيل %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>KEEP_%@_AS_PRIMARY_LANGUAGE</Position>
+      <TranslationSet>
+        <base loc="en">Keep %@</base>
+        <tran loc="ar">إبقاء %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>NUMBERING_SYSTEM</Position>
+      <TranslationSet>
+        <base loc="en">Numbers</base>
+        <tran loc="ar">الأرقام</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DEVICE_LANGUAGE_%@_IPHONE</Position>
+      <TranslationSet>
+        <base loc="en">iPhone Language: %@</base>
+        <tran loc="ar">لغة الـ iPhone: ‏%@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>EXAMPLE</Position>
+      <TranslationSet>
+        <base loc="en">Region Format Example</base>
+        <tran loc="ar">مثال لتنسيق المنطقة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DEVICE_LANGUAGES_IPHONE</Position>
+      <TranslationSet>
+        <base loc="en">iPhone Languages</base>
+        <tran loc="ar">لغات الـ iPhone</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ASK_USE_%@_AS_DEVICE_LANGUAGE_WATCH</Position>
+      <TranslationSet>
+        <base loc="en">Would you like to change the Apple Watch language to %@?</base>
+        <tran loc="ar">هل ترغب في تغيير لغة الـ Apple Watch إلى %@؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DEVICE_LANGUAGES_WATCH</Position>
+      <TranslationSet>
+        <base loc="en">Watch Languages</base>
+        <tran loc="ar">لغات الساعة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>OK</Position>
+      <TranslationSet>
+        <base loc="en">OK</base>
+        <tran loc="ar">موافق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>%@_WILL_BE_USED_AS_DEVICE_LANGUAGE_IPAD</Position>
+      <TranslationSet>
+        <base loc="en">%@ will be used as the iPad language.</base>
+        <tran loc="ar">سيتم استخدام %@ كلغة الـ iPad.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SELECT_LANGUAGE</Position>
+      <TranslationSet>
+        <base loc="en">Select Language</base>
+        <tran loc="ar">اختيار اللغة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DISPLAY_SAMPLE_MONEY_%@_AND_NUMBER_%@</Position>
+      <TranslationSet>
+        <base loc="en">%@\t\t%@</base>
+        <tran loc="ar">‏%@\t\t‏%@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CHANGE_DEVICE_LANGUAGE_TITLE_IPAD</Position>
+      <TranslationSet>
+        <base loc="en">Change iPad Language?</base>
+        <tran loc="ar">هل تريد تغيير لغة الـ iPad؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>NEW_PREFERRED_LANGUAGE</Position>
+      <TranslationSet>
+        <base loc="en">Other Languages…</base>
+        <tran loc="ar">لغات أخرى…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DEVICE_LANGUAGE_IPAD</Position>
+      <TranslationSet>
+        <base loc="en">iPad Language</base>
+        <tran loc="ar">لغة الـ iPad</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ADD_PREFERRED_LANGUAGE</Position>
+      <TranslationSet>
+        <base loc="en">Add Language…</base>
+        <tran loc="ar">إضافة لغة…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>APPLYING_WILL_RESTART_IPOD</Position>
+      <TranslationSet>
+        <base loc="en">Applying this setting will restart your iPod.</base>
+        <tran loc="ar">سيؤدي تطبيق هذا الإعداد إلى إعادة تشغيل الـ iPod.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ASK_USE_%@_AS_DEVICE_LANGUAGE_IPHONE</Position>
+      <TranslationSet>
+        <base loc="en">Would you like to change the iPhone language to %@?</base>
+        <tran loc="ar">هل ترغب في تغيير لغة الـ iPhone إلى %@؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CANCEL_CHANGE_LANGUAGE</Position>
+      <TranslationSet>
+        <base loc="en">Cancel</base>
+        <tran loc="ar">إلغاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CANCEL_CHANGE_REGION</Position>
+      <TranslationSet>
+        <base loc="en">Cancel</base>
+        <tran loc="ar">إلغاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>FAHRENHEIT_SHORT</Position>
+      <TranslationSet>
+        <base loc="en">°F</base>
+        <tran loc="ar">‏°ف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CHANGE_DEVICE_LANGUAGE_TITLE_IPHONE</Position>
+      <TranslationSet>
+        <base loc="en">Change iPhone Language?</base>
+        <tran loc="ar">هل تريد تغيير لغة الـ iPhone؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CHANGE_DEVICE_LANGUAGE_TITLE_WATCH</Position>
+      <TranslationSet>
+        <base loc="en">Change Watch Language?</base>
+        <tran loc="ar">هل تريد تغيير لغة Apple Watch؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CONTINUE_CHANGE_LANGUAGE</Position>
+      <TranslationSet>
+        <base loc="en">Continue</base>
+        <tran loc="ar">متابعة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CONTINUE_CHANGE_REGION</Position>
+      <TranslationSet>
+        <base loc="en">Continue</base>
+        <tran loc="ar">متابعة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DEVICE_LANGUAGES_IPAD</Position>
+      <TranslationSet>
+        <base loc="en">iPad Languages</base>
+        <tran loc="ar">لغات الـ iPad</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>%@_IS_UNSUPPORTED_DEVICE_WILL_FALLBACK_TO_%@_WHERE_%@_IS_NOT_SUPPORTED_IPOD</Position>
+      <TranslationSet>
+        <base loc="en">If you prefer %@, %@ will be used as the iPod language and by apps and websites where %@ is not supported.</base>
+        <tran loc="ar">إذا كنت تفضل %@، فسيتم استخدام %@ كلغة للـ iPod وفي التطبيقات ومواقع الويب عندما لا تكون %@ مدعومة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DEVICE_LANGUAGE_%@_WATCH</Position>
+      <TranslationSet>
+        <base loc="en">Watch Language: %@</base>
+        <tran loc="ar">لغة الساعة: ‏%@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PREFERRED_LANGUAGE_DESCRIPTION</Position>
+      <TranslationSet>
+        <base loc="en">Apps and websites will use the first language in this list that they support.</base>
+        <tran loc="ar">ستقوم التطبيقات والمواقع باستخدام أول لغة تدعمها من هذه القائمة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ADD_PREFERRED_LANGUAGE_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Add Preferred Language</base>
+        <tran loc="ar">إضافة اللغة المفضلة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>%@_WILL_BE_USED_AS_DEVICE_LANGUAGE_IPOD</Position>
+      <TranslationSet>
+        <base loc="en">%@ will be used as the iPod language.</base>
+        <tran loc="ar">سيتم استخدام %@ كلغة الـ iPod.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CHANGE_DEVICE_LANGUAGE_TITLE_IPOD</Position>
+      <TranslationSet>
+        <base loc="en">Change iPod Language?</base>
+        <tran loc="ar">هل تريد تغيير لغة الـ iPod؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CHANGE_UI_LANGUAGE_TEXT</Position>
+      <TranslationSet>
+        <base loc="en">Setting Language…</base>
+        <tran loc="ar">جاري تعيين اللغة…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>APPLYING_WILL_RESTART_IPHONE</Position>
+      <TranslationSet>
+        <base loc="en">Applying this setting will restart your iPhone.</base>
+        <tran loc="ar">سيقوم تطبيق هذا الإعداد بإعادة تشغيل الـ iPhone الخاص بك.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CHANGE_LANGUAGE_ORDER_TEXT</Position>
+      <TranslationSet>
+        <base loc="en">Updating Languages…</base>
+        <tran loc="ar">جاري تحديث اللغات…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DATE</Position>
+      <TranslationSet>
+        <base loc="en">Date</base>
+        <tran loc="ar">التاريخ</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>FAHRENHEIT</Position>
+      <TranslationSet>
+        <base loc="en">Fahrenheit (°F)</base>
+        <tran loc="ar">فهرنهايت (‫°ف‬)</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DEVICE_LANGUAGE_IPHONE</Position>
+      <TranslationSet>
+        <base loc="en">iPhone Language</base>
+        <tran loc="ar">لغة الـ iPhone</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>LANGUAGE</Position>
+      <TranslationSet>
+        <base loc="en">Language</base>
+        <tran loc="ar">اللغة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>APPLYING_WILL_RESTART_IPAD</Position>
+      <TranslationSet>
+        <base loc="en">Applying this setting will restart your iPad.</base>
+        <tran loc="ar">سيقوم تطبيق هذا الإعداد بإعادة تشغيل الـ iPad الخاص بك.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> The cell title "Region", loading the page of a list of regions.</Description>
+      <Position>LOCALE</Position>
+      <TranslationSet>
+        <base loc="en">Region</base>
+        <tran loc="ar">المنطقة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>%@_IS_UNSUPPORTED_DEVICE_WILL_FALLBACK_TO_%@_WHERE_%@_IS_NOT_SUPPORTED_WATCH</Position>
+      <TranslationSet>
+        <base loc="en">If you prefer %@, %@ will be used as the Apple Watch language and by apps where %@ is not supported.</base>
+        <tran loc="ar">إذا كنت تفضل %@، فسيتم استخدام %@ كلغة للـ Apple Watch وفي التطبيقات ومواقع الويب عندما لا تكون %@ مدعومة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ASK_CHANGE_LANGUAGE_PREFERENCE_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Change Language Preference?</base>
+        <tran loc="ar">هل تريد تغيير تفضيل اللغة؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CELSIUS</Position>
+      <TranslationSet>
+        <base loc="en">Celsius (°C)</base>
+        <tran loc="ar">مئوية (‫°م‬)</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DEVICE_LANGUAGE_WATCH</Position>
+      <TranslationSet>
+        <base loc="en">Watch Language</base>
+        <tran loc="ar">لغة الساعة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>TIME</Position>
+      <TranslationSet>
+        <base loc="en">Time</base>
+        <tran loc="ar">الوقت</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PREFERRED_LANGUAGES</Position>
+      <TranslationSet>
+        <base loc="en">Preferred Language Order</base>
+        <tran loc="ar">ترتيب اللغة المفضلة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DEVICE_LANGUAGES_IPOD</Position>
+      <TranslationSet>
+        <base loc="en">iPod Languages</base>
+        <tran loc="ar">لغات الـ iPod</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>APPLYING_WILL_RESTART_WATCH</Position>
+      <TranslationSet>
+        <base loc="en">Applying this setting will restart your Apple Watch.</base>
+        <tran loc="ar">سيؤدي تطبيق هذا الإعداد إلى إعادة تشغيل الـ Apple Watch.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CHANGE_REGION_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Change Region</base>
+        <tran loc="ar">تغيير المنطقة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>%@_WILL_BE_USED_AS_DEVICE_LANGUAGE_IPHONE</Position>
+      <TranslationSet>
+        <base loc="en">%@ will be used as the iPhone language.</base>
+        <tran loc="ar">سيتم استخدام %@ كلغة الـ iPhone.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CHANGE_TO_%@_AS_PRIMARY_LANGUAGE</Position>
+      <TranslationSet>
+        <base loc="en">Change to %@</base>
+        <tran loc="ar">تغيير إلى %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CHANGE_TO_%@_FOR_NEW_DEVICE_LANGUAGE</Position>
+      <TranslationSet>
+        <base loc="en">Change to %@</base>
+        <tran loc="ar">تغيير إلى %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CELSIUS_SHORT</Position>
+      <TranslationSet>
+        <base loc="en">°C</base>
+        <tran loc="ar">‏°م</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>%@_WILL_BE_USED_AS_DEVICE_LANGUAGE_WATCH</Position>
+      <TranslationSet>
+        <base loc="en">%@ will be used as the Apple Watch language.</base>
+        <tran loc="ar">سيتم استخدام %@ كلغة للـ Apple Watch.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ASK_USE_%@_AS_DEVICE_LANGUAGE_IPAD</Position>
+      <TranslationSet>
+        <base loc="en">Would you like to change the iPad language to %@?</base>
+        <tran loc="ar">هل ترغب في تغيير لغة الـ iPad إلى %@؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>%@_IS_UNSUPPORTED_DEVICE_WILL_FALLBACK_TO_%@_WHERE_%@_IS_NOT_SUPPORTED_IPAD</Position>
+      <TranslationSet>
+        <base loc="en">If you prefer %@, %@ will be used as the iPad language and by apps and websites where %@ is not supported.</base>
+        <tran loc="ar">إذا كنت تفضل %@، فسيتم استخدام %@ كلغة للـ iPad وفي التطبيقات ومواقع الويب عندما لا تكون %@ مدعومة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>OTHER_LANGUAGES</Position>
+      <TranslationSet>
+        <base loc="en">Other Languages</base>
+        <tran loc="ar">لغات أخرى</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CALENDAR</Position>
+      <TranslationSet>
+        <base loc="en">Calendar</base>
+        <tran loc="ar">التقويم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> placeholder text for search bar</Description>
+      <Position>SEARCH</Position>
+      <TranslationSet>
+        <base loc="en">Search</base>
+        <tran loc="ar">البحث</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DEVICE_LANGUAGE_%@_IPOD</Position>
+      <TranslationSet>
+        <base loc="en">iPod Language: %@</base>
+        <tran loc="ar">لغة الـ iPod: ‏%@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DEFAULT_LANGUAGE</Position>
+      <TranslationSet>
+        <base loc="en">Default</base>
+        <tran loc="ar">افتراضي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> example: If you prefer Armenian, English will be used as the iPhone language and by apps and websites where Armenian is not supported.</Description>
+      <Position>%@_IS_UNSUPPORTED_DEVICE_WILL_FALLBACK_TO_%@_WHERE_%@_IS_NOT_SUPPORTED_IPHONE</Position>
+      <TranslationSet>
+        <base loc="en">If you prefer %@, %@ will be used as the iPhone language and by apps and websites where %@ is not supported.</base>
+        <tran loc="ar">إذا كنت تفضل %@، فسيتم استخدام %@ كلغة للـ iPhone وفي التطبيقات ومواقع الويب عندما لا تكون %@ مدعومة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DEVICE_LANGUAGE_%@_IPAD</Position>
+      <TranslationSet>
+        <base loc="en">iPad Language: %@</base>
+        <tran loc="ar">لغة الـ iPad: ‏%@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ASK_CHANGE_LANGUAGE_PREFERENCE_BODY</Position>
+      <TranslationSet>
+        <base loc="en">Are you sure you want to change your language preference?</base>
+        <tran loc="ar">هل ترغب بالتأكيد في تغيير لغتك المفضلة؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ASK_USE_%@_AS_DEVICE_LANGUAGE_IPOD</Position>
+      <TranslationSet>
+        <base loc="en">Would you like to change the iPod language to %@?</base>
+        <tran loc="ar">هل ترغب في تغيير لغة الـ iPod إلى %@؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>%@_WILL_BE_USED_AS_DEVICE_REGION</Position>
+      <TranslationSet>
+        <base loc="en">Would you like to change the region to %@?</base>
+        <tran loc="ar">هل ترغب في تغيير المنطقة إلى %@؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DEVICE_LANGUAGE_IPOD</Position>
+      <TranslationSet>
+        <base loc="en">iPod Language</base>
+        <tran loc="ar">لغة الـ iPod</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>InternationalSettings/System/Library/PreferenceBundles/InternationalSettings.bundle/en.lproj/InternationalSettings.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>SELECT_REGION</Position>
+      <TranslationSet>
+        <base loc="en">Select Region</base>
+        <tran loc="ar">اختيار المنطقة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CHANGE_DEVICE_REGION</Position>
+      <TranslationSet>
+        <base loc="en">Setting Region…</base>
+        <tran loc="ar">جاري تعيين المنطقة…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Temperature Units</Description>
+      <Position>TEMPERATURE_UNIT</Position>
+      <TranslationSet>
+        <base loc="en">Temperature Unit</base>
+        <tran loc="ar">وحدة درجة الحرارة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SUGGESTED_LANGUAGES</Position>
+      <TranslationSet>
+        <base loc="en">Suggested Languages</base>
+        <tran loc="ar">اللغات المقترحة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> example: Safari will use the first language that it supports from Language &amp; Region settings. You can select a different language for Safari to use if you prefer.</Description>
+      <Position>SUGGESTED_LANGUAGE_INFO</Position>
+      <TranslationSet>
+        <base loc="en">%@ will use the first language that it supports from Language &amp; Region settings. You can select a different language for %@ to use if you prefer.</base>
+        <tran loc="ar">سيستخدم %@ أول لغة يدعمها من إعدادات اللغة والمنطقة. يمكنك اختيار لغة أخرى للاستخدام مع %@ إذا كنت تفضل ذلك.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description>
+  InternationalSettings.strings
+  InternationalPref
+
+  Created by Albert Wan on 3/16/15.
+
+
+ PSInternational</Description>
+      <Position>INTERNATIONAL</Position>
+      <TranslationSet>
+        <base loc="en">Language &amp; Region</base>
+        <tran loc="ar">اللغة والمنطقة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PREFER_%@</Position>
+      <TranslationSet>
+        <base loc="en">Prefer %@</base>
+        <tran loc="ar">تفضيل %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>KEEP_%@_AS_PRIMARY_LANGUAGE</Position>
+      <TranslationSet>
+        <base loc="en">Keep %@</base>
+        <tran loc="ar">إبقاء %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>NUMBERING_SYSTEM</Position>
+      <TranslationSet>
+        <base loc="en">Numbers</base>
+        <tran loc="ar">الأرقام</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DEVICE_LANGUAGE_%@_IPHONE</Position>
+      <TranslationSet>
+        <base loc="en">iPhone Language: %@</base>
+        <tran loc="ar">لغة الـ iPhone: ‏%@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>EXAMPLE</Position>
+      <TranslationSet>
+        <base loc="en">Region Format Example</base>
+        <tran loc="ar">مثال لتنسيق المنطقة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DEVICE_LANGUAGES_IPHONE</Position>
+      <TranslationSet>
+        <base loc="en">iPhone Languages</base>
+        <tran loc="ar">لغات الـ iPhone</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ASK_USE_%@_AS_DEVICE_LANGUAGE_WATCH</Position>
+      <TranslationSet>
+        <base loc="en">Would you like to change the Apple Watch language to %@?</base>
+        <tran loc="ar">هل ترغب في تغيير لغة الـ Apple Watch إلى %@؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DEVICE_LANGUAGES_WATCH</Position>
+      <TranslationSet>
+        <base loc="en">Watch Languages</base>
+        <tran loc="ar">لغات الساعة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>OK</Position>
+      <TranslationSet>
+        <base loc="en">OK</base>
+        <tran loc="ar">موافق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>%@_WILL_BE_USED_AS_DEVICE_LANGUAGE_IPAD</Position>
+      <TranslationSet>
+        <base loc="en">%@ will be used as the iPad language.</base>
+        <tran loc="ar">سيتم استخدام %@ كلغة الـ iPad.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SELECT_LANGUAGE</Position>
+      <TranslationSet>
+        <base loc="en">Select Language</base>
+        <tran loc="ar">اختيار اللغة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DISPLAY_SAMPLE_MONEY_%@_AND_NUMBER_%@</Position>
+      <TranslationSet>
+        <base loc="en">%@\t\t%@</base>
+        <tran loc="ar">‏%@\t\t‏%@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CHANGE_DEVICE_LANGUAGE_TITLE_IPAD</Position>
+      <TranslationSet>
+        <base loc="en">Change iPad Language?</base>
+        <tran loc="ar">هل تريد تغيير لغة الـ iPad؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>NEW_PREFERRED_LANGUAGE</Position>
+      <TranslationSet>
+        <base loc="en">Other Languages…</base>
+        <tran loc="ar">لغات أخرى…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DEVICE_LANGUAGE_IPAD</Position>
+      <TranslationSet>
+        <base loc="en">iPad Language</base>
+        <tran loc="ar">لغة الـ iPad</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ADD_PREFERRED_LANGUAGE</Position>
+      <TranslationSet>
+        <base loc="en">Add Language…</base>
+        <tran loc="ar">إضافة لغة…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>APPLYING_WILL_RESTART_IPOD</Position>
+      <TranslationSet>
+        <base loc="en">Applying this setting will restart your iPod.</base>
+        <tran loc="ar">سيؤدي تطبيق هذا الإعداد إلى إعادة تشغيل الـ iPod.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ASK_USE_%@_AS_DEVICE_LANGUAGE_IPHONE</Position>
+      <TranslationSet>
+        <base loc="en">Would you like to change the iPhone language to %@?</base>
+        <tran loc="ar">هل ترغب في تغيير لغة الـ iPhone إلى %@؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CANCEL_CHANGE_LANGUAGE</Position>
+      <TranslationSet>
+        <base loc="en">Cancel</base>
+        <tran loc="ar">إلغاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CANCEL_CHANGE_REGION</Position>
+      <TranslationSet>
+        <base loc="en">Cancel</base>
+        <tran loc="ar">إلغاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>FAHRENHEIT_SHORT</Position>
+      <TranslationSet>
+        <base loc="en">°F</base>
+        <tran loc="ar">‏°ف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CHANGE_DEVICE_LANGUAGE_TITLE_IPHONE</Position>
+      <TranslationSet>
+        <base loc="en">Change iPhone Language?</base>
+        <tran loc="ar">هل تريد تغيير لغة الـ iPhone؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CHANGE_DEVICE_LANGUAGE_TITLE_WATCH</Position>
+      <TranslationSet>
+        <base loc="en">Change Watch Language?</base>
+        <tran loc="ar">هل تريد تغيير لغة Apple Watch؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CONTINUE_CHANGE_LANGUAGE</Position>
+      <TranslationSet>
+        <base loc="en">Continue</base>
+        <tran loc="ar">متابعة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CONTINUE_CHANGE_REGION</Position>
+      <TranslationSet>
+        <base loc="en">Continue</base>
+        <tran loc="ar">متابعة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DEVICE_LANGUAGES_IPAD</Position>
+      <TranslationSet>
+        <base loc="en">iPad Languages</base>
+        <tran loc="ar">لغات الـ iPad</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>%@_IS_UNSUPPORTED_DEVICE_WILL_FALLBACK_TO_%@_WHERE_%@_IS_NOT_SUPPORTED_IPOD</Position>
+      <TranslationSet>
+        <base loc="en">If you prefer %@, %@ will be used as the iPod language and by apps and websites where %@ is not supported.</base>
+        <tran loc="ar">إذا كنت تفضل %@، فسيتم استخدام %@ كلغة للـ iPod وفي التطبيقات ومواقع الويب عندما لا تكون %@ مدعومة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DEVICE_LANGUAGE_%@_WATCH</Position>
+      <TranslationSet>
+        <base loc="en">Watch Language: %@</base>
+        <tran loc="ar">لغة الساعة: ‏%@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PREFERRED_LANGUAGE_DESCRIPTION</Position>
+      <TranslationSet>
+        <base loc="en">Apps and websites will use the first language in this list that they support.</base>
+        <tran loc="ar">ستقوم التطبيقات والمواقع باستخدام أول لغة تدعمها من هذه القائمة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ADD_PREFERRED_LANGUAGE_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Add Preferred Language</base>
+        <tran loc="ar">إضافة اللغة المفضلة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>%@_WILL_BE_USED_AS_DEVICE_LANGUAGE_IPOD</Position>
+      <TranslationSet>
+        <base loc="en">%@ will be used as the iPod language.</base>
+        <tran loc="ar">سيتم استخدام %@ كلغة الـ iPod.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CHANGE_DEVICE_LANGUAGE_TITLE_IPOD</Position>
+      <TranslationSet>
+        <base loc="en">Change iPod Language?</base>
+        <tran loc="ar">هل تريد تغيير لغة الـ iPod؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CHANGE_UI_LANGUAGE_TEXT</Position>
+      <TranslationSet>
+        <base loc="en">Setting Language…</base>
+        <tran loc="ar">جاري تعيين اللغة…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>APPLYING_WILL_RESTART_IPHONE</Position>
+      <TranslationSet>
+        <base loc="en">Applying this setting will restart your iPhone.</base>
+        <tran loc="ar">سيقوم تطبيق هذا الإعداد بإعادة تشغيل الـ iPhone الخاص بك.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CHANGE_LANGUAGE_ORDER_TEXT</Position>
+      <TranslationSet>
+        <base loc="en">Updating Languages…</base>
+        <tran loc="ar">جاري تحديث اللغات…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DATE</Position>
+      <TranslationSet>
+        <base loc="en">Date</base>
+        <tran loc="ar">التاريخ</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>FAHRENHEIT</Position>
+      <TranslationSet>
+        <base loc="en">Fahrenheit (°F)</base>
+        <tran loc="ar">فهرنهايت (‫°ف‬)</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DEVICE_LANGUAGE_IPHONE</Position>
+      <TranslationSet>
+        <base loc="en">iPhone Language</base>
+        <tran loc="ar">لغة الـ iPhone</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>LANGUAGE</Position>
+      <TranslationSet>
+        <base loc="en">Language</base>
+        <tran loc="ar">اللغة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>APPLYING_WILL_RESTART_IPAD</Position>
+      <TranslationSet>
+        <base loc="en">Applying this setting will restart your iPad.</base>
+        <tran loc="ar">سيقوم تطبيق هذا الإعداد بإعادة تشغيل الـ iPad الخاص بك.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> The cell title "Region", loading the page of a list of regions.</Description>
+      <Position>LOCALE</Position>
+      <TranslationSet>
+        <base loc="en">Region</base>
+        <tran loc="ar">المنطقة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>%@_IS_UNSUPPORTED_DEVICE_WILL_FALLBACK_TO_%@_WHERE_%@_IS_NOT_SUPPORTED_WATCH</Position>
+      <TranslationSet>
+        <base loc="en">If you prefer %@, %@ will be used as the Apple Watch language and by apps where %@ is not supported.</base>
+        <tran loc="ar">إذا كنت تفضل %@، فسيتم استخدام %@ كلغة للـ Apple Watch وفي التطبيقات ومواقع الويب عندما لا تكون %@ مدعومة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ASK_CHANGE_LANGUAGE_PREFERENCE_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Change Language Preference?</base>
+        <tran loc="ar">هل تريد تغيير تفضيل اللغة؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CELSIUS</Position>
+      <TranslationSet>
+        <base loc="en">Celsius (°C)</base>
+        <tran loc="ar">مئوية (‫°م‬)</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DEVICE_LANGUAGE_WATCH</Position>
+      <TranslationSet>
+        <base loc="en">Watch Language</base>
+        <tran loc="ar">لغة الساعة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>TIME</Position>
+      <TranslationSet>
+        <base loc="en">Time</base>
+        <tran loc="ar">الوقت</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PREFERRED_LANGUAGES</Position>
+      <TranslationSet>
+        <base loc="en">Preferred Language Order</base>
+        <tran loc="ar">ترتيب اللغة المفضلة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DEVICE_LANGUAGES_IPOD</Position>
+      <TranslationSet>
+        <base loc="en">iPod Languages</base>
+        <tran loc="ar">لغات الـ iPod</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>APPLYING_WILL_RESTART_WATCH</Position>
+      <TranslationSet>
+        <base loc="en">Applying this setting will restart your Apple Watch.</base>
+        <tran loc="ar">سيؤدي تطبيق هذا الإعداد إلى إعادة تشغيل الـ Apple Watch.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CHANGE_REGION_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Change Region</base>
+        <tran loc="ar">تغيير المنطقة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>%@_WILL_BE_USED_AS_DEVICE_LANGUAGE_IPHONE</Position>
+      <TranslationSet>
+        <base loc="en">%@ will be used as the iPhone language.</base>
+        <tran loc="ar">سيتم استخدام %@ كلغة الـ iPhone.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CHANGE_TO_%@_AS_PRIMARY_LANGUAGE</Position>
+      <TranslationSet>
+        <base loc="en">Change to %@</base>
+        <tran loc="ar">تغيير إلى %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CHANGE_TO_%@_FOR_NEW_DEVICE_LANGUAGE</Position>
+      <TranslationSet>
+        <base loc="en">Change to %@</base>
+        <tran loc="ar">تغيير إلى %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CELSIUS_SHORT</Position>
+      <TranslationSet>
+        <base loc="en">°C</base>
+        <tran loc="ar">‏°م</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>%@_WILL_BE_USED_AS_DEVICE_LANGUAGE_WATCH</Position>
+      <TranslationSet>
+        <base loc="en">%@ will be used as the Apple Watch language.</base>
+        <tran loc="ar">سيتم استخدام %@ كلغة للـ Apple Watch.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ASK_USE_%@_AS_DEVICE_LANGUAGE_IPAD</Position>
+      <TranslationSet>
+        <base loc="en">Would you like to change the iPad language to %@?</base>
+        <tran loc="ar">هل ترغب في تغيير لغة الـ iPad إلى %@؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>%@_IS_UNSUPPORTED_DEVICE_WILL_FALLBACK_TO_%@_WHERE_%@_IS_NOT_SUPPORTED_IPAD</Position>
+      <TranslationSet>
+        <base loc="en">If you prefer %@, %@ will be used as the iPad language and by apps and websites where %@ is not supported.</base>
+        <tran loc="ar">إذا كنت تفضل %@، فسيتم استخدام %@ كلغة للـ iPad وفي التطبيقات ومواقع الويب عندما لا تكون %@ مدعومة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>OTHER_LANGUAGES</Position>
+      <TranslationSet>
+        <base loc="en">Other Languages</base>
+        <tran loc="ar">لغات أخرى</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CALENDAR</Position>
+      <TranslationSet>
+        <base loc="en">Calendar</base>
+        <tran loc="ar">التقويم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> placeholder text for search bar</Description>
+      <Position>SEARCH</Position>
+      <TranslationSet>
+        <base loc="en">Search</base>
+        <tran loc="ar">البحث</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DEVICE_LANGUAGE_%@_IPOD</Position>
+      <TranslationSet>
+        <base loc="en">iPod Language: %@</base>
+        <tran loc="ar">لغة الـ iPod: ‏%@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DEFAULT_LANGUAGE</Position>
+      <TranslationSet>
+        <base loc="en">Default</base>
+        <tran loc="ar">افتراضي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> example: If you prefer Armenian, English will be used as the iPhone language and by apps and websites where Armenian is not supported.</Description>
+      <Position>%@_IS_UNSUPPORTED_DEVICE_WILL_FALLBACK_TO_%@_WHERE_%@_IS_NOT_SUPPORTED_IPHONE</Position>
+      <TranslationSet>
+        <base loc="en">If you prefer %@, %@ will be used as the iPhone language and by apps and websites where %@ is not supported.</base>
+        <tran loc="ar">إذا كنت تفضل %@، فسيتم استخدام %@ كلغة للـ iPhone وفي التطبيقات ومواقع الويب عندما لا تكون %@ مدعومة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DEVICE_LANGUAGE_%@_IPAD</Position>
+      <TranslationSet>
+        <base loc="en">iPad Language: %@</base>
+        <tran loc="ar">لغة الـ iPad: ‏%@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ASK_CHANGE_LANGUAGE_PREFERENCE_BODY</Position>
+      <TranslationSet>
+        <base loc="en">Are you sure you want to change your language preference?</base>
+        <tran loc="ar">هل ترغب بالتأكيد في تغيير لغتك المفضلة؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ASK_USE_%@_AS_DEVICE_LANGUAGE_IPOD</Position>
+      <TranslationSet>
+        <base loc="en">Would you like to change the iPod language to %@?</base>
+        <tran loc="ar">هل ترغب في تغيير لغة الـ iPod إلى %@؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>%@_WILL_BE_USED_AS_DEVICE_REGION</Position>
+      <TranslationSet>
+        <base loc="en">Would you like to change the region to %@?</base>
+        <tran loc="ar">هل ترغب في تغيير المنطقة إلى %@؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DEVICE_LANGUAGE_IPOD</Position>
+      <TranslationSet>
+        <base loc="en">iPod Language</base>
+        <tran loc="ar">لغة الـ iPod</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>InternationalSettings/System/Library/PreferenceBundles/InternationalSettings.bundle/en.lproj/InternationalCalendar.strings</Filepath>
+    <TextItem>
+      <Description> “Calendar Directionality” header that‘s shown in Settings &gt; General &gt; Language &amp; Region &gt; Calendar.</Description>
+      <Position>CALENDAR_DIRECTIONALITY</Position>
+      <TranslationSet>
+        <base loc="en">Calendar Directionality</base>
+        <tran loc="ar">اتجاه التقويم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>BUDDHIST_CALENDAR</Position>
+      <TranslationSet>
+        <base loc="en">Buddhist</base>
+        <tran loc="ar">البوذي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Format string used to combine calendar type with calendar directionality (for RTL languages), e.g. “Gregorian, Left to Right”. The first variable is the name of the calendar (Gregorian, Japanese, Buddhist, etc.) and the second variable is a directionality (“Left to Right” or “Right to Left”).</Description>
+      <Position>CALENDAR_TYPE_PLUS_DIRECTIONALITY_FORMAT</Position>
+      <TranslationSet>
+        <base loc="en">%@, %@</base>
+        <tran loc="ar">‏%@، ‏%@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>GREGORIAN_CALENDAR</Position>
+      <TranslationSet>
+        <base loc="en">Gregorian</base>
+        <tran loc="ar">الميلادي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> “Left to Right” setting that’s shown in Settings &gt; General &gt; Language &amp; Region &gt; Calendar.</Description>
+      <Position>CALENDAR_DIRECTIONALITY_LEFT_TO_RIGHT</Position>
+      <TranslationSet>
+        <base loc="en">Left to Right</base>
+        <tran loc="ar">من اليسار إلى اليمين</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> “Right to Left” setting that’s shown in Settings &gt; General &gt; Language &amp; Region &gt; Calendar.</Description>
+      <Position>CALENDAR_DIRECTIONALITY_RIGHT_TO_LEFT</Position>
+      <TranslationSet>
+        <base loc="en">Right to Left</base>
+        <tran loc="ar">من اليمين إلى اليسار</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 
+  InternationalCalendar.strings
+  InternationalSettings
+
+  Created by Aaltan Ahmad on 5/5/16.
+  Copyright © 2016 Apple Inc. All rights reserved.
+
+ Title</Description>
+      <Position>CALENDAR</Position>
+      <TranslationSet>
+        <base loc="en">Calendar</base>
+        <tran loc="ar">التقويم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Calendars</Description>
+      <Position>CALENDAR_TYPE</Position>
+      <TranslationSet>
+        <base loc="en">Calendar</base>
+        <tran loc="ar">التقويم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>JAPANESE_CALENDAR</Position>
+      <TranslationSet>
+        <base loc="en">Japanese</base>
+        <tran loc="ar">الياباني</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>InternationalSettings/System/Library/NanoPreferenceBundles/General/CompanionInternationalSettings.bundle/en.lproj/Companion.strings</Filepath>
+    <TextItem>
+      <Description> 
+  Companion.strings
+  InternationalSettings
+
+  Created by Morgan Grainger on 4/8/14.
+  Copyright (c) 2014 Apple Inc. All rights reserved.
+</Description>
+      <Position>LANGUAGE_AND_REGION</Position>
+      <TranslationSet>
+        <base loc="en">Language &amp; Region</base>
+        <tran loc="ar">اللغة والمنطقة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>MIRROR_MY_COMPANION</Position>
+      <TranslationSet>
+        <base loc="en">Mirror my iPhone</base>
+        <tran loc="ar">محاكاة الـ iPhone الخاص بي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CUSTOM_NOTIFICATION_OPTIONS</Position>
+      <TranslationSet>
+        <base loc="en">Custom</base>
+        <tran loc="ar">مخصص</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Footer for “Mirror my iPhone”
+ This is a format used to form one line in the table view footer. Example: ”• Calendar: Japanese\n” </Description>
+      <Position>FOOTER_LINE_FORMAT_WITH_BULLET</Position>
+      <TranslationSet>
+        <base loc="en">• %@: %@\n</base>
+        <tran loc="ar">‏• %@: %@\n</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> This is a format used to form one line in the table view footer. Example: ”Calendar: Japanese\n” </Description>
+      <Position>FOOTER_LINE_FORMAT</Position>
+      <TranslationSet>
+        <base loc="en">%@: %@\n</base>
+        <tran loc="ar">‏%@‏: %@\n</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>InternationalSettings/System/Library/NanoPreferenceBundles/General/CompanionInternationalSettings.bundle/en.lproj/CompanionCustom.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>LANGUAGE_AND_REGION</Position>
+      <TranslationSet>
+        <base loc="en">Language &amp; Region</base>
+        <tran loc="ar">اللغة والمنطقة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Numbering System</Description>
+      <Position>NUMBERING_SYSTEM</Position>
+      <TranslationSet>
+        <base loc="en">Numbers</base>
+        <tran loc="ar">الأرقام</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PREFERRED_LANGUAGE_DESCRIPTION</Position>
+      <TranslationSet>
+        <base loc="en">Apps will use the first language in this list that they support.</base>
+        <tran loc="ar">ستستخدم التطبيقات أول لغة تدعمها من هذه القائمة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>BUDDHIST_CALENDAR</Position>
+      <TranslationSet>
+        <base loc="en">Buddhist</base>
+        <tran loc="ar">البوذي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 
+  CompanionCustom.strings
+  InternationalSettings
+
+  Created by Dongyuan Liu on 2018-02-06.
+  Copyright (c) 2018 Apple Inc. All rights reserved.
+</Description>
+      <Position>NEW_PREFERRED_LANGUAGE</Position>
+      <TranslationSet>
+        <base loc="en">Other Languages…</base>
+        <tran loc="ar">لغات أخرى…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ADD_PREFERRED_LANGUAGE</Position>
+      <TranslationSet>
+        <base loc="en">Add Language…</base>
+        <tran loc="ar">إضافة لغة…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>GREGORIAN_CALENDAR</Position>
+      <TranslationSet>
+        <base loc="en">Gregorian</base>
+        <tran loc="ar">الميلادي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SET_LOCALE</Position>
+      <TranslationSet>
+        <base loc="en">Region</base>
+        <tran loc="ar">المنطقة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PREFERRED_LANGUAGES</Position>
+      <TranslationSet>
+        <base loc="en">Preferred Language Order</base>
+        <tran loc="ar">ترتيب اللغة المفضلة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Calendars</Description>
+      <Position>CALENDAR</Position>
+      <TranslationSet>
+        <base loc="en">Calendar</base>
+        <tran loc="ar">التقويم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>JAPANESE_CALENDAR</Position>
+      <TranslationSet>
+        <base loc="en">Japanese</base>
+        <tran loc="ar">الياباني</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>InternationalSettings/System/Library/NanoPreferenceBundles/General/CompanionInternationalSettings.bundle/en.lproj/InternationalCalendar.strings</Filepath>
+    <TextItem>
+      <Description> “Calendar Directionality” header that‘s shown in Settings &gt; General &gt; Language &amp; Region &gt; Calendar.</Description>
+      <Position>CALENDAR_DIRECTIONALITY</Position>
+      <TranslationSet>
+        <base loc="en">Calendar Directionality</base>
+        <tran loc="ar">اتجاه التقويم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>BUDDHIST_CALENDAR</Position>
+      <TranslationSet>
+        <base loc="en">Buddhist</base>
+        <tran loc="ar">البوذي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Format string used to combine calendar type with calendar directionality (for RTL languages), e.g. “Gregorian, Left to Right”. The first variable is the name of the calendar (Gregorian, Japanese, Buddhist, etc.) and the second variable is a directionality (“Left to Right” or “Right to Left”).</Description>
+      <Position>CALENDAR_TYPE_PLUS_DIRECTIONALITY_FORMAT</Position>
+      <TranslationSet>
+        <base loc="en">%@, %@</base>
+        <tran loc="ar">‏%@، ‏%@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>GREGORIAN_CALENDAR</Position>
+      <TranslationSet>
+        <base loc="en">Gregorian</base>
+        <tran loc="ar">الميلادي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> “Left to Right” setting that’s shown in Settings &gt; General &gt; Language &amp; Region &gt; Calendar.</Description>
+      <Position>CALENDAR_DIRECTIONALITY_LEFT_TO_RIGHT</Position>
+      <TranslationSet>
+        <base loc="en">Left to Right</base>
+        <tran loc="ar">من اليسار إلى اليمين</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> “Right to Left” setting that’s shown in Settings &gt; General &gt; Language &amp; Region &gt; Calendar.</Description>
+      <Position>CALENDAR_DIRECTIONALITY_RIGHT_TO_LEFT</Position>
+      <TranslationSet>
+        <base loc="en">Right to Left</base>
+        <tran loc="ar">من اليمين إلى اليسار</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 
+  InternationalCalendar.strings
+  InternationalSettings
+
+  Created by Aaltan Ahmad on 5/5/16.
+  Copyright © 2016 Apple Inc. All rights reserved.
+
+ Title</Description>
+      <Position>CALENDAR</Position>
+      <TranslationSet>
+        <base loc="en">Calendar</base>
+        <tran loc="ar">التقويم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Calendars</Description>
+      <Position>CALENDAR_TYPE</Position>
+      <TranslationSet>
+        <base loc="en">Calendar</base>
+        <tran loc="ar">التقويم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>JAPANESE_CALENDAR</Position>
+      <TranslationSet>
+        <base loc="en">Japanese</base>
+        <tran loc="ar">الياباني</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+</Proj>

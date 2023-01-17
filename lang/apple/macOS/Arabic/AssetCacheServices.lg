@@ -1,0 +1,729 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Proj>
+  <ProjName>AssetCacheServices</ProjName>
+  <File>
+    <Filepath>AssetCacheServices/System/Library/ConfigurationProfiles/PlugIns/AssetCacheClient.profileDomainPlugin/Contents/Resources/en.lproj/Localizable.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>ACCOP Favored Server Ranges</Position>
+      <TranslationSet>
+        <base loc="en">Favored server addresses</base>
+        <tran loc="ar">عناوين الخادم المفضلة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Profile Payload Strings</Description>
+      <Position>ACCOP Public IP Address Ranges</Position>
+      <TranslationSet>
+        <base loc="en">Public IP addresses</base>
+        <tran loc="ar">عناوين IP عامة</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>AssetCacheServices/System/Library/PrivateFrameworks/AssetCacheServicesExtensions.framework/Versions/A/XPCServices/AssetCacheTetheratorService.xpc/Contents/Resources/en.lproj/Errors.strings</Filepath>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>The device OS is too old for the installed version of iTunes.</Position>
+      <TranslationSet>
+        <base loc="en">The device OS is too old for the installed version of iTunes.</base>
+        <tran loc="ar">إصدار OS على الجهاز قديم جدًا بالنسبة إلى الإصدار المثبَّت من iTunes.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Error description when device is locked with a passcode </Description>
+      <Position>You must unlock the device to complete the iOS upgrade.</Position>
+      <TranslationSet>
+        <base loc="en">You must unlock the device to complete the iOS upgrade.</base>
+        <tran loc="ar">يجب فتح قفل الجهاز لإكمال ترقية iOS.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Error description when lockdown returns an unexpected value </Description>
+      <Position>Device query returned an unexpected value.</Position>
+      <TranslationSet>
+        <base loc="en">Device query returned an unexpected value.</base>
+        <tran loc="ar">أرجع استعلام الجهاز قيمة غير متوقعة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>Failed to connect to the device.</Position>
+      <TranslationSet>
+        <base loc="en">Failed to connect to the device.</base>
+        <tran loc="ar">فشل الاتصال بالجهاز.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Error: Can't backup until device is locked </Description>
+      <Position>The device is locked with a passcode.</Position>
+      <TranslationSet>
+        <base loc="en">The device is locked with a passcode.</base>
+        <tran loc="ar">الجهاز مقفل برمز دخول.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Error description when managed configuration refused to escalate the tunnel because the certificate was rejected
+   Error description when the framework is missing the X.509 certificate used to securely establish a connection with the device
+   Error description when the host could not sign the challenge from managed configuration </Description>
+      <Position>This host does not have the supervising certificate for this device.</Position>
+      <TranslationSet>
+        <base loc="en">This host does not have the supervising certificate for this device.</base>
+        <tran loc="ar">المضيف ليس لديه الشهادة المشرفة لهذا الجهاز.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> A fallback error description. %1$@ is the domain and %2$@ is the formatted with integer and hex versions. </Description>
+      <Position>The operation couldn’t be completed. (%@ – %d)</Position>
+      <TranslationSet>
+        <base loc="en">The operation couldn’t be completed. (%1$@ – %2$d)</base>
+        <tran loc="ar">تعذر إكمال العملية. (%1$@ – %2$d)</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Error: started a backup while one is running </Description>
+      <Position>The device is already backing up.</Position>
+      <TranslationSet>
+        <base loc="en">The device is already backing up.</base>
+        <tran loc="ar">الجهاز قيد النسخ الاحتياطي بالفعل.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>The device is out of space.</Position>
+      <TranslationSet>
+        <base loc="en">The device is out of space.</base>
+        <tran loc="ar">نفذت المساحة على الجهاز.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>The device OS is too new for the installed version of iTunes.</Position>
+      <TranslationSet>
+        <base loc="en">The device OS is too new for the installed version of iTunes.</base>
+        <tran loc="ar">إصدار OS على الجهاز جديد جدًا بالنسبة إلى الإصدار المثبَّت من iTunes.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>The device is not paired.</Position>
+      <TranslationSet>
+        <base loc="en">The device is not paired.</base>
+        <tran loc="ar">الجهاز غير مقترن.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> A fallback error description. %1$@ is the domain and %2$@ is the formatted with integer and hex versions. </Description>
+      <Position>The operation couldn’t be completed. (%1$@ – %2$@)</Position>
+      <TranslationSet>
+        <base loc="en">The operation couldn’t be completed. (%1$@ – %2$@)</base>
+        <tran loc="ar">تعذر إكمال العملية. (%1$@ – %2$@)</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Error description when service connection fails due to possible escrow reasons </Description>
+      <Position>Unable to connect to service on device, try re-pairing.</Position>
+      <TranslationSet>
+        <base loc="en">Unable to connect to service on device, try re-pairing.</base>
+        <tran loc="ar">غير قادر على الاتصال بالخدمة على الجهاز، جرّب إعادة الاقتران.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Error: Backup with user-chosen or automatically-chosen name doesn't exist </Description>
+      <Position>The requested backup does not exist.</Position>
+      <TranslationSet>
+        <base loc="en">The requested backup does not exist.</base>
+        <tran loc="ar">النسخة الاحتياطية المطلوبة غير موجودة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Error: Can't restore backup until correct password sent to device </Description>
+      <Position>The backup password is incorrect.</Position>
+      <TranslationSet>
+        <base loc="en">The backup password is incorrect.</base>
+        <tran loc="ar">كلمة سر النسخة الاحتياطية غير صحيحة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Error: user tried performing an action not possible with DEP </Description>
+      <Position>The DEP configuration for this device does not allow use with Configurator.</Position>
+      <TranslationSet>
+        <base loc="en">The DEP configuration for this device does not allow use with Configurator.</base>
+        <tran loc="ar">تكوين DEP لهذا الجهاز لا يسمح باستخدامه مع Configurator.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>The device was disconnected.</Position>
+      <TranslationSet>
+        <base loc="en">The device was disconnected.</base>
+        <tran loc="ar">تم قطع اتصال الجهاز.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Error description when a managed configuration returns an unexpected status. </Description>
+      <Position>The device returned an unexpected status. (%@)</Position>
+      <TranslationSet>
+        <base loc="en">The device returned an unexpected status. (%@)</base>
+        <tran loc="ar">أرجع الجهاز حالة غير متوقعة. (%@)</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Error: malformed response from ManagedConfiguration </Description>
+      <Position>The device returned a malformed response.</Position>
+      <TranslationSet>
+        <base loc="en">The device returned a malformed response.</base>
+        <tran loc="ar">أرجع الجهاز استجابة سيئة الصياغة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Error: Backups cannot be restored over a device in FMiP </Description>
+      <Position>Find my iPhone must be disabled on the device before restoring a backup.</Position>
+      <TranslationSet>
+        <base loc="en">Find my iPhone must be disabled on the device before restoring a backup.</base>
+        <tran loc="ar">يجب تعطيل العثور على الـ iPhone على الجهاز قبل استعادة النسخة الاحتياطية.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Error: Backups cannot be created while in setup assistant </Description>
+      <Position>The device cannot be backed up while showing the setup assistant.</Position>
+      <TranslationSet>
+        <base loc="en">The device cannot be backed up while showing the setup assistant.</base>
+        <tran loc="ar">لا يمكن نسخ الجهاز احتياطيًا أثناء إظهار مساعد الإعداد.</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>AssetCacheServices/System/Library/PrivateFrameworks/AssetCacheServicesExtensions.framework/Versions/A/Resources/en.lproj/Localizable.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>AssetCacheUnfriendlyPeerAlert verboseTextWithIPAddress</Position>
+      <TranslationSet>
+        <base loc="en">Content Caching on ${ipAddress} rejected a request from this computer. Remove ${ipAddress} from the peer settings or add this computer’s local IP address to ${ipAddress}’s peer settings.</base>
+        <tran loc="ar">رفضت خدمة التخزين المؤقت للمحتوى على ${ipAddress} طلبًا من هذا الكمبيوتر. قم بإزالة ${ipAddress} من إعدادات النظراء أو إضافة عنوان IP المحلي لهذا الكمبيوتر إلى إعدادات النظراء الخاصة بـ ${ipAddress}.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AssetCacheUnfriendlyPeerAlert briefText</Position>
+      <TranslationSet>
+        <base loc="en">Manage caching peers in System Preferences.</base>
+        <tran loc="ar">إدارة نظراء التخزين المؤقت في تفضيلات النظام.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AssetCacheUnfriendlyPeersInFilterRangeAlert briefText</Position>
+      <TranslationSet>
+        <base loc="en">Manage caching peers in System Preferences.</base>
+        <tran loc="ar">إدارة نظراء التخزين المؤقت في تفضيلات النظام.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AssetCacheResourceMissingAlert verboseTextWithPath</Position>
+      <TranslationSet>
+        <base loc="en">Content Caching cannot start because ${path} is missing or inaccessible.</base>
+        <tran loc="ar">لا يمكن بدء التخزين المؤقت للمحتوى لأن ${path} مفقود أو لا يمكن الوصول إليه.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AssetCacheParentDepthAlert verboseTextWithSequenceOfIPAddresses</Position>
+      <TranslationSet>
+        <base loc="en">Excessive forwarding among Content Caches was found with addresses: ${sequenceOfIPAddresses}. Modify their parent settings.</base>
+        <tran loc="ar">تم العثور على قدر كبير من التخزين المؤقت في اتجاه المستلم بين ذاكرات التخزين المؤقت بالعناوين: ${sequenceOfIPAddresses}. قم بتعديل إعدادات الأصول الخاصة بها.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AssetCacheLowSpaceAlert verboseText</Position>
+      <TranslationSet>
+        <base loc="en">To make more space available, increase the cache size or choose a volume with more storage.</base>
+        <tran loc="ar">لتوفير مساحة أكثر، قم بزيادة حجم ذاكرة التخزين المؤقت أو اختر وحدة تخزين ذات مساحة تخزين أكبر.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AssetCacheNoSpaceAlert verboseText</Position>
+      <TranslationSet>
+        <base loc="en">To make more space available, increase the cache size or choose a volume with more storage.</base>
+        <tran loc="ar">لتوفير مساحة أكثر، قم بزيادة حجم ذاكرة التخزين المؤقت أو اختر وحدة تخزين ذات مساحة تخزين أكبر.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AssetCacheResourceMissingAlert verboseTitle</Position>
+      <TranslationSet>
+        <base loc="en">Caching resource missing</base>
+        <tran loc="ar">مورد التخزين المؤقت مفقود</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AssetCachePeerCycleAlert verboseTextWithSequenceOfIPAddresses</Position>
+      <TranslationSet>
+        <base loc="en">Parent Content Caches are configured in a cycle with addresses: ${sequenceOfIPAddresses}. Modify their parent or peer settings.</base>
+        <tran loc="ar">تم تكوين ذاكرات التخزين المؤقت بشكل غير صحيح في دورة بالعناوين: ${sequenceOfIPAddresses}. قم بتعديل إعدادات الأصول أو النظراء الخاصة بها.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description>
+  Localizable.strings
+  AssetCacheServices
+
+  Bugs in this code should be filed under the radar component:
+	AssetCacheServices | all
+ 
+ Strings for each alert type </Description>
+      <Position>AssetCacheLowSpaceAlert briefTitle</Position>
+      <TranslationSet>
+        <base loc="en">Caching needs more space</base>
+        <tran loc="ar">يحتاج التخزين المؤقت إلى مساحة إضافية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AssetCacheLowSpaceAlert verboseTitle</Position>
+      <TranslationSet>
+        <base loc="en">Caching needs more space</base>
+        <tran loc="ar">يحتاج التخزين المؤقت إلى مساحة إضافية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AssetCacheRejectedParentServerRequestAlert verboseTextWithIPAddress</Position>
+      <TranslationSet>
+        <base loc="en">Content Caching rejected a request from its parent ${ipAddress}. Remove ${ipAddress} from the parent settings or modify ${ipAddress}’s peer settings.</base>
+        <tran loc="ar">رفضت خدمة التخزين المؤقت للمحتوى طلبًا من الأصل الخاص بها ${ipAddress}. قم بإزالة ${ipAddress} من إعدادات الأصول أو تعديل إعدادات النظراء الخاصة بـ ${ipAddress}.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AssetCacheParentDepthAlert briefTitle</Position>
+      <TranslationSet>
+        <base loc="en">Excessive cache forwarding detected</base>
+        <tran loc="ar">تم اكتشاف قدر زائد من التخزين المؤقت في اتجاه المستلم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AssetCacheParentDepthAlert verboseTitle</Position>
+      <TranslationSet>
+        <base loc="en">Excessive cache forwarding detected</base>
+        <tran loc="ar">تم اكتشاف قدر زائد من التخزين المؤقت في اتجاه المستلم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AssetCacheRegistrationRejectedAlert briefTitle</Position>
+      <TranslationSet>
+        <base loc="en">Content Caching stopped</base>
+        <tran loc="ar">تم إيقاف التخزين المؤقت للمحتوى</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AssetCacheRegistrationRejectedAlert verboseTitle</Position>
+      <TranslationSet>
+        <base loc="en">Content Caching stopped</base>
+        <tran loc="ar">تم إيقاف التخزين المؤقت للمحتوى</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AssetCacheRegistrationUnavailableAlert briefTitle</Position>
+      <TranslationSet>
+        <base loc="en">Content Caching stopped</base>
+        <tran loc="ar">تم إيقاف التخزين المؤقت للمحتوى</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AssetCacheRegistrationUnavailableAlert verboseTitle</Position>
+      <TranslationSet>
+        <base loc="en">Content Caching stopped</base>
+        <tran loc="ar">تم إيقاف التخزين المؤقت للمحتوى</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AssetCacheResourceMissingAlert briefTitle</Position>
+      <TranslationSet>
+        <base loc="en">Content Caching stopped</base>
+        <tran loc="ar">تم إيقاف التخزين المؤقت للمحتوى</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AssetCacheUnfriendlyPeersInFilterRangeAlert verboseTextWithListOfIPAddresses</Position>
+      <TranslationSet>
+        <base loc="en">%ld peer(s) in this range rejected requests from this computer: ${listOfIPAddresses}. Remove them from the peer settings or add this computer’s local IP address to their peer settings.</base>
+        <tran loc="ar">رفض %ld من النظراء في هذا النطاق طلبات من هذا الكمبيوتر: ${listOfIPAddresses}. قم بإزالتها من إعدادات النظراء أو إضافة عنوان IP المحلي لهذا الكمبيوتر إلى إعدادات النظراء الخاصة بها.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AssetCacheRegistrationRejectedAlert briefText</Position>
+      <TranslationSet>
+        <base loc="en">Content Caching is unable to connect to Apple.</base>
+        <tran loc="ar">خدمة التخزين المؤقت للمحتوى غير قادرة على الاتصال بـ Apple.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AssetCacheRegistrationRejectedAlert verboseText</Position>
+      <TranslationSet>
+        <base loc="en">Content Caching is unable to connect to Apple.</base>
+        <tran loc="ar">خدمة التخزين المؤقت للمحتوى غير قادرة على الاتصال بـ Apple.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AssetCacheParentCycleAlert briefTitle</Position>
+      <TranslationSet>
+        <base loc="en">Caching parent misconfigured</base>
+        <tran loc="ar">أصل التخزين المؤقت تم تكوينه بشكل غير صحيح</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AssetCachePeerCycleAlert briefTitle</Position>
+      <TranslationSet>
+        <base loc="en">Caching parent misconfigured</base>
+        <tran loc="ar">أصل التخزين المؤقت تم تكوينه بشكل غير صحيح</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AssetCachePeerCycleAlert verboseTitle</Position>
+      <TranslationSet>
+        <base loc="en">Caching parent misconfigured</base>
+        <tran loc="ar">أصل التخزين المؤقت تم تكوينه بشكل غير صحيح</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AssetCacheRejectedParentServerRequestAlert briefTitle</Position>
+      <TranslationSet>
+        <base loc="en">Caching parent misconfigured</base>
+        <tran loc="ar">أصل التخزين المؤقت تم تكوينه بشكل غير صحيح</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AssetCacheRejectedParentServerRequestAlert verboseTitle</Position>
+      <TranslationSet>
+        <base loc="en">Caching parent misconfigured</base>
+        <tran loc="ar">أصل التخزين المؤقت تم تكوينه بشكل غير صحيح</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AssetCacheParentCycleAlert briefText</Position>
+      <TranslationSet>
+        <base loc="en">Manage caching parents in System Preferences.</base>
+        <tran loc="ar">إدارة أصول التخزين المؤقت في تفضيلات النظام.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AssetCacheParentDepthAlert briefText</Position>
+      <TranslationSet>
+        <base loc="en">Manage caching parents in System Preferences.</base>
+        <tran loc="ar">إدارة أصول التخزين المؤقت في تفضيلات النظام.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AssetCachePeerCycleAlert briefText</Position>
+      <TranslationSet>
+        <base loc="en">Manage caching parents in System Preferences.</base>
+        <tran loc="ar">إدارة أصول التخزين المؤقت في تفضيلات النظام.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AssetCacheRejectedParentServerRequestAlert briefText</Position>
+      <TranslationSet>
+        <base loc="en">Manage caching parents in System Preferences.</base>
+        <tran loc="ar">إدارة أصول التخزين المؤقت في تفضيلات النظام.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AssetCacheNoSpaceAlert briefTitle</Position>
+      <TranslationSet>
+        <base loc="en">Caching needs much more space</base>
+        <tran loc="ar">يحتاج التخزين المؤقت إلى قدر كبير من المساحة الإضافية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AssetCacheNoSpaceAlert verboseTitle</Position>
+      <TranslationSet>
+        <base loc="en">Caching needs much more space</base>
+        <tran loc="ar">يحتاج التخزين المؤقت إلى قدر كبير من المساحة الإضافية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AssetCacheParentCycleAlert verboseTitle</Position>
+      <TranslationSet>
+        <base loc="en">Caching parents form a cycle</base>
+        <tran loc="ar">أصول التخزين المؤقت من دورة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AssetCacheRegistrationUnavailableAlert verboseText</Position>
+      <TranslationSet>
+        <base loc="en">Content Caching is temporarily unable to connect to Apple.</base>
+        <tran loc="ar">خدمة التخزين المؤقت للمحتوى غير قادرة مؤقتًا على الاتصال بـ Apple.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AssetCacheRegistrationUnavailableAlert briefText</Position>
+      <TranslationSet>
+        <base loc="en">Content Caching is temporarily unable to connect to Apple.</base>
+        <tran loc="ar">خدمة التخزين المؤقت للمحتوى غير قادرة مؤقتًا على الاتصال بـ Apple.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AssetCacheResourceMissingAlert briefText</Position>
+      <TranslationSet>
+        <base loc="en">The cache is missing or inaccessible.</base>
+        <tran loc="ar">ذاكرة التخزين المؤقت مفقودة أو لا يمكن الوصول إليها.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AssetCacheUnfriendlyPeerAlert briefTitle</Position>
+      <TranslationSet>
+        <base loc="en">Caching peer misconfigured</base>
+        <tran loc="ar">نظير التخزين المؤقت تم تكوينه بشكل غير صحيح</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AssetCacheUnfriendlyPeerAlert verboseTitle</Position>
+      <TranslationSet>
+        <base loc="en">Caching peer misconfigured</base>
+        <tran loc="ar">نظير التخزين المؤقت تم تكوينه بشكل غير صحيح</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AssetCacheLowSpaceAlert briefText</Position>
+      <TranslationSet>
+        <base loc="en">Manage caching storage in System Preferences.</base>
+        <tran loc="ar">إدارة مساحة التخزين المؤقت في تفضيلات النظام.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AssetCacheNoSpaceAlert briefText</Position>
+      <TranslationSet>
+        <base loc="en">Manage caching storage in System Preferences.</base>
+        <tran loc="ar">إدارة مساحة التخزين المؤقت في تفضيلات النظام.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AssetCacheUnfriendlyPeersInFilterRangeAlert briefTitle</Position>
+      <TranslationSet>
+        <base loc="en">Caching peers misconfigured</base>
+        <tran loc="ar">نظراء التخزين المؤقت تم تكوينها بشكل غير صحيح</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AssetCacheUnfriendlyPeersInFilterRangeAlert verboseTitle</Position>
+      <TranslationSet>
+        <base loc="en">Caching peers misconfigured</base>
+        <tran loc="ar">نظراء التخزين المؤقت تم تكوينها بشكل غير صحيح</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AssetCacheParentCycleAlert verboseTextWithSequenceOfIPAddresses</Position>
+      <TranslationSet>
+        <base loc="en">Parent Content Caches are configured in a cycle with addresses: ${sequenceOfIPAddresses}. Modify their parent settings.</base>
+        <tran loc="ar">تم تكوين ذاكرات التخزين المؤقت بشكل غير صحيح في دورة بالعناوين: ${sequenceOfIPAddresses}. قم بتعديل إعدادات الأصول الخاصة بها.</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>AssetCacheServices/System/Library/ConfigurationProfiles/PlugIns/AssetCacheClient.profileDomainPlugin/Contents/Resources/en.lproj/Localizable.stringsdict</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>/CPPayloadCountStringsDictKey_CountFirst:dict/NSStringLocalizedFormatKey:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%#@PayloadType@</base>
+        <tran loc="ar">%#@PayloadType@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/CPPayloadCountStringsDictKey_CountLast:dict/NSStringLocalizedFormatKey:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%#@PayloadType@</base>
+        <tran loc="ar">%#@PayloadType@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/CPPayloadCountStringsDictKey_SingularOnly:dict/NSStringLocalizedFormatKey:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%#@PayloadType@</base>
+        <tran loc="ar">%#@PayloadType@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/CPPayloadCountStringsDictKey_SingularOnly:dict/PayloadType:dict/few:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">__Source_text_is_empty__Translate_Or_Leave_this_text_as_is_if_target_text_is_also_empty__(/CPPayloadCountStringsDictKey_SingularOnly:dict/PayloadType:dict/few:dict/:string)</base>
+        <tran loc="ar">__Source_text_is_empty__Translate_Or_Leave_this_text_as_is_if_target_text_is_also_empty__(/CPPayloadCountStringsDictKey_SingularOnly:dict/PayloadType:dict/few:dict/:string)</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/CPPayloadCountStringsDictKey_SingularOnly:dict/PayloadType:dict/two:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">__Source_text_is_empty__Translate_Or_Leave_this_text_as_is_if_target_text_is_also_empty__(/CPPayloadCountStringsDictKey_SingularOnly:dict/PayloadType:dict/two:dict/:string)</base>
+        <tran loc="ar">__Source_text_is_empty__Translate_Or_Leave_this_text_as_is_if_target_text_is_also_empty__(/CPPayloadCountStringsDictKey_SingularOnly:dict/PayloadType:dict/two:dict/:string)</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/CPPayloadCountStringsDictKey_CountLast:dict/PayloadType:dict/few:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Settings for Using Local Content Caches (%lu)</base>
+        <tran loc="ar">إعدادات لاستخدام ذاكرات التخزين المؤقت المحلية للمحتوى (%lu)</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/CPPayloadCountStringsDictKey_CountLast:dict/PayloadType:dict/many:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Settings for Using Local Content Caches (%lu)</base>
+        <tran loc="ar">إعدادات لاستخدام ذاكرات التخزين المؤقت المحلية للمحتوى (%lu)</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/CPPayloadCountStringsDictKey_CountLast:dict/PayloadType:dict/other:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Settings for Using Local Content Caches (%lu)</base>
+        <tran loc="ar">إعدادات لاستخدام ذاكرات التخزين المؤقت المحلية للمحتوى (%lu)</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/CPPayloadCountStringsDictKey_CountLast:dict/PayloadType:dict/two:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Settings for Using Local Content Caches (%lu)</base>
+        <tran loc="ar">إعدادات لاستخدام ذاكرات التخزين المؤقت المحلية للمحتوى (%lu)</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/CPPayloadCountStringsDictKey_CountLast:dict/PayloadType:dict/zero:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Settings for Using Local Content Caches (%lu)</base>
+        <tran loc="ar">إعدادات لاستخدام ذاكرات التخزين المؤقت المحلية للمحتوى (%lu)</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/CPPayloadCountStringsDictKey_SingularOnly:dict/PayloadType:dict/many:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">__Source_text_is_empty__Translate_Or_Leave_this_text_as_is_if_target_text_is_also_empty__(/CPPayloadCountStringsDictKey_SingularOnly:dict/PayloadType:dict/many:dict/:string)</base>
+        <tran loc="ar">__Source_text_is_empty__Translate_Or_Leave_this_text_as_is_if_target_text_is_also_empty__(/CPPayloadCountStringsDictKey_SingularOnly:dict/PayloadType:dict/many:dict/:string)</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/CPPayloadCountStringsDictKey_CountFirst:dict/PayloadType:dict/few:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%lu Settings for Using Local Content Caches</base>
+        <tran loc="ar">‏%lu إعدادات لاستخدام ذاكرات التخزين المؤقت المحلية للمحتوى</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/CPPayloadCountStringsDictKey_CountFirst:dict/PayloadType:dict/many:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%lu Settings for Using Local Content Caches</base>
+        <tran loc="ar">‏%lu إعدادًا لاستخدام ذاكرات التخزين المؤقت المحلية للمحتوى</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/CPPayloadCountStringsDictKey_CountFirst:dict/PayloadType:dict/other:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%lu Settings for Using Local Content Caches</base>
+        <tran loc="ar">‏%lu إعداد لاستخدام ذاكرات التخزين المؤقت المحلية للمحتوى</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/CPPayloadCountStringsDictKey_CountFirst:dict/PayloadType:dict/two:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%lu Settings for Using Local Content Caches</base>
+        <tran loc="ar">إعدادان لاستخدام ذاكرات التخزين المؤقت المحلية للمحتوى</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/CPPayloadCountStringsDictKey_CountFirst:dict/PayloadType:dict/zero:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%lu Settings for Using Local Content Caches</base>
+        <tran loc="ar">‏%lu إعداد لاستخدام ذاكرات التخزين المؤقت المحلية للمحتوى</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/CPPayloadCountStringsDictKey_CountFirst:dict/PayloadType:dict/one:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Setting for Using Local Content Caches</base>
+        <tran loc="ar">إعداد لاستخدام ذاكرات التخزين المؤقت المحلية للمحتوى</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/CPPayloadCountStringsDictKey_CountLast:dict/PayloadType:dict/one:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Setting for Using Local Content Caches</base>
+        <tran loc="ar">إعداد لاستخدام ذاكرات التخزين المؤقت المحلية للمحتوى</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/CPPayloadCountStringsDictKey_SingularOnly:dict/PayloadType:dict/one:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Setting for Using Local Content Caches</base>
+        <tran loc="ar">إعداد لاستخدام ذاكرات التخزين المؤقت المحلية للمحتوى</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/CPPayloadCountStringsDictKey_SingularOnly:dict/PayloadType:dict/zero:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">__Source_text_is_empty__Translate_Or_Leave_this_text_as_is_if_target_text_is_also_empty__(/CPPayloadCountStringsDictKey_SingularOnly:dict/PayloadType:dict/zero:dict/:string)</base>
+        <tran loc="ar">__Source_text_is_empty__Translate_Or_Leave_this_text_as_is_if_target_text_is_also_empty__(/CPPayloadCountStringsDictKey_SingularOnly:dict/PayloadType:dict/zero:dict/:string)</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/CPPayloadCountStringsDictKey_SingularOnly:dict/PayloadType:dict/other:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">__Source_text_is_empty__Translate_Or_Leave_this_text_as_is_if_target_text_is_also_empty__(/CPPayloadCountStringsDictKey_SingularOnly:dict/PayloadType:dict/other:dict/:string)</base>
+        <tran loc="ar">__Source_text_is_empty__Translate_Or_Leave_this_text_as_is_if_target_text_is_also_empty__(/CPPayloadCountStringsDictKey_SingularOnly:dict/PayloadType:dict/other:dict/:string)</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+</Proj>

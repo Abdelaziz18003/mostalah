@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Proj>
+  <ProjName>SPDiagnosticsReporter</ProjName>
+  <File>
+    <Filepath>SPDiagnosticsReporter/System/Library/SystemProfiler/SPDiagnosticsReporter.spreporter/Contents/Resources/English.lproj/InfoPlist.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>CFBundleName</Position>
+      <TranslationSet>
+        <base loc="en">SPDiagnosticsReporter</base>
+        <tran loc="ar">SPDiagnosticsReporter</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>SPDiagnosticsReporter/System/Library/SystemProfiler/SPDiagnosticsReporter.spreporter/Contents/Resources/English.lproj/Localizable.strings</Filepath>
+    <TextItem>
+      <Description> Keys for POST results</Description>
+      <Position>spdiags_post_memory_slot_key</Position>
+      <TranslationSet>
+        <base loc="en">Memory Slot</base>
+        <tran loc="ar">فتحة الذاكرة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>spdiags_xrd_value</Position>
+      <TranslationSet>
+        <base loc="en">Xserve Remote Diagnostics</base>
+        <tran loc="ar">تشخيصات Xserve عن بُعد </tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>spdiags_aht_extended_value</Position>
+      <TranslationSet>
+        <base loc="en">Extended Test</base>
+        <tran loc="ar">اختبار موسع</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Keys for additional fields to be displayed for some diagnostics</Description>
+      <Position>spdiags_version_key</Position>
+      <TranslationSet>
+        <base loc="en">Version</base>
+        <tran loc="ar">الإصدار</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>spdiags_post_memory_slots_key</Position>
+      <TranslationSet>
+        <base loc="en">Memory Slots</base>
+        <tran loc="ar">فتحات الذاكرة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>spdiags_post_cache_value</Position>
+      <TranslationSet>
+        <base loc="en">External Cache</base>
+        <tran loc="ar">الذاكرة المؤقتة الخارجية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>spdiags_xrd_machine_serialnum_key</Position>
+      <TranslationSet>
+        <base loc="en">Machine Serial Number</base>
+        <tran loc="ar">الرقم التسلسلي للجهاز</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Keys for additional Apple Hardware Test info</Description>
+      <Position>spdiags_aht_suite_key</Position>
+      <TranslationSet>
+        <base loc="en">Test Suite</base>
+        <tran loc="ar">مجموعة الاختبار</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Keys for additional Xserve Remote Diagnostics info</Description>
+      <Position>spdiags_xrd_tdf_key</Position>
+      <TranslationSet>
+        <base loc="en">Test Definition File</base>
+        <tran loc="ar">ملف تعريف الاختبار</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>spdiags_aht_quick_value</Position>
+      <TranslationSet>
+        <base loc="en">Quick Test</base>
+        <tran loc="ar">اختبار سريع</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>spdiags_failed_device_key</Position>
+      <TranslationSet>
+        <base loc="en">Failed Device</base>
+        <tran loc="ar">جهاز فاشل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>spdiags_passed_value</Position>
+      <TranslationSet>
+        <base loc="en">Passed</base>
+        <tran loc="ar">نجاح</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>spdiags_last_run_key</Position>
+      <TranslationSet>
+        <base loc="en">Last Run</base>
+        <tran loc="ar">آخر تشغيل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>spdiags_asd_value</Position>
+      <TranslationSet>
+        <base loc="en">Apple Service Diagnostic</base>
+        <tran loc="ar">Apple Service Diagnostic</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>spdiags_failure_type_key</Position>
+      <TranslationSet>
+        <base loc="en">Failure Type</base>
+        <tran loc="ar">نوع الفشل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>spdiags_notests_value</Position>
+      <TranslationSet>
+        <base loc="en">No tests were run.</base>
+        <tran loc="ar">لم يتم تشغيل أية اختبارات.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Values for diagnostics names 7/29/08 RB added string for Apple Sevice Diagnostics
+ Values for diagnostics names 5/10/13 RB changed Apple Hardware Test string to Apple Diagnostics</Description>
+      <Position>spdiags_post_value</Position>
+      <TranslationSet>
+        <base loc="en">Power On Self-Test</base>
+        <tran loc="ar">تشغيل الاختبار الذاتي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>spdiags_reference_code_key</Position>
+      <TranslationSet>
+        <base loc="en">Reference Code(s)</base>
+        <tran loc="ar">الرمز(الرموز) المرجعي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Values for additional Apple Hardware Test info</Description>
+      <Position>spdiags_aht_notests_value</Position>
+      <TranslationSet>
+        <base loc="en">None</base>
+        <tran loc="ar">لا شيء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>spdiags_failure_code_key</Position>
+      <TranslationSet>
+        <base loc="en">Failure Code</base>
+        <tran loc="ar">رمز الفشل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Keys for main fields to be displayed for all diagnostics</Description>
+      <Position>_name</Position>
+      <TranslationSet>
+        <base loc="en">Diagnostic Name</base>
+        <tran loc="ar">اسم التشخيص</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description>
+ Copyright © 2004-2008 Apple Inc. All Rights Reserved.
+
+ Reporter data type</Description>
+      <Position>SPDiagnosticsDataType</Position>
+      <TranslationSet>
+        <base loc="en">Diagnostics</base>
+        <tran loc="ar">التشخيصات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Values for POST results</Description>
+      <Position>spdiags_post_memory_value</Position>
+      <TranslationSet>
+        <base loc="en">Memory</base>
+        <tran loc="ar">الذاكرة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>spdiags_result_key</Position>
+      <TranslationSet>
+        <base loc="en">Result</base>
+        <tran loc="ar">النتيجة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>spdiags_interrupted_value</Position>
+      <TranslationSet>
+        <base loc="en">User stopped tests.</base>
+        <tran loc="ar">قام المستخدم بإيقاف الاختبارات.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>spdiags_loopcount_key</Position>
+      <TranslationSet>
+        <base loc="en">Loop Count</base>
+        <tran loc="ar">عدد الحلقات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Values for lastrun dates</Description>
+      <Position>spdiags_never_value</Position>
+      <TranslationSet>
+        <base loc="en">Never</base>
+        <tran loc="ar">مطلقًا</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>spdiags_aht_value</Position>
+      <TranslationSet>
+        <base loc="en">Apple Diagnostics</base>
+        <tran loc="ar">تشخيصات Apple</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Values for results for all diagnostics</Description>
+      <Position>spdiags_unknown_value</Position>
+      <TranslationSet>
+        <base loc="en">Unknown</base>
+        <tran loc="ar">غير معروف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>spdiags_axd_value</Position>
+      <TranslationSet>
+        <base loc="en">Apple Xserve Diagnostics</base>
+        <tran loc="ar">Apple Xserve Diagnostics</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>spdiags_failed_value</Position>
+      <TranslationSet>
+        <base loc="en">Failed</base>
+        <tran loc="ar">فشل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>spdiags_post_processor_value</Position>
+      <TranslationSet>
+        <base loc="en">Second Processor</base>
+        <tran loc="ar">المعالج الثاني</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+</Proj>

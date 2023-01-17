@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Proj>
+  <ProjName>JavaApplicationSupport</ProjName>
+  <File>
+    <Filepath>JavaApplicationSupport/System/Library/CoreServices/Jar Launcher.app/Contents/Resources/en.lproj/jarlauncher.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>com.apple.java.JarLauncher.classLaunchFailed</Position>
+      <TranslationSet>
+        <base loc="en">The Java class file “%@” could not be launched.</base>
+        <tran loc="ar">تعذر بدء تشغيل ملف Java class \"%@\".</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>com.apple.java.JarLauncher.quarentined.jar</Position>
+      <TranslationSet>
+        <base loc="en">“%@” cannot be opened because %@ is not allowed to open Java JAR files.</base>
+        <tran loc="ar">لا يمكن فتح "%@" لأن %@ غير مسموح له بفتح ملفات Java JAR.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>com.apple.java.JarLauncher.checkConsole</Position>
+      <TranslationSet>
+        <base loc="en">Check the Console for possible error messages.</base>
+        <tran loc="ar">تحقق من وحدة التحكم للاطلاع على رسائل الخطأ المحتملة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>com.apple.java.JarLauncher.quarentined.class</Position>
+      <TranslationSet>
+        <base loc="en">“%@” cannot be opened because %@ is not allowed to open Java classes.</base>
+        <tran loc="ar">لا يمكن فتح "%@" لأن %@ غير مسموح له بفتح فئات Java.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Strings for Jar Launcher.  These are used when a JAR file doesn't have a main class or the class file doesn't 
+ have a main()</Description>
+      <Position>com.apple.java.JarLauncher.jarLaunchFailed</Position>
+      <TranslationSet>
+        <base loc="en">The Java JAR file “%@” could not be launched.</base>
+        <tran loc="ar">تعذر بدء تشغيل ملف Java JAR \"%@\".</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>JavaApplicationSupport/System/Library/CoreServices/Java Web Start.app/Contents/Resources/en.lproj/JavaWebStart.strings</Filepath>
+    <TextItem>
+      <Description> Class = "NSMenu"; title = "JavaAppLauncher"; ObjectID = "29"; </Description>
+      <Position>29.title</Position>
+      <TranslationSet>
+        <base loc="en">JavaAppLauncher</base>
+        <tran loc="ar">JavaAppLauncher</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Hide Java Web Start"; ObjectID = "134"; </Description>
+      <Position>134.title</Position>
+      <TranslationSet>
+        <base loc="en">Hide Java Web Start</base>
+        <tran loc="ar">إخفاء Java Web Start</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenu"; title = "Services"; ObjectID = "130"; </Description>
+      <Position>130.title</Position>
+      <TranslationSet>
+        <base loc="en">Services</base>
+        <tran loc="ar">خدمات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Services"; ObjectID = "131"; </Description>
+      <Position>131.title</Position>
+      <TranslationSet>
+        <base loc="en">Services</base>
+        <tran loc="ar">خدمات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Preferences..."; ObjectID = "129"; </Description>
+      <Position>129.title</Position>
+      <TranslationSet>
+        <base loc="en">Preferences...</base>
+        <tran loc="ar">تفضيلات...</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Show All"; ObjectID = "150"; </Description>
+      <Position>150.title</Position>
+      <TranslationSet>
+        <base loc="en">Show All</base>
+        <tran loc="ar">إظهار الكل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Quit Java Web Start"; ObjectID = "136"; </Description>
+      <Position>136.title</Position>
+      <TranslationSet>
+        <base loc="en">Quit Java Web Start</base>
+        <tran loc="ar">إنهاء Java Web Start</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "About Java Web Start"; ObjectID = "58"; </Description>
+      <Position>58.title</Position>
+      <TranslationSet>
+        <base loc="en">About Java Web Start</base>
+        <tran loc="ar">حول Java Web Start</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Hide Others"; ObjectID = "145"; </Description>
+      <Position>145.title</Position>
+      <TranslationSet>
+        <base loc="en">Hide Others</base>
+        <tran loc="ar">إخفاء الأخرى</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "NewApplication"; ObjectID = "56"; </Description>
+      <Position>56.title</Position>
+      <TranslationSet>
+        <base loc="en">NewApplication</base>
+        <tran loc="ar">NewApplication</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenu"; title = "NewApplication"; ObjectID = "57"; </Description>
+      <Position>57.title</Position>
+      <TranslationSet>
+        <base loc="en">NewApplication</base>
+        <tran loc="ar">NewApplication</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>JavaApplicationSupport/System/Library/CoreServices/Jar Launcher.app/Contents/Resources/en.lproj/InfoPlist.strings</Filepath>
+    <TextItem>
+      <Description> Localized versions of Info.plist keys
+ file types </Description>
+      <Position>Java JAR file</Position>
+      <TranslationSet>
+        <base loc="en">Java JAR file</base>
+        <tran loc="ar">Java JAR file</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Java class file</Position>
+      <TranslationSet>
+        <base loc="en">Java class file</base>
+        <tran loc="ar">Java class file</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>JavaApplicationSupport/System/Library/Frameworks/JavaVM.framework/Versions/A/JavaPluginCocoa.bundle/Contents/Resources/en.lproj/Localizable.strings</Filepath>
+    <TextItem>
+      <Description> Strings used by the switchable plugin</Description>
+      <Position>unsafeVMChosen</Position>
+      <TranslationSet>
+        <base loc="en">The chosen Java virtual machine for applets, %s, may have serious unresolved security issues, and should not be used. Version %s will be used instead.</base>
+        <tran loc="ar">ربما يواجه إصدار Java virtual machine المختار للتطبيقات الصغيرة، %s، مشكلات أمنية خطيرة لم يتم حلها، ويجب عدم استخدامه. وسيتم استخدام الإصدار %s بدلاً من ذلك.</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>JavaApplicationSupport/System/Library/PrivateFrameworks/JavaApplicationLauncher.framework/Versions/A/Resources/en.lproj/Alert.strings</Filepath>
+    <TextItem>
+      <Description> Java version mismatch strings </Description>
+      <Position>VersionMismatchTitle</Position>
+      <TranslationSet>
+        <base loc="en">You can‘t open the application “%@” because it requires a version of Java that is not available.</base>
+        <tran loc="ar">لا يمكن فتح التطبيق \"%@\" لأنه يتطلب وجود إصدار غير متوفر من Java.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>NoMainMethod</Position>
+      <TranslationSet>
+        <base loc="en">The main class “%@” has no “void main(String[])” method.</base>
+        <tran loc="ar">لا تحتوي الفئة الرئيسية \"%@\" على الطريقة \"void main(String[])\".</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Quit</Position>
+      <TranslationSet>
+        <base loc="en">Quit</base>
+        <tran loc="ar">إنهاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>MainThrewException</Position>
+      <TranslationSet>
+        <base loc="en">Uncaught exception in main method: %@</base>
+        <tran loc="ar">هناك استثناء غير مكتشف في الطريقة الرئيسية: %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UseAlternate</Position>
+      <TranslationSet>
+        <base loc="en">Use %@</base>
+        <tran loc="ar">استخدام %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CannotLaunch</Position>
+      <TranslationSet>
+        <base loc="en">Cannot launch “%@”</base>
+        <tran loc="ar">لا يمكن تشغيل \"%@\"</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CannotLoadMainClass</Position>
+      <TranslationSet>
+        <base loc="en">The main class “%@” could not be loaded.</base>
+        <tran loc="ar">تعذر تحميل الفئة الرئيسية \"%@\".</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>MainClassNotSpecified</Position>
+      <TranslationSet>
+        <base loc="en">No main class specified.</base>
+        <tran loc="ar">لم يتم تحديد أية فئة رئيسية.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Localized versions of Alert messages </Description>
+      <Position>CannotLaunchApplication</Position>
+      <TranslationSet>
+        <base loc="en">Cannot launch Java application</base>
+        <tran loc="ar">لا يمكن تشغيل تطبيق Java</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>JavaPreferences</Position>
+      <TranslationSet>
+        <base loc="en">Open Java Preferences</base>
+        <tran loc="ar">فتح تفضيلات Java</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>MainNotStatic</Position>
+      <TranslationSet>
+        <base loc="en">The “main(String[])” method of class “%@” is not static.</base>
+        <tran loc="ar">الطريقة \"main(String[])\" للفئة \"%@\" غير ثابتة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>MainInitializerException</Position>
+      <TranslationSet>
+        <base loc="en">A static initializer of the main class threw an exception: %@</base>
+        <tran loc="ar">أظهر المهايئ الثابت للفئة الرئيسية الاستثناء التالي: %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>VersionMismatchExplanation</Position>
+      <TranslationSet>
+        <base loc="en">This application requires a “%@” version of Java. The available Java version “%@” may be able to open this application, but it may not work correctly.</base>
+        <tran loc="ar">يتطلب هذا التطبيق وجود الإصدار \"%@\" من Java. ربما يكون إصدار Java المتوفر \"%@\" قادرًا على فتح هذا التطبيق، ولكن قد لا يعمل بشكل صحيح.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No Compatible Java installed </Description>
+      <Position>NoCompatibleJavaInstalledExplanation</Position>
+      <TranslationSet>
+        <base loc="en">No compatible version of Java %@ is available.</base>
+        <tran loc="ar">لا يتوفر إصدار متوافق من %@ Java.</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>JavaApplicationSupport/System/Library/PrivateFrameworks/JavaApplicationLauncher.framework/Versions/A/Resources/en.lproj/OldJavaAlert.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>Quit</Position>
+      <TranslationSet>
+        <base loc="en">Quit</base>
+        <tran loc="ar">إنهاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>It requires a newer java</Position>
+      <TranslationSet>
+        <base loc="en">It requires Mac OS X 10.1 with Java update 1, or a later OS installed</base>
+        <tran loc="ar">يلزم وجود الإصدار 10.1 من Mac OS X مزودًا بتحديث Java 1، أو تثبيت نظام تشغيل أحدث.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Localized versions of Alert message carried in java applications 
+ 'OldJavaAlert' means the alert we display when trying to run a double clickable on an version of Mac OS X that doesn't support some feature in the app -- the Java is too old. </Description>
+      <Position>Cannot launch application</Position>
+      <TranslationSet>
+        <base loc="en">Cannot launch Java application</base>
+        <tran loc="ar">لا يمكن تشغيل تطبيق Java</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>JavaApplicationSupport/System/Library/CoreServices/Java Web Start.app/Contents/Resources/en.lproj/InfoPlist.strings</Filepath>
+    <TextItem>
+      <Description> Localized versions of Info.plist keys </Description>
+      <Position>NSHumanReadableCopyright</Position>
+      <TranslationSet>
+        <base loc="en">Copyright © 2005-2010, Apple Inc. All Rights Reserved.</base>
+        <tran loc="ar">‏‎Copyright © 2005-2010 Apple Inc.‎\n‏ كافة الحقوق محفوظة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Application name for the menu bar. </Description>
+      <Position>CFBundleName</Position>
+      <TranslationSet>
+        <base loc="en">Java Web Start</base>
+        <tran loc="ar">Java Web Start</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Application name for the Finder. </Description>
+      <Position>CFBundleDisplayName</Position>
+      <TranslationSet>
+        <base loc="en">Java Web Start</base>
+        <tran loc="ar">Java Web Start</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> File types </Description>
+      <Position>JNLP files</Position>
+      <TranslationSet>
+        <base loc="en">JNLP files</base>
+        <tran loc="ar">ملفات JNLP</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+</Proj>

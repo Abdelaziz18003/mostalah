@@ -1,0 +1,1533 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Proj>
+  <ProjName>AirPort_executables</ProjName>
+  <File>
+    <Filepath>AirPort_executables/System/Library/UserNotifications/Bundles/com.apple.wifi.usernotifications.autohotspot.bundle/Contents/Resources/en.lproj/Localizable.strings</Filepath>
+    <TextItem>
+      <Description> 
+  Localizable.strings
+  Clients
+
+  Created on 01/24/19.
+  
+</Description>
+      <Position>kWiFiLocPersonalHotspotAvailableTitle</Position>
+      <TranslationSet>
+        <base loc="en">Personal Hotspot Available</base>
+        <tran loc="ar">نقطة الاتصال الشخصية متوفرة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kWiFiLocPersonalHotspotJoinAction</Position>
+      <TranslationSet>
+        <base loc="en">Join</base>
+        <tran loc="ar">انضمام</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kWiFiLocPersonalHotspotEnableAutomaticBody</Position>
+      <TranslationSet>
+        <base loc="en">Automatically join Personal Hotspots when Wi-Fi is unavailable?</base>
+        <tran loc="ar">الانضمام تلقائيًا بنقاط الاتصال الشخصية عندما يكون Wi-Fi غير متوفر؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kWiFiLocPersonalHotspotEnableAutomaticTitle</Position>
+      <TranslationSet>
+        <base loc="en">Turn On Auto Hotspot?</base>
+        <tran loc="ar">تشغيل نقطة الاتصال التلقائية؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kWiFiLocPersonalHotspotTurnOnAction</Position>
+      <TranslationSet>
+        <base loc="en">Turn On</base>
+        <tran loc="ar">تشغيل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kWiFiLocPersonalHotspotAvailableBody</Position>
+      <TranslationSet>
+        <base loc="en">Do you want to join “%@”?</base>
+        <tran loc="ar">هل ترغب في الانضمام إلى \"%@\"؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kWiFiLocPersonalHotspotFailureBody</Position>
+      <TranslationSet>
+        <base loc="en">Failed to join “%@”. Do you want to try again?</base>
+        <tran loc="ar">فشل الانضمام إلى \"%@\". هل تريد المحاولة مرة أخرى؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kWiFiLocPersonalHotspotFailureTitle</Position>
+      <TranslationSet>
+        <base loc="en">Connection Failure</base>
+        <tran loc="ar">فشل الاتصال</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kWiFiLocPersonalHotspotDisconnectAction</Position>
+      <TranslationSet>
+        <base loc="en">Disconnect</base>
+        <tran loc="ar">قطع الاتصال</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kWiFiLocPersonalHotspotLowBatteryBody</Position>
+      <TranslationSet>
+        <base loc="en">Do you want to disconnect from “%@”?</base>
+        <tran loc="ar">هل ترغب في قطع الاتصال من \"%@\"؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kWiFiLocPersonalHotspotLowBatteryTitle</Position>
+      <TranslationSet>
+        <base loc="en">Low Battery</base>
+        <tran loc="ar">شحن البطارية منخفض</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>AirPort_executables/System/Library/CoreServices/Menu Extras/AirPort.menu/Contents/Resources/English.lproj/Localizable.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>kAirPortMonitorModeKey</Position>
+      <TranslationSet>
+        <base loc="en">Wi-Fi: Monitor Mode</base>
+        <tran loc="ar">‏Wi-Fi: وضع المراقبة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kAirPortAXValue4of4Key</Position>
+      <TranslationSet>
+        <base loc="en">four of four bars.</base>
+        <tran loc="ar">أربع من الشرط الأربع.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kGroupBand5GHzKey</Position>
+      <TranslationSet>
+        <base loc="en">%d GHz</base>
+        <tran loc="ar">%d غيغاهرتز</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kWiFiLocNoSecurityRecommendation</Position>
+      <TranslationSet>
+        <base loc="en">If this is your Wi-Fi network, configure the router to use WPA2/WPA3 Personal (AES) security type for this network.</base>
+        <tran loc="ar">إذا كانت هذه شبكة الـ Wi-Fi الخاصة بك، فقم بتكوين جهاز التوجيه لديك لاستخدام نوع التأمين \"WPA2/WPA3 شخصي\" ‏(AES) لهذه الشبكة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kWiFiLocWEPSecurityRecommendation</Position>
+      <TranslationSet>
+        <base loc="en">If this is your Wi-Fi network, configure the router to use WPA2/WPA3 Personal (AES) security type for this network.</base>
+        <tran loc="ar">إذا كانت هذه شبكة الـ Wi-Fi الخاصة بك، فقم بتكوين جهاز التوجيه لديك لاستخدام نوع التأمين \"WPA2/WPA3 شخصي\" ‏(AES) لهذه الشبكة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kWiFiLocWPASecurityRecommendation</Position>
+      <TranslationSet>
+        <base loc="en">If this is your Wi-Fi network, configure the router to use WPA2/WPA3 Personal (AES) security type for this network.</base>
+        <tran loc="ar">إذا كانت هذه شبكة الـ Wi-Fi الخاصة بك، فقم بتكوين جهاز التوجيه لديك لاستخدام نوع التأمين \"WPA2/WPA3 شخصي\" ‏(AES) لهذه الشبكة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kAirPortAXValue2of4Key</Position>
+      <TranslationSet>
+        <base loc="en">two of four bars.</base>
+        <tran loc="ar">اثنتان من الشرط الأربع.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kAirPortBaseStationPPPStatusDisconnecting</Position>
+      <TranslationSet>
+        <base loc="en">PPPoE Disconnecting</base>
+        <tran loc="ar">يتم الآن قطع اتصال PPPoE</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kWiFiLocNoSecurityDescription</Position>
+      <TranslationSet>
+        <base loc="en">Unsecured networks expose all unencrypted network traffic.</base>
+        <tran loc="ar">تجعل الشبكات غير الآمنة كل حركة مرور الشبكة غير المشفرة مكشوفة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kWiFiPersonalHotspotErrorDescription</Position>
+      <TranslationSet>
+        <base loc="en">Check to see if the device is turned on and in range of your computer.</base>
+        <tran loc="ar">تحقق للتأكد من أن الجهاز مشغّل ومن أنه ضمن مجال الكمبيوتر.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kAirPortCreateNetworkKey</Position>
+      <TranslationSet>
+        <base loc="en">Create Network…</base>
+        <tran loc="ar">إنشاء شبكة...</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kAirPortAXValue2of4WithKey</Position>
+      <TranslationSet>
+        <base loc="en">two of four bars, with %@.</base>
+        <tran loc="ar">اثنتان من الشرط الأربع، تحتوي على %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kAirPortWirelessDiagnosticsKey</Position>
+      <TranslationSet>
+        <base loc="en">Open %@…</base>
+        <tran loc="ar">فتح %@…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kAirPortStatusBusyKey</Position>
+      <TranslationSet>
+        <base loc="en">Wi-Fi: Searching…</base>
+        <tran loc="ar">‏Wi-Fi: يتم الآن البحث...</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kAirPortInterfaceNameInfoKey</Position>
+      <TranslationSet>
+        <base loc="en">Interface Name: %@</base>
+        <tran loc="ar">اسم الواجهة: %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kWiFiDiagnosticsReportTitle</Position>
+      <TranslationSet>
+        <base loc="en">Wireless Diagnostics Report</base>
+        <tran loc="ar">تقرير تشخيصات الشبكة اللاسلكية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kWiFiDiagnosticsEnableWiFiLogging</Position>
+      <TranslationSet>
+        <base loc="en">Enable Wi-Fi Logging</base>
+        <tran loc="ar">تمكين تسجيل Wi-Fi</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No Security</Description>
+      <Position>kWiFiLocNoSecurityTitle</Position>
+      <TranslationSet>
+        <base loc="en">Unsecured Network</base>
+        <tran loc="ar">شبكة غير آمنة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kWiFiLocWEPSecurityDescription</Position>
+      <TranslationSet>
+        <base loc="en">WEP is not considered secure.</base>
+        <tran loc="ar">لا يعتبر WEP آمنًا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kWiFiLocShowWiFiRecommendations</Position>
+      <TranslationSet>
+        <base loc="en">Wi-Fi Recommendations…</base>
+        <tran loc="ar">توصيات Wi-Fi…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> &lt;rdar://problem/19845253&gt; [AirPortClients]: Change hard-coded numbers in localized strings to use +localizedStringWithFormat:</Description>
+      <Position>kGroupBand24GHzKey</Position>
+      <TranslationSet>
+        <base loc="en">%.1f GHz</base>
+        <tran loc="ar">%.1f غيغاهرتز</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kAirPortNotConfiguredKey</Position>
+      <TranslationSet>
+        <base loc="en">Wi-Fi: Not configured</base>
+        <tran loc="ar">‏Wi-Fi: لم يتم التكوين</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> WiFi Health (Recommendations) &lt;rdar://problem/23814561&gt; OS X WiFi Health Monitor</Description>
+      <Position>kWiFiLocLearnMoreLinkTitle</Position>
+      <TranslationSet>
+        <base loc="en">Learn More.</base>
+        <tran loc="ar">معرفة المزيد.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kAirPortWDPerfUtilityKey</Position>
+      <TranslationSet>
+        <base loc="en">Open Performance Utility…</base>
+        <tran loc="ar">فتح أداة الأداء…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> alert strings</Description>
+      <Position>kAirPortAlert</Position>
+      <TranslationSet>
+        <base loc="en">Alert: %@</base>
+        <tran loc="ar">تنبيه: %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kWiFiLoc80211bRatesRecommendation</Position>
+      <TranslationSet>
+        <base loc="en">If this is your Wi-Fi network, upgrade to an 802.11n/ac router.</base>
+        <tran loc="ar">إذا كانت هذه شبكة الـ Wi-Fi الخاصة بك، فقم بالترقية إلى جهاز توجيه يدعم ‪802.11n/ac‬‏.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kWiFiLocWPASecurityDescription</Position>
+      <TranslationSet>
+        <base loc="en">WPA is not considered secure.</base>
+        <tran loc="ar">لا يعتبر WPA آمنًا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kAirPortBaseStationPPPStatusReconnecting</Position>
+      <TranslationSet>
+        <base loc="en">PPPoE Reconnecting</base>
+        <tran loc="ar">يتم الآن إعادة اتصال PPPoE</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kWiFiLocNoInternetRecommendation</Position>
+      <TranslationSet>
+        <base loc="en">If this is your Wi-Fi network, try restarting the modem and router, or contact your ISP.</base>
+        <tran loc="ar">إذا كانت هذه شبكة الـ Wi-Fi الخاصة بك، فجرّب إعادة تشغيل المودم وجهاز التوجيه، أو اتصل بموفر خدمة الإنترنت لديك.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Hidden Network</Description>
+      <Position>kWiFiLocHiddenNetworkTitle</Position>
+      <TranslationSet>
+        <base loc="en">Hidden Network</base>
+        <tran loc="ar">شبكة مخفية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kAirPortAlertPanelTimeoutOK</Position>
+      <TranslationSet>
+        <base loc="en">OK</base>
+        <tran loc="ar">موافق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kAirPortOtherKey</Position>
+      <TranslationSet>
+        <base loc="en">Join Other Network…</base>
+        <tran loc="ar">انضمام إلى شبكة أخرى...</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kAirPortWDSidecarUtilityKey</Position>
+      <TranslationSet>
+        <base loc="en">Open Sidecar Utility…</base>
+        <tran loc="ar">فتح أداة Sidecar…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kAirPortAXDescriptionSecureNetwork</Position>
+      <TranslationSet>
+        <base loc="en">Secure network</base>
+        <tran loc="ar">شبكة آمنة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kAirPortStatusOffKey</Position>
+      <TranslationSet>
+        <base loc="en">Wi-Fi: Off</base>
+        <tran loc="ar">‏Wi-Fi: متوقف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kWiFiDiagnosticsDisableWiFiLogging</Position>
+      <TranslationSet>
+        <base loc="en">Disable Wi-Fi Logging</base>
+        <tran loc="ar">تعطيل تسجيل Wi-Fi</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kAirPortAlertPanelTimeoutCancel</Position>
+      <TranslationSet>
+        <base loc="en">Cancel</base>
+        <tran loc="ar">إلغاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kAirPortTurnOnKey</Position>
+      <TranslationSet>
+        <base loc="en">Turn Wi-Fi On</base>
+        <tran loc="ar">تشغيل Wi-Fi</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kAirPortStatusScanningKey</Position>
+      <TranslationSet>
+        <base loc="en">Wi-Fi: Looking for Networks…</base>
+        <tran loc="ar">‫Wi-Fi: يتم الآن البحث عن شبكات…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kAirPortAXDescriptionHotspot</Position>
+      <TranslationSet>
+        <base loc="en">Personal Hotspot</base>
+        <tran loc="ar">نقطة اتصال شخصية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kAirPortBaseStationPPPStatusConnecting</Position>
+      <TranslationSet>
+        <base loc="en">PPPoE Connecting</base>
+        <tran loc="ar">اتصال PPPoE</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kAirPortAXValue3of4WithKey</Position>
+      <TranslationSet>
+        <base loc="en">three of four bars, with %@.</base>
+        <tran loc="ar">ثلاث من الشرط الأربع، تحتوي على %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kAirPortNotInstalledKey</Position>
+      <TranslationSet>
+        <base loc="en">Wi-Fi: No hardware installed</base>
+        <tran loc="ar">‏Wi-Fi: لا توجد أي أجهزة مثبتة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kWiFiLocHiddenNetworkRecommendation</Position>
+      <TranslationSet>
+        <base loc="en">If this is your Wi-Fi network, configure the router to broadcast this network.</base>
+        <tran loc="ar">إذا كانت هذه شبكة الـ Wi-Fi الخاصة بك، فقم بتكوين جهاز التوجيه لديك لنقل اتصالات هذه الشبكة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Warning dialog strings</Description>
+      <Position>kAirPortAlertPanelTimeoutTitle</Position>
+      <TranslationSet>
+        <base loc="en">Could not join “%@”.</base>
+        <tran loc="ar">تعذر الانضمام إلى \"%@\".</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Diagnostics</Description>
+      <Position>kWiFiDiagnosticsCreateReport</Position>
+      <TranslationSet>
+        <base loc="en">Create Diagnostics Report…</base>
+        <tran loc="ar">إنشاء تقرير التشخيصات…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kAirPortAXValueC2CKey</Position>
+      <TranslationSet>
+        <base loc="en">Computer to Computer.</base>
+        <tran loc="ar">كمبيوتر إلى كمبيوتر.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No Internet</Description>
+      <Position>kWiFiLocNoInternetTitle</Position>
+      <TranslationSet>
+        <base loc="en">No Internet Connection</base>
+        <tran loc="ar">لا يوجد اتصال إنترنت</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kAirPortStatusOnKey</Position>
+      <TranslationSet>
+        <base loc="en">Wi-Fi: On</base>
+        <tran loc="ar">‏Wi-Fi: قيد التشغيل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kAirPortHardwareAddressInfoKey</Position>
+      <TranslationSet>
+        <base loc="en">Address: %@</base>
+        <tran loc="ar">العنوان: %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kAirPortBaseStationPPPStatusDisconnected</Position>
+      <TranslationSet>
+        <base loc="en">PPPoE Disconnected</base>
+        <tran loc="ar">تم قطع اتصال PPPoE</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kAirPortAXValue1of4WithKey</Position>
+      <TranslationSet>
+        <base loc="en">one of four bars, with %@.</base>
+        <tran loc="ar">واحدة من الشرط الأربع، تحتوي على %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kAirPortAXValueNoSignalKey</Position>
+      <TranslationSet>
+        <base loc="en">No Signal.</base>
+        <tran loc="ar">لا توجد إشارة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kAirPortAXValue3of4Key</Position>
+      <TranslationSet>
+        <base loc="en">three of four bars.</base>
+        <tran loc="ar">ثلاث من الشرط الأربع.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kWiFiLocHiddenNetworkDescription</Position>
+      <TranslationSet>
+        <base loc="en">Using a hidden network can expose personally identifiable information.</base>
+        <tran loc="ar">قد يؤدي استخدام شبكة مخفية إلى الكشف عن المعلومات المحدِّدة لهويتك.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>wpaIsFailureMIC</Position>
+      <TranslationSet>
+        <base loc="en">The wireless network appears to have been compromised and will be disabled for about a minute.</base>
+        <tran loc="ar">يبدو أن الشبكة اللاسلكية قد تعرضت للخطر وسيتم تعطيلها لحوالي دقيقة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kAirPortAlertPanelNotFoundDescription</Position>
+      <TranslationSet>
+        <base loc="en">The network could not be found.</base>
+        <tran loc="ar">تعذر العثور على الشبكة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kAirPortAXValueNotEnabledKey</Position>
+      <TranslationSet>
+        <base loc="en">Wi-Fi is not enabled.</base>
+        <tran loc="ar">لم يتم تمكين Wi-Fi.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kAirPortChannelInfoKey</Position>
+      <TranslationSet>
+        <base loc="en">Channel: %@</base>
+        <tran loc="ar">القناة: %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kAirPortScanningNetworksKey</Position>
+      <TranslationSet>
+        <base loc="en">Scanning for networks…</base>
+        <tran loc="ar">يتم الآن المسح بحثًا عن شبكات…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kWiFiLoc80211bRatesDescription</Position>
+      <TranslationSet>
+        <base loc="en">802.11b provides suboptimal performance.</base>
+        <tran loc="ar">تقدم ‪802.11b‬ أداءً أقل من الأمثل.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kAirPortAXValue4of4WithKey</Position>
+      <TranslationSet>
+        <base loc="en">four of four bars, with %@.</base>
+        <tran loc="ar">أربع من الشرط الأربع، تحتوي على %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kAirPortInternetUnavaliable</Position>
+      <TranslationSet>
+        <base loc="en">No Internet Connection…</base>
+        <tran loc="ar">لا يوجد اتصال إنترنت…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kAirPortOpenInternetConnectKey</Position>
+      <TranslationSet>
+        <base loc="en">Open Internet Connect…</base>
+        <tran loc="ar">فتح اتصال الإنترنت…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kAirPortAXValueSoftwareBaseStationKey</Position>
+      <TranslationSet>
+        <base loc="en">Software Base Station.</base>
+        <tran loc="ar">برنامج المحطة الرئيسية.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Network Connection and Configuration</Description>
+      <Position>kAirPortNoNetworkKey</Position>
+      <TranslationSet>
+        <base loc="en">No network selected</base>
+        <tran loc="ar">لم يتم تحديد شبكة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kAirPortInternetSharingKey</Position>
+      <TranslationSet>
+        <base loc="en">Wi-Fi: Internet Sharing</base>
+        <tran loc="ar">‏Wi-Fi: مشاركة الإنترنت</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Common Network Name</Description>
+      <Position>kWiFiLocAmbiguousNameTitle</Position>
+      <TranslationSet>
+        <base loc="en">Common Network Name</base>
+        <tran loc="ar">اسم الشبكة الشائع</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kWiFiLoc80211bRatesExternalURL</Position>
+      <TranslationSet>
+        <base loc="en">https://support.apple.com/kb/HT202068</base>
+        <tran loc="ar">https://support.apple.com/ar-ae/HT202068</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kWiFiLocLearnMoreLinkURL</Position>
+      <TranslationSet>
+        <base loc="en">https://support.apple.com/kb/HT202068</base>
+        <tran loc="ar">https://support.apple.com/ar-ae/HT202068</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kAirPortAXDescriptionAirPortIconBars</Position>
+      <TranslationSet>
+        <base loc="en"> of four bars.</base>
+        <tran loc="ar"> من الشرط الأربع.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kWiFiDiagnosticsReportLegalDisclaimer</Position>
+      <TranslationSet>
+        <base loc="en">This diagnostic tool generates files that allow Apple to investigate issues with your computer and help Apple to improve its products. The generated files may contain some of your personal information, which may include, but not be limited to, the serial number or similar unique number for your device, your user name, or your computer name. The information is used by Apple in accordance with its privacy policy (www.apple.com/privacy) and is not shared with any third party. By enabling this diagnostic tool and sending a copy of the generated files to Apple, you are consenting to Apple’s use of the content of such files.\n\nPlease press “OK” to continue.</base>
+        <tran loc="ar">تقوم أداة التشخيصات هذه بإنشاء الملفات التي تسمح لـ Apple بالتحقيق في المشاكل التي تواجهها في الكمبيوتر ومن ثم مساعدة Apple على تحسين منتجاتها. قد تحتوي الملفات التي يتم إنشاؤها على بعض معلوماتك الشخصية، والتي قد تشمل - على سبيل المثال لا الحصر - الرقم التسلسلي أو رقمًا فريدًا مشابهًا خاصًا بجهازك، اسم المستخدم الخاص بك، أو اسم الكمبيوتر الخاص بك. ويتم استخدام هذه المعلومات من قِبل Apple وفقًا لسياسة الخصوصية المتبعة لديها (www.apple.com/privacy) ولا تتم مشاركتها مع أي جهة خارجية. عندما تقوم بتمكين أداة التشخيصات هذه وإرسال نسخة من الملفات التي تم إنشاؤها إلى Apple، فأنت بذلك توافق على استخدام Apple لمحتوى هذه الملفات\n\nالرجاء الضغط على \"موافق\" للمتابعة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Open strings</Description>
+      <Position>kAirPortOpenNetworkPrefsKey</Position>
+      <TranslationSet>
+        <base loc="en">Open Network Preferences…</base>
+        <tran loc="ar">فتح تفضيلات الشبكة…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kAirPortBaseStationPPPControlDisconnect</Position>
+      <TranslationSet>
+        <base loc="en">Disconnect</base>
+        <tran loc="ar">قطع الاتصال</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kAirPortOpenInternetSharingKey</Position>
+      <TranslationSet>
+        <base loc="en">Open Sharing Preferences…</base>
+        <tran loc="ar">فتح تفضيلات المشاركة...</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kAirPortAXValue1of4Key</Position>
+      <TranslationSet>
+        <base loc="en">one of four bars.</base>
+        <tran loc="ar">واحدة من الشرط الأربع.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kWiFiLocAmbiguousNameDescription</Position>
+      <TranslationSet>
+        <base loc="en">Devices may have trouble identifying this network.</base>
+        <tran loc="ar">ربما تواجه الأجهزة مشاكل في التعرف على هذه الشبكة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kWiFiPersonalHotspotErrorTitle</Position>
+      <TranslationSet>
+        <base loc="en">Failed to enable Personal Hotspot on “%@”.</base>
+        <tran loc="ar">فشل تمكين نقطة الاتصال الشخصية في \"%@\".</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kAirPortAlertPanelTimeoutDescription</Position>
+      <TranslationSet>
+        <base loc="en">A connection timeout occurred.</base>
+        <tran loc="ar">حدث انتهاء لمهلة الاتصال.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> AX Descriptions / Values
+ trailing space is required!</Description>
+      <Position>kAirPortAXDescriptionKey</Position>
+      <TranslationSet>
+        <base loc="en">Wi-Fi, </base>
+        <tran loc="ar">‏Wi-Fi، </tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 802.11b Rates</Description>
+      <Position>kWiFiLoc80211bRatesTitle</Position>
+      <TranslationSet>
+        <base loc="en">Legacy Access Point</base>
+        <tran loc="ar">نقطة وصول قديمة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kWiFiLocAmbiguousNameRecommendation</Position>
+      <TranslationSet>
+        <base loc="en">If this is your Wi-Fi network, configure the router to use a unique network name (SSID).</base>
+        <tran loc="ar">إذا كانت هذه شبكة الـ Wi-Fi الخاصة بك، فقم بتكوين جهاز التوجيه لديك بحيث يستخدم اسم شبكة فريدًا (SSID).</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kAirPortAirPlayKey</Position>
+      <TranslationSet>
+        <base loc="en">Wi-Fi: AirPlay</base>
+        <tran loc="ar">‏Wi-Fi‏: AirPlay</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kAirPortBaseStationPPPControlConnect</Position>
+      <TranslationSet>
+        <base loc="en">Connect</base>
+        <tran loc="ar">اتصال</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kAirPortAXDescriptionSecurityModeOpenKey</Position>
+      <TranslationSet>
+        <base loc="en">Open network</base>
+        <tran loc="ar">شبكة مفتوحة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> WEP Security</Description>
+      <Position>kWiFiLocWEPSecurityTitle</Position>
+      <TranslationSet>
+        <base loc="en">Weak Security</base>
+        <tran loc="ar">تأمين ضعيف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> WPA Security</Description>
+      <Position>kWiFiLocWPASecurityTitle</Position>
+      <TranslationSet>
+        <base loc="en">Weak Security</base>
+        <tran loc="ar">تأمين ضعيف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kAirPortBaseStationPPPStatusConnected</Position>
+      <TranslationSet>
+        <base loc="en">PPPoE Connected</base>
+        <tran loc="ar">‏PPPoE متصل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kAirPortTurnOffKey</Position>
+      <TranslationSet>
+        <base loc="en">Turn Wi-Fi Off</base>
+        <tran loc="ar">إيقاف Wi-Fi</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>AirPort_executables/System/Library/CoreServices/WiFiAgent.app/Contents/Resources/English.lproj/Localizable.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>kAirPortMonitorModeKey</Position>
+      <TranslationSet>
+        <base loc="en">Wi-Fi: Monitor Mode</base>
+        <tran loc="ar">‏Wi-Fi: وضع المراقبة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kAirPortAXValue4of4Key</Position>
+      <TranslationSet>
+        <base loc="en">four of four bars.</base>
+        <tran loc="ar">أربع من الشرط الأربع.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kGroupBand5GHzKey</Position>
+      <TranslationSet>
+        <base loc="en">%d GHz</base>
+        <tran loc="ar">%d غيغاهرتز</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kWiFiLocNoSecurityRecommendation</Position>
+      <TranslationSet>
+        <base loc="en">If this is your Wi-Fi network, configure the router to use WPA2/WPA3 Personal (AES) security type for this network.</base>
+        <tran loc="ar">إذا كانت هذه شبكة الـ Wi-Fi الخاصة بك، فقم بتكوين جهاز التوجيه لديك لاستخدام نوع التأمين \"WPA2/WPA3 شخصي\" ‏(AES) لهذه الشبكة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kWiFiLocWEPSecurityRecommendation</Position>
+      <TranslationSet>
+        <base loc="en">If this is your Wi-Fi network, configure the router to use WPA2/WPA3 Personal (AES) security type for this network.</base>
+        <tran loc="ar">إذا كانت هذه شبكة الـ Wi-Fi الخاصة بك، فقم بتكوين جهاز التوجيه لديك لاستخدام نوع التأمين \"WPA2/WPA3 شخصي\" ‏(AES) لهذه الشبكة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kWiFiLocWPASecurityRecommendation</Position>
+      <TranslationSet>
+        <base loc="en">If this is your Wi-Fi network, configure the router to use WPA2/WPA3 Personal (AES) security type for this network.</base>
+        <tran loc="ar">إذا كانت هذه شبكة الـ Wi-Fi الخاصة بك، فقم بتكوين جهاز التوجيه لديك لاستخدام نوع التأمين \"WPA2/WPA3 شخصي\" ‏(AES) لهذه الشبكة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kAirPortAXValue2of4Key</Position>
+      <TranslationSet>
+        <base loc="en">two of four bars.</base>
+        <tran loc="ar">اثنتان من الشرط الأربع.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kAirPortBaseStationPPPStatusDisconnecting</Position>
+      <TranslationSet>
+        <base loc="en">PPPoE Disconnecting</base>
+        <tran loc="ar">يتم الآن قطع اتصال PPPoE</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kWiFiLocNoSecurityDescription</Position>
+      <TranslationSet>
+        <base loc="en">Unsecured networks expose all unencrypted network traffic.</base>
+        <tran loc="ar">تجعل الشبكات غير الآمنة كل حركة مرور الشبكة غير المشفرة مكشوفة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kWiFiPersonalHotspotErrorDescription</Position>
+      <TranslationSet>
+        <base loc="en">Check to see if the device is turned on and in range of your computer.</base>
+        <tran loc="ar">تحقق للتأكد من أن الجهاز مشغّل ومن أنه ضمن مجال الكمبيوتر.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kAirPortCreateNetworkKey</Position>
+      <TranslationSet>
+        <base loc="en">Create Network…</base>
+        <tran loc="ar">إنشاء شبكة...</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kAirPortAXValue2of4WithKey</Position>
+      <TranslationSet>
+        <base loc="en">two of four bars, with %@.</base>
+        <tran loc="ar">اثنتان من الشرط الأربع، تحتوي على %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kAirPortWirelessDiagnosticsKey</Position>
+      <TranslationSet>
+        <base loc="en">Open %@…</base>
+        <tran loc="ar">فتح %@…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kAirPortStatusBusyKey</Position>
+      <TranslationSet>
+        <base loc="en">Wi-Fi: Searching…</base>
+        <tran loc="ar">‏Wi-Fi: يتم الآن البحث...</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kAirPortInterfaceNameInfoKey</Position>
+      <TranslationSet>
+        <base loc="en">Interface Name: %@</base>
+        <tran loc="ar">اسم الواجهة: %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kWiFiDiagnosticsReportTitle</Position>
+      <TranslationSet>
+        <base loc="en">Wireless Diagnostics Report</base>
+        <tran loc="ar">تقرير تشخيصات الشبكة اللاسلكية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kWiFiDiagnosticsEnableWiFiLogging</Position>
+      <TranslationSet>
+        <base loc="en">Enable Wi-Fi Logging</base>
+        <tran loc="ar">تمكين تسجيل Wi-Fi</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No Security</Description>
+      <Position>kWiFiLocNoSecurityTitle</Position>
+      <TranslationSet>
+        <base loc="en">Unsecured Network</base>
+        <tran loc="ar">شبكة غير آمنة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kWiFiLocWEPSecurityDescription</Position>
+      <TranslationSet>
+        <base loc="en">WEP is not considered secure.</base>
+        <tran loc="ar">لا يعتبر WEP آمنًا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kWiFiLocShowWiFiRecommendations</Position>
+      <TranslationSet>
+        <base loc="en">Wi-Fi Recommendations…</base>
+        <tran loc="ar">توصيات Wi-Fi…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> &lt;rdar://problem/19845253&gt; [AirPortClients]: Change hard-coded numbers in localized strings to use +localizedStringWithFormat:</Description>
+      <Position>kGroupBand24GHzKey</Position>
+      <TranslationSet>
+        <base loc="en">%.1f GHz</base>
+        <tran loc="ar">%.1f غيغاهرتز</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kAirPortNotConfiguredKey</Position>
+      <TranslationSet>
+        <base loc="en">Wi-Fi: Not configured</base>
+        <tran loc="ar">‏Wi-Fi: لم يتم التكوين</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> WiFi Health (Recommendations) &lt;rdar://problem/23814561&gt; OS X WiFi Health Monitor</Description>
+      <Position>kWiFiLocLearnMoreLinkTitle</Position>
+      <TranslationSet>
+        <base loc="en">Learn More.</base>
+        <tran loc="ar">معرفة المزيد.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kAirPortWDPerfUtilityKey</Position>
+      <TranslationSet>
+        <base loc="en">Open Performance Utility…</base>
+        <tran loc="ar">فتح أداة الأداء…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> alert strings</Description>
+      <Position>kAirPortAlert</Position>
+      <TranslationSet>
+        <base loc="en">Alert: %@</base>
+        <tran loc="ar">تنبيه: %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kWiFiLoc80211bRatesRecommendation</Position>
+      <TranslationSet>
+        <base loc="en">If this is your Wi-Fi network, upgrade to an 802.11n/ac router.</base>
+        <tran loc="ar">إذا كانت هذه شبكة الـ Wi-Fi الخاصة بك، فقم بالترقية إلى جهاز توجيه يدعم ‪802.11n/ac‬‏.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kWiFiLocWPASecurityDescription</Position>
+      <TranslationSet>
+        <base loc="en">WPA is not considered secure.</base>
+        <tran loc="ar">لا يعتبر WPA آمنًا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kAirPortBaseStationPPPStatusReconnecting</Position>
+      <TranslationSet>
+        <base loc="en">PPPoE Reconnecting</base>
+        <tran loc="ar">يتم الآن إعادة اتصال PPPoE</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kWiFiLocNoInternetRecommendation</Position>
+      <TranslationSet>
+        <base loc="en">If this is your Wi-Fi network, try restarting the modem and router, or contact your ISP.</base>
+        <tran loc="ar">إذا كانت هذه شبكة الـ Wi-Fi الخاصة بك، فجرّب إعادة تشغيل المودم وجهاز التوجيه، أو اتصل بموفر خدمة الإنترنت لديك.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Hidden Network</Description>
+      <Position>kWiFiLocHiddenNetworkTitle</Position>
+      <TranslationSet>
+        <base loc="en">Hidden Network</base>
+        <tran loc="ar">شبكة مخفية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kAirPortAlertPanelTimeoutOK</Position>
+      <TranslationSet>
+        <base loc="en">OK</base>
+        <tran loc="ar">موافق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kAirPortOtherKey</Position>
+      <TranslationSet>
+        <base loc="en">Join Other Network…</base>
+        <tran loc="ar">انضمام إلى شبكة أخرى...</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kAirPortWDSidecarUtilityKey</Position>
+      <TranslationSet>
+        <base loc="en">Open Sidecar Utility…</base>
+        <tran loc="ar">فتح أداة Sidecar…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kAirPortAXDescriptionSecureNetwork</Position>
+      <TranslationSet>
+        <base loc="en">Secure network</base>
+        <tran loc="ar">شبكة آمنة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kAirPortStatusOffKey</Position>
+      <TranslationSet>
+        <base loc="en">Wi-Fi: Off</base>
+        <tran loc="ar">‏Wi-Fi: متوقف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kWiFiDiagnosticsDisableWiFiLogging</Position>
+      <TranslationSet>
+        <base loc="en">Disable Wi-Fi Logging</base>
+        <tran loc="ar">تعطيل تسجيل Wi-Fi</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kAirPortAlertPanelTimeoutCancel</Position>
+      <TranslationSet>
+        <base loc="en">Cancel</base>
+        <tran loc="ar">إلغاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kAirPortTurnOnKey</Position>
+      <TranslationSet>
+        <base loc="en">Turn Wi-Fi On</base>
+        <tran loc="ar">تشغيل Wi-Fi</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kAirPortStatusScanningKey</Position>
+      <TranslationSet>
+        <base loc="en">Wi-Fi: Looking for Networks…</base>
+        <tran loc="ar">‫Wi-Fi: يتم الآن البحث عن شبكات…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kAirPortAXDescriptionHotspot</Position>
+      <TranslationSet>
+        <base loc="en">Personal Hotspot</base>
+        <tran loc="ar">نقطة اتصال شخصية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kAirPortBaseStationPPPStatusConnecting</Position>
+      <TranslationSet>
+        <base loc="en">PPPoE Connecting</base>
+        <tran loc="ar">اتصال PPPoE</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kAirPortAXValue3of4WithKey</Position>
+      <TranslationSet>
+        <base loc="en">three of four bars, with %@.</base>
+        <tran loc="ar">ثلاث من الشرط الأربع، تحتوي على %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kAirPortNotInstalledKey</Position>
+      <TranslationSet>
+        <base loc="en">Wi-Fi: No hardware installed</base>
+        <tran loc="ar">‏Wi-Fi: لا توجد أي أجهزة مثبتة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kWiFiLocHiddenNetworkRecommendation</Position>
+      <TranslationSet>
+        <base loc="en">If this is your Wi-Fi network, configure the router to broadcast this network.</base>
+        <tran loc="ar">إذا كانت هذه شبكة الـ Wi-Fi الخاصة بك، فقم بتكوين جهاز التوجيه لديك لنقل اتصالات هذه الشبكة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Warning dialog strings</Description>
+      <Position>kAirPortAlertPanelTimeoutTitle</Position>
+      <TranslationSet>
+        <base loc="en">Could not join “%@”.</base>
+        <tran loc="ar">تعذر الانضمام إلى \"%@\".</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Diagnostics</Description>
+      <Position>kWiFiDiagnosticsCreateReport</Position>
+      <TranslationSet>
+        <base loc="en">Create Diagnostics Report…</base>
+        <tran loc="ar">إنشاء تقرير التشخيصات…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kAirPortAXValueC2CKey</Position>
+      <TranslationSet>
+        <base loc="en">Computer to Computer.</base>
+        <tran loc="ar">كمبيوتر إلى كمبيوتر.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No Internet</Description>
+      <Position>kWiFiLocNoInternetTitle</Position>
+      <TranslationSet>
+        <base loc="en">No Internet Connection</base>
+        <tran loc="ar">لا يوجد اتصال إنترنت</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kAirPortStatusOnKey</Position>
+      <TranslationSet>
+        <base loc="en">Wi-Fi: On</base>
+        <tran loc="ar">‏Wi-Fi: قيد التشغيل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kAirPortHardwareAddressInfoKey</Position>
+      <TranslationSet>
+        <base loc="en">Address: %@</base>
+        <tran loc="ar">العنوان: %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kAirPortBaseStationPPPStatusDisconnected</Position>
+      <TranslationSet>
+        <base loc="en">PPPoE Disconnected</base>
+        <tran loc="ar">تم قطع اتصال PPPoE</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kAirPortAXValue1of4WithKey</Position>
+      <TranslationSet>
+        <base loc="en">one of four bars, with %@.</base>
+        <tran loc="ar">واحدة من الشرط الأربع، تحتوي على %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kAirPortAXValueNoSignalKey</Position>
+      <TranslationSet>
+        <base loc="en">No Signal.</base>
+        <tran loc="ar">لا توجد إشارة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kAirPortAXValue3of4Key</Position>
+      <TranslationSet>
+        <base loc="en">three of four bars.</base>
+        <tran loc="ar">ثلاث من الشرط الأربع.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kWiFiLocHiddenNetworkDescription</Position>
+      <TranslationSet>
+        <base loc="en">Using a hidden network can expose personally identifiable information.</base>
+        <tran loc="ar">قد يؤدي استخدام شبكة مخفية إلى الكشف عن المعلومات المحدِّدة لهويتك.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>wpaIsFailureMIC</Position>
+      <TranslationSet>
+        <base loc="en">The wireless network appears to have been compromised and will be disabled for about a minute.</base>
+        <tran loc="ar">يبدو أن الشبكة اللاسلكية قد تعرضت للخطر وسيتم تعطيلها لحوالي دقيقة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kAirPortAlertPanelNotFoundDescription</Position>
+      <TranslationSet>
+        <base loc="en">The network could not be found.</base>
+        <tran loc="ar">تعذر العثور على الشبكة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kAirPortAXValueNotEnabledKey</Position>
+      <TranslationSet>
+        <base loc="en">Wi-Fi is not enabled.</base>
+        <tran loc="ar">لم يتم تمكين Wi-Fi.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kAirPortChannelInfoKey</Position>
+      <TranslationSet>
+        <base loc="en">Channel: %@</base>
+        <tran loc="ar">القناة: %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kAirPortScanningNetworksKey</Position>
+      <TranslationSet>
+        <base loc="en">Scanning for networks…</base>
+        <tran loc="ar">يتم الآن المسح بحثًا عن شبكات…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kWiFiLoc80211bRatesDescription</Position>
+      <TranslationSet>
+        <base loc="en">802.11b provides suboptimal performance.</base>
+        <tran loc="ar">تقدم ‪802.11b‬ أداءً أقل من الأمثل.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kAirPortAXValue4of4WithKey</Position>
+      <TranslationSet>
+        <base loc="en">four of four bars, with %@.</base>
+        <tran loc="ar">أربع من الشرط الأربع، تحتوي على %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kAirPortInternetUnavaliable</Position>
+      <TranslationSet>
+        <base loc="en">No Internet Connection…</base>
+        <tran loc="ar">لا يوجد اتصال إنترنت…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kAirPortOpenInternetConnectKey</Position>
+      <TranslationSet>
+        <base loc="en">Open Internet Connect…</base>
+        <tran loc="ar">فتح اتصال الإنترنت…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kAirPortAXValueSoftwareBaseStationKey</Position>
+      <TranslationSet>
+        <base loc="en">Software Base Station.</base>
+        <tran loc="ar">برنامج المحطة الرئيسية.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Network Connection and Configuration</Description>
+      <Position>kAirPortNoNetworkKey</Position>
+      <TranslationSet>
+        <base loc="en">No network selected</base>
+        <tran loc="ar">لم يتم تحديد شبكة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kAirPortInternetSharingKey</Position>
+      <TranslationSet>
+        <base loc="en">Wi-Fi: Internet Sharing</base>
+        <tran loc="ar">‏Wi-Fi: مشاركة الإنترنت</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Common Network Name</Description>
+      <Position>kWiFiLocAmbiguousNameTitle</Position>
+      <TranslationSet>
+        <base loc="en">Common Network Name</base>
+        <tran loc="ar">اسم الشبكة الشائع</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kWiFiLoc80211bRatesExternalURL</Position>
+      <TranslationSet>
+        <base loc="en">https://support.apple.com/kb/HT202068</base>
+        <tran loc="ar">https://support.apple.com/ar-ae/HT202068</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kWiFiLocLearnMoreLinkURL</Position>
+      <TranslationSet>
+        <base loc="en">https://support.apple.com/kb/HT202068</base>
+        <tran loc="ar">https://support.apple.com/ar-ae/HT202068</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kAirPortAXDescriptionAirPortIconBars</Position>
+      <TranslationSet>
+        <base loc="en"> of four bars.</base>
+        <tran loc="ar"> من الشرط الأربع.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kWiFiDiagnosticsReportLegalDisclaimer</Position>
+      <TranslationSet>
+        <base loc="en">This diagnostic tool generates files that allow Apple to investigate issues with your computer and help Apple to improve its products. The generated files may contain some of your personal information, which may include, but not be limited to, the serial number or similar unique number for your device, your user name, or your computer name. The information is used by Apple in accordance with its privacy policy (www.apple.com/privacy) and is not shared with any third party. By enabling this diagnostic tool and sending a copy of the generated files to Apple, you are consenting to Apple’s use of the content of such files.\n\nPlease press “OK” to continue.</base>
+        <tran loc="ar">تقوم أداة التشخيصات هذه بإنشاء الملفات التي تسمح لـ Apple بالتحقيق في المشاكل التي تواجهها في الكمبيوتر ومن ثم مساعدة Apple على تحسين منتجاتها. قد تحتوي الملفات التي يتم إنشاؤها على بعض معلوماتك الشخصية، والتي قد تشمل - على سبيل المثال لا الحصر - الرقم التسلسلي أو رقمًا فريدًا مشابهًا خاصًا بجهازك، اسم المستخدم الخاص بك، أو اسم الكمبيوتر الخاص بك. ويتم استخدام هذه المعلومات من قِبل Apple وفقًا لسياسة الخصوصية المتبعة لديها (www.apple.com/privacy) ولا تتم مشاركتها مع أي جهة خارجية. عندما تقوم بتمكين أداة التشخيصات هذه وإرسال نسخة من الملفات التي تم إنشاؤها إلى Apple، فأنت بذلك توافق على استخدام Apple لمحتوى هذه الملفات\n\nالرجاء الضغط على \"موافق\" للمتابعة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Open strings</Description>
+      <Position>kAirPortOpenNetworkPrefsKey</Position>
+      <TranslationSet>
+        <base loc="en">Open Network Preferences…</base>
+        <tran loc="ar">فتح تفضيلات الشبكة…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kAirPortBaseStationPPPControlDisconnect</Position>
+      <TranslationSet>
+        <base loc="en">Disconnect</base>
+        <tran loc="ar">قطع الاتصال</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kAirPortOpenInternetSharingKey</Position>
+      <TranslationSet>
+        <base loc="en">Open Sharing Preferences…</base>
+        <tran loc="ar">فتح تفضيلات المشاركة...</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kAirPortAXValue1of4Key</Position>
+      <TranslationSet>
+        <base loc="en">one of four bars.</base>
+        <tran loc="ar">واحدة من الشرط الأربع.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kWiFiLocAmbiguousNameDescription</Position>
+      <TranslationSet>
+        <base loc="en">Devices may have trouble identifying this network.</base>
+        <tran loc="ar">ربما تواجه الأجهزة مشاكل في التعرف على هذه الشبكة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kWiFiPersonalHotspotErrorTitle</Position>
+      <TranslationSet>
+        <base loc="en">Failed to enable Personal Hotspot on “%@”.</base>
+        <tran loc="ar">فشل تمكين نقطة الاتصال الشخصية في \"%@\".</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kAirPortAlertPanelTimeoutDescription</Position>
+      <TranslationSet>
+        <base loc="en">A connection timeout occurred.</base>
+        <tran loc="ar">حدث انتهاء لمهلة الاتصال.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> AX Descriptions / Values
+ trailing space is required!</Description>
+      <Position>kAirPortAXDescriptionKey</Position>
+      <TranslationSet>
+        <base loc="en">Wi-Fi, </base>
+        <tran loc="ar">‏Wi-Fi، </tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 802.11b Rates</Description>
+      <Position>kWiFiLoc80211bRatesTitle</Position>
+      <TranslationSet>
+        <base loc="en">Legacy Access Point</base>
+        <tran loc="ar">نقطة وصول قديمة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kWiFiLocAmbiguousNameRecommendation</Position>
+      <TranslationSet>
+        <base loc="en">If this is your Wi-Fi network, configure the router to use a unique network name (SSID).</base>
+        <tran loc="ar">إذا كانت هذه شبكة الـ Wi-Fi الخاصة بك، فقم بتكوين جهاز التوجيه لديك بحيث يستخدم اسم شبكة فريدًا (SSID).</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kAirPortAirPlayKey</Position>
+      <TranslationSet>
+        <base loc="en">Wi-Fi: AirPlay</base>
+        <tran loc="ar">‏Wi-Fi‏: AirPlay</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kAirPortBaseStationPPPControlConnect</Position>
+      <TranslationSet>
+        <base loc="en">Connect</base>
+        <tran loc="ar">اتصال</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kAirPortAXDescriptionSecurityModeOpenKey</Position>
+      <TranslationSet>
+        <base loc="en">Open network</base>
+        <tran loc="ar">شبكة مفتوحة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> WEP Security</Description>
+      <Position>kWiFiLocWEPSecurityTitle</Position>
+      <TranslationSet>
+        <base loc="en">Weak Security</base>
+        <tran loc="ar">تأمين ضعيف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> WPA Security</Description>
+      <Position>kWiFiLocWPASecurityTitle</Position>
+      <TranslationSet>
+        <base loc="en">Weak Security</base>
+        <tran loc="ar">تأمين ضعيف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kAirPortBaseStationPPPStatusConnected</Position>
+      <TranslationSet>
+        <base loc="en">PPPoE Connected</base>
+        <tran loc="ar">‏PPPoE متصل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kAirPortTurnOffKey</Position>
+      <TranslationSet>
+        <base loc="en">Turn Wi-Fi Off</base>
+        <tran loc="ar">إيقاف Wi-Fi</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+</Proj>

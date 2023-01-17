@@ -1,0 +1,506 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Proj>
+  <ProjName>Compass</ProjName>
+  <File>
+    <Filepath>Compass/System/Library/AppPlaceholders/Compass.app/en.lproj/InfoPlist.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>CFBundleDisplayName</Position>
+      <TranslationSet>
+        <base loc="en">Compass</base>
+        <tran loc="ar">البوصلة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Localized versions of Info.plist keys </Description>
+      <Position>CFBundleName</Position>
+      <TranslationSet>
+        <base loc="en">Compass</base>
+        <tran loc="ar">البوصلة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>QUICKACTION_START_COMPASS_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Compass</base>
+        <tran loc="ar">البوصلة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>NSLocationWhenInUseUsageDescription</Position>
+      <TranslationSet>
+        <base loc="en">Your location is used to show latitude and longitude.</base>
+        <tran loc="ar">يتم استخدام موقعك لإظهار خطوط الطول والعرض.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>QUICKACTION_START_LEVEL_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Level</base>
+        <tran loc="ar">المستوى</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>NSHumanReadableCopyright</Position>
+      <TranslationSet>
+        <base loc="en">© Apple Inc. 2009</base>
+        <tran loc="ar">© Apple Inc. 2009</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>Compass/private/var/staged_system_apps/Compass.app/en.lproj/Localizable.strings</Filepath>
+    <TextItem>
+      <Description> abbreviation for South direction </Description>
+      <Position>S</Position>
+      <TranslationSet>
+        <base loc="en">S</base>
+        <tran loc="ar">ج</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> South coordinate label </Description>
+      <Position>cS</Position>
+      <TranslationSet>
+        <base loc="en">S</base>
+        <tran loc="ar">ج</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> compass direction Northeast label, abbreviated </Description>
+      <Position>NE</Position>
+      <TranslationSet>
+        <base loc="en">NE</base>
+        <tran loc="ar">ش ش</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Place label format string with locality(1$) and the first that exists of administrative area, country, or country code (2$) </Description>
+      <Position>%1$@, %2$@</Position>
+      <TranslationSet>
+        <base loc="en">%1$@, %2$@</base>
+        <tran loc="ar">‏%1$@،‏ %2$@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> abbreviation for West direction </Description>
+      <Position>W</Position>
+      <TranslationSet>
+        <base loc="en">W</base>
+        <tran loc="ar">غ</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> West coordinate label </Description>
+      <Position>cW</Position>
+      <TranslationSet>
+        <base loc="en">W</base>
+        <tran loc="ar">غ</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Degrees symbol </Description>
+      <Position>°</Position>
+      <TranslationSet>
+        <base loc="en">°</base>
+        <tran loc="ar">°</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> compass direction Southwest label, abbreviated </Description>
+      <Position>SW</Position>
+      <TranslationSet>
+        <base loc="en">SW</base>
+        <tran loc="ar">ج غ</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Heading format string </Description>
+      <Position>%1$@°</Position>
+      <TranslationSet>
+        <base loc="en">%1$@°</base>
+        <tran loc="ar">‏%1$@°</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Uncalibrated compass heading </Description>
+      <Position>--</Position>
+      <TranslationSet>
+        <base loc="en">--</base>
+        <tran loc="ar">--</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> cancel button for calibration </Description>
+      <Position>Cancel</Position>
+      <TranslationSet>
+        <base loc="en">Cancel</base>
+        <tran loc="ar">إلغاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> abbreviation for North direction </Description>
+      <Position>N</Position>
+      <TranslationSet>
+        <base loc="en">N</base>
+        <tran loc="ar">ش</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> North coordinate label </Description>
+      <Position>cN</Position>
+      <TranslationSet>
+        <base loc="en">N</base>
+        <tran loc="ar">ش</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> compass direction Northwest label, abbreviated </Description>
+      <Position>NW</Position>
+      <TranslationSet>
+        <base loc="en">NW</base>
+        <tran loc="ar">ش غ</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Coordinate format string </Description>
+      <Position>%@  %@</Position>
+      <TranslationSet>
+        <base loc="en">%1$@  %2$@</base>
+        <tran loc="ar">‏%1$@  ‏%2$@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> instruction text for how to calibrate the device </Description>
+      <Position>Tilt the screen to roll the ball around the circle</Position>
+      <TranslationSet>
+        <base loc="en">Tilt the screen to roll the ball around the circle</base>
+        <tran loc="ar">إمالة الشاشة لدحرجة الكرة حول الدائرة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> compass direction Southeast label, abbreviated </Description>
+      <Position>SE</Position>
+      <TranslationSet>
+        <base loc="en">SE</base>
+        <tran loc="ar">ج ش</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> abbreviation for East direction </Description>
+      <Position>E</Position>
+      <TranslationSet>
+        <base loc="en">E</base>
+        <tran loc="ar">ق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> East coordinate label </Description>
+      <Position>cE</Position>
+      <TranslationSet>
+        <base loc="en">E</base>
+        <tran loc="ar">شرق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Altitude format string imperial </Description>
+      <Position>%@ ft Elevation</Position>
+      <TranslationSet>
+        <base loc="en">%@ ft Elevation</base>
+        <tran loc="ar">الارتفاع %@ قدم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Latitude/Longitude dms with direction format string </Description>
+      <Position>%1$@°%2$@′%3$@″ %4$@</Position>
+      <TranslationSet>
+        <base loc="en">%1$@°%2$@′%3$@″ %4$@</base>
+        <tran loc="ar">%1$@°%2$@′%3$@″ %4$@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> calibration title </Description>
+      <Position>Calibrate</Position>
+      <TranslationSet>
+        <base loc="en">Calibrate</base>
+        <tran loc="ar">معايرة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Altitude format string metric </Description>
+      <Position>%@ m Elevation</Position>
+      <TranslationSet>
+        <base loc="en">%@ m Elevation</base>
+        <tran loc="ar">الارتفاع %@ متر</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>Compass/Applications/CompassCalibrationViewService.app/en.lproj/Localizable.strings</Filepath>
+    <TextItem>
+      <Description> abbreviation for South direction </Description>
+      <Position>S</Position>
+      <TranslationSet>
+        <base loc="en">S</base>
+        <tran loc="ar">ج</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> South coordinate label </Description>
+      <Position>cS</Position>
+      <TranslationSet>
+        <base loc="en">S</base>
+        <tran loc="ar">ج</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> compass direction Northeast label, abbreviated </Description>
+      <Position>NE</Position>
+      <TranslationSet>
+        <base loc="en">NE</base>
+        <tran loc="ar">ش ش</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Place label format string with locality(1$) and the first that exists of administrative area, country, or country code (2$) </Description>
+      <Position>%1$@, %2$@</Position>
+      <TranslationSet>
+        <base loc="en">%1$@, %2$@</base>
+        <tran loc="ar">‏%1$@،‏ %2$@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> abbreviation for West direction </Description>
+      <Position>W</Position>
+      <TranslationSet>
+        <base loc="en">W</base>
+        <tran loc="ar">غ</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> West coordinate label </Description>
+      <Position>cW</Position>
+      <TranslationSet>
+        <base loc="en">W</base>
+        <tran loc="ar">غ</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Degrees symbol </Description>
+      <Position>°</Position>
+      <TranslationSet>
+        <base loc="en">°</base>
+        <tran loc="ar">°</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> compass direction Southwest label, abbreviated </Description>
+      <Position>SW</Position>
+      <TranslationSet>
+        <base loc="en">SW</base>
+        <tran loc="ar">ج غ</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Heading format string </Description>
+      <Position>%1$@°</Position>
+      <TranslationSet>
+        <base loc="en">%1$@°</base>
+        <tran loc="ar">‏%1$@°</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Uncalibrated compass heading </Description>
+      <Position>--</Position>
+      <TranslationSet>
+        <base loc="en">--</base>
+        <tran loc="ar">--</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> cancel button for calibration </Description>
+      <Position>Cancel</Position>
+      <TranslationSet>
+        <base loc="en">Cancel</base>
+        <tran loc="ar">إلغاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> abbreviation for North direction </Description>
+      <Position>N</Position>
+      <TranslationSet>
+        <base loc="en">N</base>
+        <tran loc="ar">ش</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> North coordinate label </Description>
+      <Position>cN</Position>
+      <TranslationSet>
+        <base loc="en">N</base>
+        <tran loc="ar">ش</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> compass direction Northwest label, abbreviated </Description>
+      <Position>NW</Position>
+      <TranslationSet>
+        <base loc="en">NW</base>
+        <tran loc="ar">ش غ</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Coordinate format string </Description>
+      <Position>%@  %@</Position>
+      <TranslationSet>
+        <base loc="en">%1$@  %2$@</base>
+        <tran loc="ar">‏%1$@  ‏%2$@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> instruction text for how to calibrate the device </Description>
+      <Position>Tilt the screen to roll the ball around the circle</Position>
+      <TranslationSet>
+        <base loc="en">Tilt the screen to roll the ball around the circle</base>
+        <tran loc="ar">إمالة الشاشة لدحرجة الكرة حول الدائرة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> compass direction Southeast label, abbreviated </Description>
+      <Position>SE</Position>
+      <TranslationSet>
+        <base loc="en">SE</base>
+        <tran loc="ar">ج ش</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> abbreviation for East direction </Description>
+      <Position>E</Position>
+      <TranslationSet>
+        <base loc="en">E</base>
+        <tran loc="ar">ق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> East coordinate label </Description>
+      <Position>cE</Position>
+      <TranslationSet>
+        <base loc="en">E</base>
+        <tran loc="ar">شرق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Altitude format string imperial </Description>
+      <Position>%@ ft Elevation</Position>
+      <TranslationSet>
+        <base loc="en">%@ ft Elevation</base>
+        <tran loc="ar">الارتفاع %@ قدم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Latitude/Longitude dms with direction format string </Description>
+      <Position>%1$@°%2$@′%3$@″ %4$@</Position>
+      <TranslationSet>
+        <base loc="en">%1$@°%2$@′%3$@″ %4$@</base>
+        <tran loc="ar">%1$@°%2$@′%3$@″ %4$@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> calibration title </Description>
+      <Position>Calibrate</Position>
+      <TranslationSet>
+        <base loc="en">Calibrate</base>
+        <tran loc="ar">معايرة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Altitude format string metric </Description>
+      <Position>%@ m Elevation</Position>
+      <TranslationSet>
+        <base loc="en">%@ m Elevation</base>
+        <tran loc="ar">الارتفاع %@ متر</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>Compass/private/var/staged_system_apps/Compass.app/en.lproj/InfoPlist.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>CFBundleDisplayName</Position>
+      <TranslationSet>
+        <base loc="en">Compass</base>
+        <tran loc="ar">البوصلة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Localized versions of Info.plist keys </Description>
+      <Position>CFBundleName</Position>
+      <TranslationSet>
+        <base loc="en">Compass</base>
+        <tran loc="ar">البوصلة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>QUICKACTION_START_COMPASS_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Compass</base>
+        <tran loc="ar">البوصلة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>NSLocationWhenInUseUsageDescription</Position>
+      <TranslationSet>
+        <base loc="en">Your location is used to show latitude and longitude.</base>
+        <tran loc="ar">يتم استخدام موقعك لإظهار خطوط الطول والعرض.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>QUICKACTION_START_LEVEL_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Level</base>
+        <tran loc="ar">المستوى</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>NSHumanReadableCopyright</Position>
+      <TranslationSet>
+        <base loc="en">© Apple Inc. 2009</base>
+        <tran loc="ar">© Apple Inc. 2009</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>Compass/System/Library/PreferenceBundles/CompassSettings.bundle/en.lproj/CompassSettings.strings</Filepath>
+    <TextItem>
+      <Description> 
+  CompassSettings.strings
+  Compass
+
+  Created by Albert Dul on 7/8/13.
+
+
+ The title of the settings view </Description>
+      <Position>COMPASS</Position>
+      <TranslationSet>
+        <base loc="en">Compass</base>
+        <tran loc="ar">البوصلة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Settings switch label </Description>
+      <Position>USE_TRUE_NORTH</Position>
+      <TranslationSet>
+        <base loc="en">Use True North</base>
+        <tran loc="ar">استخدام الشمال الحقيقي</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+</Proj>

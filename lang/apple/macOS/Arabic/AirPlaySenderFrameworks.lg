@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Proj>
+  <ProjName>AirPlaySenderFrameworks</ProjName>
+  <File>
+    <Filepath>AirPlaySenderFrameworks/System/Library/PrivateFrameworks/MediaControlSender.framework/Versions/A/Resources/en.lproj/AVSystemController.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>DEFAULT_PASSWORD</Position>
+      <TranslationSet>
+        <base loc="en">password</base>
+        <tran loc="ar">كلمة السر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>INCOMPATIBLE_DEVICE_MINOR</Position>
+      <TranslationSet>
+        <base loc="en">Please update the AirPlay device to a newer version.</base>
+        <tran loc="ar">الرجاء تحديث جهاز AirPlay للإصدار الأحدث.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>OK_BUTTON</Position>
+      <TranslationSet>
+        <base loc="en">OK</base>
+        <tran loc="ar">موافق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>BAD_PASSWORD</Position>
+      <TranslationSet>
+        <base loc="en">The password is incorrect.</base>
+        <tran loc="ar">كلمة السر غير صحيحة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>BAD_PASSCODE</Position>
+      <TranslationSet>
+        <base loc="en">The code is incorrect.</base>
+        <tran loc="ar">الرمز غير صحيح.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AIRPLAY_PASSWORD_DESCRIPTION</Position>
+      <TranslationSet>
+        <base loc="en">AirPlay password</base>
+        <tran loc="ar">كلمة سر AirPlay</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>NEEDS_PASSCODE %@</Position>
+      <TranslationSet>
+        <base loc="en">Enter the AirPlay code for “%@”.</base>
+        <tran loc="ar">قم بإدخال رمز AirPlay لـ \"‪%@‬\".</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>NEEDS_PASSWORD %@</Position>
+      <TranslationSet>
+        <base loc="en">Enter the AirPlay password for “%@”.</base>
+        <tran loc="ar">قم بإدخال كلمة سر AirPlay لـ \"‪%@‬\".</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DEFAULT_PASSCODE</Position>
+      <TranslationSet>
+        <base loc="en">code</base>
+        <tran loc="ar">الرمز</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>BUSY_ERROR_MAJOR %@</Position>
+      <TranslationSet>
+        <base loc="en">“%@” is currently in use.</base>
+        <tran loc="ar">‏\"%@\" قيد الاستخدام حاليًا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Localizable strings.</Description>
+      <Position>INCOMPATIBLE_DEVICE_MAJOR</Position>
+      <TranslationSet>
+        <base loc="en">This AirPlay device is not compatible with this software</base>
+        <tran loc="ar">جهاز AirPlay هذا غير متوافق مع هذا البرنامج</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>START_ERROR_MAJOR %@</Position>
+      <TranslationSet>
+        <base loc="en">Could not connect to “%@”</base>
+        <tran loc="ar">تعذر الاتصال بـ \"‪%@‬\"</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>AirPlaySenderFrameworks/System/Library/PrivateFrameworks/MediaControlSender.framework/Versions/A/Resources/en.lproj/AVSystemControllerUI.strings</Filepath>
+    <TextItem>
+      <Description> Class = "NSWindow"; title = "AirPlay Device Password"; ObjectID = "1"; </Description>
+      <Position>1.title</Position>
+      <TranslationSet>
+        <base loc="en">AirPlay Device Password</base>
+        <tran loc="ar">كلمة سر جهاز AirPlay</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "OK"; ObjectID = "4"; </Description>
+      <Position>4.title</Position>
+      <TranslationSet>
+        <base loc="en">OK</base>
+        <tran loc="ar">موافق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Cancel"; ObjectID = "10"; </Description>
+      <Position>10.title</Position>
+      <TranslationSet>
+        <base loc="en">Cancel</base>
+        <tran loc="ar">إلغاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Remember password"; ObjectID = "88"; </Description>
+      <Position>88.title</Position>
+      <TranslationSet>
+        <base loc="en">Remember password</base>
+        <tran loc="ar">تذكر كلمة السر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "&lt;&lt; do not localize &gt;&gt;"; ObjectID = "174"; </Description>
+      <Position>174.title</Position>
+      <TranslationSet>
+        <base loc="en">&lt;&lt; do not localize &gt;&gt;</base>
+        <tran loc="ar">&lt;&lt; do not localize &gt;&gt;</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "&lt;&lt; do not localize &gt;&gt;"; ObjectID = "57"; </Description>
+      <Position>57.title</Position>
+      <TranslationSet>
+        <base loc="en">&lt;&lt; do not localize &gt;&gt;</base>
+        <tran loc="ar">&lt;&lt; do not localize &gt;&gt;</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+</Proj>

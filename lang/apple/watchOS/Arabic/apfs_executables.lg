@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Proj>
+  <ProjName>apfs_executables</ProjName>
+  <File>
+    <Filepath>apfs_executables/System/Library/Filesystems/apfs.fs/en.lproj/InfoPlist.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>FSPersonalities:APFS:FSEncryptionName</Position>
+      <TranslationSet>
+        <base loc="en">APFS (Encrypted)</base>
+        <tran loc="ar">‏APFS (مشفر)</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>FSPersonalities:Case-sensitive APFS:FSName</Position>
+      <TranslationSet>
+        <base loc="en">APFS (Case-sensitive)</base>
+        <tran loc="ar">‏APFS (حساس لحالة الأحرف)</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>FSPersonalities:APFS:FSName</Position>
+      <TranslationSet>
+        <base loc="en">APFS</base>
+        <tran loc="ar">APFS</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CFBundleName</Position>
+      <TranslationSet>
+        <base loc="en">apfs</base>
+        <tran loc="ar">apfs</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>FSPersonalities:Case-sensitive APFS:FSEncryptionName</Position>
+      <TranslationSet>
+        <base loc="en">APFS (Case-sensitive, Encrypted)</base>
+        <tran loc="ar">‏APFS (حساس لحالة الأحرف، مشفر)</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>apfs_executables/System/Library/Filesystems/apfs.fs/en.lproj/Localizable.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>This disk uses features that are not supported on this version of macOS</Position>
+      <TranslationSet>
+        <base loc="en">This disk uses features that are not supported on this version of macOS</base>
+        <tran loc="ar">يستخدم هذا القرص ميزات غير مدعومة على هذا الإصدار من macOS</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Incompatible Disk</Position>
+      <TranslationSet>
+        <base loc="en">Incompatible Disk</base>
+        <tran loc="ar">قرص غير متوافق</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+</Proj>

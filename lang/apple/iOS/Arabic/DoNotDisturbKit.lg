@@ -1,0 +1,911 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Proj>
+  <ProjName>DoNotDisturbKit</ProjName>
+  <File>
+    <Filepath>DoNotDisturbKit/System/Library/PrivateFrameworks/DoNotDisturbKit.framework/en.lproj/Localizable.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>DND_ONE_HOUR_LIFETIME_TITLE_WATCH</Position>
+      <TranslationSet>
+        <base loc="en">On for 1 hour</base>
+        <tran loc="ar">تشغيل لساعة واحدة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DND_UNTIL_EVENING_LIFETIME_TITLE_WATCH</Position>
+      <TranslationSet>
+        <base loc="en">On until this evening</base>
+        <tran loc="ar">تشغيل حتى هذا المساء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 
+  LifetimeDetails.strings
+  DoNotDisturbKit
+
+  Created by Ben Sherratt on 3/21/18.
+  Copyright © 2018 Apple Inc. All rights reserved.
+</Description>
+      <Position>DND_ONE_HOUR_LIFETIME_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">For 1 hour</base>
+        <tran loc="ar">لساعة واحدة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DND_UNTIL_END_NEXT_EVENT_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Until the end of the next event</base>
+        <tran loc="ar">حتى نهاية الحدث التالي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DND_UNTIL_END_EVENT_DURATION_DESCRIPTION</Position>
+      <TranslationSet>
+        <base loc="en">%@ - %@ %@</base>
+        <tran loc="ar">‏%@–%@ ‏%@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DND_UNTIL_MORNING_LIFETIME_TITLE_WATCH</Position>
+      <TranslationSet>
+        <base loc="en">On until tomorrow morning</base>
+        <tran loc="ar">تشغيل حتى صباح الغد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DND_UNTIL_I_LEAVE_LIFETIME_TITLE_WATCH</Position>
+      <TranslationSet>
+        <base loc="en">On until I leave</base>
+        <tran loc="ar">حتى أغادر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DND_UNTIL_MORNING_LIFETIME_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Until tomorrow morning</base>
+        <tran loc="ar">حتى صباح الغد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DND_UNTIL_I_LEAVE_LIFETIME_WITH_LOW_CONFIDENCE_LOI_METADATA</Position>
+      <TranslationSet>
+        <base loc="en">Nearby %@</base>
+        <tran loc="ar">‏%@ القريب</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DND_UNTIL_I_LEAVE_LIFETIME_WITH_HIGH_CONFIDENCE_LOI_METADATA</Position>
+      <TranslationSet>
+        <base loc="en">%@</base>
+        <tran loc="ar">‏%@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DND_UNTIL_I_LEAVE_LIFETIME_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Until I leave this location</base>
+        <tran loc="ar">حتى أغادر هذا الموقع</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DND_UNTIL_END_THIS_EVENT_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Until the end of this event</base>
+        <tran loc="ar">حتى نهاية هذا الحدث</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DND_UNTIL_EVENING_LIFETIME_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Until this evening</base>
+        <tran loc="ar">حتى هذا المساء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DND_UNTIL_END_NEXT_EVENT_TITLE_WATCH</Position>
+      <TranslationSet>
+        <base loc="en">On until end of event</base>
+        <tran loc="ar">تشغيل حتى نهاية الحدث</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DND_UNTIL_END_THIS_EVENT_TITLE_WATCH</Position>
+      <TranslationSet>
+        <base loc="en">On until end of event</base>
+        <tran loc="ar">تشغيل حتى نهاية الحدث</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>DoNotDisturbKit/System/Library/UserNotifications/Bundles/com.apple.donotdisturb.bundle/en.lproj/InfoPlist.strings</Filepath>
+    <TextItem>
+      <Description> 
+  InfoPlist.strings
+  DoNotDisturb
+
+  Created by Matthew Shepherd on 3/27/18.
+  Copyright © 2018 Apple Inc. All rights reserved.
+</Description>
+      <Position>DND_NOTIFICATION_TURN_OFF_ACTION</Position>
+      <TranslationSet>
+        <base loc="en">Turn Off</base>
+        <tran loc="ar">إيقاف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DND_NOTIFICATION_DRIVING_TURN_OFF_ACTION</Position>
+      <TranslationSet>
+        <base loc="en">I’m Not Driving</base>
+        <tran loc="ar">أنا لا أقود السيارة حاليًا</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>DoNotDisturbKit/System/Library/UserNotifications/Bundles/com.apple.donotdisturb.bundle/en.lproj/Localizable.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>DND_NOTIFICATION_BEDTIME_DURATION_BODY_ALERTS_SILENCE_WHILE_LOCKED_IPAD_ALLOW_CALLS</Position>
+      <TranslationSet>
+        <base loc="en">Notifications will appear in Notification Center until %@ while your iPad is locked.</base>
+        <tran loc="ar">ستظهر الإشعارات في مركز الإشعارات حتى %@، أثناء قفل الـ iPad.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DND_NOTIFICATION_BEDTIME_BODY_ALERTS_SILENCE_WHILE_LOCKED_IPAD</Position>
+      <TranslationSet>
+        <base loc="en">Calls will be silenced and notifications will appear in Notification Center while your iPad is locked.</base>
+        <tran loc="ar">سيتم إسكات المكالمات وستظهر الإشعارات في مركز الإشعارات أثناء قفل الـ iPad.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DND_NOTIFICATION_EVENT_FUTURE_BODY_ALERTS_SILENCE_WHILE_LOCKED_IPOD_ALLOW_CALLS</Position>
+      <TranslationSet>
+        <base loc="en">Notifications will be silenced while your iPod is locked until your event ends at %@ on %@.</base>
+        <tran loc="ar">سيتم إسكات الإشعارات بينما يكون الـ iPod مقفلاً حتى ينتهي الحدث الساعة %@ يوم %@.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DND_NOTIFICATION_BEDTIME_DURATION_TOMORROW_BODY_ALERTS_SILENCE_WHILE_LOCKED_IPHONE_ALLOW_CALLS</Position>
+      <TranslationSet>
+        <base loc="en">Notifications will appear in Notification Center until tomorrow at %@ while your iPhone is locked.</base>
+        <tran loc="ar">ستظهر الإشعارات في مركز الإشعارات حتى الغد في %@، أثناء قفل الـ iPhone.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DND_NOTIFICATION_EVENT_BODY_ALERTS_SILENCE_ALWAYS</Position>
+      <TranslationSet>
+        <base loc="en">Calls and notifications will be silenced until your event ends at %@.</base>
+        <tran loc="ar">سيتم إسكات المكالمات والإشعارات حتى ينتهي الحدث الساعة %@.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DND_NOTIFICATION_DURATION_TOMORROW_BODY_ALERTS_SILENCE_ALWAYS</Position>
+      <TranslationSet>
+        <base loc="en">Calls and notifications will be silenced until tomorrow at %@.</base>
+        <tran loc="ar">سيتم إسكات المكالمات والإشعارات حتى الغد الساعة %@.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DND_NOTIFICATION_DURATION_BODY_ALERTS_SILENCE_ALWAYS</Position>
+      <TranslationSet>
+        <base loc="en">Calls and notifications will be silenced until %@.</base>
+        <tran loc="ar">سيتم إسكات المكالمات والإشعارات حتى %@.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DND_NOTIFICATION_BEDTIME_DURATION_BODY_ALERTS_SILENCE_ALWAYS_ALLOW_CALLS</Position>
+      <TranslationSet>
+        <base loc="en">Notifications will appear in Notification Center until %@.</base>
+        <tran loc="ar">ستظهر الإشعارات في مركز الإشعارات حتى %@.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DND_NOTIFICATION_LOCATION_BODY_ALERTS_SILENCE_WHILE_LOCKED_IPHONE</Position>
+      <TranslationSet>
+        <base loc="en">Calls and notifications will be silenced while your iPhone is locked until you leave this location.</base>
+        <tran loc="ar">سيتم إسكات المكالمات والإشعارات بينما يكون الـ iPhone مقفلاً حتى مغادرتك لهذا الموقع.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DND_NOTIFICATION_DURATION_TOMORROW_BODY_ALERTS_SILENCE_WHILE_LOCKED_IPHONE</Position>
+      <TranslationSet>
+        <base loc="en">Calls and notifications will be silenced while your iPhone is locked until tomorrow at %@.</base>
+        <tran loc="ar">سيتم إسكات المكالمات والإشعارات عندما يكون الـ iPhone مقفلاً حتى الغد الساعة %@.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DND_NOTIFICATION_BEDTIME_DURATION_TOMORROW_BODY_ALERTS_SILENCE_WHILE_LOCKED_IPOD</Position>
+      <TranslationSet>
+        <base loc="en">Calls will be silenced and notifications will appear in Notification Center until tomorrow at %@ while your iPod is locked.</base>
+        <tran loc="ar">سيتم إسكات المكالمات وستظهر الإشعارات في مركز الإشعارات حتى الغد في %@، أثناء قفل الـ iPod.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DND_NOTIFICATION_EVENT_FUTURE_BODY_ALERTS_SILENCE_WHILE_LOCKED_IPOD</Position>
+      <TranslationSet>
+        <base loc="en">Calls and notifications will be silenced while your iPod is locked until your event ends at %@ on %@.</base>
+        <tran loc="ar">سيتم إسكات المكالمات والإشعارات بينما يكون الـ iPod مقفلاً حتى ينتهي الحدث الساعة %@ يوم %@.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DND_NOTIFICATION_DURATION_BODY_ALERTS_SILENCE_WHILE_LOCKED_IPAD_ALLOW_CALLS</Position>
+      <TranslationSet>
+        <base loc="en">Notifications will be silenced while your iPad is locked until %@.</base>
+        <tran loc="ar">سيتم إسكات الإشعارات عندما يكون الـ iPad مقفلاً حتى %@.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DND_NOTIFICATION_BODY_ALERTS_SILENCE_WHILE_LOCKED_IPAD</Position>
+      <TranslationSet>
+        <base loc="en">Calls and notifications will be silenced while your iPad is locked.</base>
+        <tran loc="ar">سيتم إسكات المكالمات والإشعارات أثناء قفل الـ iPad.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DND_NOTIFICATION_EVENT_FUTURE_BODY_ALERTS_SILENCE_ALWAYS</Position>
+      <TranslationSet>
+        <base loc="en">Calls and notifications will be silenced until your event ends at %@ on %@.</base>
+        <tran loc="ar">سيتم إسكات المكالمات والإشعارات حتى ينتهي الحدث الساعة %@ يوم %@.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DND_NOTIFICATION_BEDTIME_DURATION_TOMORROW_BODY_ALERTS_SILENCE_ALWAYS</Position>
+      <TranslationSet>
+        <base loc="en">Calls will be silenced and notifications will appear in Notification Center until tomorrow at %@.</base>
+        <tran loc="ar">سيتم إسكات المكالمات وستظهر الإشعارات في مركز الإشعارات حتى الغد في %@.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DND_NOTIFICATION_DURATION_TOMORROW_BODY_ALERTS_SILENCE_ALWAYS_ALLOW_CALLS</Position>
+      <TranslationSet>
+        <base loc="en">Notifications will be silenced until tomorrow at %@.</base>
+        <tran loc="ar">سيتم إسكات المكالمات حتى الغد الساعة %@.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DND_NOTIFICATION_EVENT_TOMORROW_BODY_ALERTS_SILENCE_WHILE_LOCKED_IPOD_ALLOW_CALLS</Position>
+      <TranslationSet>
+        <base loc="en">Notifications will be silenced while your iPod is locked until your event ends at %@ tomorrow.</base>
+        <tran loc="ar">سيتم إسكات الإشعارات بينما يكون الـ iPod مقفلاً حتى ينتهي الحدث الساعة %@ غدًا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DND_NOTIFICATION_EVENT_BODY_ALERTS_SILENCE_WHILE_LOCKED_IPHONE</Position>
+      <TranslationSet>
+        <base loc="en">Calls and notifications will be silenced while your iPhone is locked until your event ends at %@.</base>
+        <tran loc="ar">سيتم إسكات المكالمات والإشعارات بينما يكون الـ iPhone مقفلاً حتى ينتهي الحدث الساعة %@.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DND_NOTIFICATION_BEDTIME_DURATION_TOMORROW_BODY_ALERTS_SILENCE_ALWAYS_ALLOW_CALLS</Position>
+      <TranslationSet>
+        <base loc="en">Notifications will appear in Notification Center until tomorrow at %@.</base>
+        <tran loc="ar">ستظهر الإشعارات في مركز الإشعارات حتى الغد في %@.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DND_NOTIFICATION_BEDTIME_DURATION_TOMORROW_BODY_ALERTS_SILENCE_WHILE_LOCKED_IPHONE</Position>
+      <TranslationSet>
+        <base loc="en">Calls will be silenced and notifications will appear in Notification Center until tomorrow at %@ while your iPhone is locked.</base>
+        <tran loc="ar">سيتم إسكات المكالمات وستظهر الإشعارات في مركز الإشعارات حتى الغد في %@، أثناء قفل الـ iPhone.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DND_NOTIFICATION_BEDTIME_DURATION_TOMORROW_BODY_ALERTS_SILENCE_WHILE_LOCKED_IPOD_ALLOW_CALLS</Position>
+      <TranslationSet>
+        <base loc="en">Notifications will appear in Notification Center until tomorrow at %@ while your iPod is locked.</base>
+        <tran loc="ar">ستظهر الإشعارات في مركز الإشعارات حتى الغد في %@، أثناء قفل الـ iPod.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DND_NOTIFICATION_EVENT_FUTURE_BODY_ALERTS_SILENCE_WHILE_LOCKED_IPHONE</Position>
+      <TranslationSet>
+        <base loc="en">Calls and notifications will be silenced while your iPhone is locked until your event ends at %@ on %@.</base>
+        <tran loc="ar">سيتم إسكات المكالمات والإشعارات بينما يكون الـ iPhone مقفلاً حتى ينتهي الحدث الساعة %@ يوم %@.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DND_NOTIFICATION_EVENT_BODY_ALERTS_SILENCE_WHILE_LOCKED_IPHONE_ALLOW_CALLS</Position>
+      <TranslationSet>
+        <base loc="en">Notifications will be silenced while your iPhone is locked until your event ends at %@.</base>
+        <tran loc="ar">سيتم إسكات الإشعارات بينما يكون الـ iPhone مقفلاً حتى ينتهي الحدث الساعة %@.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DND_NOTIFICATION_BEDTIME_BODY_ALERTS_SILENCE_ALWAYS_ALLOW_CALLS</Position>
+      <TranslationSet>
+        <base loc="en">Notifications will appear in Notification Center.</base>
+        <tran loc="ar">ستظهر الإشعارات في مركز الإشعارات.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DND_NOTIFICATION_BEDTIME_BODY_ALLOW_CALLS</Position>
+      <TranslationSet>
+        <base loc="en">Notifications will appear in Notification Center.</base>
+        <tran loc="ar">ستظهر الإشعارات في مركز الإشعارات.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DND_NOTIFICATION_EVENT_TOMORROW_BODY_ALERTS_SILENCE_WHILE_LOCKED_IPHONE</Position>
+      <TranslationSet>
+        <base loc="en">Calls and notifications will be silenced while your iPhone is locked until your event ends at %@ tomorrow.</base>
+        <tran loc="ar">سيتم إسكات المكالمات والإشعارات بينما يكون الـ iPhone مقفلاً حتى ينتهي الحدث الساعة %@ غدًا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DND_NOTIFICATION_EVENT_TOMORROW_BODY_ALERTS_SILENCE_WHILE_LOCKED_IPAD_ALLOW_CALLS</Position>
+      <TranslationSet>
+        <base loc="en">Notifications will be silenced while your iPad is locked until your event ends at %@ tomorrow.</base>
+        <tran loc="ar">سيتم إسكات الإشعارات بينما يكون الـ iPad مقفلاً حتى ينتهي الحدث الساعة %@ غدًا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DND_NOTIFICATION_BEDTIME_ALARM_BODY_ALLOW_CALLS</Position>
+      <TranslationSet>
+        <base loc="en">Notifications will appear in Notification Center until your wake up alarm at %@.</base>
+        <tran loc="ar">ستظهر الإشعارات في مركز الإشعارات. حتى تستيقظ في %@.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DND_NOTIFICATION_BEDTIME_ALARM_TOMORROW_BODY_ALLOW_CALLS</Position>
+      <TranslationSet>
+        <base loc="en">Notifications will appear in Notification Center until your wake up alarm at %@.</base>
+        <tran loc="ar">ستظهر الإشعارات في مركز الإشعارات. حتى تستيقظ في %@.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DND_NOTIFICATION_BODY_ALERTS_SILENCE_ALWAYS_ALLOW_CALLS</Position>
+      <TranslationSet>
+        <base loc="en">Notifications will be silenced until Do Not Disturb is turned off.</base>
+        <tran loc="ar">سيتم إسكات الإشعارات حتى يتم إيقاف "عدم الإزعاج".</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DND_NOTIFICATION_EVENT_BODY_ALERTS_SILENCE_ALWAYS_ALLOW_CALLS</Position>
+      <TranslationSet>
+        <base loc="en">Notifications will be silenced until your event ends at %@.</base>
+        <tran loc="ar">سيتم إسكات الإشعارات حتى ينتهي الحدث الساعة %@.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DND_NOTIFICATION_BEDTIME_BODY_ALERTS_SILENCE_WHILE_LOCKED_IPHONE</Position>
+      <TranslationSet>
+        <base loc="en">Calls will be silenced and notifications will appear in Notification Center while your iPhone is locked.</base>
+        <tran loc="ar">سيتم إسكات المكالمات وستظهر الإشعارات في مركز الإشعارات أثناء قفل الـ iPhone.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DND_NOTIFICATION_DURATION_BODY_ALERTS_SILENCE_WHILE_LOCKED_IPOD_ALLOW_CALLS</Position>
+      <TranslationSet>
+        <base loc="en">Notifications will be silenced while your iPod is locked until %@.</base>
+        <tran loc="ar">سيتم إسكات الإشعارات عندما يكون الـ iPod مقفلاً حتى %@.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DND_NOTIFICATION_DURATION_TOMORROW_BODY_ALERTS_SILENCE_WHILE_LOCKED_IPOD</Position>
+      <TranslationSet>
+        <base loc="en">Calls and notifications will be silenced while your iPod is locked until tomorrow at %@.</base>
+        <tran loc="ar">سيتم إسكات المكالمات والإشعارات عندما يكون الـ iPod مقفلاً حتى الغد الساعة %@.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DND_NOTIFICATION_BODY_ALERTS_SILENCE_WHILE_LOCKED_IPAD_ALLOW_CALLS</Position>
+      <TranslationSet>
+        <base loc="en">Notifications will be silenced while your iPad is locked.</base>
+        <tran loc="ar">سيتم إسكات الإشعارات أثناء قفل الـ iPad.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DND_NOTIFICATION_DURATION_BODY_ALERTS_SILENCE_ALWAYS_ALLOW_CALLS</Position>
+      <TranslationSet>
+        <base loc="en">Notifications will be silenced until %@.</base>
+        <tran loc="ar">سيتم إسكات الإشعارات حتى %@.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DND_NOTIFICATION_DURATION_BODY_ALERTS_SILENCE_WHILE_LOCKED_IPHONE_ALLOW_CALLS</Position>
+      <TranslationSet>
+        <base loc="en">Notifications will be silenced while your iPhone is locked until %@.</base>
+        <tran loc="ar">سيتم إسكات الإشعارات عندما يكون الـ iPhone مقفلاً حتى %@.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DND_NOTIFICATION_BEDTIME_DURATION_BODY_ALERTS_SILENCE_WHILE_LOCKED_IPOD</Position>
+      <TranslationSet>
+        <base loc="en">Calls will be silenced and notifications will appear in Notification Center until %@ while your iPod is locked.</base>
+        <tran loc="ar">سيتم إسكات المكالمات وستظهر الإشعارات في مركز الإشعارات حتى %@، أثناء قفل الـ iPod.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DND_NOTIFICATION_EVENT_TOMORROW_BODY_ALERTS_SILENCE_ALWAYS</Position>
+      <TranslationSet>
+        <base loc="en">Calls and notifications will be silenced until your event ends at %@ tomorrow.</base>
+        <tran loc="ar">سيتم إسكات المكالمات والإشعارات حتى ينتهي الحدث الساعة %@ غدًا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DND_NOTIFICATION_LOCATION_BODY_ALERTS_SILENCE_WHILE_LOCKED_IPOD_ALLOW_CALLS</Position>
+      <TranslationSet>
+        <base loc="en">Notifications will be silenced while your iPod is locked until you leave this location.</base>
+        <tran loc="ar">سيتم إسكات الإشعارات بينما يكون الـ iPod مقفلاً حتى مغادرتك لهذا الموقع.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DND_NOTIFICATION_BEDTIME_BODY_ALERTS_SILENCE_ALWAYS</Position>
+      <TranslationSet>
+        <base loc="en">Calls will be silenced and notifications will appear in Notification Center.</base>
+        <tran loc="ar">سيتم إسكات المكالمات وستظهر الإشعارات في مركز الإشعارات.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DND_NOTIFICATION_BEDTIME_BODY</Position>
+      <TranslationSet>
+        <base loc="en">Calls will be silenced and notifications will appear in Notification Center.</base>
+        <tran loc="ar">سيتم إسكات المكالمات وستظهر الإشعارات في مركز الإشعارات.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DND_NOTIFICATION_EVENT_TOMORROW_BODY_ALERTS_SILENCE_WHILE_LOCKED_IPAD</Position>
+      <TranslationSet>
+        <base loc="en">Calls and notifications will be silenced while your iPad is locked until your event ends at %@ tomorrow.</base>
+        <tran loc="ar">سيتم إسكات المكالمات والإشعارات بينما يكون الـ iPad مقفلاً حتى ينتهي الحدث الساعة %@ غدًا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DND_NOTIFICATION_BEDTIME_BODY_ALERTS_SILENCE_WHILE_LOCKED_IPAD_ALLOW_CALLS</Position>
+      <TranslationSet>
+        <base loc="en">Notifications will appear in Notification Center while your iPad is locked.</base>
+        <tran loc="ar">ستظهر الإشعارات في مركز الإشعارات أثناء قفل الـ iPad.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DND_NOTIFICATION_DRIVING_BODY</Position>
+      <TranslationSet>
+        <base loc="en">You will not receive notifications while you are driving.</base>
+        <tran loc="ar">لن تتلقى إشعارات أثناء القيادة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DND_NOTIFICATION_LOCATION_BODY_ALERTS_SILENCE_WHILE_LOCKED_IPHONE_ALLOW_CALLS</Position>
+      <TranslationSet>
+        <base loc="en">Notifications will be silenced while your iPhone is locked until you leave this location.</base>
+        <tran loc="ar">سيتم إسكات الإشعارات بينما يكون الـ iPhone مقفلاً حتى مغادرتك لهذا الموقع.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DND_NOTIFICATION_DURATION_TOMORROW_BODY_ALERTS_SILENCE_WHILE_LOCKED_IPAD_ALLOW_CALLS</Position>
+      <TranslationSet>
+        <base loc="en">Notifications will be silenced while your iPad is locked until tomorrow at %@.</base>
+        <tran loc="ar">سيتم إسكات الإشعارات عندما يكون الـ iPad مقفلاً حتى الغد الساعة %@.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DND_NOTIFICATION_LOCATION_BODY_ALERTS_SILENCE_WHILE_LOCKED_IPOD</Position>
+      <TranslationSet>
+        <base loc="en">Calls and notifications will be silenced while your iPod is locked until you leave this location.</base>
+        <tran loc="ar">سيتم إسكات المكالمات والإشعارات بينما يكون الـ iPod مقفلاً حتى مغادرتك لهذا الموقع.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DND_NOTIFICATION_DURATION_BODY_ALERTS_SILENCE_WHILE_LOCKED_IPHONE</Position>
+      <TranslationSet>
+        <base loc="en">Calls and notifications will be silenced while your iPhone is locked until %@.</base>
+        <tran loc="ar">سيتم إسكات المكالمات والإشعارات عندما يكون الـ iPhone مقفلاً حتى %@.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DND_NOTIFICATION_EVENT_TOMORROW_BODY_ALERTS_SILENCE_ALWAYS_ALLOW_CALLS</Position>
+      <TranslationSet>
+        <base loc="en">Notifications will be silenced until your event ends at %@ tomorrow.</base>
+        <tran loc="ar">سيتم إسكات الإشعارات حتى ينتهي الحدث الساعة %@ غدًا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DND_NOTIFICATION_EVENT_TOMORROW_BODY_ALERTS_SILENCE_WHILE_LOCKED_IPOD</Position>
+      <TranslationSet>
+        <base loc="en">Calls and notifications will be silenced while your iPod is locked until your event ends at %@ tomorrow.</base>
+        <tran loc="ar">سيتم إسكات المكالمات والإشعارات بينما يكون الـ iPod مقفلاً حتى ينتهي الحدث الساعة %@ غدًا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DND_NOTIFICATION_LOCATION_BODY_ALERTS_SILENCE_WHILE_LOCKED_IPAD_ALLOW_CALLS</Position>
+      <TranslationSet>
+        <base loc="en">Notifications will be silenced while your iPad is locked until you leave this location.</base>
+        <tran loc="ar">سيتم إسكات الإشعارات بينما يكون الـ iPad مقفلاً حتى مغادرتك لهذا الموقع.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DND_NOTIFICATION_BEDTIME_DURATION_BODY_ALERTS_SILENCE_WHILE_LOCKED_IPHONE_ALLOW_CALLS</Position>
+      <TranslationSet>
+        <base loc="en">Notifications will appear in Notification Center until %@ while your iPhone is locked.</base>
+        <tran loc="ar">ستظهر الإشعارات في مركز الإشعارات حتى %@، أثناء قفل الـ iPhone.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DND_NOTIFICATION_EVENT_TOMORROW_BODY_ALERTS_SILENCE_WHILE_LOCKED_IPHONE_ALLOW_CALLS</Position>
+      <TranslationSet>
+        <base loc="en">Notifications will be silenced while your iPhone is locked until your event ends at %@ tomorrow.</base>
+        <tran loc="ar">سيتم إسكات الإشعارات بينما يكون الـ iPhone مقفلاً حتى ينتهي الحدث الساعة %@ غدًا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DND_NOTIFICATION_BODY_ALERTS_SILENCE_WHILE_LOCKED_IPHONE_ALLOW_CALLS</Position>
+      <TranslationSet>
+        <base loc="en">Notifications will be silenced while your iPhone is locked.</base>
+        <tran loc="ar">سيتم إسكات الإشعارات أثناء قفل الـ iPhone.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DND_NOTIFICATION_WORKOUT_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Do Not Disturb While Working Out</base>
+        <tran loc="ar">عدم الإزعاج أثناء التمرين</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DND_NOTIFICATION_BEDTIME_DURATION_TOMORROW_BODY_ALERTS_SILENCE_WHILE_LOCKED_IPAD_ALLOW_CALLS</Position>
+      <TranslationSet>
+        <base loc="en">Notifications will appear in Notification Center until tomorrow at %@ while your iPad is locked.</base>
+        <tran loc="ar">ستظهر الإشعارات في مركز الإشعارات حتى الغد في %@، أثناء قفل الـ iPad.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DND_NOTIFICATION_EVENT_BODY_ALERTS_SILENCE_WHILE_LOCKED_IPAD</Position>
+      <TranslationSet>
+        <base loc="en">Calls and notifications will be silenced while your iPad is locked until your event ends at %@.</base>
+        <tran loc="ar">سيتم إسكات المكالمات والإشعارات بينما يكون الـ iPad مقفلاً حتى ينتهي الحدث الساعة %@.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DND_NOTIFICATION_BEDTIME_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Do Not Disturb During Bedtime</base>
+        <tran loc="ar">عدم الإزعاج أثناء وقت النوم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DND_NOTIFICATION_LOCATION_BODY_ALERTS_SILENCE_WHILE_LOCKED_IPAD</Position>
+      <TranslationSet>
+        <base loc="en">Calls and notifications will be silenced while your iPad is locked until you leave this location.</base>
+        <tran loc="ar">سيتم إسكات المكالمات والإشعارات بينما يكون الـ iPad مقفلاً حتى مغادرتك لهذا الموقع.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DND_NOTIFICATION_DURATION_TOMORROW_BODY_ALERTS_SILENCE_WHILE_LOCKED_IPHONE_ALLOW_CALLS</Position>
+      <TranslationSet>
+        <base loc="en">Notifications will be silenced while your iPhone is locked until tomorrow at %@.</base>
+        <tran loc="ar">سيتم إسكات الإشعارات عندما يكون الـ iPhone مقفلاً حتى الغد الساعة %@.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DND_NOTIFICATION_EVENT_FUTURE_BODY_ALERTS_SILENCE_ALWAYS_ALLOW_CALLS</Position>
+      <TranslationSet>
+        <base loc="en">Notifications will be silenced until your event ends at %@ on %@.</base>
+        <tran loc="ar">سيتم إسكات الإشعارات حتى ينتهي الحدث الساعة %@ يوم %@.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DND_NOTIFICATION_DURATION_TOMORROW_BODY_ALERTS_SILENCE_WHILE_LOCKED_IPOD_ALLOW_CALLS</Position>
+      <TranslationSet>
+        <base loc="en">Notifications will be silenced while your iPod is locked until tomorrow at %@.</base>
+        <tran loc="ar">سيتم إسكات الإشعارات عندما يكون الـ iPod مقفلاً حتى الغد الساعة %@.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DND_NOTIFICATION_BEDTIME_DURATION_BODY_ALERTS_SILENCE_ALWAYS</Position>
+      <TranslationSet>
+        <base loc="en">Calls will be silenced and notifications will appear in Notification Center until %@.</base>
+        <tran loc="ar">سيتم إسكات المكالمات وستظهر الإشعارات في مركز الإشعارات حتى %@.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DND_NOTIFICATION_LOCATION_BODY_ALERTS_SILENCE_ALWAYS_ALLOW_CALLS</Position>
+      <TranslationSet>
+        <base loc="en">Notifications will be silenced until you leave this location.</base>
+        <tran loc="ar">سيتم إسكات الإشعارات حتى مغادرتك هذا الموقع.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DND_NOTIFICATION_WORKOUT_BODY</Position>
+      <TranslationSet>
+        <base loc="en">Calls and notifications will be silenced while you’re in a workout.</base>
+        <tran loc="ar">سيتم إسكات المكالمات والإشعارات أثناء التمرين.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 
+  Localizable.strings
+  DoNotDisturb
+
+  Created by Matthew Shepherd on 3/27/18.
+  Copyright © 2018 Apple Inc. All rights reserved.
+</Description>
+      <Position>DND_NOTIFICATION_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Do Not Disturb</base>
+        <tran loc="ar">عدم الإزعاج</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DND_NOTIFICATION_BEDTIME_BODY_ALERTS_SILENCE_WHILE_LOCKED_IPOD_ALLOW_CALLS</Position>
+      <TranslationSet>
+        <base loc="en">Notifications will appear in Notification Center while your iPod is locked.</base>
+        <tran loc="ar">ستظهر الإشعارات في مركز الإشعارات أثناء قفل الـ iPod.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DND_NOTIFICATION_EVENT_BODY_ALERTS_SILENCE_WHILE_LOCKED_IPOD_ALLOW_CALLS</Position>
+      <TranslationSet>
+        <base loc="en">Notifications will be silenced while your iPod is locked until your event ends at %@.</base>
+        <tran loc="ar">سيتم إسكات الإشعارات بينما يكون الـ iPod مقفلاً حتى ينتهي الحدث الساعة %@.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DND_NOTIFICATION_BEDTIME_DURATION_BODY_ALERTS_SILENCE_WHILE_LOCKED_IPAD</Position>
+      <TranslationSet>
+        <base loc="en">Calls will be silenced and notifications will appear in Notification Center until %@ while your iPad is locked.</base>
+        <tran loc="ar">سيتم إسكات المكالمات وستظهر الإشعارات في مركز الإشعارات حتى %@، أثناء قفل الـ iPad.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DND_NOTIFICATION_BODY_ALERTS_SILENCE_WHILE_LOCKED_IPOD_ALLOW_CALLS</Position>
+      <TranslationSet>
+        <base loc="en">Notifications will be silenced while your iPod is locked.</base>
+        <tran loc="ar">سيتم إسكات الإشعارات أثناء قفل الـ iPod.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DND_NOTIFICATION_DURATION_TOMORROW_BODY_ALERTS_SILENCE_WHILE_LOCKED_IPAD</Position>
+      <TranslationSet>
+        <base loc="en">Calls and notifications will be silenced while your iPad is locked until tomorrow at %@.</base>
+        <tran loc="ar">سيتم إسكات المكالمات والإشعارات عندما يكون الـ iPad مقفلاً حتى الغد الساعة %@.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DND_NOTIFICATION_DURATION_BODY_ALERTS_SILENCE_WHILE_LOCKED_IPAD</Position>
+      <TranslationSet>
+        <base loc="en">Calls and notifications will be silenced while your iPad is locked until %@.</base>
+        <tran loc="ar">سيتم إسكات المكالمات والإشعارات أثناء قفل الـ iPad حتى %@.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DND_NOTIFICATION_BEDTIME_DURATION_BODY_ALERTS_SILENCE_WHILE_LOCKED_IPHONE</Position>
+      <TranslationSet>
+        <base loc="en">Calls will be silenced and notifications will appear in Notification Center until %@ while your iPhone is locked.</base>
+        <tran loc="ar">سيتم إسكات المكالمات وستظهر الإشعارات في مركز الإشعارات حتى %@، أثناء قفل الـ iPhone.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DND_NOTIFICATION_BEDTIME_BODY_ALERTS_SILENCE_WHILE_LOCKED_IPHONE_ALLOW_CALLS</Position>
+      <TranslationSet>
+        <base loc="en">Notifications will appear in Notification Center while your iPhone is locked.</base>
+        <tran loc="ar">ستظهر الإشعارات في مركز الإشعارات أثناء قفل الـ iPhone.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DND_NOTIFICATION_EVENT_FUTURE_BODY_ALERTS_SILENCE_WHILE_LOCKED_IPAD_ALLOW_CALLS</Position>
+      <TranslationSet>
+        <base loc="en">Notifications will be silenced while your iPad is locked until your event ends at %@ on %@.</base>
+        <tran loc="ar">سيتم إسكات الإشعارات بينما يكون الـ iPad مقفلاً حتى ينتهي الحدث الساعة %@ يوم %@.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DND_NOTIFICATION_BEDTIME_BODY_ALERTS_SILENCE_WHILE_LOCKED_IPOD</Position>
+      <TranslationSet>
+        <base loc="en">Calls will be silenced and notifications will appear in Notification Center while your iPod is locked.</base>
+        <tran loc="ar">سيتم إسكات المكالمات وستظهر الإشعارات في مركز الإشعارات أثناء قفل الـ iPod.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DND_NOTIFICATION_EVENT_BODY_ALERTS_SILENCE_WHILE_LOCKED_IPAD_ALLOW_CALLS</Position>
+      <TranslationSet>
+        <base loc="en">Notifications will be silenced while your iPad is locked until your event ends at %@.</base>
+        <tran loc="ar">سيتم إسكات الإشعارات بينما يكون الـ iPad مقفلاً حتى ينتهي الحدث الساعة %@.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DND_NOTIFICATION_BEDTIME_DURATION_BODY_ALERTS_SILENCE_WHILE_LOCKED_IPOD_ALLOW_CALLS</Position>
+      <TranslationSet>
+        <base loc="en">Notifications will appear in Notification Center until %@ while your iPod is locked.</base>
+        <tran loc="ar">ستظهر الإشعارات في مركز الإشعارات حتى %@، أثناء قفل الـ iPod.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DND_NOTIFICATION_DURATION_BODY_ALERTS_SILENCE_WHILE_LOCKED_IPOD</Position>
+      <TranslationSet>
+        <base loc="en">Calls and notifications will be silenced while your iPod is locked until %@.</base>
+        <tran loc="ar">سيتم إسكات المكالمات والإشعارات عندما يكون الـ iPod مقفلاً حتى %@.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DND_NOTIFICATION_EVENT_BODY_ALERTS_SILENCE_WHILE_LOCKED_IPOD</Position>
+      <TranslationSet>
+        <base loc="en">Calls and notifications will be silenced while your iPod is locked until your event ends at %@.</base>
+        <tran loc="ar">سيتم إسكات المكالمات والإشعارات بينما يكون الـ iPod مقفلاً حتى ينتهي الحدث الساعة %@.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DND_NOTIFICATION_BODY_ALERTS_SILENCE_ALWAYS</Position>
+      <TranslationSet>
+        <base loc="en">Calls and notifications will be silenced until Do Not Disturb is turned off.</base>
+        <tran loc="ar">سيتم إسكات المكالمات والإشعارات حتى يتم إيقاف "عدم الإزعاج".</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DND_NOTIFICATION_BODY_ALERTS_SILENCE_WHILE_LOCKED_IPOD</Position>
+      <TranslationSet>
+        <base loc="en">Calls and notifications will be silenced while your iPod is locked.</base>
+        <tran loc="ar">سيتم إسكات المكالمات والإشعارات أثناء قفل الـ iPod.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DND_NOTIFICATION_DRIVING_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Do Not Disturb While Driving</base>
+        <tran loc="ar">عدم الإزعاج أثناء القيادة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DND_NOTIFICATION_BEDTIME_ALARM_BODY</Position>
+      <TranslationSet>
+        <base loc="en">Calls will be silenced and notifications will appear in Notification Center until your wake up alarm at %@.</base>
+        <tran loc="ar">سيتم إسكات المكالمات وستظهر الإشعارات في مركز الإشعارات. حتى تستيقظ في %@.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DND_NOTIFICATION_BEDTIME_ALARM_TOMORROW_BODY</Position>
+      <TranslationSet>
+        <base loc="en">Calls will be silenced and notifications will appear in Notification Center until your wake up alarm at %@.</base>
+        <tran loc="ar">سيتم إسكات المكالمات وستظهر الإشعارات في مركز الإشعارات. حتى تستيقظ في %@.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DND_NOTIFICATION_BODY_ALERTS_SILENCE_WHILE_LOCKED_IPHONE</Position>
+      <TranslationSet>
+        <base loc="en">Calls and notifications will be silenced while your iPhone is locked.</base>
+        <tran loc="ar">سيتم إسكات المكالمات والإشعارات أثناء قفل الـ iPhone.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DND_NOTIFICATION_EVENT_FUTURE_BODY_ALERTS_SILENCE_WHILE_LOCKED_IPHONE_ALLOW_CALLS</Position>
+      <TranslationSet>
+        <base loc="en">Notifications will be silenced while your iPhone is locked until your event ends at %@ on %@.</base>
+        <tran loc="ar">سيتم إسكات الإشعارات بينما يكون الـ iPhone مقفلاً حتى ينتهي الحدث الساعة %@ يوم %@.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DND_NOTIFICATION_LOCATION_BODY_ALERTS_SILENCE_ALWAYS</Position>
+      <TranslationSet>
+        <base loc="en">Calls and notifications will be silenced until you leave this location.</base>
+        <tran loc="ar">سيتم إسكات المكالمات والإشعارات حتى مغادرة هذا الموقع.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DND_NOTIFICATION_EVENT_FUTURE_BODY_ALERTS_SILENCE_WHILE_LOCKED_IPAD</Position>
+      <TranslationSet>
+        <base loc="en">Calls and notifications will be silenced while your iPad is locked until your event ends at %@ on %@.</base>
+        <tran loc="ar">سيتم إسكات المكالمات والإشعارات بينما يكون الـ iPad مقفلاً حتى ينتهي الحدث الساعة %@ يوم %@.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DND_NOTIFICATION_BEDTIME_DURATION_TOMORROW_BODY_ALERTS_SILENCE_WHILE_LOCKED_IPAD</Position>
+      <TranslationSet>
+        <base loc="en">Calls will be silenced and notifications will appear in Notification Center until tomorrow at %@ while your iPad is locked.</base>
+        <tran loc="ar">سيتم إسكات المكالمات وستظهر الإشعارات في مركز الإشعارات حتى الغد في %@، أثناء قفل الـ iPad.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DND_NOTIFICATION_WORKOUT_BODY_ALLOW_CALLS</Position>
+      <TranslationSet>
+        <base loc="en">Notifications will be silenced while you’re in a workout.</base>
+        <tran loc="ar">سيتم إسكات الإشعارات أثناء التمرين.</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+</Proj>

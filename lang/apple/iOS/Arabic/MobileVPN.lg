@@ -1,0 +1,2221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Proj>
+  <ProjName>MobileVPN</ProjName>
+  <File>
+    <Filepath>MobileVPN/System/Library/PreferenceBundles/VPNPreferences.bundle/en.lproj/VPN.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>REMOTE_IDENTIFIER</Position>
+      <TranslationSet>
+        <base loc="en">Remote ID</base>
+        <tran loc="ar">معرف بعيد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ENCRYPTION_LEVEL</Position>
+      <TranslationSet>
+        <base loc="en">Encryption Level</base>
+        <tran loc="ar">مستوى التشفير</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ENCRYPTION_LEVEL_ABBREVIATED</Position>
+      <TranslationSet>
+        <base loc="en">Encryption Level</base>
+        <tran loc="ar">مستوى التشفير</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ADD_VPN</Position>
+      <TranslationSet>
+        <base loc="en">Add Configuration</base>
+        <tran loc="ar">إضافة التكوين</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ADD_VPN_ABBREVIATED</Position>
+      <TranslationSet>
+        <base loc="en">Add Configuration</base>
+        <tran loc="ar">إضافة التكوين</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DELETE_VPN_CONFIRMATION</Position>
+      <TranslationSet>
+        <base loc="en">Delete</base>
+        <tran loc="ar">حذف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PROXY_TYPE</Position>
+      <TranslationSet>
+        <base loc="en">Type</base>
+        <tran loc="ar">النوع</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>VPN_GRADE</Position>
+      <TranslationSet>
+        <base loc="en">Type</base>
+        <tran loc="ar">النوع</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PROXY_LABEL</Position>
+      <TranslationSet>
+        <base loc="en">Proxy</base>
+        <tran loc="ar">المُلقم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DELETE_VPN?</Position>
+      <TranslationSet>
+        <base loc="en">Delete VPN?</base>
+        <tran loc="ar">حذف الـ VPN؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ACCOUNT_NAME</Position>
+      <TranslationSet>
+        <base loc="en">Account</base>
+        <tran loc="ar">الحساب</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>LOCAL_IDENTIFIER</Position>
+      <TranslationSet>
+        <base loc="en">Local ID</base>
+        <tran loc="ar">معرف محلي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AUTO</Position>
+      <TranslationSet>
+        <base loc="en">Auto</base>
+        <tran loc="ar">تلقائي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Auto</Position>
+      <TranslationSet>
+        <base loc="en">Auto</base>
+        <tran loc="ar">تلقائي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ALWAYSON</Position>
+      <TranslationSet>
+        <base loc="en">Always On</base>
+        <tran loc="ar">تشغيل دومًا</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PASS_HINT</Position>
+      <TranslationSet>
+        <base loc="en">Ask Every Time</base>
+        <tran loc="ar">السؤال في كل مرة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>REQUIRED</Position>
+      <TranslationSet>
+        <base loc="en">Required</base>
+        <tran loc="ar">مطلوب</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PROXY_SERVER</Position>
+      <TranslationSet>
+        <base loc="en">Server</base>
+        <tran loc="ar">الخادم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SERVER</Position>
+      <TranslationSet>
+        <base loc="en">Server</base>
+        <tran loc="ar">الخادم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Manual</Position>
+      <TranslationSet>
+        <base loc="en">Manual</base>
+        <tran loc="ar">يدوي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>NONE</Position>
+      <TranslationSet>
+        <base loc="en">None</base>
+        <tran loc="ar">لا شيء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>EAP_RSA</Position>
+      <TranslationSet>
+        <base loc="en">RSA SecurID</base>
+        <tran loc="ar">RSA SecurID</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>GROUP_NAME</Position>
+      <TranslationSet>
+        <base loc="en">Group Name</base>
+        <tran loc="ar">اسم المجموعة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CERTIFICATE_BASED</Position>
+      <TranslationSet>
+        <base loc="en">Use Certificate</base>
+        <tran loc="ar">استعمال الشهادة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CERTIFICATE_IKEV2</Position>
+      <TranslationSet>
+        <base loc="en">Use Certificate</base>
+        <tran loc="ar">استعمال الشهادة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SECRET</Position>
+      <TranslationSet>
+        <base loc="en">Secret</base>
+        <tran loc="ar">سر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SHARED_SECRET</Position>
+      <TranslationSet>
+        <base loc="en">Secret</base>
+        <tran loc="ar">سر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>EAP_TYPE</Position>
+      <TranslationSet>
+        <base loc="en">User Authentication</base>
+        <tran loc="ar">مصادقة المستخدم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PROXY_URL</Position>
+      <TranslationSet>
+        <base loc="en">URL</base>
+        <tran loc="ar">URL</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AUTHENTICATION</Position>
+      <TranslationSet>
+        <base loc="en">Authentication</base>
+        <tran loc="ar">المصادقة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PROXY_AUTHENTICATION</Position>
+      <TranslationSet>
+        <base loc="en">Authentication</base>
+        <tran loc="ar">المصادقة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DISPLAY_NAME</Position>
+      <TranslationSet>
+        <base loc="en">Description</base>
+        <tran loc="ar">الوصف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PROXY_PORT</Position>
+      <TranslationSet>
+        <base loc="en">Port</base>
+        <tran loc="ar">المنفذ</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PASSWORD</Position>
+      <TranslationSet>
+        <base loc="en">Password</base>
+        <tran loc="ar">كلمة السر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PROXY_PASSWORD</Position>
+      <TranslationSet>
+        <base loc="en">Password</base>
+        <tran loc="ar">كلمة السر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SEND_ALL_TRAFFIC</Position>
+      <TranslationSet>
+        <base loc="en">Send All Traffic</base>
+        <tran loc="ar">إرسال حركة نقل البيانات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CERTIFICATE</Position>
+      <TranslationSet>
+        <base loc="en">Certificate</base>
+        <tran loc="ar">شهادة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CERTIFICATE_LIST</Position>
+      <TranslationSet>
+        <base loc="en">Certificate</base>
+        <tran loc="ar">شهادة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ON_DEMAND</Position>
+      <TranslationSet>
+        <base loc="en">Connect On Demand</base>
+        <tran loc="ar">اتصال حسب الطلب</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>VPN</Position>
+      <TranslationSet>
+        <base loc="en">VPN</base>
+        <tran loc="ar">VPN</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PROXY_USERNAME</Position>
+      <TranslationSet>
+        <base loc="en">Username</base>
+        <tran loc="ar">المستخدم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>USERNAME</Position>
+      <TranslationSet>
+        <base loc="en">Username</base>
+        <tran loc="ar">المستخدم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DELETE_VPN</Position>
+      <TranslationSet>
+        <base loc="en">Delete VPN</base>
+        <tran loc="ar">حذف الـ VPN</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ENCRYPTION</Position>
+      <TranslationSet>
+        <base loc="en">Encryption</base>
+        <tran loc="ar">التشفير</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Off</Position>
+      <TranslationSet>
+        <base loc="en">Off</base>
+        <tran loc="ar">إيقاف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>MAXIMUM</Position>
+      <TranslationSet>
+        <base loc="en">Maximum</base>
+        <tran loc="ar">الحد الأقصى</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>MobileVPN/System/Library/PreferenceBundles/VPNPreferences.bundle/en.lproj/MobileVPN~ipad.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>TUNNEL_TYPE</Position>
+      <TranslationSet>
+        <base loc="en">Tunnel Type</base>
+        <tran loc="ar">نوع المعبر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ONHOLD</Position>
+      <TranslationSet>
+        <base loc="en">On Hold…</base>
+        <tran loc="ar">قيد الانتظار</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>NEW_CONNECTION</Position>
+      <TranslationSet>
+        <base loc="en">New Connection</base>
+        <tran loc="ar">اتصال جديد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ENCRYPTION_LEVEL</Position>
+      <TranslationSet>
+        <base loc="en">Encryption Level</base>
+        <tran loc="ar">مستوى التشفير</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ENCRYPTION_LEVEL_ABBREVIATED</Position>
+      <TranslationSet>
+        <base loc="en">Encryption Level</base>
+        <tran loc="ar">مستوى التشفير</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>VPN_CONNECTION</Position>
+      <TranslationSet>
+        <base loc="en">VPN Connection</base>
+        <tran loc="ar">اتصال VPN</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ADD_VPN</Position>
+      <TranslationSet>
+        <base loc="en">Add Configuration</base>
+        <tran loc="ar">إضافة التكوين</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ADD_VPN_ABBREVIATED</Position>
+      <TranslationSet>
+        <base loc="en">Add Configuration</base>
+        <tran loc="ar">إضافة التكوين</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DELETE_VPN_CONFIRMATION</Position>
+      <TranslationSet>
+        <base loc="en">Delete</base>
+        <tran loc="ar">حذف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>VPN_GRADE</Position>
+      <TranslationSet>
+        <base loc="en">Type</base>
+        <tran loc="ar">النوع</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ALWAYS_ON_TEXT</Position>
+      <TranslationSet>
+        <base loc="en">“%@” will automatically connect whenever a network connection is available. If the VPN cannot connect, all network traffic will be blocked.</base>
+        <tran loc="ar">سيقوم "%@" بالاتصال تلقائيًا كلما توفر اتصال بشبكة. في حالة عدم إمكانية الاتصال بالـ VPN، سيتم حظر حركة مرور الشبكة بالكامل.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>STATUS</Position>
+      <TranslationSet>
+        <base loc="en">Status</base>
+        <tran loc="ar">الحالة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>EDIT_SETTINGS</Position>
+      <TranslationSet>
+        <base loc="en">Edit your VPN account information.</base>
+        <tran loc="ar">تحرير معلومات حساب الـ VPN.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>VIEW_SETTINGS</Position>
+      <TranslationSet>
+        <base loc="en">View your VPN account information.</base>
+        <tran loc="ar">عرض معلومات حساب الـ VPN.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>VPN_RESTRICTED</Position>
+      <TranslationSet>
+        <base loc="en">Adding new VPN configurations is restricted.</base>
+        <tran loc="ar">تم تقييد إضافة تعديلات VPN جديدة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>INACTIVE</Position>
+      <TranslationSet>
+        <base loc="en">Inactive</base>
+        <tran loc="ar">غير نشط</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SETUP_VPN</Position>
+      <TranslationSet>
+        <base loc="en">Setup VPN</base>
+        <tran loc="ar">إعداد الـ VPN</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>RESET_SHEET_MESSAGE</Position>
+      <TranslationSet>
+        <base loc="en">Are you sure you want to reset your VPN settings?</base>
+        <tran loc="ar">هل ترغب بالتأكيد في إعادة تعيين إعدادات الـ VPN؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>RENEW_CERTIFICATE</Position>
+      <TranslationSet>
+        <base loc="en">Renew Certificate</base>
+        <tran loc="ar">تجديد الشهادة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ON_DEMAND_TEXT</Position>
+      <TranslationSet>
+        <base loc="en">“%@” will connect on demand.</base>
+        <tran loc="ar">سيقوم "%@" بالاتصال حسب الطلب.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>VPN_SAVE_FAILURE_GENERIC</Position>
+      <TranslationSet>
+        <base loc="en">Unable to save VPN configuration.</base>
+        <tran loc="ar">تعذر حفظ تكوين VPN.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PPTP_WARNING</Position>
+      <TranslationSet>
+        <base loc="en">When using PPTP, your password and any data sent or received over this connection may be read by your Internet provider.</base>
+        <tran loc="ar">عند استخدام PPTP، يمكن لموفر خدمة الإنترنت لديك قراءة كلمة السر الخاصة بك وأي بيانات يتم إرسالها أو استلامها عبر هذا الاتصال.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>FINISH</Position>
+      <TranslationSet>
+        <base loc="en">Done</base>
+        <tran loc="ar">تم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DELETE_VPN?</Position>
+      <TranslationSet>
+        <base loc="en">Delete VPN?</base>
+        <tran loc="ar">حذف الـ VPN؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CONNECTED_TO</Position>
+      <TranslationSet>
+        <base loc="en">Connected to %@</base>
+        <tran loc="ar">تم الاتصال بـ %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SSL_MESSAGE</Position>
+      <TranslationSet>
+        <base loc="en">To connect using “%@”, use the “%@“ application.</base>
+        <tran loc="ar">للاتصال باستخدام "%@"، استخدم تطبيق "%@".</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>VPN_CONNECTING</Position>
+      <TranslationSet>
+        <base loc="en">VPN Connecting…</base>
+        <tran loc="ar">جاري الاتصال بالـ VPN‏…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ACCOUNT_NAME</Position>
+      <TranslationSet>
+        <base loc="en">Account</base>
+        <tran loc="ar">الحساب</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ETHERNET</Position>
+      <TranslationSet>
+        <base loc="en">Ethernet</base>
+        <tran loc="ar">إيثرنت</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ENTER_SETTINGS</Position>
+      <TranslationSet>
+        <base loc="en">Enter your VPN account information.</base>
+        <tran loc="ar">أدخل معلومات حساب الـ VPN.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DELETE_THIS_ACCOUNT</Position>
+      <TranslationSet>
+        <base loc="en">Delete this Account</base>
+        <tran loc="ar">حذف هذا الحساب</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CELLULAR</Position>
+      <TranslationSet>
+        <base loc="en">Cellular</base>
+        <tran loc="ar">الخلوي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>OK</Position>
+      <TranslationSet>
+        <base loc="en">OK</base>
+        <tran loc="ar">موافق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>TIME_HMS</Position>
+      <TranslationSet>
+        <base loc="en">%1.1d:%2.2d:%2.2d</base>
+        <tran loc="ar">%1.1d:%2.2d:%2.2d</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>INTERFACE_TYPE</Position>
+      <TranslationSet>
+        <base loc="en">Interface</base>
+        <tran loc="ar">الواجهة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AIRPLANE_SHEET_CANCEL</Position>
+      <TranslationSet>
+        <base loc="en">Cancel</base>
+        <tran loc="ar">إلغاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CANCEL</Position>
+      <TranslationSet>
+        <base loc="en">Cancel</base>
+        <tran loc="ar">إلغاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PPTP_CANCEL</Position>
+      <TranslationSet>
+        <base loc="en">Cancel</base>
+        <tran loc="ar">إلغاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>RESET_SHEET_CANCEL</Position>
+      <TranslationSet>
+        <base loc="en">Cancel</base>
+        <tran loc="ar">إلغاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CHOOSE</Position>
+      <TranslationSet>
+        <base loc="en">Select VPN Configuration</base>
+        <tran loc="ar">تحديد تكوين الـ VPN</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>MISSING_PROVIDER_MESSAGE</Position>
+      <TranslationSet>
+        <base loc="en">“%@” must be updated by the developer before “%@” can be connected.</base>
+        <tran loc="ar">يجب تحديث "%@" من قِبل المطور أولاً حتى يمكن الاتصال بـ "%@".</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>VPN_ERROR</Position>
+      <TranslationSet>
+        <base loc="en">VPN Error</base>
+        <tran loc="ar">خطأ VPN</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>WIFI</Position>
+      <TranslationSet>
+        <base loc="en">Wi-Fi</base>
+        <tran loc="ar">Wi-Fi</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>INCLUDED_APPS_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Included Apps</base>
+        <tran loc="ar">التطبيقات المضمنة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DISCONNECTING</Position>
+      <TranslationSet>
+        <base loc="en">Disconnecting…</base>
+        <tran loc="ar">جاري قطع الاتصال…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AUTHENTICATING</Position>
+      <TranslationSet>
+        <base loc="en">Authenticating…</base>
+        <tran loc="ar">جاري المصادقة…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>RESET_SHEET_OK</Position>
+      <TranslationSet>
+        <base loc="en">Reset</base>
+        <tran loc="ar">إعادة تعيين</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AIRPLANE_SHEET_OK</Position>
+      <TranslationSet>
+        <base loc="en">Turn Airplane Mode Off</base>
+        <tran loc="ar">إيقاف نمط الطيران</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>REQUIRED</Position>
+      <TranslationSet>
+        <base loc="en">Required</base>
+        <tran loc="ar">مطلوب</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CERTIFICATE_RENEWAL_FAILURE</Position>
+      <TranslationSet>
+        <base loc="en">Unable to renew certificate. Try Settings-&gt;General-&gt;Profile.</base>
+        <tran loc="ar">تعذر تجديد الشهادة. حاول الإعدادات-عام-ملف التعريف.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SERVER</Position>
+      <TranslationSet>
+        <base loc="en">Server</base>
+        <tran loc="ar">الخادم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>NONE</Position>
+      <TranslationSet>
+        <base loc="en">None</base>
+        <tran loc="ar">لا شيء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SPLIT_TUNNEL</Position>
+      <TranslationSet>
+        <base loc="en">Split Tunnel</base>
+        <tran loc="ar">معبر منقسم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UPDATE_VPN</Position>
+      <TranslationSet>
+        <base loc="en">Edit VPN Configuration</base>
+        <tran loc="ar">تحرير تكوين الـ VPN</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ENABLED</Position>
+      <TranslationSet>
+        <base loc="en">Enabled</base>
+        <tran loc="ar">تم التمكين</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>MULTIPLE_DOMAINS</Position>
+      <TranslationSet>
+        <base loc="en">Multiple Domains</base>
+        <tran loc="ar">نطاقات متعددة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UPDATING</Position>
+      <TranslationSet>
+        <base loc="en">Updating</base>
+        <tran loc="ar">جاري التحديث</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>APP_VPN_GROUP_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Per-App VPN</base>
+        <tran loc="ar">‏VPN لكل تطبيق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CERTIFICATE_EXPIRED</Position>
+      <TranslationSet>
+        <base loc="en">Certificate Expired</base>
+        <tran loc="ar">انتهت صلاحية الشهادة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UPDATE_PASSWORD</Position>
+      <TranslationSet>
+        <base loc="en">Edit Password</base>
+        <tran loc="ar">تحرير كلمة السر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>LOCAL_IP</Position>
+      <TranslationSet>
+        <base loc="en">Address</base>
+        <tran loc="ar">العنوان</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>TIME_MMS</Position>
+      <TranslationSet>
+        <base loc="en">%2.2d:%2.2d</base>
+        <tran loc="ar">%2.2d:%2.2d</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>VPN_TYPE</Position>
+      <TranslationSet>
+        <base loc="en">VPN Type</base>
+        <tran loc="ar">نوع الـ VPN</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ESTABLISHING_CONNECTION</Position>
+      <TranslationSet>
+        <base loc="en">Starting…</base>
+        <tran loc="ar">جاري بدء الاتصال…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>NOT_CONFIGURED</Position>
+      <TranslationSet>
+        <base loc="en">Not Configured</base>
+        <tran loc="ar">لم يتم الإعداد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DELETE_SETTINGS</Position>
+      <TranslationSet>
+        <base loc="en">Reset VPN Settings</base>
+        <tran loc="ar">إعادة تعيين إعدادات الـ VPN</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SHARED_SECRET</Position>
+      <TranslationSet>
+        <base loc="en">Secret</base>
+        <tran loc="ar">سر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ALWAYS_ON_DISABLED_TEXT</Position>
+      <TranslationSet>
+        <base loc="en">“%@” will never connect. All network traffic will be blocked.</base>
+        <tran loc="ar">لن يقوم "%@" بالاتصال أبدًا. وسيتم حظر حركة مرور الشبكة بالكامل.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CONNECT_AUTOMATICALLY</Position>
+      <TranslationSet>
+        <base loc="en">Connect Automatically</base>
+        <tran loc="ar">الاتصال تلقائيًا</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>VPN_SAVE_FAILURE_NAME_CONFLICT</Position>
+      <TranslationSet>
+        <base loc="en">Cannot have two VPN configurations with the same name.</base>
+        <tran loc="ar">لا يمكن أن يكون تكوينين إثنين للـ VPN تحت اسم واحد.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AUTHENTICATION</Position>
+      <TranslationSet>
+        <base loc="en">Authentication</base>
+        <tran loc="ar">المصادقة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>APP_CONFIG_MESSAGE</Position>
+      <TranslationSet>
+        <base loc="en">To configure the settings for “%@”, use the “%@“ application.</base>
+        <tran loc="ar">لتكوين الإعدادات لـ "%@"، استخدم التطبيق "%@".</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CERTIFICATE_ERROR</Position>
+      <TranslationSet>
+        <base loc="en">Certificate Error</base>
+        <tran loc="ar">خطأ في الشهادة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>TIME_S</Position>
+      <TranslationSet>
+        <base loc="en">0:%2.2d</base>
+        <tran loc="ar">0:%2.2d</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ON_DEMAND_DISCONNECT</Position>
+      <TranslationSet>
+        <base loc="en">“%@” will not connect on the current network.</base>
+        <tran loc="ar">لن يتصل "%@" على الشبكة الحالية.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DESCRIPTION</Position>
+      <TranslationSet>
+        <base loc="en">Description</base>
+        <tran loc="ar">الوصف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PASSWORD</Position>
+      <TranslationSet>
+        <base loc="en">Password</base>
+        <tran loc="ar">كلمة السر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>TIME_MS</Position>
+      <TranslationSet>
+        <base loc="en">%1.1d:%2.2d</base>
+        <tran loc="ar">%1.1d:%2.2d</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CUSTOM</Position>
+      <TranslationSet>
+        <base loc="en">Unknown</base>
+        <tran loc="ar">غير معروف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UNKNOWN</Position>
+      <TranslationSet>
+        <base loc="en">Unknown</base>
+        <tran loc="ar">غير معروف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>MISSING_PROVIDER_ALERT</Position>
+      <TranslationSet>
+        <base loc="en">Update Required</base>
+        <tran loc="ar">مطلوب التحديث</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>TIME_HHMS</Position>
+      <TranslationSet>
+        <base loc="en">%2.2d:%2.2d:%2.2d</base>
+        <tran loc="ar">%2.2d:%2.2d:%2.2d</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CONNECTED</Position>
+      <TranslationSet>
+        <base loc="en">Connected</base>
+        <tran loc="ar">تم الاتصال</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>L2TP_IPSEC</Position>
+      <TranslationSet>
+        <base loc="en">L2TP over IPsec</base>
+        <tran loc="ar">‏L2TP عبر IPsec</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CONNECTION_FAILURE</Position>
+      <TranslationSet>
+        <base loc="en">Connection Failure</base>
+        <tran loc="ar">فشل الاتصال</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DISCONNECT</Position>
+      <TranslationSet>
+        <base loc="en">Disconnect</base>
+        <tran loc="ar">قطع الاتصال</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DISCONNECT_CONNECTION</Position>
+      <TranslationSet>
+        <base loc="en">Disconnect</base>
+        <tran loc="ar">قطع الاتصال</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>WLAN</Position>
+      <TranslationSet>
+        <base loc="en">WLAN</base>
+        <tran loc="ar">WLAN</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>APP_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">VPN</base>
+        <tran loc="ar">VPN</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>VPN</Position>
+      <TranslationSet>
+        <base loc="en">VPN</base>
+        <tran loc="ar">VPN</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CONNECT_TIME</Position>
+      <TranslationSet>
+        <base loc="en">Connect Time</base>
+        <tran loc="ar">وقت الاتصال</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>STARTING</Position>
+      <TranslationSet>
+        <base loc="en">Starting</base>
+        <tran loc="ar">جاري بدء الاتصال</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PERSONAL_VPN_GROUP_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Personal VPN</base>
+        <tran loc="ar">‏VPN شخصي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ACTIVATE_CONFIGURATION</Position>
+      <TranslationSet>
+        <base loc="en">Activate Configuration</base>
+        <tran loc="ar">تنشيط التكوين</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AIRPLANE_SHEET_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">VPN requires a network connection. Do you want to turn Airplane Mode off?</base>
+        <tran loc="ar">الـ VPN يتطلب اتصال بالشبكة. هل تريد إلغاء نمط الطيران؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CANCEL_CONNECTION</Position>
+      <TranslationSet>
+        <base loc="en">Cancel VPN</base>
+        <tran loc="ar">إلغاء الـ VPN</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CONNECT</Position>
+      <TranslationSet>
+        <base loc="en">Connect</base>
+        <tran loc="ar">اتصال</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>START_CONNECTION</Position>
+      <TranslationSet>
+        <base loc="en">Connect</base>
+        <tran loc="ar">اتصال</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ALWAYSON</Position>
+      <TranslationSet>
+        <base loc="en">Always-On VPN</base>
+        <tran loc="ar">تشغيل VPN دومًا</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ALWAYS_ON_VPN_GROUP_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Always-On VPN</base>
+        <tran loc="ar">تشغيل VPN دومًا</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>NOT_CONNECTED</Position>
+      <TranslationSet>
+        <base loc="en">Not Connected</base>
+        <tran loc="ar">غير متصل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DELETE_VPN</Position>
+      <TranslationSet>
+        <base loc="en">Delete VPN</base>
+        <tran loc="ar">حذف الـ VPN</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CONFIGURATIONS_GROUP_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Choose a Configuration:</base>
+        <tran loc="ar">اختيار تكوين:</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>FULL_TUNNEL</Position>
+      <TranslationSet>
+        <base loc="en">Full Tunnel</base>
+        <tran loc="ar">معبر كامل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PPTP</Position>
+      <TranslationSet>
+        <base loc="en">PPTP</base>
+        <tran loc="ar">PPTP</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ENTERPRISE_VPN_GROUP_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">VPN Configurations</base>
+        <tran loc="ar">تكوينات VPN</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>OTHER</Position>
+      <TranslationSet>
+        <base loc="en">Add VPN Configuration…</base>
+        <tran loc="ar">إضافة تكوين VPN…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>OTHER_ABBREVIATED</Position>
+      <TranslationSet>
+        <base loc="en">Add VPN Configuration…</base>
+        <tran loc="ar">إضافة تكوين VPN…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SETTINGS</Position>
+      <TranslationSet>
+        <base loc="en">Settings</base>
+        <tran loc="ar">الإعدادات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CONNECTING</Position>
+      <TranslationSet>
+        <base loc="en">Connecting…</base>
+        <tran loc="ar">جاري الاتصال…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>REMOTE_IP</Position>
+      <TranslationSet>
+        <base loc="en">Server Address</base>
+        <tran loc="ar">عنوان الخادم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PPTP_WARNING_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">VPN Using PPTP May Not Be Secure</base>
+        <tran loc="ar">شبكة VPN التي تستخدم PPTP قد لا تكون آمنة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AIRPLANE_SHEET_OK_ABBREVIATED</Position>
+      <TranslationSet>
+        <base loc="en">Off</base>
+        <tran loc="ar">إيقاف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>NEXT</Position>
+      <TranslationSet>
+        <base loc="en">Next</base>
+        <tran loc="ar">التالي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PPTP_SAVE</Position>
+      <TranslationSet>
+        <base loc="en">Save</base>
+        <tran loc="ar">حفظ</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>MobileVPN/System/Library/PreferenceBundles/VPNPreferences.bundle/en.lproj/MobileVPN~iphone.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>TUNNEL_TYPE</Position>
+      <TranslationSet>
+        <base loc="en">Tunnel Type</base>
+        <tran loc="ar">نوع المعبر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ONHOLD</Position>
+      <TranslationSet>
+        <base loc="en">On Hold…</base>
+        <tran loc="ar">قيد الانتظار</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>NEW_CONNECTION</Position>
+      <TranslationSet>
+        <base loc="en">New Connection</base>
+        <tran loc="ar">اتصال جديد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ENCRYPTION_LEVEL</Position>
+      <TranslationSet>
+        <base loc="en">Encryption Level</base>
+        <tran loc="ar">مستوى التشفير</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ENCRYPTION_LEVEL_ABBREVIATED</Position>
+      <TranslationSet>
+        <base loc="en">Encryption Level</base>
+        <tran loc="ar">مستوى التشفير</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>VPN_CONNECTION</Position>
+      <TranslationSet>
+        <base loc="en">VPN Connection</base>
+        <tran loc="ar">اتصال VPN</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ADD_VPN</Position>
+      <TranslationSet>
+        <base loc="en">Add Configuration</base>
+        <tran loc="ar">إضافة التكوين</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ADD_VPN_ABBREVIATED</Position>
+      <TranslationSet>
+        <base loc="en">Add Configuration</base>
+        <tran loc="ar">إضافة التكوين</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DELETE_VPN_CONFIRMATION</Position>
+      <TranslationSet>
+        <base loc="en">Delete</base>
+        <tran loc="ar">حذف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>VPN_GRADE</Position>
+      <TranslationSet>
+        <base loc="en">Type</base>
+        <tran loc="ar">النوع</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ALWAYS_ON_TEXT</Position>
+      <TranslationSet>
+        <base loc="en">“%@” will automatically connect whenever a network connection is available. If the VPN cannot connect, all network traffic will be blocked.</base>
+        <tran loc="ar">سيقوم "%@" بالاتصال تلقائيًا كلما توفر اتصال بشبكة. في حالة عدم إمكانية الاتصال بالـ VPN، سيتم حظر حركة مرور الشبكة بالكامل.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>STATUS</Position>
+      <TranslationSet>
+        <base loc="en">Status</base>
+        <tran loc="ar">الحالة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>EDIT_SETTINGS</Position>
+      <TranslationSet>
+        <base loc="en">Edit your VPN account information.</base>
+        <tran loc="ar">تحرير معلومات حساب الـ VPN.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>VIEW_SETTINGS</Position>
+      <TranslationSet>
+        <base loc="en">View your VPN account information.</base>
+        <tran loc="ar">عرض معلومات حساب الـ VPN.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>VPN_RESTRICTED</Position>
+      <TranslationSet>
+        <base loc="en">Adding new VPN configurations is restricted.</base>
+        <tran loc="ar">تم تقييد إضافة تعديلات VPN جديدة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>INACTIVE</Position>
+      <TranslationSet>
+        <base loc="en">Inactive</base>
+        <tran loc="ar">غير نشط</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SETUP_VPN</Position>
+      <TranslationSet>
+        <base loc="en">Setup VPN</base>
+        <tran loc="ar">إعداد الـ VPN</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>RESET_SHEET_MESSAGE</Position>
+      <TranslationSet>
+        <base loc="en">Are you sure you want to reset your VPN settings?</base>
+        <tran loc="ar">هل ترغب بالتأكيد في إعادة تعيين إعدادات الـ VPN؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>RENEW_CERTIFICATE</Position>
+      <TranslationSet>
+        <base loc="en">Renew Certificate</base>
+        <tran loc="ar">تجديد الشهادة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ON_DEMAND_TEXT</Position>
+      <TranslationSet>
+        <base loc="en">“%@” will connect on demand.</base>
+        <tran loc="ar">سيقوم "%@" بالاتصال حسب الطلب.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>VPN_SAVE_FAILURE_GENERIC</Position>
+      <TranslationSet>
+        <base loc="en">Unable to save VPN configuration.</base>
+        <tran loc="ar">تعذر حفظ تكوين VPN.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PPTP_WARNING</Position>
+      <TranslationSet>
+        <base loc="en">When using PPTP, your password and any data sent or received over this connection may be read by your Internet provider.</base>
+        <tran loc="ar">عند استخدام PPTP، يمكن لموفر خدمة الإنترنت لديك قراءة كلمة السر الخاصة بك وأي بيانات يتم إرسالها أو استلامها عبر هذا الاتصال.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>FINISH</Position>
+      <TranslationSet>
+        <base loc="en">Done</base>
+        <tran loc="ar">تم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DELETE_VPN?</Position>
+      <TranslationSet>
+        <base loc="en">Delete VPN?</base>
+        <tran loc="ar">حذف الـ VPN؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CONNECTED_TO</Position>
+      <TranslationSet>
+        <base loc="en">Connected to %@</base>
+        <tran loc="ar">تم الاتصال بـ %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SSL_MESSAGE</Position>
+      <TranslationSet>
+        <base loc="en">To connect using “%@”, use the “%@“ application.</base>
+        <tran loc="ar">للاتصال باستخدام "%@"، استخدم تطبيق "%@".</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>VPN_CONNECTING</Position>
+      <TranslationSet>
+        <base loc="en">VPN Connecting…</base>
+        <tran loc="ar">جاري الاتصال بالـ VPN‏…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ACCOUNT_NAME</Position>
+      <TranslationSet>
+        <base loc="en">Account</base>
+        <tran loc="ar">الحساب</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ETHERNET</Position>
+      <TranslationSet>
+        <base loc="en">Ethernet</base>
+        <tran loc="ar">إيثرنت</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ENTER_SETTINGS</Position>
+      <TranslationSet>
+        <base loc="en">Enter your VPN account information.</base>
+        <tran loc="ar">أدخل معلومات حساب الـ VPN.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DELETE_THIS_ACCOUNT</Position>
+      <TranslationSet>
+        <base loc="en">Delete this Account</base>
+        <tran loc="ar">حذف هذا الحساب</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CELLULAR</Position>
+      <TranslationSet>
+        <base loc="en">Cellular</base>
+        <tran loc="ar">الخلوي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>OK</Position>
+      <TranslationSet>
+        <base loc="en">OK</base>
+        <tran loc="ar">موافق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>TIME_HMS</Position>
+      <TranslationSet>
+        <base loc="en">%1.1d:%2.2d:%2.2d</base>
+        <tran loc="ar">%1.1d:%2.2d:%2.2d</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>INTERFACE_TYPE</Position>
+      <TranslationSet>
+        <base loc="en">Interface</base>
+        <tran loc="ar">الواجهة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AIRPLANE_SHEET_CANCEL</Position>
+      <TranslationSet>
+        <base loc="en">Cancel</base>
+        <tran loc="ar">إلغاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CANCEL</Position>
+      <TranslationSet>
+        <base loc="en">Cancel</base>
+        <tran loc="ar">إلغاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PPTP_CANCEL</Position>
+      <TranslationSet>
+        <base loc="en">Cancel</base>
+        <tran loc="ar">إلغاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>RESET_SHEET_CANCEL</Position>
+      <TranslationSet>
+        <base loc="en">Cancel</base>
+        <tran loc="ar">إلغاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CHOOSE</Position>
+      <TranslationSet>
+        <base loc="en">Select VPN Configuration</base>
+        <tran loc="ar">تحديد تكوين الـ VPN</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>MISSING_PROVIDER_MESSAGE</Position>
+      <TranslationSet>
+        <base loc="en">“%@” must be updated by the developer before “%@” can be connected.</base>
+        <tran loc="ar">يجب تحديث "%@" من قِبل المطور أولاً حتى يمكن الاتصال بـ "%@".</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>VPN_ERROR</Position>
+      <TranslationSet>
+        <base loc="en">VPN Error</base>
+        <tran loc="ar">خطأ VPN</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>WIFI</Position>
+      <TranslationSet>
+        <base loc="en">Wi-Fi</base>
+        <tran loc="ar">Wi-Fi</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>INCLUDED_APPS_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Included Apps</base>
+        <tran loc="ar">التطبيقات المضمنة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DISCONNECTING</Position>
+      <TranslationSet>
+        <base loc="en">Disconnecting…</base>
+        <tran loc="ar">جاري قطع الاتصال…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AUTHENTICATING</Position>
+      <TranslationSet>
+        <base loc="en">Authenticating…</base>
+        <tran loc="ar">جاري المصادقة…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>RESET_SHEET_OK</Position>
+      <TranslationSet>
+        <base loc="en">Reset</base>
+        <tran loc="ar">إعادة تعيين</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AIRPLANE_SHEET_OK</Position>
+      <TranslationSet>
+        <base loc="en">Turn Airplane Mode Off</base>
+        <tran loc="ar">إيقاف نمط الطيران</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>REQUIRED</Position>
+      <TranslationSet>
+        <base loc="en">Required</base>
+        <tran loc="ar">مطلوب</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CERTIFICATE_RENEWAL_FAILURE</Position>
+      <TranslationSet>
+        <base loc="en">Unable to renew certificate. Try Settings-&gt;General-&gt;Profile.</base>
+        <tran loc="ar">تعذر تجديد الشهادة. حاول الإعدادات-عام-ملف التعريف.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SERVER</Position>
+      <TranslationSet>
+        <base loc="en">Server</base>
+        <tran loc="ar">الخادم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>NONE</Position>
+      <TranslationSet>
+        <base loc="en">None</base>
+        <tran loc="ar">لا شيء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SPLIT_TUNNEL</Position>
+      <TranslationSet>
+        <base loc="en">Split Tunnel</base>
+        <tran loc="ar">معبر منقسم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UPDATE_VPN</Position>
+      <TranslationSet>
+        <base loc="en">Edit VPN Configuration</base>
+        <tran loc="ar">تحرير تكوين الـ VPN</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ENABLED</Position>
+      <TranslationSet>
+        <base loc="en">Enabled</base>
+        <tran loc="ar">تم التمكين</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>MULTIPLE_DOMAINS</Position>
+      <TranslationSet>
+        <base loc="en">Multiple Domains</base>
+        <tran loc="ar">نطاقات متعددة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UPDATING</Position>
+      <TranslationSet>
+        <base loc="en">Updating</base>
+        <tran loc="ar">جاري التحديث</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>APP_VPN_GROUP_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Per-App VPN</base>
+        <tran loc="ar">‏VPN لكل تطبيق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CERTIFICATE_EXPIRED</Position>
+      <TranslationSet>
+        <base loc="en">Certificate Expired</base>
+        <tran loc="ar">انتهت صلاحية الشهادة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UPDATE_PASSWORD</Position>
+      <TranslationSet>
+        <base loc="en">Edit Password</base>
+        <tran loc="ar">تحرير كلمة السر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>LOCAL_IP</Position>
+      <TranslationSet>
+        <base loc="en">Address</base>
+        <tran loc="ar">العنوان</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>TIME_MMS</Position>
+      <TranslationSet>
+        <base loc="en">%2.2d:%2.2d</base>
+        <tran loc="ar">%2.2d:%2.2d</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>VPN_TYPE</Position>
+      <TranslationSet>
+        <base loc="en">VPN Type</base>
+        <tran loc="ar">نوع الـ VPN</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ESTABLISHING_CONNECTION</Position>
+      <TranslationSet>
+        <base loc="en">Starting…</base>
+        <tran loc="ar">جاري بدء الاتصال…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>NOT_CONFIGURED</Position>
+      <TranslationSet>
+        <base loc="en">Not Configured</base>
+        <tran loc="ar">لم يتم الإعداد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DELETE_SETTINGS</Position>
+      <TranslationSet>
+        <base loc="en">Reset VPN Settings</base>
+        <tran loc="ar">إعادة تعيين إعدادات الـ VPN</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SHARED_SECRET</Position>
+      <TranslationSet>
+        <base loc="en">Secret</base>
+        <tran loc="ar">سر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ALWAYS_ON_DISABLED_TEXT</Position>
+      <TranslationSet>
+        <base loc="en">“%@” will never connect. All network traffic will be blocked.</base>
+        <tran loc="ar">لن يقوم "%@" بالاتصال أبدًا. وسيتم حظر حركة مرور الشبكة بالكامل.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CONNECT_AUTOMATICALLY</Position>
+      <TranslationSet>
+        <base loc="en">Connect Automatically</base>
+        <tran loc="ar">الاتصال تلقائيًا</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>VPN_SAVE_FAILURE_NAME_CONFLICT</Position>
+      <TranslationSet>
+        <base loc="en">Cannot have two VPN configurations with the same name.</base>
+        <tran loc="ar">لا يمكن أن يكون تكوينين إثنين للـ VPN تحت اسم واحد.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AUTHENTICATION</Position>
+      <TranslationSet>
+        <base loc="en">Authentication</base>
+        <tran loc="ar">المصادقة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>APP_CONFIG_MESSAGE</Position>
+      <TranslationSet>
+        <base loc="en">To configure the settings for “%@”, use the “%@“ application.</base>
+        <tran loc="ar">لتكوين الإعدادات لـ "%@"، استخدم التطبيق "%@".</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CERTIFICATE_ERROR</Position>
+      <TranslationSet>
+        <base loc="en">Certificate Error</base>
+        <tran loc="ar">خطأ في الشهادة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>TIME_S</Position>
+      <TranslationSet>
+        <base loc="en">0:%2.2d</base>
+        <tran loc="ar">0:%2.2d</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ON_DEMAND_DISCONNECT</Position>
+      <TranslationSet>
+        <base loc="en">“%@” will not connect on the current network.</base>
+        <tran loc="ar">لن يتصل "%@" على الشبكة الحالية.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DESCRIPTION</Position>
+      <TranslationSet>
+        <base loc="en">Description</base>
+        <tran loc="ar">الوصف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PASSWORD</Position>
+      <TranslationSet>
+        <base loc="en">Password</base>
+        <tran loc="ar">كلمة السر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>TIME_MS</Position>
+      <TranslationSet>
+        <base loc="en">%1.1d:%2.2d</base>
+        <tran loc="ar">%1.1d:%2.2d</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CUSTOM</Position>
+      <TranslationSet>
+        <base loc="en">Unknown</base>
+        <tran loc="ar">غير معروف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UNKNOWN</Position>
+      <TranslationSet>
+        <base loc="en">Unknown</base>
+        <tran loc="ar">غير معروف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>MISSING_PROVIDER_ALERT</Position>
+      <TranslationSet>
+        <base loc="en">Update Required</base>
+        <tran loc="ar">مطلوب التحديث</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>TIME_HHMS</Position>
+      <TranslationSet>
+        <base loc="en">%2.2d:%2.2d:%2.2d</base>
+        <tran loc="ar">%2.2d:%2.2d:%2.2d</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CONNECTED</Position>
+      <TranslationSet>
+        <base loc="en">Connected</base>
+        <tran loc="ar">تم الاتصال</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>L2TP_IPSEC</Position>
+      <TranslationSet>
+        <base loc="en">L2TP over IPsec</base>
+        <tran loc="ar">‏L2TP عبر IPsec</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CONNECTION_FAILURE</Position>
+      <TranslationSet>
+        <base loc="en">Connection Failure</base>
+        <tran loc="ar">فشل الاتصال</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DISCONNECT</Position>
+      <TranslationSet>
+        <base loc="en">Disconnect</base>
+        <tran loc="ar">قطع الاتصال</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DISCONNECT_CONNECTION</Position>
+      <TranslationSet>
+        <base loc="en">Disconnect</base>
+        <tran loc="ar">قطع الاتصال</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>WLAN</Position>
+      <TranslationSet>
+        <base loc="en">WLAN</base>
+        <tran loc="ar">WLAN</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>APP_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">VPN</base>
+        <tran loc="ar">VPN</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>VPN</Position>
+      <TranslationSet>
+        <base loc="en">VPN</base>
+        <tran loc="ar">VPN</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CONNECT_TIME</Position>
+      <TranslationSet>
+        <base loc="en">Connect Time</base>
+        <tran loc="ar">وقت الاتصال</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>STARTING</Position>
+      <TranslationSet>
+        <base loc="en">Starting</base>
+        <tran loc="ar">جاري بدء الاتصال</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PERSONAL_VPN_GROUP_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Personal VPN</base>
+        <tran loc="ar">‏VPN شخصي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ACTIVATE_CONFIGURATION</Position>
+      <TranslationSet>
+        <base loc="en">Activate Configuration</base>
+        <tran loc="ar">تنشيط التكوين</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AIRPLANE_SHEET_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">VPN requires a network connection. Do you want to turn Airplane Mode off?</base>
+        <tran loc="ar">الـ VPN يتطلب اتصال بالشبكة. هل تريد إلغاء نمط الطيران؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CANCEL_CONNECTION</Position>
+      <TranslationSet>
+        <base loc="en">Cancel VPN</base>
+        <tran loc="ar">إلغاء الـ VPN</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CONNECT</Position>
+      <TranslationSet>
+        <base loc="en">Connect</base>
+        <tran loc="ar">اتصال</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>START_CONNECTION</Position>
+      <TranslationSet>
+        <base loc="en">Connect</base>
+        <tran loc="ar">اتصال</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ALWAYSON</Position>
+      <TranslationSet>
+        <base loc="en">Always-On VPN</base>
+        <tran loc="ar">تشغيل VPN دومًا</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ALWAYS_ON_VPN_GROUP_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Always-On VPN</base>
+        <tran loc="ar">تشغيل VPN دومًا</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>NOT_CONNECTED</Position>
+      <TranslationSet>
+        <base loc="en">Not Connected</base>
+        <tran loc="ar">غير متصل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DELETE_VPN</Position>
+      <TranslationSet>
+        <base loc="en">Delete VPN</base>
+        <tran loc="ar">حذف الـ VPN</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CONFIGURATIONS_GROUP_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Choose a Configuration:</base>
+        <tran loc="ar">اختيار تكوين:</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>FULL_TUNNEL</Position>
+      <TranslationSet>
+        <base loc="en">Full Tunnel</base>
+        <tran loc="ar">معبر كامل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PPTP</Position>
+      <TranslationSet>
+        <base loc="en">PPTP</base>
+        <tran loc="ar">PPTP</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ENTERPRISE_VPN_GROUP_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">VPN Configurations</base>
+        <tran loc="ar">تكوينات VPN</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>OTHER</Position>
+      <TranslationSet>
+        <base loc="en">Add VPN Configuration…</base>
+        <tran loc="ar">إضافة تكوين VPN…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>OTHER_ABBREVIATED</Position>
+      <TranslationSet>
+        <base loc="en">Add VPN Configuration…</base>
+        <tran loc="ar">إضافة تكوين VPN…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SETTINGS</Position>
+      <TranslationSet>
+        <base loc="en">Settings</base>
+        <tran loc="ar">الإعدادات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CONNECTING</Position>
+      <TranslationSet>
+        <base loc="en">Connecting…</base>
+        <tran loc="ar">جاري الاتصال…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>REMOTE_IP</Position>
+      <TranslationSet>
+        <base loc="en">Server Address</base>
+        <tran loc="ar">عنوان الخادم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PPTP_WARNING_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">VPN Using PPTP May Not Be Secure</base>
+        <tran loc="ar">شبكة VPN التي تستخدم PPTP قد لا تكون آمنة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AIRPLANE_SHEET_OK_ABBREVIATED</Position>
+      <TranslationSet>
+        <base loc="en">Off</base>
+        <tran loc="ar">إيقاف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>NEXT</Position>
+      <TranslationSet>
+        <base loc="en">Next</base>
+        <tran loc="ar">التالي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PPTP_SAVE</Position>
+      <TranslationSet>
+        <base loc="en">Save</base>
+        <tran loc="ar">حفظ</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+</Proj>

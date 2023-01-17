@@ -1,0 +1,1184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Proj>
+  <ProjName>CloudKitTools</ProjName>
+  <File>
+    <Filepath>CloudKitTools/System/Library/CoreServices/iCloud.app/Contents/Resources/en.lproj/CloudKitVetting.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>VETTING_FAILURE_ALERT_BODY_COMPLETE_DRYRUN_KEYSWAP_FAILED_WITHOUT_SHARE_NAME_IOS_EMAIL</Position>
+      <TranslationSet>
+        <base loc="en">Your email address was added to your Apple ID, but the shared file couldn’t be opened. Ask the person who invited you to remove you and invite you again.</base>
+        <tran loc="ar">تمت إضافة عنوان بريدك الإلكتروني إلى الـ Apple ID الخاص بك، ولكن لا يمكن فتح الملف المشترك. اطلب من الشخص الذي أرسل لك الدعوة أن يقوم بإزالتك ثم دعوتك مرة أخرى.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PRIVATE_DOCUMENT_OPEN_BODY_com.apple.Notes</Position>
+      <TranslationSet>
+        <base loc="en">%1$@ shared this note. You will join as %2$@ (%3$@).</base>
+        <tran loc="ar">قام %1$@ بمشاركة هذه الملاحظة. ستنضم كـ %2$@ ‏‪(%3$@)‬.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>VETTING_FAILURE_ALERT_BODY_COMPLETE_VETTING_RECORD_ERROR_WITHOUT_SHARE_NAME_MAC</Position>
+      <TranslationSet>
+        <base loc="en">There was a problem verifying your email address or phone number. Try opening the shared file again, or try opening it on another device.</base>
+        <tran loc="ar">حدثت مشكلة أثناء التحقق من البريد الإلكتروني أو رقم الهاتف الخاصين بك. جرِّب فتح الملف المشترك مرة أخرى، أو جرِّب فتحه على جهاز آخر.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>VETTING_FAILURE_ALERT_BODY_INITIATE_VETTED_TO_CALLER_ERROR_EMAIL_NO_APPLE_ID</Position>
+      <TranslationSet>
+        <base loc="en">“%1$@” was already verified and added to your Apple ID.</base>
+        <tran loc="ar">تم التحقق من \"%1$@\" بالفعل وإضافته إلى Apple ID الخاص بك.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>VETTING_FAILURE_ALERT_BODY_INITIATE_VETTED_TO_CALLER_ERROR_PHONE_NO_APPLE_ID</Position>
+      <TranslationSet>
+        <base loc="en">“%1$@” was already verified and added to your Apple ID.</base>
+        <tran loc="ar">تم التحقق من \"%1$@\" بالفعل وإضافته إلى Apple ID الخاص بك.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 
+  CloudKitVetting.strings
+  CloudKit
+
+  Created by Gregor Milos on 26/04/2016.
+  Copyright © 2016 Apple Inc. All rights reserved.
+
+ iWork applications are handled by bird, so the strings relevant to those apps must not be repeated here.</Description>
+      <Position>TITLED_DOCUMENT_OPEN_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Open “%1$@” in %2$@?</base>
+        <tran loc="ar">هل تريد فتح \"%1$@\" في %2$@؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>TITLED_NONIWORK_DOCUMENT_OPEN_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Open “%1$@”?</base>
+        <tran loc="ar">هل تريد فتح \"%1$@\"؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>VETTING_FAILURE_ALERT_BODY_COMPLETE_SHARE_METADATA_FETCH_FAILED_ITEM_UNAVAILABLE_WITH_SHARE_NAME_EMAIL</Position>
+      <TranslationSet>
+        <base loc="en">Your email address was added to your Apple ID, but “%1$@” is no longer available because the owner stopped sharing it.</base>
+        <tran loc="ar">تمت إضافة عنوان بريدك الإلكتروني إلى الـ Apple ID الخاص بك، ولكن \"%1$@\" لم يعد متوفرًا لأن المالك قام بإيقاف مشاركته.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> CKErrorInternalEmailVettingVettedToCaller</Description>
+      <Position>VETTING_FAILURE_ALERT_TITLE_INITIATE_VETTED_TO_CALLER_ERROR_EMAIL_IOS</Position>
+      <TranslationSet>
+        <base loc="en">Email Address Verified</base>
+        <tran loc="ar">تم التحقق من عنوان البريد الإلكتروني</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>VETTING_FAILURE_ALERT_BODY_COMPLETE_GENERIC_ERROR_PHONE</Position>
+      <TranslationSet>
+        <base loc="en">We weren’t able to verify your phone number. Please try again later.</base>
+        <tran loc="ar">لم نتمكن من التحقق من رقم هاتفك. الرجاء المحاولة مرة أخرى لاحقًا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>VETTING_FAILURE_ALERT_BODY_COMPLETE_TOKEN_INVALID_WITHOUT_SHARE_NAME</Position>
+      <TranslationSet>
+        <base loc="en">“%1$@” couldn’t be added to your Apple ID because the verification link has expired. Try opening the shared file again.</base>
+        <tran loc="ar">تعذرت إضافة \"%1$@\" إلى الـ Apple ID الخاص بك لأن رابط التحقق قد انتهت صلاحيته. حاول فتح الملف المشترك مرة أخرى.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>VETTING_FAILURE_ALERT_BODY_COMPLETE_TOKEN_INVALID_WITH_SHARE_NAME</Position>
+      <TranslationSet>
+        <base loc="en">“%1$@” couldn’t be added to your Apple ID because the verification link has expired. Try opening “%2$@” again.</base>
+        <tran loc="ar">تعذرت إضافة \"%1$@\" إلى Apple ID الخاص بك بسبب انتهاء مدة صلاحية رابط التحقق. جرِّب فتح \"%2$@\" مرة أخرى.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>VETTING_FAILURE_ALERT_TITLE_COMPLETE_DRYRUN_KEYSWAP_FAILED_IOS_notes</Position>
+      <TranslationSet>
+        <base loc="en">Can’t Open Note</base>
+        <tran loc="ar">لا يمكن فتح الملاحظة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>VETTING_FAILURE_ALERT_TITLE_COMPLETE_SHARE_METADATA_FETCH_FAILED_IOS_notes</Position>
+      <TranslationSet>
+        <base loc="en">Can’t Open Note</base>
+        <tran loc="ar">لا يمكن فتح الملاحظة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>VETTING_FAILURE_ALERT_TITLE_COMPLETE_SHARE_METADATA_FETCH_FAILED_ITEM_UNAVAILABLE_MAC_notes</Position>
+      <TranslationSet>
+        <base loc="en">This note is no longer available.</base>
+        <tran loc="ar">هذه الملاحظة لم تعد متوفرة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>VETTING_FAILURE_ALERT_TITLE_COMPLETE_DRYRUN_KEYSWAP_FAILED_MAC_keynote</Position>
+      <TranslationSet>
+        <base loc="en">This presentation couldn’t be opened.</base>
+        <tran loc="ar">تعذر فتح هذا العرض التقديمي.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CLOUDKIT_VETTING_FOOTER_TEXT_PHONES</Position>
+      <TranslationSet>
+        <base loc="en">If you don’t see your phone number, contact the person who invited you.</base>
+        <tran loc="ar">إذا كنت لا ترى رقم هاتفك، فاتصل بالشخص الذي قام بدعوتك.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>VETTING_FAILURE_ALERT_TITLE_COMPLETE_SHARE_METADATA_FETCH_FAILED_ITEM_UNAVAILABLE_MAC_pages</Position>
+      <TranslationSet>
+        <base loc="en">This document is no longer available.</base>
+        <tran loc="ar">هذا المستند لم يعد متوفرًا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CLOUDKIT_VETTING_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Verify Access</base>
+        <tran loc="ar">التحقق من الوصول</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>VETTING_FAILURE_ALERT_BODY_COMPLETE_SHARE_METADATA_FETCH_FAILED_OFFLINE_WITHOUT_SHARE_NAME_EMAIL</Position>
+      <TranslationSet>
+        <base loc="en">Your email address was added to your Apple ID, but the shared file can’t be opened right now. Check your Internet connection and try opening it again.</base>
+        <tran loc="ar">تمت إضافة عنوان بريدك الإلكتروني إلى الـ Apple ID الخاص بك، ولكن لا يمكن فتح الملف المشترك الآن. تحقق من اتصال الإنترنت لديك ثم حاول فتحه مرة أخرى.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CLOUDKIT_VETTING_HEADER_PHONES</Position>
+      <TranslationSet>
+        <base loc="en">Select your phone number, and we’ll send you a verification link.</base>
+        <tran loc="ar">حدد رقم هاتفك، وسوف نرسل إليك رابط تحقق.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ITEM_UNAVAILABLE_FAILURE_ALERT_TITLE_IOS_notes</Position>
+      <TranslationSet>
+        <base loc="en">Note Unavailable</base>
+        <tran loc="ar">الملاحظة غير متوفرة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>VETTING_FAILURE_ALERT_TITLE_COMPLETE_SHARE_METADATA_FETCH_FAILED_ITEM_UNAVAILABLE_IOS_notes</Position>
+      <TranslationSet>
+        <base loc="en">Note Unavailable</base>
+        <tran loc="ar">الملاحظة غير متوفرة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>VETTING_FAILURE_ALERT_BODY_COMPLETE_SHARE_METADATA_FETCH_FAILED_UNKNOWN_WITHOUT_SHARE_NAME_EMAIL</Position>
+      <TranslationSet>
+        <base loc="en">Your email address was added to your Apple ID, but the shared file can’t be opened right now. Try opening it again later.</base>
+        <tran loc="ar">تمت إضافة عنوان بريدك الإلكتروني إلى الـ Apple ID الخاص بك، ولكن لا يمكن فتح الملف المشترك الآن. جرب فتحه مرة أخرى لاحقًا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>VETTING_FAILURE_ALERT_BODY_COMPLETE_SHARE_METADATA_FETCH_FAILED_SERVER_ERROR_WITHOUT_SHARE_NAME_EMAIL</Position>
+      <TranslationSet>
+        <base loc="en">Your email address was added to your Apple ID, but the shared file can’t be opened right now because of a server problem. Try opening it again later.</base>
+        <tran loc="ar">تمت إضافة عنوان بريدك الإلكتروني إلى الـ Apple ID الخاص بك، ولكن لا يمكن فتح الملف المشترك الآن بسبب مشكلة في الخادم. جرب فتحه مرة أخرى لاحقًا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>VETTING_FAILURE_ALERT_BODY_COMPLETE_SHARE_METADATA_FETCH_FAILED_OFFLINE_WITHOUT_SHARE_NAME_PHONE</Position>
+      <TranslationSet>
+        <base loc="en">Your phone number was added to your Apple ID, but the shared file can’t be opened right now. Check your Internet connection and try opening it again.</base>
+        <tran loc="ar">تمت إضافة رقم هاتفك إلى الـ Apple ID الخاص بك، ولكن لا يمكن فتح الملف المشترك الآن. تحقق من اتصال الإنترنت لديك ثم حاول فتحه مرة أخرى.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>VETTING_FAILURE_ALERT_TITLE_COMPLETE_DRYRUN_KEYSWAP_FAILED_MAC_iclouddrive</Position>
+      <TranslationSet>
+        <base loc="en">This item couldn’t be opened.</base>
+        <tran loc="ar">تعذر فتح هذا المجلد.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>VETTING_FAILURE_ALERT_TITLE_COMPLETE_DRYRUN_KEYSWAP_FAILED_MAC_reminders</Position>
+      <TranslationSet>
+        <base loc="en">These reminders couldn’t be opened.</base>
+        <tran loc="ar">تعذر فتح هذه التذكيرات.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>VETTING_FAILURE_ALERT_TITLE_COMPLETE_GENERIC_ERROR_MAC</Position>
+      <TranslationSet>
+        <base loc="en">Sorry, something went wrong.</base>
+        <tran loc="ar">عذرًا، حدث خطأ ما.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ITEM_UNAVAILABLE_FAILURE_ALERT_TITLE_MAC_numbers</Position>
+      <TranslationSet>
+        <base loc="en">This spreadsheet is unavailable.</base>
+        <tran loc="ar">جدول البيانات هذا غير متوفر.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>VETTING_FAILURE_ALERT_BODY_COMPLETE_SHARE_METADATA_FETCH_FAILED_UNKNOWN_WITH_SHARE_NAME_PHONE</Position>
+      <TranslationSet>
+        <base loc="en">Your phone number was added to your Apple ID, but “%1$@” can’t be opened right now. Try opening it again later.</base>
+        <tran loc="ar">تمت إضافة رقم هاتفك إلى الـ Apple ID الخاص بك، ولكن لا يمكن فتح \"%1$@\" الآن. حاول فتحه مرة أخرى لاحقًا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>VETTING_FAILURE_ALERT_BODY_COMPLETE_DRYRUN_KEYSWAP_FAILED_WITHOUT_SHARE_NAME_IOS_PHONE</Position>
+      <TranslationSet>
+        <base loc="en">Your phone number was added to your Apple ID, but the shared file couldn’t be opened. Ask the person who invited you to remove you and invite you again.</base>
+        <tran loc="ar">تمت إضافة رقم هاتفك إلى الـ Apple ID الخاص بك، ولكن لا يمكن فتح الملف المشترك. اطلب من الشخص الذي أرسل لك الدعوة أن يقوم بإزالتك ثم دعوتك مرة أخرى.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>OK</Position>
+      <TranslationSet>
+        <base loc="en">OK</base>
+        <tran loc="ar">موافق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CLOUDKIT_VETTING_HEADER_EMAILS</Position>
+      <TranslationSet>
+        <base loc="en">Select your email address, and we’ll send you a verification link.</base>
+        <tran loc="ar">حدد عنوان بريدك الإلكتروني، وسوف نرسل إليك رابط تحقق.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>VETTING_FAILURE_ALERT_TITLE_COMPLETE_SHARE_METADATA_FETCH_FAILED_ITEM_UNAVAILABLE_MAC_photos</Position>
+      <TranslationSet>
+        <base loc="en">These photos are no longer available.</base>
+        <tran loc="ar">هذه الصور لم تعد متوفرة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>VETTING_FAILURE_ALERT_BODY_COMPLETE_GENERIC_ERROR_ADDRESS</Position>
+      <TranslationSet>
+        <base loc="en">We weren’t able to verify your address. Please try again later.</base>
+        <tran loc="ar">لم نتمكن من التحقق من عنوانك. الرجاء المحاولة مرة أخرى لاحقًا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ITEM_UNAVAILABLE_FAILURE_ALERT_TITLE_IOS_numbers</Position>
+      <TranslationSet>
+        <base loc="en">Spreadsheet Unavailable</base>
+        <tran loc="ar">جدول البيانات غير متوفر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>VETTING_FAILURE_ALERT_TITLE_COMPLETE_SHARE_METADATA_FETCH_FAILED_ITEM_UNAVAILABLE_IOS_numbers</Position>
+      <TranslationSet>
+        <base loc="en">Spreadsheet Unavailable</base>
+        <tran loc="ar">جدول البيانات غير متوفر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>VETTING_FAILURE_ALERT_BODY_COMPLETE_SHARE_METADATA_FETCH_FAILED_SERVER_ERROR_WITHOUT_SHARE_NAME_PHONE</Position>
+      <TranslationSet>
+        <base loc="en">Your phone number was added to your Apple ID, but the shared file can’t be opened right now because of a server problem. Try opening it again later.</base>
+        <tran loc="ar">تمت إضافة رقم هاتفك إلى الـ Apple ID الخاص بك، ولكن لا يمكن فتح الملف المشترك الآن بسبب مشكلة في الخادم. جرب فتحه مرة أخرى لاحقًا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ITEM_UNAVAILABLE_FAILURE_ALERT_TITLE_IOS_photos</Position>
+      <TranslationSet>
+        <base loc="en">Shared Photos Unavailable</base>
+        <tran loc="ar">الصور المشتركة غير متوفرة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>VETTING_FAILURE_ALERT_TITLE_COMPLETE_SHARE_METADATA_FETCH_FAILED_ITEM_UNAVAILABLE_IOS_photos</Position>
+      <TranslationSet>
+        <base loc="en">Shared Photos Unavailable</base>
+        <tran loc="ar">الصور المشتركة غير متوفرة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ITEM_UNAVAILABLE_FAILURE_ALERT_TITLE_IOS_reminders</Position>
+      <TranslationSet>
+        <base loc="en">Reminders Unavailable</base>
+        <tran loc="ar">التذكيرات غير متوفرة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>VETTING_FAILURE_ALERT_TITLE_COMPLETE_SHARE_METADATA_FETCH_FAILED_ITEM_UNAVAILABLE_IOS_reminders</Position>
+      <TranslationSet>
+        <base loc="en">Reminders Unavailable</base>
+        <tran loc="ar">التذكيرات غير متوفرة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>VETTING_FAILURE_ALERT_TITLE_COMPLETE_DRYRUN_KEYSWAP_FAILED_IOS_iclouddrive</Position>
+      <TranslationSet>
+        <base loc="en">Can’t Open Item</base>
+        <tran loc="ar">لا يمكن فتح العنصر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>VETTING_FAILURE_ALERT_TITLE_COMPLETE_SHARE_METADATA_FETCH_FAILED_IOS_iclouddrive</Position>
+      <TranslationSet>
+        <base loc="en">Can’t Open Item</base>
+        <tran loc="ar">لا يمكن فتح العنصر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> CKErrorInternalEmailVettingTokenInvalid</Description>
+      <Position>VETTING_FAILURE_ALERT_TITLE_COMPLETE_TOKEN_INVALID_IOS</Position>
+      <TranslationSet>
+        <base loc="en">Verification Link Expired</base>
+        <tran loc="ar">انتهت مدة صلاحية رابط التحقق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UNTITLED_DOCUMENT_OPEN_TITLE_com.apple.Notes_com.apple.notes.folder</Position>
+      <TranslationSet>
+        <base loc="en">Open this folder in %1$@?</base>
+        <tran loc="ar">هل تريد فتح هذا المجلد في %1$@؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>VETTING_FAILURE_ALERT_TITLE_COMPLETE_SHARE_METADATA_FETCH_FAILED_ITEM_UNAVAILABLE_MAC_keynote</Position>
+      <TranslationSet>
+        <base loc="en">This presentation is no longer available.</base>
+        <tran loc="ar">هذا العرض التقديمي لم يعد متوفرًا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>VETTING_FAILURE_ALERT_TITLE_COMPLETE_DRYRUN_KEYSWAP_FAILED_IOS_reminders</Position>
+      <TranslationSet>
+        <base loc="en">Can’t Open Reminders</base>
+        <tran loc="ar">لا يمكن فتح التذكيرات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>VETTING_FAILURE_ALERT_TITLE_COMPLETE_SHARE_METADATA_FETCH_FAILED_IOS_reminders</Position>
+      <TranslationSet>
+        <base loc="en">Can’t Open Reminders</base>
+        <tran loc="ar">لا يمكن فتح التذكيرات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>VETTING_FAILURE_ALERT_TITLE_COMPLETE_SHARE_METADATA_FETCH_FAILED_MAC_photos</Position>
+      <TranslationSet>
+        <base loc="en">These photos can’t be opened right now.</base>
+        <tran loc="ar">لا يمكن فتح هذه الصور الآن.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> CKErrorInternalEmailVettingAccountDenied</Description>
+      <Position>VETTING_FAILURE_ALERT_BODY_INITIATE_TOO_MANY_VETS_EMAIL</Position>
+      <TranslationSet>
+        <base loc="en">You’ve added the maximum number of email addresses to your Apple ID, and “%1$@” can’t be added until you remove one.</base>
+        <tran loc="ar">لقد قمت بإضافة الحد الأقصى لعدد عناوين البريد الإلكتروني إلى Apple ID الخاص بك، ولا يمكن إضافة \"%1$@\" حتى تقوم بإزالة أحد العناوين.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>VETTING_FAILURE_ALERT_TITLE_COMPLETE_DRYRUN_KEYSWAP_FAILED_IOS_share</Position>
+      <TranslationSet>
+        <base loc="en">Can’t Open</base>
+        <tran loc="ar">لا يمكن الفتح</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>VETTING_FAILURE_ALERT_TITLE_COMPLETE_SHARE_METADATA_FETCH_FAILED_IOS_share</Position>
+      <TranslationSet>
+        <base loc="en">Can’t Open</base>
+        <tran loc="ar">لا يمكن الفتح</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>VETTING_FAILURE_ALERT_BODY_COMPLETE_SHARE_METADATA_FETCH_FAILED_ITEM_UNAVAILABLE_WITHOUT_SHARE_NAME_EMAIL</Position>
+      <TranslationSet>
+        <base loc="en">Your email address was added to your Apple ID, but the shared file is no longer available because the owner stopped sharing it.</base>
+        <tran loc="ar">تمت إضافة عنوان بريدك الإلكتروني إلى الـ Apple ID الخاص بك، ولكن الملف المشترك لم يعد متوفرًا لأن المالك قام بإيقاف مشاركته.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>VETTING_FAILURE_ALERT_TITLE_INITIATE_VETTED_TO_CALLER_ERROR_PHONE_IOS</Position>
+      <TranslationSet>
+        <base loc="en">Phone Number Verified</base>
+        <tran loc="ar">تم التحقق من رقم الهاتف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>VETTING_FAILURE_ALERT_TITLE_COMPLETE_DRYRUN_KEYSWAP_FAILED_IOS_keynote</Position>
+      <TranslationSet>
+        <base loc="en">Can’t Open Presentation</base>
+        <tran loc="ar">لا يمكن فتح العرض التقديمي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>VETTING_FAILURE_ALERT_TITLE_COMPLETE_SHARE_METADATA_FETCH_FAILED_IOS_keynote</Position>
+      <TranslationSet>
+        <base loc="en">Can’t Open Presentation</base>
+        <tran loc="ar">لا يمكن فتح العرض التقديمي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>VETTING_FAILURE_ALERT_BODY_COMPLETE_VETTING_RECORD_ERROR_WITH_SHARE_NAME_MAC</Position>
+      <TranslationSet>
+        <base loc="en">There was a problem verifying your email address or phone number. Try opening “%1$@” again, or try opening it on another device.</base>
+        <tran loc="ar">حدثت مشكلة أثناء التحقق من البريد الإلكتروني أو رقم الهاتف الخاصين بك. جرِّب فتح \"%1$@\" مرة أخرى، أو جرِّب فتحه على جهاز آخر.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>VETTING_FAILURE_ALERT_TITLE_COMPLETE_SHARE_METADATA_FETCH_FAILED_MAC_reminders</Position>
+      <TranslationSet>
+        <base loc="en">These reminders can’t be opened right now.</base>
+        <tran loc="ar">لا يمكن فتح هذه التذكيرات في الوقت الحالي.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> CKErrorInternalCouldntCreatePCSData</Description>
+      <Position>VETTING_FAILURE_ALERT_BODY_INITIATE_PCS_ERROR</Position>
+      <TranslationSet>
+        <base loc="en">Try opening “%1$@” on another device, or contact the person who invited you and ask them to try sharing again.</base>
+        <tran loc="ar">جرّب فتح \"%1$@\" على جهاز آخر، أو اتصل بالشخص الذي قام بدعوتك واطلب منه أن يجرّب المشاركة مرة أخرى.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>VETTING_FAILURE_ALERT_TITLE_INITIATE_VETTED_TO_CALLER_ERROR_PHONE_MAC</Position>
+      <TranslationSet>
+        <base loc="en">This phone number was verified.</base>
+        <tran loc="ar">تم التحقق من رقم الهاتف هذا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>VETTING_FAILURE_ALERT_BODY_COMPLETE_TOKEN_AUTH_FAILED_EMAIL_MAC</Position>
+      <TranslationSet>
+        <base loc="en">There may be a problem with the server. Please try again later.</base>
+        <tran loc="ar">قد تكون هناك مشكلة في الخادم. حاول مرة أخرى لاحقًا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>VETTING_FAILURE_ALERT_BODY_COMPLETE_TOKEN_AUTH_FAILED_PHONE_MAC</Position>
+      <TranslationSet>
+        <base loc="en">There may be a problem with the server. Please try again later.</base>
+        <tran loc="ar">قد تكون هناك مشكلة في الخادم. حاول مرة أخرى لاحقًا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> CKErrorInternalEmailVettingServerError</Description>
+      <Position>VETTING_FAILURE_ALERT_BODY_INITIATE_SERVER_ERROR</Position>
+      <TranslationSet>
+        <base loc="en">There may be a problem with the server. Please try again later.</base>
+        <tran loc="ar">قد تكون هناك مشكلة في الخادم. حاول مرة أخرى لاحقًا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>VETTING_FAILURE_ALERT_BODY_COMPLETE_SHARE_METADATA_FETCH_FAILED_ITEM_UNAVAILABLE_WITH_SHARE_NAME_PHONE</Position>
+      <TranslationSet>
+        <base loc="en">Your phone number was added to your Apple ID, but “%1$@” is no longer available because the owner stopped sharing it.</base>
+        <tran loc="ar">تمت إضافة رقم هاتفك إلى الـ Apple ID الخاص بك، ولكن \"%1$@\" لم يعد متوفرًا لأن المالك قام بإيقاف مشاركته.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>VETTING_FAILURE_ALERT_BODY_COMPLETE_TOKEN_AUTH_FAILED_EMAIL_IOS</Position>
+      <TranslationSet>
+        <base loc="en">Your email address couldn’t be verified. There may be a problem with the server. Please try again later.</base>
+        <tran loc="ar">تعذر التحقق من عنوان بريدك الإلكتروني. قد تكون هناك مشكلة في الخادم. الرجاء المحاولة مرة أخرى لاحقًا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>VETTING_FAILURE_ALERT_TITLE_COMPLETE_DRYRUN_KEYSWAP_FAILED_IOS_numbers</Position>
+      <TranslationSet>
+        <base loc="en">Can’t Open Spreadsheet</base>
+        <tran loc="ar">لا يمكن فتح جدول البيانات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>VETTING_FAILURE_ALERT_TITLE_COMPLETE_SHARE_METADATA_FETCH_FAILED_IOS_numbers</Position>
+      <TranslationSet>
+        <base loc="en">Can’t Open Spreadsheet</base>
+        <tran loc="ar">لا يمكن فتح جدول البيانات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ITEM_UNAVAILABLE_FAILURE_ALERT_TITLE_IOS_keynote</Position>
+      <TranslationSet>
+        <base loc="en">Presentation Unavailable</base>
+        <tran loc="ar">العرض التقديمي غير متوفر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>VETTING_FAILURE_ALERT_TITLE_COMPLETE_SHARE_METADATA_FETCH_FAILED_ITEM_UNAVAILABLE_IOS_keynote</Position>
+      <TranslationSet>
+        <base loc="en">Presentation Unavailable</base>
+        <tran loc="ar">العرض التقديمي غير متوفر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>VETTING_FAILURE_ALERT_BODY_COMPLETE_SHARE_METADATA_FETCH_FAILED_OFFLINE_WITH_SHARE_NAME_PHONE</Position>
+      <TranslationSet>
+        <base loc="en">Your phone number was added to your Apple ID, but “%1$@” can’t be opened right now. Check your Internet connection and try opening it again.</base>
+        <tran loc="ar">تمت إضافة رقم هاتفك إلى الـ Apple ID الخاص بك، ولكن لا يمكن فتح \"%1$@\" الآن. تحقق من اتصال الإنترنت لديك ثم حاول فتحه مرة أخرى.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>VETTING_FAILURE_ALERT_TITLE_COMPLETE_SHARE_METADATA_FETCH_FAILED_MAC_numbers</Position>
+      <TranslationSet>
+        <base loc="en">This spreadsheet can’t be opened right now.</base>
+        <tran loc="ar">لا يمكن فتح جدول البيانات هذا الآن.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ITEM_UNAVAILABLE_FAILURE_ALERT_TITLE_MAC_reminders</Position>
+      <TranslationSet>
+        <base loc="en">These reminders are unavailable.</base>
+        <tran loc="ar">هذه التذكيرات ليست متوفرة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>VETTING_FAILURE_ALERT_TITLE_COMPLETE_TOKEN_INVALID_MAC</Position>
+      <TranslationSet>
+        <base loc="en">The verification link has expired.</base>
+        <tran loc="ar">انتهت مدة صلاحية رابط التحقق.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> CKErrorInternalEmailVettingDryrunKeyswapFailed</Description>
+      <Position>VETTING_FAILURE_ALERT_TITLE_COMPLETE_DRYRUN_KEYSWAP_FAILED_IOS_pages</Position>
+      <TranslationSet>
+        <base loc="en">Can’t Open Document</base>
+        <tran loc="ar">لا يمكن فتح المستند</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> CKErrorInternalEmailVettingForcedShareMetedataFetchFailed</Description>
+      <Position>VETTING_FAILURE_ALERT_TITLE_COMPLETE_SHARE_METADATA_FETCH_FAILED_IOS_pages</Position>
+      <TranslationSet>
+        <base loc="en">Can’t Open Document</base>
+        <tran loc="ar">لا يمكن فتح المستند</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CLOUDKIT_VETTING_HEADER_MIX</Position>
+      <TranslationSet>
+        <base loc="en">Select your email address or phone number, and we’ll send you a verification link.</base>
+        <tran loc="ar">حدد عنوان بريدك الإلكتروني أو رقم هاتفك، وسوف نرسل إليك رابط تحقق.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>VETTING_FAILURE_ALERT_BODY_INITIATE_VETTED_TO_CALLER_ERROR_EMAIL</Position>
+      <TranslationSet>
+        <base loc="en">“%1$@” was already verified and added to your Apple ID “%2$@”.</base>
+        <tran loc="ar">تم التحقق من \"%1$@\" بالفعل وإضافته إلى Apple ID الخاص بك \"%2$@\".</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>VETTING_FAILURE_ALERT_BODY_INITIATE_VETTED_TO_CALLER_ERROR_PHONE</Position>
+      <TranslationSet>
+        <base loc="en">“%1$@” was already verified and added to your Apple ID “%2$@”.</base>
+        <tran loc="ar">تم التحقق من \"%1$@\" بالفعل وإضافته إلى Apple ID الخاص بك \"%2$@\".</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PRIVATE_DOCUMENT_OPEN_BODY_com.apple.Notes_com.apple.notes.folder</Position>
+      <TranslationSet>
+        <base loc="en">%1$@ shared this folder. You will join as %2$@ (%3$@).</base>
+        <tran loc="ar">قام %1$@ بمشاركة هذا المجلد. ستنضم كـ %2$@ ‏‪(%3$@)‬.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CLOUDKIT_VETTING_FOOTER_TEXT_EMAILS</Position>
+      <TranslationSet>
+        <base loc="en">If you don’t see your email address, contact the person who invited you.</base>
+        <tran loc="ar">إذا كنت لا ترى عنوان بريدك الإلكتروني، فاتصل بالشخص الذي قام بدعوتك.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>VETTING_FAILURE_ALERT_TITLE_COMPLETE_DRYRUN_KEYSWAP_FAILED_IOS_photos</Position>
+      <TranslationSet>
+        <base loc="en">Can’t Open Shared Photos</base>
+        <tran loc="ar">لا يمكن فتح الصور المشتركة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>VETTING_FAILURE_ALERT_TITLE_COMPLETE_SHARE_METADATA_FETCH_FAILED_IOS_photos</Position>
+      <TranslationSet>
+        <base loc="en">Can’t Open Shared Photos</base>
+        <tran loc="ar">لا يمكن فتح الصور المشتركة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>VETTING_FAILURE_ALERT_TITLE_COMPLETE_SHARE_METADATA_FETCH_FAILED_MAC_iclouddrive</Position>
+      <TranslationSet>
+        <base loc="en">This item can’t be opened right now.</base>
+        <tran loc="ar">لا يمكن فتح هذا العنصر الآن.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Generic vetting initiate error</Description>
+      <Position>VETTING_FAILURE_ALERT_BODY_INITIATE_GENERIC_ERROR</Position>
+      <TranslationSet>
+        <base loc="en">We weren’t able to send the verification link. Please try again later.</base>
+        <tran loc="ar">لم نتمكن من إرسال رابط التحقق. الرجاء المحاولة مرة أخرى لاحقًا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>VETTING_FAILURE_ALERT_BODY_INITIATE_TOO_MANY_VETS_NUMBER</Position>
+      <TranslationSet>
+        <base loc="en">You’ve added the maximum number of phone numbers to your Apple ID, and “%1$@” can’t be added until you remove one.</base>
+        <tran loc="ar">لقد قمت بإضافة الحد الأقصى لعدد أرقام الهاتف إلى Apple ID الخاص بك، ولا يمكن إضافة \"%1$@\" حتى تقوم بإزالة أحد الأرقام.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>VETTING_FAILURE_ALERT_BODY_COMPLETE_SHARE_METADATA_FETCH_FAILED_SERVER_ERROR_WITH_SHARE_NAME_EMAIL</Position>
+      <TranslationSet>
+        <base loc="en">Your email address was added to your Apple ID, but “%1$@” can’t be opened right now because of a server problem. Try opening it again later.</base>
+        <tran loc="ar">تمت إضافة عنوان بريدك الإلكتروني إلى الـ Apple ID الخاص بك، ولكن لا يمكن فتح \"%1$@\" الآن بسبب مشكلة في الخادم. جرب فتحه مرة أخرى لاحقًا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ITEM_UNAVAILABLE_FAILURE_ALERT_TITLE_IOS_iclouddrive</Position>
+      <TranslationSet>
+        <base loc="en">Item Unavailable</base>
+        <tran loc="ar">العنصر غير متوفر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ITEM_UNAVAILABLE_FAILURE_ALERT_TITLE_IOS_share</Position>
+      <TranslationSet>
+        <base loc="en">Item Unavailable</base>
+        <tran loc="ar">العنصر غير متوفر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>VETTING_FAILURE_ALERT_TITLE_COMPLETE_SHARE_METADATA_FETCH_FAILED_ITEM_UNAVAILABLE_IOS_iclouddrive</Position>
+      <TranslationSet>
+        <base loc="en">Item Unavailable</base>
+        <tran loc="ar">العنصر غير متوفر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>VETTING_FAILURE_ALERT_TITLE_COMPLETE_SHARE_METADATA_FETCH_FAILED_ITEM_UNAVAILABLE_WITHOUT_SHARE_NAME_IOS_share</Position>
+      <TranslationSet>
+        <base loc="en">Item Unavailable</base>
+        <tran loc="ar">العنصر غير متوفر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>VETTING_FAILURE_ALERT_TITLE_CANT_SEND_LINK_MAC</Position>
+      <TranslationSet>
+        <base loc="en">The verification link couldn’t be sent.</base>
+        <tran loc="ar">تعذر إرسال رابط التحقق.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> CKErrorInternalEmailVettingRecordMissing
+ CKErrorInternalEmailVettingRecordInvalid</Description>
+      <Position>VETTING_FAILURE_ALERT_BODY_COMPLETE_VETTING_RECORD_ERROR_WITHOUT_SHARE_NAME_IOS</Position>
+      <TranslationSet>
+        <base loc="en">Try opening the shared file again, or try opening it on another device.</base>
+        <tran loc="ar">جرِّب فتح الملف المشترك مرة أخرى، أو جرِّب فتحه على جهاز آخر.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>VETTING_FAILURE_ALERT_BODY_COMPLETE_SHARE_METADATA_FETCH_FAILED_SERVER_ERROR_WITH_SHARE_NAME_PHONE</Position>
+      <TranslationSet>
+        <base loc="en">Your phone number was added to your Apple ID, but “%1$@” can’t be opened right now because of a server problem. Try opening it again later.</base>
+        <tran loc="ar">تمت إضافة رقم هاتفك إلى الـ Apple ID الخاص بك، ولكن لا يمكن فتح \"%1$@\" الآن بسبب مشكلة في الخادم. جرب فتحه مرة أخرى لاحقًا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UNTITLED_DOCUMENT_OPEN_TITLE_Generic</Position>
+      <TranslationSet>
+        <base loc="en">Open this in %1$@?</base>
+        <tran loc="ar">هل تريد فتح هذا في %1$@؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>VETTING_FAILURE_ALERT_BODY_COMPLETE_SHARE_METADATA_FETCH_FAILED_UNKNOWN_WITH_SHARE_NAME_EMAIL</Position>
+      <TranslationSet>
+        <base loc="en">Your email address was added to your Apple ID, but “%1$@” can’t be opened right now. Try opening it again later.</base>
+        <tran loc="ar">تمت إضافة عنوان بريدك الإلكتروني إلى الـ Apple ID الخاص بك، ولكن لا يمكن فتح \"%1$@\" الآن. حاول فتحه مرة أخرى لاحقًا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>VETTING_FAILURE_ALERT_TITLE_INITIATE_VETTED_TO_CALLER_ERROR_EMAIL_MAC</Position>
+      <TranslationSet>
+        <base loc="en">This email address was verified.</base>
+        <tran loc="ar">تم التحقق من عنوان البريد الإلكتروني هذا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>VETTING_FAILURE_ALERT_BODY_COMPLETE_SHARE_METADATA_FETCH_FAILED_UNKNOWN_WITHOUT_SHARE_NAME_PHONE</Position>
+      <TranslationSet>
+        <base loc="en">Your phone number was added to your Apple ID, but the shared file can’t be opened right now. Try opening it again later.</base>
+        <tran loc="ar">تمت إضافة رقم هاتفك إلى الـ Apple ID الخاص بك، ولكن لا يمكن فتح الملف المشترك الآن. جرب فتحه مرة أخرى لاحقًا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ITEM_UNAVAILABLE_FAILURE_ALERT_TITLE_MAC_keynote</Position>
+      <TranslationSet>
+        <base loc="en">This presentation is unavailable.</base>
+        <tran loc="ar">هذا العرض التقديمي غير متوفر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>VETTING_FAILURE_ALERT_TITLE_COMPLETE_SHARE_METADATA_FETCH_FAILED_MAC_keynote</Position>
+      <TranslationSet>
+        <base loc="en">This presentation can’t be opened right now.</base>
+        <tran loc="ar">لا يمكن فتح هذا العرض التقديمي الآن.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>VETTING_FAILURE_ALERT_TITLE_COMPLETE_SHARE_METADATA_FETCH_FAILED_MAC_notes</Position>
+      <TranslationSet>
+        <base loc="en">This note can’t be opened right now.</base>
+        <tran loc="ar">لا يمكن فتح هذه الملاحظة الآن.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>VETTING_FAILURE_ALERT_TITLE_COMPLETE_SHARE_METADATA_FETCH_FAILED_ITEM_UNAVAILABLE_MAC_numbers</Position>
+      <TranslationSet>
+        <base loc="en">This spreadsheet is no longer available.</base>
+        <tran loc="ar">جدول البيانات هذا لم يعد متوفرًا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>VETTING_FAILURE_ALERT_BODY_COMPLETE_GENERIC_ERROR_EMAIL</Position>
+      <TranslationSet>
+        <base loc="en">We weren’t able to verify your email address. Please try again later.</base>
+        <tran loc="ar">لم نتمكن من التحقق من عنوان بريدك الإلكتروني. الرجاء المحاولة مرة أخرى لاحقًا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UNTITLED_NONIWORK_DOCUMENT_OPEN_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Open in %1$@?</base>
+        <tran loc="ar">هل تريد الفتح في %1$@؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>VETTING_FAILURE_ALERT_TITLE_COMPLETE_DRYRUN_KEYSWAP_FAILED_MAC_pages</Position>
+      <TranslationSet>
+        <base loc="en">This document couldn’t be opened.</base>
+        <tran loc="ar">تعذر فتح هذا المستند.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>VETTING_FAILURE_ALERT_TITLE_COMPLETE_DRYRUN_KEYSWAP_FAILED_MAC_photos</Position>
+      <TranslationSet>
+        <base loc="en">These photos couldn’t be opened.</base>
+        <tran loc="ar">تعذر فتح هذه الصور.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>VETTING_FAILURE_ALERT_TITLE_COMPLETE_DRYRUN_KEYSWAP_FAILED_MAC_notes</Position>
+      <TranslationSet>
+        <base loc="en">This note couldn’t be opened.</base>
+        <tran loc="ar">تعذر فتح هذه الملاحظة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>VETTING_FAILURE_ALERT_BODY_COMPLETE_VETTING_RECORD_ERROR_WITH_SHARE_NAME_IOS</Position>
+      <TranslationSet>
+        <base loc="en">Try opening “%1$@” again, or try opening it on another device.</base>
+        <tran loc="ar">جرِّب فتح \"%1$@\" مرة أخرى، أو جرِّب فتحه على جهاز آخر.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ITEM_UNAVAILABLE_FAILURE_ALERT_TITLE_IOS_pages</Position>
+      <TranslationSet>
+        <base loc="en">Document Unavailable</base>
+        <tran loc="ar">المستند غير متاح</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> In case of missing share, different title is used:</Description>
+      <Position>VETTING_FAILURE_ALERT_TITLE_COMPLETE_SHARE_METADATA_FETCH_FAILED_ITEM_UNAVAILABLE_IOS_pages</Position>
+      <TranslationSet>
+        <base loc="en">Document Unavailable</base>
+        <tran loc="ar">المستند غير متاح</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>VETTING_FAILURE_ALERT_TITLE_COMPLETE_SHARE_METADATA_FETCH_FAILED_ITEM_UNAVAILABLE_MAC_reminders</Position>
+      <TranslationSet>
+        <base loc="en">These reminders are no longer available.</base>
+        <tran loc="ar">هذه التذكيرات لم تعد متوفرة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CLOUDKIT_VETTING_FOOTER_TEXT_MIX</Position>
+      <TranslationSet>
+        <base loc="en">If you don’t see your email address or phone number, contact the person who invited you.</base>
+        <tran loc="ar">إذا كنت لا ترى عنوان بريدك الإلكتروني أو رقم هاتفك، فاتصل بالشخص الذي قام بدعوتك.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Vetting failures </Description>
+      <Position>VETTING_FAILURE_ALERT_TITLE_CANT_SEND_LINK_IOS</Position>
+      <TranslationSet>
+        <base loc="en">Couldn’t Send Link</base>
+        <tran loc="ar">تعذر إرسال الرابط</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UNTITLED_DOCUMENT_OPEN_TITLE_com.apple.Notes</Position>
+      <TranslationSet>
+        <base loc="en">Open this note in %1$@?</base>
+        <tran loc="ar">هل تريد فتح هذه الملاحظة في %1$@؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>VETTING_FAILURE_ALERT_BODY_COMPLETE_DRYRUN_KEYSWAP_FAILED_WITH_SHARE_NAME_IOS_EMAIL</Position>
+      <TranslationSet>
+        <base loc="en">Your email address was added to your Apple ID, but “%1$@” couldn’t be opened. Ask the person who invited you to remove you and invite you again.</base>
+        <tran loc="ar">تمت إضافة عنوان بريدك الإلكتروني إلى الـ Apple ID الخاص بك، ولكن لا يمكن فتح \"%1$@\". اطلب من الشخص الذي أرسل لك الدعوة أن يقوم بإزالتك ثم دعوتك مرة أخرى.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>VETTING_FAILURE_ALERT_TITLE_COMPLETE_SHARE_METADATA_FETCH_FAILED_ITEM_UNAVAILABLE_MAC_share</Position>
+      <TranslationSet>
+        <base loc="en">This is no longer available.</base>
+        <tran loc="ar">هذا العنصر لم يعد متوفرًا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>VETTING_FAILURE_ALERT_BODY_COMPLETE_DRYRUN_KEYSWAP_FAILED_WITH_SHARE_NAME_IOS_PHONE</Position>
+      <TranslationSet>
+        <base loc="en">Your phone number was added to your Apple ID, but “%1$@” couldn’t be opened. Ask the person who invited you to remove you and invite you again.</base>
+        <tran loc="ar">تمت إضافة رقم هاتفك إلى الـ Apple ID الخاص بك، ولكن لا يمكن فتح \"%1$@\". اطلب من الشخص الذي أرسل لك الدعوة أن يقوم بإزالتك ثم دعوتك مرة أخرى.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Generic vetting complete error</Description>
+      <Position>VETTING_FAILURE_ALERT_TITLE_COMPLETE_GENERIC_ERROR_IOS</Position>
+      <TranslationSet>
+        <base loc="en">Couldn’t Verify</base>
+        <tran loc="ar">تعذر التحقق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> CKErrorInternalEmailVettingTokenAuthFailed</Description>
+      <Position>VETTING_FAILURE_ALERT_TITLE_COMPLETE_TOKEN_AUTH_FAILED_EMAIL_IOS</Position>
+      <TranslationSet>
+        <base loc="en">Couldn’t Verify</base>
+        <tran loc="ar">تعذر التحقق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>VETTING_FAILURE_ALERT_TITLE_COMPLETE_TOKEN_AUTH_FAILED_PHONE_IOS</Position>
+      <TranslationSet>
+        <base loc="en">Couldn’t Verify</base>
+        <tran loc="ar">تعذر التحقق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>VETTING_FAILURE_ALERT_BODY_COMPLETE_SHARE_METADATA_FETCH_FAILED_OFFLINE_WITH_SHARE_NAME_EMAIL</Position>
+      <TranslationSet>
+        <base loc="en">Your email address was added to your Apple ID, but “%1$@” can’t be opened right now. Check your Internet connection and try opening it again.</base>
+        <tran loc="ar">تمت إضافة عنوان بريدك الإلكتروني إلى الـ Apple ID الخاص بك، ولكن لا يمكن فتح \"%1$@\" الآن. تحقق من اتصال الإنترنت لديك ثم حاول فتحه مرة أخرى.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ITEM_UNAVAILABLE_FAILURE_ALERT_TITLE_MAC_iclouddrive</Position>
+      <TranslationSet>
+        <base loc="en">This item is unavailable.</base>
+        <tran loc="ar">هذا العنصر غير متوفر.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ITEM_UNAVAILABLE_FAILURE_ALERT_TITLE_MAC_share</Position>
+      <TranslationSet>
+        <base loc="en">This item is unavailable.</base>
+        <tran loc="ar">هذا العنصر غير متوفر.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>VETTING_FAILURE_ALERT_TITLE_COMPLETE_SHARE_METADATA_FETCH_FAILED_ITEM_UNAVAILABLE_MAC_iclouddrive</Position>
+      <TranslationSet>
+        <base loc="en">This item is no longer available.</base>
+        <tran loc="ar">هذا المجلد لم يعد متوفرًا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ITEM_UNAVAILABLE_FAILURE_ALERT_TITLE_MAC_notes</Position>
+      <TranslationSet>
+        <base loc="en">This note is unavailable.</base>
+        <tran loc="ar">هذه الملاحظة غير متوفرة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>VETTING_FAILURE_ALERT_TITLE_COMPLETE_SHARE_METADATA_FETCH_FAILED_MAC_share</Position>
+      <TranslationSet>
+        <base loc="en">This can’t be opened right now.</base>
+        <tran loc="ar">لا يمكن فتح هذا العنصر الآن.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>VETTING_FAILURE_ALERT_TITLE_COMPLETE_TOKEN_AUTH_FAILED_EMAIL_MAC</Position>
+      <TranslationSet>
+        <base loc="en">Your email address couldn’t be verified.</base>
+        <tran loc="ar">تعذر التحقق من عنوان بريدك الإلكتروني.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ITEM_UNAVAILABLE_FAILURE_ALERT_TITLE_MAC_pages</Position>
+      <TranslationSet>
+        <base loc="en">This document is unavailable.</base>
+        <tran loc="ar">هذا المستند غير متوفر.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>VETTING_FAILURE_ALERT_BODY_COMPLETE_SHARE_METADATA_FETCH_FAILED_ITEM_UNAVAILABLE_WITHOUT_SHARE_NAME_PHONE</Position>
+      <TranslationSet>
+        <base loc="en">Your phone number was added to your Apple ID, but the shared file is no longer available because the owner stopped sharing it.</base>
+        <tran loc="ar">تمت إضافة رقم هاتفك إلى الـ Apple ID الخاص بك، ولكن الملف المشترك لم يعد متوفرًا لأن المالك قام بإيقاف مشاركته.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>VETTING_FAILURE_ALERT_TITLE_COMPLETE_SHARE_METADATA_FETCH_FAILED_ITEM_UNAVAILABLE_WITH_SHARE_NAME_IOS_share</Position>
+      <TranslationSet>
+        <base loc="en">“%1$@” Unavailable</base>
+        <tran loc="ar">‏\"%1$@\" غير متوفر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CLOUDKIT_VETTING_FOOTER_SEND_EMAIL</Position>
+      <TranslationSet>
+        <base loc="en">Send Verification Link</base>
+        <tran loc="ar">إرسال رابط التحقق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>VETTING_FAILURE_ALERT_TITLE_COMPLETE_TOKEN_AUTH_FAILED_PHONE_MAC</Position>
+      <TranslationSet>
+        <base loc="en">Your phone number couldn’t be verified.</base>
+        <tran loc="ar">تعذر التحقق من رقم هاتفك.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ITEM_UNAVAILABLE_FAILURE_ALERT_BODY</Position>
+      <TranslationSet>
+        <base loc="en">The owner stopped sharing, or you don’t have permission to open it.</base>
+        <tran loc="ar">تم إيقاف المشاركة بواسطة المالك، أو أنك ليس لديك الإذن لفتحه.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> CKErrorInternalEmailVettingVettedToOther</Description>
+      <Position>VETTING_FAILURE_ALERT_BODY_INITIATE_VETTED_TO_OTHER_EMAIL</Position>
+      <TranslationSet>
+        <base loc="en">The email address “%1$@” is already used by another Apple ID. Sign in to iCloud with that Apple ID and try again.</base>
+        <tran loc="ar">عنوان البريد الإلكتروني \"%1$@\" مستخدَم بالفعل من قِبل Apple ID مختلف. قم بتسجيل الدخول إلى iCloud باستخدام ذلك الـ Apple ID وحاول مرة أخرى.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>VETTING_FAILURE_ALERT_TITLE_COMPLETE_DRYRUN_KEYSWAP_FAILED_MAC_numbers</Position>
+      <TranslationSet>
+        <base loc="en">This spreadsheet couldn’t be opened.</base>
+        <tran loc="ar">تعذر فتح جدول البيانات هذا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>VETTING_FAILURE_ALERT_TITLE_COMPLETE_SHARE_METADATA_FETCH_FAILED_MAC_pages</Position>
+      <TranslationSet>
+        <base loc="en">This document can’t be opened right now.</base>
+        <tran loc="ar">لا يمكن فتح هذا المستند الآن.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>VETTING_FAILURE_ALERT_TITLE_COMPLETE_DRYRUN_KEYSWAP_FAILED_MAC_share</Position>
+      <TranslationSet>
+        <base loc="en">This couldn’t be opened.</base>
+        <tran loc="ar">تعذر فتح هذا العنصر.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>VETTING_FAILURE_ALERT_BODY_INITIATE_VETTED_TO_OTHER_NUMBER</Position>
+      <TranslationSet>
+        <base loc="en">The phone number “%1$@” is already used by another Apple ID. Sign in to iCloud with that Apple ID and try again.</base>
+        <tran loc="ar">رقم الهاتف \"%1$@\" مستخدَم بالفعل من قِبل Apple ID مختلف. قم بتسجيل الدخول إلى iCloud باستخدام ذلك الـ Apple ID وحاول مرة أخرى.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>GENERIC_APP_SHARING_OPEN_BODY</Position>
+      <TranslationSet>
+        <base loc="en">%1$@ shared this. You will join as %2$@ (%3$@).</base>
+        <tran loc="ar">قام %1$@ بمشاركة هذا العنصر. ستنضم كـ %2$@ ‏(‪%3$@‬).</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PRIVATE_DOCUMENT_OPEN_BODY_Generic</Position>
+      <TranslationSet>
+        <base loc="en">%1$@ shared this. You will join as %2$@ (%3$@).</base>
+        <tran loc="ar">قام %1$@ بمشاركة هذا العنصر. ستنضم كـ %2$@ ‏‪(%3$@)‬.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ITEM_UNAVAILABLE_FAILURE_ALERT_TITLE_MAC_photos</Position>
+      <TranslationSet>
+        <base loc="en">These photos are unavailable.</base>
+        <tran loc="ar">هذه الصور غير متوفرة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>VETTING_FAILURE_ALERT_BODY_COMPLETE_TOKEN_AUTH_FAILED_PHONE_IOS</Position>
+      <TranslationSet>
+        <base loc="en">Your phone number couldn’t be verified. There may be a problem with the server. Please try again later.</base>
+        <tran loc="ar">تعذر التحقق من رقم هاتفك. قد تكون هناك مشكلة في الخادم. الرجاء المحاولة مرة أخرى لاحقًا.</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>CloudKitTools/System/Library/CoreServices/iCloud.app/Contents/Resources/en.lproj/InfoPlist.strings</Filepath>
+    <TextItem>
+      <Description> 
+  InfoPlist.strings
+  CloudKit
+
+  Created by Jacob Farkas on 5/6/16.
+  Copyright © 2016 Apple Inc. All rights reserved.
+</Description>
+      <Position>CFBundleDisplayName</Position>
+      <TranslationSet>
+        <base loc="en">iCloud</base>
+        <tran loc="ar">iCloud</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CFBundleName</Position>
+      <TranslationSet>
+        <base loc="en">iCloud</base>
+        <tran loc="ar">iCloud</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+</Proj>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Proj>
+  <ProjName>LanguageChooser</ProjName>
+  <File>
+    <Filepath>LanguageChooser/System/Library/CoreServices/Language Chooser.app/Contents/Resources/en.lproj/Localizable.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>button</Position>
+      <TranslationSet>
+        <base loc="en">Button</base>
+        <tran loc="ar">زر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>continue</Position>
+      <TranslationSet>
+        <base loc="en">Continue</base>
+        <tran loc="ar">متابعة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>language</Position>
+      <TranslationSet>
+        <base loc="en">Language</base>
+        <tran loc="ar">اللغة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SLAMessage</Position>
+      <TranslationSet>
+        <base loc="en">By using this software, you agree to the terms of the software license agreement for the software. You can view the terms of the software license agreement at https://www.apple.com/legal/sla/</base>
+        <tran loc="ar">باستخدام هذا البرنامج، توافق على بنود اتفاقية ترخيص البرنامج الخاصة بهذا البرنامج. يمكنك الاطلاع على بنود اتفاقية ترخيص البرنامج على الصفحة التالية:\nhttp://www.apple.com/legal/sla/</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>LanguageChooser/System/Library/CoreServices/Language Chooser.app/Contents/Resources/en.lproj/InfoPlist.strings</Filepath>
+    <TextItem>
+      <Description> 
+  InfoPlist.strings
+  LanguageChooser
+
+  Created by Paul Borokhov on 08/06/2018.
+  Copyright © 2018 com.apple. All rights reserved.
+</Description>
+      <Position>CFBundleName</Position>
+      <TranslationSet>
+        <base loc="en">Language Chooser</base>
+        <tran loc="ar">منتقي اللغة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CFBundleDisplayName</Position>
+      <TranslationSet>
+        <base loc="en">Language Chooser</base>
+        <tran loc="ar">منتقي اللغة</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+</Proj>

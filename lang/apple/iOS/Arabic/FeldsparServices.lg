@@ -1,0 +1,2809 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Proj>
+  <ProjName>FeldsparServices</ProjName>
+  <File>
+    <Filepath>FeldsparServices/System/Library/PrivateFrameworks/NewsUI.framework/en.lproj/Localizable.strings</Filepath>
+    <TextItem>
+      <Description> Error description when article did not load a headline </Description>
+      <Position>Article did not load a headline</Position>
+      <TranslationSet>
+        <base loc="en">Article did not load a headline</base>
+        <tran loc="ar">المقال لم يحمِّل عنوانًا</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> The text describing features of Apple News </Description>
+      <Position>See top stories and trending news from your favorite sources.</Position>
+      <TranslationSet>
+        <base loc="en">See top stories and trending news from your favorite sources.</base>
+        <tran loc="ar">اقرأ أشهر المقالات والأخبار الرائجة من مصادرك المفضلة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Button title in excerpt view to read the original version of a full story by showing a full screen web page </Description>
+      <Position>Read Original Story</Position>
+      <TranslationSet>
+        <base loc="en">Read Original Story</base>
+        <tran loc="ar">اقرأ المقالة الأصل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Title for Undo Suggest Less Like This article button in share sheet </Description>
+      <Position>Undo Suggest Less Like This</Position>
+      <TranslationSet>
+        <base loc="en">Undo Suggest Less Like This</base>
+        <tran loc="ar">التراجع عن تقليل الاقتراحات المشابهة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Title for Dislike article button in share sheet </Description>
+      <Position>Suggest Less Like This</Position>
+      <TranslationSet>
+        <base loc="en">Suggest Less Like This</base>
+        <tran loc="ar">تقليل الاقتراحات المشابهة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Button that dismisses presented News articles </Description>
+      <Position>Done</Position>
+      <TranslationSet>
+        <base loc="en">Done</base>
+        <tran loc="ar">تم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Call to action string in video playlist player when the destination is an article. </Description>
+      <Position>NUTapToReadMore</Position>
+      <TranslationSet>
+        <base loc="en">NUTapToReadMore</base>
+        <tran loc="ar">NUTapToReadMore</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Message shown in the navigation bar while new stories are being fetched. </Description>
+      <Position>Checking for New Stories…</Position>
+      <TranslationSet>
+        <base loc="en">Checking for New Stories…</base>
+        <tran loc="ar">يتم الآن التحقق من وجود مقالات جديدة…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Loading text shown for indeterminate state </Description>
+      <Position>LOADING ADVERTISEMENT</Position>
+      <TranslationSet>
+        <base loc="en">LOADING ADVERTISEMENT</base>
+        <tran loc="ar">جاري تحميل الإعلان</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Error description when article download failed.Could be due to CDN issues or couldn't reach server. </Description>
+      <Position>Article download failed</Position>
+      <TranslationSet>
+        <base loc="en">Article download failed</base>
+        <tran loc="ar">فشل تنزيل المقال</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Title for Unsave article button in share sheet </Description>
+      <Position>Unsave</Position>
+      <TranslationSet>
+        <base loc="en">Unsave</base>
+        <tran loc="ar">إلغاء الحفظ</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Subtitle used to communicate to the user that News is offline </Description>
+      <Position>Apple News isn’t connected to the Internet.</Position>
+      <TranslationSet>
+        <base loc="en">Apple News isn’t connected to the Internet.</base>
+        <tran loc="ar">خدمة Apple News غير متصلة بالإنترنت.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Displayed in email sharing template as source of article. \"Shared from Apple News\" </Description>
+      <Position>Apple News</Position>
+      <TranslationSet>
+        <base loc="en">Apple News</base>
+        <tran loc="ar">Apple News</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Title for Like article button in share sheet </Description>
+      <Position>Suggest More Like This</Position>
+      <TranslationSet>
+        <base loc="en">Suggest More Like This</base>
+        <tran loc="ar">زيادة الاقتراحات المشابهة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Indicating that article is shared from Apple News. Show in Email Sharing template </Description>
+      <Position>Shared from</Position>
+      <TranslationSet>
+        <base loc="en">Shared from</base>
+        <tran loc="ar">تمت مشاركته من قِبل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Title for Undo Suggest More Like This article button in share sheet </Description>
+      <Position>Undo Suggest More Like This</Position>
+      <TranslationSet>
+        <base loc="en">Undo Suggest More Like This</base>
+        <tran loc="ar">التراجع عن زيادة الاقتراحات المشابهة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Title Displayed in an alert when tap a story in a feed. Displays only when story is not pre-loaded
+   Title used to communicate to the user that News is offline. </Description>
+      <Position>NUStoryUnavailableAlertTitle</Position>
+      <TranslationSet>
+        <base loc="en">NUStoryUnavailableAlertTitle</base>
+        <tran loc="ar">NUStoryUnavailableAlertTitle</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Web Link to article. Shown in email sharing template </Description>
+      <Position>Read the full story</Position>
+      <TranslationSet>
+        <base loc="en">Read the full story</base>
+        <tran loc="ar">قراءة المقالة كاملة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Call to action string in video playlist player when the destination is not an article. </Description>
+      <Position>NUTapForMore</Position>
+      <TranslationSet>
+        <base loc="en">NUTapForMore</base>
+        <tran loc="ar">NUTapForMore</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Message shown in the navigation bar while new stories are being fetched on small devices. </Description>
+      <Position>Checking for Stories…</Position>
+      <TranslationSet>
+        <base loc="en">Checking for Stories…</base>
+        <tran loc="ar">جاري التحقق من وجود مقالات جديدة…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Alert additional message: when device is abandoned </Description>
+      <Position>Sorry, Apple News is no longer fully supported on older devices.</Position>
+      <TranslationSet>
+        <base loc="en">Sorry, Apple News is no longer fully supported on older devices.</base>
+        <tran loc="ar">عذرًا، لم تعد خدمة Apple News مدعومة بالكامل على الأجهزة القديمة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Alert additional message: when news is used in unsupported region </Description>
+      <Position>Apple News isn’t supported in your current region.</Position>
+      <TranslationSet>
+        <base loc="en">Apple News isn’t supported in your current region.</base>
+        <tran loc="ar">خدمة Apple News غير مدعومة في منطقتك.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Title for unblocking channel button in share sheet </Description>
+      <Position>Unblock Channel</Position>
+      <TranslationSet>
+        <base loc="en">Unblock Channel</base>
+        <tran loc="ar">إلغاء حظر القناة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Error description when article is missing content URL need to load web view </Description>
+      <Position>Article missing content URL needed to load web view</Position>
+      <TranslationSet>
+        <base loc="en">Article missing content URL needed to load web view</base>
+        <tran loc="ar">المقال يفتقد لرابط المحتوى الضروري لتحميل عرض الويب</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> The title to welcome you to Apple News </Description>
+      <Position>Welcome to\nApple News</Position>
+      <TranslationSet>
+        <base loc="en">Welcome to\nApple News</base>
+        <tran loc="ar">مرحبًا بك في Apple News</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Error description when article content is not supported by article viewer </Description>
+      <Position>Article content type is not supported article viewer</Position>
+      <TranslationSet>
+        <base loc="en">Article content type is not supported article viewer</base>
+        <tran loc="ar">نوع محتوى المقال غير مدعوم في عارض المقال</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Message shown in the navigation bar when new stories are added after a refresh. </Description>
+      <Position>New Stories</Position>
+      <TranslationSet>
+        <base loc="en">New Stories</base>
+        <tran loc="ar">مقالات جديدة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Title for blocking Channel button in share sheet </Description>
+      <Position>Block Channel</Position>
+      <TranslationSet>
+        <base loc="en">Block Channel</base>
+        <tran loc="ar">حظر القناة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Title for Add to Safari Reading List button in share sheet </Description>
+      <Position>Add to Safari Reading List</Position>
+      <TranslationSet>
+        <base loc="en">Add to Safari Reading List</base>
+        <tran loc="ar">الإضافة إلى قائمة القراءة في Safari</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Alert additional message: when app or OS update is required </Description>
+      <Position>NUOpenStoryRequiresLatestVersionOS</Position>
+      <TranslationSet>
+        <base loc="en">NUOpenStoryRequiresLatestVersionOS</base>
+        <tran loc="ar">NUOpenStoryRequiresLatestVersionOS</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Button title in excerpt view to read the full version of a short excerpt by showing a full screen web page </Description>
+      <Position>Read Full Story</Position>
+      <TranslationSet>
+        <base loc="en">Read Full Story</base>
+        <tran loc="ar">قراءة المقالة كاملة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Message shown in the navigation bar when a single new story is added after a refresh. </Description>
+      <Position>New Story</Position>
+      <TranslationSet>
+        <base loc="en">New Story</base>
+        <tran loc="ar">مقالة جديدة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Loading text shown for indeterminate state </Description>
+      <Position>LOADING</Position>
+      <TranslationSet>
+        <base loc="en">LOADING</base>
+        <tran loc="ar">جاري التحميل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Loading text shown for indeterminate state </Description>
+      <Position>LOADING STORY</Position>
+      <TranslationSet>
+        <base loc="en">LOADING STORY</base>
+        <tran loc="ar">جاري تحميل القصة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Title for button that will take you to the Apple News app </Description>
+      <Position>Read More News</Position>
+      <TranslationSet>
+        <base loc="en">Read More News</base>
+        <tran loc="ar">اقرأ المزيد من الأخبار</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Title for Open In Safari button in share sheet </Description>
+      <Position>Open in Safari</Position>
+      <TranslationSet>
+        <base loc="en">Open in Safari</base>
+        <tran loc="ar">فتح في Safari</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Text describing more stories </Description>
+      <Position>Discover More</Position>
+      <TranslationSet>
+        <base loc="en">Discover More</base>
+        <tran loc="ar">اكتشف المزيد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Title for report a concern button in share sheet </Description>
+      <Position>Report a Concern</Position>
+      <TranslationSet>
+        <base loc="en">Report a Concern</base>
+        <tran loc="ar">إبلاغ عن مشكلة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Text describing the next story </Description>
+      <Position>Next Story</Position>
+      <TranslationSet>
+        <base loc="en">Next Story</base>
+        <tran loc="ar">المقالة التالية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Title for Save article button in share sheet </Description>
+      <Position>Save</Position>
+      <TranslationSet>
+        <base loc="en">Save</base>
+        <tran loc="ar">حفظ</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>FeldsparServices/System/Library/PrivateFrameworks/NewsServicesInternal.framework/en.lproj/Localizable.stringsdict</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>/%d hour/hours ago long:dict/hour_ago_long_text:dict/one:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%d hour ago</base>
+        <tran loc="ar">منذ ساعة واحدة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/%d hour/hours ago medium:dict/hour_ago_medium_text:dict/few:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%dh ago</base>
+        <tran loc="ar">منذ %d س</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/%d hour/hours ago medium:dict/hour_ago_medium_text:dict/many:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%dh ago</base>
+        <tran loc="ar">منذ %d س</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/%d hour/hours ago medium:dict/hour_ago_medium_text:dict/one:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%dh ago</base>
+        <tran loc="ar">منذ %d س</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/%d hour/hours ago medium:dict/hour_ago_medium_text:dict/other:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%dh ago</base>
+        <tran loc="ar">منذ %d س</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/%d hour/hours ago medium:dict/hour_ago_medium_text:dict/two:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%dh ago</base>
+        <tran loc="ar">منذ %d س</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/%d hour/hours ago medium:dict/hour_ago_medium_text:dict/zero:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%dh ago</base>
+        <tran loc="ar">منذ %d س</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/%d year/years ago medium:dict/year_ago_medium_text:dict/few:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%dy ago</base>
+        <tran loc="ar">منذ %d ع</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/%d year/years ago medium:dict/year_ago_medium_text:dict/many:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%dy ago</base>
+        <tran loc="ar">منذ %d ع</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/%d year/years ago medium:dict/year_ago_medium_text:dict/one:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%dy ago</base>
+        <tran loc="ar">منذ %d ع</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/%d year/years ago medium:dict/year_ago_medium_text:dict/other:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%dy ago</base>
+        <tran loc="ar">منذ %d ع</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/%d year/years ago medium:dict/year_ago_medium_text:dict/two:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%dy ago</base>
+        <tran loc="ar">منذ %d ع</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/%d year/years ago medium:dict/year_ago_medium_text:dict/zero:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%dy ago</base>
+        <tran loc="ar">منذ %d ع</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/%d minute/minutes ago long:dict/NSStringLocalizedFormatKey:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%#@minute_ago_long_text@</base>
+        <tran loc="ar">%#@minute_ago_long_text@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/%d day/days ago short:dict/day_ago_short_text:dict/few:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%dd</base>
+        <tran loc="ar">‏%d ي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/%d day/days ago short:dict/day_ago_short_text:dict/many:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%dd</base>
+        <tran loc="ar">‏%d ي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/%d day/days ago short:dict/day_ago_short_text:dict/one:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%dd</base>
+        <tran loc="ar">‏%d ي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/%d day/days ago short:dict/day_ago_short_text:dict/other:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%dd</base>
+        <tran loc="ar">‏%d ي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/%d day/days ago short:dict/day_ago_short_text:dict/two:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%dd</base>
+        <tran loc="ar">‏%d ي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/%d day/days ago short:dict/day_ago_short_text:dict/zero:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%dd</base>
+        <tran loc="ar">‏%d ي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/%d week/weeks ago short:dict/week_ago_short_text:dict/few:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%dw</base>
+        <tran loc="ar">‏%d أ</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/%d week/weeks ago short:dict/week_ago_short_text:dict/many:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%dw</base>
+        <tran loc="ar">‏%d أ</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/%d week/weeks ago short:dict/week_ago_short_text:dict/one:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%dw</base>
+        <tran loc="ar">‏%d أ</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/%d week/weeks ago short:dict/week_ago_short_text:dict/other:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%dw</base>
+        <tran loc="ar">‏%d أ</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/%d week/weeks ago short:dict/week_ago_short_text:dict/two:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%dw</base>
+        <tran loc="ar">‏%d أ</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/%d week/weeks ago short:dict/week_ago_short_text:dict/zero:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%dw</base>
+        <tran loc="ar">‏%d أ</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/%d year/years ago long:dict/year_ago_long_text:dict/few:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%d years ago</base>
+        <tran loc="ar">منذ %d أعوام</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/%d year/years ago long:dict/year_ago_long_text:dict/many:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%d years ago</base>
+        <tran loc="ar">منذ %d عامًا</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/%d year/years ago long:dict/year_ago_long_text:dict/other:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%d years ago</base>
+        <tran loc="ar">منذ %d عام</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/%d year/years ago long:dict/year_ago_long_text:dict/two:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%d years ago</base>
+        <tran loc="ar">منذ عامين</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/%d year/years ago long:dict/year_ago_long_text:dict/zero:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%d years ago</base>
+        <tran loc="ar">منذ %d عام</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/%d minute/minutes ago long:dict/minute_ago_long_text:dict/one:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%d minute ago</base>
+        <tran loc="ar">منذ دقيقة واحدة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/%d week/weeks ago short:dict/NSStringLocalizedFormatKey:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%#@week_ago_short_text@</base>
+        <tran loc="ar">%#@week_ago_short_text@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/%d year/years ago short:dict/year_ago_short_text:dict/few:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%dy</base>
+        <tran loc="ar">‏%d ع</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/%d year/years ago short:dict/year_ago_short_text:dict/many:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%dy</base>
+        <tran loc="ar">‏%d ع</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/%d year/years ago short:dict/year_ago_short_text:dict/one:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%dy</base>
+        <tran loc="ar">‏%d ع</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/%d year/years ago short:dict/year_ago_short_text:dict/other:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%dy</base>
+        <tran loc="ar">‏%d ع</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/%d year/years ago short:dict/year_ago_short_text:dict/two:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%dy</base>
+        <tran loc="ar">‏%d ع</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/%d year/years ago short:dict/year_ago_short_text:dict/zero:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%dy</base>
+        <tran loc="ar">‏%d ع</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/NSWidgetMessageForAppOrOSObsolescence:dict/NSStringDeviceSpecificRuleType:dict/iphone:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Update iOS to Load Stories.</base>
+        <tran loc="ar">قم بتحديث iOS لتحميل المقالات.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/NSWidgetMessageForAppOrOSObsolescence:dict/NSStringDeviceSpecificRuleType:dict/ipod:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Update iOS to Load Stories.</base>
+        <tran loc="ar">قم بتحديث iOS لتحميل المقالات.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/%d day/days ago medium:dict/NSStringLocalizedFormatKey:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%#@day_ago_medium_text@</base>
+        <tran loc="ar">%#@day_ago_medium_text@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/%d week/weeks ago long:dict/NSStringLocalizedFormatKey:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%#@week_ago_long_text@</base>
+        <tran loc="ar">%#@week_ago_long_text@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/%d day/days ago long:dict/day_ago_long_text:dict/one:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%d day ago</base>
+        <tran loc="ar">منذ يوم واحد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/%d year/years ago long:dict/NSStringLocalizedFormatKey:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%#@year_ago_long_text@</base>
+        <tran loc="ar">%#@year_ago_long_text@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/%d hour/hours ago short:dict/hour_ago_short_text:dict/few:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%dh</base>
+        <tran loc="ar">‏%d س</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/%d hour/hours ago short:dict/hour_ago_short_text:dict/many:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%dh</base>
+        <tran loc="ar">‏%d س</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/%d hour/hours ago short:dict/hour_ago_short_text:dict/one:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%dh</base>
+        <tran loc="ar">‏%d س</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/%d hour/hours ago short:dict/hour_ago_short_text:dict/other:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%dh</base>
+        <tran loc="ar">‏%d س</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/%d hour/hours ago short:dict/hour_ago_short_text:dict/two:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%dh</base>
+        <tran loc="ar">‏%d س</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/%d hour/hours ago short:dict/hour_ago_short_text:dict/zero:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%dh</base>
+        <tran loc="ar">‏%d س</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/%d week/weeks ago medium:dict/week_ago_medium_text:dict/few:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%dw ago</base>
+        <tran loc="ar">منذ %d أ</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/%d week/weeks ago medium:dict/week_ago_medium_text:dict/many:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%dw ago</base>
+        <tran loc="ar">منذ %d أ</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/%d week/weeks ago medium:dict/week_ago_medium_text:dict/one:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%dw ago</base>
+        <tran loc="ar">منذ %d أ</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/%d week/weeks ago medium:dict/week_ago_medium_text:dict/other:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%dw ago</base>
+        <tran loc="ar">منذ %d أ</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/%d week/weeks ago medium:dict/week_ago_medium_text:dict/two:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%dw ago</base>
+        <tran loc="ar">منذ %d أ</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/%d week/weeks ago medium:dict/week_ago_medium_text:dict/zero:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%dw ago</base>
+        <tran loc="ar">منذ %d أ</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/%d hour/hours ago long:dict/hour_ago_long_text:dict/few:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%d hours ago</base>
+        <tran loc="ar">منذ %d ساعات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/%d hour/hours ago long:dict/hour_ago_long_text:dict/many:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%d hours ago</base>
+        <tran loc="ar">منذ %d ساعة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/%d hour/hours ago long:dict/hour_ago_long_text:dict/other:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%d hours ago</base>
+        <tran loc="ar">منذ %d ساعة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/%d hour/hours ago long:dict/hour_ago_long_text:dict/two:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%d hours ago</base>
+        <tran loc="ar">منذ ساعتين</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/%d hour/hours ago long:dict/hour_ago_long_text:dict/zero:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%d hours ago</base>
+        <tran loc="ar">منذ %d ساعة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/%d day/days ago long:dict/NSStringLocalizedFormatKey:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%#@day_ago_long_text@</base>
+        <tran loc="ar">%#@day_ago_long_text@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/%d day/days ago short:dict/NSStringLocalizedFormatKey:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%#@day_ago_short_text@</base>
+        <tran loc="ar">%#@day_ago_short_text@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/%d year/years ago long:dict/year_ago_long_text:dict/one:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%d year ago</base>
+        <tran loc="ar">منذ عام واحد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/%d week/weeks ago medium:dict/NSStringLocalizedFormatKey:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%#@week_ago_medium_text@</base>
+        <tran loc="ar">%#@week_ago_medium_text@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/%d minute/minutes ago long:dict/minute_ago_long_text:dict/few:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%d minutes ago</base>
+        <tran loc="ar">منذ %d دقائق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/%d minute/minutes ago long:dict/minute_ago_long_text:dict/many:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%d minutes ago</base>
+        <tran loc="ar">منذ %d دقيقة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/%d minute/minutes ago long:dict/minute_ago_long_text:dict/other:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%d minutes ago</base>
+        <tran loc="ar">منذ %d دقيقة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/%d minute/minutes ago long:dict/minute_ago_long_text:dict/two:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%d minutes ago</base>
+        <tran loc="ar">منذ دقيقتين</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/%d minute/minutes ago long:dict/minute_ago_long_text:dict/zero:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%d minutes ago</base>
+        <tran loc="ar">منذ %d دقيقة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/%d week/weeks ago long:dict/week_ago_long_text:dict/one:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%d week ago</base>
+        <tran loc="ar">منذ أسبوع واحد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/%d day/days ago medium:dict/day_ago_medium_text:dict/few:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%dd ago</base>
+        <tran loc="ar">منذ %d ي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/%d day/days ago medium:dict/day_ago_medium_text:dict/many:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%dd ago</base>
+        <tran loc="ar">منذ %d ي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/%d day/days ago medium:dict/day_ago_medium_text:dict/one:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%dd ago</base>
+        <tran loc="ar">منذ %d ي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/%d day/days ago medium:dict/day_ago_medium_text:dict/other:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%dd ago</base>
+        <tran loc="ar">منذ %d ي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/%d day/days ago medium:dict/day_ago_medium_text:dict/two:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%dd ago</base>
+        <tran loc="ar">منذ %d ي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/%d day/days ago medium:dict/day_ago_medium_text:dict/zero:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%dd ago</base>
+        <tran loc="ar">منذ %d ي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/%d year/years ago short:dict/NSStringLocalizedFormatKey:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%#@year_ago_short_text@</base>
+        <tran loc="ar">%#@year_ago_short_text@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/%d minute/minutes ago medium:dict/NSStringLocalizedFormatKey:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%#@minute_ago_medium_text@</base>
+        <tran loc="ar">%#@minute_ago_medium_text@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/%d hour/hours ago long:dict/NSStringLocalizedFormatKey:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%#@hour_ago_long_text@</base>
+        <tran loc="ar">%#@hour_ago_long_text@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/%d week/weeks ago long:dict/week_ago_long_text:dict/few:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%d weeks ago</base>
+        <tran loc="ar">منذ %d أسابيع</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/%d week/weeks ago long:dict/week_ago_long_text:dict/many:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%d weeks ago</base>
+        <tran loc="ar">منذ %d أسبوعًا</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/%d week/weeks ago long:dict/week_ago_long_text:dict/other:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%d weeks ago</base>
+        <tran loc="ar">منذ %d أسبوع</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/%d week/weeks ago long:dict/week_ago_long_text:dict/two:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%d weeks ago</base>
+        <tran loc="ar">منذ أسبوعين</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/%d week/weeks ago long:dict/week_ago_long_text:dict/zero:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%d weeks ago</base>
+        <tran loc="ar">منذ %d أسبوع</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/%d minute/minutes ago short:dict/NSStringLocalizedFormatKey:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%#@minute_ago_short_text@</base>
+        <tran loc="ar">%#@minute_ago_short_text@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/%d minute/minutes ago short:dict/minute_ago_short_text:dict/few:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%dm</base>
+        <tran loc="ar">‏%d د</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/%d minute/minutes ago short:dict/minute_ago_short_text:dict/many:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%dm</base>
+        <tran loc="ar">‏%d د</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/%d minute/minutes ago short:dict/minute_ago_short_text:dict/one:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%dm</base>
+        <tran loc="ar">‏%d د</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/%d minute/minutes ago short:dict/minute_ago_short_text:dict/other:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%dm</base>
+        <tran loc="ar">‏%d د</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/%d minute/minutes ago short:dict/minute_ago_short_text:dict/two:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%dm</base>
+        <tran loc="ar">‏%d د</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/%d minute/minutes ago short:dict/minute_ago_short_text:dict/zero:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%dm</base>
+        <tran loc="ar">‏%d د</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/%d minute/minutes ago medium:dict/minute_ago_medium_text:dict/few:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%dm ago</base>
+        <tran loc="ar">منذ %d د</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/%d minute/minutes ago medium:dict/minute_ago_medium_text:dict/many:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%dm ago</base>
+        <tran loc="ar">منذ %d د</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/%d minute/minutes ago medium:dict/minute_ago_medium_text:dict/one:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%dm ago</base>
+        <tran loc="ar">منذ %d د</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/%d minute/minutes ago medium:dict/minute_ago_medium_text:dict/other:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%dm ago</base>
+        <tran loc="ar">منذ %d د</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/%d minute/minutes ago medium:dict/minute_ago_medium_text:dict/two:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%dm ago</base>
+        <tran loc="ar">منذ %d د</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/%d minute/minutes ago medium:dict/minute_ago_medium_text:dict/zero:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%dm ago</base>
+        <tran loc="ar">منذ %d د</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/%d hour/hours ago medium:dict/NSStringLocalizedFormatKey:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%#@hour_ago_medium_text@</base>
+        <tran loc="ar">%#@hour_ago_medium_text@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/%d year/years ago medium:dict/NSStringLocalizedFormatKey:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%#@year_ago_medium_text@</base>
+        <tran loc="ar">%#@year_ago_medium_text@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/%d day/days ago long:dict/day_ago_long_text:dict/few:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%d days ago</base>
+        <tran loc="ar">منذ %d أيام</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/%d day/days ago long:dict/day_ago_long_text:dict/many:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%d days ago</base>
+        <tran loc="ar">منذ %d يومًا</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/%d day/days ago long:dict/day_ago_long_text:dict/other:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%d days ago</base>
+        <tran loc="ar">منذ %d يوم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/%d day/days ago long:dict/day_ago_long_text:dict/two:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%d days ago</base>
+        <tran loc="ar">منذ يومين</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/%d day/days ago long:dict/day_ago_long_text:dict/zero:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%d days ago</base>
+        <tran loc="ar">منذ %d يوم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/%d hour/hours ago short:dict/NSStringLocalizedFormatKey:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%#@hour_ago_short_text@</base>
+        <tran loc="ar">%#@hour_ago_short_text@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/NSWidgetMessageForAppOrOSObsolescence:dict/NSStringDeviceSpecificRuleType:dict/ipad:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Update iPadOS to Load Stories.</base>
+        <tran loc="ar">قم بتحديث iPadOS لتحميل المقالات.</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>FeldsparServices/System/Library/PrivateFrameworks/NewsCore.framework/en.lproj/Localizable.strings</Filepath>
+    <TextItem>
+      <Description> default paywall title </Description>
+      <Position>Get your favorite magazines and newspapers. All for one price.</Position>
+      <TranslationSet>
+        <base loc="en">Get your favorite magazines and newspapers. All for one price.</base>
+        <tran loc="ar">احصل على جميع مجلاتك وصحفك المفضلة بسعر واحد.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Title for your Briefings when there is only one daily briefing </Description>
+      <Position>Your Briefing</Position>
+      <TranslationSet>
+        <base loc="en">Your Briefing</base>
+        <tran loc="ar">موجزك</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> The description for home-gardening magazines </Description>
+      <Position>home &amp; gardening magazines</Position>
+      <TranslationSet>
+        <base loc="en">home &amp; gardening magazines</base>
+        <tran loc="ar">مجلات المنزل والبستنة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> default paywall description </Description>
+      <Position>No commitment. Plan auto-renews until canceled.</Position>
+      <TranslationSet>
+        <base loc="en">No commitment. Plan auto-renews until canceled.</base>
+        <tran loc="ar">ليس عليك الالتزام. يتم تجديد الخطة تلقائيًا حتى يتم إلغاؤها.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> default button non-trial text </Description>
+      <Position>START READING</Position>
+      <TranslationSet>
+        <base loc="en">START READING</base>
+        <tran loc="ar">بدء القراءة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> The description for men-lifestyle magazines </Description>
+      <Position>men’s lifestyle magazines</Position>
+      <TranslationSet>
+        <base loc="en">men’s lifestyle magazines</base>
+        <tran loc="ar">مجلات أسلوب حياة الرجل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> The description for travel-regional magazines </Description>
+      <Position>travel magazines</Position>
+      <TranslationSet>
+        <base loc="en">travel magazines</base>
+        <tran loc="ar">مجلات السفر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Title for issues in the channel feed </Description>
+      <Position>Recent Issues</Position>
+      <TranslationSet>
+        <base loc="en">Recent Issues</base>
+        <tran loc="ar">مشكلات حديثة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> The description for automotive magazines </Description>
+      <Position>automotive magazines</Position>
+      <TranslationSet>
+        <base loc="en">automotive magazines</base>
+        <tran loc="ar">مجلات السيارات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> default button trial text </Description>
+      <Position>TRY IT FREE</Position>
+      <TranslationSet>
+        <base loc="en">TRY IT FREE</base>
+        <tran loc="ar">التجربة مجانًا</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> The description for health-fitness magazines </Description>
+      <Position>health &amp; fitness magazines</Position>
+      <TranslationSet>
+        <base loc="en">health &amp; fitness magazines</base>
+        <tran loc="ar">مجلات الصحة واللياقة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> The description for women-lifestyle magazines </Description>
+      <Position>women’s lifestyle magazines</Position>
+      <TranslationSet>
+        <base loc="en">women’s lifestyle magazines</base>
+        <tran loc="ar">مجلات أسلوب حياة المرأة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Title for draft issues in the channel feed </Description>
+      <Position>Draft Issues</Position>
+      <TranslationSet>
+        <base loc="en">Draft Issues</base>
+        <tran loc="ar">مشاكلات في المسودة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> The description for news-politics magazines </Description>
+      <Position>news &amp; politics magazines</Position>
+      <TranslationSet>
+        <base loc="en">news &amp; politics magazines</base>
+        <tran loc="ar">مجلات الأخبار والسياسة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Name of the For You group in Today </Description>
+      <Position>For You</Position>
+      <TranslationSet>
+        <base loc="en">For You</base>
+        <tran loc="ar">لك</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> The description for sports-recreation magazines </Description>
+      <Position>sports &amp; recreation magazines</Position>
+      <TranslationSet>
+        <base loc="en">sports &amp; recreation magazines</base>
+        <tran loc="ar">مجلات الرياضة والترفيه</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> default paid badge title </Description>
+      <Position>News+</Position>
+      <TranslationSet>
+        <base loc="en">News+</base>
+        <tran loc="ar">‪News+‬</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> title of channel soft paywall </Description>
+      <Position>Read ${channelName} and your favorite magazines and newspapers.</Position>
+      <TranslationSet>
+        <base loc="en">Read ${channelName} and your favorite magazines and newspapers.</base>
+        <tran loc="ar">اقرأ ${channelName} بالإضافة إلى مجلاتك وصحفك المفضلة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 'Saved Stories' saved stories header label </Description>
+      <Position>Saved Stories</Position>
+      <TranslationSet>
+        <base loc="en">Saved Stories</base>
+        <tran loc="ar">المقالات المحفوظة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> The description for science-technology magazines </Description>
+      <Position>science &amp; technology magazines</Position>
+      <TranslationSet>
+        <base loc="en">science &amp; technology magazines</base>
+        <tran loc="ar">مجلات العلوم والتكنولوجيا</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 'Top Stories' top stories header label </Description>
+      <Position>Top Stories</Position>
+      <TranslationSet>
+        <base loc="en">Top Stories</base>
+        <tran loc="ar">أهم المقالات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> The description for food-cooking magazines </Description>
+      <Position>food &amp; cooking magazines</Position>
+      <TranslationSet>
+        <base loc="en">food &amp; cooking magazines</base>
+        <tran loc="ar">مجلات الطعام والطبخ</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Title for the drafts feed. </Description>
+      <Position>Previews</Position>
+      <TranslationSet>
+        <base loc="en">Previews</base>
+        <tran loc="ar">المعاينات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Toolbar title for Today feed. </Description>
+      <Position>Today</Position>
+      <TranslationSet>
+        <base loc="en">Today</base>
+        <tran loc="ar">اليوم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Title for your Briefings when there is more than one daily briefing </Description>
+      <Position>Your Briefings</Position>
+      <TranslationSet>
+        <base loc="en">Your Briefings</base>
+        <tran loc="ar">مواجزك</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> The description for kids-parenting magazines </Description>
+      <Position>kids &amp; parenting magazines</Position>
+      <TranslationSet>
+        <base loc="en">kids &amp; parenting magazines</base>
+        <tran loc="ar">مجلات التربية والأبناء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> default subscription button text </Description>
+      <Position>GET STARTED</Position>
+      <TranslationSet>
+        <base loc="en">GET STARTED</base>
+        <tran loc="ar">البدء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> The description for crafts-hobby magazines </Description>
+      <Position>crafts &amp; hobby magazines</Position>
+      <TranslationSet>
+        <base loc="en">crafts &amp; hobby magazines</base>
+        <tran loc="ar">مجلات الحرف والهوايات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 'Trending Stories' trending stories header label </Description>
+      <Position>Trending Stories</Position>
+      <TranslationSet>
+        <base loc="en">Trending Stories</base>
+        <tran loc="ar">المقالات الشائعة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 'Featured Stories' featured stories widget header label </Description>
+      <Position>Featured Stories</Position>
+      <TranslationSet>
+        <base loc="en">Featured Stories</base>
+        <tran loc="ar">المقالات المميزة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> The name for a feed containing drafts </Description>
+      <Position>Drafts</Position>
+      <TranslationSet>
+        <base loc="en">Drafts</base>
+        <tran loc="ar">المسودات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> The description for entertainment magazines </Description>
+      <Position>entertainment magazines</Position>
+      <TranslationSet>
+        <base loc="en">entertainment magazines</base>
+        <tran loc="ar">مجلات الترفيه</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> The description for fashion-style magazines </Description>
+      <Position>fashion &amp; style magazines</Position>
+      <TranslationSet>
+        <base loc="en">fashion &amp; style magazines</base>
+        <tran loc="ar">مجلات الأزياء والموضة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> The description for business-finance magazines </Description>
+      <Position>business &amp; finance magazines</Position>
+      <TranslationSet>
+        <base loc="en">business &amp; finance magazines</base>
+        <tran loc="ar">مجلات المال والأعمال</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Name of the Latest Stories group in Today
+   Name of the recent Stories in channel feed  </Description>
+      <Position>Latest Stories</Position>
+      <TranslationSet>
+        <base loc="en">Latest Stories</base>
+        <tran loc="ar">أحدث مقالات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> default free badge title </Description>
+      <Position>Free</Position>
+      <TranslationSet>
+        <base loc="en">Free</base>
+        <tran loc="ar">مجانًا</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Name of the More For You group in Today </Description>
+      <Position>More For You</Position>
+      <TranslationSet>
+        <base loc="en">More For You</base>
+        <tran loc="ar">المزيد لك</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> title of SMALL magazine feed paywall </Description>
+      <Position>Get your favorite magazines and newspapers.\nAll for one price.</Position>
+      <TranslationSet>
+        <base loc="en">Get your favorite magazines and newspapers.\nAll for one price.</base>
+        <tran loc="ar">احصل على جميع مجلاتك وصحفك المفضلة.\nبسعر واحد.</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>FeldsparServices/System/Library/PrivateFrameworks/NewsServicesInternal.framework/en.lproj/Localizable.strings</Filepath>
+    <TextItem>
+      <Description> Represents article\'s published time as minute ago in long format </Description>
+      <Position>%d minute/minutes ago long</Position>
+      <TranslationSet>
+        <base loc="en">%d minute/minutes ago long</base>
+        <tran loc="ar">منذ %d دقيقة/دقائق طويل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Today Widget badge used to indicate how many videos a video section in the widget has </Description>
+      <Position>%lu of %lu videos</Position>
+      <TranslationSet>
+        <base loc="en">%1$lu of %2$lu videos</base>
+        <tran loc="ar">‏%1$lu من ‏%2$lu من الفيديوهات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Represents article\'s published time as years ago in medium format </Description>
+      <Position>%d year/years ago medium</Position>
+      <TranslationSet>
+        <base loc="en">%d year/years ago medium</base>
+        <tran loc="ar">منذ %d عام/أعوام متوسط</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Today widget message when it couldn't connect to the internet. </Description>
+      <Position>Apple News Is Offline</Position>
+      <TranslationSet>
+        <base loc="en">Apple News Is Offline</base>
+        <tran loc="ar">‏Apple News غير متصلة بالإنترنت</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Represents article\'s published time as minutes ago in medium format </Description>
+      <Position>%d minute/minutes ago medium</Position>
+      <TranslationSet>
+        <base loc="en">%d minute/minutes ago medium</base>
+        <tran loc="ar">منذ %d دقيقة/دقائق متوسط</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Today widget button title for button that opens the Today feed in News </Description>
+      <Position>Read Stories in Apple News</Position>
+      <TranslationSet>
+        <base loc="en">Read Stories in Apple News</base>
+        <tran loc="ar">قراءة المقالات في Apple News</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Represents article\'s published time as days ago in long format </Description>
+      <Position>%d day/days ago long</Position>
+      <TranslationSet>
+        <base loc="en">%d day/days ago long</base>
+        <tran loc="ar">منذ %d يوم/أيام طويل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Message when no content to show in Today Widget </Description>
+      <Position>No Stories</Position>
+      <TranslationSet>
+        <base loc="en">No Stories</base>
+        <tran loc="ar">لا توجد مقالات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Represents article\'s published time as days ago in medium format </Description>
+      <Position>%d day/days ago medium</Position>
+      <TranslationSet>
+        <base loc="en">%d day/days ago medium</base>
+        <tran loc="ar">منذ %d يوم/أيام متوسط</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Represents article\'s published time as hours ago in medium format </Description>
+      <Position>%d hour/hours ago medium</Position>
+      <TranslationSet>
+        <base loc="en">%d hour/hours ago medium</base>
+        <tran loc="ar">منذ %d ساعة/ساعات متوسط</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Today Widget message when using an older device </Description>
+      <Position>Stories Unavailable on Older Devices</Position>
+      <TranslationSet>
+        <base loc="en">Stories Unavailable on Older Devices</base>
+        <tran loc="ar">لا تتوفر المقالات على الأجهزة القديمة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Today Widget message when News not available for the region </Description>
+      <Position>Can’t Load Stories in Current Region</Position>
+      <TranslationSet>
+        <base loc="en">Can’t Load Stories in Current Region</base>
+        <tran loc="ar">لا يمكن تحميل المقالات في المنطقة الحالية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Represents article\'s published year as minutes ago in long format </Description>
+      <Position>%d year/years ago long</Position>
+      <TranslationSet>
+        <base loc="en">%d year/years ago long</base>
+        <tran loc="ar">منذ %d عام/أعوام طويل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Default subtitle displayed at the end of the Up Next section in the widget's video player </Description>
+      <Position>Watch more great videos in Apple News</Position>
+      <TranslationSet>
+        <base loc="en">Watch more great videos in Apple News</base>
+        <tran loc="ar">شاهد المزيد من مقاطع الفيديو الرائعة في Apple News</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Title of the placeholder section in Face Gallery </Description>
+      <Position>Editors’ Picks</Position>
+      <TranslationSet>
+        <base loc="en">Editors’ Picks</base>
+        <tran loc="ar">اختيارات المحررين</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> String shown in place of embed when embed fails to load. </Description>
+      <Position>Couldn’t Load Content</Position>
+      <TranslationSet>
+        <base loc="en">Couldn’t Load Content</base>
+        <tran loc="ar">تعذر تحميل المحتوى</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Represents article\'s published time as weeks ago in medium format </Description>
+      <Position>%d week/weeks ago medium</Position>
+      <TranslationSet>
+        <base loc="en">%d week/weeks ago medium</base>
+        <tran loc="ar">منذ %d أسبوع/أسابيع متوسط</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Today Widget message when using an older OS version </Description>
+      <Position>NSWidgetMessageForAppOrOSObsolescence</Position>
+      <TranslationSet>
+        <base loc="en">NSWidgetMessageForAppOrOSObsolescence</base>
+        <tran loc="ar">NSWidgetMessageForAppOrOSObsolescence</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Represents article\'s published time as now </Description>
+      <Position>now</Position>
+      <TranslationSet>
+        <base loc="en">now</base>
+        <tran loc="ar">الآن</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Represents article\'s published time as week ago in long format </Description>
+      <Position>%d week/weeks ago long</Position>
+      <TranslationSet>
+        <base loc="en">%d week/weeks ago long</base>
+        <tran loc="ar">منذ %d أسبوع/أسابيع طويل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Represents article\'s published time as hour ago in long format </Description>
+      <Position>%d hour/hours ago long</Position>
+      <TranslationSet>
+        <base loc="en">%d hour/hours ago long</base>
+        <tran loc="ar">منذ %d ساعة/ساعات طويل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Today Widget message when there is a server failure </Description>
+      <Position>Couldn’t Load Stories</Position>
+      <TranslationSet>
+        <base loc="en">Couldn’t Load Stories</base>
+        <tran loc="ar">تعذر تحميل المقالات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Title of the placeholder headline in Face Gallery </Description>
+      <Position>New Planets Found</Position>
+      <TranslationSet>
+        <base loc="en">New Planets Found</base>
+        <tran loc="ar">تم العثور على كواكب جديدة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Default title displayed at the end of the Up Next section in the widget's video player </Description>
+      <Position>Discover More</Position>
+      <TranslationSet>
+        <base loc="en">Discover More</base>
+        <tran loc="ar">اكتشف المزيد</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>FeldsparServices/System/Library/PrivateFrameworks/Silex.framework/en.lproj/Localizable.stringsdict</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>/SXTapToRetry:dict/NSStringDeviceSpecificRuleType:dict/mac:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Couldn’t Load Content
+Click to retry.</base>
+        <tran loc="ar">تعذر تحميل المحتوى
+انقر لإعادة المحاولة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/SXTapToRetry:dict/NSStringDeviceSpecificRuleType:dict/ipad:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Couldn’t Load Content
+Tap to retry.</base>
+        <tran loc="ar">تعذر تحميل المحتوى
+اضغط لإعادة المحاولة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/SXTapToRetry:dict/NSStringDeviceSpecificRuleType:dict/iphone:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Couldn’t Load Content
+Tap to retry.</base>
+        <tran loc="ar">تعذر تحميل المحتوى
+اضغط لإعادة المحاولة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/SXTapToRetry:dict/NSStringDeviceSpecificRuleType:dict/ipod:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Couldn’t Load Content
+Tap to retry.</base>
+        <tran loc="ar">تعذر تحميل المحتوى
+اضغط لإعادة المحاولة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/SXRequirePermissionToAccessCalendar:dict/NSStringDeviceSpecificRuleType:dict/mac:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Apple News doesn’t have permission to access your calendar. You can change this in System Preferences.</base>
+        <tran loc="ar">لا يمتلك Apple News الإذن بالوصول إلى تقويمك. يمكنك تغيير ذلك في تفضيلات النظام.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/SXLinkActionOpen:dict/NSStringDeviceSpecificRuleType:dict/mac:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Open Link</base>
+        <tran loc="ar">فتح الرابط</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/SXRequirePermissionToAccessCalendar:dict/NSStringDeviceSpecificRuleType:dict/ipad:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Apple News doesn’t have permission to access your calendar. You can change this in Settings &gt; Privacy &gt; Calendars.</base>
+        <tran loc="ar">لا يمتلك Apple News الإذن بالوصول إلى تقويمك. يمكنك تغيير ذلك في الإعدادات &gt; الخصوصية &gt; التقويمات.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/SXRequirePermissionToAccessCalendar:dict/NSStringDeviceSpecificRuleType:dict/iphone:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Apple News doesn’t have permission to access your calendar. You can change this in Settings &gt; Privacy &gt; Calendars.</base>
+        <tran loc="ar">لا يمتلك Apple News الإذن بالوصول إلى تقويمك. يمكنك تغيير ذلك في الإعدادات &gt; الخصوصية &gt; التقويمات.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/SXRequirePermissionToAccessCalendar:dict/NSStringDeviceSpecificRuleType:dict/ipod:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Apple News doesn’t have permission to access your calendar. You can change this in Settings &gt; Privacy &gt; Calendars.</base>
+        <tran loc="ar">لا يمتلك Apple News الإذن بالوصول إلى تقويمك. يمكنك تغيير ذلك في الإعدادات &gt; الخصوصية &gt; التقويمات.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/SXLinkActionOpen:dict/NSStringDeviceSpecificRuleType:dict/ipad:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Open</base>
+        <tran loc="ar">فتح</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/SXLinkActionOpen:dict/NSStringDeviceSpecificRuleType:dict/iphone:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Open</base>
+        <tran loc="ar">فتح</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/SXLinkActionOpen:dict/NSStringDeviceSpecificRuleType:dict/ipod:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Open</base>
+        <tran loc="ar">فتح</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>FeldsparServices/System/Library/PrivateFrameworks/NewsCore.framework/en.lproj/Localizable.stringsdict</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>/FCSuggestedByLocationChannel:dict/NSStringDeviceSpecificRuleType:dict/mac:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Your local newspaper. Click + to follow.</base>
+        <tran loc="ar">صحيفتك المحلية. اضغط على + للمتابعة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/FCSuggestedForYou:dict/NSStringDeviceSpecificRuleType:dict/ipad:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Suggested for you. Tap + to follow.</base>
+        <tran loc="ar">مقترح لك. اضغط على + للمتابعة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/FCSuggestedForYou:dict/NSStringDeviceSpecificRuleType:dict/iphone:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Suggested for you. Tap + to follow.</base>
+        <tran loc="ar">مقترح لك. اضغط على + للمتابعة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/FCSuggestedForYou:dict/NSStringDeviceSpecificRuleType:dict/ipod:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Suggested for you. Tap + to follow.</base>
+        <tran loc="ar">مقترح لك. اضغط على + للمتابعة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/FCSuggestedByLocationTopic:dict/NSStringDeviceSpecificRuleType:dict/ipad:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Local news suggested for you. Tap + to follow.</base>
+        <tran loc="ar">أخبار محلية مقترحة لك. اضغط على + للمتابعة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/FCSuggestedByLocationTopic:dict/NSStringDeviceSpecificRuleType:dict/iphone:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Local news suggested for you. Tap + to follow.</base>
+        <tran loc="ar">أخبار محلية مقترحة لك. اضغط على + للمتابعة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/FCSuggestedByLocationTopic:dict/NSStringDeviceSpecificRuleType:dict/ipod:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Local news suggested for you. Tap + to follow.</base>
+        <tran loc="ar">أخبار محلية مقترحة لك. اضغط على + للمتابعة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/FCSuggestedForYou:dict/NSStringDeviceSpecificRuleType:dict/mac:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Suggested for you. Click + to follow.</base>
+        <tran loc="ar">مقترح لك. اضغط على + للمتابعة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/FCTapHeartToFollow:dict/NSStringDeviceSpecificRuleType:dict/ipad:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Love %@? Tap + to follow.</base>
+        <tran loc="ar">هل تحب %@؟ اضغط على + للمتابعة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/FCTapHeartToFollow:dict/NSStringDeviceSpecificRuleType:dict/iphone:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Love %@? Tap + to follow.</base>
+        <tran loc="ar">هل تحب %@؟ اضغط على + للمتابعة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/FCTapHeartToFollow:dict/NSStringDeviceSpecificRuleType:dict/ipod:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Love %@? Tap + to follow.</base>
+        <tran loc="ar">هل تحب %@؟ اضغط على + للمتابعة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/FCSuggestedByLocationChannel:dict/NSStringDeviceSpecificRuleType:dict/ipad:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Your local newspaper. Tap + to follow.</base>
+        <tran loc="ar">صحيفتك المحلية. اضغط على + للمتابعة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/FCSuggestedByLocationChannel:dict/NSStringDeviceSpecificRuleType:dict/iphone:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Your local newspaper. Tap + to follow.</base>
+        <tran loc="ar">صحيفتك المحلية. اضغط على + للمتابعة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/FCSuggestedByLocationChannel:dict/NSStringDeviceSpecificRuleType:dict/ipod:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Your local newspaper. Tap + to follow.</base>
+        <tran loc="ar">صحيفتك المحلية. اضغط على + للمتابعة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/FCSuggestedByLocationTopic:dict/NSStringDeviceSpecificRuleType:dict/mac:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Local news suggested for you. Click + to follow.</base>
+        <tran loc="ar">أخبار محلية مقترحة لك. اضغط على + للمتابعة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/FCTapHeartToFollow:dict/NSStringDeviceSpecificRuleType:dict/mac:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Love %@? Click + to follow.</base>
+        <tran loc="ar">هل تحب %@؟ اضغط على + للمتابعة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/FCSuggestedBySiri:dict/NSStringDeviceSpecificRuleType:dict/ipad:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Suggested by Siri. Tap + to follow.</base>
+        <tran loc="ar">مقترح من Siri. اضغط على + للمتابعة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/FCSuggestedBySiri:dict/NSStringDeviceSpecificRuleType:dict/iphone:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Suggested by Siri. Tap + to follow.</base>
+        <tran loc="ar">مقترح من Siri. اضغط على + للمتابعة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/FCSuggestedBySiri:dict/NSStringDeviceSpecificRuleType:dict/ipod:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Suggested by Siri. Tap + to follow.</base>
+        <tran loc="ar">مقترح من Siri. اضغط على + للمتابعة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/FCSuggestedBySiri:dict/NSStringDeviceSpecificRuleType:dict/mac:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Suggested by Siri. Click + to follow.</base>
+        <tran loc="ar">مقترح من Siri. اضغط على + للمتابعة.</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>FeldsparServices/System/Library/PrivateFrameworks/NewsFeedLayout.framework/en.lproj/Localizable.stringsdict</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>/NFLSiriSuggestionsPlacardDescription:dict/NSStringDeviceSpecificRuleType:dict/ipad:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Siri suggests stories, channels, and topics based on Safari and app usage. You can change this in Settings.</base>
+        <tran loc="ar">يقترح Siri المقالات والقنوات والموضوعات استنادًا إلى استخدام Safari والتطبيقات، ويمكنك تغيير ذلك من الإعدادات.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/NFLSiriSuggestionsPlacardDescription:dict/NSStringDeviceSpecificRuleType:dict/iphone:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Siri suggests stories, channels, and topics based on Safari and app usage. You can change this in Settings.</base>
+        <tran loc="ar">يقترح Siri المقالات والقنوات والموضوعات استنادًا إلى استخدام Safari والتطبيقات، ويمكنك تغيير ذلك من الإعدادات.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/NFLSiriSuggestionsPlacardDescription:dict/NSStringDeviceSpecificRuleType:dict/ipod:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Siri suggests stories, channels, and topics based on Safari and app usage. You can change this in Settings.</base>
+        <tran loc="ar">يقترح Siri المقالات والقنوات والموضوعات استنادًا إلى استخدام Safari والتطبيقات، ويمكنك تغيير ذلك من الإعدادات.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/NFLSiriSuggestionsPlacardDescription:dict/NSStringDeviceSpecificRuleType:dict/mac:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Siri suggests stories, channels, and topics based on Safari and app usage. You can change this in System Preferences.</base>
+        <tran loc="ar">يقترح Siri المقالات والقنوات والموضوعات استنادًا إلى استخدام Safari والتطبيقات، ويمكنك تغيير ذلك من تفضيلات النظام.</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>FeldsparServices/System/Library/PrivateFrameworks/SilexVideo.framework/en.lproj/Localizable.stringsdict</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>/Skip in %lu second(s):dict/seconds:dict/one:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Skip in %lu second</base>
+        <tran loc="ar">تخطي خلال ثانية واحدة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/Skip in %lu second(s):dict/NSStringLocalizedFormatKey:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%#@seconds@</base>
+        <tran loc="ar">%#@seconds@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/Skip in %lu second(s):dict/seconds:dict/few:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Skip in %lu seconds</base>
+        <tran loc="ar">تخطي خلال %lu ثوانٍ</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/Skip in %lu second(s):dict/seconds:dict/many:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Skip in %lu seconds</base>
+        <tran loc="ar">تخطي خلال %lu ثانية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/Skip in %lu second(s):dict/seconds:dict/other:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Skip in %lu seconds</base>
+        <tran loc="ar">تخطي خلال %lu ثانية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/Skip in %lu second(s):dict/seconds:dict/two:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Skip in %lu seconds</base>
+        <tran loc="ar">تخطي خلال ثانيتين</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/Skip in %lu second(s):dict/seconds:dict/zero:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Skip in %lu seconds</base>
+        <tran loc="ar">تخطي خلال %lu ثانية</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>FeldsparServices/System/Library/PrivateFrameworks/SilexVideo.framework/en.lproj/Localizable.strings</Filepath>
+    <TextItem>
+      <Description> Accessibility hint for the video play button </Description>
+      <Position>Double tap to begin video playback</Position>
+      <TranslationSet>
+        <base loc="en">Double tap to begin video playback</base>
+        <tran loc="ar">اضغط مرتين لبدء تشغيل الفيديو</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Header title for now playing video </Description>
+      <Position>now playing</Position>
+      <TranslationSet>
+        <base loc="en">now playing</base>
+        <tran loc="ar">قيد التشغيل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Title of the 'learn more' button placed on video advertisements </Description>
+      <Position>LEARN MORE</Position>
+      <TranslationSet>
+        <base loc="en">LEARN MORE</base>
+        <tran loc="ar">معرفة المزيد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> The title of the button indicating the user can tap this to show the iAd privacy statement </Description>
+      <Position>Ad</Position>
+      <TranslationSet>
+        <base loc="en">Ad</base>
+        <tran loc="ar">إعلان</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Format for the title indicating the remaining time a user must wait before being able to skip the video ad </Description>
+      <Position>SKIP IN %lu</Position>
+      <TranslationSet>
+        <base loc="en">SKIP IN %lu</base>
+        <tran loc="ar">التخطي خلال %lu</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Accessibility label for the video play button </Description>
+      <Position>Play</Position>
+      <TranslationSet>
+        <base loc="en">Play</base>
+        <tran loc="ar">تشغيل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Accessibility action to initiate a drag on an element for drag-and-drop. </Description>
+      <Position>Drag Item</Position>
+      <TranslationSet>
+        <base loc="en">Drag Item</base>
+        <tran loc="ar">سحب العنصر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Accessibility description for the action to lookup selected text </Description>
+      <Position>Lookup</Position>
+      <TranslationSet>
+        <base loc="en">Lookup</base>
+        <tran loc="ar">Lookup</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Accessibility description for the action to copy text </Description>
+      <Position>Copy</Position>
+      <TranslationSet>
+        <base loc="en">Copy</base>
+        <tran loc="ar">نسخ</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Title indicating that the currently playing ad is ready to be skip </Description>
+      <Position>SKIP</Position>
+      <TranslationSet>
+        <base loc="en">SKIP</base>
+        <tran loc="ar">التخطي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Accessibility label for the share button </Description>
+      <Position>Share</Position>
+      <TranslationSet>
+        <base loc="en">Share</base>
+        <tran loc="ar">مشاركة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Accessibility description for the action to select all text </Description>
+      <Position>Select all</Position>
+      <TranslationSet>
+        <base loc="en">Select all</base>
+        <tran loc="ar">تحديد الكل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Header title for the Up Next button </Description>
+      <Position>Up Next</Position>
+      <TranslationSet>
+        <base loc="en">Up Next</base>
+        <tran loc="ar">التالي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Accessibility action to initiate a drag on an image for drag-and-drop. </Description>
+      <Position>Drag Image</Position>
+      <TranslationSet>
+        <base loc="en">Drag Image</base>
+        <tran loc="ar">اسحب الصورة</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>FeldsparServices/System/Library/PrivateFrameworks/Silex.framework/en.lproj/Localizable.strings</Filepath>
+    <TextItem>
+      <Description> Accessibility contextual label for the SXComponentRoleAuthor role. </Description>
+      <Position>Author</Position>
+      <TranslationSet>
+        <base loc="en">Author</base>
+        <tran loc="ar">المؤلف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Link action Open alert title </Description>
+      <Position>SXLinkActionOpen</Position>
+      <TranslationSet>
+        <base loc="en">SXLinkActionOpen</base>
+        <tran loc="ar">SXLinkActionOpen</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Accessibility contextual label for the SXComponentRolePhoto role. </Description>
+      <Position>Photo</Position>
+      <TranslationSet>
+        <base loc="en">Photo</base>
+        <tran loc="ar">صورة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Link action Copy alert title </Description>
+      <Position>Copy Link</Position>
+      <TranslationSet>
+        <base loc="en">Copy Link</base>
+        <tran loc="ar">نسخ الرابط</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Action for tapping on an subscription link or button
+   Default text for a subscribe button
+   Subscribe action of WebCal link </Description>
+      <Position>Subscribe</Position>
+      <TranslationSet>
+        <base loc="en">Subscribe</base>
+        <tran loc="ar">اشتراك</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Accessibility contextual label formatter for heading roles </Description>
+      <Position>Heading level %@</Position>
+      <TranslationSet>
+        <base loc="en">Heading level %@</base>
+        <tran loc="ar">مستوى العنوان %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Accessibility contextual label for the close button role. </Description>
+      <Position>Close Button</Position>
+      <TranslationSet>
+        <base loc="en">Close Button</base>
+        <tran loc="ar">زر إغلاق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Segmented control button title of the standard map type </Description>
+      <Position>Standard</Position>
+      <TranslationSet>
+        <base loc="en">Standard</base>
+        <tran loc="ar">قياسي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Accessibility contextual label for the SXComponentRoleHeading role. </Description>
+      <Position>Heading</Position>
+      <TranslationSet>
+        <base loc="en">Heading</base>
+        <tran loc="ar">عنوان</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Done button for fullscreen images </Description>
+      <Position>Done</Position>
+      <TranslationSet>
+        <base loc="en">Done</base>
+        <tran loc="ar">تم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> String displayed when the thumbnail of a quick look component fails to load </Description>
+      <Position>Failed to load thumbnail</Position>
+      <TranslationSet>
+        <base loc="en">Failed to load thumbnail</base>
+        <tran loc="ar">فشل تحميل الصورة المصغرة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Accessibility contextual label for the SXComponentRoleMusic role. </Description>
+      <Position>Music</Position>
+      <TranslationSet>
+        <base loc="en">Music</base>
+        <tran loc="ar">الموسيقى</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Accessibility contextual label for the link button role. </Description>
+      <Position>Link Button</Position>
+      <TranslationSet>
+        <base loc="en">Link Button</base>
+        <tran loc="ar">زر رابط</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Message shown when quick look assets fail to load.
+   Message shown when web content fails to load. </Description>
+      <Position>SXTapToRetry</Position>
+      <TranslationSet>
+        <base loc="en">SXTapToRetry</base>
+        <tran loc="ar">SXTapToRetry</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Accessibility contextual label for the SXComponentRoleTitle role. </Description>
+      <Position>Title</Position>
+      <TranslationSet>
+        <base loc="en">Title</base>
+        <tran loc="ar">العنوان</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> OK action of dialog shown when access to the calender is denied </Description>
+      <Position>OK</Position>
+      <TranslationSet>
+        <base loc="en">OK</base>
+        <tran loc="ar">موافق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Call action FaceTime Audio alert title </Description>
+      <Position>FaceTime Audio</Position>
+      <TranslationSet>
+        <base loc="en">FaceTime Audio</base>
+        <tran loc="ar">‏FaceTime صوتي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Accessibility contextual label for the button role. </Description>
+      <Position>Button</Position>
+      <TranslationSet>
+        <base loc="en">Button</base>
+        <tran loc="ar">زر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Email action New Message alert title </Description>
+      <Position>New Message</Position>
+      <TranslationSet>
+        <base loc="en">New Message</base>
+        <tran loc="ar">رسالة جديدة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Accessibility contextual label for the SXComponentRoleFigure role. </Description>
+      <Position>Figure</Position>
+      <TranslationSet>
+        <base loc="en">Figure</base>
+        <tran loc="ar">شكل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Segmented control button title of the satellite map type </Description>
+      <Position>Satellite</Position>
+      <TranslationSet>
+        <base loc="en">Satellite</base>
+        <tran loc="ar">قمر صناعي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Accessibility contextual label for the SXComponentRoleCaption role. </Description>
+      <Position>Caption</Position>
+      <TranslationSet>
+        <base loc="en">Caption</base>
+        <tran loc="ar">الشرح المكتوب لأحداث العرض</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Format for the title indicating the remaining time a user must wait before being able to skip the video ad </Description>
+      <Position>SKIP IN %lu</Position>
+      <TranslationSet>
+        <base loc="en">SKIP IN %lu</base>
+        <tran loc="ar">التخطي خلال %lu</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Cancel button title for Apple News Format actions alert </Description>
+      <Position>Cancel</Position>
+      <TranslationSet>
+        <base loc="en">Cancel</base>
+        <tran loc="ar">إلغاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Segmented control button title of the hybrid map type </Description>
+      <Position>Hybrid</Position>
+      <TranslationSet>
+        <base loc="en">Hybrid</base>
+        <tran loc="ar">مختلط</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Accessibility contextual label for the SXComponentRoleIssueCover role. </Description>
+      <Position>Issue Cover</Position>
+      <TranslationSet>
+        <base loc="en">Issue Cover</base>
+        <tran loc="ar">غلاف الإصدار</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Accessibility contextual label for the SXComponentRolePortrait role. </Description>
+      <Position>Portrait</Position>
+      <TranslationSet>
+        <base loc="en">Portrait</base>
+        <tran loc="ar">رأسي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Message of dialog shown when access to the calender is denied </Description>
+      <Position>SXRequirePermissionToAccessCalendar</Position>
+      <TranslationSet>
+        <base loc="en">SXRequirePermissionToAccessCalendar</base>
+        <tran loc="ar">SXRequirePermissionToAccessCalendar</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Call action Message alert title </Description>
+      <Position>Send Message</Position>
+      <TranslationSet>
+        <base loc="en">Send Message</base>
+        <tran loc="ar">إرسال رسالة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Accessibility action to initiate a drag on an element for drag-and-drop. </Description>
+      <Position>Drag Item</Position>
+      <TranslationSet>
+        <base loc="en">Drag Item</base>
+        <tran loc="ar">سحب العنصر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Event action 'Create Event' alert title </Description>
+      <Position>Create Event</Position>
+      <TranslationSet>
+        <base loc="en">Create Event</base>
+        <tran loc="ar">إنشاء حدث</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Accessibility contextual label for the SXComponentRoleByline role. </Description>
+      <Position>Byline</Position>
+      <TranslationSet>
+        <base loc="en">Byline</base>
+        <tran loc="ar">العنوان الثانوي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Action for closing a modally presented article </Description>
+      <Position>Close</Position>
+      <TranslationSet>
+        <base loc="en">Close</base>
+        <tran loc="ar">إغلاق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Unable to load embedded video content
+   Unable to load Twitter or Instagram </Description>
+      <Position>Couldn’t Load Content</Position>
+      <TranslationSet>
+        <base loc="en">Couldn’t Load Content</base>
+        <tran loc="ar">تعذر تحميل المحتوى</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Title of the accessibility rotor that allows a user to navigate to audio and visual components in an article. </Description>
+      <Position>Audio/Video</Position>
+      <TranslationSet>
+        <base loc="en">Audio/Video</base>
+        <tran loc="ar">صوت/فيديو</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Call action Add to Contacts alert title
+   Email action Add to Contacts alert title </Description>
+      <Position>Add to Contacts</Position>
+      <TranslationSet>
+        <base loc="en">Add to Contacts</base>
+        <tran loc="ar">إضافة إلى جهات الاتصال</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Accessibility contextual label for the SXComponentRoleLogo role. </Description>
+      <Position>Logo</Position>
+      <TranslationSet>
+        <base loc="en">Logo</base>
+        <tran loc="ar">الشعار</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Accessibility contextual label for the SXComponentRoleAudio role. </Description>
+      <Position>Audio</Position>
+      <TranslationSet>
+        <base loc="en">Audio</base>
+        <tran loc="ar">صوت</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Accessibility description for the action to lookup selected text </Description>
+      <Position>Lookup</Position>
+      <TranslationSet>
+        <base loc="en">Lookup</base>
+        <tran loc="ar">بحث عن</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Accessibility contextual label for the SXComponentRoleIllustrator role. </Description>
+      <Position>Illustrator</Position>
+      <TranslationSet>
+        <base loc="en">Illustrator</base>
+        <tran loc="ar">رسام</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Accessibility description for the action to copy text
+   Call action Copy alert title
+   Email action Copy alert title </Description>
+      <Position>Copy</Position>
+      <TranslationSet>
+        <base loc="en">Copy</base>
+        <tran loc="ar">نسخ</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Title indicating that the currently playing ad is ready to be skip </Description>
+      <Position>SKIP</Position>
+      <TranslationSet>
+        <base loc="en">SKIP</base>
+        <tran loc="ar">التخطي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Accessibility contextual label for the SXComponentRolePhotographer role. </Description>
+      <Position>Photographer</Position>
+      <TranslationSet>
+        <base loc="en">Photographer</base>
+        <tran loc="ar">مصور</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Accessibility contextual label for the SXComponentRoleQuote role. </Description>
+      <Position>Quote</Position>
+      <TranslationSet>
+        <base loc="en">Quote</base>
+        <tran loc="ar">اقتباس</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Title of the accessibility rotor that allows a user to navigate an article heading-by-heading. </Description>
+      <Position>Headings</Position>
+      <TranslationSet>
+        <base loc="en">Headings</base>
+        <tran loc="ar">عناوين</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Accessibility contextual label for the SXComponentRoleIntro role. </Description>
+      <Position>Intro</Position>
+      <TranslationSet>
+        <base loc="en">Intro</base>
+        <tran loc="ar">مقدمة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Accessibility contextual label for the SXComponentRoleChapter role. </Description>
+      <Position>Chapter</Position>
+      <TranslationSet>
+        <base loc="en">Chapter</base>
+        <tran loc="ar">الفصل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Accessibility description for the action to select all text </Description>
+      <Position>Select all</Position>
+      <TranslationSet>
+        <base loc="en">Select all</base>
+        <tran loc="ar">تحديد الكل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Accessibility contextual label for the SXComponentRoleGallery role.
+   Accessibility contextual label for the SXComponentRoleMosaicsGallery role.
+   Accessibility contextual label for the SXComponentRoleStripGallery role. </Description>
+      <Position>Gallery</Position>
+      <TranslationSet>
+        <base loc="en">Gallery</base>
+        <tran loc="ar">معرض</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Accessibility contextual label for the SXComponentRolePullQuote role. </Description>
+      <Position>Pull Quote</Position>
+      <TranslationSet>
+        <base loc="en">Pull Quote</base>
+        <tran loc="ar">اقتباس مستخرج</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Title shown when long pressing on a WebCal link </Description>
+      <Position>Calendar</Position>
+      <TranslationSet>
+        <base loc="en">Calendar</base>
+        <tran loc="ar">التقويم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Accessibility contextual label for the SXComponentRoleEmbedVideo role.
+   Accessibility contextual label for the SXComponentRoleVideo role. </Description>
+      <Position>Video</Position>
+      <TranslationSet>
+        <base loc="en">Video</base>
+        <tran loc="ar">فيديو</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Title of the accessibility rotor that allows a user to navigate an article image-by-image. </Description>
+      <Position>Images</Position>
+      <TranslationSet>
+        <base loc="en">Images</base>
+        <tran loc="ar">الصور</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Title of the accessibility rotor that allows a user to navigate an article link-by-link. </Description>
+      <Position>Links</Position>
+      <TranslationSet>
+        <base loc="en">Links</base>
+        <tran loc="ar">الروابط</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Link action Open in Safari alert title </Description>
+      <Position>Open in Safari</Position>
+      <TranslationSet>
+        <base loc="en">Open in Safari</base>
+        <tran loc="ar">فتح في Safari</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Accessibility contextual label for the SXComponentRoleSubscriptionButton role. </Description>
+      <Position>Subscription Button</Position>
+      <TranslationSet>
+        <base loc="en">Subscription Button</base>
+        <tran loc="ar">زر الاشتراكات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Call action alert title </Description>
+      <Position>Call</Position>
+      <TranslationSet>
+        <base loc="en">Call</base>
+        <tran loc="ar">اتصال</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Accessibility action to initiate a drag on an image for drag-and-drop. </Description>
+      <Position>Drag Image</Position>
+      <TranslationSet>
+        <base loc="en">Drag Image</base>
+        <tran loc="ar">اسحب الصورة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Title of dialog shown when access to the calender is denied </Description>
+      <Position>Can’t Access Calendar</Position>
+      <TranslationSet>
+        <base loc="en">Can’t Access Calendar</base>
+        <tran loc="ar">لا يمكن الوصول إلى التقويم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Event action 'Show in Calendar' alert title </Description>
+      <Position>Show in Calendar</Position>
+      <TranslationSet>
+        <base loc="en">Show in Calendar</base>
+        <tran loc="ar">إظهار في التقويم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Action for tapping on an acnhor link </Description>
+      <Position>Open</Position>
+      <TranslationSet>
+        <base loc="en">Open</base>
+        <tran loc="ar">فتح</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>FeldsparServices/System/Library/PrivateFrameworks/NewsUI.framework/en.lproj/Localizable.stringsdict</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>/NUOpenStoryRequiresLatestVersionOS:dict/NSStringDeviceSpecificRuleType:dict/iphone:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">To open this story, you’ll need the latest version of iOS.</base>
+        <tran loc="ar">لفتح هذه المقالة، ستحتاج إلى أحدث إصدار من iOS.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/NUOpenStoryRequiresLatestVersionOS:dict/NSStringDeviceSpecificRuleType:dict/ipod:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">To open this story, you’ll need the latest version of iOS.</base>
+        <tran loc="ar">لفتح هذه المقالة، ستحتاج إلى أحدث إصدار من iOS.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/NUTapForMore:dict/NSStringDeviceSpecificRuleType:dict/mac:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Click for more from %@</base>
+        <tran loc="ar">اضغط للمزيد من %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/NUOpenStoryRequiresLatestVersionOS:dict/NSStringDeviceSpecificRuleType:dict/mac:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">To open this story, you’ll need the latest version of macOS.</base>
+        <tran loc="ar">لفتح هذه المقالة، ستحتاج إلى أحدث إصدار من macOS.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/NUStoryUnavailableAlertTitle:dict/NSStringDeviceSpecificRuleType:dict/ipad:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Story Unavailable</base>
+        <tran loc="ar">المقالة غير متوفرة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/NUStoryUnavailableAlertTitle:dict/NSStringDeviceSpecificRuleType:dict/iphone:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Story Unavailable</base>
+        <tran loc="ar">المقالة غير متوفرة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/NUStoryUnavailableAlertTitle:dict/NSStringDeviceSpecificRuleType:dict/ipod:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Story Unavailable</base>
+        <tran loc="ar">المقالة غير متوفرة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/NUTapToReadMore:dict/NSStringDeviceSpecificRuleType:dict/mac:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Click to read more from %@</base>
+        <tran loc="ar">اضغط لقراءة المزيد من %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/NUTapToReadMore:dict/NSStringDeviceSpecificRuleType:dict/ipad:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Tap to read more from %@</base>
+        <tran loc="ar">اضغط لقراءة المزيد من %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/NUTapToReadMore:dict/NSStringDeviceSpecificRuleType:dict/iphone:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Tap to read more from %@</base>
+        <tran loc="ar">اضغط لقراءة المزيد من %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/NUTapToReadMore:dict/NSStringDeviceSpecificRuleType:dict/ipod:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Tap to read more from %@</base>
+        <tran loc="ar">اضغط لقراءة المزيد من %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/NUOpenStoryRequiresLatestVersionOS:dict/NSStringDeviceSpecificRuleType:dict/ipad:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">To open this story, you’ll need the latest version of iPadOS.</base>
+        <tran loc="ar">لفتح هذه المقالة، ستحتاج إلى أحدث إصدار من iPadOS.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/NUStoryUnavailableAlertTitle:dict/NSStringDeviceSpecificRuleType:dict/mac:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">This story is unavailable.</base>
+        <tran loc="ar">هذه القصة غير متوفرة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/NUTapForMore:dict/NSStringDeviceSpecificRuleType:dict/ipad:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Tap for more from %@</base>
+        <tran loc="ar">اضغط للمزيد من %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/NUTapForMore:dict/NSStringDeviceSpecificRuleType:dict/iphone:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Tap for more from %@</base>
+        <tran loc="ar">اضغط للمزيد من %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/NUTapForMore:dict/NSStringDeviceSpecificRuleType:dict/ipod:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Tap for more from %@</base>
+        <tran loc="ar">اضغط للمزيد من %@</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+</Proj>

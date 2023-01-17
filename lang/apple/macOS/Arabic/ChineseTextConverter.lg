@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Proj>
+  <ProjName>ChineseTextConverter</ProjName>
+  <File>
+    <Filepath>ChineseTextConverter/System/Library/Services/ChineseTextConverterService.app/Contents/Resources/en.lproj/ServicesMenu.strings</Filepath>
+    <TextItem>
+      <Description> "转换到全角文本"</Description>
+      <Position>Convert Text to Full Width</Position>
+      <TranslationSet>
+        <base loc="en">Convert Text to Full Width</base>
+        <tran loc="ar">تحويل النص إلى كامل العرض</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> "转换到半角文本"</Description>
+      <Position>Convert Text to Half Width</Position>
+      <TranslationSet>
+        <base loc="en">Convert Text to Half Width</base>
+        <tran loc="ar">تحويل النص إلى نصف العرض</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>$^~@C</Position>
+      <TranslationSet>
+        <base loc="en">$^~@C</base>
+        <tran loc="ar">$^~@C</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> "由繁体转换到简体文本"</Description>
+      <Position>Convert Text from Traditional to Simplified Chinese</Position>
+      <TranslationSet>
+        <base loc="en">Convert Text to Simplified Chinese</base>
+        <tran loc="ar">تحويل النص إلى الصينية المبسطة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Keyboard Shortcuts for items in the Services menu
+   -------------------------------------------------
+     @ -&gt; command key
+     $ -&gt; shift key
+     ~ -&gt; option key
+     ^ -&gt; control key
+ 
+   The shortcuts specified here assign Shift-Control-Command-C to Simplified to Traditional Conversion and Shift-Control-Option-Command-C to Traditional to Simplified conversion. Depending on which shortcut is considered to be more useful for which localisation (Simplified vs. Traditional), these shortcuts can be swapped such that the shorter one is used for the more common scenario.
+
+ Simplified to Traditional</Description>
+      <Position>$^@C</Position>
+      <TranslationSet>
+        <base loc="en">$^@C</base>
+        <tran loc="ar">$^@C</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Strings that appear in the Services menu 
+ "由简体转换到繁体文本"</Description>
+      <Position>Convert Text from Simplified to Traditional Chinese</Position>
+      <TranslationSet>
+        <base loc="en">Convert Text to Traditional Chinese</base>
+        <tran loc="ar">تحويل النص إلى الصينية التقليدية</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>ChineseTextConverter/System/Library/Services/ChineseTextConverterService.app/Contents/Resources/en.lproj/InfoPlist.strings</Filepath>
+    <TextItem>
+      <Description> Localized versions of Info.plist keys </Description>
+      <Position>CFBundleName</Position>
+      <TranslationSet>
+        <base loc="en">ChineseTextConverterService</base>
+        <tran loc="ar">ChineseTextConverterService</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>NSHumanReadableCopyright</Position>
+      <TranslationSet>
+        <base loc="en">Copyright © 2012 Apple Inc. All rights reserved.</base>
+        <tran loc="ar">‏‎Copyright © 2012 Apple Inc.‎\n‏ كافة الحقوق محفوظة.</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+</Proj>

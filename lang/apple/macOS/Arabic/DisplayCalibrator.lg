@@ -1,0 +1,1310 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Proj>
+  <ProjName>DisplayCalibrator</ProjName>
+  <File>
+    <Filepath>DisplayCalibrator/System/Library/ColorSync/Calibrators/Display Calibrator.app/Contents/Resources/English.lproj/SetupPane.nib.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>100007.title</Position>
+      <TranslationSet>
+        <base loc="en">Before you begin calibration, you should make some initial adjustments to the brightness and contrast controls of your display.</base>
+        <tran loc="ar">قبل بدء المعايرة، يجب القيام ببعض عمليات الضبط المبدئية لعناصر التحكم في إضاءة وتباين شاشة العرض.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>100024.title</Position>
+      <TranslationSet>
+        <base loc="en">too bright</base>
+        <tran loc="ar">شديد الإضاءة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>100012.title</Position>
+      <TranslationSet>
+        <base loc="en">After you have done these steps, click the Continue button.</base>
+        <tran loc="ar">بعد القيام بهذه الخطوات، قم بالنقر على زر متابعة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>100023.title</Position>
+      <TranslationSet>
+        <base loc="en">too dark</base>
+        <tran loc="ar">شديد الإظلام</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>100010.title</Position>
+      <TranslationSet>
+        <base loc="en">First, set the contrast control to the highest setting.\n\nNext, set the brightness control using the image on the right as a guide.  Increase brightness until the oval center is barely visible. Decrease brightness if the right half of the background appears brighter than the left.</base>
+        <tran loc="ar">أولاً، قم بتعيين عنصر التحكم في التباين إلى أعلى إعداد.\n\nبعد ذلك، قم بتعيين عنصر التحكم في الإضاءة باستخدام الصورة الموجودة على الجانب الأيمن كدليل.  قم بزيادة درجة الإضاءة إلى أن يصبح المركز بيضاوي الشكل مرئيًا بالكاد. قم بخفض درجة الإضاءة إذا بدا أن النصف الأيمن من الخلفية أكثر إضاءة من النصف الأيسر.</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>DisplayCalibrator/System/Library/ColorSync/Calibrators/Display Calibrator.app/Contents/Resources/English.lproj/AdminPane.nib.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>100007.title</Position>
+      <TranslationSet>
+        <base loc="en">After you have done this step, click the Continue button.</base>
+        <tran loc="ar">بعد القيام بهذه الخطوة، قم بالنقر على زر متابعة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>100008.title</Position>
+      <TranslationSet>
+        <base loc="en">Normally, this assistant creates a calibrated display profile that is used only when you are using this computer.\n\nAs an administrator of this computer, you may choose to have the profile be useable as the default profile for other users of this computer.</base>
+        <tran loc="ar">عادة ما يقوم هذا المساعد بإنشاء ملف تعريف لشاشة عرض تمت معايرتها ويتم استخدامه فقط عند استخدام هذا الكمبيوتر.\n\nويمكنك كمسؤول على هذا الكمبيوتر اختيار جعل ملف التعريف قابلاً للاستخدام كملف التعريف الافتراضي للمستخدمين الآخرين على هذا الكمبيوتر.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>100018.title</Position>
+      <TranslationSet>
+        <base loc="en">Allow other users to use this calibration</base>
+        <tran loc="ar">السماح للمستخدمين الآخرين باستخدام هذه المعايرة</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>DisplayCalibrator/System/Library/ColorSync/Calibrators/Display Calibrator.app/Contents/Resources/English.lproj/InfoPlist.strings</Filepath>
+    <TextItem>
+      <Description> Localized versions of Info.plist keys </Description>
+      <Position>CFBundleName</Position>
+      <TranslationSet>
+        <base loc="en">Display Calibrator</base>
+        <tran loc="ar">معاير شاشة العرض</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>DisplayCalibrator/System/Library/ColorSync/Calibrators/Display Calibrator.app/Contents/Resources/English.lproj/ConclusionPane.nib.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>100012.title</Position>
+      <TranslationSet>
+        <base loc="en">To quit the calibrator, click the Done button.</base>
+        <tran loc="ar">لإنهاء المعاير، قم بالنقر على الزر تم.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>100028.title</Position>
+      <TranslationSet>
+        <base loc="en">0000</base>
+        <tran loc="ar">٠٠٠٠</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>100040.title</Position>
+      <TranslationSet>
+        <base loc="en">0000</base>
+        <tran loc="ar">٠٠٠٠</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>100020.title</Position>
+      <TranslationSet>
+        <base loc="en">Chromaticities</base>
+        <tran loc="ar">التصنيفات اللونية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>100018.title</Position>
+      <TranslationSet>
+        <base loc="en">Target White Point:</base>
+        <tran loc="ar">النقطة البيضاء المستهدفة:</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>100022.title</Position>
+      <TranslationSet>
+        <base loc="en">0.00\n0.00</base>
+        <tran loc="ar">٠.٠٠\n٠.٠٠</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>42.title</Position>
+      <TranslationSet>
+        <base loc="en">Profile Summary:</base>
+        <tran loc="ar">ملخص ملف التعريف:</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>100027.title</Position>
+      <TranslationSet>
+        <base loc="en">y</base>
+        <tran loc="ar">y</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>100024.title</Position>
+      <TranslationSet>
+        <base loc="en">0.000\n0.000\n0.000\n0.000</base>
+        <tran loc="ar">٠.٠٠٠\n٠.٠٠٠\n٠.٠٠٠\n٠.٠٠٠</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>100026.title</Position>
+      <TranslationSet>
+        <base loc="en">0.000\n0.000\n0.000\n0.000</base>
+        <tran loc="ar">٠.٠٠٠\n٠.٠٠٠\n٠.٠٠٠\n٠.٠٠٠</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>100015.title</Position>
+      <TranslationSet>
+        <base loc="en">Name:</base>
+        <tran loc="ar">الاسم:</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>100019.title</Position>
+      <TranslationSet>
+        <base loc="en">Red Phosphor:\nGreen Phosphor:\nBlue Phosphor:\nNative White Point:</base>
+        <tran loc="ar">الفسفور الأحمر:\nالفسفور الأخضر:\nالفسفور الأزرق:\nالنقطة البيضاء الأصلية:</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>100021.title</Position>
+      <TranslationSet>
+        <base loc="en">Native Gamma:\nTarget Gamma:</base>
+        <tran loc="ar">غاما الأصلية:\nغاما المستهدفة:</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>100017.title</Position>
+      <TranslationSet>
+        <base loc="en">Calibrated Profile</base>
+        <tran loc="ar">ملف التعريف الذي تمت معايرته</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>100013.title</Position>
+      <TranslationSet>
+        <base loc="en">A new calibrated display profile has been created and set to be the current profile for this display.\n\nYou can change the current profile for this display by using the Displays pane of System Preferences or the Devices pane of ColorSync Utility.</base>
+        <tran loc="ar">تم إنشاء ملف تعريف جديد لشاشة عرض تمت معايرتها وتعيينه ليكون ملف التعريف الحالي لشاشة العرض هذه.\n\nيمكنك تغيير ملف التعريف الحالي لشاشة العرض هذه باستخدام جزء شاشات العرض من تفضيلات النظام أو جزء الأجهزة من أداة ColorSync  المساعدة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>100025.title</Position>
+      <TranslationSet>
+        <base loc="en">x</base>
+        <tran loc="ar">x</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>DisplayCalibrator/System/Library/ColorSync/Calibrators/Display Calibrator.app/Contents/Resources/English.lproj/IntroductionPane.nib.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>100009.title</Position>
+      <TranslationSet>
+        <base loc="en">Expert Mode - This turns on extra options.</base>
+        <tran loc="ar">وضع الخبير - يقوم هذا الوضع بتشغيل خيارات إضافية.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>100008.title</Position>
+      <TranslationSet>
+        <base loc="en">This assistant will help you calibrate your display and create a custom ColorSync profile.  With a properly calibrated display, the system and other software that uses ColorSync can better display images in their intended colors.</base>
+        <tran loc="ar">يساعدك هذا المساعد في معايرة شاشة العرض وإنشاء ملف تعريف ColorSync مخصص.  ومن خلال شاشة العرض التي تمت معايرتها بشكل سليم، يصبح بإمكان النظام والبرامج الأخرى التي تستخدم ColorSync عرض الصور بشكل أفضل بألوانها المستهدفة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>100007.title</Position>
+      <TranslationSet>
+        <base loc="en">Welcome to the Apple Display Calibrator Assistant!</base>
+        <tran loc="ar">مرحبًا بك في مساعد معاير شاشة العرض من Apple!</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>100010.title</Position>
+      <TranslationSet>
+        <base loc="en">Display calibration involves several steps:\n(some steps may be skipped on some displays)\n\n• Adjust the display's brightness and contrast\r• Determine the display's native luminance \n   response curve\r• Choose a desired response curve gamma\n• Choose a desired white point (warmth or\n   coolness of white)</base>
+        <tran loc="ar">تتضمن عملية معايرة شاشة العرض عدة خطوات:\n(قد يتم تخطي بعض الخطوات في بعض شاشات العرض)\n\n• ضبط درجة إضاءة وتباين شاشة العرض\r• تحديد منحنى استجابة \n   الإضاءة الأصلية لشاشة العرض\r• اختيار منحنى جاما الاستجابة المطلوبة\n• اختيار النقطة البيضاء المطلوبة (درجة دفء أو\n   برودة اللون الأبيض)</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>100012.title</Position>
+      <TranslationSet>
+        <base loc="en">Click the Continue button below to begin.</base>
+        <tran loc="ar">قم بالنقر على الزر متابعة أدناه للبدء.</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>DisplayCalibrator/System/Library/ColorSync/Calibrators/Display Calibrator.app/Contents/Resources/English.lproj/NamePane.nib.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>100008.title</Position>
+      <TranslationSet>
+        <base loc="en">Give your profile a name.</base>
+        <tran loc="ar">قم بتسمية ملف التعريف الخاص بك.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>100007.title</Position>
+      <TranslationSet>
+        <base loc="en">After you have done this step, click the Continue button.</base>
+        <tran loc="ar">بعد القيام بهذه الخطوة، قم بالنقر على زر متابعة.</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>DisplayCalibrator/System/Library/ColorSync/Calibrators/Display Calibrator.app/Contents/Resources/English.lproj/NameAsciiPane.nib.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>100008.title</Position>
+      <TranslationSet>
+        <base loc="en">Give your profile a name.</base>
+        <tran loc="ar">قم بتسمية ملف التعريف الخاص بك.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>100007.title</Position>
+      <TranslationSet>
+        <base loc="en">After you have done this step, click the Continue button.</base>
+        <tran loc="ar">بعد القيام بهذه الخطوة، قم بالنقر على زر متابعة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>100010.title</Position>
+      <TranslationSet>
+        <base loc="en">Please enter an additional name for this profile that only contains basic English characters or numbers.</base>
+        <tran loc="ar">الرجاء إدخال اسم إضافي لملف التعريف هذا يتضمن الأرقام أو الأحرف الإنجليزية الرئيسية فقط.</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>DisplayCalibrator/System/Library/ColorSync/Calibrators/Display Calibrator.app/Contents/Resources/English.lproj/TargetGammaPane.nib.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>100051.title</Position>
+      <TranslationSet>
+        <base loc="en">Standard</base>
+        <tran loc="ar">قياسي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>100016.title</Position>
+      <TranslationSet>
+        <base loc="en">After you have done this step, click the Continue button.</base>
+        <tran loc="ar">بعد القيام بهذه الخطوة، قم بالنقر على زر متابعة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>100030.title</Position>
+      <TranslationSet>
+        <base loc="en">After you have done this step, click the Continue button.</base>
+        <tran loc="ar">بعد القيام بهذه الخطوة، قم بالنقر على زر متابعة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>100008.title</Position>
+      <TranslationSet>
+        <base loc="en">Radio</base>
+        <tran loc="ar">زر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>12.title</Position>
+      <TranslationSet>
+        <base loc="en">Gamma 1.8</base>
+        <tran loc="ar">غاما 1.8</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>100052.title</Position>
+      <TranslationSet>
+        <base loc="en">Linear</base>
+        <tran loc="ar">خطي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>100007.title</Position>
+      <TranslationSet>
+        <base loc="en">Select your desired gamma setting for this display. This will adjust the overall contrast of the display.  Watch the picture on the right to see the effect of the different options.  In most cases, it is best to use the Mac Standard gamma of 2.2.</base>
+        <tran loc="ar">حدد إعداد جاما المطلوب لشاشة العرض هذه. يؤدي هذا الإجراء إلى ضبط التباين العام لشاشة العرض.  راقب الصورة الموجودة على الجانب الأيمن لرؤية تأثير الخيارات المختلفة.  في معظم الحالات يكون من الأفضل استخدام جاما القياسية الخاصة بـ Mac التي تبلغ ٢٫٢.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>100033.title</Position>
+      <TranslationSet>
+        <base loc="en">Select your desired gamma setting for this display. This will adjust the overall contrast of the display.  Watch the picture on the right to see the effect of the different options.  In most cases, it is best to use the Mac Standard gamma of 2.2.</base>
+        <tran loc="ar">حدد إعداد جاما المطلوب لشاشة العرض هذه. يؤدي هذا الإجراء إلى ضبط التباين العام لشاشة العرض.  راقب الصورة الموجودة على الجانب الأيمن لرؤية تأثير الخيارات المختلفة.  في معظم الحالات يكون من الأفضل استخدام جاما القياسية الخاصة بـ Mac التي تبلغ ٢٫٢.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>100047.title</Position>
+      <TranslationSet>
+        <base loc="en">1.8</base>
+        <tran loc="ar">١,٨</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>100032.title</Position>
+      <TranslationSet>
+        <base loc="en">Target Gamma = %.2f</base>
+        <tran loc="ar">غاما المستهدفة = %.2f</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>100040.title</Position>
+      <TranslationSet>
+        <base loc="en">Use native gamma</base>
+        <tran loc="ar">استخدام غاما الأصلية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>13.title</Position>
+      <TranslationSet>
+        <base loc="en">Use native gamma</base>
+        <tran loc="ar">استخدام غاما الأصلية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>100048.title</Position>
+      <TranslationSet>
+        <base loc="en">2.2</base>
+        <tran loc="ar">٢,٢</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>11.title</Position>
+      <TranslationSet>
+        <base loc="en">Gamma 2.2 (Standard)</base>
+        <tran loc="ar">غاما 2.2 (قياسية)</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>100049.title</Position>
+      <TranslationSet>
+        <base loc="en">1.0</base>
+        <tran loc="ar">١,٠</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>DisplayCalibrator/System/Library/ColorSync/Calibrators/Display Calibrator.app/Contents/Resources/English.lproj/BuildingPane.nib.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>100008.title</Position>
+      <TranslationSet>
+        <base loc="en">Creating ColorSync profile...</base>
+        <tran loc="ar">يتم الآن إنشاء ملف تعريف ColorSync...</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>DisplayCalibrator/System/Library/ColorSync/Calibrators/Display Calibrator.app/Contents/Resources/English.lproj/TargetWhitePane.strings</Filepath>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "After you have done this step, click the Continue button."; ObjectID = "100007"; </Description>
+      <Position>100007.title</Position>
+      <TranslationSet>
+        <base loc="en">After you have done this step, click the Continue button.</base>
+        <tran loc="ar">بعد القيام بهذه الخطوة، قم بالنقر على زر متابعة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "After you have done this step, click the Continue button."; ObjectID = "100025"; </Description>
+      <Position>100025.title</Position>
+      <TranslationSet>
+        <base loc="en">After you have done this step, click the Continue button.</base>
+        <tran loc="ar">بعد القيام بهذه الخطوة، قم بالنقر على زر متابعة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Native"; ObjectID = "17"; </Description>
+      <Position>17.title</Position>
+      <TranslationSet>
+        <base loc="en">Native</base>
+        <tran loc="ar">أصلي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Radio"; ObjectID = "100011"; </Description>
+      <Position>100011.title</Position>
+      <TranslationSet>
+        <base loc="en">Radio</base>
+        <tran loc="ar">زر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "D65"; ObjectID = "100040"; </Description>
+      <Position>100040.title</Position>
+      <TranslationSet>
+        <base loc="en">D65</base>
+        <tran loc="ar">D65</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "D65"; ObjectID = "15"; </Description>
+      <Position>15.title</Position>
+      <TranslationSet>
+        <base loc="en">D65</base>
+        <tran loc="ar">D65</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Use native white point"; ObjectID = "100024"; </Description>
+      <Position>100024.title</Position>
+      <TranslationSet>
+        <base loc="en">Use native white point</base>
+        <tran loc="ar">استخدام النقطة البيضاء الأصلية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "7000"; ObjectID = "100069"; </Description>
+      <Position>100069.title</Position>
+      <TranslationSet>
+        <base loc="en">7000</base>
+        <tran loc="ar">٧٠٠٠</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Target White = %d K"; ObjectID = "100033"; </Description>
+      <Position>100033.title</Position>
+      <TranslationSet>
+        <base loc="en">Target White = %d K</base>
+        <tran loc="ar">اللون الأبيض المستهدف = %d K</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Warm yellowish white -\nstandard for graphic arts work."; ObjectID = "100018"; </Description>
+      <Position>100018.title</Position>
+      <TranslationSet>
+        <base loc="en">Warm yellowish white -\nstandard for graphic arts work.</base>
+        <tran loc="ar">أبيض دافئ مائل للصفرة -\nقياسي للأعمال الفنية الرسومية.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "6000"; ObjectID = "100068"; </Description>
+      <Position>100068.title</Position>
+      <TranslationSet>
+        <base loc="en">6000</base>
+        <tran loc="ar">٦٠٠٠</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Use native white point of this display."; ObjectID = "100021"; </Description>
+      <Position>100021.title</Position>
+      <TranslationSet>
+        <base loc="en">Use native white point of this display.</base>
+        <tran loc="ar">استخدم النقطة البيضاء الأصلية لشاشة العرض هذه.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "9000"; ObjectID = "100071"; </Description>
+      <Position>100071.title</Position>
+      <TranslationSet>
+        <base loc="en">9000</base>
+        <tran loc="ar">٩٠٠٠</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Neutral white - equivalent to midday sunlight."; ObjectID = "100019"; </Description>
+      <Position>100019.title</Position>
+      <TranslationSet>
+        <base loc="en">Neutral white - equivalent to midday sunlight.</base>
+        <tran loc="ar">أبيض محايد - مكافئ لضوء الشمس في الظهيرة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "5000"; ObjectID = "100067"; </Description>
+      <Position>100067.title</Position>
+      <TranslationSet>
+        <base loc="en">5000</base>
+        <tran loc="ar">٥٠٠٠</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "D50"; ObjectID = "100041"; </Description>
+      <Position>100041.title</Position>
+      <TranslationSet>
+        <base loc="en">D50</base>
+        <tran loc="ar">D50</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "D50"; ObjectID = "14"; </Description>
+      <Position>14.title</Position>
+      <TranslationSet>
+        <base loc="en">D50</base>
+        <tran loc="ar">D50</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "9300"; ObjectID = "100042"; </Description>
+      <Position>100042.title</Position>
+      <TranslationSet>
+        <base loc="en">9300</base>
+        <tran loc="ar">٩٣٠٠</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "9300"; ObjectID = "16"; </Description>
+      <Position>16.title</Position>
+      <TranslationSet>
+        <base loc="en">9300</base>
+        <tran loc="ar">٩٣٠٠</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "8000"; ObjectID = "100070"; </Description>
+      <Position>100070.title</Position>
+      <TranslationSet>
+        <base loc="en">8000</base>
+        <tran loc="ar">٨٠٠٠</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Select the white point setting you want for your display.  This will adjust the overall color tint of the display.  In most cases it is best to use the display’s native white point or a standard white point such as D50 or D65."; ObjectID = "100008"; </Description>
+      <Position>100008.title</Position>
+      <TranslationSet>
+        <base loc="en">Select the white point setting you want for your display.  This will adjust the overall color tint of the display.  In most cases it is best to use the display’s native white point or a standard white point such as D50 or D65.</base>
+        <tran loc="ar">حدد إعداد النقطة البيضاء المطلوب لشاشة العرض الخاصة بك.  يقوم هذا الإجراء بضبط درجة خفة اللون العامة لشاشة العرض.  في معظم الحالات يكون من الأفضل استخدام النقطة البيضاء الأصلية لشاشة العرض أو النقطة البيضاء القياسية مثل D50 أو D65.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Select the white point setting you want for your display.  This will adjust the overall color tint of the display.  In most cases it is best to use the display’s native white point or a standard white point such as D50 or D65."; ObjectID = "100034"; </Description>
+      <Position>100034.title</Position>
+      <TranslationSet>
+        <base loc="en">Select the white point setting you want for your display.  This will adjust the overall color tint of the display.  In most cases it is best to use the display’s native white point or a standard white point such as D50 or D65.</base>
+        <tran loc="ar">حدد إعداد النقطة البيضاء المطلوب لشاشة العرض الخاصة بك.  يقوم هذا الإجراء بضبط درجة خفة اللون العامة لشاشة العرض.  في معظم الحالات يكون من الأفضل استخدام النقطة البيضاء الأصلية لشاشة العرض أو النقطة البيضاء القياسية مثل D50 أو D65.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Cool blueish white - standard for most displays and televisions."; ObjectID = "100020"; </Description>
+      <Position>100020.title</Position>
+      <TranslationSet>
+        <base loc="en">Cool blueish white - standard for most displays and televisions.</base>
+        <tran loc="ar">أبيض بارد مائل للزرقة - قياسي لمعظم شاشات العرض وأجهزة التليفزيون.</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>DisplayCalibrator/System/Library/ColorSync/Calibrators/Display Calibrator.app/Contents/Resources/English.lproj/NativeGammaExpertPane.nib.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>100042.title</Position>
+      <TranslationSet>
+        <base loc="en">Move the left slider until the brightness of the grey shape in the middle matches the backgrounds as much as possible.  Move the right slider until the shape is neutral compared to its background.  It may help to squint or sit back from the display.</base>
+        <tran loc="ar">قم بتحريك شريط التمرير الأيسر إلى أن يتطابق إضاءة الشكل الرمادي الموجود بالمنتصف مع الخلفيات قدر الإمكان.  وقم بتحريك شريط التمرير الأيمن إلى أن يصبح الشكل محايدًا مقارنة بخلفيته.  قد يكون من المفيد تحويل النظر أو الجلوس بعيدًا عن شاشة العرض.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>100007.title</Position>
+      <TranslationSet>
+        <base loc="en">After you have done this step, click the Continue button.</base>
+        <tran loc="ar">بعد القيام بهذه الخطوة، قم بالنقر على زر متابعة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>100008.title</Position>
+      <TranslationSet>
+        <base loc="en">This is the %@ of five steps used to determine the display's native luminance response curves.</base>
+        <tran loc="ar">هذه %@ من خمس خطوات التي يتم استخدامها لتحديد منحنيات استجابة الإضاءة الأصلية لشاشة العرض.</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>DisplayCalibrator/System/Library/ColorSync/Calibrators/Display Calibrator.app/Contents/Resources/English.lproj/MainMenu.strings</Filepath>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "About Display Calibrator"; ObjectID = "58"; </Description>
+      <Position>58.title</Position>
+      <TranslationSet>
+        <base loc="en">About Display Calibrator</base>
+        <tran loc="ar">حول معاير شاشة العرض</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Delete"; ObjectID = "164"; </Description>
+      <Position>164.title</Position>
+      <TranslationSet>
+        <base loc="en">Delete</base>
+        <tran loc="ar">حذف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; alternateTitle = "Done"; ObjectID = "100200"; </Description>
+      <Position>100200.alternateTitle</Position>
+      <TranslationSet>
+        <base loc="en">Done</base>
+        <tran loc="ar">تم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Quit Display Calibrator"; ObjectID = "136"; </Description>
+      <Position>136.title</Position>
+      <TranslationSet>
+        <base loc="en">Quit Display Calibrator</base>
+        <tran loc="ar">إنهاء معاير شاشة العرض</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Go Back"; ObjectID = "100201"; </Description>
+      <Position>100201.title</Position>
+      <TranslationSet>
+        <base loc="en">Go Back</base>
+        <tran loc="ar">انتقال للخلف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Edit"; ObjectID = "163"; </Description>
+      <Position>163.title</Position>
+      <TranslationSet>
+        <base loc="en">Edit</base>
+        <tran loc="ar">تحرير</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenu"; title = "Edit"; ObjectID = "169"; </Description>
+      <Position>169.title</Position>
+      <TranslationSet>
+        <base loc="en">Edit</base>
+        <tran loc="ar">تحرير</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenu"; title = "Services"; ObjectID = "130"; </Description>
+      <Position>130.title</Position>
+      <TranslationSet>
+        <base loc="en">Services</base>
+        <tran loc="ar">خدمات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Services"; ObjectID = "131"; </Description>
+      <Position>131.title</Position>
+      <TranslationSet>
+        <base loc="en">Services</base>
+        <tran loc="ar">خدمات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Show All"; ObjectID = "150"; </Description>
+      <Position>150.title</Position>
+      <TranslationSet>
+        <base loc="en">Show All</base>
+        <tran loc="ar">إظهار الكل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Paste"; ObjectID = "171"; </Description>
+      <Position>171.title</Position>
+      <TranslationSet>
+        <base loc="en">Paste</base>
+        <tran loc="ar">لصق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Continue"; ObjectID = "100200"; </Description>
+      <Position>100200.title</Position>
+      <TranslationSet>
+        <base loc="en">Continue</base>
+        <tran loc="ar">متابعة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Close"; ObjectID = "227"; </Description>
+      <Position>227.title</Position>
+      <TranslationSet>
+        <base loc="en">Close</base>
+        <tran loc="ar">إغلاق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Zoom"; ObjectID = "229"; </Description>
+      <Position>229.title</Position>
+      <TranslationSet>
+        <base loc="en">Zoom</base>
+        <tran loc="ar">تكبير/تصغير</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Undo"; ObjectID = "158"; </Description>
+      <Position>158.title</Position>
+      <TranslationSet>
+        <base loc="en">Undo</base>
+        <tran loc="ar">تراجع</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Display Calibrator"; ObjectID = "56"; </Description>
+      <Position>56.title</Position>
+      <TranslationSet>
+        <base loc="en">Display Calibrator</base>
+        <tran loc="ar">معاير شاشة العرض</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenu"; title = "Display Calibrator"; ObjectID = "57"; </Description>
+      <Position>57.title</Position>
+      <TranslationSet>
+        <base loc="en">Display Calibrator</base>
+        <tran loc="ar">معاير شاشة العرض</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Minimize"; ObjectID = "220"; </Description>
+      <Position>220.title</Position>
+      <TranslationSet>
+        <base loc="en">Minimize</base>
+        <tran loc="ar">تصغير</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Hide Others"; ObjectID = "145"; </Description>
+      <Position>145.title</Position>
+      <TranslationSet>
+        <base loc="en">Hide Others</base>
+        <tran loc="ar">إخفاء الأخرى</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Redo"; ObjectID = "173"; </Description>
+      <Position>173.title</Position>
+      <TranslationSet>
+        <base loc="en">Redo</base>
+        <tran loc="ar">إعادة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Copy"; ObjectID = "157"; </Description>
+      <Position>157.title</Position>
+      <TranslationSet>
+        <base loc="en">Copy</base>
+        <tran loc="ar">نسخ</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenu"; title = "MainMenu"; ObjectID = "29"; </Description>
+      <Position>29.title</Position>
+      <TranslationSet>
+        <base loc="en">MainMenu</base>
+        <tran loc="ar">MainMenu</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Hide Display Calibrator"; ObjectID = "134"; </Description>
+      <Position>134.title</Position>
+      <TranslationSet>
+        <base loc="en">Hide Display Calibrator</base>
+        <tran loc="ar">إخفاء معاير شاشة العرض</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenu"; title = "Window"; ObjectID = "222"; </Description>
+      <Position>222.title</Position>
+      <TranslationSet>
+        <base loc="en">Window</base>
+        <tran loc="ar">نافذة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Window"; ObjectID = "224"; </Description>
+      <Position>224.title</Position>
+      <TranslationSet>
+        <base loc="en">Window</base>
+        <tran loc="ar">نافذة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Select All"; ObjectID = "172"; </Description>
+      <Position>172.title</Position>
+      <TranslationSet>
+        <base loc="en">Select All</base>
+        <tran loc="ar">تحديد الكل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Help"; ObjectID = "103"; </Description>
+      <Position>103.title</Position>
+      <TranslationSet>
+        <base loc="en">Help</base>
+        <tran loc="ar">مساعدة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Cut"; ObjectID = "160"; </Description>
+      <Position>160.title</Position>
+      <TranslationSet>
+        <base loc="en">Cut</base>
+        <tran loc="ar">قص</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSWindow"; title = "Display Calibrator Assistant"; ObjectID = "21"; </Description>
+      <Position>21.title</Position>
+      <TranslationSet>
+        <base loc="en">Display Calibrator Assistant</base>
+        <tran loc="ar">مساعد معاير شاشة العرض</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSBox"; title = "Box"; ObjectID = "202"; </Description>
+      <Position>202.title</Position>
+      <TranslationSet>
+        <base loc="en">Box</base>
+        <tran loc="ar">Box</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "[PaneTitle]"; ObjectID = "100199"; </Description>
+      <Position>100199.title</Position>
+      <TranslationSet>
+        <base loc="en">[PaneTitle]</base>
+        <tran loc="ar">[عنوان الجزء]</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Bring All to Front"; ObjectID = "221"; </Description>
+      <Position>221.title</Position>
+      <TranslationSet>
+        <base loc="en">Bring All to Front</base>
+        <tran loc="ar">إحضار الكل إلى الأمام</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>DisplayCalibrator/System/Library/ColorSync/Calibrators/Display Calibrator.app/Contents/Resources/English.lproj/Localizable.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>NameAsciiPaneTitle</Position>
+      <TranslationSet>
+        <base loc="en">Give the profile a name</base>
+        <tran loc="ar">تسمية ملف التعريف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>NamePaneTitle</Position>
+      <TranslationSet>
+        <base loc="en">Give the profile a name</base>
+        <tran loc="ar">تسمية ملف التعريف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AdminPaneTitle</Position>
+      <TranslationSet>
+        <base loc="en">Administrator options</base>
+        <tran loc="ar">خيارات المسؤول</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>NameAsciiPaneBullet</Position>
+      <TranslationSet>
+        <base loc="en">Name</base>
+        <tran loc="ar">الاسم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>NamePaneBullet</Position>
+      <TranslationSet>
+        <base loc="en">Name</base>
+        <tran loc="ar">الاسم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Native</Position>
+      <TranslationSet>
+        <base loc="en">Native</base>
+        <tran loc="ar">أصلي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AdminPaneBullet</Position>
+      <TranslationSet>
+        <base loc="en">Admin</base>
+        <tran loc="ar">مسؤول</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>NativeGammaExpertPaneBullet</Position>
+      <TranslationSet>
+        <base loc="en">Native Gamma</base>
+        <tran loc="ar">غاما الأصلية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>NativeGammaPaneBullet</Position>
+      <TranslationSet>
+        <base loc="en">Native Gamma</base>
+        <tran loc="ar">غاما الأصلية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CanNotCalibrateDisplay</Position>
+      <TranslationSet>
+        <base loc="en">Can’t calibrate the display</base>
+        <tran loc="ar">لا يمكن معايرة شاشة العرض</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Quit</Position>
+      <TranslationSet>
+        <base loc="en">Quit</base>
+        <tran loc="ar">إنهاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>TargetWhitePaneBullet</Position>
+      <TranslationSet>
+        <base loc="en">Target White Point</base>
+        <tran loc="ar">النقطة البيضاء المستهدفة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>TargetWhitePaneTitle</Position>
+      <TranslationSet>
+        <base loc="en">Select a target white point</base>
+        <tran loc="ar">تحديد نقطة بيضاء مستهدفة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>third</Position>
+      <TranslationSet>
+        <base loc="en">third</base>
+        <tran loc="ar">ثالث</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>A profile with this name already exists.\rPlease choose a different name.</Position>
+      <TranslationSet>
+        <base loc="en">A profile with this name already exists.\rPlease choose a different name.</base>
+        <tran loc="ar">يوجد بالفعل ملف تعريف يحمل هذا الاسم.\rالرجاء اختيار اسم مختلف.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>A profile name is required.\nPlease choose a name.</Position>
+      <TranslationSet>
+        <base loc="en">A profile name is required.\nPlease choose a name.</base>
+        <tran loc="ar">يجب توفير اسم ملف تعريف.\nالرجاء اختيار اسم.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DoYouWantToQuit</Position>
+      <TranslationSet>
+        <base loc="en">Do you want to quit display calibration?</base>
+        <tran loc="ar">هل ترغب في إنهاء معايرة شاشة العرض؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CouldNotCreateProfile</Position>
+      <TranslationSet>
+        <base loc="en">An error occurred.\n\nThe new calibrated display profile could not be created or set to be the current profile for this display.</base>
+        <tran loc="ar">حدث خطأ.\n\nتعذر إنشاء ملف تعريف جديد لشاشة العرض التي تمت معايرتها أو تعيينه ليصبح ملف التعريف الحالي لشاشة العرض هذه.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ClickThisWindow</Position>
+      <TranslationSet>
+        <base loc="en">Click this window to calibrate\nthe display ‘%@’.</base>
+        <tran loc="ar">قم بالنقر على هذه النافذة لمعايرة\nشاشة العرض ’%@‘.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>BuildingPaneBullet</Position>
+      <TranslationSet>
+        <base loc="en">Conclusion</base>
+        <tran loc="ar">الخاتمة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>BuildingPaneTitle</Position>
+      <TranslationSet>
+        <base loc="en">Conclusion</base>
+        <tran loc="ar">الخاتمة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ConclusionPaneBullet</Position>
+      <TranslationSet>
+        <base loc="en">Conclusion</base>
+        <tran loc="ar">الخاتمة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ConclusionPaneTitle</Position>
+      <TranslationSet>
+        <base loc="en">Conclusion</base>
+        <tran loc="ar">الخاتمة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Continue</Position>
+      <TranslationSet>
+        <base loc="en">Continue</base>
+        <tran loc="ar">متابعة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>IntroductionPaneBullet</Position>
+      <TranslationSet>
+        <base loc="en">Introduction</base>
+        <tran loc="ar">مقدمة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>IntroductionPaneTitle</Position>
+      <TranslationSet>
+        <base loc="en">Introduction</base>
+        <tran loc="ar">مقدمة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>fourth</Position>
+      <TranslationSet>
+        <base loc="en">fourth</base>
+        <tran loc="ar">رابع</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Profile name contains an illegal character.\rPlease choose a different name.</Position>
+      <TranslationSet>
+        <base loc="en">Profile name contains an illegal character.\rPlease choose a different name.</base>
+        <tran loc="ar">اسم ملف التعريف يحتوي على أحرف غير مسموح بها.\rالرجاء اختيار اسم آخر.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>second</Position>
+      <TranslationSet>
+        <base loc="en">second</base>
+        <tran loc="ar">الثاني</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>first</Position>
+      <TranslationSet>
+        <base loc="en">first</base>
+        <tran loc="ar">الأول</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SetupPaneBullet</Position>
+      <TranslationSet>
+        <base loc="en">Set Up</base>
+        <tran loc="ar">إعداد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>native gamma (approximate)</Position>
+      <TranslationSet>
+        <base loc="en">%@ (approximate)</base>
+        <tran loc="ar">%@ (تقريبًا)</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>native temp (approximate)</Position>
+      <TranslationSet>
+        <base loc="en">%@ (approximate)</base>
+        <tran loc="ar">%@ (تقريبًا)</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>target gamma</Position>
+      <TranslationSet>
+        <base loc="en">%@ (approximate)</base>
+        <tran loc="ar">%@ (تقريبًا)</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>NativeGammaExpertPaneTitle</Position>
+      <TranslationSet>
+        <base loc="en">Determine your display’s native response</base>
+        <tran loc="ar">تحديد الاستجابة الأصلية لشاشة العرض</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>%@ Calibrated</Position>
+      <TranslationSet>
+        <base loc="en">%@ Calibrated</base>
+        <tran loc="ar">تمت معايرة %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SetupPaneTitle</Position>
+      <TranslationSet>
+        <base loc="en">Display Adjustment</base>
+        <tran loc="ar">ضبط شاشة العرض</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>TargetGammaPaneBullet</Position>
+      <TranslationSet>
+        <base loc="en">Target Gamma</base>
+        <tran loc="ar">غاما المستهدفة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>fifth</Position>
+      <TranslationSet>
+        <base loc="en">fifth</base>
+        <tran loc="ar">الخامس</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>A profile with this name already exists.\rThe existing profile will be replaced.</Position>
+      <TranslationSet>
+        <base loc="en">A profile with this name already exists.\rThe existing profile will be replaced.</base>
+        <tran loc="ar">يوجد بالفعل ملف تعريف يحمل هذا الاسم.\rسيتم استبدال ملف التعريف الموجود.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>targetTemp</Position>
+      <TranslationSet>
+        <base loc="en">%@ </base>
+        <tran loc="ar">%@ </tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>FactoryProfileNotFound</Position>
+      <TranslationSet>
+        <base loc="en">The factory profile for the display could not be found.</base>
+        <tran loc="ar">تعذر العثور على ملف تعريف الشركة المُصنعة لشاشة العرض.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>NativeGammaPaneTitle</Position>
+      <TranslationSet>
+        <base loc="en">Determine your display’s native gamma</base>
+        <tran loc="ar">تحديد جاما الأصلية لشاشة العرض</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>TargetGammaPaneTitle</Position>
+      <TranslationSet>
+        <base loc="en">Select a target gamma</base>
+        <tran loc="ar">تحديد غاما مستهدفة</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>DisplayCalibrator/System/Library/ColorSync/Calibrators/Display Calibrator.app/Contents/Resources/English.lproj/NativeGammaPane.nib.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>100007.title</Position>
+      <TranslationSet>
+        <base loc="en">After you have done this step, click the Continue button.</base>
+        <tran loc="ar">بعد القيام بهذه الخطوة، قم بالنقر على زر متابعة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>100022.title</Position>
+      <TranslationSet>
+        <base loc="en">3.5</base>
+        <tran loc="ar">٣,٥</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>100023.title</Position>
+      <TranslationSet>
+        <base loc="en">This step is used to determine the gamma of the display's native luminance response curve.</base>
+        <tran loc="ar">هذه الخطوة التي يتم استخدامها لتحديد جاما منحنى استجابة الإضاءة الأصلية لشاشة العرض.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>100008.title</Position>
+      <TranslationSet>
+        <base loc="en">Move the slider until the grey shape in the middle matches the background as much as possible.  It may help to squint or sit back from the display.</base>
+        <tran loc="ar">قم بتحريك شريط التمرير إلى أن يتطابق الشكل الرمادي الموجود بالمنتصف مع الخلفية قدر الإمكان.  قد يكون من المفيد تحويل النظر أو الجلوس بعيدًا عن شاشة العرض.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>100021.title</Position>
+      <TranslationSet>
+        <base loc="en">1.0</base>
+        <tran loc="ar">١,٠</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+</Proj>

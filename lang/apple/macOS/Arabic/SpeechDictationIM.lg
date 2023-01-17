@@ -1,0 +1,627 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Proj>
+  <ProjName>SpeechDictationIM</ProjName>
+  <File>
+    <Filepath>SpeechDictationIM/System/Library/Input Methods/DictationIM.app/Contents/Resources/en.lproj/InfoPlist.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>CFBundleDisplayName</Position>
+      <TranslationSet>
+        <base loc="en">Dictation</base>
+        <tran loc="ar">إملاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Localized versions of Info.plist keys </Description>
+      <Position>CFBundleName</Position>
+      <TranslationSet>
+        <base loc="en">Dictation</base>
+        <tran loc="ar">إملاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>com.apple.inputmethod.ironwood</Position>
+      <TranslationSet>
+        <base loc="en">Dictation</base>
+        <tran loc="ar">إملاء</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>SpeechDictationIM/System/Library/Input Methods/DictationIM.app/Contents/Resources/en.lproj/IntroAlert.strings</Filepath>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Don’t Ask Again"; ObjectID = "1080"; </Description>
+      <Position>1080.title</Position>
+      <TranslationSet>
+        <base loc="en">Don’t Ask Again</base>
+        <tran loc="ar">عدم السؤال مرة أخرى</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "&lt;&lt; DO NOT LOCALIZE&gt;&gt;  (IntroAlert/IntroText/
+*)"; ObjectID = "1063"; </Description>
+      <Position>1063.title</Position>
+      <TranslationSet>
+        <base loc="en">&lt;&lt; DO NOT LOCALIZE&gt;&gt;  (IntroAlert/IntroText/*)</base>
+        <tran loc="ar">&lt;&lt; DO NOT LOCALIZE&gt;&gt;  (IntroAlert/IntroText/*)</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "OK"; ObjectID = "1059"; </Description>
+      <Position>1059.title</Position>
+      <TranslationSet>
+        <base loc="en">OK</base>
+        <tran loc="ar">موافق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Do you want to enable Dictation?"; ObjectID = "1057"; </Description>
+      <Position>1057.title</Position>
+      <TranslationSet>
+        <base loc="en">Do you want to enable Dictation?</base>
+        <tran loc="ar">هل ترغب في تمكين الإملاء ؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Not Now"; ObjectID = "1060"; </Description>
+      <Position>1060.title</Position>
+      <TranslationSet>
+        <base loc="en">Not Now</base>
+        <tran loc="ar">ليس الآن</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>SpeechDictationIM/System/Library/Input Methods/DictationIM.app/Contents/Resources/en.lproj/BuiltinCommands.plist</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>/ModifierKeyName.Option:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Option</base>
+        <tran loc="ar">الاختيار</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/BuiltInLM.NumberTwoThroughNinetyNine.2:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">count</base>
+        <tran loc="ar">العدّ</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/BuiltInLM.NumberTwoThroughNinetyNine:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">count</base>
+        <tran loc="ar">العدّ</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/BuiltInLM.ScreenDistanceCardinalNumber:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">count</base>
+        <tran loc="ar">العدّ</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/BuiltInLM.TextSegmentCardinalNumber:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">count</base>
+        <tran loc="ar">العدّ</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/CommandSynonym.select:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">highlight</base>
+        <tran loc="ar">تمييز</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/BuiltInLM.ModifierKeys:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">modifier keys</base>
+        <tran loc="ar">مفاتيح التعديل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/CommandSynonym.preferences:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">settings</base>
+        <tran loc="ar">الإعدادات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/CommandSynonym.close:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">dismiss quit cancel</base>
+        <tran loc="ar">استبعاد إنهاء إلغاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/BuiltInLM.Dictation.2:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">phrase</base>
+        <tran loc="ar">عبارة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/BuiltInLM.Dictation:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">phrase</base>
+        <tran loc="ar">عبارة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/CommandSynonym.quit:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">close dismiss</base>
+        <tran loc="ar">إغلاق استبعاد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/CommandSynonym.document:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">file</base>
+        <tran loc="ar">ملف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/BuiltInLM.RunningApplication:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">application name</base>
+        <tran loc="ar">اسم التطبيق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/BuiltInLM.SwitchableApplication:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">application name</base>
+        <tran loc="ar">اسم التطبيق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/ModifierKeyName.Command:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Command</base>
+        <tran loc="ar">الأوامر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/BuiltInLM.OverlayLabel.2:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">number</base>
+        <tran loc="ar">رقم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/BuiltInLM.OverlayLabel:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">number</base>
+        <tran loc="ar">رقم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/BuiltInLM.MenuBarItem:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">menu name</base>
+        <tran loc="ar">اسم القائمة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/Application.MinimizeWindow.search:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">smaller</base>
+        <tran loc="ar">أصغر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/BuiltInLM.WindowItem:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">item name</base>
+        <tran loc="ar">اسم العنصر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/CommandSynonym.unselect:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">deselect</base>
+        <tran loc="ar">إلغاء تحديد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/CommandManager.defaultKeyword:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Computer</base>
+        <tran loc="ar">الكمبيوتر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/CommandSynonym.beginning:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">start</base>
+        <tran loc="ar">بدء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/CommandSynonym.all:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">whole</base>
+        <tran loc="ar">بالكامل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/ModifierKeyName.Caps Lock:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Caps Lock</base>
+        <tran loc="ar">تثبيت العالي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/CommandSynonym.make:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">create</base>
+        <tran loc="ar">إنشاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/ModifierKeyName.Shift:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Shift</base>
+        <tran loc="ar">العالي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/CommandSynonym.open:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">launch start</base>
+        <tran loc="ar">بدء تشغيل بدء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/CommandSynonym.go:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">goto move</base>
+        <tran loc="ar">انتقال إلى تحريك إلى</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/CommandSynonym.capitalize:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">uppercase</base>
+        <tran loc="ar">الكتابة بأحرف كبيرة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/DictationStreamingStartFactor:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">1.0</base>
+        <tran loc="ar">1.0</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/BuiltInLM.MenuItem:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">menu item name</base>
+        <tran loc="ar">اسم عنصر القائمة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/ModifierKeyName.Control:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Control</base>
+        <tran loc="ar">تحكم</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>SpeechDictationIM/System/Library/Input Methods/DictationIM.app/Contents/Resources/en.lproj/IntroAlertMicError.strings</Filepath>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Don’t Ask Again"; ObjectID = "1097"; </Description>
+      <Position>1097.title</Position>
+      <TranslationSet>
+        <base loc="en">Don’t Ask Again</base>
+        <tran loc="ar">عدم السؤال مرة أخرى</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Dictation Preferences…"; ObjectID = "1086"; </Description>
+      <Position>1086.title</Position>
+      <TranslationSet>
+        <base loc="en">Dictation Preferences…</base>
+        <tran loc="ar">تفضيلات الإملاء...</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "To use Dictation, you need to select a microphone or connect an external microphone."; ObjectID = "1084"; </Description>
+      <Position>1084.title</Position>
+      <TranslationSet>
+        <base loc="en">To use Dictation, you need to select a microphone or connect an external microphone.</base>
+        <tran loc="ar">لاستخدام الإملاء، يلزمك تحديد ميكروفون أو توصيل ميكروفون خارجي.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Not Now"; ObjectID = "1083"; </Description>
+      <Position>1083.title</Position>
+      <TranslationSet>
+        <base loc="en">Not Now</base>
+        <tran loc="ar">ليس الآن</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "You can configure your microphone in Dictation preferences."; ObjectID = "1080"; </Description>
+      <Position>1080.title</Position>
+      <TranslationSet>
+        <base loc="en">You can configure your microphone in Dictation preferences.</base>
+        <tran loc="ar">يمكنك تكوين الميكروفون الخاص بك من تفضيلات الإملاء.</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>SpeechDictationIM/System/Library/Input Methods/DictationIM.app/Contents/Resources/en.lproj/Localizable.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>IntroAlert/IntroText/Cmd</Position>
+      <TranslationSet>
+        <base loc="en">To start dictating, press the ⌘ (Command) key twice or choose Start Dictation from the Edit menu.</base>
+        <tran loc="ar">لبدء تشغيل الإملاء، اضغط على مفتاح ⌘ (الأوامر) مرتين أو قم باختيار بدء الإملاء من قائمة تحرير.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>IntroAlert/IntroText/Fn</Position>
+      <TranslationSet>
+        <base loc="en">To start dictating, press the Fn (Function) key twice or choose Start Dictation from the Edit menu.</base>
+        <tran loc="ar">لبدء تشغيل الإملاء، اضغط على مفتاح Fn (الوظيفة) مرتين أو قم باختيار بدء الإملاء من قائمة تحرير.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description>Dynamic text is a shorcut description, e.g. '^⌥D',</Description>
+      <Position>IntroAlert/IntroText/CustomShortcut</Position>
+      <TranslationSet>
+        <base loc="en">To start dictating, press %@ or choose Start Dictation from the Edit menu.</base>
+        <tran loc="ar">لبدء تشغيل الإملاء، اضغط على %@ أو قم باختيار بدء الإملاء من قائمة تحرير.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>MissingLanguageDataError.DefaultButtonTitle</Position>
+      <TranslationSet>
+        <base loc="en">Voice Control Preferences…</base>
+        <tran loc="ar">تفضيلات التحكم بالصوت…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>MissingLanguageDataError.Description</Position>
+      <TranslationSet>
+        <base loc="en">Please confirm your dictation language in Voice Control preferences.</base>
+        <tran loc="ar">الرجاء تأكيد لغة الإملاء في تفضيلات التحكم بالصوت.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Command Error Strings </Description>
+      <Position>CommandErrorDefaultButtonTitle</Position>
+      <TranslationSet>
+        <base loc="en">OK</base>
+        <tran loc="ar">موافق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>MissingLanguageDataError.AlternateButtonTitle</Position>
+      <TranslationSet>
+        <base loc="en">OK</base>
+        <tran loc="ar">موافق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>InfoMessage.ClosestMatchingMultipleCommandEntry</Position>
+      <TranslationSet>
+        <base loc="en">\n      • “%@”</base>
+        <tran loc="ar">‏\n      • \"%@\"</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CustomCommandOpenFile/CannotFindFile/Title</Position>
+      <TranslationSet>
+        <base loc="en">The file to be opened for the command “%@” could not be found.</base>
+        <tran loc="ar">تعذر العثور على الملف المطلوب فتحه للأمر \"%@\".</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Intro alert strings 
+Dynamic text is the unsupported language / locale, e.g. 'Catalan', 'Canadian English', or 'English (India)'</Description>
+      <Position>IntroAlertLanguageError/LanguageNotAvailable</Position>
+      <TranslationSet>
+        <base loc="en">Dictation is not currently available in %@.</base>
+        <tran loc="ar">الإملاء غير متوفر حاليًا في %@.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>IntroAlert/OfflineDictationDescWithDownload</Position>
+      <TranslationSet>
+        <base loc="en">Enhanced dictation allows offline use and continuous dictation within a window with live feedback. Dictation speech is not sent to Apple. A %@ download is required.</base>
+        <tran loc="ar">يسمح لك الإملاء المحسن بالاستخدام في وضع عدم الاتصال والإملاء المستمر داخل أي نافذة مع الملاحظات المباشرة. لا يتم إرسال كلام الإملاء إلى Apple. مطلوب تنزيل %@.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>IntroAlert/IntroText/LeftCmd</Position>
+      <TranslationSet>
+        <base loc="en">To start dictating, press the Left ⌘ (Command) key twice or choose Start Dictation from the Edit menu.</base>
+        <tran loc="ar">لبدء تشغيل الإملاء، اضغط على مفتاح ⌘ (الأوامر) الأيسر مرتين أو قم باختيار بدء الإملاء من قائمة تحرير.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Language data doesn't exist for desired locale identifier </Description>
+      <Position>MissingLanguageDataError.Title</Position>
+      <TranslationSet>
+        <base loc="en">Data for the desired language is missing</base>
+        <tran loc="ar">بيانات اللغة المطلوبة مفقودة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Generic version of  'English (India)'</Description>
+      <Position>IntroAlertLanguageError/LanguageNotAvailableGeneric</Position>
+      <TranslationSet>
+        <base loc="en">Please confirm your dictation language before enabling Dictation.</base>
+        <tran loc="ar">الرجاء تأكيد لغة الإملاء قبل تمكين الإملاء.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>IntroAlert/IntroText/RightCmd</Position>
+      <TranslationSet>
+        <base loc="en">To start dictating, press the Right ⌘ (Command) key twice or choose Start Dictation from the Edit menu.</base>
+        <tran loc="ar">لبدء تشغيل الإملاء، اضغط على مفتاح ⌘ (الأوامر) الأيمن مرتين أو قم باختيار بدء الإملاء من قائمة تحرير.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Information messages </Description>
+      <Position>InfoMessage.ClosestMatchingCommand</Position>
+      <TranslationSet>
+        <base loc="en">Try: “%@”</base>
+        <tran loc="ar">جرِّب: \"%@\"</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>IntroAlert/OfflineDictationDesc</Position>
+      <TranslationSet>
+        <base loc="en">Enhanced dictation allows offline use and continuous dictation with live feedback. Dictation speech is not sent to Apple.</base>
+        <tran loc="ar">يسمح لك الإملاء المحسن بالاستخدام في وضع عدم الاتصال والإملاء المستمر مع الملاحظات المباشرة. لا يتم إرسال كلام الإملاء إلى Apple.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>InfoMessage.ClosestMatchingMultipleCommands</Position>
+      <TranslationSet>
+        <base loc="en">Suggested Commands %@</base>
+        <tran loc="ar">الأوامر المقترحة %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Display name of Spotlight </Description>
+      <Position>SpotlightDisplayName</Position>
+      <TranslationSet>
+        <base loc="en">Spotlight</base>
+        <tran loc="ar">Spotlight</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>SpeechDictationIM/System/Library/Input Methods/DictationIM.app/Contents/Resources/en.lproj/IntroAlertLanguageError.strings</Filepath>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Don’t Ask Again"; ObjectID = "1108"; </Description>
+      <Position>1108.title</Position>
+      <TranslationSet>
+        <base loc="en">Don’t Ask Again</base>
+        <tran loc="ar">عدم السؤال مرة أخرى</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Dictation Preferences…"; ObjectID = "1093"; </Description>
+      <Position>1093.title</Position>
+      <TranslationSet>
+        <base loc="en">Dictation Preferences…</base>
+        <tran loc="ar">تفضيلات الإملاء...</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "&lt;&lt;DO NOT LOCALIZE&gt;&gt;"; ObjectID = "1095"; </Description>
+      <Position>1095.title</Position>
+      <TranslationSet>
+        <base loc="en">&lt;&lt;DO NOT LOCALIZE&gt;&gt;</base>
+        <tran loc="ar">&lt;&lt;DO NOT LOCALIZE&gt;&gt;</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Not Now"; ObjectID = "1092"; </Description>
+      <Position>1092.title</Position>
+      <TranslationSet>
+        <base loc="en">Not Now</base>
+        <tran loc="ar">ليس الآن</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "You can choose from available languages in Dictation preferences."; ObjectID = "1096"; </Description>
+      <Position>1096.title</Position>
+      <TranslationSet>
+        <base loc="en">You can choose from available languages in Dictation preferences.</base>
+        <tran loc="ar">يمكنك الاختيار من بين اللغات المتوفرة في تفضيلات الإملاء.</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>SpeechDictationIM/System/Library/Input Methods/DictationIM.app/Contents/Resources/en.lproj/GenericModalAlert.strings</Filepath>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "&lt;&lt;DO NOT LOCALIZE&gt;&gt;"; ObjectID = "1092"; </Description>
+      <Position>1092.title</Position>
+      <TranslationSet>
+        <base loc="en">&lt;&lt;DO NOT LOCALIZE&gt;&gt;</base>
+        <tran loc="ar">&lt;&lt;DO NOT LOCALIZE&gt;&gt;</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "&lt;&lt;DO NOT LOCALIZE&gt;&gt;"; ObjectID = "1093"; </Description>
+      <Position>1093.title</Position>
+      <TranslationSet>
+        <base loc="en">&lt;&lt;DO NOT LOCALIZE&gt;&gt;</base>
+        <tran loc="ar">&lt;&lt;DO NOT LOCALIZE&gt;&gt;</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "&lt;&lt;DO NOT LOCALIZE&gt;&gt;"; ObjectID = "1095"; </Description>
+      <Position>1095.title</Position>
+      <TranslationSet>
+        <base loc="en">&lt;&lt;DO NOT LOCALIZE&gt;&gt;</base>
+        <tran loc="ar">&lt;&lt;DO NOT LOCALIZE&gt;&gt;</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "&lt;&lt;DO NOT LOCALIZE&gt;&gt;"; ObjectID = "1096"; </Description>
+      <Position>1096.title</Position>
+      <TranslationSet>
+        <base loc="en">&lt;&lt;DO NOT LOCALIZE&gt;&gt;</base>
+        <tran loc="ar">&lt;&lt;DO NOT LOCALIZE&gt;&gt;</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+</Proj>

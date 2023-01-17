@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Proj>
+  <ProjName>AppleIDPrefpane</ProjName>
+  <File>
+    <Filepath>AppleIDPrefpane/System/Library/PreferencePanes/AppleIDPrefPane.prefPane/Contents/XPCServices/com.apple.preferences.AppleIDPrefPane.remoteservice.xpc/Contents/Resources/en.lproj/InfoPlist.strings</Filepath>
+    <TextItem>
+      <Description>  Infoplist.strings
+  AppleIDPrefPane
+  Created by sunilrao on 08/7/19.
+  Copyright © 2019 Apple Inc. All rights reserved.</Description>
+      <Position>CFBundleVisibleComponentName</Position>
+      <TranslationSet>
+        <base loc="en">System Preferences</base>
+        <tran loc="ar">تفضيلات النظام</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>AppleIDPrefpane/System/Library/PreferencePanes/AppleIDPrefPane.prefPane/Contents/Resources/en.lproj/AIDPPSignInView.strings</Filepath>
+    <TextItem>
+      <Description> Class = "NSImageView"; ibExternalAccessibilityDescription = "Apple ID"; ObjectID = "29K-9w-s76"; </Description>
+      <Position>29K-9w-s76.ibExternalAccessibilityDescription</Position>
+      <TranslationSet>
+        <base loc="en">Apple ID</base>
+        <tran loc="ar">‏Apple ID</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Apple ID"; ObjectID = "vSp-g9-nBI"; </Description>
+      <Position>vSp-g9-nBI.title</Position>
+      <TranslationSet>
+        <base loc="en">Apple ID</base>
+        <tran loc="ar">‏Apple ID</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; alternateTitle = "mh35903"; ObjectID = "nv3-dO-ozx"; </Description>
+      <Position>nv3-dO-ozx.alternateTitle</Position>
+      <TranslationSet>
+        <base loc="en">mh35903</base>
+        <tran loc="ar">mh35903</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSBox"; title = "Box"; ObjectID = "IdW-Ws-yMI"; </Description>
+      <Position>IdW-Ws-yMI.title</Position>
+      <TranslationSet>
+        <base loc="en">Box</base>
+        <tran loc="ar">Box</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>AppleIDPrefpane/System/Library/PreferencePanes/AppleIDPrefPane.prefPane/Contents/Resources/en.lproj/InfoPlist.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>CFBundleName</Position>
+      <TranslationSet>
+        <base loc="en">Apple ID</base>
+        <tran loc="ar">‏Apple ID</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>NSPrefPaneIconLabel</Position>
+      <TranslationSet>
+        <base loc="en">Apple ID</base>
+        <tran loc="ar">‏Apple ID</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description>  Infoplist.strings
+  AppleIDAccount
+  Created by sunilrao on 8/13/18.
+  Copyright © 2018 Apple Inc. All rights reserved.</Description>
+      <Position>NSHumanReadableCopyright</Position>
+      <TranslationSet>
+        <base loc="en">Copyright 2010-2018, Apple Inc.</base>
+        <tran loc="ar">‏Copyright 2010-2018, Apple Inc.‎</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CFBundleVisibleComponentName</Position>
+      <TranslationSet>
+        <base loc="en">System Preferences</base>
+        <tran loc="ar">تفضيلات النظام</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>AppleIDPrefpane/System/Library/PreferencePanes/AppleIDPrefPane.prefPane/Contents/Resources/en.lproj/AppleIDPrefPane.strings</Filepath>
+    <TextItem>
+      <Description> Class = "NSWindow"; title = "≪ do not localize ≫"; ObjectID = "F0z-JX-Cv5"; </Description>
+      <Position>F0z-JX-Cv5.title</Position>
+      <TranslationSet>
+        <base loc="en">≪ do not localize ≫</base>
+        <tran loc="ar">≪ do not localize ≫</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>AppleIDPrefpane/System/Library/PreferencePanes/AppleIDPrefPane.prefPane/Contents/Resources/en.lproj/aidppPrefSearchTerms.searchTerms</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>/com.apple.AppleMediaServicesUI.SpyglassPurchases:dict/localizableStrings:dict/0:array/index:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">media, purchases, app store, services, subscriptions</base>
+        <tran loc="ar">وسائط، الوسائط، مشتريات، المشتريات، الشراء، شراء، خدمات، الخدمات، اشتراكات، الاشتراكات، آب ستور، متجر التطبيقات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/AppleAccount:dict/localizableStrings:dict/0:array/title:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Apple ID</base>
+        <tran loc="ar">‏Apple ID، ابل آي دي، أبل آي دي، معرف أبل، آبل آي دي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/com.apple.AppleMediaServicesUI.SpyglassPurchases:dict/localizableStrings:dict/0:array/title:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Media and Purchases</base>
+        <tran loc="ar">الوسائط والمشتريات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/iCloud:dict/localizableStrings:dict/0:array/index:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">iCloud, cloud, me.com, apple account, find my mac, storage, documents &amp; data, iCloud Drive, Bookmarks, Calendars, Contacts, Mail, Reminders, Reading Lists, Stocks, Home, Safari, Notes, </base>
+        <tran loc="ar">آي كلاود، اي كلاود، iCloud، سحابة، me.com، حساب أبل، حساب ابل، حساب apple، العثور على mac، التخزين، مساحة التخزين، سعة التخزين، المستندات والبيانات، iCloud Drive، إشارات مرجعية، الإشارات المرجعية، التقويمات، التقاويم، جهات الاتصال، البريد، التذكيرات، قوائم القراءة، الأسهم، البورصة، المنزل، Safari، سفاري، الملاحظات، </tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/AppleAccount:dict/localizableStrings:dict/0:array/index:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">iCloud, cloud, me.com, apple account, appleid, apple, id, account, contact, payment, shipping</base>
+        <tran loc="ar">‏iCloud، سحابة، كلاود، me.com، حساب apple، حساب أبل، حساب آبل، appleid، apple، id، معرف، حساب، اتصال، جهة اتصال، دفع، دفعة، شحن</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/iCloud:dict/localizableStrings:dict/0:array/title:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">iCloud</base>
+        <tran loc="ar">iCloud</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/AppleAccount:dict/localizableStrings:dict/0:array/comments:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Localizable index words</base>
+        <tran loc="ar">كلمات الفهرس القابلة للترجمة، كلمات فهرس قابلة للترجمة، كلمة الفهرس القابلة للترجمة، كلمة فهرس قابلة للترجمة، Localizable index words</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/com.apple.AppleMediaServicesUI.SpyglassPurchases:dict/localizableStrings:dict/0:array/comments:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Localizable index words</base>
+        <tran loc="ar">كلمات الفهرس القابلة للترجمة، كلمات فهرس قابلة للترجمة، كلمة الفهرس القابلة للترجمة، كلمة فهرس قابلة للترجمة، Localizable index words</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/iCloud:dict/localizableStrings:dict/0:array/comments:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Localizable index words</base>
+        <tran loc="ar">كلمات الفهرس القابلة للترجمة، كلمات فهرس قابلة للترجمة، كلمة الفهرس القابلة للترجمة، كلمة فهرس قابلة للترجمة، Localizable index words</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>AppleIDPrefpane/System/Library/PreferencePanes/AppleIDPrefPane.prefPane/Contents/Resources/en.lproj/AIDPPOverviewViewController.strings</Filepath>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Sign Out..."; ObjectID = "mY0-Oj-RP3"; </Description>
+      <Position>mY0-Oj-RP3.title</Position>
+      <TranslationSet>
+        <base loc="en">Sign Out...</base>
+        <tran loc="ar">تسجيل الخروج...</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "One account for everything you do with Apple."; ObjectID = "1YV-iU-s9g"; </Description>
+      <Position>1YV-iU-s9g.title</Position>
+      <TranslationSet>
+        <base loc="en">One account for everything you do with Apple.</base>
+        <tran loc="ar">حساب واحد لكل شيء تفعله لدى Apple.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Manage your Apple ID, view your subscriptions and payment information, and adjust iCloud preferences for this Mac."; ObjectID = "NAg-WK-kEc"; </Description>
+      <Position>NAg-WK-kEc.title</Position>
+      <TranslationSet>
+        <base loc="en">Manage your Apple ID, view your subscriptions and payment information, and adjust iCloud preferences for this Mac.</base>
+        <tran loc="ar">إدارة الـ Apple ID، وعرض الاشتراكات ومعلومات الدفع، وضبط تفضيلات iCloud لهذا الـ Mac.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; alternateTitle = "mchlbf8fdc51"; ObjectID = "qIQ-Tt-fYe"; </Description>
+      <Position>qIQ-Tt-fYe.alternateTitle</Position>
+      <TranslationSet>
+        <base loc="en">mchlbf8fdc51</base>
+        <tran loc="ar">mchlbf8fdc51</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "About Apple ID &amp; Privacy..."; ObjectID = "Dxw-AC-QlY"; </Description>
+      <Position>Dxw-AC-QlY.title</Position>
+      <TranslationSet>
+        <base loc="en">About Apple ID &amp; Privacy...</base>
+        <tran loc="ar">حول Apple ID والخصوصية...</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+</Proj>

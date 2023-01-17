@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Proj>
+  <ProjName>FMClientSwift</ProjName>
+  <File>
+    <Filepath>FMClientSwift/System/Library/Assistant/Plugins/FMIPSiriBackendPlugin.assistantBundle/Contents/Resources/en.lproj/SiriBackendPluginLocalizableStrings.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>FMIP_RENEW_CREDENTIALS_DEFAULT</Position>
+      <TranslationSet>
+        <base loc="en">To continue with Siri, enter your password.</base>
+        <tran loc="ar">للمتابعة مع Siri، أدخل كلمة السر.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 
+  SiriBackendPluginLocalizableStrings.strings
+  FindMyiPhoneApp
+
+  Created by Emmanuel Lalande on 4/26/18.
+  Copyright © 2018 Apple, Inc. All rights reserved.
+
+ String for testing whether the bundle loaded in assistant_service / accountsd
+ gets localized correctly when showing auth renewal dialogs.
+ For debug only. Do not translate.
+ </Description>
+      <Position>DNT_FM_LOC_TEST</Position>
+      <TranslationSet>
+        <base loc="en">Localized</base>
+        <tran loc="ar">Localized</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+</Proj>

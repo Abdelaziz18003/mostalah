@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Proj>
+  <ProjName>SystemExtensions</ProjName>
+  <File>
+    <Filepath>SystemExtensions/System/Library/Frameworks/SystemExtensions.framework/Versions/A/Resources/en.lproj/Localizable.strings</Filepath>
+    <TextItem>
+      <Description> 
+  Localizable.strings
+  SystemExtensions
+
+  Copyright © 2019 Apple Inc. All rights reserved.
+
+ Title of alert pane when blocking a new system extension. </Description>
+      <Position>BLOCKED_SYSEXT_ALERT_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">System Extension Blocked</base>
+        <tran loc="ar">تم حظر ملحق النظام</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Message in alert pane when blocking a new kernel extension signed by a given developer name. </Description>
+      <Position>BLOCKED_SYSEXT_ALERT_MESSAGE_APPLICATION_NAME</Position>
+      <TranslationSet>
+        <base loc="en">The program ”%@“ tried to load new system extension(s). If you want to enable these extensions, open Security &amp; Privacy System Preferences.</base>
+        <tran loc="ar">حاول برنامج \"%@\" تحميل ملحقات جديدة للنظام. إذا كنت ترغب في تمكين هذه الملحقات، فافتح تفضيلات الأمن والخصوصية ضمن تفضيلات النظام.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Common alert button for acknowledging. </Description>
+      <Position>ALERT_OK</Position>
+      <TranslationSet>
+        <base loc="en">OK</base>
+        <tran loc="ar">موافق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Alert button for opening the General pane of Security &amp; Privacy Preferences pane. </Description>
+      <Position>ALERT_OPEN_SECURITY_PREFERENCES</Position>
+      <TranslationSet>
+        <base loc="en">Open Security Preferences</base>
+        <tran loc="ar">فتح تفضيلات الأمن</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Message in alert pane when blocking a new kernel extension signed by a given developer name. </Description>
+      <Position>BLOCKED_SYSEXT_ALERT_MESSAGE_DEVELOPER_NAME</Position>
+      <TranslationSet>
+        <base loc="en">A program tried to load new system extension(s) signed by “%@”. If you want to enable these extensions, open Security &amp; Privacy System Preferences.</base>
+        <tran loc="ar">حاول أحد البرامج تحميل ملحقات جديدة للنظام مُوقَّعة من \"%@\". إذا كنت ترغب في تمكين هذه الملحقات، فافتح تفضيلات الأمن والخصوصية من تفضيلات النظام.</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+</Proj>

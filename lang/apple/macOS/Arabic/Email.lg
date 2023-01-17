@@ -1,0 +1,863 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Proj>
+  <ProjName>Email</ProjName>
+  <File>
+    <Filepath>Email/System/Library/PrivateFrameworks/EmailAddressing.framework/Versions/A/Resources/en.lproj/Localizable.stringsdict</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>/and %zu others:dict/Addresses:dict/one:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">and one other</base>
+        <tran loc="ar">وواحد آخر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/and %zu others:dict/Addresses:dict/few:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">and %zu others</base>
+        <tran loc="ar">و%zu أخرى</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/and %zu others:dict/Addresses:dict/many:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">and %zu others</base>
+        <tran loc="ar">و%zu آخر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/and %zu others:dict/Addresses:dict/other:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">and %zu others</base>
+        <tran loc="ar">و%zu آخر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/and %zu others:dict/Addresses:dict/two:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">and %zu others</base>
+        <tran loc="ar">و%zu آخران</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/and %zu others:dict/Addresses:dict/zero:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">and %zu others</base>
+        <tran loc="ar">و%zu آخر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/and %zu others:dict/NSStringLocalizedFormatKey:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%#@Addresses@</base>
+        <tran loc="ar">%#@Addresses@</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>Email/System/Library/PrivateFrameworks/EmailCore.framework/Versions/A/Resources/en.lproj/Localizable.strings</Filepath>
+    <TextItem>
+      <Description> Description for authentication which uses the NTLM protocol to authenticate Exchange connections. Used as the title for an item in the authentication popups in Advanced account preferences. </Description>
+      <Position>NTLM</Position>
+      <TranslationSet>
+        <base loc="en">NTLM</base>
+        <tran loc="ar">NTLM</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Prefix for the subject of a forwarded message. This string will be used when displaying the subject of the message in the main window’s message list as well as in the message viewer. It will not be used when actually sending mail because most other clients do not support localized prefixes. </Description>
+      <Position>Fwd: </Position>
+      <TranslationSet>
+        <base loc="en">Fwd: </base>
+        <tran loc="ar">تحويل: </tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Description for authentication which uses an MD5 digest to authenticate POP connections. Used as the title for an item in the authentication popups in Advanced account preferences. </Description>
+      <Position>Authenticated POP (APOP)</Position>
+      <TranslationSet>
+        <base loc="en">Authenticated POP (APOP)</base>
+        <tran loc="ar">‏POP‏ (APOP) مصادق عليه</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Description for authentication which uses an OAuth2 authentication token. Used as the title for an item in the authentication popups in Advanced account preferences. </Description>
+      <Position>OAuth2</Position>
+      <TranslationSet>
+        <base loc="en">OAuth2</base>
+        <tran loc="ar">OAuth2</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Description for authentication which uses the Kerberos protocol (version 5) to secure network traffic. Used as the title for an item in the authentication popups in Advanced account preferences. </Description>
+      <Position>Kerberos Version 5 (GSSAPI)</Position>
+      <TranslationSet>
+        <base loc="en">Kerberos Version 5 (GSSAPI)</base>
+        <tran loc="ar">الإصدار 5 من Kerberos (GSSAPI)‎</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Description for authentication which uses an authentication token. Used as the title for an item in the authentication popups in Advanced account preferences. </Description>
+      <Position>Apple Token</Position>
+      <TranslationSet>
+        <base loc="en">Apple Token</base>
+        <tran loc="ar">Apple Token</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Description for authentication which uses CRAM-MD5 to encrypt the user's password. Used as the title for an item in the authentication popups in Advanced account preferences. </Description>
+      <Position>MD5 Challenge-Response</Position>
+      <TranslationSet>
+        <base loc="en">MD5 Challenge-Response</base>
+        <tran loc="ar">استجابة لتحدي MD5</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Description for authentication which uses DIGEST-MD5 to encrypt the user's password. Used as the title for an item in the authentication popups in Advanced account preferences. </Description>
+      <Position>HTTP MD5 Digest</Position>
+      <TranslationSet>
+        <base loc="en">HTTP MD5 Digest</base>
+        <tran loc="ar">خلاصة HTTP MD5</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Description for authentication which sends the user's password over the network in the clear. Used as the title for an item in the authentication popups in Advanced account preferences. </Description>
+      <Position>Password</Position>
+      <TranslationSet>
+        <base loc="en">Password</base>
+        <tran loc="ar">كلمة السر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Prefix for the subject of a message which is a reply to another message. This string will be used when displaying the subject of the message in the main window’s message list as well as in the message viewer. It will not be used when actually sending mail because most other clients do not support localized prefixes. </Description>
+      <Position>Re: </Position>
+      <TranslationSet>
+        <base loc="en">Re: </base>
+        <tran loc="ar">رد: </tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Description for authentication which uses an underlying protocol like IPSec or TLS certificates. Used as the title for an item in the authentication popups in Advanced account preferences. </Description>
+      <Position>External (TLS Client Certificate)</Position>
+      <TranslationSet>
+        <base loc="en">External (TLS Client Certificate)</base>
+        <tran loc="ar">خارجي (شهادة عميل TLS)</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>Email/System/Library/PrivateFrameworks/EmailAddressing.framework/Versions/A/Resources/en.lproj/Localizable.strings</Filepath>
+    <TextItem>
+      <Description> Format string used to create the display string for the last item of an exhaustive list of email addresses. </Description>
+      <Position>and %@</Position>
+      <TranslationSet>
+        <base loc="en">and %@</base>
+        <tran loc="ar">و%@</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>Email/System/Library/PrivateFrameworks/Email.framework/Versions/A/Resources/en.lproj/Localizable.stringsdict</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>/%1$ld%2$@Subscriptions:dict/Subscriptions:dict/few:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%2$@ Subscriptions</base>
+        <tran loc="ar">‏%2$@ اشتراكات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/%1$ld%2$@Subscriptions:dict/Subscriptions:dict/many:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%2$@ Subscriptions</base>
+        <tran loc="ar">‏%2$@ اشتراكًا</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/%1$ld%2$@Subscriptions:dict/Subscriptions:dict/other:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%2$@ Subscriptions</base>
+        <tran loc="ar">‏%2$@ اشتراك</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/%1$ld%2$@Subscriptions:dict/Subscriptions:dict/two:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%2$@ Subscriptions</base>
+        <tran loc="ar">اشتراكان</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/%1$ld%2$@Subscriptions:dict/Subscriptions:dict/zero:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%2$@ Subscriptions</base>
+        <tran loc="ar">لا توجد اشتراكات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/%1$ld%2$@Subscriptions:dict/Subscriptions:dict/one:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">1 Subscription</base>
+        <tran loc="ar">اشتراك واحد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/%1$ld%2$@Subscriptions:dict/NSStringLocalizedFormatKey:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%#@Subscriptions@</base>
+        <tran loc="ar">%#@Subscriptions@</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>Email/System/Library/PrivateFrameworks/MailSupport.framework/Versions/A/Resources/en.lproj/Localizable.strings</Filepath>
+    <TextItem>
+      <Description> String to be shown to the user as a suggestions of the phrase they might want to use. </Description>
+      <Position>Email</Position>
+      <TranslationSet>
+        <base loc="en">Email</base>
+        <tran loc="ar">البريد الإلكتروني</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> String to be shown to the user as a suggestions of the phrase they might want to use. </Description>
+      <Position>Email %@</Position>
+      <TranslationSet>
+        <base loc="en">Email %@</base>
+        <tran loc="ar">البريد الإلكتروني - %@</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>Email/System/Library/PrivateFrameworks/Email.framework/Versions/A/Resources/en.lproj/Localizable.strings</Filepath>
+    <TextItem>
+      <Description> title for the " "To or CC" " smart mailbox </Description>
+      <Position>To or CC</Position>
+      <TranslationSet>
+        <base loc="en">To or CC</base>
+        <tran loc="ar">إلى أو نسخة إلى</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> call to action category titles </Description>
+      <Position>Subscriptions</Position>
+      <TranslationSet>
+        <base loc="en">Subscriptions</base>
+        <tran loc="ar">الاشتراكات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> title for the " "VIP" " smart mailbox </Description>
+      <Position>VIP</Position>
+      <TranslationSet>
+        <base loc="en">VIP</base>
+        <tran loc="ar">VIP</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> title for the " "Mute Threads" " smart mailbox </Description>
+      <Position>Mute Threads</Position>
+      <TranslationSet>
+        <base loc="en">Mute Threads</base>
+        <tran loc="ar">سلاسل مكتومة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> title for the " "Unread" " smart mailbox </Description>
+      <Position>Unread</Position>
+      <TranslationSet>
+        <base loc="en">Unread</base>
+        <tran loc="ar">غير مقروءة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Title for the unsubscribe confirmation alert. English version contains non-breaking space between Mailing and List. </Description>
+      <Position>Unsubscribe from Mailing List?</Position>
+      <TranslationSet>
+        <base loc="en">Unsubscribe from Mailing List?</base>
+        <tran loc="ar">إلغاء الاشتراك في القائمة البريدية؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> This string is appended to the body of emails which are sent on behalf of the user after the user tapped the unsubscribe banner that appears in E-Mails that have a unsubscribe header. The placeholder is the original email's subject. </Description>
+      <Position>Apple Mail sent this email to unsubscribe from the message “%@”.</Position>
+      <TranslationSet>
+        <base loc="en">Apple Mail sent this email to unsubscribe from the message “%@”.</base>
+        <tran loc="ar">أرسل بريد Apple هذه الرسالة لإلغاء الاشتراك من \"%@\".</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> title for the " "Attachments" " smart mailbox </Description>
+      <Position>Attachments</Position>
+      <TranslationSet>
+        <base loc="en">Attachments</base>
+        <tran loc="ar">المرفقات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> title for alternative action for unsubscribe suggestions. pressing this will permanently dismiss the suggestion for all future emails from list list / sender. </Description>
+      <Position>Dismiss</Position>
+      <TranslationSet>
+        <base loc="en">Dismiss</base>
+        <tran loc="ar">استبعاد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> title for action to unsubscribe immediately from a mailing list </Description>
+      <Position>Unsubscribe</Position>
+      <TranslationSet>
+        <base loc="en">Unsubscribe</base>
+        <tran loc="ar">إلغاء الاشتراك</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Displayed as message in the unsubscribe confirmation alert when asking the user if she really want to send a Email message to unsubscribe. The placeholder is the user's email address which will be used to send the unsubscribe message. </Description>
+      <Position>Mail will send a message from “%@” to unsubscribe from this mailing list.</Position>
+      <TranslationSet>
+        <base loc="en">Mail will send a message from “%@” to unsubscribe from this mailing list.</base>
+        <tran loc="ar">سيرسل \"البريد\" رسالة من \"%@\" لإلغاء الاشتراك في هذه القائمة البريدية.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> title for the " "Today" " smart mailbox </Description>
+      <Position>Today</Position>
+      <TranslationSet>
+        <base loc="en">Today</base>
+        <tran loc="ar">اليوم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Name of status item shown while downloading new messages with a defined count known </Description>
+      <Position>Downloading %lld of %lld</Position>
+      <TranslationSet>
+        <base loc="en">Downloading %lld of %lld</base>
+        <tran loc="ar">جاري تنزيل %lld من %lld</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Subtitle for a unsubscribe banner, spans two lines. </Description>
+      <Position>This message is from a mailing list.</Position>
+      <TranslationSet>
+        <base loc="en">This message is from a mailing list.</base>
+        <tran loc="ar">هذه الرسالة من قائمة بريدية.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Not yet Implemented </Description>
+      <Position>Not Implemented</Position>
+      <TranslationSet>
+        <base loc="en">Not Implemented</base>
+        <tran loc="ar">لم يتم تنفيذه</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> title for the " "Thread Notifications" " smart mailbox </Description>
+      <Position>Thread Notifications</Position>
+      <TranslationSet>
+        <base loc="en">Thread Notifications</base>
+        <tran loc="ar">إشعارات السلسلة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> title for the " "Flagged" " smart mailbox </Description>
+      <Position>Flagged</Position>
+      <TranslationSet>
+        <base loc="en">Flagged</base>
+        <tran loc="ar">موضوع لها علم</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>Email/System/Library/PrivateFrameworks/MailSupport.framework/Versions/A/Resources/en.lproj/MSMailIntents.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>8yoHVH</Position>
+      <TranslationSet>
+        <base loc="en">Body</base>
+        <tran loc="ar">النص الأساسي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>lG9ouR</Position>
+      <TranslationSet>
+        <base loc="en">Body</base>
+        <tran loc="ar">النص الأساسي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>mtzZs0</Position>
+      <TranslationSet>
+        <base loc="en">Body</base>
+        <tran loc="ar">النص الأساسي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>bNHtR7</Position>
+      <TranslationSet>
+        <base loc="en">Subject: ${subject}</base>
+        <tran loc="ar">الموضوع: ${subject}</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>bbzJMA</Position>
+      <TranslationSet>
+        <base loc="en">Subject: ${subject}</base>
+        <tran loc="ar">الموضوع: ${subject}</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Xka975</Position>
+      <TranslationSet>
+        <base loc="en">Subject: ${subject}
+${body}</base>
+        <tran loc="ar">الموضوع: ${subject}
+${body}</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>bJxPO6</Position>
+      <TranslationSet>
+        <base loc="en">Subject: ${subject}
+${body}</base>
+        <tran loc="ar">الموضوع: ${subject}
+${body}</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>vNsQQw</Position>
+      <TranslationSet>
+        <base loc="en">Subject: ${subject}
+${body}</base>
+        <tran loc="ar">الموضوع: ${subject}
+${body}</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>md2vQv</Position>
+      <TranslationSet>
+        <base loc="en">Status</base>
+        <tran loc="ar">الحالة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>E73xMf</Position>
+      <TranslationSet>
+        <base loc="en">Save as Draft</base>
+        <tran loc="ar">حفظ كمسودة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>3L8Dzh</Position>
+      <TranslationSet>
+        <base loc="en">Read Status</base>
+        <tran loc="ar">الحالة \"مقروءة\"</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SQ9yhM</Position>
+      <TranslationSet>
+        <base loc="en">What kind of emails do you want to search for?</base>
+        <tran loc="ar">ما نوع رسائل البريد الإلكتروني الذي تريد أن تبحث عنه؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>yMeLBB</Position>
+      <TranslationSet>
+        <base loc="en">Unread</base>
+        <tran loc="ar">غير مقروءة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>D4R9iq</Position>
+      <TranslationSet>
+        <base loc="en">Bcc</base>
+        <tran loc="ar">نسخة مخفية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>vW7XZM</Position>
+      <TranslationSet>
+        <base loc="en">Bcc</base>
+        <tran loc="ar">نسخة مخفية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>lDkUYI</Position>
+      <TranslationSet>
+        <base loc="en">To</base>
+        <tran loc="ar">إلى</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>qa3hVi</Position>
+      <TranslationSet>
+        <base loc="en">To</base>
+        <tran loc="ar">إلى</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ABx10m</Position>
+      <TranslationSet>
+        <base loc="en">Airplane Mode is on. The email has been placed in your Outbox and will be sent later.</base>
+        <tran loc="ar">نمط الطائرة يشتغل. تم وضع البريد في صندوق الصادر وسوف يتم إرساله في وقت لاحق.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>JYG99B</Position>
+      <TranslationSet>
+        <base loc="en">What attachments do you want to include?</base>
+        <tran loc="ar">ما المرفقات التي تريد تضمينها؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Ds2BbX</Position>
+      <TranslationSet>
+        <base loc="en">What do you want to search for?</base>
+        <tran loc="ar">ما الذي تريد أن تبحث عنه؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>j2YUgU</Position>
+      <TranslationSet>
+        <base loc="en">Attachments</base>
+        <tran loc="ar">المرفقات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>oNy47a</Position>
+      <TranslationSet>
+        <base loc="en">Who should be in cc?</base>
+        <tran loc="ar">من يجب أن يكون في حقل النسخة؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>pK4jOa</Position>
+      <TranslationSet>
+        <base loc="en">Do you want to save this as a draft?</base>
+        <tran loc="ar">هل ترغب في حفظ هذا كمسودة؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>nJL1KA</Position>
+      <TranslationSet>
+        <base loc="en">Which email account do you want to use?</base>
+        <tran loc="ar">ما حساب البريد الإلكتروني الذي تريد استخدامه؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>sCMShJ</Position>
+      <TranslationSet>
+        <base loc="en">Emails</base>
+        <tran loc="ar">رسائل بريد إلكتروني</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>QCNYwt</Position>
+      <TranslationSet>
+        <base loc="en">Email</base>
+        <tran loc="ar">البريد الإلكتروني</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>qFd2oU-yMeLBB</Position>
+      <TranslationSet>
+        <base loc="en">Just to confirm, you wanted ‘Unread’?</base>
+        <tran loc="ar">فقط للتأكيد، هل قصدت \"غير مقروءة\"؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>M2Kfex</Position>
+      <TranslationSet>
+        <base loc="en">Who should be in bcc?</base>
+        <tran loc="ar">من يجب أن يكون في حقل النسخة المخفية؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>0uh4U6</Position>
+      <TranslationSet>
+        <base loc="en">User Typed Content</base>
+        <tran loc="ar">محتوى من كتابة المستخدم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>nGxQ3N</Position>
+      <TranslationSet>
+        <base loc="en">Compose an email to ${to}; Cc ${cc}; Bcc ${bcc}</base>
+        <tran loc="ar">إنشاء رسالة بريد إلكتروني إلى ${to}؛ نسخة إلى ${cc}؛ نسخة مخفية إلى ${bcc}</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>3vIsAb</Position>
+      <TranslationSet>
+        <base loc="en">Sent</base>
+        <tran loc="ar">تم الإرسال</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>79eA1L</Position>
+      <TranslationSet>
+        <base loc="en">Compose an email to ${to}</base>
+        <tran loc="ar">إنشاء رسالة بريد إلكتروني إلى ${to}</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DT0d7L</Position>
+      <TranslationSet>
+        <base loc="en">Compose an email to ${to}</base>
+        <tran loc="ar">إنشاء رسالة بريد إلكتروني إلى ${to}</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>cUyX6c</Position>
+      <TranslationSet>
+        <base loc="en">Compose an email to ${to}</base>
+        <tran loc="ar">إنشاء رسالة بريد إلكتروني إلى ${to}</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>YRUX5U</Position>
+      <TranslationSet>
+        <base loc="en">Who do you want to send it to?</base>
+        <tran loc="ar">من الذي تريد أن ترسل له؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>GHRHuE</Position>
+      <TranslationSet>
+        <base loc="en">Cc</base>
+        <tran loc="ar">نسخة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>k3upGx</Position>
+      <TranslationSet>
+        <base loc="en">Cc</base>
+        <tran loc="ar">نسخة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>G1XRZq</Position>
+      <TranslationSet>
+        <base loc="en">Who do you want to search for?</base>
+        <tran loc="ar">من الذي تريد أن تبحث عنه؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>vHD1WI</Position>
+      <TranslationSet>
+        <base loc="en">Who do you want to search for?</base>
+        <tran loc="ar">من الذي تريد أن تبحث عنه؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>XaWi9R-yMeLBB</Position>
+      <TranslationSet>
+        <base loc="en">There are ${count} options matching ‘Unread’.</base>
+        <tran loc="ar">هناك ${count} خيار يطابق \"غير مقروءة\".</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SAZwHu</Position>
+      <TranslationSet>
+        <base loc="en">What is the subject of the email?</base>
+        <tran loc="ar">ما موضوع البريد الإلكتروني؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>emRCR2</Position>
+      <TranslationSet>
+        <base loc="en">Recipient</base>
+        <tran loc="ar">المستلم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>XHuuIL</Position>
+      <TranslationSet>
+        <base loc="en">Get ${readStatus} mail</base>
+        <tran loc="ar">إحضار البريد ${readStatus}</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>eMdB1Q</Position>
+      <TranslationSet>
+        <base loc="en">What should the email say?</base>
+        <tran loc="ar">ماذا يجب أن يكون محتوى البريد الإلكتروني؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>jw2yQV</Position>
+      <TranslationSet>
+        <base loc="en">Read</base>
+        <tran loc="ar">مقروءة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>lRTTzu</Position>
+      <TranslationSet>
+        <base loc="en">Get Mail</base>
+        <tran loc="ar">إحضار البريد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>qFd2oU-jw2yQV</Position>
+      <TranslationSet>
+        <base loc="en">Just to confirm, you wanted ‘Read’?</base>
+        <tran loc="ar">فقط للتأكيد، هل قصدت \"جاهز\"؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>XaWi9R-jw2yQV</Position>
+      <TranslationSet>
+        <base loc="en">There are ${count} options matching ‘Read’.</base>
+        <tran loc="ar">هناك ${count} خيار يطابق \"جاهز\".</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>8qU1oM</Position>
+      <TranslationSet>
+        <base loc="en">Send Email</base>
+        <tran loc="ar">إرسال بريد إلكتروني</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ITMunN</Position>
+      <TranslationSet>
+        <base loc="en">Compose an email to ${to}; Cc ${cc}</base>
+        <tran loc="ar">إنشاء رسالة بريد إلكتروني إلى ${to}؛ نسخة إلى ${cc}</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>JHPpi7</Position>
+      <TranslationSet>
+        <base loc="en">Compose an email to ${to}; Cc ${cc}</base>
+        <tran loc="ar">إنشاء رسالة بريد إلكتروني إلى ${to}؛ نسخة إلى ${cc}</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>cBX51t</Position>
+      <TranslationSet>
+        <base loc="en">Compose an email to ${to}; Cc ${cc}</base>
+        <tran loc="ar">إنشاء رسالة بريد إلكتروني إلى ${to}؛ نسخة إلى ${cc}</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>90hbXM</Position>
+      <TranslationSet>
+        <base loc="en">From</base>
+        <tran loc="ar">من</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>jSdXtA</Position>
+      <TranslationSet>
+        <base loc="en">From</base>
+        <tran loc="ar">من</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>wawnJh</Position>
+      <TranslationSet>
+        <base loc="en">From</base>
+        <tran loc="ar">من</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kr0O5c</Position>
+      <TranslationSet>
+        <base loc="en">Which one?</base>
+        <tran loc="ar">أي واحد؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>G2465r</Position>
+      <TranslationSet>
+        <base loc="en">Subject</base>
+        <tran loc="ar">الموضوع</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>GkknPJ</Position>
+      <TranslationSet>
+        <base loc="en">Subject</base>
+        <tran loc="ar">الموضوع</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>vk61Xk</Position>
+      <TranslationSet>
+        <base loc="en">Subject</base>
+        <tran loc="ar">الموضوع</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+</Proj>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Proj>
+  <ProjName>DictionarySettings</ProjName>
+  <File>
+    <Filepath>DictionarySettings/System/Library/PreferenceBundles/DictionarySettings.bundle/en.lproj/DictionarySettings.strings</Filepath>
+    <TextItem>
+      <Description> Displayed when the dictionary cannot be loaded due to being unable to access the Internet.</Description>
+      <Position>DICTIONARY_UNAVAILABLE_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Dictionary Unavailable</base>
+        <tran loc="ar">القاموس غير متوفر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DICTIONARY_UNAVAILABLE_MESSAGE</Position>
+      <TranslationSet>
+        <base loc="en">Connect to the Internet and try again.</base>
+        <tran loc="ar">قم بالاتصال بالإنترنت وحاول مرة أخرى.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> The OK button on the alert message</Description>
+      <Position>OK</Position>
+      <TranslationSet>
+        <base loc="en">OK</base>
+        <tran loc="ar">موافق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 
+  DictionarySettings.strings
+  DictionaryUI
+
+  Created by Karan Miśra on 2016/3/10.
+  Copyright © 2016 Apple. All rights reserved.
+</Description>
+      <Position>Dictionary</Position>
+      <TranslationSet>
+        <base loc="en">Dictionary</base>
+        <tran loc="ar">القاموس</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DICTIONARY_DOWNLOAD_FAILED_MESSAGE</Position>
+      <TranslationSet>
+        <base loc="en">The operation couldn’t be completed.</base>
+        <tran loc="ar">تعذر إكمال العملية.</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+</Proj>

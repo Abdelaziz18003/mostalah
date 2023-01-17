@@ -1,0 +1,1573 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Proj>
+  <ProjName>InstallCoordination</ProjName>
+  <File>
+    <Filepath>InstallCoordination/System/Library/PrivateFrameworks/InstallCoordination.framework/en.lproj/IXUserPresentableErrors.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>BUTTON_TITLE_DELETE</Position>
+      <TranslationSet>
+        <base loc="en">Delete</base>
+        <tran loc="ar">حذف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kIXUserPresentableDataRestoreFailedError_TITLE_MULTIPLE</Position>
+      <TranslationSet>
+        <base loc="en">Unable To Restore Data</base>
+        <tran loc="ar">غير قادر على استعادة البيانات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kIXUserPresentableMissingRequiredCapabilitiesError_BODY</Position>
+      <TranslationSet>
+        <base loc="en">This app is not compatible with this device.</base>
+        <tran loc="ar">هذا التطبيق غير متوافق مع هذا الجهاز.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kIXUserPresentableBlacklistedError_BODY</Position>
+      <TranslationSet>
+        <base loc="en">This app is no longer allowed to be installed on this version of iOS.</base>
+        <tran loc="ar">لم يعد مسموحًا بتثبيت هذا التطبيق على هذا الإصدار من iOS.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kIXUserPresentableGenericHardError_BODY</Position>
+      <TranslationSet>
+        <base loc="en">This app could not be installed.</base>
+        <tran loc="ar">تعذر تثبيت هذا التطبيق.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>BUTTON_TITLE_OK</Position>
+      <TranslationSet>
+        <base loc="en">OK</base>
+        <tran loc="ar">موافق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kIXUserPresentableInsufficientStorageError_BODY</Position>
+      <TranslationSet>
+        <base loc="en">Your device does not have enough available storage to install this app.</base>
+        <tran loc="ar">لا توجد مساحة تخزين كافية على جهازك لتثبيت هذا التطبيق.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kIXUserPresentableNeedsMDMRestoreError_BODY</Position>
+      <TranslationSet>
+        <base loc="en">This app needs to be reinstalled from your organization’s device management app.</base>
+        <tran loc="ar">يجب إعادة تثبيت هذا التطبيق من تطبيق إدارة الجهاز الخاص بشركتك.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kIXUserPresentableNoApplicableArchitecturesError_TITLE_MULTIPLE</Position>
+      <TranslationSet>
+        <base loc="en">Apps Need To Be Updated</base>
+        <tran loc="ar">يجب تحديث التطبيقات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kIXUserPresentableNeedsSideLoadRestoreError_BODY</Position>
+      <TranslationSet>
+        <base loc="en">This app was not installed from the App Store and must be reinstalled manually.</base>
+        <tran loc="ar">لم يتم تثبيت هذا التطبيق من App Store، ويجب إعادة تثبيته يدويًا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> This is presented for failures to install 32-bit apps which are no longer supported </Description>
+      <Position>kIXUserPresentableNoApplicableArchitecturesError_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">“%@” Needs To Be Updated</base>
+        <tran loc="ar">يجب تحديث "%@"</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kIXUserPresentableNoApplicableArchitecturesError_BODY</Position>
+      <TranslationSet>
+        <base loc="en">This app needs to be updated by the developer to work on this version of this OS.</base>
+        <tran loc="ar">يجب تحديث هذا التطبيق من قبل المطور حتى يصبح متوافقًا مع إصدار OS هذا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kIXUserPresentableContentNotOwnedError_BODY</Position>
+      <TranslationSet>
+        <base loc="en">You must purchase this app to install it.</base>
+        <tran loc="ar">يجب شراء التطبيق للتمكن من تثبيته.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> When restoring from backup, we were unable to restore the user's data for this app. </Description>
+      <Position>kIXUserPresentableDataRestoreFailedError_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Unable To Restore Data For “%@”</base>
+        <tran loc="ar">غير قادر على استعادة بيانات "%@".</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kIXUserPresentableDataRestoreFailedError_BODY</Position>
+      <TranslationSet>
+        <base loc="en">We were unable to restore your data for this app.</base>
+        <tran loc="ar">تعذر استعادة بياناتك لهذا التطبيق.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kIXUserPresentableBlacklistedError_TITLE_MULTIPLE</Position>
+      <TranslationSet>
+        <base loc="en">Unable To Install</base>
+        <tran loc="ar">تعذر التثبيت</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kIXUserPresentableContentNotOwnedError_TITLE_MULTIPLE</Position>
+      <TranslationSet>
+        <base loc="en">Unable To Install</base>
+        <tran loc="ar">تعذر التثبيت</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kIXUserPresentableGenericHardError_TITLE_MULTIPLE</Position>
+      <TranslationSet>
+        <base loc="en">Unable To Install</base>
+        <tran loc="ar">تعذر التثبيت</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kIXUserPresentableGenericSoftError_TITLE_MULTIPLE</Position>
+      <TranslationSet>
+        <base loc="en">Unable To Install</base>
+        <tran loc="ar">تعذر التثبيت</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kIXUserPresentableIncorrectPlatformError_TITLE_MULTIPLE</Position>
+      <TranslationSet>
+        <base loc="en">Unable To Install</base>
+        <tran loc="ar">تعذر التثبيت</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kIXUserPresentableInsufficientStorageError_TITLE_MULTIPLE</Position>
+      <TranslationSet>
+        <base loc="en">Unable To Install</base>
+        <tran loc="ar">تعذر التثبيت</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kIXUserPresentableMissingRequiredCapabilitiesError_TITLE_MULTIPLE</Position>
+      <TranslationSet>
+        <base loc="en">Unable To Install</base>
+        <tran loc="ar">تعذر التثبيت</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kIXUserPresentableNeedsMDMRestoreError_TITLE_MULTIPLE</Position>
+      <TranslationSet>
+        <base loc="en">Unable To Install</base>
+        <tran loc="ar">تعذر التثبيت</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kIXUserPresentableNeedsSideLoadRestoreError_TITLE_MULTIPLE</Position>
+      <TranslationSet>
+        <base loc="en">Unable To Install</base>
+        <tran loc="ar">تعذر التثبيت</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kIXUserPresentableNoLongerAvailableInStoreError_TITLE_MULTIPLE</Position>
+      <TranslationSet>
+        <base loc="en">Unable To Install</base>
+        <tran loc="ar">تعذر التثبيت</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>BUTTON_TITLE_KEEP</Position>
+      <TranslationSet>
+        <base loc="en">Keep</base>
+        <tran loc="ar">احتفاظ</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kIXUserPresentableUserInitiatedCancellationError_BODY</Position>
+      <TranslationSet>
+        <base loc="en">Installation of “%@” was canceled.</base>
+        <tran loc="ar">تم إلغاء عملية تثبيت "%@".</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>BUTTON_TITLE_VIEW_IN_APP_STORE</Position>
+      <TranslationSet>
+        <base loc="en">View in App Store</base>
+        <tran loc="ar">عرض في الـ App Store</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kIXUserPresentableNoLongerAvailableInStoreError_BODY</Position>
+      <TranslationSet>
+        <base loc="en">The app is no longer available in the App Store.</base>
+        <tran loc="ar">لم يعد هذا التطبيق متوفرًا في App Store.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kIXUserPresentableIncorrectPlatformError_BODY</Position>
+      <TranslationSet>
+        <base loc="en">This app is not made for this device.</base>
+        <tran loc="ar">هذا التطبيق غير مصمم لهذا الجهاز.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> This is presented for failures to install apps because they're forbidden </Description>
+      <Position>kIXUserPresentableBlacklistedError_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Unable To Install “%@”</base>
+        <tran loc="ar">تعذر تثبيت “%@”</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Presented for apps that are not owned by the currently signed in store user </Description>
+      <Position>kIXUserPresentableContentNotOwnedError_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Unable To Install “%@”</base>
+        <tran loc="ar">تعذر تثبيت “%@”</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> This is a generic error that cannot be resolved. </Description>
+      <Position>kIXUserPresentableGenericHardError_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Unable To Install “%@”</base>
+        <tran loc="ar">تعذر تثبيت “%@”</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> This is a generic error that may resolve itself if retried later. </Description>
+      <Position>kIXUserPresentableGenericSoftError_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Unable To Install “%@”</base>
+        <tran loc="ar">تعذر تثبيت “%@”</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> This is presented for failures to install apps because they're built for a different platform (eg. iPad-only app on iPhone) </Description>
+      <Position>kIXUserPresentableIncorrectPlatformError_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Unable To Install “%@”</base>
+        <tran loc="ar">تعذر تثبيت “%@”</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Device doesn't have enough storage space to install the app </Description>
+      <Position>kIXUserPresentableInsufficientStorageError_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Unable To Install “%@”</base>
+        <tran loc="ar">تعذر تثبيت “%@”</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> This is presented for failures to install apps because they're not compatible with the device </Description>
+      <Position>kIXUserPresentableMissingRequiredCapabilitiesError_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Unable To Install “%@”</base>
+        <tran loc="ar">تعذر تثبيت “%@”</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> This is presented when an app cannot be restored from backup because it's MDM-managed and needs to be reinstalled through that mechanism. </Description>
+      <Position>kIXUserPresentableNeedsMDMRestoreError_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Unable To Install “%@”</base>
+        <tran loc="ar">تعذر تثبيت “%@”</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> This is presented for apps that were loaded onto the device via Xcode or similar and are not present in the app store </Description>
+      <Position>kIXUserPresentableNeedsSideLoadRestoreError_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Unable To Install “%@”</base>
+        <tran loc="ar">تعذر تثبيت “%@”</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Presented for apps that have been removed from the app store and are no longer available for restore from backup </Description>
+      <Position>kIXUserPresentableNoLongerAvailableInStoreError_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Unable To Install “%@”</base>
+        <tran loc="ar">تعذر تثبيت “%@”</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description>
+  IXUserPresentableErrors.strings
+  InstallCoordination
+
+  Copyright © 2017 Apple Inc. All rights reserved.
+
+ These are app installation errors that come from the IXUserPresentableErrorCode enum in &lt;InstallCoordination/IXErrors.h&gt; 
+ “%@” is substituted with the localized app name 
+ This situation should not happen, but we need a string in case it does. </Description>
+      <Position>kIXUserPresentableUnknownError_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Unable To Install “%@”</base>
+        <tran loc="ar">تعذر تثبيت “%@”</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> This also should not happen, but we need a string in case it does. </Description>
+      <Position>kIXUserPresentableUserInitiatedCancellationError_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Unable To Install “%@”</base>
+        <tran loc="ar">تعذر تثبيت “%@”</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kIXUserPresentableGenericSoftError_BODY</Position>
+      <TranslationSet>
+        <base loc="en">Please try again later.</base>
+        <tran loc="ar">الرجاء المحاولة مرة أخرى لاحقًا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kIXUserPresentableUnknownError_BODY</Position>
+      <TranslationSet>
+        <base loc="en">An error occurred while installing “%@”.</base>
+        <tran loc="ar">حدث خطأ أثناء تثبيت "%@".</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>BUTTON_TITLE_SETTINGS</Position>
+      <TranslationSet>
+        <base loc="en">Settings</base>
+        <tran loc="ar">الإعدادات</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>InstallCoordination/System/Library/PrivateFrameworks/InstallCoordination.framework/en.lproj/IXUninstallAlert.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>UNINSTALL_ICON_BODY_DELETE_DATA_AND_FONTS_LEAVES_DOCUMENTS_IN_CLOUD_SINGULAR</Position>
+      <TranslationSet>
+        <base loc="en">Deleting this app will also delete its data and the installed font %@, but any documents or data stored in iCloud will not be deleted.</base>
+        <tran loc="ar">سيؤدي حذف هذا التطبيق إلى حذف بياناته والخط المثبت %@، لكن لن يتم حذف أي مستندات أو بيانات مخزنة في iCloud.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UNINSTALL_ICON_BODY_DELETE_DATA_AND_FONTS_PLURAL</Position>
+      <TranslationSet>
+        <base loc="en">Deleting this app will also delete its data and the following installed fonts: %@.</base>
+        <tran loc="ar">سيؤدي حذف هذا التطبيق إلى حذف بياناته والخطوط المثبتة التالية: %@.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>HEALTHKIT_DELETE_DATA_DELETE</Position>
+      <TranslationSet>
+        <base loc="en">Delete</base>
+        <tran loc="ar">حذف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UNINSTALL_ICON_BUTTON_DELETE</Position>
+      <TranslationSet>
+        <base loc="en">Delete</base>
+        <tran loc="ar">حذف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UNINSTALL_ICON_BODY_DELETE_DATA</Position>
+      <TranslationSet>
+        <base loc="en">Deleting this app will also delete its data.</base>
+        <tran loc="ar">سيؤدي حذف هذا التطبيق إلى حذف بياناته أيضًا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>HEALTHKIT_DELETE_DATA_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Health Data from “%@”</base>
+        <tran loc="ar">البيانات الصحية من "%@"</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UNINSTALL_ICON_BUTTON_DETAILS</Position>
+      <TranslationSet>
+        <base loc="en">Details</base>
+        <tran loc="ar">التفاصيل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UNINSTALL_ICON_TITLE_NOT_ALLOWED</Position>
+      <TranslationSet>
+        <base loc="en">Uninstall Not Allowed</base>
+        <tran loc="ar">غير مسموح بإلغاء التثبيت</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>HEALTHKIT_DELETE_DATA_BODY</Position>
+      <TranslationSet>
+        <base loc="en">You have data from “%@” in your Health data.</base>
+        <tran loc="ar">لديك بيانات من "%@" في البيانات الصحية الخاصة بك.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UNINSTALL_ICON_BUTTON_CANCEL</Position>
+      <TranslationSet>
+        <base loc="en">Cancel</base>
+        <tran loc="ar">إلغاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UNINSTALL_ICON_BODY_DELETE_DATA_AND_FONTS_LEAVES_DOCUMENTS_IN_CLOUD_PLURAL</Position>
+      <TranslationSet>
+        <base loc="en">Deleting this app will also delete its data and the installed fonts %@, but any documents or data stored in iCloud will not be deleted.</base>
+        <tran loc="ar">سيؤدي حذف هذا التطبيق إلى حذف بياناته والخطين المثبتين %@، لكن لن يتم حذف أي مستندات أو بيانات مخزنة في iCloud.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UNINSTALL_ICON_BODY_NOT_ALLOWED</Position>
+      <TranslationSet>
+        <base loc="en">It is not possible to uninstall this app at this time.</base>
+        <tran loc="ar">ليس من الممكن إلغاء تثبيت هذا التطبيق في هذه المرة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description>
+  IXUninstallAlert.strings
+  InstallCoordination
+
+  Copyright © 2017 Apple Inc. All rights reserved.
+</Description>
+      <Position>UNINSTALL_ICON_TITLE_DELETE_WITH_NAME</Position>
+      <TranslationSet>
+        <base loc="en">Delete “%@”?</base>
+        <tran loc="ar">حذف "%@"؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>HEALTHKIT_DELETE_DATA_CANCEL</Position>
+      <TranslationSet>
+        <base loc="en">Keep</base>
+        <tran loc="ar">احتفاظ</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UNINSTALL_ICON_BODY_DELETE_DATA_AND_FONTS_SINGULAR</Position>
+      <TranslationSet>
+        <base loc="en">Deleting this app will also delete its data and the following installed font: %@.</base>
+        <tran loc="ar">سيؤدي حذف هذا التطبيق إلى حذف بياناته والخط المثبت التالي: %@.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UNINSTALL_ICON_BODY_DELETE_DATA_AND_FONTS_LEAVES_DOCUMENTS_IN_CLOUD_ZERO</Position>
+      <TranslationSet>
+        <base loc="en">Deleting this app will also delete its data, but any documents or data stored in iCloud will not be deleted.</base>
+        <tran loc="ar">سيؤدي حذف هذا التطبيق إلى حذف بياناته أيضًا، لكن لن يتم حذف أي مستندات أو بيانات مخزنة في iCloud.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UNINSTALL_ICON_BUTTON_FONTS</Position>
+      <TranslationSet>
+        <base loc="en">Show Installed Fonts</base>
+        <tran loc="ar">إظهار الخطوط المثبتة</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>InstallCoordination/System/Library/PrivateFrameworks/InstallCoordination.framework/en.lproj/IXUserPresentableErrors.stringsdict</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>/kIXUserPresentableBlacklistedError_BODY_MULTIPLE:dict/other_apps:dict/one:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%lu other app</base>
+        <tran loc="ar">تطبيق واحد آخر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/kIXUserPresentableContentNotOwnedError_BODY_MULTIPLE:dict/other_apps:dict/one:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%lu other app</base>
+        <tran loc="ar">تطبيق واحد آخر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/kIXUserPresentableDataRestoreFailedError_BODY_MULTIPLE:dict/other_apps:dict/one:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%lu other app</base>
+        <tran loc="ar">تطبيق واحد آخر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/kIXUserPresentableGenericHardError_BODY_MULTIPLE:dict/other_apps:dict/one:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%lu other app</base>
+        <tran loc="ar">تطبيق واحد آخر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/kIXUserPresentableGenericSoftError_BODY_MULTIPLE:dict/other_apps:dict/one:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%lu other app</base>
+        <tran loc="ar">تطبيق واحد آخر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/kIXUserPresentableIncorrectPlatformError_BODY_MULTIPLE:dict/other_apps:dict/one:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%lu other app</base>
+        <tran loc="ar">تطبيق واحد آخر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/kIXUserPresentableInsufficientStorageError_BODY_MULTIPLE:dict/other_apps:dict/one:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%lu other app</base>
+        <tran loc="ar">تطبيق واحد آخر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/kIXUserPresentableMissingRequiredCapabilitiesError_BODY_MULTIPLE:dict/other_apps:dict/one:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%lu other app</base>
+        <tran loc="ar">تطبيق واحد آخر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/kIXUserPresentableNeedsMDMRestoreError_BODY_MULTIPLE:dict/other_apps:dict/one:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%lu other app</base>
+        <tran loc="ar">تطبيق واحد آخر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/kIXUserPresentableNeedsSideLoadRestoreError_BODY_MULTIPLE:dict/other_apps:dict/one:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%lu other app</base>
+        <tran loc="ar">تطبيقًا واحدًا آخر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/kIXUserPresentableNoApplicableArchitecturesError_BODY_MULTIPLE:dict/NSStringDeviceSpecificRuleType:dict/appletv:dict/other_apps:dict/one:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%lu other app</base>
+        <tran loc="ar">تطبيق واحد آخر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/kIXUserPresentableNoApplicableArchitecturesError_BODY_MULTIPLE:dict/NSStringDeviceSpecificRuleType:dict/applewatch:dict/other_apps:dict/one:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%lu other app</base>
+        <tran loc="ar">تطبيق واحد آخر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/kIXUserPresentableNoApplicableArchitecturesError_BODY_MULTIPLE:dict/NSStringDeviceSpecificRuleType:dict/ipad:dict/other_apps:dict/one:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%lu other app</base>
+        <tran loc="ar">تطبيق واحد آخر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/kIXUserPresentableNoApplicableArchitecturesError_BODY_MULTIPLE:dict/NSStringDeviceSpecificRuleType:dict/iphone:dict/other_apps:dict/one:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%lu other app</base>
+        <tran loc="ar">تطبيق واحد آخر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/kIXUserPresentableNoApplicableArchitecturesError_BODY_MULTIPLE:dict/NSStringDeviceSpecificRuleType:dict/ipod:dict/other_apps:dict/one:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%lu other app</base>
+        <tran loc="ar">تطبيق واحد آخر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/kIXUserPresentableNoLongerAvailableInStoreError_BODY_MULTIPLE:dict/other_apps:dict/one:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%lu other app</base>
+        <tran loc="ar">تطبيق واحد آخر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/kIXUserPresentableNoApplicableArchitecturesError_BODY_MULTIPLE:dict/NSStringDeviceSpecificRuleType:dict/ipad:dict/NSStringLocalizedFormatKey:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">“%@” and %#@other_apps@ need to be updated by the developer to work on this version of iPadOS.</base>
+        <tran loc="ar">يجب على المطور تحديث "%@" و %#@other_apps@ لتعمل على إصدار iPadOS هذا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/kIXUserPresentableInsufficientStorageError_BODY_MULTIPLE:dict/NSStringLocalizedFormatKey:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Your device does not have enough available storage to install “%@” and %#@other_apps@.</base>
+        <tran loc="ar">لا توجد مساحة تخزين كافية على جهازك لتثبيت "%@" و %#@other_apps@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/kIXUserPresentableNeedsSideLoadRestoreError_BODY_MULTIPLE:dict/NSStringLocalizedFormatKey:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">“%@” and %#@other_apps@ were not installed from the App Store and must be reinstalled manually.</base>
+        <tran loc="ar">لم يتم تثبيت "%@" و %#@other_apps@ من App Store، ويجب إعادة التثبيت يدويًا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/kIXUserPresentableNoApplicableArchitecturesError_BODY_MULTIPLE:dict/NSStringDeviceSpecificRuleType:dict/applewatch:dict/NSStringLocalizedFormatKey:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">“%@” and %#@other_apps@ need to be updated by the developer to work on this version of watchOS.</base>
+        <tran loc="ar">يجب على المطور تحديث "%@" و %#@other_apps@ لتعمل على إصدار watchOS هذا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/kIXUserPresentableNoLongerAvailableInStoreError_BODY_MULTIPLE:dict/NSStringLocalizedFormatKey:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">“%@” and %#@other_apps@ are no longer available in the App Store.</base>
+        <tran loc="ar">لم يعد يتوفر "%@" و %#@other_apps@ على App Store.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/kIXUserPresentableNoApplicableArchitecturesError_BODY_MULTIPLE:dict/NSStringDeviceSpecificRuleType:dict/appletv:dict/NSStringLocalizedFormatKey:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">“%@” and %#@other_apps@ need to be updated by the developer to work on this version of tvOS.</base>
+        <tran loc="ar">يجب على المطور تحديث "%@" و %#@other_apps@ لتعمل على إصدار tvOS هذا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/kIXUserPresentableNoApplicableArchitecturesError_BODY:dict/NSStringDeviceSpecificRuleType:dict/appletv:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">This app needs to be updated by the developer to work on this version of tvOS.</base>
+        <tran loc="ar">يجب تحديث هذا التطبيق من قبل المطور حتى يصبح متوافقًا مع إصدار tvOS هذا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/kIXUserPresentableDataRestoreFailedError_BODY_MULTIPLE:dict/NSStringLocalizedFormatKey:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">We were unable to restore your data for “%@” and %#@other_apps@.</base>
+        <tran loc="ar">تعذر استعادة بياناتك لـ "%@" و %#@other_apps@.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/kIXUserPresentableNoApplicableArchitecturesError_BODY:dict/NSStringDeviceSpecificRuleType:dict/iphone:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">This app needs to be updated by the developer to work on this version of iOS.</base>
+        <tran loc="ar">يجب على المطور تحديث هذا التطبيق حتى يعمل على إصدار iOS هذا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/kIXUserPresentableNoApplicableArchitecturesError_BODY:dict/NSStringDeviceSpecificRuleType:dict/ipod:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">This app needs to be updated by the developer to work on this version of iOS.</base>
+        <tran loc="ar">يجب على المطور تحديث هذا التطبيق حتى يعمل على إصدار iOS هذا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/kIXUserPresentableNoApplicableArchitecturesError_BODY:dict/NSStringDeviceSpecificRuleType:dict/applewatch:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">This app needs to be updated by the developer to work on this version of watchOS.</base>
+        <tran loc="ar">يجب تحديث هذا التطبيق من قبل المطور حتى يصبح متوافقًا مع إصدار watchOS هذا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/kIXUserPresentableNeedsMDMRestoreError_BODY_MULTIPLE:dict/NSStringLocalizedFormatKey:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">“%@” and %#@other_apps@ need to be reinstalled from your organization's device management app.</base>
+        <tran loc="ar">يجب إعادة تثبيت "%@" و %#@other_apps@ من تطبيق إدارة الجهاز الخاص بشركتك.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/kIXUserPresentableGenericSoftError_BODY_MULTIPLE:dict/NSStringLocalizedFormatKey:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">“%@” and %#@other_apps@ could not be installed. Please try again later.</base>
+        <tran loc="ar">تعذر تثبيت "%@" و %#@other_apps@. الرجاء المحاولة مرة أخرى لاحقًا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/kIXUserPresentableContentNotOwnedError_BODY_MULTIPLE:dict/NSStringLocalizedFormatKey:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">You must purchase “%@” and %#@other_apps@ to install them.</base>
+        <tran loc="ar">يجب شراء "%@" و %#@other_apps@ للتمكن من التثبيت.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/kIXUserPresentableBlacklistedError_BODY_MULTIPLE:dict/other_apps:dict/few:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%lu other apps</base>
+        <tran loc="ar">%lu تطبيقات أخرى</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/kIXUserPresentableBlacklistedError_BODY_MULTIPLE:dict/other_apps:dict/many:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%lu other apps</base>
+        <tran loc="ar">%lu تطبيقًا آخر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/kIXUserPresentableBlacklistedError_BODY_MULTIPLE:dict/other_apps:dict/other:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%lu other apps</base>
+        <tran loc="ar">%lu تطبيق آخر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/kIXUserPresentableBlacklistedError_BODY_MULTIPLE:dict/other_apps:dict/two:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%lu other apps</base>
+        <tran loc="ar">تطبيقان آخران</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/kIXUserPresentableBlacklistedError_BODY_MULTIPLE:dict/other_apps:dict/zero:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%lu other apps</base>
+        <tran loc="ar">%lu تطبيق آخر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/kIXUserPresentableContentNotOwnedError_BODY_MULTIPLE:dict/other_apps:dict/few:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%lu other apps</base>
+        <tran loc="ar">%lu تطبيقات أخرى</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/kIXUserPresentableContentNotOwnedError_BODY_MULTIPLE:dict/other_apps:dict/many:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%lu other apps</base>
+        <tran loc="ar">%lu تطبيقًا آخر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/kIXUserPresentableContentNotOwnedError_BODY_MULTIPLE:dict/other_apps:dict/other:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%lu other apps</base>
+        <tran loc="ar">%lu تطبيق آخر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/kIXUserPresentableContentNotOwnedError_BODY_MULTIPLE:dict/other_apps:dict/two:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%lu other apps</base>
+        <tran loc="ar">تطبيقان آخران</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/kIXUserPresentableContentNotOwnedError_BODY_MULTIPLE:dict/other_apps:dict/zero:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%lu other apps</base>
+        <tran loc="ar">%lu تطبيق آخر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/kIXUserPresentableDataRestoreFailedError_BODY_MULTIPLE:dict/other_apps:dict/few:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%lu other apps</base>
+        <tran loc="ar">%lu تطبيقات أخرى</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/kIXUserPresentableDataRestoreFailedError_BODY_MULTIPLE:dict/other_apps:dict/many:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%lu other apps</base>
+        <tran loc="ar">%lu تطبيقًا آخر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/kIXUserPresentableDataRestoreFailedError_BODY_MULTIPLE:dict/other_apps:dict/other:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%lu other apps</base>
+        <tran loc="ar">%lu تطبيق آخر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/kIXUserPresentableDataRestoreFailedError_BODY_MULTIPLE:dict/other_apps:dict/two:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%lu other apps</base>
+        <tran loc="ar">تطبيقان آخران</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/kIXUserPresentableDataRestoreFailedError_BODY_MULTIPLE:dict/other_apps:dict/zero:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%lu other apps</base>
+        <tran loc="ar">%lu تطبيق آخر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/kIXUserPresentableGenericHardError_BODY_MULTIPLE:dict/other_apps:dict/few:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%lu other apps</base>
+        <tran loc="ar">%lu تطبيقات أخرى</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/kIXUserPresentableGenericHardError_BODY_MULTIPLE:dict/other_apps:dict/many:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%lu other apps</base>
+        <tran loc="ar">%lu تطبيقًا آخر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/kIXUserPresentableGenericHardError_BODY_MULTIPLE:dict/other_apps:dict/other:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%lu other apps</base>
+        <tran loc="ar">%lu تطبيق آخر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/kIXUserPresentableGenericHardError_BODY_MULTIPLE:dict/other_apps:dict/two:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%lu other apps</base>
+        <tran loc="ar">تطبيقان آخران</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/kIXUserPresentableGenericHardError_BODY_MULTIPLE:dict/other_apps:dict/zero:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%lu other apps</base>
+        <tran loc="ar">%lu تطبيق آخر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/kIXUserPresentableGenericSoftError_BODY_MULTIPLE:dict/other_apps:dict/few:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%lu other apps</base>
+        <tran loc="ar">%lu تطبيقات أخرى</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/kIXUserPresentableGenericSoftError_BODY_MULTIPLE:dict/other_apps:dict/many:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%lu other apps</base>
+        <tran loc="ar">%lu تطبيقًا آخر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/kIXUserPresentableGenericSoftError_BODY_MULTIPLE:dict/other_apps:dict/other:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%lu other apps</base>
+        <tran loc="ar">%lu تطبيق آخر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/kIXUserPresentableGenericSoftError_BODY_MULTIPLE:dict/other_apps:dict/two:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%lu other apps</base>
+        <tran loc="ar">تطبيقان آخران</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/kIXUserPresentableGenericSoftError_BODY_MULTIPLE:dict/other_apps:dict/zero:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%lu other apps</base>
+        <tran loc="ar">%lu تطبيق آخر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/kIXUserPresentableIncorrectPlatformError_BODY_MULTIPLE:dict/other_apps:dict/few:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%lu other apps</base>
+        <tran loc="ar">%lu تطبيقات أخرى</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/kIXUserPresentableIncorrectPlatformError_BODY_MULTIPLE:dict/other_apps:dict/many:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%lu other apps</base>
+        <tran loc="ar">%lu تطبيقًا آخر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/kIXUserPresentableIncorrectPlatformError_BODY_MULTIPLE:dict/other_apps:dict/other:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%lu other apps</base>
+        <tran loc="ar">%lu تطبيق آخر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/kIXUserPresentableIncorrectPlatformError_BODY_MULTIPLE:dict/other_apps:dict/two:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%lu other apps</base>
+        <tran loc="ar">تطبيقان آخران</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/kIXUserPresentableIncorrectPlatformError_BODY_MULTIPLE:dict/other_apps:dict/zero:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%lu other apps</base>
+        <tran loc="ar">%lu تطبيق آخر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/kIXUserPresentableInsufficientStorageError_BODY_MULTIPLE:dict/other_apps:dict/few:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%lu other apps</base>
+        <tran loc="ar">%lu تطبيقات أخرى</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/kIXUserPresentableInsufficientStorageError_BODY_MULTIPLE:dict/other_apps:dict/many:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%lu other apps</base>
+        <tran loc="ar">%lu تطبيقًا آخر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/kIXUserPresentableInsufficientStorageError_BODY_MULTIPLE:dict/other_apps:dict/other:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%lu other apps</base>
+        <tran loc="ar">%lu تطبيق آخر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/kIXUserPresentableInsufficientStorageError_BODY_MULTIPLE:dict/other_apps:dict/two:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%lu other apps</base>
+        <tran loc="ar">تطبيقان آخران</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/kIXUserPresentableInsufficientStorageError_BODY_MULTIPLE:dict/other_apps:dict/zero:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%lu other apps</base>
+        <tran loc="ar">%lu تطبيق آخر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/kIXUserPresentableMissingRequiredCapabilitiesError_BODY_MULTIPLE:dict/other_apps:dict/few:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%lu other apps</base>
+        <tran loc="ar">%lu تطبيقات أخرى</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/kIXUserPresentableMissingRequiredCapabilitiesError_BODY_MULTIPLE:dict/other_apps:dict/many:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%lu other apps</base>
+        <tran loc="ar">%lu تطبيقًا آخر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/kIXUserPresentableMissingRequiredCapabilitiesError_BODY_MULTIPLE:dict/other_apps:dict/other:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%lu other apps</base>
+        <tran loc="ar">%lu تطبيق آخر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/kIXUserPresentableMissingRequiredCapabilitiesError_BODY_MULTIPLE:dict/other_apps:dict/two:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%lu other apps</base>
+        <tran loc="ar">تطبيقان آخران</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/kIXUserPresentableMissingRequiredCapabilitiesError_BODY_MULTIPLE:dict/other_apps:dict/zero:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%lu other apps</base>
+        <tran loc="ar">%lu تطبيق آخر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/kIXUserPresentableNeedsMDMRestoreError_BODY_MULTIPLE:dict/other_apps:dict/few:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%lu other apps</base>
+        <tran loc="ar">%lu تطبيقات أخرى</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/kIXUserPresentableNeedsMDMRestoreError_BODY_MULTIPLE:dict/other_apps:dict/many:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%lu other apps</base>
+        <tran loc="ar">%lu تطبيقًا آخر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/kIXUserPresentableNeedsMDMRestoreError_BODY_MULTIPLE:dict/other_apps:dict/other:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%lu other apps</base>
+        <tran loc="ar">%lu تطبيق آخر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/kIXUserPresentableNeedsMDMRestoreError_BODY_MULTIPLE:dict/other_apps:dict/two:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%lu other apps</base>
+        <tran loc="ar">تطبيقان آخران</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/kIXUserPresentableNeedsMDMRestoreError_BODY_MULTIPLE:dict/other_apps:dict/zero:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%lu other apps</base>
+        <tran loc="ar">%lu تطبيق آخر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/kIXUserPresentableNeedsSideLoadRestoreError_BODY_MULTIPLE:dict/other_apps:dict/few:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%lu other apps</base>
+        <tran loc="ar">%lu تطبيقات أخرى</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/kIXUserPresentableNeedsSideLoadRestoreError_BODY_MULTIPLE:dict/other_apps:dict/many:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%lu other apps</base>
+        <tran loc="ar">%lu تطبيقًا آخر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/kIXUserPresentableNeedsSideLoadRestoreError_BODY_MULTIPLE:dict/other_apps:dict/other:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%lu other apps</base>
+        <tran loc="ar">%lu تطبيق آخر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/kIXUserPresentableNeedsSideLoadRestoreError_BODY_MULTIPLE:dict/other_apps:dict/two:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%lu other apps</base>
+        <tran loc="ar">تطبيقان آخران</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/kIXUserPresentableNeedsSideLoadRestoreError_BODY_MULTIPLE:dict/other_apps:dict/zero:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%lu other apps</base>
+        <tran loc="ar">%lu تطبيق آخر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/kIXUserPresentableNoApplicableArchitecturesError_BODY_MULTIPLE:dict/NSStringDeviceSpecificRuleType:dict/appletv:dict/other_apps:dict/few:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%lu other apps</base>
+        <tran loc="ar">%lu تطبيقات أخرى</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/kIXUserPresentableNoApplicableArchitecturesError_BODY_MULTIPLE:dict/NSStringDeviceSpecificRuleType:dict/appletv:dict/other_apps:dict/many:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%lu other apps</base>
+        <tran loc="ar">%lu تطبيقًا آخر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/kIXUserPresentableNoApplicableArchitecturesError_BODY_MULTIPLE:dict/NSStringDeviceSpecificRuleType:dict/appletv:dict/other_apps:dict/other:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%lu other apps</base>
+        <tran loc="ar">%lu تطبيق آخر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/kIXUserPresentableNoApplicableArchitecturesError_BODY_MULTIPLE:dict/NSStringDeviceSpecificRuleType:dict/appletv:dict/other_apps:dict/two:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%lu other apps</base>
+        <tran loc="ar">تطبيقان آخران</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/kIXUserPresentableNoApplicableArchitecturesError_BODY_MULTIPLE:dict/NSStringDeviceSpecificRuleType:dict/appletv:dict/other_apps:dict/zero:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%lu other apps</base>
+        <tran loc="ar">%lu تطبيق آخر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/kIXUserPresentableNoApplicableArchitecturesError_BODY_MULTIPLE:dict/NSStringDeviceSpecificRuleType:dict/applewatch:dict/other_apps:dict/few:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%lu other apps</base>
+        <tran loc="ar">%lu تطبيقات أخرى</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/kIXUserPresentableNoApplicableArchitecturesError_BODY_MULTIPLE:dict/NSStringDeviceSpecificRuleType:dict/applewatch:dict/other_apps:dict/many:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%lu other apps</base>
+        <tran loc="ar">%lu تطبيقًا آخر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/kIXUserPresentableNoApplicableArchitecturesError_BODY_MULTIPLE:dict/NSStringDeviceSpecificRuleType:dict/applewatch:dict/other_apps:dict/other:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%lu other apps</base>
+        <tran loc="ar">%lu تطبيق آخر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/kIXUserPresentableNoApplicableArchitecturesError_BODY_MULTIPLE:dict/NSStringDeviceSpecificRuleType:dict/applewatch:dict/other_apps:dict/two:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%lu other apps</base>
+        <tran loc="ar">تطبيقان آخران</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/kIXUserPresentableNoApplicableArchitecturesError_BODY_MULTIPLE:dict/NSStringDeviceSpecificRuleType:dict/applewatch:dict/other_apps:dict/zero:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%lu other apps</base>
+        <tran loc="ar">%lu تطبيق آخر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/kIXUserPresentableNoApplicableArchitecturesError_BODY_MULTIPLE:dict/NSStringDeviceSpecificRuleType:dict/ipad:dict/other_apps:dict/few:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%lu other apps</base>
+        <tran loc="ar">%lu تطبيقات أخرى</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/kIXUserPresentableNoApplicableArchitecturesError_BODY_MULTIPLE:dict/NSStringDeviceSpecificRuleType:dict/ipad:dict/other_apps:dict/many:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%lu other apps</base>
+        <tran loc="ar">%lu تطبيقًا آخر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/kIXUserPresentableNoApplicableArchitecturesError_BODY_MULTIPLE:dict/NSStringDeviceSpecificRuleType:dict/ipad:dict/other_apps:dict/other:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%lu other apps</base>
+        <tran loc="ar">%lu تطبيق آخر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/kIXUserPresentableNoApplicableArchitecturesError_BODY_MULTIPLE:dict/NSStringDeviceSpecificRuleType:dict/ipad:dict/other_apps:dict/two:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%lu other apps</base>
+        <tran loc="ar">تطبيقان آخران</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/kIXUserPresentableNoApplicableArchitecturesError_BODY_MULTIPLE:dict/NSStringDeviceSpecificRuleType:dict/ipad:dict/other_apps:dict/zero:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%lu other apps</base>
+        <tran loc="ar">%lu تطبيق آخر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/kIXUserPresentableNoApplicableArchitecturesError_BODY_MULTIPLE:dict/NSStringDeviceSpecificRuleType:dict/iphone:dict/other_apps:dict/few:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%lu other apps</base>
+        <tran loc="ar">%lu تطبيقات أخرى</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/kIXUserPresentableNoApplicableArchitecturesError_BODY_MULTIPLE:dict/NSStringDeviceSpecificRuleType:dict/iphone:dict/other_apps:dict/many:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%lu other apps</base>
+        <tran loc="ar">%lu تطبيقًا آخر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/kIXUserPresentableNoApplicableArchitecturesError_BODY_MULTIPLE:dict/NSStringDeviceSpecificRuleType:dict/iphone:dict/other_apps:dict/other:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%lu other apps</base>
+        <tran loc="ar">%lu تطبيق آخر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/kIXUserPresentableNoApplicableArchitecturesError_BODY_MULTIPLE:dict/NSStringDeviceSpecificRuleType:dict/iphone:dict/other_apps:dict/two:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%lu other apps</base>
+        <tran loc="ar">تطبيقان آخران</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/kIXUserPresentableNoApplicableArchitecturesError_BODY_MULTIPLE:dict/NSStringDeviceSpecificRuleType:dict/iphone:dict/other_apps:dict/zero:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%lu other apps</base>
+        <tran loc="ar">%lu تطبيق آخر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/kIXUserPresentableNoApplicableArchitecturesError_BODY_MULTIPLE:dict/NSStringDeviceSpecificRuleType:dict/ipod:dict/other_apps:dict/few:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%lu other apps</base>
+        <tran loc="ar">%lu تطبيقات أخرى</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/kIXUserPresentableNoApplicableArchitecturesError_BODY_MULTIPLE:dict/NSStringDeviceSpecificRuleType:dict/ipod:dict/other_apps:dict/many:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%lu other apps</base>
+        <tran loc="ar">%lu تطبيقًا آخر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/kIXUserPresentableNoApplicableArchitecturesError_BODY_MULTIPLE:dict/NSStringDeviceSpecificRuleType:dict/ipod:dict/other_apps:dict/other:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%lu other apps</base>
+        <tran loc="ar">%lu تطبيق آخر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/kIXUserPresentableNoApplicableArchitecturesError_BODY_MULTIPLE:dict/NSStringDeviceSpecificRuleType:dict/ipod:dict/other_apps:dict/two:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%lu other apps</base>
+        <tran loc="ar">تطبيقان آخران</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/kIXUserPresentableNoApplicableArchitecturesError_BODY_MULTIPLE:dict/NSStringDeviceSpecificRuleType:dict/ipod:dict/other_apps:dict/zero:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%lu other apps</base>
+        <tran loc="ar">%lu تطبيق آخر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/kIXUserPresentableNoLongerAvailableInStoreError_BODY_MULTIPLE:dict/other_apps:dict/few:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%lu other apps</base>
+        <tran loc="ar">%lu تطبيقات أخرى</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/kIXUserPresentableNoLongerAvailableInStoreError_BODY_MULTIPLE:dict/other_apps:dict/many:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%lu other apps</base>
+        <tran loc="ar">%lu تطبيقًا آخر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/kIXUserPresentableNoLongerAvailableInStoreError_BODY_MULTIPLE:dict/other_apps:dict/other:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%lu other apps</base>
+        <tran loc="ar">%lu تطبيق آخر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/kIXUserPresentableNoLongerAvailableInStoreError_BODY_MULTIPLE:dict/other_apps:dict/two:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%lu other apps</base>
+        <tran loc="ar">تطبيقان آخران</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/kIXUserPresentableNoLongerAvailableInStoreError_BODY_MULTIPLE:dict/other_apps:dict/zero:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%lu other apps</base>
+        <tran loc="ar">%lu تطبيق آخر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/kIXUserPresentableIncorrectPlatformError_BODY_MULTIPLE:dict/NSStringLocalizedFormatKey:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">“%@” and %#@other_apps@ are not made for this device.</base>
+        <tran loc="ar">لم يصمم "%@" و %#@other_apps@ لهذا الجهاز.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/kIXUserPresentableNoApplicableArchitecturesError_BODY_MULTIPLE:dict/NSStringDeviceSpecificRuleType:dict/iphone:dict/NSStringLocalizedFormatKey:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">“%@” and %#@other_apps@ need to be updated by the developer to work on this version of iOS.</base>
+        <tran loc="ar">يجب على المطور تحديث "%@" و %#@other_apps@ لتعمل على إصدار iOS هذا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/kIXUserPresentableNoApplicableArchitecturesError_BODY_MULTIPLE:dict/NSStringDeviceSpecificRuleType:dict/ipod:dict/NSStringLocalizedFormatKey:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">“%@” and %#@other_apps@ need to be updated by the developer to work on this version of iOS.</base>
+        <tran loc="ar">يجب على المطور تحديث "%@" و %#@other_apps@ لتعمل على إصدار iOS هذا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/kIXUserPresentableGenericHardError_BODY_MULTIPLE:dict/NSStringLocalizedFormatKey:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">“%@” and %#@other_apps@ could not be installed.</base>
+        <tran loc="ar">تعذر تثبيت "%@" و %#@other_apps@.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/kIXUserPresentableMissingRequiredCapabilitiesError_BODY_MULTIPLE:dict/NSStringLocalizedFormatKey:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">“%@” and %#@other_apps@ are not compatible with this device.</base>
+        <tran loc="ar">لا يتوافق "%@" و %#@other_apps@ مع هذا الجهاز.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/kIXUserPresentableNoApplicableArchitecturesError_BODY:dict/NSStringDeviceSpecificRuleType:dict/ipad:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">This app needs to be updated by the developer to work on this version of iPadOS.</base>
+        <tran loc="ar">يجب تحديث هذا التطبيق من قبل المطور حتى يصبح متوافقًا مع إصدار iPadOS هذا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/kIXUserPresentableBlacklistedError_BODY_MULTIPLE:dict/NSStringLocalizedFormatKey:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">“%@” and %#@other_apps@ are no longer allowed to be installed on this version of iOS.</base>
+        <tran loc="ar">أصبحت "%@" و %#@other_apps@ غير مسموح بتثبيتها على إصدار iOS هذا.</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>InstallCoordination/System/Library/PrivateFrameworks/InstallCoordination.framework/en.lproj/IXUninstallAlert.stringsdict</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>/UNINSTALL_ICON_BODY_DELETE_DATA_AND_MANY_FONTS:dict/VARIABLE:dict/zero:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Deleting this app will also delete its data.</base>
+        <tran loc="ar">سيؤدي حذف هذا التطبيق إلى حذف بياناته أيضًا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/UNINSTALL_ICON_BODY_DELETE_DATA_AND_MANY_FONTS_LEAVES_DOCUMENTS_IN_CLOUD:dict/VARIABLE:dict/few:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Deleting this app will also delete its data and %ld installed fonts, but any documents or data stored in iCloud will not be deleted.</base>
+        <tran loc="ar">سيؤدي حذف هذا التطبيق إلى حذف بياناته و%ld خطوط مثبتة، لكن لن يتم حذف أي مستندات أو بيانات مخزنة في iCloud.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/UNINSTALL_ICON_BODY_DELETE_DATA_AND_MANY_FONTS_LEAVES_DOCUMENTS_IN_CLOUD:dict/VARIABLE:dict/many:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Deleting this app will also delete its data and %ld installed fonts, but any documents or data stored in iCloud will not be deleted.</base>
+        <tran loc="ar">سيؤدي حذف هذا التطبيق إلى حذف بياناته و%ld خطًا مثبتًا، لكن لن يتم حذف أي مستندات أو بيانات مخزنة في iCloud.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/UNINSTALL_ICON_BODY_DELETE_DATA_AND_MANY_FONTS_LEAVES_DOCUMENTS_IN_CLOUD:dict/VARIABLE:dict/other:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Deleting this app will also delete its data and %ld installed fonts, but any documents or data stored in iCloud will not be deleted.</base>
+        <tran loc="ar">سيؤدي حذف هذا التطبيق إلى حذف بياناته و%ld خط مثبت، لكن لن يتم حذف أي مستندات أو بيانات مخزنة في iCloud.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/UNINSTALL_ICON_BODY_DELETE_DATA_AND_MANY_FONTS_LEAVES_DOCUMENTS_IN_CLOUD:dict/VARIABLE:dict/two:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Deleting this app will also delete its data and %ld installed fonts, but any documents or data stored in iCloud will not be deleted.</base>
+        <tran loc="ar">سيؤدي حذف هذا التطبيق إلى حذف بياناته وخطين مثبتين، لكن لن يتم حذف أي مستندات أو بيانات مخزنة في iCloud.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/UNINSTALL_ICON_BODY_DELETE_DATA_AND_MANY_FONTS:dict/VARIABLE:dict/one:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Deleting this app will also delete its data and one installed font.</base>
+        <tran loc="ar">سيؤدي حذف هذا التطبيق إلى حذف بياناته وخط مثبت واحد.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/UNINSTALL_ICON_BODY_DELETE_DATA_AND_MANY_FONTS_LEAVES_DOCUMENTS_IN_CLOUD:dict/VARIABLE:dict/one:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Deleting this app will also delete its data and one installed font, but any documents or data stored in iCloud will not be deleted.</base>
+        <tran loc="ar">سيؤدي حذف هذا التطبيق إلى حذف بياناته وخط مثبت واحد، لكن لن يتم حذف أي مستندات أو بيانات مخزنة في iCloud.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/UNINSTALL_ICON_BODY_DELETE_DATA_AND_MANY_FONTS:dict/NSStringLocalizedFormatKey:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%#@VARIABLE@</base>
+        <tran loc="ar">%#@VARIABLE@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/UNINSTALL_ICON_BODY_DELETE_DATA_AND_MANY_FONTS_LEAVES_DOCUMENTS_IN_CLOUD:dict/NSStringLocalizedFormatKey:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%#@VARIABLE@</base>
+        <tran loc="ar">%#@VARIABLE@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/UNINSTALL_ICON_BODY_DELETE_DATA_AND_MANY_FONTS_LEAVES_DOCUMENTS_IN_CLOUD:dict/VARIABLE:dict/zero:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Deleting this app will also delete its data, but any documents or data stored in iCloud will not be deleted.</base>
+        <tran loc="ar">سيؤدي حذف هذا التطبيق إلى حذف بياناته أيضًا، لكن لن يتم حذف أي مستندات أو بيانات مخزنة في iCloud.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/UNINSTALL_ICON_BODY_DELETE_DATA_AND_MANY_FONTS:dict/VARIABLE:dict/few:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Deleting this app will also delete its data and %ld installed fonts.</base>
+        <tran loc="ar">سيؤدي حذف هذا التطبيق إلى حذف بياناته و%ld خطوط مثبتة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/UNINSTALL_ICON_BODY_DELETE_DATA_AND_MANY_FONTS:dict/VARIABLE:dict/many:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Deleting this app will also delete its data and %ld installed fonts.</base>
+        <tran loc="ar">سيؤدي حذف هذا التطبيق إلى حذف بياناته و%ld خطًا مثبتًا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/UNINSTALL_ICON_BODY_DELETE_DATA_AND_MANY_FONTS:dict/VARIABLE:dict/other:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Deleting this app will also delete its data and %ld installed fonts.</base>
+        <tran loc="ar">سيؤدي حذف هذا التطبيق إلى حذف بياناته و%ld خط مثبت.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/UNINSTALL_ICON_BODY_DELETE_DATA_AND_MANY_FONTS:dict/VARIABLE:dict/two:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Deleting this app will also delete its data and %ld installed fonts.</base>
+        <tran loc="ar">سيؤدي حذف هذا التطبيق إلى حذف بياناته وخطين مثبتين.</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+</Proj>

@@ -1,0 +1,1546 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Proj>
+  <ProjName>MobileCalendar</ProjName>
+  <File>
+    <Filepath>MobileCalendar/System/Library/AppPlaceholders/MobileCal.app/PlugIns/CalendarWidget.appex/en.lproj/InfoPlist.strings</Filepath>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>CFBundleDisplayName</Position>
+      <TranslationSet>
+        <base loc="en">Calendar</base>
+        <tran loc="ar">التقويم</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>MobileCalendar/private/var/staged_system_apps/MobileCal.app/en.lproj/Localizable.strings</Filepath>
+    <TextItem>
+      <Description> Window title used while Day view is displaying the day before the current day. The parameter is the actual date. For example: \"December 25, 2019 (Yesterday)\" </Description>
+      <Position>%@ (Yesterday)</Position>
+      <TranslationSet>
+        <base loc="en">%@ (Yesterday)</base>
+        <tran loc="ar">%@ (الأمس)</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>Shared Calendar</Position>
+      <TranslationSet>
+        <base loc="en">Shared Calendar</base>
+        <tran loc="ar">تقويم مشترك</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>Delete</Position>
+      <TranslationSet>
+        <base loc="en">Delete</base>
+        <tran loc="ar">حذف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>W%@</Position>
+      <TranslationSet>
+        <base loc="en">W%@</base>
+        <tran loc="ar">أس %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Join calendar body format </Description>
+      <Position>%@ invited you to a shared calendar.</Position>
+      <TranslationSet>
+        <base loc="en">%@ invited you to a shared calendar.</base>
+        <tran loc="ar">قام %@ بدعوتك إلى تقويم مشترك.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> String shown in year view titles when the era changes midway through the year (Japanese calendars only). First argument:first year, second argument:second year </Description>
+      <Position>%@ / %@</Position>
+      <TranslationSet>
+        <base loc="en">%@ / %@</base>
+        <tran loc="ar">‏%@ / -%@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Window title used while Week view is displaying the week before the current week </Description>
+      <Position>Last Week</Position>
+      <TranslationSet>
+        <base loc="en">Last Week</base>
+        <tran loc="ar">الأسبوع الماضي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Extra title added to notifications from possible spammers </Description>
+      <Position>Report Junk…</Position>
+      <TranslationSet>
+        <base loc="en">Report Junk…</base>
+        <tran loc="ar">إبلاغ كدعوة مزعجة…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>Canceled by %@</Position>
+      <TranslationSet>
+        <base loc="en">Canceled by %@</base>
+        <tran loc="ar">تم الإلغاء من قِبل %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Accept all recurrences button </Description>
+      <Position>Accept</Position>
+      <TranslationSet>
+        <base loc="en">Accept</base>
+        <tran loc="ar">قبول</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>INVITEE RESPONSES</Position>
+      <TranslationSet>
+        <base loc="en">INVITEE RESPONSES</base>
+        <tran loc="ar">استجابات المدعوين</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>Comment to Organizer</Position>
+      <TranslationSet>
+        <base loc="en">Comment to Organizer</base>
+        <tran loc="ar">تعليق للمنظم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>No Events You’ve Replied To</Position>
+      <TranslationSet>
+        <base loc="en">No Events You’ve Replied To</base>
+        <tran loc="ar">لا توجد أحداث قمت بالرد عليها</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>Tomorrow</Position>
+      <TranslationSet>
+        <base loc="en">Tomorrow</base>
+        <tran loc="ar">غدًا</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>Details</Position>
+      <TranslationSet>
+        <base loc="en">Details</base>
+        <tran loc="ar">تفاصيل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Keyboard shortcut - go to the previous day, week, month or year </Description>
+      <Position>Go to the Previous Day, Week, Month or Year</Position>
+      <TranslationSet>
+        <base loc="en">Go to the Previous Day, Week, Month or Year</base>
+        <tran loc="ar">الانتقال إلى اليوم أو الأسبوع أو الشهر أو العام السابق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>Inbox (%@)</Position>
+      <TranslationSet>
+        <base loc="en">Inbox (%@)</base>
+        <tran loc="ar">الوارد (%@)</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Keyboard shortcut - go to 'Week' view </Description>
+      <Position>Go to Week View</Position>
+      <TranslationSet>
+        <base loc="en">Go to Week View</base>
+        <tran loc="ar">انتقال إلى العرض "أسبوع"</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Keyboard shortcut - go to 'Month' view </Description>
+      <Position>Go to Month View</Position>
+      <TranslationSet>
+        <base loc="en">Go to Month View</base>
+        <tran loc="ar">انتقال إلى العرض "شهر"</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>No Invitations</Position>
+      <TranslationSet>
+        <base loc="en">No Invitations</base>
+        <tran loc="ar">لا توجد دعوات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Join calendar title format </Description>
+      <Position>Join “%@”?</Position>
+      <TranslationSet>
+        <base loc="en">Join “%@”?</base>
+        <tran loc="ar">الانضمام إلى "%@"؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>Inbox</Position>
+      <TranslationSet>
+        <base loc="en">Inbox</base>
+        <tran loc="ar">صندوق الوارد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>List</Position>
+      <TranslationSet>
+        <base loc="en">List</base>
+        <tran loc="ar">قائمة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>Replied</Position>
+      <TranslationSet>
+        <base loc="en">Replied</base>
+        <tran loc="ar">تم الرد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> The text we show for the title of an event invitation that has no title </Description>
+      <Position>(No Title)</Position>
+      <TranslationSet>
+        <base loc="en">(No Title)</base>
+        <tran loc="ar">(بلا عنوان)</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>Yesterday</Position>
+      <TranslationSet>
+        <base loc="en">Yesterday</base>
+        <tran loc="ar">أمس</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>No Events</Position>
+      <TranslationSet>
+        <base loc="en">No Events</base>
+        <tran loc="ar">لا توجد أحداث</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>ends %@</Position>
+      <TranslationSet>
+        <base loc="en">ends %@</base>
+        <tran loc="ar">ينتهي %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Keyboard shortcut - new event </Description>
+      <Position>New Event</Position>
+      <TranslationSet>
+        <base loc="en">New Event</base>
+        <tran loc="ar">حدث جديد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>Untitled event</Position>
+      <TranslationSet>
+        <base loc="en">New Event</base>
+        <tran loc="ar">حدث جديد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Keyboard shortcut - go to the next day, week, month or year </Description>
+      <Position>Go to the Next Day, Week, Month or Year</Position>
+      <TranslationSet>
+        <base loc="en">Go to the Next Day, Week, Month or Year</base>
+        <tran loc="ar">الانتقال إلى اليوم أو الأسبوع أو الشهر أو العام التالي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>SHARED CALENDAR CHANGES</Position>
+      <TranslationSet>
+        <base loc="en">SHARED CALENDAR CHANGES</base>
+        <tran loc="ar">تغييرات التقويم المشترك</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Title of delegates action sheet in quick switcher </Description>
+      <Position>Switch delegate account…</Position>
+      <TranslationSet>
+        <base loc="en">Switch delegate account…</base>
+        <tran loc="ar">تبديل حساب المفوض…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Shortened name for Skype for Business app </Description>
+      <Position>Skype</Position>
+      <TranslationSet>
+        <base loc="en">Skype</base>
+        <tran loc="ar">‏Skype</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Window title used while Week view is displaying the week after the current week </Description>
+      <Position>Next Week</Position>
+      <TranslationSet>
+        <base loc="en">Next Week</base>
+        <tran loc="ar">الأسبوع القادم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>No Event Selected</Position>
+      <TranslationSet>
+        <base loc="en">No Event Selected</base>
+        <tran loc="ar">لم يتم تحديد أي حدث</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>Week</Position>
+      <TranslationSet>
+        <base loc="en">Week</base>
+        <tran loc="ar">أسبوع</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Window title used while Day view is displaying the day after the current day. The parameter is the actual date. For example: \"December 25, 2019 (Tomorrow)\" </Description>
+      <Position>%@ (Tomorrow)</Position>
+      <TranslationSet>
+        <base loc="en">%@ (Tomorrow)</base>
+        <tran loc="ar">%@ (غدًا)</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Cancel Button </Description>
+      <Position>Cancel</Position>
+      <TranslationSet>
+        <base loc="en">Cancel</base>
+        <tran loc="ar">إلغاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>Cancel - show search animated</Position>
+      <TranslationSet>
+        <base loc="en">Cancel</base>
+        <tran loc="ar">إلغاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>Noon</Position>
+      <TranslationSet>
+        <base loc="en">Noon</base>
+        <tran loc="ar">الظهيرة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Window title used while Week view is displaying the current week </Description>
+      <Position>This Week</Position>
+      <TranslationSet>
+        <base loc="en">This Week</base>
+        <tran loc="ar">هذا الأسبوع</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> If you were invited to the event by someone other than the organizer, ex: Invited By Joe Dude </Description>
+      <Position>Invited by %@</Position>
+      <TranslationSet>
+        <base loc="en">Invited by %@</base>
+        <tran loc="ar">تمت الدعوة بواسطة %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Summary string shown when there are all day and birthday events collapsed </Description>
+      <Position>%@, %@</Position>
+      <TranslationSet>
+        <base loc="en">%@, %@</base>
+        <tran loc="ar">‏%@، %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Label for self in delegation UI </Description>
+      <Position>My Calendar</Position>
+      <TranslationSet>
+        <base loc="en">My Calendar</base>
+        <tran loc="ar">تقويمي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Keyboard shortcut - go to 'Day' view </Description>
+      <Position>Go to Day View</Position>
+      <TranslationSet>
+        <base loc="en">Go to Day View</base>
+        <tran loc="ar">انتقال إلى العرض "يوم"</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>Location changed</Position>
+      <TranslationSet>
+        <base loc="en">Location changed</base>
+        <tran loc="ar">تم تغيير الموقع</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>Event Details</Position>
+      <TranslationSet>
+        <base loc="en">Event Details</base>
+        <tran loc="ar">تفاصيل الحدث</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Keyboard shortcut - select the next event </Description>
+      <Position>Select the Next Event</Position>
+      <TranslationSet>
+        <base loc="en">Select the Next Event</base>
+        <tran loc="ar">تحديد الحدث التالي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No events label text for CarPlay today section </Description>
+      <Position>No More Events Today</Position>
+      <TranslationSet>
+        <base loc="en">No More Events Today</base>
+        <tran loc="ar">لا يوجد مزيد من الأحداث اليوم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Localized string for the number of birthday events shown in Carplay list </Description>
+      <Position>num_birthday_events_carplay_list</Position>
+      <TranslationSet>
+        <base loc="en">num_birthday_events_carplay_list</base>
+        <tran loc="ar">num_birthday_events_carplay_list</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> String used to inform the user that no matches were found for the search string </Description>
+      <Position>No Results</Position>
+      <TranslationSet>
+        <base loc="en">No Results</base>
+        <tran loc="ar">لا توجد نتائج</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Keyboard shortcut - go to 'Year' view </Description>
+      <Position>Go to Year View</Position>
+      <TranslationSet>
+        <base loc="en">Go to Year View</base>
+        <tran loc="ar">انتقال إلى العرض "سنة"</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Title of inbox messages displaying notifications that haven't been responded to. </Description>
+      <Position>New</Position>
+      <TranslationSet>
+        <base loc="en">New</base>
+        <tran loc="ar">جديد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>%d more…</Position>
+      <TranslationSet>
+        <base loc="en">%d more…</base>
+        <tran loc="ar">%d إضافية...</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Window title used while Day view is displaying the current day. </Description>
+      <Position>Today</Position>
+      <TranslationSet>
+        <base loc="en">Today</base>
+        <tran loc="ar">اليوم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> format string for one of x events having conflicts plus title of the event </Description>
+      <Position>1 of %d occurrences of the event “%@” conflicts with other events on your calendar. If you accept all occurrences, one will overlap with another scheduled event.</Position>
+      <TranslationSet>
+        <base loc="en">1 of %d occurrences of the event “%@” conflicts with other events on your calendar. If you accept all occurrences, one will overlap with another scheduled event.</base>
+        <tran loc="ar">يتعارض تكرار واحد من %d من حالات تكرار الحدث \"%@\" مع أحداث أخرى في التقويم. في حال قبول كل حالات التكرار، فسيتراكب تكرار واحد مع حدث آخر مجدول.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>Invitation from</Position>
+      <TranslationSet>
+        <base loc="en">Invitation from</base>
+        <tran loc="ar">دعوة من</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>Calendars</Position>
+      <TranslationSet>
+        <base loc="en">Calendars</base>
+        <tran loc="ar">التقويمات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Keyboard shortcut - refresh calendars </Description>
+      <Position>Refresh Calendars</Position>
+      <TranslationSet>
+        <base loc="en">Refresh Calendars</base>
+        <tran loc="ar">تحديث التقويمات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Name of cell with conference call number in CarPlay </Description>
+      <Position>Call In</Position>
+      <TranslationSet>
+        <base loc="en">Call In</base>
+        <tran loc="ar">اتصل على</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Keyboard shortcut - show today </Description>
+      <Position>Show Today</Position>
+      <TranslationSet>
+        <base loc="en">Show Today</base>
+        <tran loc="ar">إظهار اليوم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Accept all recurrences button </Description>
+      <Position>Accept All</Position>
+      <TranslationSet>
+        <base loc="en">Accept All</base>
+        <tran loc="ar">قبول الكل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Window title used while Day view is displaying the current day. The parameter is the actual date. For example: \"December 25, 2019 (Today)\" </Description>
+      <Position>%@ (Today)</Position>
+      <TranslationSet>
+        <base loc="en">%@ (Today)</base>
+        <tran loc="ar">‏%@(اليوم)</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>INVITATIONS</Position>
+      <TranslationSet>
+        <base loc="en">INVITATIONS</base>
+        <tran loc="ar">الدعوات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Title of header for section showing Siri suggestions. </Description>
+      <Position>Siri Suggestions</Position>
+      <TranslationSet>
+        <base loc="en">Siri Suggestions</base>
+        <tran loc="ar">اقتراحات Siri</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Keyboard shortcut - select the previous event </Description>
+      <Position>Select the Previous Event</Position>
+      <TranslationSet>
+        <base loc="en">Select the Previous Event</base>
+        <tran loc="ar">تحديد الحدث السابق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>Month</Position>
+      <TranslationSet>
+        <base loc="en">Month</base>
+        <tran loc="ar">شهر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No events label text for CarPlay </Description>
+      <Position>No Events Today</Position>
+      <TranslationSet>
+        <base loc="en">No Events Today</base>
+        <tran loc="ar">لا توجد أحداث اليوم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>all-day</Position>
+      <TranslationSet>
+        <base loc="en">all-day</base>
+        <tran loc="ar">طوال اليوم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>From: %@</Position>
+      <TranslationSet>
+        <base loc="en">From: %@</base>
+        <tran loc="ar">من: ‏%@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>Day</Position>
+      <TranslationSet>
+        <base loc="en">Day</base>
+        <tran loc="ar">يوم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Localized string for the number of all day events shown in Carplay list </Description>
+      <Position>num_all_day_events_carplay_list</Position>
+      <TranslationSet>
+        <base loc="en">num_all_day_events_carplay_list</base>
+        <tran loc="ar">num_all_day_events_carplay_list</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Email subject prefix for replying to a proposed time </Description>
+      <Position>RE:</Position>
+      <TranslationSet>
+        <base loc="en">RE:</base>
+        <tran loc="ar">رد:</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>Year</Position>
+      <TranslationSet>
+        <base loc="en">Year</base>
+        <tran loc="ar">سنة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> format string for x of x events having conflicts plus title of the event </Description>
+      <Position>%d of %d occurrences of the event “%@” conflict with other events on your calendar. If you accept all occurrences, some will overlap with other scheduled events. </Position>
+      <TranslationSet>
+        <base loc="en">%d of %d occurrences of the event “%@” conflict with other events on your calendar. If you accept all occurrences, some will overlap with other scheduled events. </base>
+        <tran loc="ar">تتعارض %d من %d من حالات تكرار الحدث \"%@\" مع أحداث أخرى في التقويم. في حال قبول كل حالات التكرار، سيتراكب بعضها مع أحداث أخرى مجدولة. </tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Title of delegates section in inbox </Description>
+      <Position>View Notifications:</Position>
+      <TranslationSet>
+        <base loc="en">View Notifications:</base>
+        <tran loc="ar">إظهار الإشعارات:</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> If the organizer did not invite you this string specifies the organizer: Ex Organized by Joe Dude </Description>
+      <Position>Organized by %@</Position>
+      <TranslationSet>
+        <base loc="en">Organized by %@</base>
+        <tran loc="ar">تم التنظيم بواسطة %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>Keyboard shortcut - search</Position>
+      <TranslationSet>
+        <base loc="en">Search</base>
+        <tran loc="ar">بحث</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>Placeholder used in the search bar in the calendar occurrences list</Position>
+      <TranslationSet>
+        <base loc="en">Search</base>
+        <tran loc="ar">بحث</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>String displayed for the back button of the details of an event occurrence when in search mode</Position>
+      <TranslationSet>
+        <base loc="en">Search</base>
+        <tran loc="ar">بحث</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>Time changed to %@</Position>
+      <TranslationSet>
+        <base loc="en">Time changed to %@</base>
+        <tran loc="ar">تم تغيير الوقت ليصبح %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Button to only accept when there are no conflicts </Description>
+      <Position>Accept Only Available</Position>
+      <TranslationSet>
+        <base loc="en">Accept Only Available</base>
+        <tran loc="ar">قبول المتوفر فقط</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>Date changed to %@</Position>
+      <TranslationSet>
+        <base loc="en">Date changed to %@</base>
+        <tran loc="ar">تم تغيير التاريخ ليصبح %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Prefix for a proposed event, variable is the event title </Description>
+      <Position>PROPOSED: %@</Position>
+      <TranslationSet>
+        <base loc="en">PROPOSED: %@</base>
+        <tran loc="ar">اقتراح: ‏%@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Extra title added to notifications from possible spammers </Description>
+      <Position>This invitation is from an unknown sender.</Position>
+      <TranslationSet>
+        <base loc="en">This invitation is from an unknown sender.</base>
+        <tran loc="ar">هذه الدعوة من مرسل غير معروف.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> format string with all occurrences conflicts when accepting a recurring event. </Description>
+      <Position>All %d occurrences of the event “%@” conflict with other events on your calendar. If you accept, all occurrences will overlap with other scheduled events.</Position>
+      <TranslationSet>
+        <base loc="en">All %d occurrences of the event “%@” conflict with other events on your calendar. If you accept, all occurrences will overlap with other scheduled events.</base>
+        <tran loc="ar">تتعارض كل حالات التكرار الـ %d للحدث \"%@\" مع أحداث أخرى في التقويم. في حال القبول، ستتداخل كل حالات التكرار مع أحداث أخرى مجدولة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Quoted format </Description>
+      <Position>“%@”</Position>
+      <TranslationSet>
+        <base loc="en">“%@”</base>
+        <tran loc="ar">‏"%@"</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Message for alert about conflicting events </Description>
+      <Position>Are you sure you want to accept this recurring event?</Position>
+      <TranslationSet>
+        <base loc="en">Are you sure you want to accept this recurring event?</base>
+        <tran loc="ar">هل أنت متأكد من رغبتك في قبول هذا الحدث المتكرر؟</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>MobileCalendar/System/Library/AppPlaceholders/MobileCal.app/en.lproj/InfoPlist.strings</Filepath>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>NSHumanReadableCopyright</Position>
+      <TranslationSet>
+        <base loc="en">Copyright © 2005-2009 Apple Inc.</base>
+        <tran loc="ar">Copyright © 2005-2009 Apple Inc.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>CFBundleName</Position>
+      <TranslationSet>
+        <base loc="en">MobileCal</base>
+        <tran loc="ar">MobileCal</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>NSLocationWhenInUseUsageDescription</Position>
+      <TranslationSet>
+        <base loc="en">Your location is used to estimate travel times to events and improve location searches.</base>
+        <tran loc="ar">يُستخدم موقعك لتقدير أوقات التنقل للأحداث، وتحسين عمليات البحث عن الموقع.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>ADD_EVENT</Position>
+      <TranslationSet>
+        <base loc="en">Add Event</base>
+        <tran loc="ar">إضافة حدث</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>CFBundleDisplayName</Position>
+      <TranslationSet>
+        <base loc="en">Calendar</base>
+        <tran loc="ar">التقويم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>UISettingsDisplayName</Position>
+      <TranslationSet>
+        <base loc="en">Calendar</base>
+        <tran loc="ar">التقويم</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>MobileCalendar/private/var/staged_system_apps/MobileCal.app/en.lproj/InfoPlist.strings</Filepath>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>NSHumanReadableCopyright</Position>
+      <TranslationSet>
+        <base loc="en">Copyright © 2005-2009 Apple Inc.</base>
+        <tran loc="ar">Copyright © 2005-2009 Apple Inc.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>CFBundleName</Position>
+      <TranslationSet>
+        <base loc="en">MobileCal</base>
+        <tran loc="ar">MobileCal</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>NSLocationWhenInUseUsageDescription</Position>
+      <TranslationSet>
+        <base loc="en">Your location is used to estimate travel times to events and improve location searches.</base>
+        <tran loc="ar">يُستخدم موقعك لتقدير أوقات التنقل للأحداث، وتحسين عمليات البحث عن الموقع.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>ADD_EVENT</Position>
+      <TranslationSet>
+        <base loc="en">Add Event</base>
+        <tran loc="ar">إضافة حدث</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>CFBundleDisplayName</Position>
+      <TranslationSet>
+        <base loc="en">Calendar</base>
+        <tran loc="ar">التقويم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>UISettingsDisplayName</Position>
+      <TranslationSet>
+        <base loc="en">Calendar</base>
+        <tran loc="ar">التقويم</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>MobileCalendar/System/Library/PreferenceBundles/MobileCalSettings.bundle/en.lproj/MobileCalSettings.strings</Filepath>
+    <TextItem>
+      <Description> Enable write access cell title </Description>
+      <Position>Enable write access specifier name</Position>
+      <TranslationSet>
+        <base loc="en">Enable Write Access</base>
+        <tran loc="ar">تمكين إذن الكتابة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 'Show Invitee Declines' preference specifier name </Description>
+      <Position>Show Invitee Declines</Position>
+      <TranslationSet>
+        <base loc="en">Show Invitee Declines</base>
+        <tran loc="ar">إظهار المدعوين الذين رفضوا</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Alerts based on walking time alert title </Description>
+      <Position>Alerts based on walking time</Position>
+      <TranslationSet>
+        <base loc="en">Alerts based on walking time</base>
+        <tran loc="ar">تنبيهات حسب وقت السير</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Sync title for syncing events 2 weeks back </Description>
+      <Position>2 Week Sync Title</Position>
+      <TranslationSet>
+        <base loc="en">Events %@ Weeks Back</base>
+        <tran loc="ar">الأحداث منذ أسبوعين (%@)</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Sync title for syncing events 2 weeks back for iPad </Description>
+      <Position>2 Weeks Sync Title (iPad)</Position>
+      <TranslationSet>
+        <base loc="en">Events %@ Weeks Back</base>
+        <tran loc="ar">الأحداث منذ أسبوعين (%@)</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 'Time zone' preference specifier name </Description>
+      <Position>Calendar Time Zone</Position>
+      <TranslationSet>
+        <base loc="en">Time Zone</base>
+        <tran loc="ar">النطاق الزمني</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 'Time zone' preference specifier name for iPad </Description>
+      <Position>Calendar Time Zone (iPad)</Position>
+      <TranslationSet>
+        <base loc="en">Time Zone</base>
+        <tran loc="ar">النطاق الزمني</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> If 'Should Override One Month Sync Title' is set to 'true', this string will be used instead of the '1 Month Sync Title (iPad)' string for iPad. This is for languages that use a string without a number, such as 'Events from last month'. Set 'Should Override One Month Sync Title (iPad)' to anything other than 'true' to use the normal version with a number ('Events 1 Month Back'). </Description>
+      <Position>1 Month Sync Title Override (iPad)</Position>
+      <TranslationSet>
+        <base loc="en">One month sync override title (iPad)</base>
+        <tran loc="ar">عنوان تجاوز مزامنة شهر واحد ‏(iPad)</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 'Default Calendar' preference specifier name </Description>
+      <Position>Default Calendar</Position>
+      <TranslationSet>
+        <base loc="en">Default Calendar</base>
+        <tran loc="ar">التقويم الافتراضي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 'Time to Leave' preference specifier name </Description>
+      <Position>Time to Leave</Position>
+      <TranslationSet>
+        <base loc="en">Time to Leave</base>
+        <tran loc="ar">يحين وقت المغادرة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Explanatory text when the delegation notifications toggle is enabled </Description>
+      <Position>Receive system notifications for this account. Notifications will always appear in the inbox.</Position>
+      <TranslationSet>
+        <base loc="en">Receive system notifications for this account. Notifications will always appear in the inbox.</base>
+        <tran loc="ar">ستتلقى إشعارات خاصة بالنظام لهذا الحساب. ستظهر الإشعارات دائمًا في صندوق الوارد.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Alerts based on driving time alert title </Description>
+      <Position>Alerts based on driving time</Position>
+      <TranslationSet>
+        <base loc="en">Alerts based on driving time</base>
+        <tran loc="ar">تنبيهات حسب وقت القيادة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Automatic week start format </Description>
+      <Position>Automatic week start format</Position>
+      <TranslationSet>
+        <base loc="en">%1$@ (%2$@ default)</base>
+        <tran loc="ar">‏%1$@ (الافتراضي - %2$@)</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Transit explanatory footer text </Description>
+      <Position>Transit footer text</Position>
+      <TranslationSet>
+        <base loc="en">Note: Transit alerts may not be availible in your area.</base>
+        <tran loc="ar">ملاحظة: قد لا تكون تنبيهات المواصلات متوفرة في منطقتك.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Title of button to grant permission to new delegate </Description>
+      <Position>New button title</Position>
+      <TranslationSet>
+        <base loc="en">Add Person</base>
+        <tran loc="ar">إضافة شخص</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Footer text for 'Time Zone' group specifier </Description>
+      <Position>Time Zone Override Text</Position>
+      <TranslationSet>
+        <base loc="en">The Time Zone Override always shows event dates and times in the selected time zone.\n\nWhen off, events will display according to the time zone of your current location.</base>
+        <tran loc="ar">يعمل "تجاوز النطاق الزمني" على إظهار تواريخ وأوقات الأحداث في النطاق الزمني المحدد دائمًا.\n\nعند إيقافه، يتم عرض الأحداث وفقًا للنطاق الزمني لموقعك الحالي.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 'Delegation' preference specifier name </Description>
+      <Position>Delegate Calendars</Position>
+      <TranslationSet>
+        <base loc="en">Delegate Calendars</base>
+        <tran loc="ar">تفويض التقويمات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Sync title for syncing events 3 month back </Description>
+      <Position>3 Month Sync Title</Position>
+      <TranslationSet>
+        <base loc="en">Events %@ Months Back</base>
+        <tran loc="ar">الأحداث منذ %@ أشهر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Sync title for syncing events 3 month back for iPad </Description>
+      <Position>3 Months Sync Title (iPad)</Position>
+      <TranslationSet>
+        <base loc="en">Events %@ Months Back</base>
+        <tran loc="ar">الأحداث منذ %@ أشهر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Sync title for syncing events 6 month back </Description>
+      <Position>6 Month Sync Title</Position>
+      <TranslationSet>
+        <base loc="en">Events %@ Months Back</base>
+        <tran loc="ar">الأحداث منذ %@ أشهر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Sync title for syncing events 6 month back for iPad </Description>
+      <Position>6 Months Sync Title (iPad)</Position>
+      <TranslationSet>
+        <base loc="en">Events %@ Months Back</base>
+        <tran loc="ar">الأحداث منذ %@ أشهر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Title of group containing all accounts the current account has been granted delegate access to </Description>
+      <Position>Accounts I can access group title</Position>
+      <TranslationSet>
+        <base loc="en">Accounts I can access:</base>
+        <tran loc="ar">الحسابات التي يمكنني الوصول إليها:</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Sync title for syncing events 1 month back </Description>
+      <Position>1 Month Sync Title</Position>
+      <TranslationSet>
+        <base loc="en">Events %@ Month Back</base>
+        <tran loc="ar">الأحداث منذ شهر واحد (%@)</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Sync title for syncing events 1 month back for iPad </Description>
+      <Position>1 Month Sync Title (iPad)</Position>
+      <TranslationSet>
+        <base loc="en">Events %@ Month Back</base>
+        <tran loc="ar">الأحداث منذ شهر واحد (%@)</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 'Week View Starts On Today' preference specifier name </Description>
+      <Position>Week View Starts On Today</Position>
+      <TranslationSet>
+        <base loc="en">Week View Starts On Today</base>
+        <tran loc="ar">عرض الأسبوع يبدأ من اليوم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Title of group on first delegate screen </Description>
+      <Position>Delegation first screen group title</Position>
+      <TranslationSet>
+        <base loc="en">Accounts supporting delegation</base>
+        <tran loc="ar">الحسابات الداعمة للتفويض</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 'All-Day Events' preference specifier name </Description>
+      <Position>All-Day Events</Position>
+      <TranslationSet>
+        <base loc="en">All-Day Events</base>
+        <tran loc="ar">أحداث طوال اليوم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Footer text for enable write access switch when switch is on (enabled) </Description>
+      <Position>Enable write access for delegate explanatory note (switch on)</Position>
+      <TranslationSet>
+        <base loc="en">This account can create, edit and delete events and calendars on your behalf.</base>
+        <tran loc="ar">يمكن لهذا الحساب إنشاء وتحرير وإزالة الأحداث والتقويمات بالنيابة عنك.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 'Sync' preference specifier name </Description>
+      <Position>Sync Specifier Name</Position>
+      <TranslationSet>
+        <base loc="en">Sync</base>
+        <tran loc="ar">مزامنة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 'Sync' preference specifier name </Description>
+      <Position>Sync Specifier Name (iPad)</Position>
+      <TranslationSet>
+        <base loc="en">Sync</base>
+        <tran loc="ar">مزامنة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>Confirm delete delegate alert sheet cancel button</Position>
+      <TranslationSet>
+        <base loc="en">Cancel</base>
+        <tran loc="ar">إلغاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 'Default Alert Times' preference specifier name </Description>
+      <Position>Default Alert Times</Position>
+      <TranslationSet>
+        <base loc="en">Default Alert Times</base>
+        <tran loc="ar">أوقات التنبيه الافتراضية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Footer text for Accounts with access to me group </Description>
+      <Position>Accounts with access to me explanatory note</Position>
+      <TranslationSet>
+        <base loc="en">Manage who has access to your calendars.</base>
+        <tran loc="ar">يمكن إدارة من لديه إذن الوصول إلى تقويماتك.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Footer text for enable write access switch when switch is off (disabled) </Description>
+      <Position>Enable write access for delegate explanatory note (switch off)</Position>
+      <TranslationSet>
+        <base loc="en">This account can view your calendars and the details of non-private events.</base>
+        <tran loc="ar">يمكن لهذا الحساب عرض تقويماتك وتفاصيل الأحداث غير الخاصة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 'Location Suggestions' preference specifier name </Description>
+      <Position>Location Suggestions</Position>
+      <TranslationSet>
+        <base loc="en">Location Suggestions</base>
+        <tran loc="ar">اقتراحات المواقع</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> None Alert default alert title </Description>
+      <Position>None Alert</Position>
+      <TranslationSet>
+        <base loc="en">None</base>
+        <tran loc="ar">لا شيء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Title of group containing all accounts that have been granted delegate access to the current account </Description>
+      <Position>Accounts with access to me group title</Position>
+      <TranslationSet>
+        <base loc="en">Allow access to my calendar:</base>
+        <tran loc="ar">السماح بالوصول إلى تقويمي:</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Footer text for Accounts I can access group </Description>
+      <Position>Accounts I can access explanatory note</Position>
+      <TranslationSet>
+        <base loc="en">Use the Calendar app to show or hide calendars for the accounts you have turned on.</base>
+        <tran loc="ar">استخدم تطبيق التقويم لإظهار أو إخفاء التقويمات للحسابات التي شغلتها.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> If 'Should Override One Month Sync Title' is set to 'true', then use the '1 Month Sync Title Override' for the one month sync title </Description>
+      <Position>Should Override One Month Sync Title</Position>
+      <TranslationSet>
+        <base loc="en">false</base>
+        <tran loc="ar">خطأ</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> If 'Should Override One Month Sync Title (iPad)' is set to 'true', then use the '1 Month Sync Title Override (iPad)' for the one month sync title </Description>
+      <Position>Should Override One Month Sync Title (iPad)</Position>
+      <TranslationSet>
+        <base loc="en">false</base>
+        <tran loc="ar">خطأ</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>Confirm delete delegate alert sheet delete button</Position>
+      <TranslationSet>
+        <base loc="en">Remove Delegate</base>
+        <tran loc="ar">إزالة المفوض</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Title for remove delegate button </Description>
+      <Position>Remove delegate name</Position>
+      <TranslationSet>
+        <base loc="en">Remove Delegate</base>
+        <tran loc="ar">إزالة المفوض</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Footer text for Accounts I can access group when there are no accounts </Description>
+      <Position>No accounts I can access explanatory note</Position>
+      <TranslationSet>
+        <base loc="en">No accounts have granted you access to read or manage their calendars.</base>
+        <tran loc="ar">لم تمنحك أية حسابات الإذن لقراءة أو إدارة التقويمات.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No Limit (All Events) sync title </Description>
+      <Position>No Limit</Position>
+      <TranslationSet>
+        <base loc="en">All Events</base>
+        <tran loc="ar">كل الأحداث</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No Limit (All Events) sync title for iPad </Description>
+      <Position>No Limit (iPad)</Position>
+      <TranslationSet>
+        <base loc="en">All Events</base>
+        <tran loc="ar">كل الأحداث</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> If 'Should Override One Month Sync Title' is set to 'true', this string will be used instead of the '1 Month Sync Title (iPad)' string for iPad. This is for languages that use a string without a number, such as 'Events from last month'. Set 'Should Override One Month Sync Title' to anything other than 'true' to use the normal version with a number ('Events 1 Month Back'). </Description>
+      <Position>1 Month Sync Title Override</Position>
+      <TranslationSet>
+        <base loc="en">One month sync override title</base>
+        <tran loc="ar">عنوان تجاوز مزامنة شهر واحد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 'Birthdays' preference specifier name </Description>
+      <Position>Birthday Calendar</Position>
+      <TranslationSet>
+        <base loc="en">Birthdays</base>
+        <tran loc="ar">أعياد الميلاد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 'Alternate Calendars' preference specifier name </Description>
+      <Position>Alternate Calendars</Position>
+      <TranslationSet>
+        <base loc="en">Alternate Calendars</base>
+        <tran loc="ar">تقويمات بديلة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 'Week Numbers' preference specifier name </Description>
+      <Position>Week Numbers</Position>
+      <TranslationSet>
+        <base loc="en">Week Numbers</base>
+        <tran loc="ar">إظهار أرقام الأسابيع</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>Format string for delegate search results</Position>
+      <TranslationSet>
+        <base loc="en">%@ (%@)</base>
+        <tran loc="ar">‏%@ (%@)</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Description for delete confirmation alert sheet </Description>
+      <Position>Confirm delete delegate alert sheet description</Position>
+      <TranslationSet>
+        <base loc="en">Removing this delegate will remove their read and write access to your account.</base>
+        <tran loc="ar">ستؤدي إزالة هذا المفوض إلى إزالة أذونات القراءة والكتابة الممنوحة لهم على حسابك.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Name of preference to turn on system notifications for a delegate </Description>
+      <Position>Show Notifications</Position>
+      <TranslationSet>
+        <base loc="en">Show Notifications</base>
+        <tran loc="ar">إظهار الإشعارات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Name of detail text when delegate account is on. </Description>
+      <Position>On</Position>
+      <TranslationSet>
+        <base loc="en">On</base>
+        <tran loc="ar">مشغّل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Explanatory text for why delegate notifications toggle is disabled </Description>
+      <Position>View Only delegates will not receive notifications in the inbox or receive system notifications.</Position>
+      <TranslationSet>
+        <base loc="en">View Only delegates will not receive notifications in the inbox or receive system notifications.</base>
+        <tran loc="ar">لن يتلقى مفوضي "العرض فقط" إشعارات في صندوق الوارد، أو سيتلموا أية رسائل خاصة بالنظام.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 'Time Zone Override' preference specifier name </Description>
+      <Position>Time Zone Override</Position>
+      <TranslationSet>
+        <base loc="en">Time Zone Override</base>
+        <tran loc="ar">تجاوز النطاق الزمني</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 'Time Zone Override' preference specifier name for iPad </Description>
+      <Position>Time Zone Override (iPad)</Position>
+      <TranslationSet>
+        <base loc="en">Time Zone Override</base>
+        <tran loc="ar">تجاوز النطاق الزمني</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 'Time Zone Override' preference specifier name in cell title </Description>
+      <Position>Time Zone Override Cell Title</Position>
+      <TranslationSet>
+        <base loc="en">Time Zone Override</base>
+        <tran loc="ar">تجاوز النطاق الزمني</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 'Time Zone Override' preference specifier name in cell title for iPad </Description>
+      <Position>Time Zone Override Cell Title (iPad)</Position>
+      <TranslationSet>
+        <base loc="en">Time Zone Override</base>
+        <tran loc="ar">تجاوز النطاق الزمني</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Alerts based on transit time alert title </Description>
+      <Position>Alerts based on transit time</Position>
+      <TranslationSet>
+        <base loc="en">Alerts based on transit time</base>
+        <tran loc="ar">تنبيهات حسب وقت المواصلات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 'Start Week On' preference specifier name </Description>
+      <Position>Start Week On</Position>
+      <TranslationSet>
+        <base loc="en">Start Week On</base>
+        <tran loc="ar">بدء الأسبوع يوم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 'Timed Event' preference specifier name </Description>
+      <Position>Timed Event</Position>
+      <TranslationSet>
+        <base loc="en">Events</base>
+        <tran loc="ar">أحداث</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Title of button to enable or disable delegate syncing </Description>
+      <Position>Show Delegation Calendar</Position>
+      <TranslationSet>
+        <base loc="en">Show Delegation Calendar</base>
+        <tran loc="ar">عرض تقويم التفويض</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Alternate calendar off title text </Description>
+      <Position>Alternate Calendar Off</Position>
+      <TranslationSet>
+        <base loc="en">Off</base>
+        <tran loc="ar">إيقاف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Name of detail text when delegate account is off. </Description>
+      <Position>Off</Position>
+      <TranslationSet>
+        <base loc="en">Off</base>
+        <tran loc="ar">متوقف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Time zone region off for preference specifier </Description>
+      <Position>Time Zone Region Off</Position>
+      <TranslationSet>
+        <base loc="en">Off</base>
+        <tran loc="ar">متوقف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Time zone support off for preference specifier </Description>
+      <Position>Time Zone Support Off</Position>
+      <TranslationSet>
+        <base loc="en">Off</base>
+        <tran loc="ar">إيقاف</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>MobileCalendar/private/var/staged_system_apps/MobileCal.app/en.lproj/Intents.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>yfqVJY</Position>
+      <TranslationSet>
+        <base loc="en">Create '${title}' on ${startDate}</base>
+        <tran loc="ar">إنشاء '${title}' بتاريخ ${startDate}</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>KrJvqO</Position>
+      <TranslationSet>
+        <base loc="en">Create '${title}'</base>
+        <tran loc="ar">إنشاء '${title}'</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>euF8RG</Position>
+      <TranslationSet>
+        <base loc="en">Create '${title}' from ${startDate} until ${endDate}</base>
+        <tran loc="ar">إنشاء حدث '${title}' من ${startDate} حتى ${endDate}</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>VEEOft</Position>
+      <TranslationSet>
+        <base loc="en">Create '${title}' from ${startDate} until ${endDate} at ${locationName}</base>
+        <tran loc="ar">إنشاء '${title}' من ${startDate} حتى ${endDate} في ${locationName}</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>LdBf4T</Position>
+      <TranslationSet>
+        <base loc="en">Create an event on ${startDate}</base>
+        <tran loc="ar">إنشاء حدث جديد بتاريخ ${startDate}</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UivSLd</Position>
+      <TranslationSet>
+        <base loc="en">Create a new calendar event</base>
+        <tran loc="ar">إنشاء حدث جديد في التقويم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>aQAqlH</Position>
+      <TranslationSet>
+        <base loc="en">Create '${title}' on ${startDate} at ${locationName}</base>
+        <tran loc="ar">إنشاء '${title}' بتاريخ ${startDate} في ${locationName}</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>QpzB4u</Position>
+      <TranslationSet>
+        <base loc="en">Create an event at ${locationName}</base>
+        <tran loc="ar">إنشاء حدث جديد في ${locationName}</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>8t9Plf</Position>
+      <TranslationSet>
+        <base loc="en">Create an event on ${startDate} until ${endDate} at ${locationName}</base>
+        <tran loc="ar">إنشاء حدث من ${startDate} حتى ${endDate} في ${locationName}</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>YhFyuG</Position>
+      <TranslationSet>
+        <base loc="en">Create an event on ${startDate} until ${endDate}</base>
+        <tran loc="ar">إنشاء حدث من ${startDate} حتى ${endDate}</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>M47L4e</Position>
+      <TranslationSet>
+        <base loc="en">Create an event on ${startDate} at ${locationName}</base>
+        <tran loc="ar">إنشاء حدث بتاريخ ${startDate} في ${locationName}</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ZLyOIb</Position>
+      <TranslationSet>
+        <base loc="en">Create '${title}' at ${locationName}</base>
+        <tran loc="ar">إنشاء '${title}' في ${locationName}</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>MobileCalendar/private/var/staged_system_apps/MobileCal.app/PlugIns/CalendarWidget.appex/en.lproj/InfoPlist.strings</Filepath>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>CFBundleDisplayName</Position>
+      <TranslationSet>
+        <base loc="en">Calendar</base>
+        <tran loc="ar">التقويم</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>MobileCalendar/private/var/staged_system_apps/MobileCal.app/en.lproj/UninstallDialog.strings</Filepath>
+    <TextItem>
+      <Description> uninstall dialog </Description>
+      <Position>UNINSTALL_ICON_BODY_DELETE_DATA</Position>
+      <TranslationSet>
+        <base loc="en">Deleting this app will not delete your calendars or calendar data.</base>
+        <tran loc="ar">لن يؤدي حذف هذا التطبيق إلى حذف التقويمات أو بيانات التقويم الخاصة بك.</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>MobileCalendar/private/var/staged_system_apps/MobileCal.app/PlugIns/CalendarWidget.appex/en.lproj/TodayWidget.strings</Filepath>
+    <TextItem>
+      <Description> No events label text </Description>
+      <Position>No Events</Position>
+      <TranslationSet>
+        <base loc="en">No Events</base>
+        <tran loc="ar">لا توجد أحداث</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>MobileCalendar/System/Library/Assistant/UIPlugins/Calendar.siriUIBundle/en.lproj/Localizable.strings</Filepath>
+    <TextItem>
+      <Description> Attendee display text end format for three or more attendees </Description>
+      <Position>%@ and %@ (end format)</Position>
+      <TranslationSet>
+        <base loc="en">%@ and %@</base>
+        <tran loc="ar">%@ و %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Attendee display text format for two attendees </Description>
+      <Position>%@ and %@ (two item format)</Position>
+      <TranslationSet>
+        <base loc="en">%@ and %@</base>
+        <tran loc="ar">%@ و %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Attendee display text middle format for three or more attendees </Description>
+      <Position>%@, %@ (middle format)</Position>
+      <TranslationSet>
+        <base loc="en">%@, %@</base>
+        <tran loc="ar">‏%@، %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Attendee display text start format for three or more attendees </Description>
+      <Position>%@, %@ (start format)</Position>
+      <TranslationSet>
+        <base loc="en">%@, %@</base>
+        <tran loc="ar">‏%@، %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Event title with participant </Description>
+      <Position>%1$@ with %2$@</Position>
+      <TranslationSet>
+        <base loc="en">%1$@ with %2$@</base>
+        <tran loc="ar">‏%1$@ مع %2$@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> View controller title </Description>
+      <Position>Calendar</Position>
+      <TranslationSet>
+        <base loc="en">Calendar</base>
+        <tran loc="ar">التقويم</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+</Proj>

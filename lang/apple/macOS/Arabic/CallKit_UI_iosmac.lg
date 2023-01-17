@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Proj>
+  <ProjName>CallKit_UI_iosmac</ProjName>
+  <File>
+    <Filepath>CallKit_UI_iosmac/System/iOSSupport/System/Library/Frameworks/IdentityLookupUI.framework/Versions/A/Resources/en.lproj/IdentityLookupUI.strings</Filepath>
+    <TextItem>
+      <Description> Completing a classification request </Description>
+      <Position>DONE</Position>
+      <TranslationSet>
+        <base loc="en">Done</base>
+        <tran loc="ar">تم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Acknowledgement that an event occurred for an alert </Description>
+      <Position>OKAY</Position>
+      <TranslationSet>
+        <base loc="en">OK</base>
+        <tran loc="ar">موافق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 
+  IdentityLookupUI.strings
+  IdentityLookupUI
+
+  Created by Spencer Lewson on 5/10/18.
+  Copyright © 2018 Apple. All rights reserved.
+
+ Misc button uses </Description>
+      <Position>CANCEL</Position>
+      <TranslationSet>
+        <base loc="en">Cancel</base>
+        <tran loc="ar">إلغاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>%@_HAS_BLOCKED_%@_MESSAGE</Position>
+      <TranslationSet>
+        <base loc="en">%@ has blocked %@. Please visit Settings to unblock phone numbers</base>
+        <tran loc="ar">تم حظر %@ من قبل %@. الرجاء الانتقال إلى الإعدادات لإلغاء حظر أرقام الهاتف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>NUMBER_HAS_BEEN_BLOCKED</Position>
+      <TranslationSet>
+        <base loc="en">Phone Number Blocked</base>
+        <tran loc="ar">تم حذف رقم الهاتف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Title for button to launch to settings </Description>
+      <Position>SETTINGS</Position>
+      <TranslationSet>
+        <base loc="en">Settings</base>
+        <tran loc="ar">الإعدادات</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+</Proj>

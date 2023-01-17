@@ -1,0 +1,1782 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Proj>
+  <ProjName>Carousel</ProjName>
+  <File>
+    <Filepath>Carousel/System/Library/CoreServices/Carousel.app/en.lproj/General.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>LOCK_DEVICE_LABEL_TWO_LINE</Position>
+      <TranslationSet>
+        <base loc="en">LOCK\nDEVICE</base>
+        <tran loc="ar">قفل\nالجهاز</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SOS_CALLING_DISABLED_MESSAGE</Position>
+      <TranslationSet>
+        <base loc="en">Emergency calling is disabled on this Apple Watch</base>
+        <tran loc="ar">مكالمات الطوارئ معطلة على Apple Watch هذه</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 
+  General.strings
+  Carousel
+
+  Created by Noah Witherspoon on 2/26/14.
+  Copyright (c) 2014 Apple Inc. All rights reserved.
+</Description>
+      <Position>UNLOCK_INSTRUCTION_TEXT</Position>
+      <TranslationSet>
+        <base loc="en">press\nto\nunlock</base>
+        <tran loc="ar">اضغط\nلفتح\nالقفل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SCREEN_TIME_DOWNTIME_TITLE_LABEL</Position>
+      <TranslationSet>
+        <base loc="en">Downtime</base>
+        <tran loc="ar">وقت التوقف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SCREEN_TIME_DOWNTIME_SUBTITLE_LABEL</Position>
+      <TranslationSet>
+        <base loc="en">You've reached your limit on %@.</base>
+        <tran loc="ar">لقد وصلت إلى الحد المسموح لك به في %@.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DEVICE_LOCKED_LABEL_TWO_LINE</Position>
+      <TranslationSet>
+        <base loc="en">DEVICE\nLOCKED</base>
+        <tran loc="ar">الجهاز\nمقفل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SOS_CALLING_DISABLED_OK</Position>
+      <TranslationSet>
+        <base loc="en">OK</base>
+        <tran loc="ar">موافق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>WARNING_LABEL</Position>
+      <TranslationSet>
+        <base loc="en">All media, data and settings will be erased. This cannot be undone.</base>
+        <tran loc="ar">سيتم مسح كل الوسائط والبيانات والإعدادات. لا يمكنك التراجع عن هذا الإجراء.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DELETE_LABEL</Position>
+      <TranslationSet>
+        <base loc="en">Delete App</base>
+        <tran loc="ar">حذف التطبيق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>MEDICAL_ID_LABEL_TWO_LINE</Position>
+      <TranslationSet>
+        <base loc="en">MEDICAL\nID</base>
+        <tran loc="ar">الهوية الطبية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CANCEL_LABEL</Position>
+      <TranslationSet>
+        <base loc="en">Cancel</base>
+        <tran loc="ar">إلغاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DELETE_WARNING_LABEL</Position>
+      <TranslationSet>
+        <base loc="en">Are you sure you want to delete “%@”?</base>
+        <tran loc="ar">هل ترغب بالتأكيد في حذف "%@"؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>RESET_FAILED_MESSAGE</Position>
+      <TranslationSet>
+        <base loc="en">Reset Failed</base>
+        <tran loc="ar">فشلت إعادة التعيين</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SETTING_LANGUAGE</Position>
+      <TranslationSet>
+        <base loc="en">Setting Language…</base>
+        <tran loc="ar">جاري تعيين اللغة…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>REMOVE_LABEL</Position>
+      <TranslationSet>
+        <base loc="en">Remove</base>
+        <tran loc="ar">إزالة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SOS_CALLING_DISABLED_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Calling Disabled</base>
+        <tran loc="ar">تم تعطيل الاتصال</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>POWER_DOWN_LOCK_LABEL</Position>
+      <TranslationSet>
+        <base loc="en">POWER OFF</base>
+        <tran loc="ar">إيقاف التشغيل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SOS_LABEL_TWO_LINE</Position>
+      <TranslationSet>
+        <base loc="en">EMERGENCY\nSOS</base>
+        <tran loc="ar">طوارئ SOS</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ARE_YOU_SURE_YOU_WANT_TO_CONTINUE_LABEL</Position>
+      <TranslationSet>
+        <base loc="en">Are you sure you want to continue?</base>
+        <tran loc="ar">هل أنت متأكد من رغبتك في المتابعة؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>POWER_RESERVE_LABEL_TWO_LINE</Position>
+      <TranslationSet>
+        <base loc="en">POWER\nRESERVE</base>
+        <tran loc="ar">توفير\nالطاقة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CONNECT_TO_POWER_BEFORE_ERASE_LABEL</Position>
+      <TranslationSet>
+        <base loc="en">Connect to power source to proceed.</base>
+        <tran loc="ar">قم بالتوصيل بمصدر طاقة للمتابعة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ERASE_ALL_CONTENT_AND_SETTINGS_LABEL</Position>
+      <TranslationSet>
+        <base loc="en">Erase all content and settings</base>
+        <tran loc="ar">مسح جميع المحتويات والإعدادات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>POWER_OFF_LABEL_TWO_LINE</Position>
+      <TranslationSet>
+        <base loc="en">POWER\nOFF</base>
+        <tran loc="ar">إيقاف التشغيل</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>Carousel/Applications/PreBoard.app/en.lproj/PreBoard.strings</Filepath>
+    <TextItem>
+      <Description> 
+  Preboard.strings
+  Carousel
+
+  Created by Mike Lamb on 3/2/15.
+  Copyright (c) 2015 Apple Inc. All rights reserved.
+</Description>
+      <Position>RESET_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Reset?</base>
+        <tran loc="ar">إعادة تعيين؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DATA_RECOVERY_VERIFY_PASSCODE</Position>
+      <TranslationSet>
+        <base loc="en">Verify Passcode</base>
+        <tran loc="ar">تأكيد رمز الدخول</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DATA_RECOVERY_INSTRUCTION</Position>
+      <TranslationSet>
+        <base loc="en">Press OK to recover.</base>
+        <tran loc="ar">اضغط على موافق للاسترداد.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DATA_RECOVERY_OKAY</Position>
+      <TranslationSet>
+        <base loc="en">OK</base>
+        <tran loc="ar">موافق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DATA_RECOVERY_ENTER_PASSCODE</Position>
+      <TranslationSet>
+        <base loc="en">Enter Passcode</base>
+        <tran loc="ar">قم بإدخال رمز الدخول</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DATA_RECOVERY_FAILED_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Data Recovery Failed</base>
+        <tran loc="ar">فشل استرداد البيانات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>RESET_CANCEL</Position>
+      <TranslationSet>
+        <base loc="en">Cancel</base>
+        <tran loc="ar">إلغاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>RESET_OKAY</Position>
+      <TranslationSet>
+        <base loc="en">Reset</base>
+        <tran loc="ar">إعادة تعيين</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DATA_RECOVERY_PASSCODE_MISMATCH</Position>
+      <TranslationSet>
+        <base loc="en">Passcodes did not match. Please try again.</base>
+        <tran loc="ar">رمزا الدخول غير متطابقين. الرجاء المحاولة مرة أخرى.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>RESET_MESSAGE</Position>
+      <TranslationSet>
+        <base loc="en">This will reset the device to factory defaults.</base>
+        <tran loc="ar">ستتم إعادة تعيين الجهاز إلى الإعدادات الافتراضية.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DATA_RECOVERY_FAILED_MSG_RESTORE</Position>
+      <TranslationSet>
+        <base loc="en">Data recovery cannot be completed.\n\nPlease restore from backup.</base>
+        <tran loc="ar">لا يمكن إكمال عملية استرداد البيانات.\n\nالرجاء الاستعادة من نسخة احتياطية.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DATA_RECOVERY_FAILED_MSG_TRYAGAIN</Position>
+      <TranslationSet>
+        <base loc="en">Data recovery failed. Please try again.</base>
+        <tran loc="ar">فشل استرداد البيانات. الرجاء المحاولة مرة أخرى.</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>Carousel/System/Library/CoreServices/Carousel.app/en.lproj/BulletinBoard.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>COALESCE_NOTIFICATION_MEDIUMLOOK_CANCEL_BUTTON_TEXT</Position>
+      <TranslationSet>
+        <base loc="en">Done</base>
+        <tran loc="ar">تم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>COALESCE_NOTIFICATION_QUICKLOOK_SUBTITLE_FORMAT_EXTRA</Position>
+      <TranslationSet>
+        <base loc="en">%@, %@ &amp; %u more</base>
+        <tran loc="ar">‏%@ و%@ و%u إضافية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 
+  BulletinBoard.strings
+  Carousel
+
+  Created by Antony Dzeryn on 12/4/13.
+  Copyright (c) 2013 Apple Inc. All rights reserved.
+</Description>
+      <Position>COALESCE_NOTIFICATION_QUICKLOOK_SUBTITLE_FORMAT</Position>
+      <TranslationSet>
+        <base loc="en">%@ &amp; %u more</base>
+        <tran loc="ar">‏%@ و%u إضافية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>COALESCE_NOTIFICATION_QUICKLOOK_SUBTITLE_FORMAT_TWO</Position>
+      <TranslationSet>
+        <base loc="en">%@ &amp; %@</base>
+        <tran loc="ar">‏%@ و%@</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>Carousel/System/Library/CoreServices/Carousel.app/en.lproj/Passcode.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>PASSCODE_LOCKOUT_INDEFINITE</Position>
+      <TranslationSet>
+        <base loc="en">Open the Apple Watch app on your iPhone, go to Passcode, then tap Re-enable Passcode Entry to try again.</base>
+        <tran loc="ar">قم بفتح تطبيق Apple Watch على الـ iPhone الخاص بك، انتقل إلى رمز الدخول، ثم اضغط على إعادة تمكين إدخال رمز الدخول للمحاولة مرة أخرى.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CHANGE_WEAK_PASSCODE</Position>
+      <TranslationSet>
+        <base loc="en">Change</base>
+        <tran loc="ar">تغيير</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UNLOCK_PROMPT_AIRPLANE_INSTRUCTIONS_TEXT</Position>
+      <TranslationSet>
+        <base loc="en">To unlock Apple Watch, first disable Airplane Mode.</base>
+        <tran loc="ar">لفتح قفل Apple Watch، قم أولاً بتعطيل نمط الطيران.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PASSCODE_BUTTON_DELETE</Position>
+      <TranslationSet>
+        <base loc="en">Delete</base>
+        <tran loc="ar">حذف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PASSCODE_POLICY_REPEATING</Position>
+      <TranslationSet>
+        <base loc="en">Your security policy doesn’t allow repeating digits.</base>
+        <tran loc="ar">لا تسمح سياسة الأمن الخاصة بك بالأرقام المتكررة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PASSCODE_CURRENT_PROMPT</Position>
+      <TranslationSet>
+        <base loc="en">Enter Current Passcode</base>
+        <tran loc="ar">قم بإدخال رمز الدخول الحالي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PASSCODE_POLICY_CONTINUE</Position>
+      <TranslationSet>
+        <base loc="en">Create New</base>
+        <tran loc="ar">إنشاء جديد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>USE_WEAK_PASSCODE</Position>
+      <TranslationSet>
+        <base loc="en">Use Code</base>
+        <tran loc="ar">استخدام الرمز</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PASSCODE_LOCKOUT_INDEFINITE_SEP_BODY</Position>
+      <TranslationSet>
+        <base loc="en">Reset Apple Watch and pair again.</base>
+        <tran loc="ar">قم بإعادة تعيين Apple Watch وإقرانها مرة أخرى.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Weak passcode alert </Description>
+      <Position>WEAK_PASSCODE_MESSAGE</Position>
+      <TranslationSet>
+        <base loc="en">This code can be easily guessed. Do you still want to use it?</base>
+        <tran loc="ar">هذا الرمز يمكن تخمينه بسهولة. هل ما زلت ترغب في استخدامه؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PASSCODE_POLICY_TOO_RECENT</Position>
+      <TranslationSet>
+        <base loc="en">The passcode you entered was recently used. Please create a new one.</base>
+        <tran loc="ar">رمز الدخول الذي قمت بإدخاله تم استخدامه مؤخرًا. الرجاء إنشاء رمز جديد.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PASSCODE_REQUIREMENT_BUTTON_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Create new</base>
+        <tran loc="ar">إنشاء جديد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UNLOCK_REQUIREMENT_UNLOCK_COMPANION_TEXT</Position>
+      <TranslationSet>
+        <base loc="en">Please unlock your iPhone to continue.</base>
+        <tran loc="ar">الرجاء فتح قفل الـ iPhone الخاص بك للمتابعة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UNLOCK_PROMPT_AIRPLANE_STATUS_TEXT</Position>
+      <TranslationSet>
+        <base loc="en">Airplane Mode: ON</base>
+        <tran loc="ar">نمط الطيران: تشغيل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PASSCODE_LONG_OK_BUTTON_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">OK</base>
+        <tran loc="ar">موافق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PASSCODE_LOCKOUT_TRY_AGAIN_AFTER</Position>
+      <TranslationSet>
+        <base loc="en"> </base>
+        <tran loc="ar"> </tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 
+  Passcode.strings
+  CarouselUIServices
+
+  Created by Noah Witherspoon on 1/16/14.
+  Copyright (c) 2014 Apple. All rights reserved.
+</Description>
+      <Position>PASSCODE_PROMPT</Position>
+      <TranslationSet>
+        <base loc="en">Enter Passcode</base>
+        <tran loc="ar">قم بإدخال رمز الدخول</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UNLOCK_PROMPT</Position>
+      <TranslationSet>
+        <base loc="en">Unlock iPhone\nto start using\nApple Watch</base>
+        <tran loc="ar">قم بفتح قفل الـ iPhone\nللبدء في استخدام\nApple Watch</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PASSCODE_CANCEL</Position>
+      <TranslationSet>
+        <base loc="en">Cancel</base>
+        <tran loc="ar">إلغاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UNLOCK_REQUIREMENT_BUTTON_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Continue</base>
+        <tran loc="ar">متابعة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PASSCODE_REQUIREMENT_MESSAGE</Position>
+      <TranslationSet>
+        <base loc="en">Your iPhone has\na policy that requires a new %@ passcode.</base>
+        <tran loc="ar">يوجد على الـ iPhone الخاص بك\nسياسة تتطلب إنشاء رمز دخول جديد للـ %@.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PASSCODE_BUTTON_OK</Position>
+      <TranslationSet>
+        <base loc="en">Ok</base>
+        <tran loc="ar">موافق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Only one of these strings will be used; to have text appear below the time instead of above it, place that text in _AFTER and set _BEFORE to an empty string</Description>
+      <Position>PASSCODE_LOCKOUT_TRY_AGAIN_BEFORE</Position>
+      <TranslationSet>
+        <base loc="en">Try again in</base>
+        <tran loc="ar">حاول مرة أخرى خلال</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UNLOCK_REQUIREMENT_TEXT</Position>
+      <TranslationSet>
+        <base loc="en">Your iPhone has a policy that requires your %@ to only be unlocked from the iPhone. Enter your current passcode.</base>
+        <tran loc="ar">يوجد على الـ iPhone الخاص بك سياسة تتطلب ألا يتم فتح قفل الـ %@ إلا من الـ iPhone. قم بإدخال رمز الدخول الحالي الخاص بك.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PASSCODE_ENTER_NEW</Position>
+      <TranslationSet>
+        <base loc="en">Enter New Passcode</base>
+        <tran loc="ar">إدخال رمز الدخول الجديد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PASSCODE_POLICY_ASCENDING_DESCENDING</Position>
+      <TranslationSet>
+        <base loc="en">Your security policy doesn’t allow ascending or descending digits.</base>
+        <tran loc="ar">لا تسمح سياسة الأمن الخاصة بك بالأرقام التصاعدية أو التنازلية.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UNLOCK_REQUIREMENT_TEXT_NO_PASSCODE</Position>
+      <TranslationSet>
+        <base loc="en">Your iPhone has a policy that requires your %@ to only be unlocked from the iPhone.</base>
+        <tran loc="ar">لدى الـ iPhone الخاص بك سياسة تتطلب من %@ الخاصة بك فتح القفل فقط من الـ iPhone.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PASSCODE_LOCKOUT_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Wrong Passcode</base>
+        <tran loc="ar">رمز الدخول
+غير صحيح</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PASSCODE_POLICY_NO_REUSE</Position>
+      <TranslationSet>
+        <base loc="en">Enter a different passcode. Cannot re-use the same passcode.</base>
+        <tran loc="ar">قم بإدخال رمز دخول مختلف. لا يمكن إعادة استخدام رمز الدخول نفسه.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>VALIDATION_CODE_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Enter Validation Code</base>
+        <tran loc="ar">إدخال رمز التحقق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PASSCODE_LOCKOUT_INDEFINITE_SEP_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Too Many Passcode Attempts</base>
+        <tran loc="ar">محاولات كثيرة جدًا لإدخال رمز الدخول</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PASSCODE_CONFIRM_NEW</Position>
+      <TranslationSet>
+        <base loc="en">Re-Enter Passcode</base>
+        <tran loc="ar">إعادة إدخال رمز الدخول</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PASSCODE_REENTER_EXISTING</Position>
+      <TranslationSet>
+        <base loc="en">Re-Enter Passcode</base>
+        <tran loc="ar">إعادة إدخال رمز الدخول</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PASSCODE_POLICY_TOO_SHORT</Position>
+      <TranslationSet>
+        <base loc="en">Please create a passcode that contains at least %@ digits.</base>
+        <tran loc="ar">الرجاء إنشاء رمز دخول يحتوي على %@ أرقام على الأقل.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UNLOCK_PROMPT_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Device Locked</base>
+        <tran loc="ar">الجهاز مقفل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UNLOCK_PROMPT_OFF_WRIST</Position>
+      <TranslationSet>
+        <base loc="en">First put on\nApple Watch, then unlock\nyour iPhone</base>
+        <tran loc="ar">قم أولاً بلبس\nApple Watch، ثم قم بفتح قفل\nالـ iPhone الخاص بك</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>Carousel/Applications/DataMigrationMonitor.app/en.lproj/General.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>LOCK_DEVICE_LABEL_TWO_LINE</Position>
+      <TranslationSet>
+        <base loc="en">LOCK\nDEVICE</base>
+        <tran loc="ar">قفل\nالجهاز</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SOS_CALLING_DISABLED_MESSAGE</Position>
+      <TranslationSet>
+        <base loc="en">Emergency calling is disabled on this Apple Watch</base>
+        <tran loc="ar">مكالمات الطوارئ معطلة على Apple Watch هذه</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 
+  General.strings
+  Carousel
+
+  Created by Noah Witherspoon on 2/26/14.
+  Copyright (c) 2014 Apple Inc. All rights reserved.
+</Description>
+      <Position>UNLOCK_INSTRUCTION_TEXT</Position>
+      <TranslationSet>
+        <base loc="en">press\nto\nunlock</base>
+        <tran loc="ar">اضغط\nلفتح\nالقفل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SCREEN_TIME_DOWNTIME_TITLE_LABEL</Position>
+      <TranslationSet>
+        <base loc="en">Downtime</base>
+        <tran loc="ar">وقت التوقف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SCREEN_TIME_DOWNTIME_SUBTITLE_LABEL</Position>
+      <TranslationSet>
+        <base loc="en">You've reached your limit on %@.</base>
+        <tran loc="ar">لقد وصلت إلى الحد المسموح لك به في %@.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DEVICE_LOCKED_LABEL_TWO_LINE</Position>
+      <TranslationSet>
+        <base loc="en">DEVICE\nLOCKED</base>
+        <tran loc="ar">الجهاز\nمقفل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SOS_CALLING_DISABLED_OK</Position>
+      <TranslationSet>
+        <base loc="en">OK</base>
+        <tran loc="ar">موافق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>WARNING_LABEL</Position>
+      <TranslationSet>
+        <base loc="en">All media, data and settings will be erased. This cannot be undone.</base>
+        <tran loc="ar">سيتم مسح كل الوسائط والبيانات والإعدادات. لا يمكنك التراجع عن هذا الإجراء.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DELETE_LABEL</Position>
+      <TranslationSet>
+        <base loc="en">Delete App</base>
+        <tran loc="ar">حذف التطبيق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>MEDICAL_ID_LABEL_TWO_LINE</Position>
+      <TranslationSet>
+        <base loc="en">MEDICAL\nID</base>
+        <tran loc="ar">الهوية الطبية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CANCEL_LABEL</Position>
+      <TranslationSet>
+        <base loc="en">Cancel</base>
+        <tran loc="ar">إلغاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DELETE_WARNING_LABEL</Position>
+      <TranslationSet>
+        <base loc="en">Are you sure you want to delete “%@”?</base>
+        <tran loc="ar">هل ترغب بالتأكيد في حذف "%@"؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>RESET_FAILED_MESSAGE</Position>
+      <TranslationSet>
+        <base loc="en">Reset Failed</base>
+        <tran loc="ar">فشلت إعادة التعيين</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SETTING_LANGUAGE</Position>
+      <TranslationSet>
+        <base loc="en">Setting Language…</base>
+        <tran loc="ar">جاري تعيين اللغة…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>REMOVE_LABEL</Position>
+      <TranslationSet>
+        <base loc="en">Remove</base>
+        <tran loc="ar">إزالة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SOS_CALLING_DISABLED_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Calling Disabled</base>
+        <tran loc="ar">تم تعطيل الاتصال</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>POWER_DOWN_LOCK_LABEL</Position>
+      <TranslationSet>
+        <base loc="en">POWER OFF</base>
+        <tran loc="ar">إيقاف التشغيل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SOS_LABEL_TWO_LINE</Position>
+      <TranslationSet>
+        <base loc="en">EMERGENCY\nSOS</base>
+        <tran loc="ar">طوارئ SOS</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ARE_YOU_SURE_YOU_WANT_TO_CONTINUE_LABEL</Position>
+      <TranslationSet>
+        <base loc="en">Are you sure you want to continue?</base>
+        <tran loc="ar">هل أنت متأكد من رغبتك في المتابعة؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>POWER_RESERVE_LABEL_TWO_LINE</Position>
+      <TranslationSet>
+        <base loc="en">POWER\nRESERVE</base>
+        <tran loc="ar">توفير\nالطاقة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CONNECT_TO_POWER_BEFORE_ERASE_LABEL</Position>
+      <TranslationSet>
+        <base loc="en">Connect to power source to proceed.</base>
+        <tran loc="ar">قم بالتوصيل بمصدر طاقة للمتابعة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ERASE_ALL_CONTENT_AND_SETTINGS_LABEL</Position>
+      <TranslationSet>
+        <base loc="en">Erase all content and settings</base>
+        <tran loc="ar">مسح جميع المحتويات والإعدادات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>POWER_OFF_LABEL_TWO_LINE</Position>
+      <TranslationSet>
+        <base loc="en">POWER\nOFF</base>
+        <tran loc="ar">إيقاف التشغيل</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>Carousel/System/Library/CoreServices/Carousel.app/en.lproj/BulletinBoard.stringsdict</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>/AWAY_ITEM_PENDED_DEFAULT_FORMAT_SHORT:dict/NSStringLocalizedFormatKey:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%#@bulletins@</base>
+        <tran loc="ar">%#@bulletins@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/AWAY_ITEM_PENDED_DEFAULT_FORMAT_SHORT:dict/bulletins:dict/one:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%d Notification</base>
+        <tran loc="ar">إشعار واحد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/AWAY_ITEM_PENDED_DEFAULT_FORMAT_SHORT:dict/bulletins:dict/few:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%d Notifications</base>
+        <tran loc="ar">‏%d إشعارات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/AWAY_ITEM_PENDED_DEFAULT_FORMAT_SHORT:dict/bulletins:dict/many:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%d Notifications</base>
+        <tran loc="ar">‏%d إشعارًا</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/AWAY_ITEM_PENDED_DEFAULT_FORMAT_SHORT:dict/bulletins:dict/other:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%d Notifications</base>
+        <tran loc="ar">%d من الإشعارات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/AWAY_ITEM_PENDED_DEFAULT_FORMAT_SHORT:dict/bulletins:dict/two:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%d Notifications</base>
+        <tran loc="ar">إشعاران</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/AWAY_ITEM_PENDED_DEFAULT_FORMAT_SHORT:dict/bulletins:dict/zero:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%d Notifications</base>
+        <tran loc="ar">%d من الإشعارات</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>Carousel/Applications/PreBoard.app/en.lproj/General.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>LOCK_DEVICE_LABEL_TWO_LINE</Position>
+      <TranslationSet>
+        <base loc="en">LOCK\nDEVICE</base>
+        <tran loc="ar">قفل\nالجهاز</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SOS_CALLING_DISABLED_MESSAGE</Position>
+      <TranslationSet>
+        <base loc="en">Emergency calling is disabled on this Apple Watch</base>
+        <tran loc="ar">مكالمات الطوارئ معطلة على Apple Watch هذه</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 
+  General.strings
+  Carousel
+
+  Created by Noah Witherspoon on 2/26/14.
+  Copyright (c) 2014 Apple Inc. All rights reserved.
+</Description>
+      <Position>UNLOCK_INSTRUCTION_TEXT</Position>
+      <TranslationSet>
+        <base loc="en">press\nto\nunlock</base>
+        <tran loc="ar">اضغط\nلفتح\nالقفل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SCREEN_TIME_DOWNTIME_TITLE_LABEL</Position>
+      <TranslationSet>
+        <base loc="en">Downtime</base>
+        <tran loc="ar">وقت التوقف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SCREEN_TIME_DOWNTIME_SUBTITLE_LABEL</Position>
+      <TranslationSet>
+        <base loc="en">You've reached your limit on %@.</base>
+        <tran loc="ar">لقد وصلت إلى الحد المسموح لك به في %@.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DEVICE_LOCKED_LABEL_TWO_LINE</Position>
+      <TranslationSet>
+        <base loc="en">DEVICE\nLOCKED</base>
+        <tran loc="ar">الجهاز\nمقفل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SOS_CALLING_DISABLED_OK</Position>
+      <TranslationSet>
+        <base loc="en">OK</base>
+        <tran loc="ar">موافق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>WARNING_LABEL</Position>
+      <TranslationSet>
+        <base loc="en">All media, data and settings will be erased. This cannot be undone.</base>
+        <tran loc="ar">سيتم مسح كل الوسائط والبيانات والإعدادات. لا يمكنك التراجع عن هذا الإجراء.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DELETE_LABEL</Position>
+      <TranslationSet>
+        <base loc="en">Delete App</base>
+        <tran loc="ar">حذف التطبيق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>MEDICAL_ID_LABEL_TWO_LINE</Position>
+      <TranslationSet>
+        <base loc="en">MEDICAL\nID</base>
+        <tran loc="ar">الهوية الطبية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CANCEL_LABEL</Position>
+      <TranslationSet>
+        <base loc="en">Cancel</base>
+        <tran loc="ar">إلغاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DELETE_WARNING_LABEL</Position>
+      <TranslationSet>
+        <base loc="en">Are you sure you want to delete “%@”?</base>
+        <tran loc="ar">هل ترغب بالتأكيد في حذف "%@"؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>RESET_FAILED_MESSAGE</Position>
+      <TranslationSet>
+        <base loc="en">Reset Failed</base>
+        <tran loc="ar">فشلت إعادة التعيين</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SETTING_LANGUAGE</Position>
+      <TranslationSet>
+        <base loc="en">Setting Language…</base>
+        <tran loc="ar">جاري تعيين اللغة…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>REMOVE_LABEL</Position>
+      <TranslationSet>
+        <base loc="en">Remove</base>
+        <tran loc="ar">إزالة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SOS_CALLING_DISABLED_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Calling Disabled</base>
+        <tran loc="ar">تم تعطيل الاتصال</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>POWER_DOWN_LOCK_LABEL</Position>
+      <TranslationSet>
+        <base loc="en">POWER OFF</base>
+        <tran loc="ar">إيقاف التشغيل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SOS_LABEL_TWO_LINE</Position>
+      <TranslationSet>
+        <base loc="en">EMERGENCY\nSOS</base>
+        <tran loc="ar">طوارئ SOS</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ARE_YOU_SURE_YOU_WANT_TO_CONTINUE_LABEL</Position>
+      <TranslationSet>
+        <base loc="en">Are you sure you want to continue?</base>
+        <tran loc="ar">هل أنت متأكد من رغبتك في المتابعة؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>POWER_RESERVE_LABEL_TWO_LINE</Position>
+      <TranslationSet>
+        <base loc="en">POWER\nRESERVE</base>
+        <tran loc="ar">توفير\nالطاقة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CONNECT_TO_POWER_BEFORE_ERASE_LABEL</Position>
+      <TranslationSet>
+        <base loc="en">Connect to power source to proceed.</base>
+        <tran loc="ar">قم بالتوصيل بمصدر طاقة للمتابعة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ERASE_ALL_CONTENT_AND_SETTINGS_LABEL</Position>
+      <TranslationSet>
+        <base loc="en">Erase all content and settings</base>
+        <tran loc="ar">مسح جميع المحتويات والإعدادات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>POWER_OFF_LABEL_TWO_LINE</Position>
+      <TranslationSet>
+        <base loc="en">POWER\nOFF</base>
+        <tran loc="ar">إيقاف التشغيل</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>Carousel/Applications/ClockFace.app/en.lproj/ClockFace.strings</Filepath>
+    <TextItem>
+      <Description> 
+  ClockFace.strings
+  Carousel
+
+  Created by Austen Green on 1/11/19.
+  Copyright © 2019 Apple Inc. All rights reserved.
+
+ According to the localization team, we need to have a strings file for ClockFace.app, even though all the strings are in  NanoTimeKit. Do not translate. </Description>
+      <Position>DNT</Position>
+      <TranslationSet>
+        <base loc="en">DNT</base>
+        <tran loc="ar">DNT</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>Carousel/System/Library/CoreServices/Carousel.app/en.lproj/AppSwitcher.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>DOCK_ADD_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Keep in Dock</base>
+        <tran loc="ar">احتفاظ في Dock</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 
+  AppSwitcher.strings
+  Carousel
+
+  Created by Tyler McAtee on 4/14/16.
+  Copyright © 2016 Apple Inc. All rights reserved.
+</Description>
+      <Position>DOCK_IS_EMPTY_MESSAGE_DEFAULT</Position>
+      <TranslationSet>
+        <base loc="en">Your favorite apps appear here.</base>
+        <tran loc="ar">تظهر تطبيقاتك المفضلة هنا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DOCK_IS_EMPTY_MESSAGE_MRU</Position>
+      <TranslationSet>
+        <base loc="en">Recently used apps appear here.</base>
+        <tran loc="ar">تظهر التطبيقات المستخدمة مؤخرًا هنا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DOCK_RECENT_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">RECENT</base>
+        <tran loc="ar">الحديثة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ALL_APPS</Position>
+      <TranslationSet>
+        <base loc="en">All Apps</base>
+        <tran loc="ar">كل التطبيقات</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>Carousel/System/Library/CoreServices/Carousel.app/en.lproj/NotificationCenter.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>NOTIFICATION_CENTER_CONTENT_UNAVAILABLE_ALL</Position>
+      <TranslationSet>
+        <base loc="en">No Notifications</base>
+        <tran loc="ar">لا توجد إشعارات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CLEAR_SINGLE_NOTIFICATION</Position>
+      <TranslationSet>
+        <base loc="en">Clear</base>
+        <tran loc="ar">مسح</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 
+  NotificationCenter.strings
+  Carousel
+
+  Created by Antony Dzeryn on 4/11/14.
+  Copyright (c) 2014 Apple Inc. All rights reserved.
+</Description>
+      <Position>CLEAR_ALL_NOTIFICATIONS</Position>
+      <TranslationSet>
+        <base loc="en">Clear All</base>
+        <tran loc="ar">مسح الكل</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>Carousel/System/Library/CoreServices/Carousel.app/en.lproj/Alerts.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>WATER_LOCK_AND_EJECT_INSTRUCTIONS</Position>
+      <TranslationSet>
+        <base loc="en">Turn Digital Crown to\nunlock and eject water</base>
+        <tran loc="ar">قم بتدوير Digital Crown\nلفتح القفل وإخراج الماء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>LOW_BATTERY_ALERT_SUBTITLE_FORMAT</Position>
+      <TranslationSet>
+        <base loc="en">%@ REMAINING</base>
+        <tran loc="ar">متبقي %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DELETE</Position>
+      <TranslationSet>
+        <base loc="en">Delete</base>
+        <tran loc="ar">حذف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ALERT_DISABLE_NOTIFICATIONS_ON_WATCH_LABEL</Position>
+      <TranslationSet>
+        <base loc="en">Turn Off on %@</base>
+        <tran loc="ar">إيقاف في %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PROCEED</Position>
+      <TranslationSet>
+        <base loc="en">Proceed</base>
+        <tran loc="ar">متابعة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SNOOZE_BUTTON</Position>
+      <TranslationSet>
+        <base loc="en">Snooze</base>
+        <tran loc="ar">غفوة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>LOW_BATTERY_ALERT_TITLE_LL</Position>
+      <TranslationSet>
+        <base loc="en">SYSTEM</base>
+        <tran loc="ar">النظام</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>POWER_RESERVE_BUTTON_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Power Reserve</base>
+        <tran loc="ar">توفير الطاقة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>MANAGE_NOTIFICATIONS_SETTINGS_FROM_APP_ON_WATCH_HELP_QUIET</Position>
+      <TranslationSet>
+        <base loc="en">Quiet notifications from “%@” will be sent straight to Notification Center on your %@.\n\nYou can manage notifications in the Apple Watch app on iPhone.</base>
+        <tran loc="ar">سيتم إرسال الإشعارات الصامتة من "%@" مباشرة إلى مركز الإشعارات على %@.\n\nيمكنك إدارة الإشعارات في تطبيق Apple Watch على iPhone.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>STANDARD_LOCK_INSTRUCTIONS</Position>
+      <TranslationSet>
+        <base loc="en">Turn Digital Crown\nto unlock</base>
+        <tran loc="ar">قم بتدوير Digital Crown\nلفتح القفل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>WATER_LOCK_INSTRUCTIONS</Position>
+      <TranslationSet>
+        <base loc="en">Turn Digital Crown\nto unlock</base>
+        <tran loc="ar">قم بتدوير Digital Crown\nلفتح القفل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>LAUNCHER_LIST_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">List View</base>
+        <tran loc="ar">عرض كقائمة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>NONLAUNCHABLE_WATCHKIT_APP_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">%@ Requires iPhone App</base>
+        <tran loc="ar">يتطلب %@ تطبيق الـ iPhone</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DISK_FULL_ALERT_MESSAGE</Position>
+      <TranslationSet>
+        <base loc="en">Try removing music or photos using the Apple Watch app on your iPhone.</base>
+        <tran loc="ar">جرِّب إزالة الموسيقى أو الصور باستخدام تطبيق Apple Watch على الـ iPhone الخاص بك.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>POWER_RESERVE_CONFIRMATION</Position>
+      <TranslationSet>
+        <base loc="en">Power Reserve prolongs battery life by turning off all features except the current time.\nTo exit Power Reserve, press and hold the side button.</base>
+        <tran loc="ar">يعمل وضع توفير الطاقة على إطالة عمر البطارية عن طريق إيقاف كل الميزات عدا الوقت الحالي.\nللخروج من توفير الطاقة، اضغط مطولاً على الزر الجانبي.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>APP_PROFILE_NOT_TRUSTED_BODY_DEVICE</Position>
+      <TranslationSet>
+        <base loc="en">Do you trust the developer “%@” to run apps on your %@?</base>
+        <tran loc="ar">هل تثق في المطور "%@" لتشغيل التطبيقات على الـ %@ الخاص بك؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>APP_PROFILE_EXPIRED_OK</Position>
+      <TranslationSet>
+        <base loc="en">OK</base>
+        <tran loc="ar">موافق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DEPRECATED_WATCHKIT_1_APP_ACKNOWLEDGE</Position>
+      <TranslationSet>
+        <base loc="en">OK</base>
+        <tran loc="ar">موافق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DISK_FULL_ALERT_BUTTON</Position>
+      <TranslationSet>
+        <base loc="en">OK</base>
+        <tran loc="ar">موافق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>NONLAUNCHABLE_WATCHKIT_APP_ACKNOWLEDGE</Position>
+      <TranslationSet>
+        <base loc="en">OK</base>
+        <tran loc="ar">موافق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>APP_BETA_EXPIRED_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Testing has Ended</base>
+        <tran loc="ar">انتهى الاختبار</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>APP_PROFILE_EXPIRED_TITLE_WITH_NAME_FORMAT</Position>
+      <TranslationSet>
+        <base loc="en">“%@” Is No Longer Available</base>
+        <tran loc="ar">لم يعد %@ موجودًا</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ALERT_CHEVRON_MORE_LABEL</Position>
+      <TranslationSet>
+        <base loc="en">More</base>
+        <tran loc="ar">المزيد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DISK_FULL_ALERT_HEADER</Position>
+      <TranslationSet>
+        <base loc="en">Storage Full</base>
+        <tran loc="ar">مساحة التخزين ممتلئة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CANCEL</Position>
+      <TranslationSet>
+        <base loc="en">Cancel</base>
+        <tran loc="ar">إلغاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SYSTEM_LOCK_SOS</Position>
+      <TranslationSet>
+        <base loc="en">Continue holding to call emergency services</base>
+        <tran loc="ar">استمر في الضغط للاتصال بخدمات الطوارئ</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>MANAGE_NOTIFICATIONS_SETTINGS_FROM_APP_ON_WATCH_AND_IPHONE_HELP_PROMINENT</Position>
+      <TranslationSet>
+        <base loc="en">Prominent notifications from “%@” will alert on your %@ and %@.</base>
+        <tran loc="ar">سيتم إرسال الإشعارات البارزة من "%@" على %@ و %@.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CHARGING_ALERT_PERCENT_REMAINING</Position>
+      <TranslationSet>
+        <base loc="en">%@ Remaining</base>
+        <tran loc="ar">متبقي %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CHARGING_ALERT_PERCENT_CHARGED</Position>
+      <TranslationSet>
+        <base loc="en">%@ Charged</base>
+        <tran loc="ar">تم شحن %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DEPRECATED_WATCHKIT_1_APP_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">“%@” Needs to Be Updated</base>
+        <tran loc="ar">يجب تحديث "%@"</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 
+  Alerts.strings
+  Carousel
+
+  Created by Antony Dzeryn on 12/19/13.
+  Copyright (c) 2013 Apple Inc. All rights reserved.
+</Description>
+      <Position>ALERT_CHEVRON_DISMISS_LABEL</Position>
+      <TranslationSet>
+        <base loc="en">Dismiss</base>
+        <tran loc="ar">استبعاد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>APP_PROFILE_NOT_TRUSTED_CANCEL</Position>
+      <TranslationSet>
+        <base loc="en">Don’t Trust</base>
+        <tran loc="ar">عدم الوثوق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ALERT_DISABLE_NOTIFICATIONS_INTERRUPTIONS_LABEL</Position>
+      <TranslationSet>
+        <base loc="en">Deliver Quietly</base>
+        <tran loc="ar">إيصال بصمت</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>APP_BETA_EXPIRED_MESSAGE</Position>
+      <TranslationSet>
+        <base loc="en">Check the TestFlight app on your iPhone for updates.</base>
+        <tran loc="ar">تحقق من وجود تحديثات لتطبيق TestFlight على الـ iPhone الخاص بك.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ALERT_DISABLE_CRITICAL_NOTIFICATIONS_LABEL</Position>
+      <TranslationSet>
+        <base loc="en">Turn Off Critical Alerts</base>
+        <tran loc="ar">إيقاف التنبيهات الحرجة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DEPRECATED_WATCHKIT_1_APP_BODY_NO_UPDATE</Position>
+      <TranslationSet>
+        <base loc="en">The developer of this app needs to update it to work with watchOS 5.</base>
+        <tran loc="ar">يجب على مطور التطبيق أن يحدّثه حتى يعمل مع watchOS 5.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>LOW_BATTERY_ALERT_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Low Power</base>
+        <tran loc="ar">الطاقة منخفضة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>APP_PROFILE_NOT_TRUSTED_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Untrusted App Developer</base>
+        <tran loc="ar">مطور التطبيق غير موثوق فيه</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>APP_PROFILE_NOT_TRUSTED_CONFIRM</Position>
+      <TranslationSet>
+        <base loc="en">Trust</base>
+        <tran loc="ar">الوثوق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ALERT_ENABLE_NOTIFICATIONS_INTERRUPTIONS_LABEL</Position>
+      <TranslationSet>
+        <base loc="en">Deliver Prominently</base>
+        <tran loc="ar">إيصال بشكل بارز</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>LOW_BATTERY_ALERT_WARNING_FORMAT</Position>
+      <TranslationSet>
+        <base loc="en">You have %@ power remaining.</base>
+        <tran loc="ar">الطاقة المتبقية لديك %@.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>MANAGE_NOTIFICATIONS_SETTINGS_FROM_APP_ON_IPHONE_AND_NOT_WATCH_HELP_QUIET</Position>
+      <TranslationSet>
+        <base loc="en">Quiet notifications from “%@” will be sent straight to Notification Center on your %@ and not appear on your %@.\n\nYou can manage notifications in the Apple Watch app on iPhone.</base>
+        <tran loc="ar">سيتم إرسال الإشعارات الصامتة من "%@" مباشرة إلى مركز الإشعارات على %@ ولن تظهر على %@.\n\nيمكنك إدارة الإشعارات في تطبيق Apple Watch على iPhone.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>LAUNCHER_GRID_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Grid View</base>
+        <tran loc="ar">عرض الأيقونات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>MANAGE_NOTIFICATIONS_SETTINGS_FROM_APP_ON_WATCH_HELP_PROMINENT</Position>
+      <TranslationSet>
+        <base loc="en">Prominent notifications from “%@” will alert on your %@.</base>
+        <tran loc="ar">ستظهر الإشعارات البارزة من "%@" على %@.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>MANAGE_NOTIFICATIONS_SETTINGS_CRITICAL_ALERTS_IF_WATCH_SILENT_CONFIGURE_ON_IPHONE_HELP</Position>
+      <TranslationSet>
+        <base loc="en">Critical alerts play sound even if Do Not Disturb is on or if %@ is on silent. You can configure this in Settings on %@.</base>
+        <tran loc="ar">ستشغل التنبيهات الحرجة صوتًا سواء في حالة تشغيل "عدم الإزعاج" أو إذا كان %@ على الصامت. يمكنك ضبط هذا في الإعدادات على %@.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>MANAGE_NOTIFICATIONS_SETTINGS_FROM_APP_ON_WATCH_AND_IPHONE_HELP_QUIET</Position>
+      <TranslationSet>
+        <base loc="en">Quiet notifications from “%@” will be sent straight to Notification Center on both your %@ and %@.\n\nYou can manage notifications in the Apple Watch app on iPhone.</base>
+        <tran loc="ar">سيتم إرسال الإشعارات الصامتة من "%@" مباشرة إلى مركز الإشعارات على كل من %@ و %@.\n\nيمكنك إدارة الإشعارات في تطبيق Apple Watch على iPhone.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>STANDARD_LOCK_SUCCESS</Position>
+      <TranslationSet>
+        <base loc="en">Unlocked</base>
+        <tran loc="ar">تم فتح القفل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>WATER_LOCK_SUCCESS</Position>
+      <TranslationSet>
+        <base loc="en">Unlocked</base>
+        <tran loc="ar">غير مقفل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>NONLAUNCHABLE_WATCHKIT_APP_BODY</Position>
+      <TranslationSet>
+        <base loc="en">To use this app on your Apple Watch, the iPhone app for %@ needs to be installed on %@.</base>
+        <tran loc="ar">لاستخدام هذا التطبيق على Apple Watch، يلزم تثبيت تطبيق الـ iPhone الخاص بـ "%@" على %@.</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>Carousel/System/Library/CoreServices/Carousel.app/en.lproj/Alerts-tinker.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>SCHOOL_MODE_EXIT_INSTRUCTIONS_SCHEDULED</Position>
+      <TranslationSet>
+        <base loc="en">Leaving appears in the Schooltime Report.</base>
+        <tran loc="ar">تظهر المغادرة في تقرير وقت الدراسة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SCHOOL_MODE_EXIT_CANCEL_BUTTON</Position>
+      <TranslationSet>
+        <base loc="en">Don't Exit</base>
+        <tran loc="ar">عدم الخروج</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SCHOOL_MODE_SCHEDULE_SETTINGS_CHANGED_BUTTON</Position>
+      <TranslationSet>
+        <base loc="en">OK</base>
+        <tran loc="ar">موافق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SCHOOL_MODE_SCHEDULE_SETTINGS_CHANGED_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Schooltime Schedule</base>
+        <tran loc="ar">جدول وقت الدراسة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 
+  Alerts-tinker.strings
+  Carousel
+
+  Created by Austen Green on 5/29/19.
+  Copyright © 2019 Apple Inc. All rights reserved.
+</Description>
+      <Position>SCHOOL_MODE_INSTRUCTIONS</Position>
+      <TranslationSet>
+        <base loc="en">Turn Digital Crown to\nexit Schooltime</base>
+        <tran loc="ar">قم بتدوير Digital Crown\nللخروج من وقت الدراسة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SCHOOL_MODE_EXIT_BUTTON</Position>
+      <TranslationSet>
+        <base loc="en">Exit</base>
+        <tran loc="ar">خروج</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SCHOOL_MODE_EXIT_INSTRUCTIONS_SCHEDULED_REMAININGTIME_FORMAT</Position>
+      <TranslationSet>
+        <base loc="en">\nTime left: %@\n</base>
+        <tran loc="ar">\nالوقت المتبقي: %@\n</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SCHOOL_MODE_EXIT_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">\nExit Schooltime?</base>
+        <tran loc="ar">\nالخروج من وقت الدراسة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SCHOOL_MODE_SCHEDULE_SETTINGS_CHANGED_MESSAGE</Position>
+      <TranslationSet>
+        <base loc="en">Schooltime schedule has been updated. The schedule can be found in Settings.</base>
+        <tran loc="ar">تم تحديث جدول وقت الدراسة. يمكن العثور على الجدول في الإعدادات.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SCHOOL_MODE_UNLOCK_SUCCESS</Position>
+      <TranslationSet>
+        <base loc="en">Unlocked</base>
+        <tran loc="ar">تم فتح القفل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SCHOOL_MODE_EXIT_INSTRUCTIONS_MANUAL_FORMAT</Position>
+      <TranslationSet>
+        <base loc="en">You have been in Schooltime for %@\n</base>
+        <tran loc="ar">أنت في نمط وقت الدراسة منذ %@\n</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>Carousel/Applications/DataMigrationMonitor.app/en.lproj/DataMigrationMonitor.strings</Filepath>
+    <TextItem>
+      <Description> 
+  DataMigrationMonitor.strings
+  Carousel
+
+  Created by Mike Lamb on 3/11/15.
+  Copyright (c) 2015 Apple Inc. All rights reserved.
+</Description>
+      <Position>RESET_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Reset?</base>
+        <tran loc="ar">إعادة تعيين؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>RESET_CANCEL</Position>
+      <TranslationSet>
+        <base loc="en">Cancel</base>
+        <tran loc="ar">إلغاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>RESET_OKAY</Position>
+      <TranslationSet>
+        <base loc="en">Reset</base>
+        <tran loc="ar">إعادة تعيين</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>RESET_MESSAGE</Position>
+      <TranslationSet>
+        <base loc="en">This will reset the device to factory defaults.</base>
+        <tran loc="ar">ستتم إعادة تعيين الجهاز إلى الإعدادات الافتراضية.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>RESET_FAILED_MESSAGE</Position>
+      <TranslationSet>
+        <base loc="en">Reset Failed</base>
+        <tran loc="ar">فشلت إعادة التعيين</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>Carousel/System/Library/CoreServices/Carousel.app/en.lproj/DataMigrationMonitor.strings</Filepath>
+    <TextItem>
+      <Description> 
+  DataMigrationMonitor.strings
+  Carousel
+
+  Created by Mike Lamb on 3/11/15.
+  Copyright (c) 2015 Apple Inc. All rights reserved.
+</Description>
+      <Position>RESET_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Reset?</base>
+        <tran loc="ar">إعادة تعيين؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>RESET_CANCEL</Position>
+      <TranslationSet>
+        <base loc="en">Cancel</base>
+        <tran loc="ar">إلغاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>RESET_OKAY</Position>
+      <TranslationSet>
+        <base loc="en">Reset</base>
+        <tran loc="ar">إعادة تعيين</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>RESET_MESSAGE</Position>
+      <TranslationSet>
+        <base loc="en">This will reset the device to factory defaults.</base>
+        <tran loc="ar">ستتم إعادة تعيين الجهاز إلى الإعدادات الافتراضية.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>RESET_FAILED_MESSAGE</Position>
+      <TranslationSet>
+        <base loc="en">Reset Failed</base>
+        <tran loc="ar">فشلت إعادة التعيين</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+</Proj>

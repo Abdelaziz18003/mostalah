@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Proj>
+  <ProjName>CoreLocationFramework</ProjName>
+  <File>
+    <Filepath>CoreLocationFramework/System/Library/Frameworks/CoreLocation.framework/Versions/A/Resources/en.lproj/locationd.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>LOCATION_CLIENT_PERMISSION_REPROMPT_ONE</Position>
+      <TranslationSet>
+        <base loc="en">“%@” has used your location once in the background over the past 3 days. Do you want to continue to allow background location use?</base>
+        <tran loc="ar">استخدم \"%@\" موقعك في الخلفية مرة واحدة على مدار الأيام الثلاثة الماضية. هل ترغب في الاستمرار في السماح باستخدام الموقع في الخلفية؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Ask again after this time in-use button title </Description>
+      <Position>LOCATION_CLIENT_PERMISSION_ONETIME_BUTTON</Position>
+      <TranslationSet>
+        <base loc="en">Allow Once</base>
+        <tran loc="ar">السماح لمرة واحدة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> While Using the App button title </Description>
+      <Position>LOCATION_CLIENT_PERMISSION_WHENINUSE_BUTTON</Position>
+      <TranslationSet>
+        <base loc="en">Allow While Using App</base>
+        <tran loc="ar">السماح أثناء استخدام التطبيق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Always button title </Description>
+      <Position>LOCATION_CLIENT_PERMISSION_ALWAYS_BUTTON</Position>
+      <TranslationSet>
+        <base loc="en">Change to Always Allow</base>
+        <tran loc="ar">التغيير إلى \"السماح دائمًا\"</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>LOCATION_CLIENT_PERMISSION_WHENINUSE_ONLY_BUTTON</Position>
+      <TranslationSet>
+        <base loc="en">Change to Only While Using</base>
+        <tran loc="ar">التغيير إلى \"أثناء الاستخدام\"</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> "Location Services is not available" </Description>
+      <Position>LOCATION_UNAVAILABLE</Position>
+      <TranslationSet>
+        <base loc="en">Location Services is Not Available for “%@”</base>
+        <tran loc="ar">خدمات الموقع غير متوفرة لـ \"%@\"</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> OK button title </Description>
+      <Position>OK</Position>
+      <TranslationSet>
+        <base loc="en">OK</base>
+        <tran loc="ar">موافق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> " would like to use your current location even when it is not running." </Description>
+      <Position>LOCATION_CLIENT_PERMISSION_ALWAYS</Position>
+      <TranslationSet>
+        <base loc="en">Allow “%@” to access your location even when you are not using the app?</base>
+        <tran loc="ar">هل تريد السماح لـ \"%@\" بالوصول إلى الموقع الخاص بك حتى عند عدم استخدامك للتطبيق؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> "Location accuracy wlan message" </Description>
+      <Position>IMPROVE_LOCATION_ACCURACY_WLAN</Position>
+      <TranslationSet>
+        <base loc="en">Turning on WLAN will improve location accuracy.</base>
+        <tran loc="ar">سيؤدي تشغيل WLAN إلى تحسين دقة الموقع.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> OK specifically for LOCATION_CLIENT_PERMISSION (rdar://6242386) </Description>
+      <Position>LOCATION_CLIENT_PERMISSION_OK</Position>
+      <TranslationSet>
+        <base loc="en">Allow</base>
+        <tran loc="ar">السماح</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Cancel for location permission upgrade from WhenInUse to Always (cancel means leave at WhenInUse) </Description>
+      <Position>LOCATION_CLIENT_PERMISSION_CANCEL</Position>
+      <TranslationSet>
+        <base loc="en">Cancel</base>
+        <tran loc="ar">إلغاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Cancel specifically for LOCATION_DISABLED (rdar://6242386) </Description>
+      <Position>LOCATION_DISABLED_CANCEL</Position>
+      <TranslationSet>
+        <base loc="en">Cancel</base>
+        <tran loc="ar">إلغاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> " would like to use your current location." </Description>
+      <Position>LOCATION_CLIENT_PERMISSION</Position>
+      <TranslationSet>
+        <base loc="en">Allow “%@” to access your location?</base>
+        <tran loc="ar">السماح لـ \"%@\" بالوصول إلى موقعك؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> " would like to use your current location when it is visible." </Description>
+      <Position>LOCATION_CLIENT_PERMISSION_WHENINUSE</Position>
+      <TranslationSet>
+        <base loc="en">Allow “%@” to access your location?</base>
+        <tran loc="ar">السماح لـ \"%@\" بالوصول إلى موقعك؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Continue: an "allow" for when you've already been allowing </Description>
+      <Position>CONTINUE</Position>
+      <TranslationSet>
+        <base loc="en">Continue</base>
+        <tran loc="ar">متابعة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>LOCATION_CLIENT_PERMISSION_UPGRADE_WHENINUSE_ALWAYS_MESSAGE_LOCKSCREEN</Position>
+      <TranslationSet>
+        <base loc="en">“%@” would like access to your location even when you are not using the app.</base>
+        <tran loc="ar">يرغب \"%@\" في الوصول إلى موقعك حتى عند عدم استخدامك للتطبيق.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Reprompt for clients which have received Always authorization, perhaps in error. </Description>
+      <Position>LOCATION_CLIENT_PERMISSION_REPROMPT_ZERO</Position>
+      <TranslationSet>
+        <base loc="en">“%@” has been using your location in the background over the past 3 days. Do you want to continue to allow background location use?</base>
+        <tran loc="ar">يستخدم \"%@\" موقعك في الخلفية على مدار الأيام الثلاثة الماضية. هل ترغب في الاستمرار في السماح باستخدام الموقع في الخلفية؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>LOCATION_CLIENT_PERMISSION_KEEP_WHENINUSE_BUTTON</Position>
+      <TranslationSet>
+        <base loc="en">Keep Only While Using</base>
+        <tran loc="ar">الإبقاء على \"أثناء الاستخدام\"</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>LOCATION_CLIENT_PERMISSION_MESSAGE</Position>
+      <TranslationSet>
+        <base loc="en">App explanation for always: “%@”\n\nApp explanation for while using: “%@”</base>
+        <tran loc="ar">شرح التطبيق لـ \"دائمًا\": ‏\"%@\"\n\n شرح التطبيق لـ \"أثناء الاستخدام\": ‏\"%@\"</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Upgrade for clients which have only asked for WhenInUse, but now would like Always.  Note the pivotal "also", and that "no" means no change, not deauthorization. </Description>
+      <Position>LOCATION_CLIENT_PERMISSION_UPGRADE_WHENINUSE_ALWAYS</Position>
+      <TranslationSet>
+        <base loc="en">Allow “%@” to also access your location even when you are not using the app?</base>
+        <tran loc="ar">هل تريد السماح لـ \"%@\" أيضًا بالوصول إلى الموقع الخاص بك حتى عند عدم استخدامك للتطبيق؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> when we detect that the compass is not calibrated and user is not already moving the phone around </Description>
+      <Position>COMPASS_CALIBRATION</Position>
+      <TranslationSet>
+        <base loc="en">Please Wave iPhone to Calibrate the Compass</base>
+        <tran loc="ar">الرجاء التلويح بـ iPhone الخاص بك لمعايرة البوصلة .</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Yes button title </Description>
+      <Position>DONT_ALLOW</Position>
+      <TranslationSet>
+        <base loc="en">Don’t Allow</base>
+        <tran loc="ar">عدم السماح</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Never button title </Description>
+      <Position>LOCATION_CLIENT_PERMISSION_NEVER_BUTTON</Position>
+      <TranslationSet>
+        <base loc="en">Don’t Allow</base>
+        <tran loc="ar">عدم السماح</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>LOCATION_CLIENT_PERMISSION_UPGRADE_WHENINUSE_ALWAYS_TITLE_LOCKSCREEN</Position>
+      <TranslationSet>
+        <base loc="en">Location Authorization Request</base>
+        <tran loc="ar">طلب تخويل الموقع</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> "Turn on location services to get your current location" </Description>
+      <Position>LOCATION_DISABLED</Position>
+      <TranslationSet>
+        <base loc="en">Turn On Location Services to Allow “%@” to Determine Your Location</base>
+        <tran loc="ar">قم بتشغيل خدمات الموقع للسماح لـ \"%@\" بتحديد موقعك</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> "Location accuracy wifi message" </Description>
+      <Position>IMPROVE_LOCATION_ACCURACY_WIFI</Position>
+      <TranslationSet>
+        <base loc="en">Turning on Wi-Fi will improve location accuracy.</base>
+        <tran loc="ar">سيؤدي تشغيل Wi-Fi إلى تحسين دقة الموقع.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> "Location Accuracy Header" </Description>
+      <Position>LOCATION_ACCURACY</Position>
+      <TranslationSet>
+        <base loc="en">Location Accuracy</base>
+        <tran loc="ar">دقة الموقع</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>LOCATION_CLIENT_PERMISSION_MESSAGE_REDUCED</Position>
+      <TranslationSet>
+        <base loc="en">App explanation for always: “%@”\n\nIf you only allow access to your location while you are using the app, some features may not work while this app is in the background.</base>
+        <tran loc="ar">شرح التطبيق لـ \"دائمًا\": ‏\"%@\"\n\nفي حالة السماح بالوصول إلى موقعك أثناء استخدام التطبيق فقط، قد لا تعمل بعض الميزات أثناء فتح هذا التطبيق في الخلفية.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> "Location accuracy bluetooth message" </Description>
+      <Position>IMPROVE_LOCATION_ACCURACY_BLUETOOTH</Position>
+      <TranslationSet>
+        <base loc="en">Turning on Bluetooth will improve location accuracy.</base>
+        <tran loc="ar">سيؤدي تشغيل Bluetooth إلى تحسين دقة الموقع.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Settings button title </Description>
+      <Position>LOCATION_DISABLED_SETTINGS</Position>
+      <TranslationSet>
+        <base loc="en">Settings</base>
+        <tran loc="ar">الإعدادات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Settings button title </Description>
+      <Position>SETTINGS</Position>
+      <TranslationSet>
+        <base loc="en">Settings</base>
+        <tran loc="ar">الإعدادات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>LOCATION_CLIENT_PERMISSION_KEEP_ALWAYS_BUTTON</Position>
+      <TranslationSet>
+        <base loc="en">Always Allow</base>
+        <tran loc="ar">السماح دائمًا</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>CoreLocationFramework/System/Library/Frameworks/CoreLocation.framework/Versions/A/Resources/en.lproj/InfoPlist.strings</Filepath>
+    <TextItem>
+      <Description> Localized versions of Info.plist keys </Description>
+      <Position>CFBundleName</Position>
+      <TranslationSet>
+        <base loc="en">CoreLocation</base>
+        <tran loc="ar">CoreLocation</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>CoreLocationFramework/System/Library/Frameworks/CoreLocation.framework/Versions/A/Resources/en.lproj/locationd.stringsdict</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>/LOCATION_CLIENT_PERMISSION_REPROMPT_OTHER:dict/LOCATION_COUNT:dict/few:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%lu times</base>
+        <tran loc="ar">%lu مرات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/LOCATION_CLIENT_PERMISSION_REPROMPT_OTHER:dict/LOCATION_COUNT:dict/many:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%lu times</base>
+        <tran loc="ar">%lu مرة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/LOCATION_CLIENT_PERMISSION_REPROMPT_OTHER:dict/LOCATION_COUNT:dict/one:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%lu times</base>
+        <tran loc="ar">مرة واحدة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/LOCATION_CLIENT_PERMISSION_REPROMPT_OTHER:dict/LOCATION_COUNT:dict/other:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%lu times</base>
+        <tran loc="ar">%lu مرة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/LOCATION_CLIENT_PERMISSION_REPROMPT_OTHER:dict/LOCATION_COUNT:dict/two:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%lu times</base>
+        <tran loc="ar">مرتين</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/LOCATION_CLIENT_PERMISSION_REPROMPT_OTHER:dict/LOCATION_COUNT:dict/zero:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%lu times</base>
+        <tran loc="ar">%lu مرة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/LOCATION_CLIENT_PERMISSION_REPROMPT_OTHER:dict/NSStringLocalizedFormatKey:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">“%@” has used your location %#@LOCATION_COUNT@ in the background over the past 3 days. Do you want to continue to allow background location use?</base>
+        <tran loc="ar">استخدم "%@" موقعك %#@LOCATION_COUNT@ في الخلفية على مدار الأيام الثلاثة الماضية. هل ترغب في متابعة السماح باستخدام الموقع في الخلفية؟</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+</Proj>

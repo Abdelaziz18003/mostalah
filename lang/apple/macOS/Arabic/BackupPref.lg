@@ -1,0 +1,2370 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Proj>
+  <ProjName>BackupPref</ProjName>
+  <File>
+    <Filepath>BackupPref/System/Library/PreferencePanes/TimeMachine.prefPane/Contents/Resources/en.lproj/InfoPlist.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>NSPrefPaneIconLabel</Position>
+      <TranslationSet>
+        <base loc="en">Time\nMachine</base>
+        <tran loc="ar">Time\nMachine</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Localized versions of Info.plist keys </Description>
+      <Position>CFBundleName</Position>
+      <TranslationSet>
+        <base loc="en">Time Machine</base>
+        <tran loc="ar">Time Machine</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>NSHumanReadableCopyright</Position>
+      <TranslationSet>
+        <base loc="en">Copyright © 2009 - 2013 Apple Inc.\nAll rights reserved.</base>
+        <tran loc="ar">‏‎Copyright © 2009-2013 Apple Inc.‎\n‏ كافة الحقوق محفوظة.</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>BackupPref/System/Library/PreferencePanes/TimeMachine.prefPane/Contents/XPCServices/com.apple.prefs.backup.remoteservice.xpc/Contents/Resources/en.lproj/InfoPlist.strings</Filepath>
+    <TextItem>
+      <Description> Localized versions of Info.plist keys </Description>
+      <Position>CFBundleVisibleComponentName</Position>
+      <TranslationSet>
+        <base loc="en">System Preferences</base>
+        <tran loc="ar">تفضيلات النظام</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>BackupPref/System/Library/PreferencePanes/TimeMachine.prefPane/Contents/Resources/en.lproj/TMDestinationSheet.strings</Filepath>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Preparing disk..."; ObjectID = "201464"; </Description>
+      <Position>201464.title</Position>
+      <TranslationSet>
+        <base loc="en">Preparing disk...</base>
+        <tran loc="ar">تحضير القرص...</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "Preparing disk..."; ObjectID = "201466"; </Description>
+      <Position>201466.ibShadowedIsNilPlaceholder</Position>
+      <TranslationSet>
+        <base loc="en">Preparing disk...</base>
+        <tran loc="ar">تحضير القرص...</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Group Header"; ObjectID = "201646"; </Description>
+      <Position>201646.title</Position>
+      <TranslationSet>
+        <base loc="en">Group Header</base>
+        <tran loc="ar">عنوان المجموعة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "The hint and password cannot match."; ObjectID = "201456"; </Description>
+      <Position>201456.title</Position>
+      <TranslationSet>
+        <base loc="en">The hint and password cannot match.</base>
+        <tran loc="ar">لا يمكن أن يتطابق التلميح مع كلمة السر.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "37.77 GB, Case Sensitive, Encrypted"; ObjectID = "201609"; </Description>
+      <Position>201609.title</Position>
+      <TranslationSet>
+        <base loc="en">37.77 GB, Case Sensitive, Encrypted</base>
+        <tran loc="ar">٣٧,٧٧ غ.ب.، حساس لحالة الأحرف، مشفر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Password incorrect. Try again."; ObjectID = "201484"; </Description>
+      <Position>201484.title</Position>
+      <TranslationSet>
+        <base loc="en">Password incorrect. Try again.</base>
+        <tran loc="ar">كلمة سر غير صحيحة. حاول مرة أخرى.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Backup password:"; ObjectID = "201342"; </Description>
+      <Position>201342.title</Position>
+      <TranslationSet>
+        <base loc="en">Backup password:</base>
+        <tran loc="ar">كلمة سر النسخ الاحتياطي:</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Choose Different Disk"; ObjectID = "201340"; </Description>
+      <Position>201340.title</Position>
+      <TranslationSet>
+        <base loc="en">Choose Different Disk</base>
+        <tran loc="ar">قم باختيار قرص مختلف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Choose Different Disk"; ObjectID = "201399"; </Description>
+      <Position>201399.title</Position>
+      <TranslationSet>
+        <base loc="en">Choose Different Disk</base>
+        <tran loc="ar">قم باختيار قرص مختلف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Verify password:"; ObjectID = "201344"; </Description>
+      <Position>201344.title</Position>
+      <TranslationSet>
+        <base loc="en">Verify password:</base>
+        <tran loc="ar">تأكيد كلمة السر:</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Cancel"; ObjectID = "101069"; </Description>
+      <Position>101069.title</Position>
+      <TranslationSet>
+        <base loc="en">Cancel</base>
+        <tran loc="ar">إلغاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Encrypt backups"; ObjectID = "201323"; </Description>
+      <Position>201323.title</Position>
+      <TranslationSet>
+        <base loc="en">Encrypt backups</base>
+        <tran loc="ar">تشفير النسخ الاحتياطي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Turn Off Encryption"; ObjectID = "201400"; </Description>
+      <Position>201400.title</Position>
+      <TranslationSet>
+        <base loc="en">Turn Off Encryption</base>
+        <tran loc="ar">إيقاف تشغيل التشفير</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; placeholderString = "Required"; ObjectID = "201440"; </Description>
+      <Position>201440.placeholderString</Position>
+      <TranslationSet>
+        <base loc="en">Required</base>
+        <tran loc="ar">مطلوب</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "&lt;&lt;do not localize&gt;&gt;"; ObjectID = "201397"; </Description>
+      <Position>201397.title</Position>
+      <TranslationSet>
+        <base loc="en">&lt;&lt;do not localize&gt;&gt;</base>
+        <tran loc="ar">&lt;&lt;do not localize&gt;&gt;</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "For help creating a good password, click the key. For more information, click the Help button."; ObjectID = "201452"; </Description>
+      <Position>201452.title</Position>
+      <TranslationSet>
+        <base loc="en">For help creating a good password, click the key. For more information, click the Help button.</base>
+        <tran loc="ar">للمساعدة في إنشاء كلمة سر جيدة، قم بالنقر فوق المفتاح. لمزيد من المعلومات، قم بالنقر فوق زر مساعدة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTableColumn"; headerCell.title = "destination"; ObjectID = "201319"; </Description>
+      <Position>201319.headerCell.title</Position>
+      <TranslationSet>
+        <base loc="en">destination</base>
+        <tran loc="ar">وجهة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Buzz Lightyear’s Time Capsule"; ObjectID = "201607"; </Description>
+      <Position>201607.title</Position>
+      <TranslationSet>
+        <base loc="en">Buzz Lightyear’s Time Capsule</base>
+        <tran loc="ar">‏Time Capsule الخاص بـ Buzz Lightyear</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "You must create a backup password. Time Machine will use this password to encrypt your backup disk."; ObjectID = "201346"; </Description>
+      <Position>201346.title</Position>
+      <TranslationSet>
+        <base loc="en">You must create a backup password. Time Machine will use this password to encrypt your backup disk.</base>
+        <tran loc="ar">يجب عليك إنشاء كلمة سر للنسخ الاحتياطي. سيقوم Time Machine باستخدام كلمة السر هذه لتشفير قرص النسخ الاحتياطي الخاص بك.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Encrypt Disk"; ObjectID = "201338"; </Description>
+      <Position>201338.title</Position>
+      <TranslationSet>
+        <base loc="en">Encrypt Disk</base>
+        <tran loc="ar">تشفير القرص</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Remove Disk"; ObjectID = "101046"; </Description>
+      <Position>101046.title</Position>
+      <TranslationSet>
+        <base loc="en">Remove Disk</base>
+        <tran loc="ar">إزالة قرص</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "The passwords do not match."; ObjectID = "201365"; </Description>
+      <Position>201365.title</Position>
+      <TranslationSet>
+        <base loc="en">The passwords do not match.</base>
+        <tran loc="ar">كلمتا السر غير متطابقتين.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Backup Password:"; ObjectID = "201407"; </Description>
+      <Position>201407.title</Position>
+      <TranslationSet>
+        <base loc="en">Backup Password:</base>
+        <tran loc="ar">كلمة سر النسخ الاحتياطي:</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "               "; ObjectID = "201450"; </Description>
+      <Position>201450.title</Position>
+      <TranslationSet>
+        <base loc="en">               </base>
+        <tran loc="ar">               </tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTableView"; ibExternalAccessibilityDescription = "backup destinations"; ObjectID = "1034"; </Description>
+      <Position>1034.ibExternalAccessibilityDescription</Position>
+      <TranslationSet>
+        <base loc="en">backup destinations</base>
+        <tran loc="ar">وجهات النسخ الاحتياطي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Password hint:"; ObjectID = "201425"; </Description>
+      <Position>201425.title</Position>
+      <TranslationSet>
+        <base loc="en">Password hint:</base>
+        <tran loc="ar">تلميح كلمة السر:</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>BackupPref/System/Library/CoreServices/backupd.bundle/Contents/Resources/TMHelperAgent.app/Contents/Resources/en.lproj/Localizable.strings</Filepath>
+    <TextItem>
+      <Description> title text for time machine dialog offering multiple disks </Description>
+      <Position>Do you want to use %@ or %@ to back up with Time Machine?</Position>
+      <TranslationSet>
+        <base loc="en">Do you want to use %1$@ or %2$@ to back up with Time Machine?</base>
+        <tran loc="ar">هل ترغب في استخدام ‎%1$@‎ أم ‎%2$@‎ لعمل نسخ احتياطي باستخدام Time Machine؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> title text for time machine dialog offering a single disk </Description>
+      <Position>Do you want to use %@ to back up with Time Machine?</Position>
+      <TranslationSet>
+        <base loc="en">Do you want to use %@ to back up with Time Machine?</base>
+        <tran loc="ar">هل ترغب في استخدام ‎%@‎ لعمل نسخ احتياطي باستخدام Time Machine؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> separator for multiple items in a list of disks in the time machine dialog </Description>
+      <Position>, </Position>
+      <TranslationSet>
+        <base loc="en">, </base>
+        <tran loc="ar">، </tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>BackupPref/System/Library/PreferencePanes/TimeMachine.prefPane/Contents/Resources/en.lproj/TMPref.searchTerms</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>/main:dict/localizableStrings:dict/0:array/index:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">backup, archive, encrypt, encryption, encrypted, encrypting, hard, disks, discs, drives, volumes, data, information, folders, lose, loss, missing, accident, disaster, erase, delete, recover, archiving, losing, lost, erasing, erased, deleting, deleted, restoring, recovering</base>
+        <tran loc="ar">نسخة احتياطية، نسخ احتياطية، النسخة الاحتياطية، النسخ الاحتياطية، أرشيف، الأرشيف، أرشيفات، الأرشيفات، أقراص ثابتة، الأقراص الثابتة، قرص ثابت، القرص الثابت، الأقراص، أقراص، قرص، القرص، محركات أقراص، محركات الأقراص، محرك قرص، محرك القرص، وحدات تخزين، وحدات التخزين، وحدة تخزين، وحدة التخزين، بيانات، البيانات، معلومات، المعلومات، معلومة، المعلومة، مجلدات، المجلدات، مجلد، المجلد، يفقد، مفقود، مفقودون، مفقودين، المفقود، المفقودين المفقودون، حادثة، الحادثة، حوادث، الحوادث، كارثة، الكارثة، كوارث، الكوارث، مسح، المسح، حذف، الحذف، استرداد، الاسترداد، أرشفة، الأرشفة، فقد، الفقد، تم مسحه، تم المسح، محذوف، المحذوف، محذوفين، المحذوفين، محذوفون، المحذوفون، استعادة، الاستعادة، backup، archive، hard، disks، discs، drives، volumes، data، information، folders، lose، loss، missing، accident، disaster، erase، delete، recover، archiving، losing، lost، erasing، erased، deleting، deleted، restoring، recovering، encrypt، encryption، encrypting، encrypted، تشفير، شفر، مشفر، التشفير، المشفر، يشفر، شفرة، الشفرة،</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/main:dict/localizableStrings:dict/0:array/title:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Back up and restore files</base>
+        <tran loc="ar">نسخ احتياطي واستعادة الملفات، النسخ الاحتياطي واستعادة الملفات، نسخ احتياطي واستعادة الملف، النسخ الاحتياطي واستعادة الملف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/main:dict/localizableStrings:dict/0:array/comments:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Localizable index words</base>
+        <tran loc="ar">كلمات الفهرس القابلة للترجمة، كلمات فهرس قابلة للترجمة، كلمة الفهرس القابلة للترجمة، كلمة فهرس قابلة للترجمة</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>BackupPref/System/Library/CoreServices/Menu Extras/TimeMachine.menu/Contents/Resources/en.lproj/Localizable.strings</Filepath>
+    <TextItem>
+      <Description> Waiting to Complete First Backup </Description>
+      <Position>Waiting to Complete First Backup</Position>
+      <TranslationSet>
+        <base loc="en">Waiting to Complete First Backup</base>
+        <tran loc="ar">في انتظار إكمال النسخة الاحتياطية الأولى</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Waiting to Back Up </Description>
+      <Position>Waiting to Back Up</Position>
+      <TranslationSet>
+        <base loc="en">Waiting to Back Up</base>
+        <tran loc="ar">في انتظار إجراء النسخ الاحتياطي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> backup failed </Description>
+      <Position>Backup Failed\\U2026</Position>
+      <TranslationSet>
+        <base loc="en">Backup Failed…</base>
+        <tran loc="ar">فشل النسخ الاحتياطي...</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Preparing verification menu item title </Description>
+      <Position>Preparing Verification\\U2026</Position>
+      <TranslationSet>
+        <base loc="en">Preparing Verification…</base>
+        <tran loc="ar">يتم الآن تحضير التحقق...</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Stopping back up menu item title </Description>
+      <Position>Stopping\\U2026</Position>
+      <TranslationSet>
+        <base loc="en">Stopping…</base>
+        <tran loc="ar">جاري الإيقاف…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Consistency Scan menu item title </Description>
+      <Position>Back Up With Consistency Scan</Position>
+      <TranslationSet>
+        <base loc="en">Back Up With Consistency Scan</base>
+        <tran loc="ar">النسخ الاحتياطي مع فحص التوافق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> time machine preferences menu item title </Description>
+      <Position>Open Time Machine Preferences\\U2026</Position>
+      <TranslationSet>
+        <base loc="en">Open Time Machine Preferences…</base>
+        <tran loc="ar">فتح تفضيلات Time Machine…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Indexing back up menu item title </Description>
+      <Position>Indexing Backup\\U2026</Position>
+      <TranslationSet>
+        <base loc="en">Indexing Backup…</base>
+        <tran loc="ar">يتم الآن فهرسة النسخ الاحتياطي…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Skip Cleaning Up menu item title </Description>
+      <Position>Skip Cleaning Up</Position>
+      <TranslationSet>
+        <base loc="en">Skip Cleaning Up</base>
+        <tran loc="ar">تخطي التنظيف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Finishing back up menu item title </Description>
+      <Position>Finishing Backup\\U2026</Position>
+      <TranslationSet>
+        <base loc="en">Finishing Backup…</base>
+        <tran loc="ar">يتم الآن إنهاء عملية النسخ الاحتياطي...</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Decrypting backup menu item title </Description>
+      <Position>Decrypting Backup Disk\\U2026</Position>
+      <TranslationSet>
+        <base loc="en">Decrypting Backup Disk…</base>
+        <tran loc="ar">يتم الآن فك تشفير قرص النسخ الاحتياطي…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Mobile migration progress menu item title </Description>
+      <Position>Backing Up: %@, %@ of %@</Position>
+      <TranslationSet>
+        <base loc="en">Backing Up: %1$@, %2$@ of %3$@</base>
+        <tran loc="ar">النسخ الاحتياطي: %1$@، %2$@ من %3$@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Skip this backup menu item title </Description>
+      <Position>Skip This Backup</Position>
+      <TranslationSet>
+        <base loc="en">Skip This Backup</base>
+        <tran loc="ar">تخطي هذا النسخ الاحتياطي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Time Machine Not Configured menu item </Description>
+      <Position>Time Machine Not Configured</Position>
+      <TranslationSet>
+        <base loc="en">Time Machine Not Configured</base>
+        <tran loc="ar">لم يتم تكوين Time Machine</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Automatic backups are disabled </Description>
+      <Position>Automatic Backups: Off</Position>
+      <TranslationSet>
+        <base loc="en">Automatic Backups: Off</base>
+        <tran loc="ar">النسخ الاحتياطي التلقائي: متوقف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Skipping verification menu item title </Description>
+      <Position>Skipping Verification\\U2026</Position>
+      <TranslationSet>
+        <base loc="en">Skipping Verification…</base>
+        <tran loc="ar">يتم الآن تخطي التحقق...</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Cleaning Up menu item title </Description>
+      <Position>Cleaning Up Old Backups\\U2026</Position>
+      <TranslationSet>
+        <base loc="en">Cleaning Up Old Backups…</base>
+        <tran loc="ar">يتم الآن تنظيف النسخ الاحتياطية القديمة...</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> backup destination menu item title for Time Capsule </Description>
+      <Position>Latest Time Capsule Backup:</Position>
+      <TranslationSet>
+        <base loc="en">Latest Time Capsule Backup:</base>
+        <tran loc="ar">أحدث نسخة احتياطية لـ Time Capsule:</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Decrypting backup with percentage menu item title </Description>
+      <Position>Decrypting Backup Disk\\U2026 (%@)</Position>
+      <TranslationSet>
+        <base loc="en">Decrypting Backup Disk… (%@)</base>
+        <tran loc="ar">يتم الآن فك تشفير قرص النسخ الاحتياطي… (%@)</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Verifying backup with percentage menu item title </Description>
+      <Position>Verifying Backup\\U2026 (%@)</Position>
+      <TranslationSet>
+        <base loc="en">Verifying Backup… (%@)</base>
+        <tran loc="ar">يتم الآن التحقق من النسخة الاحتياطية… (%@)</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> back up now menu item title </Description>
+      <Position>Back Up Now</Position>
+      <TranslationSet>
+        <base loc="en">Back Up Now</base>
+        <tran loc="ar">نسخ احتياطي الآن</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Mounting back up menu item title </Description>
+      <Position>Looking for Backup Disk\\U2026</Position>
+      <TranslationSet>
+        <base loc="en">Looking for Backup Disk…</base>
+        <tran loc="ar">يتم الآن البحث عن قرص النسخ الاحتياطي...</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Cleaning up menu item title </Description>
+      <Position>Cleaning Up\\U2026</Position>
+      <TranslationSet>
+        <base loc="en">Cleaning Up…</base>
+        <tran loc="ar">يتم الآن التنظيف...</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Enter Time Machine menu item title </Description>
+      <Position>Enter Time Machine</Position>
+      <TranslationSet>
+        <base loc="en">Enter Time Machine</base>
+        <tran loc="ar">دخول إلى Time Machine</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Browse Other Time Machine disks menu title </Description>
+      <Position>Browse Other Backup Disks\\U2026</Position>
+      <TranslationSet>
+        <base loc="en">Browse Other Backup Disks…</base>
+        <tran loc="ar">استعراض أقراص النسخ الاحتياطي الأخرى…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Encrypting backup menu item title </Description>
+      <Position>Encrypting Backup Disk\\U2026</Position>
+      <TranslationSet>
+        <base loc="en">Encrypting Backup Disk…</base>
+        <tran loc="ar">يتم الآن تشفير قرص النسخ الاحتياطي...</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> backup destination menu item title for server or external disk </Description>
+      <Position>Latest Backup to \\U201C%@\\U201D:</Position>
+      <TranslationSet>
+        <base loc="en">Latest Backup to “%@”:</base>
+        <tran loc="ar">أحدث نسخة احتياطية إلى \"%@\":</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Skip Verification menu item title </Description>
+      <Position>Skip Verification</Position>
+      <TranslationSet>
+        <base loc="en">Skip Verification</base>
+        <tran loc="ar">تخطي التحقق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Verifying backup menu item title </Description>
+      <Position>Verifying Backup\\U2026</Position>
+      <TranslationSet>
+        <base loc="en">Verifying Backup…</base>
+        <tran loc="ar">يتم الآن التحقق من النسخة الاحتياطية…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Encrypting backup with percentage menu item title </Description>
+      <Position>Encrypting Backup Disk\\U2026 (%@)</Position>
+      <TranslationSet>
+        <base loc="en">Encrypting Backup Disk… (%@)</base>
+        <tran loc="ar">يتم الآن تشفير قرص النسخ الاحتياطي… (%@)</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Verify Backups menu item title </Description>
+      <Position>Verify Backups</Position>
+      <TranslationSet>
+        <base loc="en">Verify Backups</base>
+        <tran loc="ar">التحقق من النسخ الاحتياطية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Preparing back up menu item title </Description>
+      <Position>Preparing Backup\\U2026</Position>
+      <TranslationSet>
+        <base loc="en">Preparing Backup…</base>
+        <tran loc="ar">يتم الآن إعداد النسخ الاحتياطي…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> backup delayed </Description>
+      <Position>Backup Delayed\\U2026</Position>
+      <TranslationSet>
+        <base loc="en">Backup Delayed…</base>
+        <tran loc="ar">تم تأجيل النسخ الاحتياطي...</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>BackupPref/System/Library/PreferencePanes/TimeMachine.prefPane/Contents/Resources/en.lproj/TMPreferencePane.strings</Filepath>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Attributed Display Name"; ObjectID = "101251"; </Description>
+      <Position>101251.title</Position>
+      <TranslationSet>
+        <base loc="en">Attributed Display Name</base>
+        <tran loc="ar">اسم عرض ذو سمة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Attributed Display Name"; ObjectID = "201473"; </Description>
+      <Position>201473.title</Position>
+      <TranslationSet>
+        <base loc="en">Attributed Display Name</base>
+        <tran loc="ar">اسم عرض ذو سمة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButton"; ibExternalAccessibilityDescription = "error information"; ObjectID = "1321"; </Description>
+      <Position>1321.ibExternalAccessibilityDescription</Position>
+      <TranslationSet>
+        <base loc="en">error information</base>
+        <tran loc="ar">خطأ في المعلومات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButton"; ibExternalAccessibilityDescription = "error information"; ObjectID = "201468"; </Description>
+      <Position>201468.ibExternalAccessibilityDescription</Position>
+      <TranslationSet>
+        <base loc="en">error information</base>
+        <tran loc="ar">خطأ في المعلومات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Select Disk…"; ObjectID = "101234"; </Description>
+      <Position>101234.title</Position>
+      <TranslationSet>
+        <base loc="en">Select Disk…</base>
+        <tran loc="ar">اختيار قرص…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "900 GB of 999 GB available, encrypted"; ObjectID = "101252"; </Description>
+      <Position>101252.title</Position>
+      <TranslationSet>
+        <base loc="en">900 GB of 999 GB available, encrypted</base>
+        <tran loc="ar">٩٠٠ غ.ب. من ٩٩٩ غ.ب. متاحة، مشفرة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Back Up With Consistency Scan"; ObjectID = "B3d-wK-U1d"; </Description>
+      <Position>B3d-wK-U1d.title</Position>
+      <TranslationSet>
+        <base loc="en">Back Up With Consistency Scan</base>
+        <tran loc="ar">النسخ الاحتياطي مع فحص التوافق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Verify Backup"; ObjectID = "ORA-DT-mZE"; </Description>
+      <Position>ORA-DT-mZE.title</Position>
+      <TranslationSet>
+        <base loc="en">Verify Backup</base>
+        <tran loc="ar">التحقق من النسخة الاحتياطية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Add or Remove Backup Disk…"; ObjectID = "202169"; </Description>
+      <Position>202169.title</Position>
+      <TranslationSet>
+        <base loc="en">Add or Remove Backup Disk…</base>
+        <tran loc="ar">إضافة أو إزالة قرص النسخ الاحتياطي...</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSImageView"; ibExternalAccessibilityDescription = "time machine icon"; ObjectID = "926"; </Description>
+      <Position>926.ibExternalAccessibilityDescription</Position>
+      <TranslationSet>
+        <base loc="en">time machine icon</base>
+        <tran loc="ar">أيقونة time machine</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTableColumn"; headerCell.title = "Destinations:"; ObjectID = "201458"; </Description>
+      <Position>201458.headerCell.title</Position>
+      <TranslationSet>
+        <base loc="en">Destinations:</base>
+        <tran loc="ar">الوجهات:</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTabViewItem"; label = "One Destination"; ObjectID = "1226"; </Description>
+      <Position>1226.label</Position>
+      <TranslationSet>
+        <base loc="en">One Destination</base>
+        <tran loc="ar">وجهة واحدة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Time Machine"; ObjectID = "nsp-eH-pE2"; </Description>
+      <Position>nsp-eH-pE2.title</Position>
+      <TranslationSet>
+        <base loc="en">Time Machine</base>
+        <tran loc="ar">Time Machine</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Back Up Automatically"; ObjectID = "uOZ-nf-Sn6"; </Description>
+      <Position>uOZ-nf-Sn6.title</Position>
+      <TranslationSet>
+        <base loc="en">Back Up Automatically</base>
+        <tran loc="ar">النسخ الاحتياطي تلقائيًا</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTabViewItem"; label = "No Destination"; ObjectID = "1224"; </Description>
+      <Position>1224.label</Position>
+      <TranslationSet>
+        <base loc="en">No Destination</base>
+        <tran loc="ar">بدون وجهة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Remove Backup Disk…"; ObjectID = "201811"; </Description>
+      <Position>201811.title</Position>
+      <TranslationSet>
+        <base loc="en">Remove Backup Disk…</base>
+        <tran loc="ar">إزالة قرص النسخ الاحتياطي…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Latest Backup: Today, 7:46 PM"; ObjectID = "101254"; </Description>
+      <Position>101254.title</Position>
+      <TranslationSet>
+        <base loc="en">Latest Backup: Today, 7:46 PM</base>
+        <tran loc="ar">أحدث نسخ احتياطي: اليوم، ٧:٤٦ مساءً</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSImageView"; ibExternalAccessibilityDescription = "disk"; ObjectID = "1228"; </Description>
+      <Position>1228.ibExternalAccessibilityDescription</Position>
+      <TranslationSet>
+        <base loc="en">disk</base>
+        <tran loc="ar">القرص</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSImageView"; ibExternalAccessibilityDescription = "disk"; ObjectID = "1233"; </Description>
+      <Position>1233.ibExternalAccessibilityDescription</Position>
+      <TranslationSet>
+        <base loc="en">disk</base>
+        <tran loc="ar">القرص</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSImageView"; ibExternalAccessibilityDescription = "disk"; ObjectID = "201462"; </Description>
+      <Position>201462.ibExternalAccessibilityDescription</Position>
+      <TranslationSet>
+        <base loc="en">disk</base>
+        <tran loc="ar">القرص</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSImageView"; ibExternalAccessibilityDescription = "disk"; ObjectID = "202012"; </Description>
+      <Position>202012.ibExternalAccessibilityDescription</Position>
+      <TranslationSet>
+        <base loc="en">disk</base>
+        <tran loc="ar">القرص</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Back Up Now"; ObjectID = "201803"; </Description>
+      <Position>201803.title</Position>
+      <TranslationSet>
+        <base loc="en">Back Up Now</base>
+        <tran loc="ar">نسخ احتياطي الآن</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Show Time Machine in menu bar"; ObjectID = "201297"; </Description>
+      <Position>201297.title</Position>
+      <TranslationSet>
+        <base loc="en">Show Time Machine in menu bar</base>
+        <tran loc="ar">إظهار Time Machine في شريط القائمة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButton"; ibExternalAccessibilityDescription = "stop"; ObjectID = "1273"; </Description>
+      <Position>1273.ibExternalAccessibilityDescription</Position>
+      <TranslationSet>
+        <base loc="en">stop</base>
+        <tran loc="ar">إيقاف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButton"; ibExternalAccessibilityDescription = "stop"; ObjectID = "201466"; </Description>
+      <Position>201466.ibExternalAccessibilityDescription</Position>
+      <TranslationSet>
+        <base loc="en">stop</base>
+        <tran loc="ar">إيقاف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTabViewItem"; label = "Multiple Destinations"; ObjectID = "201369"; </Description>
+      <Position>201369.label</Position>
+      <TranslationSet>
+        <base loc="en">Multiple Destinations</base>
+        <tran loc="ar">وجهات متعددة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSWindow"; title = "&lt;&lt; do not localize &gt;&gt;"; ObjectID = "12"; </Description>
+      <Position>12.title</Position>
+      <TranslationSet>
+        <base loc="en">&lt;&lt; do not localize &gt;&gt;</base>
+        <tran loc="ar">&lt;&lt; do not localize &gt;&gt;</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Oldest backup: July 13, 2011"; ObjectID = "101253"; </Description>
+      <Position>101253.title</Position>
+      <TranslationSet>
+        <base loc="en">Oldest backup: July 13, 2011</base>
+        <tran loc="ar">أقدم نسخ احتياطي: يوليو ١٣، ٢٠١١</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Next Backup: Today, 8:45 PM"; ObjectID = "101255"; </Description>
+      <Position>101255.title</Position>
+      <TranslationSet>
+        <base loc="en">Next Backup: Today, 8:45 PM</base>
+        <tran loc="ar">النسخ الاحتياطي التالي: اليوم، ٨:٤٥ مساءً</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Backing up: 32 MB of 142 MB"; ObjectID = "201472"; </Description>
+      <Position>201472.title</Position>
+      <TranslationSet>
+        <base loc="en">Backing up: 32 MB of 142 MB</base>
+        <tran loc="ar">النسخ الاحتياطي: ٣٢ م.ب. من ١٤٢ م.ب.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButton"; ibExternalAccessibilityDescription = "select backup disk"; ObjectID = "1234"; </Description>
+      <Position>1234.ibExternalAccessibilityDescription</Position>
+      <TranslationSet>
+        <base loc="en">select backup disk</base>
+        <tran loc="ar">تحديد قرص النسخ الاحتياطي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButton"; ibExternalAccessibilityDescription = "select backup disk"; ObjectID = "201575"; </Description>
+      <Position>201575.ibExternalAccessibilityDescription</Position>
+      <TranslationSet>
+        <base loc="en">select backup disk</base>
+        <tran loc="ar">تحديد قرص النسخ الاحتياطي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Select Backup Disk…"; ObjectID = "201576"; </Description>
+      <Position>201576.title</Position>
+      <TranslationSet>
+        <base loc="en">Select Backup Disk…</base>
+        <tran loc="ar">اختيار قرص النسخ الاحتياطي…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSProgressIndicator"; ibExternalAccessibilityDescription = "backup progress"; ObjectID = "1249"; </Description>
+      <Position>1249.ibExternalAccessibilityDescription</Position>
+      <TranslationSet>
+        <base loc="en">backup progress</base>
+        <tran loc="ar">تقدم النسخ الاحتياطي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Options…"; ObjectID = "201520"; </Description>
+      <Position>201520.title</Position>
+      <TranslationSet>
+        <base loc="en">Options…</base>
+        <tran loc="ar">خيارات…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButton"; ibExternalAccessibilityDescription = "options"; ObjectID = "201519"; </Description>
+      <Position>201519.ibExternalAccessibilityDescription</Position>
+      <TranslationSet>
+        <base loc="en">options</base>
+        <tran loc="ar">خيارات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSBox"; title = "Box"; ObjectID = "202152"; </Description>
+      <Position>202152.title</Position>
+      <TranslationSet>
+        <base loc="en">Box</base>
+        <tran loc="ar">مربع</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "201459"; </Description>
+      <Position>201459.title</Position>
+      <TranslationSet>
+        <base loc="en">Text Cell</base>
+        <tran loc="ar">خلية النص</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>BackupPref/System/Library/CoreServices/backupd.bundle/Contents/Resources/TMHelperAgent.app/Contents/Resources/en.lproj/TMSetupOffer.strings</Filepath>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Don't Use"; ObjectID = "22"; </Description>
+      <Position>22.title</Position>
+      <TranslationSet>
+        <base loc="en">Don't Use</base>
+        <tran loc="ar">عدم الاستخدام</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Time Machine keeps an up-to-date copy of everything on your Mac. It not only keeps a spare copy of every file, it remembers how your system looked, so you can revisit your Mac as it appeared in the past."; ObjectID = "16"; </Description>
+      <Position>16.title</Position>
+      <TranslationSet>
+        <base loc="en">Time Machine keeps an up-to-date copy of everything on your Mac. It not only keeps a spare copy of every file, it remembers how your system looked, so you can revisit your Mac as it appeared in the past.</base>
+        <tran loc="ar">يحتفظ Time Machine بنسخة حديثة من كل شيء موجود على جهاز Mac الخاص بك. فهو لا يحتفظ بنسخة احتياطية من كل ملف وحسب، وإنما يتذكر أيضًا كيف كان يبدو النظام، وبذلك يمكنك العودة إلى جهاز الـ Mac الخاص بك مرة أخرى وهو يبدو كما كان في الماضي.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "&lt;&lt;Program puts text here. Do not localize&gt;&gt;"; ObjectID = "13"; </Description>
+      <Position>13.title</Position>
+      <TranslationSet>
+        <base loc="en">&lt;&lt;Program puts text here. Do not localize&gt;&gt;</base>
+        <tran loc="ar">&lt;&lt;Program puts text here. Do not localize&gt;&gt;</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Use as Backup Disk"; ObjectID = "17"; </Description>
+      <Position>17.title</Position>
+      <TranslationSet>
+        <base loc="en">Use as Backup Disk</base>
+        <tran loc="ar">استخدام كقرص نسخ احتياطي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "&lt;&lt;Do not localize&gt;&gt;"; ObjectID = "20"; </Description>
+      <Position>20.title</Position>
+      <TranslationSet>
+        <base loc="en">&lt;&lt;Do not localize&gt;&gt;</base>
+        <tran loc="ar">&lt;&lt;Do not localize&gt;&gt;</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Decide Later"; ObjectID = "21"; </Description>
+      <Position>21.title</Position>
+      <TranslationSet>
+        <base loc="en">Decide Later</base>
+        <tran loc="ar">اتخاذ القرار لاحقًا</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenu"; title = "OtherViews"; ObjectID = "19"; </Description>
+      <Position>19.title</Position>
+      <TranslationSet>
+        <base loc="en">OtherViews</base>
+        <tran loc="ar">OtherViews</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Encrypt Backup Disk"; ObjectID = "23"; </Description>
+      <Position>23.title</Position>
+      <TranslationSet>
+        <base loc="en">Encrypt Backup Disk</base>
+        <tran loc="ar">تشفير قرص النسخ الاحتياطي</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>BackupPref/System/Library/PreferencePanes/TimeMachine.prefPane/Contents/Resources/en.lproj/TMOptionsSheet.strings</Filepath>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; placeholderString = "Path"; ObjectID = "101294"; </Description>
+      <Position>101294.placeholderString</Position>
+      <TranslationSet>
+        <base loc="en">Path</base>
+        <tran loc="ar">المسار</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Path"; ObjectID = "101294"; </Description>
+      <Position>101294.title</Position>
+      <TranslationSet>
+        <base loc="en">Path</base>
+        <tran loc="ar">المسار</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Exclude system files and applications"; ObjectID = "101360"; </Description>
+      <Position>101360.title</Position>
+      <TranslationSet>
+        <base loc="en">Exclude system files and applications</base>
+        <tran loc="ar">استثناء ملفات النظام والتطبيقات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSView"; ibExternalAccessibilityDescription = "add remove"; ObjectID = "1297"; </Description>
+      <Position>1297.ibExternalAccessibilityDescription</Position>
+      <TranslationSet>
+        <base loc="en">add remove</base>
+        <tran loc="ar">إضافة إزالة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Estimated size of full backup: --"; ObjectID = "101358"; </Description>
+      <Position>101358.title</Position>
+      <TranslationSet>
+        <base loc="en">Estimated size of full backup: --</base>
+        <tran loc="ar">الحجم المقدّر للنسخة الاحتياطية الكاملة: --</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Back up while on battery power"; ObjectID = "201307"; </Description>
+      <Position>201307.title</Position>
+      <TranslationSet>
+        <base loc="en">Back up while on battery power</base>
+        <tran loc="ar">نسخ احتياطي أثناء تشغيل طاقة البطارية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Cancel"; ObjectID = "101285"; </Description>
+      <Position>101285.title</Position>
+      <TranslationSet>
+        <base loc="en">Cancel</base>
+        <tran loc="ar">إلغاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Show invisible items"; ObjectID = "201319"; </Description>
+      <Position>201319.title</Position>
+      <TranslationSet>
+        <base loc="en">Show invisible items</base>
+        <tran loc="ar">إظهار العناصر غير المرئية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Exclude these items from backups:"; ObjectID = "101295"; </Description>
+      <Position>101295.title</Position>
+      <TranslationSet>
+        <base loc="en">Exclude these items from backups:</base>
+        <tran loc="ar">استبعاد هذه العناصر من عمليات النسخ الاحتياطي‫:‬</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTableView"; ibExternalAccessibilityDescription = "exclusion"; ObjectID = "1292"; </Description>
+      <Position>1292.ibExternalAccessibilityDescription</Position>
+      <TranslationSet>
+        <base loc="en">exclusion</base>
+        <tran loc="ar">استبعاد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; placeholderString = "Size"; ObjectID = "101293"; </Description>
+      <Position>101293.placeholderString</Position>
+      <TranslationSet>
+        <base loc="en">Size</base>
+        <tran loc="ar">الحجم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Size"; ObjectID = "101293"; </Description>
+      <Position>101293.title</Position>
+      <TranslationSet>
+        <base loc="en">Size</base>
+        <tran loc="ar">الحجم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Save"; ObjectID = "101300"; </Description>
+      <Position>101300.title</Position>
+      <TranslationSet>
+        <base loc="en">Save</base>
+        <tran loc="ar">حفظ</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>BackupPref/System/Library/PreferencePanes/TimeMachine.prefPane/Contents/Resources/en.lproj/Localizable.strings</Filepath>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>Are you sure you want to encrypt the backup disk \\U201C%@\\U201D?</Position>
+      <TranslationSet>
+        <base loc="en">Are you sure you want to encrypt the backup disk “%@”?</base>
+        <tran loc="ar">هل أنت متأكد من رغبتك في تشفير قرص النسخ الاحتياطي \"%@\"؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>When disk is connected</Position>
+      <TranslationSet>
+        <base loc="en">When disk is connected</base>
+        <tran loc="ar">عند توصيل القرص</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>Calculating time remaining\\U2026</Position>
+      <TranslationSet>
+        <base loc="en">Calculating time remaining…</base>
+        <tran loc="ar">يتم الآن حساب الوقت المتبقي…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>Time Machine can\\U2019t back up your home folder because it was encrypted using an older version of FileVault. Turn off FileVault for your account and turn it back on; then perform the backup.</Position>
+      <TranslationSet>
+        <base loc="en">Time Machine can’t back up your home folder because it was encrypted using an older version of FileVault. Turn off FileVault for your account and turn it back on; then perform the backup.</base>
+        <tran loc="ar">لا يمكن لـ Time Machine عمل نسخة احتياطية من المجلد الرئيسي الخاص بك نظرًا لتشفيره باستخدام إصدار سابق من FileVault. قم بإيقاف تشغيل FileVault لحسابك وقم بإعادة تشغيله؛ ثم قم بإجراء النسخ الاحتياطي.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>Partitioning disk \\U201C%@\\U201D\\U2026</Position>
+      <TranslationSet>
+        <base loc="en">Partitioning disk “%@”…</base>
+        <tran loc="ar">تقسيم القرص \"%@\"...</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>Are you sure you want to erase the backup disk \\U201C%@\\U201D? Erasing will destroy all information on the disk and can\\U2019t be undone.</Position>
+      <TranslationSet>
+        <base loc="en">Are you sure you want to erase the backup disk “%@”? Erasing will destroy all information on the disk and can’t be undone.</base>
+        <tran loc="ar">هل أنت متأكد من رغبتك في مسح قرص النسخ الاحتياطي \"%@\"؟ يؤدي المسح إلى إتلاف كافة المعلومات الموجودة على القرص ولا يمكن التراجع عن هذا الإجراء.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>About 5 seconds remaining</Position>
+      <TranslationSet>
+        <base loc="en">About 5 seconds remaining</base>
+        <tran loc="ar">متبقٍ حوالي ٥ ثوانٍ</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>Encrypting</Position>
+      <TranslationSet>
+        <base loc="en">Encrypting</base>
+        <tran loc="ar">التشفير</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>Deleting existing backup...</Position>
+      <TranslationSet>
+        <base loc="en">Deleting existing backup...</base>
+        <tran loc="ar">يتم الآن حذف النسخة الاحتياطية الموجودة...</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>\\U2026</Position>
+      <TranslationSet>
+        <base loc="en">…</base>
+        <tran loc="ar">…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>one second\\U2026</Position>
+      <TranslationSet>
+        <base loc="en">one second…</base>
+        <tran loc="ar">ثانية واحدة…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>Time Machine can\\U2019t back up the home folders of the accounts \\U201C%@\\U201D and \\U201C%@\\U201D because they were encrypted using an older version of FileVault. For each account, turn off FileVault and turn it back on; then perform the backup.</Position>
+      <TranslationSet>
+        <base loc="en">Time Machine can’t back up the home folders of the accounts “%1$@” and “%2$@” because they were encrypted using an older version of FileVault. For each account, turn off FileVault and turn it back on; then perform the backup.</base>
+        <tran loc="ar">لا يمكن لـ Time Machine عمل نسخ احتياطية من المجلدين الرئيسيين للحسابين \"%1$@\" و\"%2$@\" نظرًا لتشفيرهما باستخدام إصدار سابق من FileVault. قم بإيقاف تشغيل FileVault لكل حساب وإعادة تشغيله مرة أخرى؛ ثم قم بإجراء النسخ الاحتياطي.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>To setup encryption, the disk must be erased before it can be used for Time Machine backups.</Position>
+      <TranslationSet>
+        <base loc="en">To setup encryption, the disk must be erased before it can be used for Time Machine backups.</base>
+        <tran loc="ar">لإعداد التشفير، يجب مسح القرص قبل استخدامه لعمليات النسخ الاحتياطي لـ Time Machine.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>Other AirPort Time Capsule</Position>
+      <TranslationSet>
+        <base loc="en">Other AirPort Time Capsule</base>
+        <tran loc="ar">‏AirPort Time Capsule آخر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>\\U2022 Hourly backups for the past 24 hours</Position>
+      <TranslationSet>
+        <base loc="en">• Hourly backups for the past 24 hours</base>
+        <tran loc="ar">• النسخ الاحتياطية لكل ساعة خلال الـ ٢٤ ساعة الماضية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>Backup Disks</Position>
+      <TranslationSet>
+        <base loc="en">Backup Disks</base>
+        <tran loc="ar">أقراص النسخ الاحتياطي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>Use Selected Volume</Position>
+      <TranslationSet>
+        <base loc="en">Use Selected Volume</base>
+        <tran loc="ar">استخدام وحدة التخزين التي تم تحديدها</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>Would you like to continue using the existing unencrypted backup, erase the existing backup and start a new encrypted backup, or choose a different disk?</Position>
+      <TranslationSet>
+        <base loc="en">Would you like to continue using the existing unencrypted backup, erase the existing backup and start a new encrypted backup, or choose a different disk?</base>
+        <tran loc="ar">هل ترغب في متابعة استخدام النسخة الاحتياطية غير المشفرة الموجودة، أم مسح النسخة الاحتياطية الموجودة وبدء نسخة احتياطية مشفرة جديدة، أم اختيار قرص مختلف؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>The existing backup could not be deleted.</Position>
+      <TranslationSet>
+        <base loc="en">The existing backup could not be deleted.</base>
+        <tran loc="ar">تعذر حذف النسخة الاحتياطية الموجودة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>\\U2022 Weekly backups for all previous months</Position>
+      <TranslationSet>
+        <base loc="en">• Weekly backups for all previous months</base>
+        <tran loc="ar">• النسخ الاحتياطية الأسبوعية لكل الأشهر السابقة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>About 10 seconds remaining</Position>
+      <TranslationSet>
+        <base loc="en">About 10 seconds remaining</base>
+        <tran loc="ar">متبقٍ حوالي ١٠ ثوانٍ</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>Waiting to complete first backup</Position>
+      <TranslationSet>
+        <base loc="en">Waiting to complete first backup</base>
+        <tran loc="ar">في انتظار إكمال النسخة الاحتياطية الأولى</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>Finishing backup\\U2026</Position>
+      <TranslationSet>
+        <base loc="en">Finishing backup…</base>
+        <tran loc="ar">يتم الآن إنهاء عملية النسخ الاحتياطي...</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>About a day remaining</Position>
+      <TranslationSet>
+        <base loc="en">About a day remaining</base>
+        <tran loc="ar">متبقٍ حوالي يوم واحد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>Backing up: %1$@ of %2$@</Position>
+      <TranslationSet>
+        <base loc="en">Backing up: %1$@ of %2$@</base>
+        <tran loc="ar">النسخ الاحتياطي: %1$@ من %2$@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>Time Machine can\\U2019t connect to the backup disk.</Position>
+      <TranslationSet>
+        <base loc="en">Time Machine can’t connect to the backup disk.</base>
+        <tran loc="ar">لا يمكن لـ Time Machine الاتصال بقرص النسخ الاحتياطي.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>Don\\U2019t Erase</Position>
+      <TranslationSet>
+        <base loc="en">Don’t Erase</base>
+        <tran loc="ar">عدم المسح</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>%1$@, %2$@</Position>
+      <TranslationSet>
+        <base loc="en">%1$@, %2$@</base>
+        <tran loc="ar">%1$@، %2$@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>About a minute remaining</Position>
+      <TranslationSet>
+        <base loc="en">About a minute remaining</base>
+        <tran loc="ar">متبقٍ حوالي دقيقة واحدة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>Indexing backup\\U2026</Position>
+      <TranslationSet>
+        <base loc="en">Indexing backup…</base>
+        <tran loc="ar">يتم الآن فهرسة النسخ الاحتياطي…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>Do you want to stop backing up to \\U201C%@\\U201D and use \\U201C%@\\U201D instead, or back up to both?</Position>
+      <TranslationSet>
+        <base loc="en">Do you want to stop backing up to “%1$@” and use “%2$@” instead, or back up to both?</base>
+        <tran loc="ar">هل ترغب في التوقف عن النسخ الاحتياطي إلى \"%1$@\" واستخدام \"%2$@\" بدلاً منه، أم النسخ الاحتياطي إلى كليهما؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>\\U2022 Daily backups for the past month</Position>
+      <TranslationSet>
+        <base loc="en">• Daily backups for the past month</base>
+        <tran loc="ar">• النسخ الاحتياطية اليومية خلال الشهر الماضي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>The selected network backup disk does not support the required capabilities when using SMB to connect. Would you like to try using AFP to connect instead?</Position>
+      <TranslationSet>
+        <base loc="en">The selected network backup disk does not support the required capabilities when using SMB to connect. Would you like to try using AFP to connect instead?</base>
+        <tran loc="ar">قرص النسخ الاحتياطي المحدد للشبكة لا يدعم الإمكانيات المطلوبة عند استخدام SMB للاتصال. هل ترغب أن تجرّب استخدام AFP للاتصال بدلاً منه؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>%@ If you forget the backup password, you won't be able to restore any data from the backup disk.</Position>
+      <TranslationSet>
+        <base loc="en">%@ If you forget the backup password, you won't be able to restore any data from the backup disk.</base>
+        <tran loc="ar">%@ إذا نسيت كلمة سر النسخ الاحتياطي، فلن تتمكن من استرداد أي بيانات من قرص النسخ الاحتياطي.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>Stopping\\U2026</Position>
+      <TranslationSet>
+        <base loc="en">Stopping…</base>
+        <tran loc="ar">جاري الإيقاف…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>Set up an AirPort Time Capsule that is not listed here</Position>
+      <TranslationSet>
+        <base loc="en">Set up an AirPort Time Capsule that is not listed here</base>
+        <tran loc="ar">إعداد AirPort Time Capsule غير مدرج هنا</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>The oldest backups are deleted when your disk becomes full.</Position>
+      <TranslationSet>
+        <base loc="en">The oldest backups are deleted when your disk becomes full.</base>
+        <tran loc="ar">يتم حذف النسخ الاحتياطية الأقدم عند امتلاء القرص.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>Cleaning up old backups\\U2026</Position>
+      <TranslationSet>
+        <base loc="en">Cleaning up old backups…</base>
+        <tran loc="ar">يتم الآن تنظيف النسخ الاحتياطية القديمة...</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>About %@ hours remaining</Position>
+      <TranslationSet>
+        <base loc="en">About %@ hours remaining</base>
+        <tran loc="ar">متبقٍ حوالي %@ من الساعات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>Open AirPort Utility to set up an AirPort Time Capsule that is not listed here.</Position>
+      <TranslationSet>
+        <base loc="en">Open AirPort Utility to set up an AirPort Time Capsule that is not listed here.</base>
+        <tran loc="ar">قم بفتح أداة AirPort لإعداد AirPort Time Capsule غير مدرج هنا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>Backing up\\U2026</Position>
+      <TranslationSet>
+        <base loc="en">Backing up…</base>
+        <tran loc="ar">يتم الآن النسخ الاحتياطي...</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>%1$@ of %2$@ \\U2014 %3$@</Position>
+      <TranslationSet>
+        <base loc="en">%1$@ of %2$@ — %3$@</base>
+        <tran loc="ar">‏%1$@ من %2$@ —‏ %3$@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>Set Up\\U2026</Position>
+      <TranslationSet>
+        <base loc="en">Set Up…</base>
+        <tran loc="ar">إعداد…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>An error occurred while creating a System Keychain entry for encrypted Time Machine network backups.</Position>
+      <TranslationSet>
+        <base loc="en">An error occurred while creating a System Keychain entry for encrypted Time Machine network backups.</base>
+        <tran loc="ar">حدث خطأ أثناء إنشاء إدخال سلسلة مفاتيح النظام لنُسخ Time Machine الاحتياطية المشفرة الخاصة بالشبكة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>My User Account</Position>
+      <TranslationSet>
+        <base loc="en">My User Account</base>
+        <tran loc="ar">حساب المستخدم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>Latest backup: %@</Position>
+      <TranslationSet>
+        <base loc="en">Latest backup: %@</base>
+        <tran loc="ar">أحدث نسخة احتياطية: %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>OK</Position>
+      <TranslationSet>
+        <base loc="en">OK</base>
+        <tran loc="ar">موافق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> progress text to display during a copy when previous backups are being deleted to make room on the destination disk </Description>
+      <Position>Backed up: %1$@ of %2$@ \\U2014 Freeing space\\U2026</Position>
+      <TranslationSet>
+        <base loc="en">Backed up: %1$@ of %2$@ — Freeing space…</base>
+        <tran loc="ar">النسخة الاحتياطية: %1$@ من %2$@ — جاري إفراغ مساحة…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>The disk \\U201C%@\\U201D already contains an encrypted backup for this computer.</Position>
+      <TranslationSet>
+        <base loc="en">The disk “%@” already contains an encrypted backup for this computer.</base>
+        <tran loc="ar">القرص \"%@\" يحتوي بالفعل على نسخة احتياطية مشفرة لهذا الكمبيوتر.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>Skip This Backup</Position>
+      <TranslationSet>
+        <base loc="en">Skip This Backup</base>
+        <tran loc="ar">تخطي هذا النسخ الاحتياطي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>Use Existing Backup</Position>
+      <TranslationSet>
+        <base loc="en">Use Existing Backup</base>
+        <tran loc="ar">قم باستخدام النسخة الاحتياطية الموجودة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>Automatic backups off</Position>
+      <TranslationSet>
+        <base loc="en">Automatic backups off</base>
+        <tran loc="ar">إيقاف عمليات النسخ الاحتياطي التلقائية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>on \\U201C%@\\U201D</Position>
+      <TranslationSet>
+        <base loc="en">on “%@”</base>
+        <tran loc="ar">على \"%@\"</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>Choose a Different Disk</Position>
+      <TranslationSet>
+        <base loc="en">Choose a Different Disk</base>
+        <tran loc="ar">قم باختيار قرص مختلف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>Calculating size of full backup\\U2026</Position>
+      <TranslationSet>
+        <base loc="en">Calculating size of full backup…</base>
+        <tran loc="ar">يتم الآن حساب حجم النسخة الاحتياطية الكاملة…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>Cancel</Position>
+      <TranslationSet>
+        <base loc="en">Cancel</base>
+        <tran loc="ar">إلغاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>FileVault is turned on for one or more home folders on this computer. Time Machine backs up home folders protected by FileVault only when the owners of those home folders are logged out of their accounts.</Position>
+      <TranslationSet>
+        <base loc="en">FileVault is turned on for one or more home folders on this computer. Time Machine backs up home folders protected by FileVault only when the owners of those home folders are logged out of their accounts.</base>
+        <tran loc="ar">تم تشغيل FileVault لمجلد رئيسي واحد أو أكثر على هذا الكمبيوتر. ويقوم تطبيق Time Machine بعمل نسخة احتياطية من المجلدات الرئيسية المحمية ببرنامج FileVault فقط عندما يقوم مُلاك هذه المجلدات الرئيسية بتسجيل الخروج من حساباتهم.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>Time Machine can\\U2019t back up the home folders of the accounts \\U201C%@\\U201D, \\U201C%@\\U201D and \\U201C%@\\U201D because they were encrypted using an older version of FileVault. For each account, turn off FileVault and turn it back on; then perform the backup.</Position>
+      <TranslationSet>
+        <base loc="en">Time Machine can’t back up the home folders of the accounts “%1$@”, “%2$@” and “%3$@” because they were encrypted using an older version of FileVault. For each account, turn off FileVault and turn it back on; then perform the backup.</base>
+        <tran loc="ar">لا يمكن لـ Time Machine عمل نسخ احتياطية من المجلدات الرئيسية للحسابات \"%1$@\" و\"%2$@\" و\"%3$@\" نظرًا لتشفيرها باستخدام إصدار سابق من FileVault. أوقف تشغيل FileVault لكل حساب وأعد تشغيله؛ ثم قم بإجراء النسخ الاحتياطي.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>About %@ minutes remaining</Position>
+      <TranslationSet>
+        <base loc="en">About %@ minutes remaining</base>
+        <tran loc="ar">متبقٍ حوالي %@ من الدقائق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>Select Another Volume</Position>
+      <TranslationSet>
+        <base loc="en">Select Another Volume</base>
+        <tran loc="ar">اختيار وحدة تخزين أخرى</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>Time Machine cannot encrypt this disk because it is already a non-encrypted CoreStorage disk.</Position>
+      <TranslationSet>
+        <base loc="en">Time Machine cannot encrypt this disk because it is already a non-encrypted CoreStorage disk.</base>
+        <tran loc="ar">لا يمكن لـ Time Machine تشفير هذا القرص لأنه بالفعل قرص CoreStorage غير مشفر.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>Waiting to back up</Position>
+      <TranslationSet>
+        <base loc="en">Waiting to back up</base>
+        <tran loc="ar">في انتظار إجراء النسخ الاحتياطي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>untitled</Position>
+      <TranslationSet>
+        <base loc="en">untitled</base>
+        <tran loc="ar">بلا عنوان</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>Skip verification</Position>
+      <TranslationSet>
+        <base loc="en">Skip verification</base>
+        <tran loc="ar">تخطي التحقق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>Add item to \\U201CDo not backup\\U201D list</Position>
+      <TranslationSet>
+        <base loc="en">Add item to “Do not backup” list</base>
+        <tran loc="ar">إضافة عنصر إلى قائمة \"عدم النسخ الاحتياطي\"</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>Exclude</Position>
+      <TranslationSet>
+        <base loc="en">Exclude</base>
+        <tran loc="ar">استبعاد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>Erasing disk \\U201C%@\\U201D\\U2026</Position>
+      <TranslationSet>
+        <base loc="en">Erasing disk “%@”…</base>
+        <tran loc="ar">يتم الآن مسح القرص \"%@\"...</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>Use Disk</Position>
+      <TranslationSet>
+        <base loc="en">Use Disk</base>
+        <tran loc="ar">استخدام القرص</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>Turn Off Encryption</Position>
+      <TranslationSet>
+        <base loc="en">Turn Off Encryption</base>
+        <tran loc="ar">إيقاف تشغيل التشفير</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>Decrypting</Position>
+      <TranslationSet>
+        <base loc="en">Decrypting</base>
+        <tran loc="ar">فك التشفير</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>Time Machine Backups</Position>
+      <TranslationSet>
+        <base loc="en">Time Machine Backups</base>
+        <tran loc="ar">نُسخ Time Machine الاحتياطية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>Latest successful backup: %@</Position>
+      <TranslationSet>
+        <base loc="en">Latest successful backup: %@</base>
+        <tran loc="ar">أحدث نسخ احتياطي ناجح: %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>Internal error</Position>
+      <TranslationSet>
+        <base loc="en">Internal error</base>
+        <tran loc="ar">خطأ داخلي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>Less than a minute remaining</Position>
+      <TranslationSet>
+        <base loc="en">Less than a minute remaining</base>
+        <tran loc="ar">متبقٍ أقل من دقيقة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> progress text to display during a copy when previous backups are being deleted to make room on the destination disk </Description>
+      <Position>Backed up: %@ \\U2014 Freeing space\\U2026</Position>
+      <TranslationSet>
+        <base loc="en">Backed up: %@ — Freeing space…</base>
+        <tran loc="ar">تم النسخ الاحتياطي بنسبة: %@ — جاري إفراغ مساحة…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>Validate Password</Position>
+      <TranslationSet>
+        <base loc="en">Validate Password</base>
+        <tran loc="ar">تحقق من صحة كلمة السر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>None</Position>
+      <TranslationSet>
+        <base loc="en">None</base>
+        <tran loc="ar">لا يوجد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>Estimated size of full backup: %@</Position>
+      <TranslationSet>
+        <base loc="en">Estimated size of full backup: %@</base>
+        <tran loc="ar">الحجم المقدّر للنسخة الاحتياطية الكاملة: %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>The volume \\U201C%@\\U201D you have chosen for storing backups is on the same device as the volumes %@ and %@ which are being backed up.\n\nTo fully protect your data, you should back up to a volume on a different device.\n</Position>
+      <TranslationSet>
+        <base loc="en">The volume “%1$@” you have chosen for storing backups is on the same device as the volumes %2$@ and %3$@ which are being backed up.\n\nTo fully protect your data, you should back up to a volume on a different device.\n</base>
+        <tran loc="ar">وحدة التخزين \"%1$@\" التي قمت باختيارها لتخزين النسخ الاحتياطية موجودة على نفس الجهاز الذي توجد عليه وحدتا التخزين %2$@ و%3$@ اللتان يتم نسخهما احتياطيًا.\n\nلحماية البيانات بصورة تامة، يجب النسخ الاحتياطي إلى وحدة تخزين موجودة على جهاز آخر.\n</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>The volume \\U201C%@\\U201D you have chosen for storing backups is on the same device as the volume \\U201C%@\\U201D which is being backed up.\n\nTo fully protect your data, you should back up to a volume on a different device.\n</Position>
+      <TranslationSet>
+        <base loc="en">The volume “%1$@” you have chosen for storing backups is on the same device as the volume “%2$@” which is being backed up.\n\nTo fully protect your data, you should back up to a volume on a different device.\n</base>
+        <tran loc="ar">وحدة التخزين \"%1$@\" التي قمت باختيارها لتخزين النسخ الاحتياطية موجودة على نفس الجهاز الذي توجد عليه وحدة التخزين \"%2$@\" التي يتم نسخها احتياطيًا.\n\nلحماية البيانات بصورة تامة، يجب النسخ الاحتياطي إلى وحدة تخزين موجودة على جهاز آخر.\n</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>Verifying backup\\U2026</Position>
+      <TranslationSet>
+        <base loc="en">Verifying backup…</base>
+        <tran loc="ar">يتم الآن التحقق من النسخة الاحتياطية…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>Internal error - failed to obtain url for \\U201C%@\\U201D</Position>
+      <TranslationSet>
+        <base loc="en">Internal error - failed to obtain url for “%@”</base>
+        <tran loc="ar">خطأ داخلي - فشل الحصول على عنوان url لـ \"%@\"</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>If you use both, Time Machine will take turns backing up to \\U201C%@\\U201D and \\U201C%@\\U201D.</Position>
+      <TranslationSet>
+        <base loc="en">If you use both, Time Machine will take turns backing up to “%1$@” and “%2$@”.</base>
+        <tran loc="ar">إذا كنت تستخدم كلاهما، ستقوم Time Machine بتناوب النسخ الاحتياطي إلى \"%1$@\" و \"%2$@\".</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>The disk must be erased before it can be used for Time Machine backups because a disk you are backing up is case sensitive, but the backup disk is not.</Position>
+      <TranslationSet>
+        <base loc="en">The disk must be erased before it can be used for Time Machine backups because a disk you are backing up is case sensitive, but the backup disk is not.</base>
+        <tran loc="ar">يجب مسح القرص قبل استخدامه لعمليات النسخ الاحتياطي لـ Time Machine نظرًا لأن القرص الذي تقوم بنسخه احتياطيًا حساس لحالة الأحرف، في حين أن قرص النسخ الاحتياطي ليس كذلك.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>You can\\U2019t view or restore individual items from a backup of a home folder protected by FileVault. To restore all items in the backup, hold down the Command (\\U2318) and R keys while you restart the computer, and then choose \\U201CRestore from a Time Machine Backup.\\U201D</Position>
+      <TranslationSet>
+        <base loc="en">You can’t view or restore individual items from a backup of a home folder protected by FileVault. To restore all items in the backup, hold down the Command (⌘) and R keys while you restart the computer, and then choose “Restore from a Time Machine Backup.”</base>
+        <tran loc="ar">لا يمكنك عرض أو استعادة عناصر منفصلة من نسخة احتياطية لمجلد رئيسي محمي بـ FileVault. لاستعادة كافة العناصر الموجودة في النسخة الاحتياطية، قم بالضغط مع الاستمرار على مفتاحي الأوامر (⌘) و R أثناء إعادة تشغيل الكمبيوتر الخاص بك، ثم قم باختيار \"الاستعادة من نسخة Time Machine الاحتياطية.\"</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>Skipping verification\\U2026</Position>
+      <TranslationSet>
+        <base loc="en">Skipping verification…</base>
+        <tran loc="ar">يتم الآن تخطي التحقق...</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>Preparing backup\\U2026</Position>
+      <TranslationSet>
+        <base loc="en">Preparing backup…</base>
+        <tran loc="ar">يتم الآن إعداد النسخ الاحتياطي…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>Are you sure you want to back up to the same device your original data is on?</Position>
+      <TranslationSet>
+        <base loc="en">Are you sure you want to back up to the same device your original data is on?</base>
+        <tran loc="ar">هل أنت متأكد من رغبتك في النسخ الاحتياطي إلى نفس الجهاز الذي يحتوي على البيانات الأصلية؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>FileVault is turned on for your home folder. Time Machine will back up your home folder only when you are logged out.</Position>
+      <TranslationSet>
+        <base loc="en">FileVault is turned on for your home folder. Time Machine will back up your home folder only when you are logged out.</base>
+        <tran loc="ar">تم تشغيل FileVault للمجلد الرئيسي الخاص بك. سيقوم تطبيق Time Machine بعمل نسخة احتياطية من المجلد الرئيسي فقط بعد قيامك بالخروج.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>Use Unencrypted Backup</Position>
+      <TranslationSet>
+        <base loc="en">Use Unencrypted Backup</base>
+        <tran loc="ar">قم باستخدام النسخة الاحتياطية غير المشفرة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>Don\\U2019t Encrypt</Position>
+      <TranslationSet>
+        <base loc="en">Don’t Encrypt</base>
+        <tran loc="ar">عدم التشفير</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>Back Up Now</Position>
+      <TranslationSet>
+        <base loc="en">Back Up Now</base>
+        <tran loc="ar">نسخ احتياطي الآن</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>The selected network backup disk does not support the required capabilities.</Position>
+      <TranslationSet>
+        <base loc="en">The selected network backup disk does not support the required capabilities.</base>
+        <tran loc="ar">قرص النسخ الاحتياطي المحدد للشبكة لا يدعم الإمكانيات المطلوبة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>The password must not be empty.</Position>
+      <TranslationSet>
+        <base loc="en">The password must not be empty.</base>
+        <tran loc="ar">يجب ألا تكون كلمة السر فارغة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>Time Machine Error</Position>
+      <TranslationSet>
+        <base loc="en">Time Machine Error</base>
+        <tran loc="ar">خطأ في Time Machine</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>Time Machine cannot encrypt this disk because it is already being converted to decrypted.</Position>
+      <TranslationSet>
+        <base loc="en">Time Machine cannot encrypt this disk because it is already being converted to decrypted.</base>
+        <tran loc="ar">لا يمكن لـ Time Machine تشفير هذا القرص لأن تم تحويله بالفعل إلى قرص تم فك تشفيره.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>Time Machine Password</Position>
+      <TranslationSet>
+        <base loc="en">Time Machine Password</base>
+        <tran loc="ar">كلمة سر Time Machine</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>The backup volume is not mounted.</Position>
+      <TranslationSet>
+        <base loc="en">The backup volume is not mounted.</base>
+        <tran loc="ar">لم يتم تحميل وحدة تخزين النسخ الاحتياطي.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>The disk \\U201C%@\\U201D already contains an unencrypted backup for this computer.</Position>
+      <TranslationSet>
+        <base loc="en">The disk “%@” already contains an unencrypted backup for this computer.</base>
+        <tran loc="ar">القرص \"%@\" يحتوي بالفعل على نسخة احتياطية غير مشفرة لهذا الكمبيوتر.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>Untitled</Position>
+      <TranslationSet>
+        <base loc="en">Untitled</base>
+        <tran loc="ar">بلا عنوان</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>Within 24 hours</Position>
+      <TranslationSet>
+        <base loc="en">Within 24 hours</base>
+        <tran loc="ar">خلال ٢٤ ساعة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>Your existing backups will not be deleted.</Position>
+      <TranslationSet>
+        <base loc="en">Your existing backups will not be deleted.</base>
+        <tran loc="ar">لن يتم حذف النسخ الاحتياطية الموجودة الخاصة بك.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>Cleaning up\\U2026</Position>
+      <TranslationSet>
+        <base loc="en">Cleaning up…</base>
+        <tran loc="ar">يتم الآن التنظيف...</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>Case Sensitive</Position>
+      <TranslationSet>
+        <base loc="en">Case Sensitive</base>
+        <tran loc="ar">حساس لحالة الأحرف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>Time Machine cannot encrypt this disk because it is part of a non-GPT partition scheme with multiple partitions.</Position>
+      <TranslationSet>
+        <base loc="en">Time Machine cannot encrypt this disk because it is part of a non-GPT partition scheme with multiple partitions.</base>
+        <tran loc="ar">تعذر على Time Machine تشفير هذا القرص لأنه جزء من نظام تقسيم غير GPT يحتوي على أقسام متعددة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>Encrypt</Position>
+      <TranslationSet>
+        <base loc="en">Encrypt</base>
+        <tran loc="ar">تشفير</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>Back Up to \\U201C%@\\U201D Now</Position>
+      <TranslationSet>
+        <base loc="en">Back Up to “%@” Now</base>
+        <tran loc="ar">النسخ الاحتياطي إلى \"%@\" الآن</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>Stop Using This Disk</Position>
+      <TranslationSet>
+        <base loc="en">Stop Using This Disk</base>
+        <tran loc="ar">إيقاف استخدام القرص</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>Keychain error %d occurred while creating a System Keychain entry for the username \\U201C%@\\U201D and URL \\U201C%@\\U201D.</Position>
+      <TranslationSet>
+        <base loc="en">Keychain error %1$d occurred while creating a System Keychain entry for the username “%2$@” and URL “%3$@”.</base>
+        <tran loc="ar">حدث خطأ في سلسلة المفاتيح %1$d أثناء إنشاء إدخال سلسلة مفاتيح النظام لاسم المستخدم \"%2$@\" وعنوان URL \"%3$@\".</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>Encrypting\\U2026</Position>
+      <TranslationSet>
+        <base loc="en">Encrypting…</base>
+        <tran loc="ar">جاري التشفير…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>Would you like to continue using the existing encrypted backup, erase the existing backup and start a new encrypted backup with a different password, or choose a different disk?</Position>
+      <TranslationSet>
+        <base loc="en">Would you like to continue using the existing encrypted backup, erase the existing backup and start a new encrypted backup with a different password, or choose a different disk?</base>
+        <tran loc="ar">هل ترغب في متابعة استخدام النسخة الاحتياطية المشفرة الموجودة، أم مسح النسخة الاحتياطية الموجودة وبدء نسخة احتياطية مشفرة جديدة بكلمة سر مختلفة، أم اختيار قرص مختلف؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>Try AFP</Position>
+      <TranslationSet>
+        <base loc="en">Try AFP</base>
+        <tran loc="ar">تجربة AFP</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>Connecting to \\U201C%@\\U201D\\U2026</Position>
+      <TranslationSet>
+        <base loc="en">Connecting to “%@”…</base>
+        <tran loc="ar">يتم الآن الاتصال بـ \"%@‎\"…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>Preparing disk \\U201C%@\\U201D for encryption\\U2026</Position>
+      <TranslationSet>
+        <base loc="en">Preparing disk “%@” for encryption…</base>
+        <tran loc="ar">يتم الآن تحضير القرص \"%@\" للتشفير...</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>The password for \\U201C%@\\U201D is required.</Position>
+      <TranslationSet>
+        <base loc="en">The password for “%@” is required.</base>
+        <tran loc="ar">كلمة السر الخاصة بـ \"%@\" مطلوبة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>The disk must be erased before it can be used for Time Machine backups because it has an incompatible file system.</Position>
+      <TranslationSet>
+        <base loc="en">The disk must be erased before it can be used for Time Machine backups because it has an incompatible file system.</base>
+        <tran loc="ar">يجب مسح هذا القرص قبل استخدامه لعمليات النسخ الاحتياطي لـ Time Machine نظرًا لأنه يحتوي على ملف نظام غير متوافق.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>, </Position>
+      <TranslationSet>
+        <base loc="en">, </base>
+        <tran loc="ar">، </tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>Try ejecting the disk image.</Position>
+      <TranslationSet>
+        <base loc="en">Try ejecting the disk image.</base>
+        <tran loc="ar">جرِّب إخراج صورة القرص.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position> \\U2014 %@</Position>
+      <TranslationSet>
+        <base loc="en"> — %@</base>
+        <tran loc="ar"> — %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>Decrypting\\U2026</Position>
+      <TranslationSet>
+        <base loc="en">Decrypting…</base>
+        <tran loc="ar">جاري فك التشفير…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>Time Machine cannot decrypt this disk because it is already being converted to encrypted.</Position>
+      <TranslationSet>
+        <base loc="en">Time Machine cannot decrypt this disk because it is already being converted to encrypted.</base>
+        <tran loc="ar">لا يمكن لـ Time Machine فك تشفير هذا القرص لأن تم تحويله بالفعل إلى مشفر.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>Preparing disk \\U201C%@\\U201D for decryption\\U2026</Position>
+      <TranslationSet>
+        <base loc="en">Preparing disk “%@” for decryption…</base>
+        <tran loc="ar">يتم الآن تحضير القرص \"%@\" لفك التشفير...</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>Only backup: %@</Position>
+      <TranslationSet>
+        <base loc="en">Only backup: %@</base>
+        <tran loc="ar">نسخ احتياطي فقط: %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>When on Power Adapter</Position>
+      <TranslationSet>
+        <base loc="en">When on Power Adapter</base>
+        <tran loc="ar">عند التشغيل على محول الطاقة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>Encrypted</Position>
+      <TranslationSet>
+        <base loc="en">Encrypted</base>
+        <tran loc="ar">مشفر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>The password for the disk \\U201C%@\\U201D is required to turn off encryption.</Position>
+      <TranslationSet>
+        <base loc="en">The password for the disk “%@” is required to turn off encryption.</base>
+        <tran loc="ar">كلمة سر القرص \"%@\" مطلوبة لإيقاف التشفير.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>%@ seconds\\U2026</Position>
+      <TranslationSet>
+        <base loc="en">%@ seconds…</base>
+        <tran loc="ar">%@ من الثواني…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>This disk contains backups from other computers. Only computers running OS\\U00A0X 10.7 or later will be able to back up to or restore from an encrypted disk.</Position>
+      <TranslationSet>
+        <base loc="en">This disk contains backups from other computers. Only computers running OS X 10.7 or later will be able to back up to or restore from an encrypted disk.</base>
+        <tran loc="ar">يحتوي هذا القرص على نسخ احتياطية من أجهزة كمبيوتر أخرى. أجهزة الكمبيوتر التي تستخدم OS X 10.7 أو الأحدث هي فقط التي ستتمكن من النسخ الاحتياطي إلى قرص مشفر أو الاستعادة منه.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>Please choose a different network backup disk.</Position>
+      <TranslationSet>
+        <base loc="en">Please choose a different network backup disk.</base>
+        <tran loc="ar">الرجاء اختيار قرص نسخ احتياطي مختلف للشبكة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>Remove Disk</Position>
+      <TranslationSet>
+        <base loc="en">Remove Disk</base>
+        <tran loc="ar">إزالة قرص</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>Looking for backup disk\\U2026</Position>
+      <TranslationSet>
+        <base loc="en">Looking for backup disk…</base>
+        <tran loc="ar">يتم الآن البحث عن قرص النسخ الاحتياطي...</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>Oldest backup: %@</Position>
+      <TranslationSet>
+        <base loc="en">Oldest backup: %@</base>
+        <tran loc="ar">أقدم نسخة احتياطية: %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>About an hour remaining</Position>
+      <TranslationSet>
+        <base loc="en">About an hour remaining</base>
+        <tran loc="ar">متبقٍ حوالي ساعة واحدة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>Time Machine couldn\\U2019t complete the backup to \\U201C%@\\U201D.</Position>
+      <TranslationSet>
+        <base loc="en">Time Machine couldn’t complete the backup to “%@”.</base>
+        <tran loc="ar">تعذر على Time Machine إكمال النسخ الاحتياطي إلى \"%@\".</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>Backed up: %@</Position>
+      <TranslationSet>
+        <base loc="en">Backed up: %@</base>
+        <tran loc="ar">تم النسخ الاحتياطي بنسبة: %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>Available Disks</Position>
+      <TranslationSet>
+        <base loc="en">Available Disks</base>
+        <tran loc="ar">أقراص متاحة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>Preparing verification\\U2026</Position>
+      <TranslationSet>
+        <base loc="en">Preparing verification…</base>
+        <tran loc="ar">يتم الآن تحضير التحقق...</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>The disk image \\U201C%@\\U201D is in use.</Position>
+      <TranslationSet>
+        <base loc="en">The disk image “%@” is in use.</base>
+        <tran loc="ar">صورة القرص \"%@\" قيد الاستخدام.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>Time Machine keeps:</Position>
+      <TranslationSet>
+        <base loc="en">Time Machine keeps:</base>
+        <tran loc="ar">يحتفظ Time Machine بما يلي:</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>%@ of %@ available, encrypted</Position>
+      <TranslationSet>
+        <base loc="en">%1$@ of %2$@ available, encrypted</base>
+        <tran loc="ar">%1$@ من %2$@ متاح، مشفر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>Are you sure you want to stop backing up to \\U201C%@\\U201D?</Position>
+      <TranslationSet>
+        <base loc="en">Are you sure you want to stop backing up to “%@”?</base>
+        <tran loc="ar">هل أنت متأكد من رغبتك في إيقاف النسخ الاحتياطي إلى \"%@\"؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>Stop Using \\U201C%@\\U201D for Backup</Position>
+      <TranslationSet>
+        <base loc="en">Stop Using “%@” for Backup</base>
+        <tran loc="ar">التوقف عن استخدام \"%@\" للنسخ الاحتياطي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>Erase</Position>
+      <TranslationSet>
+        <base loc="en">Erase</base>
+        <tran loc="ar">مسح</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>Would you like to continue using the existing encrypted backup, erase the existing backup and start a new unencrypted backup, or choose a different disk?</Position>
+      <TranslationSet>
+        <base loc="en">Would you like to continue using the existing encrypted backup, erase the existing backup and start a new unencrypted backup, or choose a different disk?</base>
+        <tran loc="ar">هل ترغب في متابعة استخدام النسخة الاحتياطية المشفرة الموجودة، أم مسح النسخة الاحتياطية الموجودة وبدء نسخة احتياطية غير مشفرة جديدة، أم اختيار قرص مختلف؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>Use Both</Position>
+      <TranslationSet>
+        <base loc="en">Use Both</base>
+        <tran loc="ar">استخدام كليهما</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>There was an error preparing the Time Machine backup disk \\U201C%@\\U201D.</Position>
+      <TranslationSet>
+        <base loc="en">There was an error preparing the Time Machine backup disk “%@”.</base>
+        <tran loc="ar">حدث خطأ أثناء تحضير قرص النسخ الاحتياطي لـ Time Machine \"%@\".</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>%@ of %@ available</Position>
+      <TranslationSet>
+        <base loc="en">%1$@ of %2$@ available</base>
+        <tran loc="ar">يتوفر %1$@ من %2$@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>, %@</Position>
+      <TranslationSet>
+        <base loc="en">, %@</base>
+        <tran loc="ar">‏، %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>Remove item from \\U201CDo not backup\\U201D list</Position>
+      <TranslationSet>
+        <base loc="en">Remove item from “Do not backup” list</base>
+        <tran loc="ar">إزالة عنصر من قائمة \"عدم النسخ الاحتياطي\"</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>You do not have the necessary read, write and append privileges on the selected network backup disk.</Position>
+      <TranslationSet>
+        <base loc="en">You do not have the necessary read, write and append privileges on the selected network backup disk.</base>
+        <tran loc="ar">لا تتوفر لديك امتيازات القراءة والكتابة والإلحاق اللازمة على قرص النسخ الاحتياطي المحدد للشبكة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>You can try using the Keychain Access utility to edit the System Keychain.</Position>
+      <TranslationSet>
+        <base loc="en">You can try using the Keychain Access utility to edit the System Keychain.</base>
+        <tran loc="ar">يمكنك محاولة استخدام أداة الوصول إلى سلسلة المفاتيح لتحرير سلسلة مفاتيح النظام.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>Replace \\U201C%@\\U201D</Position>
+      <TranslationSet>
+        <base loc="en">Replace “%@”</base>
+        <tran loc="ar">استبدال \"%@\"</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>About %@ days remaining</Position>
+      <TranslationSet>
+        <base loc="en">About %@ days remaining</base>
+        <tran loc="ar">متبقٍ حوالي %@ من الأيام</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>Erase Existing Backup</Position>
+      <TranslationSet>
+        <base loc="en">Erase Existing Backup</base>
+        <tran loc="ar">مسح النسخة الاحتياطية الموجودة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>Warning:</Position>
+      <TranslationSet>
+        <base loc="en">Warning:</base>
+        <tran loc="ar">تحذير:</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>Verify Backups</Position>
+      <TranslationSet>
+        <base loc="en">Verify Backups</base>
+        <tran loc="ar">التحقق من النسخ الاحتياطية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>Backups: %@ - %@</Position>
+      <TranslationSet>
+        <base loc="en">Backups: %1$@ - %2$@</base>
+        <tran loc="ar">عمليات النسخ الاحتياطي: %1$@ - %2$@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>Time Machine can\\U2019t back up the home folders of the accounts \\U201C%@\\U201D, \\U201C%@\\U201D, \\U201C%@\\U201D and others, because they were encrypted using an older version of FileVault. For each account, turn off FileVault and turn it back on; then perform the backup.</Position>
+      <TranslationSet>
+        <base loc="en">Time Machine can’t back up the home folders of the accounts “%1$@”, “%2$@”, “%3$@” and others, because they were encrypted using an older version of FileVault. For each account, turn off FileVault and turn it back on; then perform the backup.</base>
+        <tran loc="ar">لا يمكن لـ Time Machine عمل نسخ احتياطية من المجلدات الرئيسية للحسابات \"%1$@\" و\"%2$@\" و\"%3$@\" وحسابات أخرى؛ نظرًا لتشفيرها باستخدام إصدار سابق من FileVault. قم بإيقاف تشغيل FileVault لكل حساب وإعادة تشغيله مرة أخرى؛ ثم قم بإجراء النسخ الاحتياطي.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>Time Machine can\\U2019t back up the home folder of the account \\U201C%@\\U201D because it was encrypted using an older version of FileVault. Turn off FileVault for this account and turn it back on; then perform the backup.</Position>
+      <TranslationSet>
+        <base loc="en">Time Machine can’t back up the home folder of the account “%@” because it was encrypted using an older version of FileVault. Turn off FileVault for this account and turn it back on; then perform the backup.</base>
+        <tran loc="ar">لا يمكن لـ Time Machine عمل نسخة احتياطية من المجلد الرئيسي للحساب \"%@\" نظرًا لتشفيره باستخدام إصدار سابق من FileVault. قم بإيقاف تشغيل FileVault لهذا الحساب وقم بإعادة تشغيله؛ ثم قم بإجراء النسخ الاحتياطي.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>Use Encrypted Backup</Position>
+      <TranslationSet>
+        <base loc="en">Use Encrypted Backup</base>
+        <tran loc="ar">قم باستخدام النسخة الاحتياطية المشفرة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>\\U201C%@\\U201D</Position>
+      <TranslationSet>
+        <base loc="en">“%@”</base>
+        <tran loc="ar">‏\"%@\"</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>Next backup: %@</Position>
+      <TranslationSet>
+        <base loc="en">Next backup: %@</base>
+        <tran loc="ar">النسخ الاحتياطي التالي: %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>Please connect as a different user or contact your network administrator.</Position>
+      <TranslationSet>
+        <base loc="en">Please connect as a different user or contact your network administrator.</base>
+        <tran loc="ar">الرجاء الاتصال بحساب مستخدم مختلف، أو الاتصال بمسؤول الشبكة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>\\U2022 Local snapshots as space permits</Position>
+      <TranslationSet>
+        <base loc="en">• Local snapshots as space permits</base>
+        <tran loc="ar">• اللقطات المحلية في حدود المساحة المتاحة</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+</Proj>

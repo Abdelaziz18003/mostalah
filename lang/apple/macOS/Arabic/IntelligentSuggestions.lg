@@ -1,0 +1,958 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Proj>
+  <ProjName>IntelligentSuggestions</ProjName>
+  <File>
+    <Filepath>IntelligentSuggestions/System/Library/PrivateFrameworks/CoreSuggestions.framework/Versions/A/Resources/en.lproj/Localizable.strings</Filepath>
+    <TextItem>
+      <Description> Maybe: {person's full name}\nThe 'Maybe: ' string is added to names of people who are potential matches for an incoming call's phone number based on the analysis of device-side content. This is displayed on the 'incoming call' view under the number, similar to how existing contacts get resolved and displayed for an incoming call. </Description>
+      <Position>Maybe: %@</Position>
+      <TranslationSet>
+        <base loc="en">Maybe: %@</base>
+        <tran loc="ar">ربما: %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Found in {app name} ' is added to content that we suggest that we extracted from the {app name} </Description>
+      <Position>Found in %@</Position>
+      <TranslationSet>
+        <base loc="en">Found in %@</base>
+        <tran loc="ar">وُجدت في %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Found in {app name} with {person's display name} ' is added to content that we suggest that we previously extracted from interactions with this person. </Description>
+      <Position>Found in %@ with %@</Position>
+      <TranslationSet>
+        <base loc="en">Found in %@ with %@</base>
+        <tran loc="ar">وُجدت في %@ مع %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Show in {app name}\nThe 'Show in ' string is added the name of an app that is the source of a suggested event. </Description>
+      <Position>Show in %@</Position>
+      <TranslationSet>
+        <base loc="en">Show in %@</base>
+        <tran loc="ar">إظهار في %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Chatting with {person's display name} ' is added to content that we suggest that we previously extracted from interactions with this person. </Description>
+      <Position>Chatting with %@</Position>
+      <TranslationSet>
+        <base loc="en">Chatting with %@</base>
+        <tran loc="ar">الدردشة مع %@</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>IntelligentSuggestions/System/Library/PrivateFrameworks/CoreSuggestionsUI.framework/Versions/A/Resources/en.lproj/Localizable.stringsdict</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>/SuggestionsBannerMixedSubtitleContacts:dict/contacts:dict/few:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%d Contacts</base>
+        <tran loc="ar">‏%d جهات اتصال</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/SuggestionsBannerMixedSubtitleContacts:dict/contacts:dict/many:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%d Contacts</base>
+        <tran loc="ar">‏%d جهة اتصال</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/SuggestionsBannerMixedSubtitleContacts:dict/contacts:dict/other:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%d Contacts</base>
+        <tran loc="ar">‏%d جهة اتصال</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/SuggestionsBannerMixedSubtitleContacts:dict/contacts:dict/two:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%d Contacts</base>
+        <tran loc="ar">جهتي اتصال</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/SuggestionsBannerMixedSubtitleReminders:dict/reminders:dict/one:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%d Reminder</base>
+        <tran loc="ar">تذكير واحد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/SuggestionsBannerFoundEventsTitle:dict/events:dict/few:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Siri found %d events</base>
+        <tran loc="ar">تم العثور على %d أحداث بواسطة Siri</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/SuggestionsBannerFoundEventsTitle:dict/events:dict/many:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Siri found %d events</base>
+        <tran loc="ar">تم العثور على %d حدثًا بواسطة Siri</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/SuggestionsBannerFoundEventsTitle:dict/events:dict/other:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Siri found %d events</base>
+        <tran loc="ar">تم العثور على %d حدث بواسطة Siri</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/SuggestionsBannerFoundEventsTitle:dict/events:dict/two:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Siri found %d events</base>
+        <tran loc="ar">تم العثور على حدثين بواسطة Siri</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/SuggestionsBannerFoundEventsTitle:dict/events:dict/zero:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Siri found %d events</base>
+        <tran loc="ar">تم العثور على %d حدث بواسطة Siri</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/SuggestionsBannerFoundMultipleContactsSubtitle:dict/NSStringLocalizedFormatKey:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%@%#@more@</base>
+        <tran loc="ar">%@%#@more@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/SuggestionsBannerMixedSubtitleContacts:dict/contacts:dict/one:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%d Contact</base>
+        <tran loc="ar">جهة اتصال واحدة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/SuggestionsBannerCancelledEventTitle:dict/NSStringLocalizedFormatKey:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%#@events@</base>
+        <tran loc="ar">%#@events@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/SuggestionsBannerFoundEventsTitle:dict/NSStringLocalizedFormatKey:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%#@events@</base>
+        <tran loc="ar">%#@events@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/SuggestionsBannerMixedSubtitleEvents:dict/NSStringLocalizedFormatKey:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%#@events@</base>
+        <tran loc="ar">%#@events@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/SuggestionsBannerUpdatedEventTitle:dict/NSStringLocalizedFormatKey:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%#@events@</base>
+        <tran loc="ar">%#@events@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/SuggestionsBannerFoundEventsTitle:dict/events:dict/one:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Siri found %d event</base>
+        <tran loc="ar">تم العثور على حدث بواسطة Siri</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/SuggestionsBannerMixedSubtitleContacts:dict/contacts:dict/zero:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">No Contacts</base>
+        <tran loc="ar">لا توجد جهات اتصال</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/SuggestionsBannerFoundRemindersTitle:dict/reminders:dict/one:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Siri suggested reminder</base>
+        <tran loc="ar">تذكير مقترح من Siri</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/SuggestionsBannerMixedSubtitleEvents:dict/events:dict/zero:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">No Events</base>
+        <tran loc="ar">لا يوجد أحداث</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/SuggestionsBannerCancelledEventTitle:dict/events:dict/few:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Siri canceled %d events</base>
+        <tran loc="ar">تم إلغاء %d أحداث بواسطة Siri</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/SuggestionsBannerCancelledEventTitle:dict/events:dict/many:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Siri canceled %d events</base>
+        <tran loc="ar">تم إلغاء %d حدثًا بواسطة Siri</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/SuggestionsBannerCancelledEventTitle:dict/events:dict/other:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Siri canceled %d events</base>
+        <tran loc="ar">تم إلغاء %d حدث بواسطة Siri</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/SuggestionsBannerCancelledEventTitle:dict/events:dict/two:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Siri canceled %d events</base>
+        <tran loc="ar">تم إلغاء حدثين بواسطة Siri</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/SuggestionsBannerCancelledEventTitle:dict/events:dict/zero:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Siri canceled %d events</base>
+        <tran loc="ar">تم إلغاء %d حدث بواسطة Siri</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/SuggestionsBannerMixedSubtitleReminders:dict/reminders:dict/few:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%d Reminders</base>
+        <tran loc="ar">‏%d تذكيرات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/SuggestionsBannerMixedSubtitleReminders:dict/reminders:dict/many:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%d Reminders</base>
+        <tran loc="ar">‏%d تذكيرًا</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/SuggestionsBannerMixedSubtitleReminders:dict/reminders:dict/other:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%d Reminders</base>
+        <tran loc="ar">‏%d تذكير</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/SuggestionsBannerMixedSubtitleReminders:dict/reminders:dict/two:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%d Reminders</base>
+        <tran loc="ar">تذكيران</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/SuggestionsBannerMixedSubtitleEvents:dict/events:dict/one:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%d Event</base>
+        <tran loc="ar">حدث واحد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/SuggestionsBannerCancelledEventTitle:dict/events:dict/one:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Siri canceled %d event</base>
+        <tran loc="ar">تم إلغاء حدث بواسطة Siri</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/SuggestionsBannerUpdatedEventTitle:dict/events:dict/few:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Siri updated %d events</base>
+        <tran loc="ar">تم تحديث %d أحداث بواسطة Siri</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/SuggestionsBannerUpdatedEventTitle:dict/events:dict/many:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Siri updated %d events</base>
+        <tran loc="ar">تم تحديث %d حدثًا بواسطة Siri</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/SuggestionsBannerUpdatedEventTitle:dict/events:dict/other:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Siri updated %d events</base>
+        <tran loc="ar">تم تحديث %d حدث بواسطة Siri</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/SuggestionsBannerUpdatedEventTitle:dict/events:dict/two:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Siri updated %d events</base>
+        <tran loc="ar">تم تحديث حدثين بواسطة Siri</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/SuggestionsBannerUpdatedEventTitle:dict/events:dict/zero:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Siri updated %d events</base>
+        <tran loc="ar">تم تحديث %d حدث بواسطة Siri</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/SuggestionsBannerFoundContactsTitle:dict/contacts:dict/few:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Siri found %d contacts</base>
+        <tran loc="ar">تم العثور على %d أحداث بواسطة Siri</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/SuggestionsBannerFoundContactsTitle:dict/contacts:dict/many:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Siri found %d contacts</base>
+        <tran loc="ar">تم العثور على %d حدثًا بواسطة Siri</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/SuggestionsBannerFoundContactsTitle:dict/contacts:dict/other:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Siri found %d contacts</base>
+        <tran loc="ar">تم العثور على %d جهة اتصال بواسطة Siri</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/SuggestionsBannerFoundContactsTitle:dict/contacts:dict/two:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Siri found %d contacts</base>
+        <tran loc="ar">تم العثور على جهتي اتصال بواسطة Siri</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/SuggestionsBannerFoundContactsTitle:dict/contacts:dict/zero:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Siri found %d contacts</base>
+        <tran loc="ar">تم العثور على %d جهة اتصال بواسطة Siri</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/SuggestionsBannerFoundRemindersTitle:dict/reminders:dict/few:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Siri found %d reminders</base>
+        <tran loc="ar">تم العثور على %d تذكيرات بواسطة Siri</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/SuggestionsBannerFoundRemindersTitle:dict/reminders:dict/many:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Siri found %d reminders</base>
+        <tran loc="ar">تم العثور على %d تذكيرًا بواسطة Siri</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/SuggestionsBannerFoundRemindersTitle:dict/reminders:dict/other:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Siri found %d reminders</base>
+        <tran loc="ar">تم العثور على %d تذكير بواسطة Siri</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/SuggestionsBannerFoundRemindersTitle:dict/reminders:dict/two:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Siri found %d reminders</base>
+        <tran loc="ar">تم العثور على تذكيرين بواسطة Siri</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/SuggestionsBannerFoundRemindersTitle:dict/reminders:dict/zero:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Siri found %d reminders</base>
+        <tran loc="ar">تم العثور على %d تذكير بواسطة Siri</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/SuggestionsBannerMixedSubtitleReminders:dict/reminders:dict/zero:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">No Reminders</base>
+        <tran loc="ar">لا توجد تذكيرات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/SuggestionsBannerFoundContactsTitle:dict/NSStringLocalizedFormatKey:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%#@contacts@</base>
+        <tran loc="ar">%#@contacts@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/SuggestionsBannerMixedSubtitleContacts:dict/NSStringLocalizedFormatKey:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%#@contacts@</base>
+        <tran loc="ar">%#@contacts@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/SuggestionsBannerMixedSubtitleEvents:dict/events:dict/few:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%d Events</base>
+        <tran loc="ar">‏%d أحداث</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/SuggestionsBannerMixedSubtitleEvents:dict/events:dict/many:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%d Events</base>
+        <tran loc="ar">‏%d حدثًا</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/SuggestionsBannerMixedSubtitleEvents:dict/events:dict/other:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%d Events</base>
+        <tran loc="ar">‏%d حدث</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/SuggestionsBannerMixedSubtitleEvents:dict/events:dict/two:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%d Events</base>
+        <tran loc="ar">حدثين</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/SuggestionsBannerFoundContactsTitle:dict/contacts:dict/one:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Siri found %d contact</base>
+        <tran loc="ar">تم العثور على جهة اتصال بواسطة Siri</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/SuggestionsBannerUpdatedEventTitle:dict/events:dict/one:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Siri updated %d event</base>
+        <tran loc="ar">تم تحديث حدث بواسطة Siri</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/SuggestionsBannerFoundRemindersTitle:dict/NSStringLocalizedFormatKey:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%#@reminders@</base>
+        <tran loc="ar">%#@reminders@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/SuggestionsBannerMixedSubtitleReminders:dict/NSStringLocalizedFormatKey:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%#@reminders@</base>
+        <tran loc="ar">%#@reminders@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/SuggestionsBannerFoundMultipleContactsSubtitle:dict/more:dict/few:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en"> and %d more</base>
+        <tran loc="ar"> و%d إضافية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/SuggestionsBannerFoundMultipleContactsSubtitle:dict/more:dict/many:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en"> and %d more</base>
+        <tran loc="ar"> و%d إضافية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/SuggestionsBannerFoundMultipleContactsSubtitle:dict/more:dict/one:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en"> and %d more</base>
+        <tran loc="ar"> و%d إضافية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/SuggestionsBannerFoundMultipleContactsSubtitle:dict/more:dict/other:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en"> and %d more</base>
+        <tran loc="ar"> و%d إضافية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/SuggestionsBannerFoundMultipleContactsSubtitle:dict/more:dict/two:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en"> and %d more</base>
+        <tran loc="ar"> و%d إضافيتين</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/SuggestionsBannerFoundMultipleContactsSubtitle:dict/more:dict/zero:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en"> and %d more</base>
+        <tran loc="ar"> و%d إضافية</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>IntelligentSuggestions/System/Library/PrivateFrameworks/CoreSuggestionsUI.framework/Versions/A/Resources/en.lproj/Localizable.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>SuggestionsBannerMeCardPersonUpdatedNicknameAndPhotoSubtitle</Position>
+      <TranslationSet>
+        <base loc="en">Name and Photo</base>
+        <tran loc="ar">الاسم والصورة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Date format for an event that spans a single day </Description>
+      <Position>SuggestionsBannerSingleEventDateSpanFormat%1$@%2$@%3$@</Position>
+      <TranslationSet>
+        <base loc="en">%1$@ from %2$@ - %3$@</base>
+        <tran loc="ar">%1$@ من %2$@ - %3$@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Banner title format when mixed categories are found. e.g. "Siri found 1 Contact and 1 Event" </Description>
+      <Position>SuggestionsBannerMixedCategoriesTitleFormat</Position>
+      <TranslationSet>
+        <base loc="en">Siri found %@</base>
+        <tran loc="ar">من %@ بواسطة Siri</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description>
+  Localizable.strings
+  Suggestions
+
+  Created by Chad Etzel on 1/26/16.
+  Copyright © 2016 Apple Inc. All rights reserved.
+
+ Suggestions Banner 
+ Title of banner when a new contact is available </Description>
+      <Position>SuggestionsBannerNewContactTitle</Position>
+      <TranslationSet>
+        <base loc="en">Siri found new contact info</base>
+        <tran loc="ar">تم العثور على معلومات جهة اتصال جديدة بواسطة Siri</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Title of banner button for cancelled event </Description>
+      <Position>SuggestionsBannerButtonDelete</Position>
+      <TranslationSet>
+        <base loc="en">delete…</base>
+        <tran loc="ar">حذف…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Label for the button to expand the event view to show more details </Description>
+      <Position>SuggestionsBannerDetailsLabel</Position>
+      <TranslationSet>
+        <base loc="en">Details</base>
+        <tran loc="ar">التفاصيل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> title for button that will view a just-added suggested event </Description>
+      <Position>SuggestionsListButtonEventView</Position>
+      <TranslationSet>
+        <base loc="en">View event</base>
+        <tran loc="ar">عرض الحدث</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> title for button that will remove a suggested event from the calendar </Description>
+      <Position>SuggestionsListButtonEventDelete</Position>
+      <TranslationSet>
+        <base loc="en">Delete event</base>
+        <tran loc="ar">حذف حدث</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Accessibility label for close button </Description>
+      <Position>AXSuggestionsBannerButtonClose</Position>
+      <TranslationSet>
+        <base loc="en">close</base>
+        <tran loc="ar">إغلاق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> title for button that will update calendar with data from suggested event </Description>
+      <Position>SuggestionsListButtonEventUpdate</Position>
+      <TranslationSet>
+        <base loc="en">Update event</base>
+        <tran loc="ar">تحديث الحدث</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> second title for leaving location </Description>
+      <Position>SuggestionsBannerRemindersLeavingLocation</Position>
+      <TranslationSet>
+        <base loc="en">Leaving: %@</base>
+        <tran loc="ar">مغادرة: %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> title for alert button to cancel event delete </Description>
+      <Position>SuggestionsBannerAlertButtonCancel</Position>
+      <TranslationSet>
+        <base loc="en">Cancel</base>
+        <tran loc="ar">إلغاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Items separator - last </Description>
+      <Position>SuggestionsBannerItemsSeparatorLast</Position>
+      <TranslationSet>
+        <base loc="en"> and </base>
+        <tran loc="ar"> و </tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> second title for arriving at location </Description>
+      <Position>SuggestionsBannerRemindersArrivingAtLocation</Position>
+      <TranslationSet>
+        <base loc="en">Arriving: %@</base>
+        <tran loc="ar">وصول: %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Title of view controller for events and contacts suggestions </Description>
+      <Position>SuggestionsListTitle</Position>
+      <TranslationSet>
+        <base loc="en">Suggestions</base>
+        <tran loc="ar">اقتراحات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Format for Mixed Types with X Event(s), X Contact(s) </Description>
+      <Position>SuggestionsBannerMixedSubtitle</Position>
+      <TranslationSet>
+        <base loc="en">%@ and %@</base>
+        <tran loc="ar">‏%@ و%@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Date format for 2 events happening in different day, e.g. "July 17, 2015 and July 20, 2015"</Description>
+      <Position>SuggestionsBannerTwoEventsDifferentDayFormat</Position>
+      <TranslationSet>
+        <base loc="en">%@ and %@</base>
+        <tran loc="ar">‏%@ و%@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> section header title for Reminders section in suggestions table view </Description>
+      <Position>SuggestionsListSectionReminders</Position>
+      <TranslationSet>
+        <base loc="en">Reminders</base>
+        <tran loc="ar">التذكيرات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Format for compounding phone number with it's label, i.e. "home: (333)333-3333" </Description>
+      <Position>SuggestionsBannerLabeledValueFormat%1$@%2$@</Position>
+      <TranslationSet>
+        <base loc="en">%1$@: %2$@</base>
+        <tran loc="ar">‏%1$@: ‏%2$@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Title of banner when mixed types of results are found </Description>
+      <Position>SuggestionsBannerMixedTitle</Position>
+      <TranslationSet>
+        <base loc="en">Siri found events and contacts</base>
+        <tran loc="ar">تم العثور على أحداث وجهات اتصال بواسطة Siri</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> title for 'Add to Calendar' button in event suggestion table view cell </Description>
+      <Position>SuggestionsListButtonAddToCalendar</Position>
+      <TranslationSet>
+        <base loc="en">Add to Calendar</base>
+        <tran loc="ar">إضافة إلى التقويم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Title of banner button for a new contact or event </Description>
+      <Position>SuggestionsBannerButtonAdd</Position>
+      <TranslationSet>
+        <base loc="en">add…</base>
+        <tran loc="ar">إضافة…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> title for alert button to confirm event delete </Description>
+      <Position>SuggestionsBannerAlertButtonDeleteEvent</Position>
+      <TranslationSet>
+        <base loc="en">Delete Event</base>
+        <tran loc="ar">حذف حدث</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Title of the banner when an updated contact is available </Description>
+      <Position>SuggestionsBannerUpdatedContactTitle</Position>
+      <TranslationSet>
+        <base loc="en">Siri found updated contact info</base>
+        <tran loc="ar">تم العثور على معلومات جهة اتصال محدّثة بواسطة Siri</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> title for 'Add to Contacts' button in contacts suggestion table view cell </Description>
+      <Position>SuggestionsListButtonAddToContacts</Position>
+      <TranslationSet>
+        <base loc="en">Add to Contacts</base>
+        <tran loc="ar">إضافة إلى جهات الاتصال</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SuggestionsBannerMeCardPersonUpdatedNicknameAndPhotoTitle</Position>
+      <TranslationSet>
+        <base loc="en">This person shared an updated info</base>
+        <tran loc="ar">قام هذا الشخص بمشاركة معلومة محدثة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> title for button that will view a just-added suggested contact </Description>
+      <Position>SuggestionsListButtonViewContact</Position>
+      <TranslationSet>
+        <base loc="en">View Contact</base>
+        <tran loc="ar">عرض معلومات الاتصال</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Suggestions table view controller 
+ title of 'Add All' button in mixed suggestions type table view </Description>
+      <Position>SuggestionsListButtonAddAll</Position>
+      <TranslationSet>
+        <base loc="en">Add All</base>
+        <tran loc="ar">إضافة الكل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SuggestionsBannerMeCardPersonUpdatedPhotoTitle</Position>
+      <TranslationSet>
+        <base loc="en">This person shared an updated photo</base>
+        <tran loc="ar">قام هذا الشخص بمشاركة صورة محدثة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Date format for 2 events happening at the same day. Indicate a time range e.g. "Fri July 17 at 9:00 PM and 10:00PM"</Description>
+      <Position>SuggestionsBannerTwoEventsSameDayFormat</Position>
+      <TranslationSet>
+        <base loc="en">%@ at %@ and %@</base>
+        <tran loc="ar">‏%@ عند %@ و%@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Date format for 3 or more events happening in different days, e.g. "Beginning on July 17, 2015"</Description>
+      <Position>SuggestionsBannerMultiEventsDifferentDayFormat</Position>
+      <TranslationSet>
+        <base loc="en">Beginning on %@</base>
+        <tran loc="ar">بدءًا من %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> title for alert to confirm event delete </Description>
+      <Position>SuggestionsBannerAlertDeleteMessageOSX</Position>
+      <TranslationSet>
+        <base loc="en">Delete Event?</base>
+        <tran loc="ar">حذف الحدث؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Date format for 3 or more events happening at the same day, e.g. "All on July 17, 2015"</Description>
+      <Position>SuggestionsBannerMultiEventsSameDayFormat</Position>
+      <TranslationSet>
+        <base loc="en">All on %@</base>
+        <tran loc="ar">كلها بتاريخ %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Items separator </Description>
+      <Position>SuggestionsBannerItemsSeparator</Position>
+      <TranslationSet>
+        <base loc="en">, </base>
+        <tran loc="ar">‏، </tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Label for the button in the suggested Contacts popover to add the Contact to the database </Description>
+      <Position>SuggestionsBannerAddToContacts</Position>
+      <TranslationSet>
+        <base loc="en">Add To Contacts</base>
+        <tran loc="ar">إضافة إلى جهات الاتصال</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Title of banner button for exisitng event </Description>
+      <Position>SuggestionsBannerButtonView</Position>
+      <TranslationSet>
+        <base loc="en">view…</base>
+        <tran loc="ar">عرض…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> title of 'Ignore' button in suggestion table view cell </Description>
+      <Position>SuggestionsListButtonIgnore</Position>
+      <TranslationSet>
+        <base loc="en">Ignore</base>
+        <tran loc="ar">تجاهل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Date format for a single event that spans multiple days </Description>
+      <Position>SuggestionsBannerSingleEventMultiDayFormat%1$@%2$@</Position>
+      <TranslationSet>
+        <base loc="en">%1$@ - %2$@</base>
+        <tran loc="ar">‏%1$@ - %2$@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Label for the button to expand the event view to show less details </Description>
+      <Position>SuggestionsBannerSummaryLabel</Position>
+      <TranslationSet>
+        <base loc="en">Summary</base>
+        <tran loc="ar">الملخص</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SuggestionsBannerMeCardPersonNewContactTitle</Position>
+      <TranslationSet>
+        <base loc="en">This person shared contact info</base>
+        <tran loc="ar">قام هذا الشخص بمشاركة معلومات الاتصال</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Combined title with location and time </Description>
+      <Position>SuggestionsBannerRemindersSecondTitleCombinedLocationAndTime</Position>
+      <TranslationSet>
+        <base loc="en">%@ or %@</base>
+        <tran loc="ar">‫%@ أو %@‬</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Title of banner button for an exising contact or [near]duplicate event </Description>
+      <Position>SuggestionsBannerButtonUpdate</Position>
+      <TranslationSet>
+        <base loc="en">update…</base>
+        <tran loc="ar">تحديث…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> section header title for Events section in suggestions table view </Description>
+      <Position>SuggestionsListSectionEvents</Position>
+      <TranslationSet>
+        <base loc="en">Events</base>
+        <tran loc="ar">الأحداث</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SuggestionsBannerMeCardPersonUpdatedNicknameTitle</Position>
+      <TranslationSet>
+        <base loc="en">This person shared an updated name</base>
+        <tran loc="ar">قام هذا الشخص بمشاركة اسم محدث</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> section header title for Contacts section in suggestions table view </Description>
+      <Position>SuggestionsListSectionContacts</Position>
+      <TranslationSet>
+        <base loc="en">Contacts</base>
+        <tran loc="ar">جهات الاتصال</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> informative text for alert to confirm event delete </Description>
+      <Position>SuggestionsBannerAlertDeleteInformativeTextOSX</Position>
+      <TranslationSet>
+        <base loc="en">This event will be removed</base>
+        <tran loc="ar">ستتم إزالة هذا الحدث</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Title of paging label for suggestions popover </Description>
+      <Position>SuggestionsBannerPagingLabel%1$lu%2$lu</Position>
+      <TranslationSet>
+        <base loc="en">%1$lu of %2$lu</base>
+        <tran loc="ar">‏%1$lu من %2$lu</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Label for the button in the suggested Contacts popover to add the Contact to the database </Description>
+      <Position>SuggestionsBannerUpdateContact</Position>
+      <TranslationSet>
+        <base loc="en">Update Contact</base>
+        <tran loc="ar">تحديث جهة الاتصال</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> title for button that will update suggested contact </Description>
+      <Position>SuggestionsListButtonUpdateContact</Position>
+      <TranslationSet>
+        <base loc="en">Update Contact</base>
+        <tran loc="ar">تحديث جهة الاتصال</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+</Proj>

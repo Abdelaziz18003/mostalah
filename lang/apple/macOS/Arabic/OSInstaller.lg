@@ -1,0 +1,1504 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Proj>
+  <ProjName>OSInstaller</ProjName>
+  <File>
+    <Filepath>OSInstaller/System/Installation/CDIS/macOS Installer.app/Contents/Resources/en.lproj/OSIInstallingViewController.strings</Filepath>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "&lt;DNL&gt; Installing on \"Macintosh HD\""; ObjectID = "11"; </Description>
+      <Position>11.title</Position>
+      <TranslationSet>
+        <base loc="en">&lt;DNL&gt; Installing on \"Macintosh HD\"</base>
+        <tran loc="ar">&lt;DNL&gt; Installing on \"Macintosh HD\"</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "&lt;DNL&gt; About 27 minutes remaining"; ObjectID = "jN1-lx-cik"; </Description>
+      <Position>jN1-lx-cik.title</Position>
+      <TranslationSet>
+        <base loc="en">&lt;DNL&gt; About 27 minutes remaining</base>
+        <tran loc="ar">&lt;DNL&gt; About 27 minutes remaining</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>OSInstaller/System/Library/PrivateFrameworks/OSInstaller.framework/Versions/A/Resources/en.lproj/Localizable.strings</Filepath>
+    <TextItem>
+      <Description> 
+  Localizable.strings
+  OSInstaller
+
+  Created by scento on 1/28/14.
+  Copyright (c) 2014 com.apple. All rights reserved.
+</Description>
+      <Position>There is not enough free space on %@ to install</Position>
+      <TranslationSet>
+        <base loc="en">There is not enough free space on %@ to install</base>
+        <tran loc="ar">لا توجد مساحة خالية كافية على %@ للتثبيت عليها</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> kOSInstallerErrorMasterBOMDirectoryIterationError</Description>
+      <Position>-57</Position>
+      <TranslationSet>
+        <base loc="en">An error occured iterating through the Master BOM.</base>
+        <tran loc="ar">حدث خطأ أثناء التكرار من خلال Master BOM.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Can't Install, Disk Is Converting</Position>
+      <TranslationSet>
+        <base loc="en">Unable to install to “%@” because it is currently encrypting data.</base>
+        <tran loc="ar">غير قادر على تثبيت \"%@\" لأنه يقوم حاليًا بتشفير بيانات.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> kOSInstallerErrorFirmlinkFolderCreationFailed</Description>
+      <Position>-64</Position>
+      <TranslationSet>
+        <base loc="en">Failed to establish a directory on the system volume for firmlink establishment.</base>
+        <tran loc="ar">فشل تأسيس دليل على وحدة تخزين النظام لتأسيس ارتباط ثابت.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> kOSInstallerErrorReapPreviousSystemException</Description>
+      <Position>-23</Position>
+      <TranslationSet>
+        <base loc="en">An error occurred while removing the previous system.</base>
+        <tran loc="ar">حدث خطأ أثناء إزالة النظام السابق.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> kOSInstallerErrorFailedToCreateRecoveredItems</Description>
+      <Position>-35</Position>
+      <TranslationSet>
+        <base loc="en">An error occurred while removing the previous system.</base>
+        <tran loc="ar">حدث خطأ أثناء إزالة النظام السابق.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>An error occurred while removing the previous system.</Position>
+      <TranslationSet>
+        <base loc="en">An error occurred while removing the previous system.</base>
+        <tran loc="ar">حدث خطأ أثناء إزالة النظام السابق.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> kOSInstallerErrorFailedToUnmountForFSCK</Description>
+      <Position>-25</Position>
+      <TranslationSet>
+        <base loc="en">An error occurred while preparing filesystem checks.</base>
+        <tran loc="ar">حدث خطأ أثناء تحضير عمليات التحقق من نظام الملفات.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>System Name</Position>
+      <TranslationSet>
+        <base loc="en">macOS System</base>
+        <tran loc="ar">نظام macOS</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> kOSInstallerErrorFailedToRemountAfterAPFSConversion</Description>
+      <Position>-22</Position>
+      <TranslationSet>
+        <base loc="en">An error occurred after converting to APFS.</base>
+        <tran loc="ar">حدث خطأ بعد التحويل إلى APFS.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> OSIErrorInstallPersonalizedManifestsFailed</Description>
+      <Position>600</Position>
+      <TranslationSet>
+        <base loc="en">An error occurred installing macOS.</base>
+        <tran loc="ar">حدث خطأ أثناء تثبيت macOS.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> kOSIErrorEraseInstallFailedToRemoveVolume</Description>
+      <Position>700</Position>
+      <TranslationSet>
+        <base loc="en">An error occured attempting to erase install.</base>
+        <tran loc="ar">حدث خطأ أثناء محاولة مسح التثبيت.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> kOSInstallerErrorStashingFailureDebug</Description>
+      <Position>-69</Position>
+      <TranslationSet>
+        <base loc="en">Debugging enabled: the installer failed to stash.</base>
+        <tran loc="ar">تم تمكين إصلاح الأخطاء: فشل إخفاء المثبت.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> kOSInstallerErrorBaseSystemIsMissing</Description>
+      <Position>-31</Position>
+      <TranslationSet>
+        <base loc="en">A file required for installation could not be found.</base>
+        <tran loc="ar">تعذر العثور على أحد الملفات المطلوبة للتثبيت.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> OSIErrorFirmwareUpdateNoMutableProduct</Description>
+      <Position>500</Position>
+      <TranslationSet>
+        <base loc="en">An error occurred while updating firmware.</base>
+        <tran loc="ar">حدث خطأ أثناء تحديث البرنامج الثابت.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> OSIErrorFirmwareUpdateNilSpecifierPackageRef</Description>
+      <Position>501</Position>
+      <TranslationSet>
+        <base loc="en">An error occurred while updating firmware.</base>
+        <tran loc="ar">حدث خطأ أثناء تحديث البرنامج الثابت.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> OSIErrorFirmwareUpdateNilPackageURL</Description>
+      <Position>502</Position>
+      <TranslationSet>
+        <base loc="en">An error occurred while updating firmware.</base>
+        <tran loc="ar">حدث خطأ أثناء تحديث البرنامج الثابت.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> OSIErrorFirmwareUpdateNilPKArchive</Description>
+      <Position>503</Position>
+      <TranslationSet>
+        <base loc="en">An error occurred while updating firmware.</base>
+        <tran loc="ar">حدث خطأ أثناء تحديث البرنامج الثابت.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> OSIErrorFirmwareUpdateTrustNotFound</Description>
+      <Position>504</Position>
+      <TranslationSet>
+        <base loc="en">An error occurred while updating firmware.</base>
+        <tran loc="ar">حدث خطأ أثناء تحديث البرنامج الثابت.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> OSIErrorFirmwareUpdateUntrustedPackage</Description>
+      <Position>505</Position>
+      <TranslationSet>
+        <base loc="en">An error occurred while updating firmware.</base>
+        <tran loc="ar">حدث خطأ أثناء تحديث البرنامج الثابت.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> OSIErrorFirmwareUpdateCantCreateTempDir</Description>
+      <Position>506</Position>
+      <TranslationSet>
+        <base loc="en">An error occurred while updating firmware.</base>
+        <tran loc="ar">حدث خطأ أثناء تحديث البرنامج الثابت.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> OSIErrorFirmwareUpdateNilPKUnarchiver</Description>
+      <Position>507</Position>
+      <TranslationSet>
+        <base loc="en">An error occurred while updating firmware.</base>
+        <tran loc="ar">حدث خطأ أثناء تحديث البرنامج الثابت.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> OSIErrorFirmwareUpdateCantUnarchive</Description>
+      <Position>508</Position>
+      <TranslationSet>
+        <base loc="en">An error occurred while updating firmware.</base>
+        <tran loc="ar">حدث خطأ أثناء تحديث البرنامج الثابت.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> OSIErrorFirmwareUpdateCantFindEFIUpdater</Description>
+      <Position>509</Position>
+      <TranslationSet>
+        <base loc="en">An error occurred while updating firmware.</base>
+        <tran loc="ar">حدث خطأ أثناء تحديث البرنامج الثابت.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> OSIErrorFirmwareUpdateCantFindCookie</Description>
+      <Position>510</Position>
+      <TranslationSet>
+        <base loc="en">An error occurred while updating firmware.</base>
+        <tran loc="ar">حدث خطأ أثناء تحديث البرنامج الثابت.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> OSIErrorFirmwareUpdateCantWriteCookie</Description>
+      <Position>511</Position>
+      <TranslationSet>
+        <base loc="en">An error occurred while updating firmware.</base>
+        <tran loc="ar">حدث خطأ أثناء تحديث البرنامج الثابت.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> kOSInstallerErrorAutomationInformationTimedOut</Description>
+      <Position>-13</Position>
+      <TranslationSet>
+        <base loc="en">The installer resources have expired.</base>
+        <tran loc="ar">انتهت صلاحية موارد المثبت.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> kOSInstallerErrorAutomationInformationIsRequired</Description>
+      <Position>-16</Position>
+      <TranslationSet>
+        <base loc="en">The installer resources have expired.</base>
+        <tran loc="ar">انتهت صلاحية موارد المثبت.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> kOSInstallerErrorMasterBOMFailedToBeMigrated</Description>
+      <Position>-55</Position>
+      <TranslationSet>
+        <base loc="en">An error occured migrating the Master BOM.</base>
+        <tran loc="ar">حدث خطأ أثناء ترحيل Master BOM.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> kOSInstallerErrorFailedToRemoveInvalidSymlink</Description>
+      <Position>-67</Position>
+      <TranslationSet>
+        <base loc="en">An error occured while removing invalid symbolic links.</base>
+        <tran loc="ar">حدث خطأ أثناء إزالة الروابط الرمزية غير الصالحة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> kOSInstallerErrorSnapshotFailedUnmount</Description>
+      <Position>-60</Position>
+      <TranslationSet>
+        <base loc="en">Failed to unmount volume after APFS snapshot purging.</base>
+        <tran loc="ar">فشل إلغاء تحميل وحدة التخزين بعد تنظيف لقطة APFS.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> kOSInstallerErrorInvalidTarget</Description>
+      <Position>-5</Position>
+      <TranslationSet>
+        <base loc="en">The target is invalid</base>
+        <tran loc="ar">الهدف غير صالح</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> kOSInstallerErrorCopyUserAttributes</Description>
+      <Position>-61</Position>
+      <TranslationSet>
+        <base loc="en">Failed to apply attributes and flags from the User template to the destination.</base>
+        <tran loc="ar">فشل تطبيق السمات والأعلام من قالب المستخدم إلى الوجهة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> kOSInstallerErrorMasterBOMDirectoryCreationError</Description>
+      <Position>-54</Position>
+      <TranslationSet>
+        <base loc="en">An error occured constructing the final directory for the Master BOM.</base>
+        <tran loc="ar">حدث خطأ أثناء إنشاء الدليل النهائي لـ Master BOM.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> kOSInstallerErrorDebuggerToolForcedFailure</Description>
+      <Position>-27</Position>
+      <TranslationSet>
+        <base loc="en">OSIDebuggerTool has forced a failure.</base>
+        <tran loc="ar">فشل بسبب OSIDebuggerTool.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Extraction Error Try Diagnostics</Position>
+      <TranslationSet>
+        <base loc="en">An error occurred installing macOS. To use Apple Diagnostics to check your Mac hardware, shut down, press the power button, and immediately hold the ‘D’ key until diagnostics begins.</base>
+        <tran loc="ar">حدث خطأ أثناء تثبيت macOS. لاستخدام تشخيصات Apple للتحقق من المكوّنات الداخلية للـ Mac الخاص بك، قم بإيقاف التشغيل، واضغط على مفتاح الطاقة، واضغط فورًا مع الاستمرار على مفتاح حرف D حتى تبدأ التشخيصات.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Installing Stuck</Position>
+      <TranslationSet>
+        <base loc="en">Estimating time remaining…</base>
+        <tran loc="ar">يتم الآن تقدير الوقت المتبقي…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> kOSInstallerErrorDataContainsSystemiNodeSpace</Description>
+      <Position>-56</Position>
+      <TranslationSet>
+        <base loc="en">The target volume cannot be safely upgraded to %@.</base>
+        <tran loc="ar">لا يمكن ترقية وحدة التخزين المستهدفة إلى %@ بشكل آمن.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> kOSInstallerErrorMutableProductOnSystemRole</Description>
+      <Position>-68</Position>
+      <TranslationSet>
+        <base loc="en">The installer resources are located on the system volume.</base>
+        <tran loc="ar">موارد المثبت موجودة في وحدة تخزين النظام.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Missing Software Update packages</Position>
+      <TranslationSet>
+        <base loc="en">An error occurred locating packages required to update your Mac.</base>
+        <tran loc="ar">حدث خطأ أثناء تحديد موقع الحِزم المطلوبة لتحديث الـ Mac الخاص بك.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Failed to enable permissions</Position>
+      <TranslationSet>
+        <base loc="en">An error occurred enabling permissions on the target volume.</base>
+        <tran loc="ar">حدث خطأ أثناء تمكين الأذونات على وحدة التخزين المستهدفة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> kOSInstallerErrorReceiptWriteFailedWithUnknownError</Description>
+      <Position>-50</Position>
+      <TranslationSet>
+        <base loc="en">An error occurred while writing out template receipts</base>
+        <tran loc="ar">حدث خطأ أثناء كتابة إيصالات القالب</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> kOSInstallerErrorFSCKFailedForComplexAPFS</Description>
+      <Position>-26</Position>
+      <TranslationSet>
+        <base loc="en">Installer could not verify the disk automatically. Start up from macOS Recovery, open Disk Utility, unlock all disks, then run First Aid.</base>
+        <tran loc="ar">تعذر على المثبّت التحقق من القرص تلقائيًا. ابدأ التشغيل من \"استرداد macOS\"، افتح أداة القرص، افتح قفل جميع الأقراص، ثم شغّل الإسعافات الأولية.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> kOSInstallerErrorMasterBOMDoesntExist</Description>
+      <Position>-53</Position>
+      <TranslationSet>
+        <base loc="en">An error occured finding the Master BOM.</base>
+        <tran loc="ar">حدث خطأ أثناء البحث عن Master BOM.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> kOSInstallerErrorFailedToConvertToAPFS</Description>
+      <Position>-20</Position>
+      <TranslationSet>
+        <base loc="en">An error occurred while converting to APFS.</base>
+        <tran loc="ar">حدث خطأ أثناء التحويل إلى APFS.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> kOSInstallerErrorQueueElementDidNotReturnError</Description>
+      <Position>-30</Position>
+      <TranslationSet>
+        <base loc="en">An unknown error occurred.</base>
+        <tran loc="ar">حدث خطأ غير معروف.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> kOSInstallerErrorReadFirmlink</Description>
+      <Position>-62</Position>
+      <TranslationSet>
+        <base loc="en">Failed to read an APFS Firmlink on the target.</base>
+        <tran loc="ar">فشلت قراءة ارتباط ثبات لوحدة تخزين APFS على الهدف.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> kOSInstallerErrorKernelCacheRebuildFailed</Description>
+      <Position>-70</Position>
+      <TranslationSet>
+        <base loc="en">An error occured while generating the kernel cache.</base>
+        <tran loc="ar">حدث خطأ أثناء إنشاء ذاكرة kernel المؤقتة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> kOSInstallerErrorFailedToStartEnsureRecovery</Description>
+      <Position>-32</Position>
+      <TranslationSet>
+        <base loc="en">A required operation could not started.</base>
+        <tran loc="ar">تعذر بدء عملية مطلوبة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> kOSInstallerErrorFailedToStartBless</Description>
+      <Position>-33</Position>
+      <TranslationSet>
+        <base loc="en">A required operation could not started.</base>
+        <tran loc="ar">تعذر بدء عملية مطلوبة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> kOSInstallerErrorAuthFailure</Description>
+      <Position>-36</Position>
+      <TranslationSet>
+        <base loc="en">A required operation could not started.</base>
+        <tran loc="ar">تعذر بدء عملية مطلوبة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> kOSInstallerErrorInvalidInstallRequest</Description>
+      <Position>-37</Position>
+      <TranslationSet>
+        <base loc="en">A required operation could not started.</base>
+        <tran loc="ar">تعذر بدء عملية مطلوبة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> kOSInstallerErrorInstallClientIsNil</Description>
+      <Position>-38</Position>
+      <TranslationSet>
+        <base loc="en">A required operation could not started.</base>
+        <tran loc="ar">تعذر بدء عملية مطلوبة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Power Button Warning</Position>
+      <TranslationSet>
+        <base loc="en">Your Mac will restart when update completes</base>
+        <tran loc="ar">ستتم إعادة تشغيل الـ Mac عندما يكتمل التحديث</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> kOSInstallerErrorNoFilesOnInvalidSystem</Description>
+      <Position>-28</Position>
+      <TranslationSet>
+        <base loc="en">An error occurred while evaluating the target volume.</base>
+        <tran loc="ar">حدث خطأ أثناء تقييم وحدة التخزين المستهدفة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> kOSInstallerErrorFailedToMovePreviousContent</Description>
+      <Position>-29</Position>
+      <TranslationSet>
+        <base loc="en">An error occurred while evaluating the target volume.</base>
+        <tran loc="ar">حدث خطأ أثناء تقييم وحدة التخزين المستهدفة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Can't Install, Disk Is Decrypting</Position>
+      <TranslationSet>
+        <base loc="en">Unable to install to “%@” because it is currently decrypting data.</base>
+        <tran loc="ar">غير قادر على تثبيت \"%@\" لأنه يقوم حاليًا بفك تشفير البيانات.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> kOSInstallerErrorInstallerCompatibilityError</Description>
+      <Position>-58</Position>
+      <TranslationSet>
+        <base loc="en">The target is incompatible with the version of macOS being installed.</base>
+        <tran loc="ar">الهدف غير متوافق مع إصدار macOS المثبت حاليًا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> kOSInstallerErrorXPCCacheRebuildFailed</Description>
+      <Position>-51</Position>
+      <TranslationSet>
+        <base loc="en">An error occured attempting to construct the XPC Cache cookie.</base>
+        <tran loc="ar">حدث خطأ أثناء محاولة إنشاء ملف كوكي للذاكرة المؤقتة لـ XPC Cache.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> OSIErrorFirmwareUpdateErrorROMFeaturesDontSupportAPFS</Description>
+      <Position>512</Position>
+      <TranslationSet>
+        <base loc="en">An error occurred while verifying firmware.</base>
+        <tran loc="ar">حدث خطأ أثناء التحقق من البرنامج الثابت.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> kOSInstallerErrorFailedToUnmountForAPFSConversion</Description>
+      <Position>-21</Position>
+      <TranslationSet>
+        <base loc="en">An error occurred while preparing to convert to APFS.</base>
+        <tran loc="ar">حدث خطأ أثناء التحضير للتحويل إلى APFS.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> kOSInstallerErrorSetFirmlink</Description>
+      <Position>-63</Position>
+      <TranslationSet>
+        <base loc="en">Failed to establish an APFS Firmlink on the target.</base>
+        <tran loc="ar">فشل تأسيس ارتباط ثبات لوحدة تخزين APFS على الهدف.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> kOSInstallerErrorSnapshotFailedMount</Description>
+      <Position>-59</Position>
+      <TranslationSet>
+        <base loc="en">Failed to mount volume for APFS snapshot purging.</base>
+        <tran loc="ar">فشل تحميل وحدة التخزين لتنظيف لقطة APFS.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> kOSInstallerErrorDataTemplateBOMCommitFailed</Description>
+      <Position>-66</Position>
+      <TranslationSet>
+        <base loc="en">The data template could not be migrated due to an error.</base>
+        <tran loc="ar">تعذر ترحيل قالب البيانات بسبب حدوث خطأ.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> kOSInstallerErrorAutomationInformationMissing</Description>
+      <Position>-12</Position>
+      <TranslationSet>
+        <base loc="en">The installer resources were not found.</base>
+        <tran loc="ar">لم يتم العثور على موارد المثبت.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> kOSInstallerErrorMissingInstallInfo</Description>
+      <Position>-7</Position>
+      <TranslationSet>
+        <base loc="en">The installer resources were not found.</base>
+        <tran loc="ar">لم يتم العثور على موارد المثبت.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> kOSInstallerErrorAutomationInformationDamaged</Description>
+      <Position>-11</Position>
+      <TranslationSet>
+        <base loc="en">An error occurred while loading the installer resources.</base>
+        <tran loc="ar">حدث خطأ أثناء تحميل موارد المثبت.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> kOSInstallerErrorAutomationInformationMissingTarget - Basically just damaged to the end user</Description>
+      <Position>-17</Position>
+      <TranslationSet>
+        <base loc="en">An error occurred while loading the installer resources.</base>
+        <tran loc="ar">حدث خطأ أثناء تحميل موارد المثبت.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> kOSInstallerErrorProductsFailedToLoad</Description>
+      <Position>-18</Position>
+      <TranslationSet>
+        <base loc="en">An error occurred while loading the installer resources.</base>
+        <tran loc="ar">حدث خطأ أثناء تحميل موارد المثبت.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> kOSInstallerErrorProductsLackPersonalization</Description>
+      <Position>-19</Position>
+      <TranslationSet>
+        <base loc="en">An error occurred while loading the installer resources.</base>
+        <tran loc="ar">حدث خطأ أثناء تحميل موارد المثبت.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> kOSInstallerErrorDiskImagePathIsNil</Description>
+      <Position>-34</Position>
+      <TranslationSet>
+        <base loc="en">An error occurred while loading the installer resources.</base>
+        <tran loc="ar">حدث خطأ أثناء تحميل موارد المثبت.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> kOSInstallerErrorDataTemplateBOMInitFailed</Description>
+      <Position>-65</Position>
+      <TranslationSet>
+        <base loc="en">The data template could not be migrated due to an error initializing the template.</base>
+        <tran loc="ar">تعذر ترحيل قالب البيانات بسبب حدوث خطأ في تهيئة القالب.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> kOSInstallerErrorNonGenuineKextLoaded</Description>
+      <Position>-52</Position>
+      <TranslationSet>
+        <base loc="en">A kernel extension loaded is not genuine.</base>
+        <tran loc="ar">ملحق kernel المحمّل ليس أصليًا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Data Name</Position>
+      <TranslationSet>
+        <base loc="en">%@ - Data</base>
+        <tran loc="ar">بيانات - %@</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>OSInstaller/System/Installation/CDIS/macOS Installer.app/Contents/Resources/en.lproj/Localizable.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>The installer you are trying to use has timed out. Re-run Install macOS.app to try again.</Position>
+      <TranslationSet>
+        <base loc="en">The installer you are trying to use has timed out. Re-run Install macOS.app to try again.</base>
+        <tran loc="ar">انتهت مهلة المثبّت الذي تحاول استخدامه. قم بإعادة تشغيل \"تثبيت macOS.app\" للمحاولة مرة أخرى.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Menu Titles</Description>
+      <Position>Utilities</Position>
+      <TranslationSet>
+        <base loc="en">Utilities</base>
+        <tran loc="ar">الأدوات المساعدة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Try Again</Position>
+      <TranslationSet>
+        <base loc="en">Try Again</base>
+        <tran loc="ar">محاولة مرة أخرى</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Select Target Disk</Position>
+      <TranslationSet>
+        <base loc="en">Select Target Disk</base>
+        <tran loc="ar">تحديد القرص المستهدف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Target Pane </Description>
+      <Position>macOS will be installed on TARGET</Position>
+      <TranslationSet>
+        <base loc="en">macOS will be installed on “%@”</base>
+        <tran loc="ar">سيتم تثبيت macOS على \"%@\"</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Automatically restarting in %@ seconds.</Position>
+      <TranslationSet>
+        <base loc="en">Automatically restarting in %@ seconds.</base>
+        <tran loc="ar">تتم إعادة التشغيل تلقائيًا خلال %@ من الثواني.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>%@ is currently being installed. If you quit now, you may be unable to start up your computer.\n\nIf you need to quit, click Startup Disk to select a startup disk for your computer.</Position>
+      <TranslationSet>
+        <base loc="en">%@ is currently being installed. If you quit now, you may be unable to start up your computer.\n\nIf you need to quit, click Startup Disk to select a startup disk for your computer.</base>
+        <tran loc="ar">يتم حاليًا تثبيت %@. إذا قمت بالإنهاء الآن، فربما لن تكون قادرًا على بدء تشغيل الكمبيوتر الخاص بك.\n\nإذا كنت تحتاج إلى الإنهاء، انقر قرص بدء التشغيل لاختيار قرص التشغيل الخاص بالكمبيوتر الخاص بك.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Installing</Position>
+      <TranslationSet>
+        <base loc="en">Installing</base>
+        <tran loc="ar">يتم الآن التثبيت</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Locked</Position>
+      <TranslationSet>
+        <base loc="en">Locked</base>
+        <tran loc="ar">تم التأمين</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Quit</Position>
+      <TranslationSet>
+        <base loc="en">Quit</base>
+        <tran loc="ar">إنهاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> License Pane </Description>
+      <Position>I have read and agree to the terms of the software license agreement.</Position>
+      <TranslationSet>
+        <base loc="en">I have read and agree to the terms of the software license agreement.</base>
+        <tran loc="ar">لقد قرأت بنود اتفاقية ترخيص البرنامج وأوافق عليها.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Quit Sheet </Description>
+      <Position>Are you sure you want to quit %@ Installer?</Position>
+      <TranslationSet>
+        <base loc="en">Are you sure you want to quit %@ Installer?</base>
+        <tran loc="ar">هل أنت متأكد من رغبتك في إنهاء برنامج تثبيت %@؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>The selected target is missing.</Position>
+      <TranslationSet>
+        <base loc="en">The selected target is missing.</base>
+        <tran loc="ar">الهدف المحدد مفقود.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Restart</Position>
+      <TranslationSet>
+        <base loc="en">Restart</base>
+        <tran loc="ar">إعادة التشغيل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>%@ free</Position>
+      <TranslationSet>
+        <base loc="en">%@ free</base>
+        <tran loc="ar">المساحة الحرة %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Automatically restarting in 1 second.</Position>
+      <TranslationSet>
+        <base loc="en">Automatically restarting in 1 second.</base>
+        <tran loc="ar">تتم إعادة التشغيل تلقائيًا خلال ثانية واحدة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Error</Position>
+      <TranslationSet>
+        <base loc="en">Error</base>
+        <tran loc="ar">خطأ</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Cancel</Position>
+      <TranslationSet>
+        <base loc="en">Cancel</base>
+        <tran loc="ar">إلغاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Error Sheet </Description>
+      <Position>Failed to open macOS Installer</Position>
+      <TranslationSet>
+        <base loc="en">Failed to open macOS Installer</base>
+        <tran loc="ar">فشل فتح مثبّت macOS</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Disagree</Position>
+      <TranslationSet>
+        <base loc="en">Disagree</base>
+        <tran loc="ar">عدم الموافقة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Continue</Position>
+      <TranslationSet>
+        <base loc="en">Continue</base>
+        <tran loc="ar">متابعة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Internal UI </Description>
+      <Position>RecoveryDiagnoseAlertTitle</Position>
+      <TranslationSet>
+        <base loc="en">Please capture diagnostics</base>
+        <tran loc="ar">الرجاء التقاط التشخيصات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Dismiss</Position>
+      <TranslationSet>
+        <base loc="en">Dismiss</base>
+        <tran loc="ar">استبعاد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>The path PATH appears to be missing or damaged.</Position>
+      <TranslationSet>
+        <base loc="en">The path %@ appears to be missing or damaged.</base>
+        <tran loc="ar">يبدو أن المسار %@ مفقود أو تالف.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Select the disk on which to install.</Position>
+      <TranslationSet>
+        <base loc="en">Select the disk on which to install.</base>
+        <tran loc="ar">قم بتحديد القرص المراد التثبيت عليه.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Restart to complete the installation of macOS on VOLUME.</Position>
+      <TranslationSet>
+        <base loc="en">Restart to complete the installation of macOS on “%@”.</base>
+        <tran loc="ar">قم بإعادة التشغيل لإكمال تثبيت macOS على \"%@\".</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>The computer is restarting.</Position>
+      <TranslationSet>
+        <base loc="en">The computer is restarting.</base>
+        <tran loc="ar">الكمبيوتر قيد إعادة التشغيل.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Final Pane </Description>
+      <Position>macOS could not be installed on your computer</Position>
+      <TranslationSet>
+        <base loc="en">macOS could not be installed on your computer</base>
+        <tran loc="ar">تعذر تثبيت macOS على الكمبيوتر الخاص بك</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description>
+ Localized.strings
+ OSInstaller
+
+ Created by scento on 9/13/12.
+ Copyright (c) 2012 com.apple. All rights reserved.
+ 
+ Button Titles </Description>
+      <Position>Startup Disk</Position>
+      <TranslationSet>
+        <base loc="en">Startup Disk</base>
+        <tran loc="ar">قرص بدء التشغيل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>RecoveryDiagnoseAlertMessagePowerButton</Position>
+      <TranslationSet>
+        <base loc="en">If your install appears to be hung please take a Recovery Diagnose and file a bug.\n\nYou will be prompted to save diagnostics once it has been captured.</base>
+        <tran loc="ar">إذا كان يبدو أن المثبت عالقًا، يرجى تسجيل تشخيص استرداد وفتح تقرير مشكلة.\n\nسيُطلب منك حفظ التشخيصات بمجرد انتهاء تسجيلها.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICON_VOICEOVER_DESC_FORMAT</Position>
+      <TranslationSet>
+        <base loc="en">%@ (%@)</base>
+        <tran loc="ar">%@ (%@)</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>License</Position>
+      <TranslationSet>
+        <base loc="en">License</base>
+        <tran loc="ar">الترخيص</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>The selected target is invalid.</Position>
+      <TranslationSet>
+        <base loc="en">The selected target is invalid.</base>
+        <tran loc="ar">الهدف المحدد غير صالح.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>RecoveryDiagnoseAlertMessageFailed</Position>
+      <TranslationSet>
+        <base loc="en">Please take a Recovery Diagnose and file a bug.\n\nYou will be prompted to save diagnostics once it has been captured.</base>
+        <tran loc="ar">يرجى تسجيل تشخيص استرداد وفتح تقرير مشكلة.\n\nسيُطلب منك حفظ التشخيصات بمجرد انتهاء تسجيلها.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Agree</Position>
+      <TranslationSet>
+        <base loc="en">Agree</base>
+        <tran loc="ar">موافقة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Success</Position>
+      <TranslationSet>
+        <base loc="en">Success</base>
+        <tran loc="ar">نجاح</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>To quit, click Choose Startup Disk to select a startup disk for your computer. If you need to restart, click Restart.</Position>
+      <TranslationSet>
+        <base loc="en">To quit, click Choose Startup Disk to select a startup disk for your computer. If you need to restart, click Restart.</base>
+        <tran loc="ar">للإنهاء، انقر على اختيار قرص بدء التشغيل لتحديد قرص بدء تشغيل خاص بالكمبيوتر. إذا لزم إعادة التشغيل، انقر على إعادة التشغيل.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Quit the installer to restart your computer and try again.</Position>
+      <TranslationSet>
+        <base loc="en">Quit the installer to restart your computer and try again.</base>
+        <tran loc="ar">قم بإنهاء أداة التثبيت لإعادة تشغيل الكمبيوتر الخاص بك والمحاولة مرة أخرى.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Pane titles </Description>
+      <Position>Welcome</Position>
+      <TranslationSet>
+        <base loc="en">Welcome</base>
+        <tran loc="ar">مرحبًا</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Unlock</Position>
+      <TranslationSet>
+        <base loc="en">Unlock</base>
+        <tran loc="ar">فتح القفل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Installing Pane </Description>
+      <Position>Installing on TARGET</Position>
+      <TranslationSet>
+        <base loc="en">Installing on “%@”</base>
+        <tran loc="ar">يتم الآن التثبيت على \"%@\"</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>OSInstaller/System/Installation/CDIS/macOS Installer.app/Contents/Resources/en.lproj/MainMenu.strings</Filepath>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "About macOS Installer"; ObjectID = "58"; </Description>
+      <Position>58.title</Position>
+      <TranslationSet>
+        <base loc="en">About macOS Installer</base>
+        <tran loc="ar">حول مثبّت macOS</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Delete"; ObjectID = "202"; </Description>
+      <Position>202.title</Position>
+      <TranslationSet>
+        <base loc="en">Delete</base>
+        <tran loc="ar">حذف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Text Replacement"; ObjectID = "462"; </Description>
+      <Position>462.title</Position>
+      <TranslationSet>
+        <base loc="en">Text Replacement</base>
+        <tran loc="ar">استبدال النص</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Check Document Now"; ObjectID = "201"; </Description>
+      <Position>201.title</Position>
+      <TranslationSet>
+        <base loc="en">Check Document Now</base>
+        <tran loc="ar">تدقيق المستند الآن</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Correct Spelling Automatically"; ObjectID = "454"; </Description>
+      <Position>454.title</Position>
+      <TranslationSet>
+        <base loc="en">Correct Spelling Automatically</base>
+        <tran loc="ar">تصحيح الأخطاء الإملائية تلقائيًا</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Show Spelling and Grammar"; ObjectID = "204"; </Description>
+      <Position>204.title</Position>
+      <TranslationSet>
+        <base loc="en">Show Spelling and Grammar</base>
+        <tran loc="ar">إظهار التدقيق الإملائي والتدقيق النحوي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Customize"; ObjectID = "uEG-sq-X2a"; </Description>
+      <Position>uEG-sq-X2a.title</Position>
+      <TranslationSet>
+        <base loc="en">Customize</base>
+        <tran loc="ar">تخصيص</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Stop Speaking"; ObjectID = "195"; </Description>
+      <Position>195.title</Position>
+      <TranslationSet>
+        <base loc="en">Stop Speaking</base>
+        <tran loc="ar">إيقاف التكلم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenu"; title = "Spelling and Grammar"; ObjectID = "200"; </Description>
+      <Position>200.title</Position>
+      <TranslationSet>
+        <base loc="en">Spelling and Grammar</base>
+        <tran loc="ar">التدقيق الإملائي والنحوي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Spelling and Grammar"; ObjectID = "216"; </Description>
+      <Position>216.title</Position>
+      <TranslationSet>
+        <base loc="en">Spelling and Grammar</base>
+        <tran loc="ar">التدقيق الإملائي والنحوي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Find and Replace…"; ObjectID = "534"; </Description>
+      <Position>534.title</Position>
+      <TranslationSet>
+        <base loc="en">Find and Replace…</base>
+        <tran loc="ar">بحث واستبدال...</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Hide macOS Installer"; ObjectID = "134"; </Description>
+      <Position>134.title</Position>
+      <TranslationSet>
+        <base loc="en">Hide macOS Installer</base>
+        <tran loc="ar">إخفاء مثبّت macOS</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Jump to Selection"; ObjectID = "210"; </Description>
+      <Position>210.title</Position>
+      <TranslationSet>
+        <base loc="en">Jump to Selection</base>
+        <tran loc="ar">انتقال سريع إلى التحديد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Show Substitutions"; ObjectID = "457"; </Description>
+      <Position>457.title</Position>
+      <TranslationSet>
+        <base loc="en">Show Substitutions</base>
+        <tran loc="ar">إظهار البدائل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenu"; title = "Edit"; ObjectID = "205"; </Description>
+      <Position>205.title</Position>
+      <TranslationSet>
+        <base loc="en">Edit</base>
+        <tran loc="ar">تحرير</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Edit"; ObjectID = "217"; </Description>
+      <Position>217.title</Position>
+      <TranslationSet>
+        <base loc="en">Edit</base>
+        <tran loc="ar">تحرير</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Smart Quotes"; ObjectID = "351"; </Description>
+      <Position>351.title</Position>
+      <TranslationSet>
+        <base loc="en">Smart Quotes</base>
+        <tran loc="ar">علامات الاقتباس الذكية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenu"; title = "Services"; ObjectID = "130"; </Description>
+      <Position>130.title</Position>
+      <TranslationSet>
+        <base loc="en">Services</base>
+        <tran loc="ar">خدمات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Services"; ObjectID = "131"; </Description>
+      <Position>131.title</Position>
+      <TranslationSet>
+        <base loc="en">Services</base>
+        <tran loc="ar">خدمات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Show All"; ObjectID = "150"; </Description>
+      <Position>150.title</Position>
+      <TranslationSet>
+        <base loc="en">Show All</base>
+        <tran loc="ar">إظهار الكل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Paste"; ObjectID = "203"; </Description>
+      <Position>203.title</Position>
+      <TranslationSet>
+        <base loc="en">Paste</base>
+        <tran loc="ar">لصق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Continue"; ObjectID = "mYh-Lo-4I3"; </Description>
+      <Position>mYh-Lo-4I3.title</Position>
+      <TranslationSet>
+        <base loc="en">Continue</base>
+        <tran loc="ar">متابعة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Find Previous"; ObjectID = "213"; </Description>
+      <Position>213.title</Position>
+      <TranslationSet>
+        <base loc="en">Find Previous</base>
+        <tran loc="ar">بحث عن السابق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenu"; title = "File"; ObjectID = "Aau-7L-c1o"; </Description>
+      <Position>Aau-7L-c1o.title</Position>
+      <TranslationSet>
+        <base loc="en">File</base>
+        <tran loc="ar">ملف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "File"; ObjectID = "MEI-5V-4DK"; </Description>
+      <Position>MEI-5V-4DK.title</Position>
+      <TranslationSet>
+        <base loc="en">File</base>
+        <tran loc="ar">ملف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Use Selection for Find"; ObjectID = "221"; </Description>
+      <Position>221.title</Position>
+      <TranslationSet>
+        <base loc="en">Use Selection for Find</base>
+        <tran loc="ar">استخدام التحديد للبحث</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Log"; ObjectID = "bC3-8h-k8d"; </Description>
+      <Position>bC3-8h-k8d.title</Position>
+      <TranslationSet>
+        <base loc="en">Log</base>
+        <tran loc="ar">السجل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Transformations"; ObjectID = "450"; </Description>
+      <Position>450.title</Position>
+      <TranslationSet>
+        <base loc="en">Transformations</base>
+        <tran loc="ar">التحويلات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenu"; title = "Transformations"; ObjectID = "451"; </Description>
+      <Position>451.title</Position>
+      <TranslationSet>
+        <base loc="en">Transformations</base>
+        <tran loc="ar">التحويلات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Close"; ObjectID = "3QJ-Im-35H"; </Description>
+      <Position>3QJ-Im-35H.title</Position>
+      <TranslationSet>
+        <base loc="en">Close</base>
+        <tran loc="ar">إغلاق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Undo"; ObjectID = "207"; </Description>
+      <Position>207.title</Position>
+      <TranslationSet>
+        <base loc="en">Undo</base>
+        <tran loc="ar">تراجع</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Find Next"; ObjectID = "208"; </Description>
+      <Position>208.title</Position>
+      <TranslationSet>
+        <base loc="en">Find Next</base>
+        <tran loc="ar">بحث عن التالي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Preferences…"; ObjectID = "129"; </Description>
+      <Position>129.title</Position>
+      <TranslationSet>
+        <base loc="en">Preferences…</base>
+        <tran loc="ar">تفضيلات…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Paste and Match Style"; ObjectID = "485"; </Description>
+      <Position>485.title</Position>
+      <TranslationSet>
+        <base loc="en">Paste and Match Style</base>
+        <tran loc="ar">لصق ومطابقة النمط</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Check Grammar With Spelling"; ObjectID = "346"; </Description>
+      <Position>346.title</Position>
+      <TranslationSet>
+        <base loc="en">Check Grammar With Spelling</base>
+        <tran loc="ar">تدقيق نحوي مع التدقيق الإملائي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Hide Others"; ObjectID = "145"; </Description>
+      <Position>145.title</Position>
+      <TranslationSet>
+        <base loc="en">Hide Others</base>
+        <tran loc="ar">إخفاء الأخرى</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Redo"; ObjectID = "215"; </Description>
+      <Position>215.title</Position>
+      <TranslationSet>
+        <base loc="en">Redo</base>
+        <tran loc="ar">إعادة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Back"; ObjectID = "jq2-1h-y6j"; </Description>
+      <Position>jq2-1h-y6j.title</Position>
+      <TranslationSet>
+        <base loc="en">Back</base>
+        <tran loc="ar">الخلف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Smart Copy/Paste"; ObjectID = "350"; </Description>
+      <Position>350.title</Position>
+      <TranslationSet>
+        <base loc="en">Smart Copy/Paste</base>
+        <tran loc="ar">النسخ/اللصق الذكي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Copy"; ObjectID = "197"; </Description>
+      <Position>197.title</Position>
+      <TranslationSet>
+        <base loc="en">Copy</base>
+        <tran loc="ar">نسخ</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Find"; ObjectID = "218"; </Description>
+      <Position>218.title</Position>
+      <TranslationSet>
+        <base loc="en">Find</base>
+        <tran loc="ar">بحث</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenu"; title = "Find"; ObjectID = "220"; </Description>
+      <Position>220.title</Position>
+      <TranslationSet>
+        <base loc="en">Find</base>
+        <tran loc="ar">بحث</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Format"; ObjectID = "375"; </Description>
+      <Position>375.title</Position>
+      <TranslationSet>
+        <base loc="en">Format</base>
+        <tran loc="ar">التنسيق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "macOS Installer"; ObjectID = "56"; </Description>
+      <Position>56.title</Position>
+      <TranslationSet>
+        <base loc="en">macOS Installer</base>
+        <tran loc="ar">مثبّت macOS</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenu"; title = "macOS Installer"; ObjectID = "57"; </Description>
+      <Position>57.title</Position>
+      <TranslationSet>
+        <base loc="en">macOS Installer</base>
+        <tran loc="ar">مثبّت macOS</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Substitutions"; ObjectID = "348"; </Description>
+      <Position>348.title</Position>
+      <TranslationSet>
+        <base loc="en">Substitutions</base>
+        <tran loc="ar">البدائل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenu"; title = "Substitutions"; ObjectID = "349"; </Description>
+      <Position>349.title</Position>
+      <TranslationSet>
+        <base loc="en">Substitutions</base>
+        <tran loc="ar">البدائل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Start Speaking"; ObjectID = "196"; </Description>
+      <Position>196.title</Position>
+      <TranslationSet>
+        <base loc="en">Start Speaking</base>
+        <tran loc="ar">بدء التكلم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Capitalize"; ObjectID = "466"; </Description>
+      <Position>466.title</Position>
+      <TranslationSet>
+        <base loc="en">Capitalize</base>
+        <tran loc="ar">الكتابة بأحرف كبيرة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Window"; ObjectID = "NQG-9N-Uyz"; </Description>
+      <Position>NQG-9N-Uyz.title</Position>
+      <TranslationSet>
+        <base loc="en">Window</base>
+        <tran loc="ar">نافذة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenu"; title = "Window"; ObjectID = "sJv-8r-jsz"; </Description>
+      <Position>sJv-8r-jsz.title</Position>
+      <TranslationSet>
+        <base loc="en">Window</base>
+        <tran loc="ar">نافذة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSWindow"; title = "OSInstaller"; ObjectID = "371"; </Description>
+      <Position>371.title</Position>
+      <TranslationSet>
+        <base loc="en">OSInstaller</base>
+        <tran loc="ar">OSInstaller</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Make Upper Case"; ObjectID = "452"; </Description>
+      <Position>452.title</Position>
+      <TranslationSet>
+        <base loc="en">Make Upper Case</base>
+        <tran loc="ar">تحويل إلى أحرف كبيرة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Select All"; ObjectID = "198"; </Description>
+      <Position>198.title</Position>
+      <TranslationSet>
+        <base loc="en">Select All</base>
+        <tran loc="ar">تحديد الكل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Cut"; ObjectID = "199"; </Description>
+      <Position>199.title</Position>
+      <TranslationSet>
+        <base loc="en">Cut</base>
+        <tran loc="ar">قص</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Smart Links"; ObjectID = "354"; </Description>
+      <Position>354.title</Position>
+      <TranslationSet>
+        <base loc="en">Smart Links</base>
+        <tran loc="ar">الروابط الذكية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Find…"; ObjectID = "209"; </Description>
+      <Position>209.title</Position>
+      <TranslationSet>
+        <base loc="en">Find…</base>
+        <tran loc="ar">بحث…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Quit macOS Installer"; ObjectID = "136"; </Description>
+      <Position>136.title</Position>
+      <TranslationSet>
+        <base loc="en">Quit macOS Installer</base>
+        <tran loc="ar">إنهاء مثبّت macOS</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenu"; title = "AMainMenu"; ObjectID = "29"; </Description>
+      <Position>29.title</Position>
+      <TranslationSet>
+        <base loc="en">AMainMenu</base>
+        <tran loc="ar">قائمة رئيسية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Check Spelling While Typing"; ObjectID = "219"; </Description>
+      <Position>219.title</Position>
+      <TranslationSet>
+        <base loc="en">Check Spelling While Typing</base>
+        <tran loc="ar">تدقيق إملائي أثناء الكتابة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Speech"; ObjectID = "211"; </Description>
+      <Position>211.title</Position>
+      <TranslationSet>
+        <base loc="en">Speech</base>
+        <tran loc="ar">التكلم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenu"; title = "Speech"; ObjectID = "212"; </Description>
+      <Position>212.title</Position>
+      <TranslationSet>
+        <base loc="en">Speech</base>
+        <tran loc="ar">التكلم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Make Lower Case"; ObjectID = "465"; </Description>
+      <Position>465.title</Position>
+      <TranslationSet>
+        <base loc="en">Make Lower Case</base>
+        <tran loc="ar">تحويل إلى أحرف صغيرة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Bring All to Front"; ObjectID = "KGw-tZ-UCo"; </Description>
+      <Position>KGw-tZ-UCo.title</Position>
+      <TranslationSet>
+        <base loc="en">Bring All to Front</base>
+        <tran loc="ar">إحضار الكل إلى الأمام</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Smart Dashes"; ObjectID = "460"; </Description>
+      <Position>460.title</Position>
+      <TranslationSet>
+        <base loc="en">Smart Dashes</base>
+        <tran loc="ar">شرط ذكية</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>OSInstaller/System/Installation/CDIS/macOS Installer.app/Contents/Resources/en.lproj/InfoPlist.strings</Filepath>
+    <TextItem>
+      <Description> Localized versions of Info.plist keys </Description>
+      <Position>NSHumanReadableCopyright</Position>
+      <TranslationSet>
+        <base loc="en">Copyright © 2012-2019 Apple Inc. All rights reserved.</base>
+        <tran loc="ar">‏Copyright © 2012-2019 Apple Inc.‎\nكافة الحقوق محفوظة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CFBundleName</Position>
+      <TranslationSet>
+        <base loc="en">macOS Installer</base>
+        <tran loc="ar">مثبّت macOS</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+</Proj>

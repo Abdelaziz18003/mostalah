@@ -1,0 +1,543 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Proj>
+  <ProjName>CalendarFoundation</ProjName>
+  <File>
+    <Filepath>CalendarFoundation/System/Library/PrivateFrameworks/CalendarFoundation.framework/en.lproj/Localizable.strings</Filepath>
+    <TextItem>
+      <Description> shortened version of minutes (unit of time) </Description>
+      <Position>min.</Position>
+      <TranslationSet>
+        <base loc="en">min.</base>
+        <tran loc="ar">د</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Title for event birthday (without a name or age) </Description>
+      <Position>Birthday</Position>
+      <TranslationSet>
+        <base loc="en">Birthday</base>
+        <tran loc="ar">عيد ميلاد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Display name for default 'purple' calendar color </Description>
+      <Position>Purple</Position>
+      <TranslationSet>
+        <base loc="en">Purple</base>
+        <tran loc="ar">أرجواني</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> date after today, but in next week ('next Thursday'). I'm not completely sure why we don't just say Next here. </Description>
+      <Position>This %@ (in next week)</Position>
+      <TranslationSet>
+        <base loc="en">This %@</base>
+        <tran loc="ar">هذا %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> date after today, but in this week ('this Friday') </Description>
+      <Position>This %@ (in this week)</Position>
+      <TranslationSet>
+        <base loc="en">This %@</base>
+        <tran loc="ar">هذا %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Duration and unit (one group) </Description>
+      <Position>%@ %@</Position>
+      <TranslationSet>
+        <base loc="en">%@ %@</base>
+        <tran loc="ar">‏%@ ‏%@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> String for specifying a localized time of zero minutes </Description>
+      <Position>%d minutes</Position>
+      <TranslationSet>
+        <base loc="en">%d minutes</base>
+        <tran loc="ar">‏%d من الدقائق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> %d is constant (1), One day before at some time </Description>
+      <Position>%d day before (%@)</Position>
+      <TranslationSet>
+        <base loc="en">%d day before (%@)</base>
+        <tran loc="ar">قبل يوم واحد (%d)، ‏(%@)</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Some time after </Description>
+      <Position>%@ after</Position>
+      <TranslationSet>
+        <base loc="en">%@ after</base>
+        <tran loc="ar">بعد %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> %d is constant (1), One week before </Description>
+      <Position>%d week before</Position>
+      <TranslationSet>
+        <base loc="en">%d week before</base>
+        <tran loc="ar">قبل أسبوع واحد (%d)</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Some number of days after at some time </Description>
+      <Position>%@ %@ after (%@)</Position>
+      <TranslationSet>
+        <base loc="en">%@ %@ after (%@)</base>
+        <tran loc="ar">‏%@ ‏%@ بعد (%@)</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>Tomorrow</Position>
+      <TranslationSet>
+        <base loc="en">Tomorrow</base>
+        <tran loc="ar">غدًا</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Title for event birthday in the Hebrew calendar (with a name, but no age).  </Description>
+      <Position>%@’s Hebrew Birthday</Position>
+      <TranslationSet>
+        <base loc="en">%@’s Hebrew Birthday</base>
+        <tran loc="ar">عيد ميلاد %@ بالتقويم العبري</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Alert some time after event starts </Description>
+      <Position>Alert %@ after start</Position>
+      <TranslationSet>
+        <base loc="en">Alert %@ after start</base>
+        <tran loc="ar">تنبيه %@ بعد البدء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Duration and unit (four groups) </Description>
+      <Position>%@ %@, %@ %@, %@ %@, %@ %@</Position>
+      <TranslationSet>
+        <base loc="en">%@ %@, %@ %@, %@ %@, %@ %@</base>
+        <tran loc="ar">‏%@ ‏%@، ‏%@ ‏%@، ‏%@ ‏%@، ‏%@ ‏%@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Duration and unit (two groups) </Description>
+      <Position>%@ %@, %@ %@</Position>
+      <TranslationSet>
+        <base loc="en">%@ %@, %@ %@</base>
+        <tran loc="ar">‏%@ ‏%@، ‏%@ ‏%@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> date prior to day, but in previous week ('last Monday') </Description>
+      <Position>last %@ (in previous week)</Position>
+      <TranslationSet>
+        <base loc="en">last %@</base>
+        <tran loc="ar">‏%@ الماضي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> prior day to today, but in this week ('this past Monday') </Description>
+      <Position>last %@ (in this week)</Position>
+      <TranslationSet>
+        <base loc="en">last %@</base>
+        <tran loc="ar">‏%@ الماضي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Display name for default 'orange' calendar color </Description>
+      <Position>Orange</Position>
+      <TranslationSet>
+        <base loc="en">Orange</base>
+        <tran loc="ar">برتقالي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> shortened form of the unit of time (hour) </Description>
+      <Position>hr.</Position>
+      <TranslationSet>
+        <base loc="en">hr.</base>
+        <tran loc="ar">س</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Plural form of the unit of time (second) </Description>
+      <Position>seconds</Position>
+      <TranslationSet>
+        <base loc="en">seconds</base>
+        <tran loc="ar">ث</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>Yesterday</Position>
+      <TranslationSet>
+        <base loc="en">Yesterday</base>
+        <tran loc="ar">أمس</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Title for birthday event (e.g. 'John Doe's 25th Birthday') - first %@ is name, second %@ is the localized age.  The age will be in the ordinal form (e.g. 25th) if the '1: ordinal | 0: cardinal' localized string is set to '1', otherwise it will be the cardinal form (e.g. 25). </Description>
+      <Position>%@’s %@ Birthday</Position>
+      <TranslationSet>
+        <base loc="en">%@’s %@ Birthday</base>
+        <tran loc="ar">عيد ميلاد %@ الـ %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Display name for default 'red' calendar color </Description>
+      <Position>Red</Position>
+      <TranslationSet>
+        <base loc="en">Red</base>
+        <tran loc="ar">أحمر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Some time before </Description>
+      <Position>%@ before</Position>
+      <TranslationSet>
+        <base loc="en">%@ before</base>
+        <tran loc="ar">قبل %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> The same day at some time </Description>
+      <Position>On day of event (%@)</Position>
+      <TranslationSet>
+        <base loc="en">On day of event (%@)</base>
+        <tran loc="ar">في يوم الحدث (%@)</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Title for event birthday in the Islamic calendar (with a name, but no age). </Description>
+      <Position>%@’s Islamic Birthday</Position>
+      <TranslationSet>
+        <base loc="en">%@’s Islamic Birthday</base>
+        <tran loc="ar">عيد ميلاد %@ بالتقويم الهجري</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Singular form of the unit of time (hour) </Description>
+      <Position>hour</Position>
+      <TranslationSet>
+        <base loc="en">hour</base>
+        <tran loc="ar">ساعة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> date prior to day, but in previous week ('last Monday') </Description>
+      <Position>Last %@ (in previous week)</Position>
+      <TranslationSet>
+        <base loc="en">Last %@</base>
+        <tran loc="ar">‏%@ الماضي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> prior day to today, but in this week ('this past Monday') </Description>
+      <Position>Last %@ (in this week)</Position>
+      <TranslationSet>
+        <base loc="en">Last %@</base>
+        <tran loc="ar">‏%@ الماضي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Leave this string as '1' if you'd like to use the ordinal number format (e.g. 25th) for the age in the birthday title event string (e.g. 'John Doe's 25th Birthday'). Change to '0' if you'd like to use the cardinal number form instead (e.g. 25). </Description>
+      <Position>1: ordinal | 0: cardinal</Position>
+      <TranslationSet>
+        <base loc="en">1</base>
+        <tran loc="ar">0</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>today</Position>
+      <TranslationSet>
+        <base loc="en">today</base>
+        <tran loc="ar">اليوم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Title for birthday event (e.g. 'John Doe's 25th Islamic Birthday') - first %@ is name, second %@ is the localized age.  The age will be in the ordinal form (e.g. 25th) if the '1: ordinal | 0: cardinal' localized string is set to '1', otherwise it will be the cardinal form (e.g. 25). </Description>
+      <Position>%@’s %@ Islamic Birthday</Position>
+      <TranslationSet>
+        <base loc="en">%@’s %@ Islamic Birthday</base>
+        <tran loc="ar">عيد ميلاد %@ الـ %@ بالتقويم الهجري</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Alert some time before event starts </Description>
+      <Position>Alert %@ before start</Position>
+      <TranslationSet>
+        <base loc="en">Alert %@ before start</base>
+        <tran loc="ar">تنبيه %@ قبل البدء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> An alert the same day at some time </Description>
+      <Position>Alert on day of event at %@</Position>
+      <TranslationSet>
+        <base loc="en">Alert on day of event at %@</base>
+        <tran loc="ar">تنبيه في يوم الحدث في %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Display name for default 'green' calendar color </Description>
+      <Position>Green</Position>
+      <TranslationSet>
+        <base loc="en">Green</base>
+        <tran loc="ar">أخضر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Alert some time after travel </Description>
+      <Position>Alert %@ after travel</Position>
+      <TranslationSet>
+        <base loc="en">Alert %@ after travel</base>
+        <tran loc="ar">تنبيه بعد %@ من السفر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> An alert one week before  </Description>
+      <Position>Alert %d week before</Position>
+      <TranslationSet>
+        <base loc="en">Alert %d week before</base>
+        <tran loc="ar">تنبيه قبل أسبوع واحد (%d)</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Display name for default 'brown' calendar color </Description>
+      <Position>Brown</Position>
+      <TranslationSet>
+        <base loc="en">Brown</base>
+        <tran loc="ar">بني</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Duration and unit (three groups) </Description>
+      <Position>%@ %@, %@ %@, %@ %@</Position>
+      <TranslationSet>
+        <base loc="en">%@ %@, %@ %@, %@ %@</base>
+        <tran loc="ar">‏%@ ‏%@، ‏%@ ‏%@، ‏%@ ‏%@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> date after today, but in next week ('next Thursday'). I'm not completely sure why we don't just say Next here. </Description>
+      <Position>this %@ (in next week)</Position>
+      <TranslationSet>
+        <base loc="en">this %@</base>
+        <tran loc="ar">هذا %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> date after today, but in this week ('this Friday') </Description>
+      <Position>this %@ (in this week)</Position>
+      <TranslationSet>
+        <base loc="en">this %@</base>
+        <tran loc="ar">هذا %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> An alert some number of days before at some time </Description>
+      <Position>Alert %@ %@ before at %@</Position>
+      <TranslationSet>
+        <base loc="en">Alert %@ %@ before at %@</base>
+        <tran loc="ar">تنبيه قبل %@ ‏%@ في %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Plural form of the unit of time (day) </Description>
+      <Position>days</Position>
+      <TranslationSet>
+        <base loc="en">days</base>
+        <tran loc="ar">أيام</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> shortened version of days (unit of time)... note: no shortening needed in English </Description>
+      <Position>shortened days</Position>
+      <TranslationSet>
+        <base loc="en">days</base>
+        <tran loc="ar">أيام</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Display name for default 'yellow' calendar color </Description>
+      <Position>Yellow</Position>
+      <TranslationSet>
+        <base loc="en">Yellow</base>
+        <tran loc="ar">أصفر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>Today</Position>
+      <TranslationSet>
+        <base loc="en">Today</base>
+        <tran loc="ar">اليوم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Plural form of the unit of time (second) </Description>
+      <Position>second</Position>
+      <TranslationSet>
+        <base loc="en">second</base>
+        <tran loc="ar">ث</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Title for birthday event (e.g. 'John Doe's 25th Hebrew Birthday') - first %@ is name, second %@ is the localized age.  The age will be in the ordinal form (e.g. 25th) if the '1: ordinal | 0: cardinal' localized string is set to '1', otherwise it will be the cardinal form (e.g. 25). </Description>
+      <Position>%@’s %@ Hebrew Birthday</Position>
+      <TranslationSet>
+        <base loc="en">%@’s %@ Hebrew Birthday</base>
+        <tran loc="ar">عيد ميلاد %@ الـ %@ بالتقويم العبري</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Plural form of the unit of time (hour) </Description>
+      <Position>hours</Position>
+      <TranslationSet>
+        <base loc="en">hours</base>
+        <tran loc="ar">س</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Plural form of the unit of time (minute) </Description>
+      <Position>minutes</Position>
+      <TranslationSet>
+        <base loc="en">minutes</base>
+        <tran loc="ar">د</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Format string representing a range of time, eg. '7AM to 9AM' (%@'s are localized formatted time strings) </Description>
+      <Position>Time range %@ to %@</Position>
+      <TranslationSet>
+        <base loc="en">%@ to %@</base>
+        <tran loc="ar">%@ إلى %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Title for birthday event (e.g. 'John Doe's 25th Chinese Birthday') - first %@ is name, second %@ is the localized age.  The age will be in the ordinal form (e.g. 25th) if the '1: ordinal | 0: cardinal' localized string is set to '1', otherwise it will be the cardinal form (e.g. 25). </Description>
+      <Position>%@’s %@ Chinese Birthday</Position>
+      <TranslationSet>
+        <base loc="en">%@’s %@ Chinese Birthday</base>
+        <tran loc="ar">عيد ميلاد %@ الـ %@ بالتقويم الصيني</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Title for event birthday in the Chinese calendar (with a name, but no age). </Description>
+      <Position>%@’s Chinese Birthday</Position>
+      <TranslationSet>
+        <base loc="en">%@’s Chinese Birthday</base>
+        <tran loc="ar">عيد ميلاد %@ بالتقويم الصيني</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> format for a time string which also specifies the time in another time zone, e.g. '6PM (9PM EST)' (first %@ is a localized time string, e.g. '6 PM', second %@ is a similar localized time string, but with a different time, e.g. '9 PM', and the third %@ is the clarifying time zone abbreviation, e.g. 'EST') </Description>
+      <Position>%@ (%@ %@)</Position>
+      <TranslationSet>
+        <base loc="en">%@ (%@ %@)</base>
+        <tran loc="ar">%@ (%@ %@)</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> %d is constant (1), An alert one day before at some time </Description>
+      <Position>Alert %d day before at %@</Position>
+      <TranslationSet>
+        <base loc="en">Alert %d day before at %@</base>
+        <tran loc="ar">تنبيه قبل يوم واحد (%d) عند %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> shortened version of hours (unit of time) </Description>
+      <Position>hrs.</Position>
+      <TranslationSet>
+        <base loc="en">hrs.</base>
+        <tran loc="ar">س</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Alert some time before travel </Description>
+      <Position>Alert %@ before travel</Position>
+      <TranslationSet>
+        <base loc="en">Alert %@ before travel</base>
+        <tran loc="ar">تنبيه قبل %@ من السفر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Singular form of the unit of time (day) </Description>
+      <Position>day</Position>
+      <TranslationSet>
+        <base loc="en">day</base>
+        <tran loc="ar">يوم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> shortened version of singular day (unit of time)... note: no shortening needed in English </Description>
+      <Position>shortened day</Position>
+      <TranslationSet>
+        <base loc="en">day</base>
+        <tran loc="ar">يوم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>tomorrow</Position>
+      <TranslationSet>
+        <base loc="en">tomorrow</base>
+        <tran loc="ar">غدًا</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> No comment provided by engineer. </Description>
+      <Position>yesterday</Position>
+      <TranslationSet>
+        <base loc="en">yesterday</base>
+        <tran loc="ar">أمس</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> An alert some number of days after at some time </Description>
+      <Position>Alert %@ %@ after at %@</Position>
+      <TranslationSet>
+        <base loc="en">Alert %@ %@ after at %@</base>
+        <tran loc="ar">تنبيه بعد %@ ‏%@ في %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Title for event birthday (with a name, but no age) </Description>
+      <Position>%@’s Birthday</Position>
+      <TranslationSet>
+        <base loc="en">%@’s Birthday</base>
+        <tran loc="ar">عيد ميلاد %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Some number of days before at some time </Description>
+      <Position>%@ %@ before (%@)</Position>
+      <TranslationSet>
+        <base loc="en">%@ %@ before (%@)</base>
+        <tran loc="ar">قبل %@ ‏%@ ‏(%@)</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Singular form of the unit of time (minute) </Description>
+      <Position>minute</Position>
+      <TranslationSet>
+        <base loc="en">minute</base>
+        <tran loc="ar">د</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Display name for default 'blue' calendar color </Description>
+      <Position>Blue</Position>
+      <TranslationSet>
+        <base loc="en">Blue</base>
+        <tran loc="ar">أزرق</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+</Proj>

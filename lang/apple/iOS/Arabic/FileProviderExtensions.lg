@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Proj>
+  <ProjName>FileProviderExtensions</ProjName>
+  <File>
+    <Filepath>FileProviderExtensions/System/Library/Frameworks/FileProvider.framework/PlugIns/LocalStorageFileProvider.appex/en.lproj/InfoPlist.strings</Filepath>
+    <TextItem>
+      <Description> 
+  InfoPlist.strings
+  FileProvider
+
+  Created by Johannes Fortmann on 3/20/19.
+  Copyright © 2019 Apple Inc. All rights reserved.
+
+ Footer shown for locally available space; parameter is bytecount formatted amount in file-style </Description>
+      <Position>%@ available</Position>
+      <TranslationSet>
+        <base loc="en">%@ available</base>
+        <tran loc="ar">يتوفر %@</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+</Proj>

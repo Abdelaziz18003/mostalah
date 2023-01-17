@@ -1,0 +1,462 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Proj>
+  <ProjName>DiscRecordingAutomatorActions</ProjName>
+  <File>
+    <Filepath>DiscRecordingAutomatorActions/System/Library/Automator/Burn A Disc.action/Contents/Resources/en.lproj/Localizable.strings</Filepath>
+    <TextItem>
+      <Description> Alert buttons </Description>
+      <Position>Cancel</Position>
+      <TranslationSet>
+        <base loc="en">Cancel</base>
+        <tran loc="ar">إلغاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Alert messages </Description>
+      <Position>InsertBlank</Position>
+      <TranslationSet>
+        <base loc="en">Please insert a blank disc with a capacity of at least %@</base>
+        <tran loc="ar">الرجاء إدخال قرص فارغ بسعة %@ على الأقل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>%.1f GB</Position>
+      <TranslationSet>
+        <base loc="en">%.0f GB</base>
+        <tran loc="ar">%.0f غ.ب.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Error messages </Description>
+      <Position>InsufficientDrive</Position>
+      <TranslationSet>
+        <base loc="en">The drive you chose can’t burn this much data.</base>
+        <tran loc="ar">لا يمكن لمحرك الأقراص المختار نسخ هذا الكم من البيانات.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Default name of the disc when not specified </Description>
+      <Position>My Disc</Position>
+      <TranslationSet>
+        <base loc="en">My Disc</base>
+        <tran loc="ar">القرص الخاص بي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Capacities </Description>
+      <Position>%.0f MB</Position>
+      <TranslationSet>
+        <base loc="en">%.0f MB</base>
+        <tran loc="ar">%.0f م.ب.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>InsertBurned</Position>
+      <TranslationSet>
+        <base loc="en">Please insert a blank or erasable disc with a capacity of at least %@.</base>
+        <tran loc="ar">الرجاء إدخال قرص فارغ أو قابل للمسح بسعة %@ على الأقل.</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>DiscRecordingAutomatorActions/System/Library/Automator/Burn A Disc.action/Contents/Resources/en.lproj/main.strings</Filepath>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Erase first"; ObjectID = "100054"; </Description>
+      <Position>100054.title</Position>
+      <TranslationSet>
+        <base loc="en">Erase first</base>
+        <tran loc="ar">مسح أولاً</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; ibShadowedToolTip = "Select to eject the disc from the drive when the burn completes."; ObjectID = "65"; </Description>
+      <Position>65.ibShadowedToolTip</Position>
+      <TranslationSet>
+        <base loc="en">Select to eject the disc from the drive when the burn completes.</base>
+        <tran loc="ar">تحديد لإخراج القرص من محرك الأقراص عند اكتمال عملية النسخ.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButton"; ibShadowedToolTip = "Select to double-check the data written to disc."; ObjectID = "69"; </Description>
+      <Position>69.ibShadowedToolTip</Position>
+      <TranslationSet>
+        <base loc="en">Select to double-check the data written to disc.</base>
+        <tran loc="ar">قم بالتحديد للتأكد مرة أخرى من البيانات مكتوبة على القرص.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Burn Disc In:"; ObjectID = "100053"; </Description>
+      <Position>100053.title</Position>
+      <TranslationSet>
+        <base loc="en">Burn Disc In:</base>
+        <tran loc="ar">إنشاء القرص في:</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "After Burning"; ObjectID = "100070"; </Description>
+      <Position>100070.title</Position>
+      <TranslationSet>
+        <base loc="en">After Burning</base>
+        <tran loc="ar">بعد إنشاء القرص</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Eject Disc"; ObjectID = "65"; </Description>
+      <Position>65.title</Position>
+      <TranslationSet>
+        <base loc="en">Eject Disc</base>
+        <tran loc="ar">إخراج قرص</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Verify burned data"; ObjectID = "100069"; </Description>
+      <Position>100069.title</Position>
+      <TranslationSet>
+        <base loc="en">Verify burned data</base>
+        <tran loc="ar">تحقق من صحة البيانات المنسوخة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Mount on Desktop"; ObjectID = "63"; </Description>
+      <Position>63.title</Position>
+      <TranslationSet>
+        <base loc="en">Mount on Desktop</base>
+        <tran loc="ar">تحميل على سطح المكتب</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Disc Name:"; ObjectID = "100040"; </Description>
+      <Position>100040.title</Position>
+      <TranslationSet>
+        <base loc="en">Disc Name:</base>
+        <tran loc="ar">اسم القرص:</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; ibShadowedToolTip = "Select to mount the disc on the desktop when the burn completes."; ObjectID = "63"; </Description>
+      <Position>63.ibShadowedToolTip</Position>
+      <TranslationSet>
+        <base loc="en">Select to mount the disc on the desktop when the burn completes.</base>
+        <tran loc="ar">تحديد لتحميل القرص على سطح المكتب عند اكتمال عملية النسخ.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Switch"; ObjectID = "100064"; </Description>
+      <Position>100064.title</Position>
+      <TranslationSet>
+        <base loc="en">Switch</base>
+        <tran loc="ar">تبديل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextField"; ibShadowedToolTip = "Name used to title the burned disc."; ObjectID = "39"; </Description>
+      <Position>39.ibShadowedToolTip</Position>
+      <TranslationSet>
+        <base loc="en">Name used to title the burned disc.</base>
+        <tran loc="ar">الاسم المستخدم في عنونة القرص الذي يتم نسخه.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButton"; ibShadowedToolTip = "Select to erase RW media prior to burning."; ObjectID = "54"; </Description>
+      <Position>54.ibShadowedToolTip</Position>
+      <TranslationSet>
+        <base loc="en">Select to erase RW media prior to burning.</base>
+        <tran loc="ar">قم بالتحديد لمسح وسائط RW قبل النسخ.</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>DiscRecordingAutomatorActions/System/Library/Automator/Burn A Disc.action/Contents/Resources/en.lproj/InfoPlist.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>AMDSummary</Position>
+      <TranslationSet>
+        <base loc="en">This action creates a CD or DVD containing the files and folders passed in from the previous action.</base>
+        <tran loc="ar">يقوم هذا الإجراء بإنشاء قرص CD أو قرص DVD يحتوي على الملفات والمجلدات التي تم تمريرها من الإجراء السابق.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AMDOptions</Position>
+      <TranslationSet>
+        <base loc="en">Name the disc, append today's date to the disc name, choose the device to use.</base>
+        <tran loc="ar">تحديد اسم القرص، إلحاق تاريخ اليوم باسم القرص، اختيار الجهاز المراد استخدامه.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> AMKeywords </Description>
+      <Position>CD</Position>
+      <TranslationSet>
+        <base loc="en">CD</base>
+        <tran loc="ar">CD</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Burn</Position>
+      <TranslationSet>
+        <base loc="en">Burn</base>
+        <tran loc="ar">إنشاء قرص</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Localized versions of Info.plist keys </Description>
+      <Position>CFBundleName</Position>
+      <TranslationSet>
+        <base loc="en">BurnADisc</base>
+        <tran loc="ar">BurnADisc</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AMName</Position>
+      <TranslationSet>
+        <base loc="en">Burn a Disc</base>
+        <tran loc="ar">إنشاء قرص</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>Folder</Position>
+      <TranslationSet>
+        <base loc="en">Folder</base>
+        <tran loc="ar">مجلد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AMDInput</Position>
+      <TranslationSet>
+        <base loc="en">Files and folders passed from the previous action.</base>
+        <tran loc="ar">الملفات والمجلدات التي تم تمريرها من الإجراء السابق.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AMDResult</Position>
+      <TranslationSet>
+        <base loc="en">Files and folders passed from the previous action.</base>
+        <tran loc="ar">الملفات والمجلدات التي تم تمريرها من الإجراء السابق.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>File</Position>
+      <TranslationSet>
+        <base loc="en">File</base>
+        <tran loc="ar">ملف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DVD</Position>
+      <TranslationSet>
+        <base loc="en">DVD</base>
+        <tran loc="ar">قرص DVD</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AMDRequires</Position>
+      <TranslationSet>
+        <base loc="en">A drive capable of burning and a blank disc.</base>
+        <tran loc="ar">محرك أقراص قادر على الإنشاء وقرص فارغ.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>title</Position>
+      <TranslationSet>
+        <base loc="en">My Disc</base>
+        <tran loc="ar">القرص الخاص بي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> AMCategory </Description>
+      <Position>Utility</Position>
+      <TranslationSet>
+        <base loc="en">Utility</base>
+        <tran loc="ar">أداة مساعدة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>NSHumanReadableCopyright</Position>
+      <TranslationSet>
+        <base loc="en">Copyright (c) 2004-2012 Apple Inc.  All Rights Reserved.</base>
+        <tran loc="ar">‏‎Copyright (c) 2004-2012 Apple Inc.‎\n‏ كافة الحقوق محفوظة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> AMApplication </Description>
+      <Position>System</Position>
+      <TranslationSet>
+        <base loc="en">System</base>
+        <tran loc="ar">النظام</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>DiscRecordingAutomatorActions/System/Library/Automator/Burn A Disc.action/Contents/Resources/en.lproj/devicePrompt.strings</Filepath>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "OK"; ObjectID = "100009"; </Description>
+      <Position>100009.title</Position>
+      <TranslationSet>
+        <base loc="en">OK</base>
+        <tran loc="ar">موافق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Cancel"; ObjectID = "100010"; </Description>
+      <Position>100010.title</Position>
+      <TranslationSet>
+        <base loc="en">Cancel</base>
+        <tran loc="ar">إلغاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "The device you selected cannot be found, please choose another device:"; ObjectID = "100007"; </Description>
+      <Position>100007.title</Position>
+      <TranslationSet>
+        <base loc="en">The device you selected cannot be found, please choose another device:</base>
+        <tran loc="ar">يتعذر العثور على الجهاز الذي قمت بتحديده، الرجاء اختيار جهاز آخر:</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>DiscRecordingAutomatorActions/System/Library/Automator/Burn A Disc.action/Contents/Resources/English.lproj/devicePrompt.strings</Filepath>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "OK"; ObjectID = "100009"; </Description>
+      <Position>100009.title</Position>
+      <TranslationSet>
+        <base loc="en">OK</base>
+        <tran loc="ar">موافق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Cancel"; ObjectID = "100010"; </Description>
+      <Position>100010.title</Position>
+      <TranslationSet>
+        <base loc="en">Cancel</base>
+        <tran loc="ar">إلغاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "The device you selected cannot be found, please choose another device:"; ObjectID = "100007"; </Description>
+      <Position>100007.title</Position>
+      <TranslationSet>
+        <base loc="en">The device you selected cannot be found, please choose another device:</base>
+        <tran loc="ar">يتعذر العثور على الجهاز الذي قمت بتحديده، الرجاء اختيار جهاز آخر:</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>DiscRecordingAutomatorActions/System/Library/Automator/Burn A Disc.action/Contents/Resources/English.lproj/main.strings</Filepath>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Erase first"; ObjectID = "100054"; </Description>
+      <Position>100054.title</Position>
+      <TranslationSet>
+        <base loc="en">Erase first</base>
+        <tran loc="ar">مسح أولاً</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; ibShadowedToolTip = "Select to eject the disc from the drive when the burn completes."; ObjectID = "65"; </Description>
+      <Position>65.ibShadowedToolTip</Position>
+      <TranslationSet>
+        <base loc="en">Select to eject the disc from the drive when the burn completes.</base>
+        <tran loc="ar">تحديد لإخراج القرص من محرك الأقراص عند اكتمال عملية النسخ.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButton"; ibShadowedToolTip = "Select to double-check the data written to disc."; ObjectID = "69"; </Description>
+      <Position>69.ibShadowedToolTip</Position>
+      <TranslationSet>
+        <base loc="en">Select to double-check the data written to disc.</base>
+        <tran loc="ar">قم بالتحديد للتأكد مرة أخرى من البيانات مكتوبة على القرص.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Burn Disc In:"; ObjectID = "100053"; </Description>
+      <Position>100053.title</Position>
+      <TranslationSet>
+        <base loc="en">Burn Disc In:</base>
+        <tran loc="ar">إنشاء القرص في:</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "After Burning"; ObjectID = "100070"; </Description>
+      <Position>100070.title</Position>
+      <TranslationSet>
+        <base loc="en">After Burning</base>
+        <tran loc="ar">بعد إنشاء القرص</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Eject Disc"; ObjectID = "65"; </Description>
+      <Position>65.title</Position>
+      <TranslationSet>
+        <base loc="en">Eject Disc</base>
+        <tran loc="ar">إخراج قرص</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Verify burned data"; ObjectID = "100069"; </Description>
+      <Position>100069.title</Position>
+      <TranslationSet>
+        <base loc="en">Verify burned data</base>
+        <tran loc="ar">تحقق من صحة البيانات المنسوخة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Mount on Desktop"; ObjectID = "63"; </Description>
+      <Position>63.title</Position>
+      <TranslationSet>
+        <base loc="en">Mount on Desktop</base>
+        <tran loc="ar">تحميل على سطح المكتب</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Disc Name:"; ObjectID = "100040"; </Description>
+      <Position>100040.title</Position>
+      <TranslationSet>
+        <base loc="en">Disc Name:</base>
+        <tran loc="ar">اسم القرص:</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; ibShadowedToolTip = "Select to mount the disc on the desktop when the burn completes."; ObjectID = "63"; </Description>
+      <Position>63.ibShadowedToolTip</Position>
+      <TranslationSet>
+        <base loc="en">Select to mount the disc on the desktop when the burn completes.</base>
+        <tran loc="ar">تحديد لتحميل القرص على سطح المكتب عند اكتمال عملية النسخ.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Switch"; ObjectID = "100064"; </Description>
+      <Position>100064.title</Position>
+      <TranslationSet>
+        <base loc="en">Switch</base>
+        <tran loc="ar">تبديل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextField"; ibShadowedToolTip = "Name used to title the burned disc."; ObjectID = "39"; </Description>
+      <Position>39.ibShadowedToolTip</Position>
+      <TranslationSet>
+        <base loc="en">Name used to title the burned disc.</base>
+        <tran loc="ar">الاسم المستخدم في عنونة القرص الذي يتم نسخه.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButton"; ibShadowedToolTip = "Select to erase RW media prior to burning."; ObjectID = "54"; </Description>
+      <Position>54.ibShadowedToolTip</Position>
+      <TranslationSet>
+        <base loc="en">Select to erase RW media prior to burning.</base>
+        <tran loc="ar">قم بالتحديد لمسح وسائط RW قبل النسخ.</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+</Proj>

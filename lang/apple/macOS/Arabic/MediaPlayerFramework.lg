@@ -1,0 +1,1080 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Proj>
+  <ProjName>MediaPlayerFramework</ProjName>
+  <File>
+    <Filepath>MediaPlayerFramework/System/Library/Frameworks/MediaPlayer.framework/Versions/A/Resources/en.lproj/MediaPlayer.strings</Filepath>
+    <TextItem>
+      <Description> Automatically enable a subtitle in the system language if the audio language is not the system language </Description>
+      <Position>AUTO_SUBTITLES</Position>
+      <TranslationSet>
+        <base loc="en">Auto (Recommended)</base>
+        <tran loc="ar">تلقائي (مستحسن)</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ENABLE_CLOUD_LIBRARY_FAILED_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">iCloud Music Library couldn’t be enabled.</base>
+        <tran loc="ar">تعذر تمكين مكتبة موسيقى iCloud.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ENABLE_CLOUD_LIBRARY_FAILED_TOO_MANY_ITEMS_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">iCloud Music Library couldn’t be enabled.</base>
+        <tran loc="ar">تعذر تمكين مكتبة موسيقى iCloud.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AIRTUNES_PASSWORD_ALERT_PLACEHOLDER</Position>
+      <TranslationSet>
+        <base loc="en">password</base>
+        <tran loc="ar">كلمة السر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ROUTING_SPEAKER_HIJACK_NAG_MULTITASK_TV_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Replace what is playing on this TV?</base>
+        <tran loc="ar">هل تود استبدال ما يجري تشغيله على هذا التلفاز؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ROUTING_SPEAKER_HIJACK_INTERRUPT_LOCAL_MULTITASK_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Interrupt what is playing on “%@”?</base>
+        <tran loc="ar">هل تود مقاطعة ما يجري تشغيله على \"%@\"؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SUBTITLES_2013</Position>
+      <TranslationSet>
+        <base loc="en">SUBTITLES &amp; CC</base>
+        <tran loc="ar">الترجمة المصاحبة ونص الحوار</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AIRPLAY_MIRRORING_OFF_ACTION_IPAD</Position>
+      <TranslationSet>
+        <base loc="en">iPad (AirPlay Mirroring Off)</base>
+        <tran loc="ar">‏iPad (إيقاف انعكاس AirPlay)</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Unknown playback time duration </Description>
+      <Position>UNKNOWN_DURATION</Position>
+      <TranslationSet>
+        <base loc="en">--:--</base>
+        <tran loc="ar">--:--</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AIRPLAY_MIRRORING_IPAD_DESCRIPTION</Position>
+      <TranslationSet>
+        <base loc="en">With AirPlay Mirroring you can send everything on your iPad’s display to an Apple TV, wirelessly.</base>
+        <tran loc="ar">باستخدام انعكاس AirPlay، يمكنك إرسال كل شيء على شاشة الـ iPad الخاص بك إلى Apple TV لاسلكيًا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>GENIUS_PICKER_NO_RESULTS_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Try Again</base>
+        <tran loc="ar">محاولة مرة أخرى</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> e.g. "L: 90%  R: 42%", note double space </Description>
+      <Position>AIRPLAY_DEVICE_BATTERY_LEVEL_COMBINED_FORMAT_%@_%@</Position>
+      <TranslationSet>
+        <base loc="en">L: %1$@  R: %2$@</base>
+        <tran loc="ar">يمين: %1$@  يسار: %2$@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AIRPLAY_MIRRORING_OFF_ACTION_IPOD</Position>
+      <TranslationSet>
+        <base loc="en">iPod (AirPlay Mirroring Off)</base>
+        <tran loc="ar">‏iPod (إيقاف انعكاس AirPlay)</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Used to center-truncate route names: "Livi…Room" instead of Living Room </Description>
+      <Position>ROUTE_NAME_CENTER_TRUNCATING_SEPARATOR</Position>
+      <TranslationSet>
+        <base loc="en">…</base>
+        <tran loc="ar">…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SEASON_DISPLAY_FORMAT_%@</Position>
+      <TranslationSet>
+        <base loc="en">Season %@</base>
+        <tran loc="ar">الموسم %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AUDIO_AND_SUBTITLES_POPOVER_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Audio &amp; Subtitles</base>
+        <tran loc="ar">الصوت والترجمة المصاحبة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> B188 battery level (left bud) </Description>
+      <Position>AIRPLAY_DEVICE_BATTERY_LEVEL_LEFT_FORMAT_%@</Position>
+      <TranslationSet>
+        <base loc="en">L: %@</base>
+        <tran loc="ar">يسار: %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Shown next to the name of a radio station, such as "Pure Pop" + "Radio" </Description>
+      <Position>RADIO_LABEL</Position>
+      <TranslationSet>
+        <base loc="en">Radio</base>
+        <tran loc="ar">راديو</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AIRTUNES_POPOVER_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">AirPlay</base>
+        <tran loc="ar">AirPlay</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AIRTUNES_VIDEO_ALERT_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">AirPlay</base>
+        <tran loc="ar">AirPlay</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AIRTUNES_VIDEO_POPOVER_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">AirPlay</base>
+        <tran loc="ar">AirPlay</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AIRTUNES_PASSWORD_ALERT_MESSAGE_FORMAT_%@</Position>
+      <TranslationSet>
+        <base loc="en">Enter the password for “%@”</base>
+        <tran loc="ar">إدخال كلمة سر \"%@\"</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ENABLE_CLOUD_LIBRARY_FAILED_TOO_MANY_ITEMS_MESSAGE_IPHONE</Position>
+      <TranslationSet>
+        <base loc="en">Merging your Libraries would put you over the song limit. Delete songs from this iPhone and try again, or delete and replace this Library with your iCloud Music Library.</base>
+        <tran loc="ar">دمج المكتبات سيؤدي إلى تجاوز الحد المسموح به لعدد الأغاني. احذف أغاني من هذا الـ iPhone وحاول مرة أخرى أو اختر حذف هذه المكتبة واستبدالها بمكتبة موسيقى iCloud.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DONE</Position>
+      <TranslationSet>
+        <base loc="en">Done</base>
+        <tran loc="ar">تم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PROGRESS_TIME_FULL_WIDTH_NO_HOURS_FORMAT_%@_%d_%d</Position>
+      <TranslationSet>
+        <base loc="en">%@%02d:%02d</base>
+        <tran loc="ar">%@%02d:%02d</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>HDCP_PROTECTION_ERROR_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Cannot Play Movie</base>
+        <tran loc="ar">لا يمكن تشغيل الفيلم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> B188 battery level (right bud) </Description>
+      <Position>AIRPLAY_DEVICE_BATTERY_LEVEL_RIGHT_FORMAT_%@</Position>
+      <TranslationSet>
+        <base loc="en">R: %@</base>
+        <tran loc="ar">‏يمين: %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>QUARTER_SPEED_SCRUBBING</Position>
+      <TranslationSet>
+        <base loc="en">Quarter-Speed Scrubbing</base>
+        <tran loc="ar">تحريك بربع السرعة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AIRPLAY_MIRRORING_COMPACT_DESCRIPTION_IPHONE</Position>
+      <TranslationSet>
+        <base loc="en">Mirror your iPhone on an Apple TV.</base>
+        <tran loc="ar">عرض انعكاسي لمحتويات الـ iPhone على Apple TV.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ROUTING_VIEW_HEADER_SPEAKERS_AND_TVS</Position>
+      <TranslationSet>
+        <base loc="en">SPEAKERS &amp; TVs</base>
+        <tran loc="ar">السماعات وأجهزة التلفاز</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>GENERIC_COULD_NOT_LOAD_MOVIE</Position>
+      <TranslationSet>
+        <base loc="en">Could not load movie</base>
+        <tran loc="ar">تعذر تحميل الفيلم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>EXPLICIT_CONTENT_NOT_ALLOWED_ENABLE_EXPLICIT_BUTTON_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Allow Explicit</base>
+        <tran loc="ar">السماح بالمحتوى الفاضح</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ROUTING_VIEW_SHARE_AUDIO_DISABLED_CARPLAY</Position>
+      <TranslationSet>
+        <base loc="en">Not available in CarPlay</base>
+        <tran loc="ar">غير متوفرة في CarPlay</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>NOT_SUPPORTED</Position>
+      <TranslationSet>
+        <base loc="en">The requested action is not supported</base>
+        <tran loc="ar">الإجراء المطلوب غير مدعوم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ROUTING_SPEAKER_HIJACK_NAG_MULTITASK_TV_MESSAGE</Position>
+      <TranslationSet>
+        <base loc="en">Selecting this TV will pause what it is currently playing and play the selected content.</base>
+        <tran loc="ar">سيؤدي اختيار هذا التلفاز لإيقاف ما يجري تشغيله حاليًا مؤقتًا وتشغيل المحتوى المحدد.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> %d of %d </Description>
+      <Position>POSITION_IN_PLAYLIST_FORMAT_%@_%@</Position>
+      <TranslationSet>
+        <base loc="en">%1$@ of %2$@</base>
+        <tran loc="ar">%1$@ من %2$@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>EXPLICIT_CONTENT_NOT_ALLOWED_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Explicit Content</base>
+        <tran loc="ar">محتوى فاضح</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ROUTING_SPEAKER_HIJACK_INTERRUPT_LOCAL_MULTITASK_MESSAGE</Position>
+      <TranslationSet>
+        <base loc="en">Using AirPlay in “%@” will pause what “%@“ is currently playing.</base>
+        <tran loc="ar">سيؤدي استخدام AirPlay في \"%@\" للإيقاف المؤقت لما يشغله \"%@\" حاليًا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>FINE_SCRUBBING</Position>
+      <TranslationSet>
+        <base loc="en">Fine Scrubbing</base>
+        <tran loc="ar">تحريك دقيق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>GENIUS_PLAYLIST_OFFLINE_SUBTITLE_WIFI</Position>
+      <TranslationSet>
+        <base loc="en">Connect to a Wi-Fi network to create a Genius Playlist.</base>
+        <tran loc="ar">اتصل بشبكة Wi-Fi لإنشاء قائمة تشغيل Genius.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AIRPLAY_MIRRORING_COMPACT_DESCRIPTION_IPOD</Position>
+      <TranslationSet>
+        <base loc="en">Mirror your iPod on an Apple TV.</base>
+        <tran loc="ar">عرض انعكاسي لمحتويات الـ iPod على Apple TV.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>OK</Position>
+      <TranslationSet>
+        <base loc="en">OK</base>
+        <tran loc="ar">موافق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> iPhone → HomePod </Description>
+      <Position>ROUTE_NAME_ARROW_FORMAT</Position>
+      <TranslationSet>
+        <base loc="en">%@ → %@</base>
+        <tran loc="ar">‏%@ ← ‏%@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ENABLE_CLOUD_LIBRARY_FAILED_TOO_MANY_ITEMS_MESSAGE_IPOD</Position>
+      <TranslationSet>
+        <base loc="en">Merging your Libraries would put you over the song limit. Delete songs from this iPod and try again, or delete and replace this Library with your iCloud Music Library.</base>
+        <tran loc="ar">دمج المكتبات سيؤدي إلى تجاوز الحد المسموح به لعدد الأغاني. احذف أغاني من هذا الـ iPod وحاول مرة أخرى أو اختر حذف هذه المكتبة واستبدالها بمكتبة موسيقى iCloud.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>VIEW</Position>
+      <TranslationSet>
+        <base loc="en">View</base>
+        <tran loc="ar">عرض</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> generic wireless audio device battery level </Description>
+      <Position>AIRPLAY_DEVICE_BATTERY_LEVEL_SINGLE_FORMAT_%@</Position>
+      <TranslationSet>
+        <base loc="en">Battery: %@</base>
+        <tran loc="ar">البطارية: %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> indicates closed captioned </Description>
+      <Position>CC_SUBTITLE_FORMAT_%@</Position>
+      <TranslationSet>
+        <base loc="en">%@ CC</base>
+        <tran loc="ar">‏%@ الشرح المكتوب لأحداث العرض</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AIRPLAY_NO_ROUTES_AVAILABLE_LABEL</Position>
+      <TranslationSet>
+        <base loc="en">No Routes Available</base>
+        <tran loc="ar">لا توجد نتائج متوفرة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Used to turn off mirroring and switch route back to local device. </Description>
+      <Position>AIRPLAY_MIRRORING_OFF_ACTION_IPHONE</Position>
+      <TranslationSet>
+        <base loc="en">iPhone (AirPlay Mirroring Off)</base>
+        <tran loc="ar">‏iPhone (إيقاف انعكاس AirPlay)</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CANCEL</Position>
+      <TranslationSet>
+        <base loc="en">Cancel</base>
+        <tran loc="ar">إلغاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>GENIUS_MIX_OFFLINE</Position>
+      <TranslationSet>
+        <base loc="en">Offline</base>
+        <tran loc="ar">غير متصل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AIRPLAY_MIRRORING_COMPACT_DESCRIPTION_IPAD</Position>
+      <TranslationSet>
+        <base loc="en">Mirror your iPad on an Apple TV.</base>
+        <tran loc="ar">عرض انعكاسي لمحتويات الـ iPad على Apple TV.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ROUTING_VIEW_SHARE_AUDIO_DISABLED_CARKIT_SAME_OWNER</Position>
+      <TranslationSet>
+        <base loc="en">Sharing audio with more than one user is not available while connected to car Bluetooth.</base>
+        <tran loc="ar">ميزة مشاركة الصوت مع أكثر من شخص غير متوفرة أثناء الاتصال بـ Bluetooth السيارة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DETAIL_SCRUB_INSTRUCTIONS</Position>
+      <TranslationSet>
+        <base loc="en">Slide your finger down to adjust the scrubbing rate.</base>
+        <tran loc="ar">مرر إصبعك لأسفل لضبط سرعة التحريك.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>GENIUS_PLAYLIST_OFFLINE_SUBTITLE_WLAN</Position>
+      <TranslationSet>
+        <base loc="en">Connect to a WLAN to create a Genius Playlist.</base>
+        <tran loc="ar">اتصل بشبكة WLAN لإنشاء قائمة تشغيل Genius.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>EXPLICIT_CONTENT_NOT_ALLOWED_DUE_TO_RESTRICTIONS_%@</Position>
+      <TranslationSet>
+        <base loc="en">Explicit content is restricted on this %@.</base>
+        <tran loc="ar">المحتوى الفاضح مقيد على %@.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PROGRESS_TIME_SHORT_WIDTH_HOURS_FORMAT_%@_%d_%d_%d</Position>
+      <TranslationSet>
+        <base loc="en">%@%d:%02d:%02d</base>
+        <tran loc="ar">%@%d:%02d:%02d</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AIRPLAY_MIRRORING_IPHONE_DESCRIPTION</Position>
+      <TranslationSet>
+        <base loc="en">With AirPlay Mirroring you can send everything on your iPhone’s display to an Apple TV, wirelessly.</base>
+        <tran loc="ar">باستخدام انعكاس AirPlay، يمكنك إرسال كل شيء على شاشة الـ iPhone الخاص بك إلى Apple TV لاسلكيًا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>HDCP_PROTECTION_ERROR_BODY</Position>
+      <TranslationSet>
+        <base loc="en">The connected display is not authorized to play protected movies.</base>
+        <tran loc="ar">العرض المتصل غير مصرح له بتشغيل الأفلام المحمية.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ROUTING_SPEAKER_HIJACK_NAG_MULTITASK_SPEAKER_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Replace what is playing on this speaker?</base>
+        <tran loc="ar">هل تود استبدال ما تستمع إليه على هذه السماعة؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>NOT_FOUND</Position>
+      <TranslationSet>
+        <base loc="en">The requested ID could not be found</base>
+        <tran loc="ar">تعذر العثور على المعرّف المطلوب</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>GENIUS_FEATURE_NOT_AVAILABLE_SUBTITLE</Position>
+      <TranslationSet>
+        <base loc="en">Genius Playlists are not enabled.\nUse iTunes to enable Genius Playlists.</base>
+        <tran loc="ar">لم يتم تمكين قوائم Genius.\nاستخدم iTunes لتمكين قوائم تشغيل Genius.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AIRTUNES_VIDEO_PLACEHOLDER_SUBTITLE_FORMAT_%@</Position>
+      <TranslationSet>
+        <base loc="en">This video is playing on “%@”.</base>
+        <tran loc="ar">هذا الفيديو قيد التشغيل على \"%@\".</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PROGRESS_TIME_ALT_SHORT_WIDTH_HOURS_FORMAT_%@_%d_%d</Position>
+      <TranslationSet>
+        <base loc="en">%@%d:%02dh</base>
+        <tran loc="ar">%@%d:%02d ساعة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>NO_VOLUME_AVAILABLE</Position>
+      <TranslationSet>
+        <base loc="en">No Volume Available</base>
+        <tran loc="ar">لا يتوفر أي مستوى للصوت</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>GENIUS_PLAYLIST_OFFLINE_SUBTITLE_CELLULAR</Position>
+      <TranslationSet>
+        <base loc="en">Connect to a cellular network to create a Genius Playlist.</base>
+        <tran loc="ar">اتصل بالشبكة الخلوية لإنشاء قائمة تشغيل Genius.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AIRPLAY_MIRRORING_ENABLED_LABEL</Position>
+      <TranslationSet>
+        <base loc="en">Mirroring</base>
+        <tran loc="ar">انعكاس</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Live streaming </Description>
+      <Position>LIVE</Position>
+      <TranslationSet>
+        <base loc="en">Live</base>
+        <tran loc="ar">مباشر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Currently only used by CarPlay. </Description>
+      <Position>FOR_YOU_PERSONAL_MIXES_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Personal Mixes</base>
+        <tran loc="ar">المزيج الشخصي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Speaker contention </Description>
+      <Position>ROUTING_SPEAKER_HIJACK_NAG_CONFIRM</Position>
+      <TranslationSet>
+        <base loc="en">Replace</base>
+        <tran loc="ar">استبدال</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>EXPLICIT_CONTENT_NOT_ALLOWED_DUE_TO_SWITCH</Position>
+      <TranslationSet>
+        <base loc="en">To listen to this station, you must allow explicit tracks for iTunes Radio.</base>
+        <tran loc="ar">للاستماع إلى هذه المحطة، يجب عليك أن تسمح مقاطع ذات المحتوى الفاضح لـ iTunes Radio.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ROUTING_VIEW_HEADER_HEADPHONES</Position>
+      <TranslationSet>
+        <base loc="en">HEADPHONES</base>
+        <tran loc="ar">سماعات الرأس</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PROGRESS_TIME_SHORT_WIDTH_NO_HOURS_FORMAT_%@_%d_%d</Position>
+      <TranslationSet>
+        <base loc="en">%@%d:%02d</base>
+        <tran loc="ar">%@%d:%02d</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UNKNOWN_ERROR</Position>
+      <TranslationSet>
+        <base loc="en">An unknown error occurred.</base>
+        <tran loc="ar">حدث خطأ غير معروف.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AIRPLAY_IN_USE_ON_PAIRED_DEVICE_%@</Position>
+      <TranslationSet>
+        <base loc="en">In Use on %@</base>
+        <tran loc="ar">قيد الاستخدام على %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ROUTING_SPEAKER_HIJACK_NAG_CANCEL</Position>
+      <TranslationSet>
+        <base loc="en">Not Now</base>
+        <tran loc="ar">ليس الآن</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>TCC_EXPIRATION_REJECT_BUTTON_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Not Now</base>
+        <tran loc="ar">ليس الآن</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>TCC_EXPIRATION_ACCEPT_BUTTON_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Keep Sharing</base>
+        <tran loc="ar">استمر في المشاركة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>TCC_EXPIRATION_MULTIPLE_APPS_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Keep sharing your music and video activity with these apps so you can use them with Apple Music:</base>
+        <tran loc="ar">استمر في مشاركة نشاط الموسيقى والفيديو مع هذه التطبيقات حتى تتمكن من استخدامها مع Apple Music:</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ROUTING_SPEAKER_HIJACK_NAG_MULTITASK_SPEAKER_MESSAGE</Position>
+      <TranslationSet>
+        <base loc="en">Selecting this speaker will pause what it is currently playing and play the selected content.</base>
+        <tran loc="ar">سيؤدي اختيار هذا السماعة للإيقاف المؤقت لما يتم تشغيله حاليًا، وتشغيل المحتوى المحدد.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>GENIUS_PLAYLIST_OFFLINE_SUBTITLE_ALL</Position>
+      <TranslationSet>
+        <base loc="en">Connect to a Wi-Fi or cellular network to create a Genius Playlist.</base>
+        <tran loc="ar">اتصل بشبكة Wi-Fi أو الشبكة الخلوية لإنشاء قائمة تشغيل Genius.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> B235 battery case (AirPods) </Description>
+      <Position>AIRPLAY_DEVICE_BATTERY_LEVEL_CASE_%@</Position>
+      <TranslationSet>
+        <base loc="en">Case: %@</base>
+        <tran loc="ar">العلبة: %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> When a VOD movie has expired </Description>
+      <Position>EXPIRED</Position>
+      <TranslationSet>
+        <base loc="en">Expired</base>
+        <tran loc="ar">انتهت الصلاحية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AIRPLAY_MIRRORING_IPOD_DESCRIPTION</Position>
+      <TranslationSet>
+        <base loc="en">With AirPlay Mirroring you can send everything on your iPod’s display to an Apple TV, wirelessly.</base>
+        <tran loc="ar">باستخدام انعكاس AirPlay، يمكنك إرسال كل شيء على شاشة الـ iPod الخاص بك إلى Apple TV لاسلكيًا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AUDIO_DEVICE</Position>
+      <TranslationSet>
+        <base loc="en">Audio Device</base>
+        <tran loc="ar">جهاز الصوت</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CAPABILITY_MISSING</Position>
+      <TranslationSet>
+        <base loc="en">The requested operation is not enabled for this device.</base>
+        <tran loc="ar">لم يتم تمكين العملية المطلوبة لهذا الجهاز.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>MEDIAPICKER_NAVIGATION_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Library</base>
+        <tran loc="ar">المكتبة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AUDIO_2013</Position>
+      <TranslationSet>
+        <base loc="en">AUDIO</base>
+        <tran loc="ar">الصوت</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ENABLE_CLOUD_LIBRARY_FAILED_BODY</Position>
+      <TranslationSet>
+        <base loc="en">Your iCloud Music Library is temporarily unavailable. Try enabling it again later in Settings.</base>
+        <tran loc="ar">مكتبة أغاني iCloud غير متوفرة حاليًا. حاول تمكينها في الإعدادات مرة أخرى لاحقًا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>GENIUS_PICKER_NO_RESULTS_MESSAGE</Position>
+      <TranslationSet>
+        <base loc="en">This song does not have enough related songs to create a Genius Playlist.</base>
+        <tran loc="ar">لا توجد لهذه الأغنية أغانٍ ذات صلة تكفي لإنشاء قائمة تشغيل Genius.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AIRPLAY_BUSY_ALERT_MESSAGE_FORMAT_%@</Position>
+      <TranslationSet>
+        <base loc="en">“%@” is being used by someone else.</base>
+        <tran loc="ar">‏\"%@\" قيد الاستخدام من قِبل شخص آخر.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AIRTUNES_PASSWORD_ALERT_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">AirPlay Password</base>
+        <tran loc="ar">كلمة سر AirPlay</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>POSITION_IN_PLAYLIST_ATTRIBUTED_FORMAT_%d_%d</Position>
+      <TranslationSet>
+        <base loc="en">#%1$d# of #%2$d#</base>
+        <tran loc="ar">‏#%1$d# من #%2$d#</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AIRTUNES_PIN_ALERT_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">AirPlay Code</base>
+        <tran loc="ar">رمز AirPlay</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AIRPLAY_DEBUG_LABEL</Position>
+      <TranslationSet>
+        <base loc="en">Report a Problem</base>
+        <tran loc="ar">الإعلام عن مشكلة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Display name format for subtitle tracks that include the language of the subtitle, in the form of "title (language)" </Description>
+      <Position>SUBTITLE_TRACK_DISPLAY_FORMAT_%@_%@</Position>
+      <TranslationSet>
+        <base loc="en">%@ (%@)</base>
+        <tran loc="ar">%@ (%@)</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AIRTUNES_PASSCODE_ALERT_PLACEHOLDER</Position>
+      <TranslationSet>
+        <base loc="en">code</base>
+        <tran loc="ar">الرمز</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>NETWORK_FAILED</Position>
+      <TranslationSet>
+        <base loc="en">Could not connect to the iTunes Store.</base>
+        <tran loc="ar">تعذر الاتصال بـ iTunes Store.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>NOW_PLAYING_SIRI_SUGGESTION</Position>
+      <TranslationSet>
+        <base loc="en">%@  |  Siri Suggestion</base>
+        <tran loc="ar">اقتراحات Siri | %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> unknown audio/subtitle language </Description>
+      <Position>UNKNOWN_LANGUAGE</Position>
+      <TranslationSet>
+        <base loc="en">Unknown</base>
+        <tran loc="ar">غير معروف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UNKNOWN_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Unknown</base>
+        <tran loc="ar">غير معروف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AIRTUNES_PIN_ALERT_MESSAGE_FORMAT_%@</Position>
+      <TranslationSet>
+        <base loc="en">Enter the onscreen code for “%@”</base>
+        <tran loc="ar">أدخل الرمز الذي يظهر على الشاشة لـ \"%@‎\"</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>HALF_SPEED_SCRUBBING</Position>
+      <TranslationSet>
+        <base loc="en">Half-Speed Scrubbing</base>
+        <tran loc="ar">تحريك بنصف السرعة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AIRPLAY_BUSY_ATV_ALERT_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Apple TV Not Available</base>
+        <tran loc="ar">‏Apple TV غير متوفر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>COULD_NOT_LOAD_MOVIE_ERROR_FMT_%@</Position>
+      <TranslationSet>
+        <base loc="en">%@</base>
+        <tran loc="ar">%@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Used to append route names in groups: "Kitchen + Living Room" </Description>
+      <Position>ROUTE_NAME_PLUS_SEPARATOR</Position>
+      <TranslationSet>
+        <base loc="en"> + </base>
+        <tran loc="ar"> + </tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>LOADING_AUDIO_LABEL</Position>
+      <TranslationSet>
+        <base loc="en">Loading\U2026</base>
+        <tran loc="ar">تحميل\U2026</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>LOADING_MOVIE_LABEL</Position>
+      <TranslationSet>
+        <base loc="en">Loading\U2026</base>
+        <tran loc="ar">تحميل\U2026</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>HI_SPEED_SCRUBBING</Position>
+      <TranslationSet>
+        <base loc="en">Hi-Speed Scrubbing</base>
+        <tran loc="ar">تحريك بسرعة عالية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PROGRESS_TIME_FULL_WIDTH_HOURS_FORMAT_%@_%d_%d_%d</Position>
+      <TranslationSet>
+        <base loc="en">%@%02d:%02d:%02d</base>
+        <tran loc="ar">%@%02d:%02d:%02d</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AIRPLAY_MIRRORING_OFF_ACTION</Position>
+      <TranslationSet>
+        <base loc="en">Turn Off AirPlay Mirroring</base>
+        <tran loc="ar">إيقاف انعكاس AirPlay</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> String to show in the Music Store for items being played during download </Description>
+      <Position>PLAY_WHILE_DOWNLOAD_STATUS</Position>
+      <TranslationSet>
+        <base loc="en">Playing</base>
+        <tran loc="ar">قيد التشغيل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DEFAULT_GENIUS_PLAYLIST_NAME</Position>
+      <TranslationSet>
+        <base loc="en">Genius Playlist</base>
+        <tran loc="ar">قائمة تشغيل Genius</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> TCC MediaLibrary dialog 
+ 1 - application name </Description>
+      <Position>TCC_EXPIRATION_SINGLE_APP_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Keep sharing your music and video activity with %@ so you can use it with Apple Music.</base>
+        <tran loc="ar">استمر في مشاركة نشاط الموسيقى والفيديو مع %@ حتى تتمكن من استخدامه مع Apple Music.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>GENIUS_FEATURE_NOT_AVAILABLE_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Genius Playlists</base>
+        <tran loc="ar">قوائم تشغيل Genius</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>GENIUS_PLAYLIST_OFFLINE_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Genius Playlists</base>
+        <tran loc="ar">قوائم تشغيل Genius</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ROUTING_VIEW_SHARE_AUDIO</Position>
+      <TranslationSet>
+        <base loc="en">Share Audio…</base>
+        <tran loc="ar">مشاركة الصوت…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>TVOUT_PLACEHOLDER_SUBTITLE</Position>
+      <TranslationSet>
+        <base loc="en">This video is playing on the TV.</base>
+        <tran loc="ar">هذا الفيديو قيد التشغيل على التلفاز.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description>SDK Error Strings</Description>
+      <Position>PERMISSION_DENIED</Position>
+      <TranslationSet>
+        <base loc="en">The requesting app does not have the necessary permissions</base>
+        <tran loc="ar">التطبيق الذي قام بالطلب ليس لديه الأذونات اللازمة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>TVOUT_PLACEHOLDER_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">TV Connected</base>
+        <tran loc="ar">متصل بالتلفاز</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PROGRESS_TIME_MINUTES_ONLY_FORMAT_%d</Position>
+      <TranslationSet>
+        <base loc="en">%dm</base>
+        <tran loc="ar">%dد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ENABLE_CLOUD_LIBRARY_FAILED_TOO_MANY_ITEMS_MESSAGE_IPAD</Position>
+      <TranslationSet>
+        <base loc="en">Merging your Libraries would put you over the song limit. Delete songs from this iPad and try again, or delete and replace this Library with your iCloud Music Library.</base>
+        <tran loc="ar">دمج المكتبات سيؤدي إلى تجاوز الحد المسموح به لعدد الأغاني. احذف أغاني من هذا الـ iPad وحاول مرة أخرى أو اختر حذف هذه المكتبة واستبدالها بمكتبة موسيقى iCloud.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AIRPLAY_BUSY_ALERT_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">AirPlay Speaker Not Available</base>
+        <tran loc="ar">سماعة AirPlay غير متوفرة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ROUTING_VIEW_SHARE_AUDIO_DISABLED_CARPLAY_SAME_OWNER</Position>
+      <TranslationSet>
+        <base loc="en">Sharing audio with more than one user is not available while connected to CarPlay.</base>
+        <tran loc="ar">مشاركة الصوت مع أكثر من مستخدم واحد غير متوفرة أثناء الاتصال بـ CarPlay.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Used inside the description cell when presenting the route picker action sheet. </Description>
+      <Position>AIRPLAY_MIRRORING_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">AirPlay Mirroring</base>
+        <tran loc="ar">انعكاس AirPlay</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>VOLUME</Position>
+      <TranslationSet>
+        <base loc="en">Volume</base>
+        <tran loc="ar">مستوى الصوت</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AIRTUNES_VIDEO_ALERT_BODY_FORMAT_%@</Position>
+      <TranslationSet>
+        <base loc="en">Cannot play video on “%@”.</base>
+        <tran loc="ar">لا يمكن تشغيل الفيديو على \"%@\".</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>EXPLICIT_CONTENT_NOT_ALLOWED_SETTINGS_BUTTON_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Settings</base>
+        <tran loc="ar">الإعدادات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SETTINGS</Position>
+      <TranslationSet>
+        <base loc="en">Settings</base>
+        <tran loc="ar">الإعدادات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AIRPLAY_MIRRORING_DISCOVERING_STATUS</Position>
+      <TranslationSet>
+        <base loc="en">Looking for Apple TV…</base>
+        <tran loc="ar">يتم الآن البحث عن Apple TV…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>GENIUS_PLAYLIST_OFFLINE_SUBTITLE_ALL_WLAN</Position>
+      <TranslationSet>
+        <base loc="en">Connect to a WLAN or cellular network to create a Genius Playlist.</base>
+        <tran loc="ar">اتصل بشبكة WLAN أو الشبكة الخلوية لإنشاء قائمة تشغيل Genius.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>OFF</Position>
+      <TranslationSet>
+        <base loc="en">Off</base>
+        <tran loc="ar">إيقاف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ROUTING_VIEW_SHARE_AUDIO_DISABLED_CARKIT</Position>
+      <TranslationSet>
+        <base loc="en">Not available in the Car</base>
+        <tran loc="ar">غير متوفر في السيارة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>STREAMING_AUDIO_LABEL</Position>
+      <TranslationSet>
+        <base loc="en">Streaming\U2026</base>
+        <tran loc="ar">تدفق\U2026</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+</Proj>

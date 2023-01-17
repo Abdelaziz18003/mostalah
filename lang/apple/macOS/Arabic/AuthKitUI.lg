@@ -1,0 +1,3387 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Proj>
+  <ProjName>AuthKitUI</ProjName>
+  <File>
+    <Filepath>AuthKitUI/System/Library/PrivateFrameworks/AuthKitUI.framework/Versions/A/Resources/en.lproj/AKAppleIDAuthenticationiCloudPrefPaneSecondFactor.strings</Filepath>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Cancel"; ObjectID = "woH-Bi-Zyy"; </Description>
+      <Position>woH-Bi-Zyy.title</Position>
+      <TranslationSet>
+        <base loc="en">Cancel</base>
+        <tran loc="ar">إلغاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Continue"; ObjectID = "dW3-bY-dTY"; </Description>
+      <Position>dW3-bY-dTY.title</Position>
+      <TranslationSet>
+        <base loc="en">Continue</base>
+        <tran loc="ar">متابعة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Your Apple ID can only be used from devices you approve."; ObjectID = "oVV-C6-xzx"; </Description>
+      <Position>oVV-C6-xzx.title</Position>
+      <TranslationSet>
+        <base loc="en">Your Apple ID can only be used from devices you approve.</base>
+        <tran loc="ar">لا يمكن استخدام Apple ID الخاص بك إلا من الأجهزة التي توافق عليها.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Didn’t receive a verification code?"; ObjectID = "0jC-SA-8hO"; </Description>
+      <Position>0jC-SA-8hO.title</Position>
+      <TranslationSet>
+        <base loc="en">Didn’t receive a verification code?</base>
+        <tran loc="ar">ألم تستلم رمز تحقق؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "CODE ERROR - DNL - Made extra long to see how it wraps in other langauages"; ObjectID = "DYf-i2-Mwu"; </Description>
+      <Position>DYf-i2-Mwu.title</Position>
+      <TranslationSet>
+        <base loc="en">CODE ERROR - DNL - Made extra long to see how it wraps in other langauages</base>
+        <tran loc="ar">CODE ERROR - DNL - Made extra long to see how it wraps in other langauages</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Enter the verification code sent to your other devices."; ObjectID = "zwW-EY-yJd"; </Description>
+      <Position>zwW-EY-yJd.title</Position>
+      <TranslationSet>
+        <base loc="en">Enter the verification code sent to your other devices.</base>
+        <tran loc="ar">قم بإدخال رمز التحقق الذي تم إرساله إلى أجهزتك الأخرى.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButton"; ibExternalAccessibilityDescription = "Create new Apple ID"; ObjectID = "gTP-oC-qTK"; </Description>
+      <Position>gTP-oC-qTK.ibExternalAccessibilityDescription</Position>
+      <TranslationSet>
+        <base loc="en">Create new Apple ID</base>
+        <tran loc="ar">إنشاء Apple ID جديد</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>AuthKitUI/System/Library/PrivateFrameworks/AuthKitUI.framework/Versions/A/Resources/en.lproj/AKSignInPrompt.strings</Filepath>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "&lt;MESSAGE - NO LOC&gt;\n&lt;MESSAGE - NO LOC&gt;"; ObjectID = "mSg-n2-hsb"; </Description>
+      <Position>mSg-n2-hsb.title</Position>
+      <TranslationSet>
+        <base loc="en">&lt;MESSAGE - NO LOC&gt;\n&lt;MESSAGE - NO LOC&gt;</base>
+        <tran loc="ar">&lt;MESSAGE - NO LOC&gt;\n&lt;MESSAGE - NO LOC&gt;</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Apple ID:"; ObjectID = "NGl-kJ-uub"; </Description>
+      <Position>NGl-kJ-uub.title</Position>
+      <TranslationSet>
+        <base loc="en">Apple ID:</base>
+        <tran loc="ar">‏Apple ID:</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Error Label - DNL"; ObjectID = "4M4-ab-GOa"; </Description>
+      <Position>4M4-ab-GOa.title</Position>
+      <TranslationSet>
+        <base loc="en">Error Label - DNL</base>
+        <tran loc="ar">Error Label - DNL</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "&lt;Title noloc&gt;"; ObjectID = "CSi-sa-N8R"; </Description>
+      <Position>CSi-sa-N8R.title</Position>
+      <TranslationSet>
+        <base loc="en">&lt;Title noloc&gt;</base>
+        <tran loc="ar">&lt;Title noloc&gt;</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Password:"; ObjectID = "HSr-C8-8YZ"; </Description>
+      <Position>HSr-C8-8YZ.title</Position>
+      <TranslationSet>
+        <base loc="en">Password:</base>
+        <tran loc="ar">كلمة السر:</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Password:"; ObjectID = "sYO-mI-LiC"; </Description>
+      <Position>sYO-mI-LiC.title</Position>
+      <TranslationSet>
+        <base loc="en">Password:</base>
+        <tran loc="ar">كلمة السر:</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Remember Password"; ObjectID = "fqx-2k-bCf"; </Description>
+      <Position>fqx-2k-bCf.title</Position>
+      <TranslationSet>
+        <base loc="en">Remember Password</base>
+        <tran loc="ar">تذكر كلمة السر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Cancel"; ObjectID = "Fau-kR-wFl"; </Description>
+      <Position>Fau-kR-wFl.title</Position>
+      <TranslationSet>
+        <base loc="en">Cancel</base>
+        <tran loc="ar">إلغاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSSecureTextFieldCell"; placeholderString = "Required"; ObjectID = "6th-Ug-RzG"; </Description>
+      <Position>6th-Ug-RzG.placeholderString</Position>
+      <TranslationSet>
+        <base loc="en">Required</base>
+        <tran loc="ar">مطلوب</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Create Apple ID"; ObjectID = "Obc-DN-ARd"; </Description>
+      <Position>Obc-DN-ARd.title</Position>
+      <TranslationSet>
+        <base loc="en">Create Apple ID</base>
+        <tran loc="ar">إنشاء Apple ID</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Forgot Apple ID or Password?"; ObjectID = "Hd9-tn-hcy"; </Description>
+      <Position>Hd9-tn-hcy.title</Position>
+      <TranslationSet>
+        <base loc="en">Forgot Apple ID or Password?</base>
+        <tran loc="ar">هل نسيت Apple ID أو كلمة السر؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSSecureTextFieldCell"; placeholderString = "required"; ObjectID = "wY2-SO-O6L"; </Description>
+      <Position>wY2-SO-O6L.placeholderString</Position>
+      <TranslationSet>
+        <base loc="en">required</base>
+        <tran loc="ar">مطلوب</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; placeholderString = "example@icloud.com"; ObjectID = "th5-ON-ukB"; </Description>
+      <Position>th5-ON-ukB.placeholderString</Position>
+      <TranslationSet>
+        <base loc="en">example@icloud.com</base>
+        <tran loc="ar">example@icloud.com</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Forgot Password?"; ObjectID = "XYA-Hg-NH0"; </Description>
+      <Position>XYA-Hg-NH0.title</Position>
+      <TranslationSet>
+        <base loc="en">Forgot Password?</base>
+        <tran loc="ar">هل نسيت كلمة السر؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Next"; ObjectID = "NJa-vC-vPi"; </Description>
+      <Position>NJa-vC-vPi.title</Position>
+      <TranslationSet>
+        <base loc="en">Next</base>
+        <tran loc="ar">التالي</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>AuthKitUI/System/Library/PrivateFrameworks/AuthKitUI.framework/Versions/A/Resources/en.lproj/AKAuthWebTabView.strings</Filepath>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Done"; ObjectID = "kBh-Bv-KVU"; </Description>
+      <Position>kBh-Bv-KVU.title</Position>
+      <TranslationSet>
+        <base loc="en">Done</base>
+        <tran loc="ar">تم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Cancel"; ObjectID = "rNM-GX-68K"; </Description>
+      <Position>rNM-GX-68K.title</Position>
+      <TranslationSet>
+        <base loc="en">Cancel</base>
+        <tran loc="ar">إلغاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Not Available - Please try again later."; ObjectID = "9mC-UQ-iep"; </Description>
+      <Position>9mC-UQ-iep.title</Position>
+      <TranslationSet>
+        <base loc="en">Not Available - Please try again later.</base>
+        <tran loc="ar">غير متوفر - الرجاء المحاولة مرة أخرى لاحقًا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSWindow"; title = "Window"; ObjectID = "H8k-XW-OmB"; </Description>
+      <Position>H8k-XW-OmB.title</Position>
+      <TranslationSet>
+        <base loc="en">Window</base>
+        <tran loc="ar">Window</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>AuthKitUI/System/Library/PrivateFrameworks/AuthKitUI.framework/Versions/A/Resources/en.lproj/AKiCDPRecoveryKeyViewController.strings</Filepath>
+    <TextItem>
+      <Description> Class = "NSImageView"; ibExternalAccessibilityDescription = "icloud"; ObjectID = "FSU-Z2-D4z"; </Description>
+      <Position>FSU-Z2-D4z.ibExternalAccessibilityDescription</Position>
+      <TranslationSet>
+        <base loc="en">icloud</base>
+        <tran loc="ar">icloud</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Enter your 28-character recovery key to continue."; ObjectID = "Bct-7I-2sv"; </Description>
+      <Position>Bct-7I-2sv.title</Position>
+      <TranslationSet>
+        <base loc="en">Enter your 28-character recovery key to continue.</base>
+        <tran loc="ar">أدخل مفتاح الاسترداد المكون من ٢٨ حرفًا للمتابعة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "The recovery key you entered is not valid."; ObjectID = "tK0-wQ-0o8"; </Description>
+      <Position>tK0-wQ-0o8.title</Position>
+      <TranslationSet>
+        <base loc="en">The recovery key you entered is not valid.</base>
+        <tran loc="ar">مفتاح الاسترداد الذي تم إدخاله غير صالح.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Don't have your recovery key?"; ObjectID = "4Ap-gt-jo0"; </Description>
+      <Position>4Ap-gt-jo0.title</Position>
+      <TranslationSet>
+        <base loc="en">Don't have your recovery key?</base>
+        <tran loc="ar">أليس لديك مفتاح الاسترداد الخاص بك؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Signing in…"; ObjectID = "4MG-2f-A0o"; </Description>
+      <Position>4MG-2f-A0o.title</Position>
+      <TranslationSet>
+        <base loc="en">Signing in…</base>
+        <tran loc="ar">يتم الآن تسجيل الدخول…</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>AuthKitUI/System/Library/PrivateFrameworks/AuthKitUI.framework/Versions/A/Resources/en.lproj/AKAuthenticationPrompt.strings</Filepath>
+    <TextItem>
+      <Description> Class = "NSWindow"; title = "Window"; ObjectID = "F0z-JX-Cv5"; </Description>
+      <Position>F0z-JX-Cv5.title</Position>
+      <TranslationSet>
+        <base loc="en">Window</base>
+        <tran loc="ar">Window</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>AuthKitUI/System/Library/PrivateFrameworks/AuthKitUI.framework/Versions/A/Resources/en.lproj/iCSC_Localizable.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_APPROVE_FROM_ANOTHER_DEVICE_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Approve this Mac</base>
+        <tran loc="ar">الموافقة على هذا الـ Mac</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_PASSWORD</Position>
+      <TranslationSet>
+        <base loc="en">password</base>
+        <tran loc="ar">كلمة السر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_INCORRECT_PASSCODE</Position>
+      <TranslationSet>
+        <base loc="en">Incorrect passcode</base>
+        <tran loc="ar">رمز دخول غير صحيح</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_FORGOT_ALL_TITLE_NO_REMOTE</Position>
+      <TranslationSet>
+        <base loc="en">If you can’t remember the password or passcode for any of your devices, you can still sign in but your end-to-end encrypted data will be temporarily unavailable.</base>
+        <tran loc="ar">إذا كنت لا تتذكر كلمة السر أو رمز الدخول لأي جهاز من أجهزتك، فلا يزال بإمكانك تسجيل الدخول، ولكن ستصبح بياناتك المشفرة بالكامل غير متوفرة مؤقتًا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_FORGOT_ALL_TITLE_REMOTE</Position>
+      <TranslationSet>
+        <base loc="en">If you can’t remember the password or passcode for any of your devices, you can still sign in but your end-to-end encrypted data will be temporarily unavailable.</base>
+        <tran loc="ar">إذا كنت لا تتذكر كلمة السر أو رمز الدخول لأي جهاز من أجهزتك، فلا يزال بإمكانك تسجيل الدخول، ولكن ستصبح بياناتك المشفرة بالكامل غير متوفرة مؤقتًا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_ENTER_PASSCODE_LATER_DESCRIPTION</Position>
+      <TranslationSet>
+        <base loc="en">You won’t be able to access any passwords or other end-to-end encrypted data stored in iCloud.</base>
+        <tran loc="ar">لن يكون بإمكانك الوصول إلى أي كلمات سر أو بيانات أخرى مشفرة بالكامل مخزّنة في iCloud.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_USE_RECOVERY_KEY_BUTTON</Position>
+      <TranslationSet>
+        <base loc="en">Use Recovery Key</base>
+        <tran loc="ar">استخدام مفتاح الاسترداد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_FORGOT_ALL_TITLE_SERVER_RECOVER</Position>
+      <TranslationSet>
+        <base loc="en">If you can’t remember the password or passcode for any of your devices, you can still regain access to your Apple ID with account recovery.</base>
+        <tran loc="ar">إذا كنت لا تتذكر كلمة السر أو رمز الدخول لأي من أجهزتك، فلا يزال بإمكانك استعادة الوصول إلى Apple ID الخاص بك باستخدام ميزة استرداد الحساب.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_PASSCODE</Position>
+      <TranslationSet>
+        <base loc="en">passcode</base>
+        <tran loc="ar">رمز الدخول</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>RECOVERY_BUTTON</Position>
+      <TranslationSet>
+        <base loc="en">Start Account Recovery</base>
+        <tran loc="ar">بدء استرداد الحساب</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_INCORRECT_PASSWORD</Position>
+      <TranslationSet>
+        <base loc="en">Incorrect password</base>
+        <tran loc="ar">كلمة السر غير صحيحة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_FORGOT_DEVICE_PASSWORDS_AND_PASSCODES</Position>
+      <TranslationSet>
+        <base loc="en">Forgot all passwords and passcodes?</base>
+        <tran loc="ar">هل نسيت كل كلمات السر ورموز الدخول؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_DEVICE_LIMIT_TITLE_PASSWORD</Position>
+      <TranslationSet>
+        <base loc="en">The password for “%@” has been entered incorrectly too many times.</base>
+        <tran loc="ar">تم إدخال كلمة السر لـ \"%@\" بشكل غير صحيح عدة مرات.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_CHOOSE_DEVICE_HEADER</Position>
+      <TranslationSet>
+        <base loc="en">Some of your data stored in iCloud is protected by your device password</base>
+        <tran loc="ar">بعض بياناتك المخزنة في iCloud محمية بكلمة سر جهازك</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_ENTER_RECOVERY_KEY_LATER</Position>
+      <TranslationSet>
+        <base loc="en">Enter Recovery Key Later</base>
+        <tran loc="ar">إدخال مفتاح الاسترداد لاحقًا</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_USE_RECOVERY_KEY_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Enter Recovery Key</base>
+        <tran loc="ar">إدخال مفتاح الاسترداد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_FORGOT_ONE_NO_OTHER_DEVICES_TITLE_PASSCODE_NO_REMOTE_SERVER_RECOVER_NAME_ONLY</Position>
+      <TranslationSet>
+        <base loc="en">If you can’t remember the passcode for “%@”, you can still regain access to your Apple ID with account recovery.</base>
+        <tran loc="ar">إذا كنت لا تتذكر رمز الدخول لـ \"%@\"، فلا يزال بإمكانك استعادة إمكانية الوصول إلى الـ Apple ID الخاص بك من خلال استرداد الحساب.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_CHOOSE_DEVICE_PASSWORD_OR_PASSCODE</Position>
+      <TranslationSet>
+        <base loc="en">Choose a device to enter its password or passcode:</base>
+        <tran loc="ar">اختر جهازًا لإدخال كلمة السر أو رمز الدخول الخاص به:</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_FORGOT_DEVICE_PASSCODES</Position>
+      <TranslationSet>
+        <base loc="en">Forgot all passcodes?</base>
+        <tran loc="ar">هل نسيت كل رموز الدخول؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>OK_BUTTON</Position>
+      <TranslationSet>
+        <base loc="en">OK</base>
+        <tran loc="ar">موافق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_ENTER_PASSWORD_NAME_ONLY</Position>
+      <TranslationSet>
+        <base loc="en">Enter the password for “%@”. Your password is encrypted and cannot be read by Apple.</base>
+        <tran loc="ar">إدخال كلمة السر لـ \"%@\". كلمة السر الخاصة بك مشفرة ولا يمكن قراءتها من قِبل شركة Apple.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>APPROVE_LATER_BUTTON</Position>
+      <TranslationSet>
+        <base loc="en">Approve Later</base>
+        <tran loc="ar">الموافقة لاحقًا</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SIGN_IN_LATER_BUTTON</Position>
+      <TranslationSet>
+        <base loc="en">Sign In Later</base>
+        <tran loc="ar">تسجيل الدخول لاحقًا</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_FORGOT_ONE_NO_OTHER_DEVICES_TITLE_PASSCODE_NO_REMOTE_NAME_ONLY</Position>
+      <TranslationSet>
+        <base loc="en">If you can’t remember the passcode for “%@”, you can still sign in but your end-to-end encrypted data will be temporarily unavailable.</base>
+        <tran loc="ar">إذا كنت لا تتذكر رمز دخول \"%@\"، فلا يزال بإمكانك تسجيل الدخول، ولكن ستصبح بياناتك المشفرة بالكامل غير متوفرة مؤقتًا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_FORGOT_ONE_NO_OTHER_DEVICES_TITLE_PASSCODE_REMOTE_NAME_ONLY</Position>
+      <TranslationSet>
+        <base loc="en">If you can’t remember the passcode for “%@”, you can still sign in but your end-to-end encrypted data will be temporarily unavailable.</base>
+        <tran loc="ar">إذا كنت لا تتذكر رمز دخول \"%@\"، فلا يزال بإمكانك تسجيل الدخول، ولكن ستصبح بياناتك المشفرة بالكامل غير متوفرة مؤقتًا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_FORGOT_ONE_NO_OTHER_DEVICES_TITLE_PASSWORD_NO_REMOTE_NAME_ONLY</Position>
+      <TranslationSet>
+        <base loc="en">If you can’t remember the password for “%@”, you can still sign in but your end-to-end encrypted data will be temporarily unavailable.</base>
+        <tran loc="ar">إذا كنت لا تتذكر كلمة سر \"%@\"، فلا يزال بإمكانك تسجيل الدخول، ولكن ستصبح بياناتك المشفرة بالكامل غير متوفرة مؤقتًا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_FORGOT_ONE_NO_OTHER_DEVICES_TITLE_PASSWORD_REMOTE_NAME_ONLY</Position>
+      <TranslationSet>
+        <base loc="en">If you can’t remember the password for “%@”, you can still sign in but your end-to-end encrypted data will be temporarily unavailable.</base>
+        <tran loc="ar">إذا كنت لا تتذكر كلمة سر \"%@\"، فلا يزال بإمكانك تسجيل الدخول، ولكن ستصبح بياناتك المشفرة بالكامل غير متوفرة مؤقتًا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_UNKNOWN_ERROR</Position>
+      <TranslationSet>
+        <base loc="en">An unknown error occurred while validating this device</base>
+        <tran loc="ar">حدث خطأ غير معروف أثناء التحقق من هذا الجهاز</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CANCEL_BUTTON</Position>
+      <TranslationSet>
+        <base loc="en">Cancel</base>
+        <tran loc="ar">إلغاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_USE_RECOVERY_KEY_PLACEHOLDER</Position>
+      <TranslationSet>
+        <base loc="en">XXXX-XXXX-XXXX-XXXX-XXXX-XXXX-XXXX</base>
+        <tran loc="ar">XXXX-XXXX-XXXX-XXXX-XXXX-XXXX-XXXX</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_DEVICE_LIMIT_TITLE_PASSCODE</Position>
+      <TranslationSet>
+        <base loc="en">The passcode for “%@” has been entered incorrectly too many times.</base>
+        <tran loc="ar">تم إدخال رمز الدخول لـ \"%@\" بشكل غير صحيح عدة مرات.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_CHOOSE_DEVICE_PASSCODE</Position>
+      <TranslationSet>
+        <base loc="en">Choose a device to enter its passcode:</base>
+        <tran loc="ar">اختر جهازًا لإدخال رمز الدخول الخاص به:</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>RESET_BUTTON</Position>
+      <TranslationSet>
+        <base loc="en">Reset</base>
+        <tran loc="ar">إعادة تعيين</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_FORGOT_ONE_TITLE_PASSWORD_NAME_ONLY_USE_RECOVERY_KEY</Position>
+      <TranslationSet>
+        <base loc="en">If you can’t remember the password for “%@”, you can enter the password or passcode of one of your other devices, or use your 28-character recovery key.</base>
+        <tran loc="ar">إذا كنت لا تتذكر كلمة سر الـ \"%@\"، يمكنك إدخال كلمة السر أو رمز الدخول لأحد أجهزتك الأخرى، أو استخدام مفتاح الاسترداد الخاص بك المكوّن من ٢٨ حرفًا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_DEVICE_LIMIT_MESSAGE_PASSCODE</Position>
+      <TranslationSet>
+        <base loc="en">Choose another device to enter its passcode.</base>
+        <tran loc="ar">اختر جهازًا آخر لإدخال رمز الدخول الخاص به.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_ENTER_PASSCODE_LATER</Position>
+      <TranslationSet>
+        <base loc="en">Enter Passcode Later</base>
+        <tran loc="ar">أدخل رمز الدخول لاحقًا</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_FORGOT_ONE_TITLE_PASSCODE_NAME_ONLY_USE_RECOVERY_KEY</Position>
+      <TranslationSet>
+        <base loc="en">If you can’t remember the passcode for “%@”, you can enter the password or passcode of one of your other devices, or use your 28-character recovery key.</base>
+        <tran loc="ar">إذا كنت لا تتذكر رمز دخول الـ \"%@\"، يمكنك إدخال كلمة السر أو رمز الدخول لأحد أجهزتك الأخرى، أو استخدام مفتاح الاسترداد الخاص بك المكوّن من ٢٨ حرفًا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_FORGOT_ONE_TITLE_PASSCODE_NAME_ONLY</Position>
+      <TranslationSet>
+        <base loc="en">If you can’t remember the passcode for “%@”, you can enter the password or passcode of one of your other devices.</base>
+        <tran loc="ar">إذا كنت لا تتذكر رمز الدخول لـ \"%@\"، يمكنك إدخال كلمة السر أو رمز الدخول لأحد أجهزتك الأخرى.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_DONT_HAVE_RECOVERY_KEY_HEADER</Position>
+      <TranslationSet>
+        <base loc="en">If you can’t remember your recovery key, you can still sign in but your end-to-end encrypted data will be temporarily unavailable.</base>
+        <tran loc="ar">إذا كنت لا تتذكر مفتاح الاسترداد، فلا يزال بإمكانك تسجيل الدخول، ولكن ستصبح بياناتك المشفرة بالكامل غير متوفرة مؤقتًا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_FORGOT_DEVICE_PASSWORDS</Position>
+      <TranslationSet>
+        <base loc="en">Forgot all passwords?</base>
+        <tran loc="ar">هل نسيت كل كلمات السر؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_CANT_APPROVE_MESSAGE_SERVER_RECOVER</Position>
+      <TranslationSet>
+        <base loc="en">If you can’t approve this Mac from another device, you can still regain access to your Apple ID with account recovery.</base>
+        <tran loc="ar">إذا كان لا يمكنك الموافقة على هذا الـ Mac من جهاز آخر، فلا يزال بإمكانك استعادة الوصول إلى Apple ID الخاص بك من خلال استرداد الحساب.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_FORGOT_ONE_NO_OTHER_DEVICES_TITLE_PASSCODE_USE_RECOVERY_KEY</Position>
+      <TranslationSet>
+        <base loc="en">If you can’t remember the passcode for “%@”, you can use your 28-character recovery key.</base>
+        <tran loc="ar">إذا كنت لا تتذكر رمز دخول الـ \"%@\"، يمكنك استخدام مفتاح الاسترداد الخاص بك المكوّن من ٢٨ حرفًا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_FORGOT_ONE_TITLE_PASSWORD_NAME_ONLY</Position>
+      <TranslationSet>
+        <base loc="en">If you can’t remember the password for “%@”, you can enter the password or passcode of one of your other devices.</base>
+        <tran loc="ar">إذا كنت لا تتذكر كلمة السر لـ \"%@\"، يمكنك إدخال كلمة السر أو رمز الدخول لأحد أجهزتك الأخرى.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_FORGOT_ALL_TITLE_USE_RECOVERY_KEY</Position>
+      <TranslationSet>
+        <base loc="en">If you can’t remember the password or passcode for any of your devices, you can use your recovery key to access your account.</base>
+        <tran loc="ar">إذا كنت لا تتذكر كلمة السر أو رمز الدخول لأي من أجهزتك، يمكنك استخدام مفتاح الاسترداد الخاص بك للوصول إلى حسابك.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_CANT_APPROVE_MESSAGE_SKIP</Position>
+      <TranslationSet>
+        <base loc="en">You won’t be able to access any passwords or other end-to-end encrypted data stored in iCloud until you approve this Mac.</base>
+        <tran loc="ar">لن يكون بإمكانك الوصول إلى أي كلمات سر أو بيانات أخرى مشفرة بالكامل مخزّنة في iCloud حتى تتم الموافقة على هذا الـ Mac.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_FORGOT_ONE_NO_OTHER_DEVICES_TITLE_PASSWORD_NO_REMOTE_SERVER_RECOVER_NAME_ONLY</Position>
+      <TranslationSet>
+        <base loc="en">If you can’t remember the password for “%@”, you can still regain access to your Apple ID with account recovery.</base>
+        <tran loc="ar">إذا كنت لا تتذكر كلمة السر \"%@\"، فلا يزال بإمكانك استعادة إمكانية الوصول إلى الـ Apple ID الخاص بك من خلال استرداد الحساب.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_DONT_HAVE_RECOVERY_KEY_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Don't have your recovery key?</base>
+        <tran loc="ar">أليس لديك مفتاح الاسترداد الخاص بك؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_CHOOSE_DEVICE_PASSWORD</Position>
+      <TranslationSet>
+        <base loc="en">Choose a device to enter its password:</base>
+        <tran loc="ar">اختر جهازًا لإدخال كلمة السر الخاصة به:</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_DEVICE_LIMIT_MESSAGE_PASSWORD</Position>
+      <TranslationSet>
+        <base loc="en">Choose another device to enter its password.</base>
+        <tran loc="ar">اختر جهازًا آخر لإدخال كلمة السر الخاصة به.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_CANT_APPROVE_TITLE_SKIP</Position>
+      <TranslationSet>
+        <base loc="en">If you can’t approve this Mac from another device, you can still sign in but your end-to-end encrypted data will be temporarily unavailable.</base>
+        <tran loc="ar">إذا لم تتمكن من الموافقة على هذا الـ Mac من جهاز آخر، فلا يزال بإمكانك تسجيل الدخول، ولكن ستصبح بياناتك المشفرة بالكامل غير متوفرة مؤقتًا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_ENTER_PASSCODE_NAME_ONLY</Position>
+      <TranslationSet>
+        <base loc="en">Enter the passcode for “%@”. Your passcode is encrypted and cannot be read by Apple.</base>
+        <tran loc="ar">أدخل رمز الدخول لـ \"%@\". رمز الدخول الخاص بك مشفر ولا يمكن قراءته من قِبل شركة Apple.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_USE_OTHER_DEVICE</Position>
+      <TranslationSet>
+        <base loc="en">Use Other Device</base>
+        <tran loc="ar">استخدام جهاز آخر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_FORGOT_ONE_NO_OTHER_DEVICES_TITLE_PASSCODE_REMOTE_AND_SERVER_RECOVER_NAME_ONLY</Position>
+      <TranslationSet>
+        <base loc="en">If you can’t remember the passcode for “%@”, you can approve this Mac using another device or regain access to your Apple ID with account recovery.</base>
+        <tran loc="ar">إذا كنت لا تتذكر رمز دخول \"%@\"، يمكنك الموافقة على هذا الـ Mac باستخدام جهاز آخر أو استعادة إمكانية الوصول إلى الـ Apple ID الخاص بك من خلال استرداد الحساب.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_FORGOT_ONE_NO_OTHER_DEVICES_TITLE_PASSWORD_REMOTE_AND_SERVER_RECOVER_NAME_ONLY</Position>
+      <TranslationSet>
+        <base loc="en">If you can’t remember the password for “%@”, you can approve this Mac using another device or regain access to your Apple ID with account recovery.</base>
+        <tran loc="ar">إذا كنت لا تتذكر كلمة السر لـ \"%@\"، يمكنك الموافقة على هذا الـ Mac باستخدام جهاز آخر أو استعادة إمكانية الوصول إلى الـ Apple ID الخاص بك من خلال استرداد الحساب.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_FORGOT_ONE_NO_OTHER_DEVICES_TITLE_PASSWORD_USE_RECOVERY_KEY</Position>
+      <TranslationSet>
+        <base loc="en">If you can’t remember the password for “%@”, you can use your 28-character recovery key.</base>
+        <tran loc="ar">إذا كنت لا تتذكر كلمة سر الـ \"%@\"، يمكنك استخدام مفتاح الاسترداد الخاص بك المكوّن من ٢٨ حرفًا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_CHOOSE_DEVICE</Position>
+      <TranslationSet>
+        <base loc="en">Choose Device</base>
+        <tran loc="ar">اختيار جهاز</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 
+  Localizable.strings
+  IASiCDP
+
+  Created by Jonathan Tilley on 1/26/16
+  Copyright © 2016 Apple Inc. All rights reserved.
+</Description>
+      <Position>ICDP_CHOOSE_DEVICE_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Choose Device</base>
+        <tran loc="ar">اختيار جهاز</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ICDP_CANT_APPROVE_TITLE_SERVER_RECOVER</Position>
+      <TranslationSet>
+        <base loc="en">Can’t approve from another device?</base>
+        <tran loc="ar">ألا يمكنك الموافقة من جهاز آخر؟</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>AuthKitUI/System/Library/PrivateFrameworks/AuthKitUI.framework/Versions/A/Resources/en.lproj/AKLegacyInlineSignInViewController.strings</Filepath>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Apple ID:"; ObjectID = "Kih-32-FPd"; </Description>
+      <Position>Kih-32-FPd.title</Position>
+      <TranslationSet>
+        <base loc="en">Apple ID:</base>
+        <tran loc="ar">‏Apple ID:</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Forgot Apple ID or password?"; ObjectID = "hfg-nb-Ybu"; </Description>
+      <Position>hfg-nb-Ybu.title</Position>
+      <TranslationSet>
+        <base loc="en">Forgot Apple ID or password?</base>
+        <tran loc="ar">هل نسيت Apple ID أو كلمة السر؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Password:"; ObjectID = "vEX-dx-aMS"; </Description>
+      <Position>vEX-dx-aMS.title</Position>
+      <TranslationSet>
+        <base loc="en">Password:</base>
+        <tran loc="ar">كلمة السر:</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Create Apple ID…"; ObjectID = "stl-ZS-LA1"; </Description>
+      <Position>stl-ZS-LA1.title</Position>
+      <TranslationSet>
+        <base loc="en">Create Apple ID…</base>
+        <tran loc="ar">إنشاء Apple ID…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Enter Apple ID"; ObjectID = "XDg-y1-Pmb"; </Description>
+      <Position>XDg-y1-Pmb.title</Position>
+      <TranslationSet>
+        <base loc="en">Enter Apple ID</base>
+        <tran loc="ar">قم بإدخال Apple ID</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSSecureTextFieldCell"; placeholderString = "required"; ObjectID = "95b-HG-PdF"; </Description>
+      <Position>95b-HG-PdF.placeholderString</Position>
+      <TranslationSet>
+        <base loc="en">required</base>
+        <tran loc="ar">مطلوب</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; placeholderString = "example@icloud.com"; ObjectID = "c77-ON-DcW"; </Description>
+      <Position>c77-ON-DcW.placeholderString</Position>
+      <TranslationSet>
+        <base loc="en">example@icloud.com</base>
+        <tran loc="ar">example@icloud.com</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Sign in with your Apple ID to activate iMessage."; ObjectID = "6XD-Rg-1gA"; </Description>
+      <Position>6XD-Rg-1gA.title</Position>
+      <TranslationSet>
+        <base loc="en">Sign in with your Apple ID to activate iMessage.</base>
+        <tran loc="ar">قم بتسجيل الدخول باستخدام Apple ID الخاص بك لتنشيط iMessage.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "&lt;&lt;Do Not Localize&gt;&gt;"; ObjectID = "yge-9N-kct"; </Description>
+      <Position>yge-9N-kct.title</Position>
+      <TranslationSet>
+        <base loc="en">&lt;&lt;Do Not Localize&gt;&gt;</base>
+        <tran loc="ar">&lt;&lt;Do Not Localize&gt;&gt;</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Next"; ObjectID = "zk0-ON-9gP"; </Description>
+      <Position>zk0-ON-9gP.title</Position>
+      <TranslationSet>
+        <base loc="en">Next</base>
+        <tran loc="ar">التالي</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>AuthKitUI/System/Library/PrivateFrameworks/AuthKitUI.framework/Versions/A/Resources/en.lproj/AKiCDPEnrollmentDevicePasscodeView.strings</Filepath>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Incorrect %@"; ObjectID = "Agr-Bz-u3I"; </Description>
+      <Position>Agr-Bz-u3I.title</Position>
+      <TranslationSet>
+        <base loc="en">Incorrect %@</base>
+        <tran loc="ar">%@ غير صحيح</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Emily Parker's iPhone"; ObjectID = "Coa-UA-fgq"; </Description>
+      <Position>Coa-UA-fgq.title</Position>
+      <TranslationSet>
+        <base loc="en">Emily Parker's iPhone</base>
+        <tran loc="ar">الـ iPhone الخاص بهند أسعد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "iPhone 6"; ObjectID = "Xq6-hH-jMw"; </Description>
+      <Position>Xq6-hH-jMw.title</Position>
+      <TranslationSet>
+        <base loc="en">iPhone 6</base>
+        <tran loc="ar">iPhone 6</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Enter the password for the %{value1}@ “%{value2}@”. Your password is encrypted and cannot be read by Apple."; ObjectID = "LPD-KE-FJn"; </Description>
+      <Position>LPD-KE-FJn.title</Position>
+      <TranslationSet>
+        <base loc="en">Enter the password for the %{value1}@ “%{value2}@”. Your password is encrypted and cannot be read by Apple.</base>
+        <tran loc="ar">أدخل كلمة السر لـ %{value1}@ \"%{value2}@\". كلمة السر الخاصة بك مشفرة ولا يمكن قراءتها من قِبل Apple.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Forgot %@ passcode?"; ObjectID = "GYQ-Zo-4MC"; </Description>
+      <Position>GYQ-Zo-4MC.title</Position>
+      <TranslationSet>
+        <base loc="en">Forgot %@ passcode?</base>
+        <tran loc="ar">هل نسيت رمز دخول %@؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "CocoaBindingsConnection"; ibShadowedDisplayPattern = "%{value1}@"; ObjectID = "DJ0-Z9-OR7"; </Description>
+      <Position>DJ0-Z9-OR7.ibShadowedDisplayPattern</Position>
+      <TranslationSet>
+        <base loc="en">%{value1}@</base>
+        <tran loc="ar">%{value1}@</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>AuthKitUI/System/Library/PrivateFrameworks/AuthKitUI.framework/Versions/A/Resources/en.lproj/AKIDPProvidedSignInViewController.strings</Filepath>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Cancel"; ObjectID = "mzm-gE-Z7J"; </Description>
+      <Position>mzm-gE-Z7J.title</Position>
+      <TranslationSet>
+        <base loc="en">Cancel</base>
+        <tran loc="ar">إلغاء</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>AuthKitUI/System/Library/PrivateFrameworks/AuthKitUI.framework/Versions/A/Resources/en.lproj/AKShortInlineSignInViewController.strings</Filepath>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Apple ID:"; ObjectID = "Kih-32-FPd"; </Description>
+      <Position>Kih-32-FPd.title</Position>
+      <TranslationSet>
+        <base loc="en">Apple ID:</base>
+        <tran loc="ar">‏Apple ID:</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Forgot Apple ID or password?"; ObjectID = "qcf-vE-rly"; </Description>
+      <Position>qcf-vE-rly.title</Position>
+      <TranslationSet>
+        <base loc="en">Forgot Apple ID or password?</base>
+        <tran loc="ar">هل نسيت Apple ID أو كلمة السر؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Password:"; ObjectID = "vEX-dx-aMS"; </Description>
+      <Position>vEX-dx-aMS.title</Position>
+      <TranslationSet>
+        <base loc="en">Password:</base>
+        <tran loc="ar">كلمة السر:</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Create new Apple ID…"; ObjectID = "zQh-ig-mG6"; </Description>
+      <Position>zQh-ig-mG6.title</Position>
+      <TranslationSet>
+        <base loc="en">Create new Apple ID…</base>
+        <tran loc="ar">إنشاء Apple ID جديد...</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Not Now"; ObjectID = "stl-ZS-LA1"; </Description>
+      <Position>stl-ZS-LA1.title</Position>
+      <TranslationSet>
+        <base loc="en">Not Now</base>
+        <tran loc="ar">ليس الآن</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSSecureTextFieldCell"; placeholderString = "required"; ObjectID = "95b-HG-PdF"; </Description>
+      <Position>95b-HG-PdF.placeholderString</Position>
+      <TranslationSet>
+        <base loc="en">required</base>
+        <tran loc="ar">مطلوب</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; placeholderString = "example@icloud.com"; ObjectID = "c77-ON-DcW"; </Description>
+      <Position>c77-ON-DcW.placeholderString</Position>
+      <TranslationSet>
+        <base loc="en">example@icloud.com</base>
+        <tran loc="ar">example@icloud.com</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "&lt;&lt;Do Not Localize&gt;&gt;"; ObjectID = "yge-9N-kct"; </Description>
+      <Position>yge-9N-kct.title</Position>
+      <TranslationSet>
+        <base loc="en">&lt;&lt;Do Not Localize&gt;&gt;</base>
+        <tran loc="ar">&lt;&lt;Do Not Localize&gt;&gt;</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Next"; ObjectID = "zk0-ON-9gP"; </Description>
+      <Position>zk0-ON-9gP.title</Position>
+      <TranslationSet>
+        <base loc="en">Next</base>
+        <tran loc="ar">التالي</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>AuthKitUI/System/Library/PrivateFrameworks/AuthKitUI.framework/Versions/A/Resources/en.lproj/AKiCDPWaitForApprovalView.strings</Filepath>
+    <TextItem>
+      <Description> Class = "NSImageView"; ibExternalAccessibilityDescription = "icloud"; ObjectID = "irL-Hc-icZ"; </Description>
+      <Position>irL-Hc-icZ.ibExternalAccessibilityDescription</Position>
+      <TranslationSet>
+        <base loc="en">icloud</base>
+        <tran loc="ar">icloud</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Waiting for approval…"; ObjectID = "ECk-We-Ob8"; </Description>
+      <Position>ECk-We-Ob8.title</Position>
+      <TranslationSet>
+        <base loc="en">Waiting for approval…</base>
+        <tran loc="ar">في انتظار الموافقة…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Go to one of your other devices signed in to iCloud to approve this Mac."; ObjectID = "HUp-Cv-SLP"; </Description>
+      <Position>HUp-Cv-SLP.title</Position>
+      <TranslationSet>
+        <base loc="en">Go to one of your other devices signed in to iCloud to approve this Mac.</base>
+        <tran loc="ar">انتقل إلى أحد أجهزتك الأخرى المسجل عليها الدخول إلى iCloud للموافقة على هذا الـ Mac.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Can’t approve from another device?"; ObjectID = "4r2-ok-1d8"; </Description>
+      <Position>4r2-ok-1d8.title</Position>
+      <TranslationSet>
+        <base loc="en">Can’t approve from another device?</base>
+        <tran loc="ar">ألا يمكنك الموافقة من جهاز آخر؟</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>AuthKitUI/System/Library/PrivateFrameworks/AuthKitUI.framework/Versions/A/Resources/en.lproj/AKWebViewButtonBar.strings</Filepath>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Button"; ObjectID = "ELu-Hk-RFw"; </Description>
+      <Position>ELu-Hk-RFw.title</Position>
+      <TranslationSet>
+        <base loc="en">Button</base>
+        <tran loc="ar">زر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Button"; ObjectID = "bnI-2o-JDl"; </Description>
+      <Position>bnI-2o-JDl.title</Position>
+      <TranslationSet>
+        <base loc="en">Button</base>
+        <tran loc="ar">زر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Button"; ObjectID = "ikV-P9-2gv"; </Description>
+      <Position>ikV-P9-2gv.title</Position>
+      <TranslationSet>
+        <base loc="en">Button</base>
+        <tran loc="ar">زر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Label"; ObjectID = "gMN-dh-doq"; </Description>
+      <Position>gMN-dh-doq.title</Position>
+      <TranslationSet>
+        <base loc="en">Label</base>
+        <tran loc="ar">العنوان</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; alternateTitle = "mh36832"; ObjectID = "3VT-Cz-a3U"; </Description>
+      <Position>3VT-Cz-a3U.alternateTitle</Position>
+      <TranslationSet>
+        <base loc="en">mh36832</base>
+        <tran loc="ar">mh36832</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>AuthKitUI/System/Library/PrivateFrameworks/AuthKitUI.framework/Versions/A/Resources/en.lproj/AKAppleIDAuthenticationiCloudPrefPaneView.strings</Filepath>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Apple ID:"; ObjectID = "xVD-EB-Yjy"; </Description>
+      <Position>xVD-EB-Yjy.title</Position>
+      <TranslationSet>
+        <base loc="en">Apple ID:</base>
+        <tran loc="ar">‏Apple ID:</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; placeholderString = "Apple ID"; ObjectID = "anP-Ub-dRv"; </Description>
+      <Position>anP-Ub-dRv.placeholderString</Position>
+      <TranslationSet>
+        <base loc="en">Apple ID</base>
+        <tran loc="ar">Apple ID</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Forgot Apple ID or password?"; ObjectID = "LP9-2e-OTk"; </Description>
+      <Position>LP9-2e-OTk.title</Position>
+      <TranslationSet>
+        <base loc="en">Forgot Apple ID or password?</base>
+        <tran loc="ar">هل نسيت Apple ID أو كلمة السر؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButton"; ibExternalAccessibilityDescription = "Forgot Apple ID or password?"; ObjectID = "wBU-5k-jos"; </Description>
+      <Position>wBU-5k-jos.ibExternalAccessibilityDescription</Position>
+      <TranslationSet>
+        <base loc="en">Forgot Apple ID or password?</base>
+        <tran loc="ar">هل نسيت Apple ID أو كلمة السر؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Password:"; ObjectID = "PGA-Ec-fUW"; </Description>
+      <Position>PGA-Ec-fUW.title</Position>
+      <TranslationSet>
+        <base loc="en">Password:</base>
+        <tran loc="ar">كلمة السر:</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Create Apple ID…"; ObjectID = "ffw-XY-cEQ"; </Description>
+      <Position>ffw-XY-cEQ.title</Position>
+      <TranslationSet>
+        <base loc="en">Create Apple ID…</base>
+        <tran loc="ar">إنشاء Apple ID…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSSecureTextFieldCell"; placeholderString = "required"; ObjectID = "Xvq-1o-Adm"; </Description>
+      <Position>Xvq-1o-Adm.placeholderString</Position>
+      <TranslationSet>
+        <base loc="en">required</base>
+        <tran loc="ar">مطلوب</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButton"; ibExternalAccessibilityDescription = "Create new Apple ID"; ObjectID = "uiM-0U-nce"; </Description>
+      <Position>uiM-0U-nce.ibExternalAccessibilityDescription</Position>
+      <TranslationSet>
+        <base loc="en">Create new Apple ID</base>
+        <tran loc="ar">إنشاء Apple ID جديد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Your Apple ID lets you access your music, photos, contacts, calendars, and more on your devices, automatically."; ObjectID = "f3e-ye-saf"; </Description>
+      <Position>f3e-ye-saf.title</Position>
+      <TranslationSet>
+        <base loc="en">Your Apple ID lets you access your music, photos, contacts, calendars, and more on your devices, automatically.</base>
+        <tran loc="ar">يسمح لك Apple ID بالوصول إلى الموسيقى والصور وجهات الاتصال والتقويمات والمزيد على أجهزتك تلقائيًا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Next"; ObjectID = "aNW-7H-Gl1"; </Description>
+      <Position>aNW-7H-Gl1.title</Position>
+      <TranslationSet>
+        <base loc="en">Next</base>
+        <tran loc="ar">التالي</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>AuthKitUI/System/Library/PrivateFrameworks/AuthKitUI.framework/Versions/A/Resources/en.lproj/AKNoCodeReceived.strings</Filepath>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Other Options"; ObjectID = "f0G-2j-Um9"; </Description>
+      <Position>f0G-2j-Um9.title</Position>
+      <TranslationSet>
+        <base loc="en">Other Options</base>
+        <tran loc="ar">خيارات أخرى</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Cancel"; ObjectID = "YZ2-R5-ACt"; </Description>
+      <Position>YZ2-R5-ACt.title</Position>
+      <TranslationSet>
+        <base loc="en">Cancel</base>
+        <tran loc="ar">إلغاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Didn't Get a Code?"; ObjectID = "H9I-9p-oSG"; </Description>
+      <Position>H9I-9p-oSG.title</Position>
+      <TranslationSet>
+        <base loc="en">Didn't Get a Code?</base>
+        <tran loc="ar">ألم تحصل على رمز؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Send another Code"; ObjectID = "cwa-sU-YSX"; </Description>
+      <Position>cwa-sU-YSX.title</Position>
+      <TranslationSet>
+        <base loc="en">Send another Code</base>
+        <tran loc="ar">إرسال رمز آخر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "If you didn't get a code, you can send another code to another device signed in with your Apple ID."; ObjectID = "EVx-4l-nYb"; </Description>
+      <Position>EVx-4l-nYb.title</Position>
+      <TranslationSet>
+        <base loc="en">If you didn't get a code, you can send another code to another device signed in with your Apple ID.</base>
+        <tran loc="ar">إذا كنت لم تحصل على رمز، يمكنك إرسال رمز آخر إلى جهاز آخر قام بتسجيل الدخول باستخدام Apple ID الخاص بك.</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>AuthKitUI/System/Library/PrivateFrameworks/AuthKitUI.framework/Versions/A/Resources/en.lproj/Localizable.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>AUTHORIZATION_PRIVACY_SPLASH_SUMMARY</Position>
+      <TranslationSet>
+        <base loc="en">Sign in with Apple is designed to provide you with a sign-in experience that protects your privacy and that is safeguarded by the security built into Apple products.</base>
+        <tran loc="ar">تم تصميم تسجيل الدخول باستخدام Apple بطريقة توفر لك تجربة تسجيل دخول تحمي خصوصيتك ومؤمّنة بوسائل الأمن المتضمنة في منتجات Apple.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AUTHORIZE_EMAIL_HIDE_MY_EMAIL_DESCRIPTION</Position>
+      <TranslationSet>
+        <base loc="en">Hide My Email allows apps to contact you without receiving your real email address.</base>
+        <tran loc="ar">تسمح ميزة إخفاء بريدي الإلكتروني للتطبيقات بالتواصل معك دون أن تستلم عنوان بريدك الإلكتروني الحقيقي.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ENROLL_FORGOT_CODE</Position>
+      <TranslationSet>
+        <base loc="en">Forgot Code?</base>
+        <tran loc="ar">هل نسيت الرمز؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>REMOTE_SECRET_ENTRY_DEPLETED_ATTEMPTS_MESSAGE</Position>
+      <TranslationSet>
+        <base loc="en">For security reasons, your Apple ID has been blocked from signing in on this device for 24 hours.</base>
+        <tran loc="ar">لأسباب تتعلق بالأمن، تم حظر Apple ID الخاص بك من تسجيل الدخول على هذا الجهاز لمدة ٢٤ ساعة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PINFIELD_VIEW_INDEX_FORMAT</Position>
+      <TranslationSet>
+        <base loc="en">Pin entry field %@ of %@</base>
+        <tran loc="ar">حقل إدخال الـ Pin ‏%@ من %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>USE_BUTTON</Position>
+      <TranslationSet>
+        <base loc="en">Use “%@”</base>
+        <tran loc="ar">استخدام \"%@\"</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AUTHORIZATION_PRIVACY_FIRST_BULLET</Position>
+      <TranslationSet>
+        <base loc="en">Sign in with Apple allows you to sign in to an app without providing any information that personally identifies you.</base>
+        <tran loc="ar">يتيح لك \"تسجيل الدخول باستخدام Apple\" تسجيل الدخول إلى أي تطبيق دون تقديم معلومات تكشف عن هويتك الشخصية.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SIGN_IN_MESSAGE_SERVICE_IMESSAGE</Position>
+      <TranslationSet>
+        <base loc="en">Sign in to iMessage with your Apple ID. Don’t have an Apple ID? You can create one for free.</base>
+        <tran loc="ar">سجّل الدخول إلى iMessage باستخدام Apple ID. إذا لم يكن لديك Apple ID، يمكنك إنشاء واحد مجانًا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AUTHORIZE_EMAIL_REQUIRED_MESSAGE</Position>
+      <TranslationSet>
+        <base loc="en">Select an email option to continue.</base>
+        <tran loc="ar">حدد بريدًا إلكترونيًا للمتابعة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PASSWORD</Position>
+      <TranslationSet>
+        <base loc="en">password</base>
+        <tran loc="ar">كلمة السر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Use, Create</Description>
+      <Position>USE_APPLE_ID</Position>
+      <TranslationSet>
+        <base loc="en">Use Existing Apple ID</base>
+        <tran loc="ar">استخدام Apple ID موجود</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AUTHORIZE_APPLEID_CREATE_APPNAME_FORMAT</Position>
+      <TranslationSet>
+        <base loc="en">Create an account for %@ using your Apple ID.</base>
+        <tran loc="ar">قم بإنشاء حساب لـ %@ باستخدام الـ Apple ID.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AUTHORIZE_EMAIL_EDIT_INFO</Position>
+      <TranslationSet>
+        <base loc="en">This app requires an email address for new accounts. You can share your real email or an anonymous version of it.</base>
+        <tran loc="ar">يتطلب هذا تطبيق عنوان بريد إلكتروني للحسابات الجديدة. يمكنك مشاركة بريدك الإلكتروني الحقيقي أو إصدار مجهول من البريد الإلكتروني.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AUTHORIZE_SHARE_MY_EMAIL</Position>
+      <TranslationSet>
+        <base loc="en">Share My Email</base>
+        <tran loc="ar">مشاركة بريدي الإلكتروني</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> For the "Keep Using" view</Description>
+      <Position>KEEP_USING_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">“%@” is already signed in</base>
+        <tran loc="ar">تم تسجيل دخول \"%@\" بالفعل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>TRY_AGAIN</Position>
+      <TranslationSet>
+        <base loc="en">Try Again</base>
+        <tran loc="ar">حاول مرة أخرى</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description>
+  Localized.strings
+  AuthKit
+
+  Created by Jonathan Tilley on 2/16/15.
+  Copyright © 2015 Apple Inc. All rights reserved.
+
+ For the OS X Assistant context</Description>
+      <Position>APPLE_ID</Position>
+      <TranslationSet>
+        <base loc="en">Apple ID</base>
+        <tran loc="ar">Apple ID</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>APPLE_ID_ALERT_PLACEHOLDER</Position>
+      <TranslationSet>
+        <base loc="en">Apple ID</base>
+        <tran loc="ar">Apple ID</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Header text for alerts</Description>
+      <Position>APPLE_ID_HEADER</Position>
+      <TranslationSet>
+        <base loc="en">Apple ID</base>
+        <tran loc="ar">Apple ID</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>APPLE_ID_TEXTFIELD_ACCESSIBILITY_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Apple ID</base>
+        <tran loc="ar">Apple ID</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Authorization View Controller</Description>
+      <Position>AUTHORIZATION_VIEWCONTROLLER_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Apple ID</base>
+        <tran loc="ar">Apple ID</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> App name</Description>
+      <Position>AUTHORIZE_USE_DEVICE_IN_PROGRESS_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Signing in to %@…</base>
+        <tran loc="ar">جاري تسجيل الدخول إلى %@…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ENROLL_PASSWORD_ENTRY_INCORRECT_PASSWORD</Position>
+      <TranslationSet>
+        <base loc="en">Incorrect password.</base>
+        <tran loc="ar">كلمة السر غير صحيحة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SIGN_IN_WITH_APPLE_TOUCH_BAR</Position>
+      <TranslationSet>
+        <base loc="en"> Sign in with Apple</base>
+        <tran loc="ar"> تسجيل الدخول باستخدام Apple</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>REMOTE_SECRET_ENTRY_DEPLETED_ATTEMPTS_TITLE_SECURITY_CODE</Position>
+      <TranslationSet>
+        <base loc="en">Your security code has been entered incorrectly too many times.</base>
+        <tran loc="ar">لقد تم إدخال رمز الأمن الخاص بك بشكل غير صحيح لمرات كثيرة جدًا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ENROLL_CANT_APPROVE_BUTTON</Position>
+      <TranslationSet>
+        <base loc="en">Can‘t Approve</base>
+        <tran loc="ar">لا يمكن الموافقة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>EMAIL_OR_PHONE_PLACEHOLDER</Position>
+      <TranslationSet>
+        <base loc="en">Email or Phone</base>
+        <tran loc="ar">البريد الإلكتروني أو الهاتف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>RECOVERY_FORGOT_ALL_PASSWORDS_OR_PASSCODE_ALERT_MSG</Position>
+      <TranslationSet>
+        <base loc="en">If you can’t remember the password or passcode for any of your devices, you can still regain access to your Apple ID with account recovery.</base>
+        <tran loc="ar">إذا كنت لا تتذكر كلمة السر أو رمز الدخول لأي من أجهزتك، فلا يزال بإمكانك استعادة الوصول إلى Apple ID الخاص بك باستخدام ميزة استرداد الحساب.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>RECOVERY_FORGOT_DEVICE_PASSCODE_ALERT_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Forgot device passcode?</base>
+        <tran loc="ar">هل نسيت رمز دخول الجهاز؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ENROLL_IOS_MACHINE_TITLE_PASSCODE</Position>
+      <TranslationSet>
+        <base loc="en">Enter the passcode for the %@ “%@”.</base>
+        <tran loc="ar">أدخل رمز الدخول للـ %@ \"%@\".</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> &lt;/DEPRECATED&gt;
+ AKAPasswordRequestViewController</Description>
+      <Position>PASSWORD_REQUEST_VIEW_MULTIPLE_FOR_APP_QUESTION</Position>
+      <TranslationSet>
+        <base loc="en">Do you want to sign in to %@ with one of your saved passwords?</base>
+        <tran loc="ar">هل ترغب في تسجيل الدخول إلى %@ بإحدى كلمات السر المحفوظة؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> For the iCloud Pref Pane context</Description>
+      <Position>LEARN_MORE_URL</Position>
+      <TranslationSet>
+        <base loc="en">https://www.apple.com/icloud</base>
+        <tran loc="ar">https://www.apple.com/ae-ar/icloud</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SIGN_IN_DESC</Position>
+      <TranslationSet>
+        <base loc="en">iCloud lets you access your music, photos, contacts, calendars, and more on your devices, automatically.</base>
+        <tran loc="ar">يسمح لك iCloud بالوصول إلى الموسيقى، الصور، جهات الاتصال، التقويمات، والمزيد على أجهزتك تلقائيًا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Authorization Name</Description>
+      <Position>AUTHORIZE_FULL_NAME</Position>
+      <TranslationSet>
+        <base loc="en">Name</base>
+        <tran loc="ar">الاسم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description>Passcode</Description>
+      <Position>AUTHORIZE_BUTTON_TITLE_PASSCODE</Position>
+      <TranslationSet>
+        <base loc="en">Continue with Passcode</base>
+        <tran loc="ar">المتابعة باستخدام رمز الدخول</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>APPLE_ID_PASSCODE_HEADER_IPAD</Position>
+      <TranslationSet>
+        <base loc="en">iPad Passcode</base>
+        <tran loc="ar">رمز دخول iPad</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Use a different Apple ID button</Description>
+      <Position>USE_DIFFERENT_APPLE_ID</Position>
+      <TranslationSet>
+        <base loc="en">Use Different Apple ID</base>
+        <tran loc="ar">استخدام Apple ID مختلف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AUTHORIZE_APPLEID_CREATE_FORMAT</Position>
+      <TranslationSet>
+        <base loc="en">Create an account for %@ using your Apple ID “%@“.</base>
+        <tran loc="ar">قم بإنشاء حساب لـ %@ باستخدام الـ Apple ID ‏\"%@\".</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AUTHORIZATION_PRIVACY_SECOND_BULLET</Position>
+      <TranslationSet>
+        <base loc="en">Some developers may ask for your name, which you can edit. Or, they may ask for your email, which you can hide.</base>
+        <tran loc="ar">قد يسألك بعض المطورين عن اسمك، وهو ما يمكنك تغييره. أو قد يسألونك عن بريدك الإلكتروني، وهو ما يمكنك إخفاؤه.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ENROLL_START_ACCOUNT_RECOVERY</Position>
+      <TranslationSet>
+        <base loc="en">Start Account Recovery</base>
+        <tran loc="ar">بدء استرداد الحساب</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Password Authorization</Description>
+      <Position>AUTHORIZE_FOR_ACCOUNT_WITH_PASSWORD</Position>
+      <TranslationSet>
+        <base loc="en">Enter the password for Apple ID\n \“%@\” to continue.</base>
+        <tran loc="ar">أدخل كلمة سر Apple ID\n ‏‪\"%@\"‬ للمتابعة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SIGN_IN_WATCH_OS</Position>
+      <TranslationSet>
+        <base loc="en">Sign in</base>
+        <tran loc="ar">تسجيل الدخول</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AUTHORIZATION_PASSWORD_VIEWCONTROLLER_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Sign In</base>
+        <tran loc="ar">تسجيل الدخول</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>KEEP_USING_ALERT_YES_BUTTON</Position>
+      <TranslationSet>
+        <base loc="en">Sign In</base>
+        <tran loc="ar">تسجيل الدخول</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SIGN_IN</Position>
+      <TranslationSet>
+        <base loc="en">Sign In</base>
+        <tran loc="ar">تسجيل الدخول</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AUTHORIZATION_VIEWCONTROLLER_DONE</Position>
+      <TranslationSet>
+        <base loc="en">Done</base>
+        <tran loc="ar">تم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AUTH_PROCESSING_COMPLETE</Position>
+      <TranslationSet>
+        <base loc="en">Done</base>
+        <tran loc="ar">تم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AUTHORIZATION_PRIVACY_SPLASH_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Sign in with Apple &amp; Privacy</base>
+        <tran loc="ar">تسجيل الدخول باستخدام Apple والخصوصية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ENROLL_IOS_MACHINE_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Enter the password for the %@ “%@”.</base>
+        <tran loc="ar">أدخل كلمة السر للـ %@ \"%@\".</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SIGN_IN_HEADER_SERVICE_IMESSAGE</Position>
+      <TranslationSet>
+        <base loc="en">Sign in to iMessage with your Apple ID.</base>
+        <tran loc="ar">سجّل الدخول إلى iMessage باستخدام Apple ID.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ENROLL_GENERIC_MACHINE_MESSAGE</Position>
+      <TranslationSet>
+        <base loc="en">Your password is encrypted and cannot be read by Apple.</base>
+        <tran loc="ar">كلمة السر الخاصة بك مشفرة ولا يمكن قراءتها من قِبل شركة Apple.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Default placeholder reason string.</Description>
+      <Position>DEFAULT_PLACEHOLDER_AUTHENTICATION_REASON</Position>
+      <TranslationSet>
+        <base loc="en">Enter the password for “%@”.</base>
+        <tran loc="ar">أدخل كلمة سر \"%@\".</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AUTHORIZE_EMAIL_CELL_HIDE</Position>
+      <TranslationSet>
+        <base loc="en">Hide</base>
+        <tran loc="ar">إخفاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AUTHORIZATION_PRIVACY_REVIEW_ICON_INFO</Position>
+      <TranslationSet>
+        <base loc="en">In setting up Sign in with Apple, information about your interactions with Apple and this device may be used by Apple to help prevent fraud.</base>
+        <tran loc="ar">أثناء إعداد تسجيل الدخول باستخدام Apple، قد تستخدم Apple معلومات حول تفاعلاتك مع Apple وهذا الجهاز بغرض المساعدة في منع الاحتيال.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>TOO_MANY_ATTEMPTS_MESSAGE</Position>
+      <TranslationSet>
+        <base loc="en">Your password was entered incorrectly more than once. For your protection, you will need to retrieve it before continuing.</base>
+        <tran loc="ar">تم إدخال كلمة السر الخاصة بك بشكل غير صحيح لأكثر من مرة. لحمايتك، سيتعين عليك استردادها قبل المتابعة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ENROLL_IOS_MACHINE_MESSAGE_PASSCODE</Position>
+      <TranslationSet>
+        <base loc="en">Enter the passcode for the %@ “%@”. Your passcode is encrypted and cannot be read by Apple.</base>
+        <tran loc="ar">أدخل رمز الدخول للـ %@ \"%@\". رمز الدخول الخاص بك مشفر ولا يمكن قراءته من قِبل شركة Apple.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SIGN_IN_MESSAGE_SERVICE_FACETIME</Position>
+      <TranslationSet>
+        <base loc="en">Sign in to FaceTime with your Apple ID. Don’t have an Apple ID? You can create one for free.</base>
+        <tran loc="ar">سجّل الدخول إلى FaceTime باستخدام Apple ID. إذا لم يكن لديك Apple ID، يمكنك إنشاء واحد مجانًا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>BIO_BUTTON_SELECT_EMAIL</Position>
+      <TranslationSet>
+        <base loc="en">Select an email to continue</base>
+        <tran loc="ar">تحديد بريد إلكتروني للمتابعة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> e.g. Create an account for Chroma on the Apple TV “Living Room“ using your Apple ID “john@icloud.com“</Description>
+      <Position>AUTHORIZE_APPLEID_CREATE_PROXIED_FORMAT</Position>
+      <TranslationSet>
+        <base loc="en">Create an account for %@ on the %@ “%@“ using your Apple ID “%@“.</base>
+        <tran loc="ar">قم بإنشاء حساب لـ %@ على %@ ‏\"%@\" باستخدام الـ Apple ID ‏\"%@\".</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AUTHORIZE_BUTTON_TITLE_PASSWORD</Position>
+      <TranslationSet>
+        <base loc="en">Continue with Password</base>
+        <tran loc="ar">المتابعة باستخدام كلمة السر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SIGN_IN_MESSAGE_NO_SERVICE</Position>
+      <TranslationSet>
+        <base loc="en">Sign in with your Apple ID. Don’t have an Apple ID? You can create one for free.</base>
+        <tran loc="ar">سجّل الدخول باستخدام Apple ID. إذا لم يكن لديك Apple ID، يمكنك إنشاء حساب مجانًا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>TURN_OFF_KEYCHAIN_AUTHENTICATION_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Enter your Apple ID password to turn off iCloud Keychain.</base>
+        <tran loc="ar">أدخل كلمة سر Apple ID لإيقاف سلسلة مفاتيح iCloud.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>INCORRECT_SECURITY_CODE</Position>
+      <TranslationSet>
+        <base loc="en">Incorrect security code.</base>
+        <tran loc="ar">رمز الأمن غير صحيح.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ENROLL_IOS_MACHINE_MESSAGE</Position>
+      <TranslationSet>
+        <base loc="en">Enter the password for the %@ “%@”. Your password is encrypted and cannot be read by Apple.</base>
+        <tran loc="ar">أدخل كلمة السر للـ %@ \"%@\". كلمة السر الخاصة بك مشفرة ولا يمكن قراءتها من قِبل شركة Apple.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AUTHORIZE_EMAIL_OPTIONS</Position>
+      <TranslationSet>
+        <base loc="en">Email Options</base>
+        <tran loc="ar">خيارات البريد الإلكتروني</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>RECOVERY_FORGOT_DEVICE_PASSCODE_ALERT_MSG</Position>
+      <TranslationSet>
+        <base loc="en">If you can’t remember the passcode for “%@”, you can still regain access to your Apple ID with account recovery.</base>
+        <tran loc="ar">إذا كنت لا تتذكر رمز الدخول لـ \"%@\"، فلا يزال بإمكانك استعادة إمكانية الوصول إلى الـ Apple ID الخاص بك من خلال استرداد الحساب.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description>*
+ 
+* Default to "iCloud", special case for "App Store"
+ 
+ For the OS X Sign-In prompt</Description>
+      <Position>SIGN_IN_HEADER_NO_SERVICE</Position>
+      <TranslationSet>
+        <base loc="en">Sign in with your Apple ID.</base>
+        <tran loc="ar">قم بتسجيل الدخول باستخدام Apple ID الخاص بك.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SIGN_IN_HEADER_SERVICE_ITUNES</Position>
+      <TranslationSet>
+        <base loc="en">Sign in with your Apple ID.</base>
+        <tran loc="ar">قم بتسجيل الدخول باستخدام Apple ID الخاص بك.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PASSWORD_REQUEST_VIEW_APPLE_OR_KEYCHAIN_QUESTION</Position>
+      <TranslationSet>
+        <base loc="en">Do you want to sign in to %@ with your Apple ID or one of your saved passwords?</base>
+        <tran loc="ar">هل ترغب في تسجيل الدخول إلى %@ بالـ Apple ID أم بإحدى كلمات السر المحفوظة؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CDP_NEEDS_PASSWORD_MESSAGE</Position>
+      <TranslationSet>
+        <base loc="en">Enter the password for the Apple ID “%@”.</base>
+        <tran loc="ar">أدخل كلمة سر Apple ID‏ ‪\"%@\"‬.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SERVER_ERROR</Position>
+      <TranslationSet>
+        <base loc="en">There was a problem connecting to the server.</base>
+        <tran loc="ar">هنالك مشكلة أثناء الاتصال بالخادم.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> For the "Too Many Attempts" modal</Description>
+      <Position>TOO_MANY_ATTEMPTS_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Did you forget your password?</base>
+        <tran loc="ar">هل نسيت كلمة السر الخاصة بك؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AUTHORIZE_APPLE_ID_WELCOME_APPNAME_FORMAT</Position>
+      <TranslationSet>
+        <base loc="en">Do you want to sign in to %@ with your Apple ID?</base>
+        <tran loc="ar">هل ترغب في تسجيل الدخول إلى %@ بالـ Apple ID؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>INVALID_USER_PASSWORD</Position>
+      <TranslationSet>
+        <base loc="en">User password was incorrect. Please try again.</base>
+        <tran loc="ar">كلمة سر المستخدم غير صحيحة. الرجاء المحاولة مرة أخرى.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>FORGOT_PASSWORD_ALERT</Position>
+      <TranslationSet>
+        <base loc="en">Forgot Password</base>
+        <tran loc="ar">نسيت كلمة السر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>RECOVERY_FORGOT_ALL_PASSCODE_ALERT_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Forgot all passcodes?</base>
+        <tran loc="ar">هل نسيت كل رموز الدخول؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>OK</Position>
+      <TranslationSet>
+        <base loc="en">OK</base>
+        <tran loc="ar">موافق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SIGN_UP_WITH_APPLE</Position>
+      <TranslationSet>
+        <base loc="en">Sign up with Apple</base>
+        <tran loc="ar">التسجيل باستخدام Apple</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>TURN_OFF_KEYCHAIN_OLDER_PEERS_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Turn off iCloud Keychain?</base>
+        <tran loc="ar">إيقاف سلسلة مفاتيح iCloud؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>BIO_BUTTON_ENTER_NAME</Position>
+      <TranslationSet>
+        <base loc="en">Enter a name to continue</base>
+        <tran loc="ar">أدخل اسمًا للمتابعة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SIGN_IN_MESSAGE_SERVICE_ITUNES</Position>
+      <TranslationSet>
+        <base loc="en">Sign in to Apple Media Services with your Apple ID. Don’t have an Apple ID? You can create one for free.</base>
+        <tran loc="ar">سجّل الدخول إلى خدمات وسائط Apple باستخدام Apple ID. إذا لم يكن لديك Apple ID، يمكنك إنشاء واحد مجانًا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>GO_BACK</Position>
+      <TranslationSet>
+        <base loc="en">Go Back</base>
+        <tran loc="ar">انتقال للخلف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> app name</Description>
+      <Position>AUTHORIZE_NAME_EDIT_INFO_FORMAT</Position>
+      <TranslationSet>
+        <base loc="en">%@ is requesting your name to personalize your app experience.</base>
+        <tran loc="ar">يطلب تطبيق %@ اسمك لتخصيص تجربة استخدام التطبيق.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PASSWORD_REQUEST_VIEW_MULTIPLE_FOR_APP_QUESTION_GENERIC</Position>
+      <TranslationSet>
+        <base loc="en">Do you want to sign in to this app with one of your saved passwords?</base>
+        <tran loc="ar">هل ترغب في تسجيل الدخول إلى هذا التطبيق بإحدى كلمات السر المحفوظة؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> local term for family name (same as Contacts)</Description>
+      <Position>AUTHORIZE_FAMILY_NAME</Position>
+      <TranslationSet>
+        <base loc="en">Last Name</base>
+        <tran loc="ar">الاسم الأخير</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PASSWORD_REQUEST_VIEW_APPLE_OR_KEYCHAIN_QUESTION_GENERIC</Position>
+      <TranslationSet>
+        <base loc="en">Do you want to sign in to this app with your Apple ID or one of your saved passwords?</base>
+        <tran loc="ar">هل ترغب في تسجيل الدخول إلى هذا التطبيق بالـ Apple ID أم بإحدى كلمات السر المحفوظة؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ENROLL_SIGN_IN_LATER</Position>
+      <TranslationSet>
+        <base loc="en">Sign In Later</base>
+        <tran loc="ar">تسجيل الدخول لاحقًا</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SIGN_IN_LATER</Position>
+      <TranslationSet>
+        <base loc="en">Sign In Later</base>
+        <tran loc="ar">تسجيل الدخول لاحقًا</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AUTHORIZATION_PRIVACY_THIRD_BULLET</Position>
+      <TranslationSet>
+        <base loc="en">Apple does not track what apps or websites you sign in to or when.</base>
+        <tran loc="ar">لا تتعقب Apple التطبيقات أو المواقع الإلكترونية التي تسجل الدخول إليها أو وقت قيامك بذلك.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>REMOTE_SECRET_ENTRY_DEPLETED_ATTEMPTS_TITLE_PASSWORD</Position>
+      <TranslationSet>
+        <base loc="en">You have entered too many incorrect passwords.</base>
+        <tran loc="ar">لقد أدخلت كلمات سر غير صحيحة كثيرة جدًا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SIGN_IN_MESSAGE_NO_CREATE_SERVICE_IMESSAGE</Position>
+      <TranslationSet>
+        <base loc="en">Enter your password to continue using iMessage on this Mac.</base>
+        <tran loc="ar">أدخل كلمة السر لمتابعة استخدام iMessage على هذا الـ Mac.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SAME_PASSWORD_ERROR_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Enter the password for “%@”, which is not the password for this %@.</base>
+        <tran loc="ar">أدخل كلمة السر لـ \"%@\"، والتي تختلف عن كلمة السر لهذا الـ %@.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Rapport</Description>
+      <Position>AUTHORIZE_USE_DEVICE_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Sign In with iPhone or iPad</base>
+        <tran loc="ar">تسجيل الدخول باستخدام iPhone أو iPad</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PASSWORD_REQUEST_VIEW_SINGLE_FOR_APP_QUESTION_GENERIC</Position>
+      <TranslationSet>
+        <base loc="en">Do you want to sign in to this app with your saved password?</base>
+        <tran loc="ar">هل ترغب في تسجيل الدخول إلى هذا التطبيق بكلمة السر المحفوظة؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AUTH_ALERT_SIGN_UP_NOT_COMPLETED</Position>
+      <TranslationSet>
+        <base loc="en">Sign Up Not Completed</base>
+        <tran loc="ar">التسجيل غير مكتمل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>RECOVERY_FORGOT_ALL_PASSWORDS_OR_PASSCODE_ALERT_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Forgot all passwords or passcodes?</base>
+        <tran loc="ar">هل نسيت كل كلمات السر أو رموز الدخول؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> -- iOS Specific starts here --
+ General</Description>
+      <Position>ALERT_CANCEL</Position>
+      <TranslationSet>
+        <base loc="en">Cancel</base>
+        <tran loc="ar">إلغاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AUTHORIZATION_VIEWCONTROLLER_CANCEL</Position>
+      <TranslationSet>
+        <base loc="en">Cancel</base>
+        <tran loc="ar">إلغاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CANCEL</Position>
+      <TranslationSet>
+        <base loc="en">Cancel</base>
+        <tran loc="ar">إلغاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>KEEP_USING_ALERT_CANCEL_BUTTON</Position>
+      <TranslationSet>
+        <base loc="en">Cancel</base>
+        <tran loc="ar">إلغاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SIGN_IN_MESSAGE_NO_CREATE_SERVICE_FACETIME</Position>
+      <TranslationSet>
+        <base loc="en">Enter your password to continue using FaceTime on this Mac.</base>
+        <tran loc="ar">أدخل كلمة السر لمتابعة استخدام FaceTime على هذا الـ Mac.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DEPLETED_ATTEMPTS_ERROR_TITLE_PASSCODE</Position>
+      <TranslationSet>
+        <base loc="en">The passcode for “%@” was entered incorrectly too many times.</base>
+        <tran loc="ar">تم إدخال رمز الدخول لـ \"%@\" بشكل غير صحيح عدة مرات.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SIGN_IN_HEADER_NO_CREATE</Position>
+      <TranslationSet>
+        <base loc="en">Enter the Apple ID password for “%@”.</base>
+        <tran loc="ar">قم بإدخال كلمة سر Apple ID لـ \"%@\".</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CREATE_APPLE_ID</Position>
+      <TranslationSet>
+        <base loc="en">Create New Apple ID</base>
+        <tran loc="ar">إنشاء Apple ID جديد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CREATE_APPLE_ID_BUTTON_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Create New Apple ID</base>
+        <tran loc="ar">إنشاء Apple ID جديد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AUTHORIZATION_PRIVACY_REVIEW_CONFIRM</Position>
+      <TranslationSet>
+        <base loc="en">Continue</base>
+        <tran loc="ar">متابعة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Authorization Button</Description>
+      <Position>AUTHORIZE_BUTTON_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Continue</base>
+        <tran loc="ar">متابعة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AUTHORIZE_BUTTON_TITLE_macOS</Position>
+      <TranslationSet>
+        <base loc="en">Continue</base>
+        <tran loc="ar">متابعة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AUTHORIZE_FIRST_TIME_BUTTON_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Continue</base>
+        <tran loc="ar">متابعة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AUTHORIZE_PASSWORD_VALIDATION_BUTTON_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Continue</base>
+        <tran loc="ar">متابعة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CONTINUE</Position>
+      <TranslationSet>
+        <base loc="en">Continue</base>
+        <tran loc="ar">متابعة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CDP_LOCKED_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Your Apple ID has been temporarily locked.</base>
+        <tran loc="ar">تم قفل Apple ID الخاص بك مؤقتًا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>APPLE_ID_SIGN_IN_HEADER</Position>
+      <TranslationSet>
+        <base loc="en">Apple ID Sign In Requested</base>
+        <tran loc="ar">تم طلب تسجيل دخول Apple ID</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>RECOVERY_FORGOT_ALL_PASSCODE_ALERT_MSG</Position>
+      <TranslationSet>
+        <base loc="en">If you can’t remember the passcode for any of your devices, you can still regain access to your Apple ID with account recovery.</base>
+        <tran loc="ar">إذا كنت لا تتذكر رمز الدخول لأي من أجهزتك، فلا يزال بإمكانك استعادة الوصول إلى Apple ID الخاص بك باستخدام ميزة استرداد الحساب.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Authorization Messages</Description>
+      <Position>AUTHORIZE_APPLEID_CREATE</Position>
+      <TranslationSet>
+        <base loc="en">Create an account using your Apple ID.</base>
+        <tran loc="ar">قم بإنشاء حساب باستخدام الـ Apple ID.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DEPLETED_ATTEMPTS_ERROR_MSG</Position>
+      <TranslationSet>
+        <base loc="en">Choose a device to enter its password.</base>
+        <tran loc="ar">اختر جهازًا لإدخال كلمة السر الخاصة به.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SETUP_VALIDATE_LOCAL_PASSWORD_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Setup Assistant wants to make changes.</base>
+        <tran loc="ar">يرغب مساعد الإعداد في إجراء تغييرات.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>RECOVERY_FORGOT_ALL_PASSWORDS_ALERT_MSG</Position>
+      <TranslationSet>
+        <base loc="en">If you can’t remember the password for any of your devices, you can still regain access to your Apple ID with account recovery.</base>
+        <tran loc="ar">إذا كنت لا تتذكر كلمة السر لأي من أجهزتك، فلا يزال بإمكانك استعادة الوصول إلى Apple ID الخاص بك باستخدام ميزة استرداد الحساب.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ENROLL_FORGOT_BUTTON</Position>
+      <TranslationSet>
+        <base loc="en">Forgot %@ password?</base>
+        <tran loc="ar">هل نسيت كلمة سر %@؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> For the code entry alert</Description>
+      <Position>ENTER_VERIFICATION_CODE</Position>
+      <TranslationSet>
+        <base loc="en">A message with a verification code has been sent to your other devices running iOS 9 or OS X El Capitan or later. Enter the code to continue.</base>
+        <tran loc="ar">تم إرسال رسالة تتضمن رمز التحقق إلى أجهزتك الأخرى التي تعمل بنظام iOS 9 أو OS X El Capitan أو أحدث. أدخل الرمز للمتابعة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CDP_UNLOCKED_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Your Apple ID is now unlocked.</base>
+        <tran loc="ar">تم فتح قفل Apple ID الخاص بك الآن.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PASSWORD_PLACEHOLDER</Position>
+      <TranslationSet>
+        <base loc="en">Required</base>
+        <tran loc="ar">مطلوب</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> &lt;DEPRECATED&gt; -- will be removed after last use</Description>
+      <Position>AUTHORIZE_PRIVATE_EMAIL_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Anonymous Email</base>
+        <tran loc="ar">بريد إلكتروني مجهول</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SIGN_IN_MESSAGE_SERVICE_GAME_CENTER</Position>
+      <TranslationSet>
+        <base loc="en">Sign in to Game Center with your Apple ID. Don’t have an Apple ID? You can create one for free.</base>
+        <tran loc="ar">سجّل الدخول إلى Game Center باستخدام Apple ID. إذا لم يكن لديك Apple ID، يمكنك إنشاء واحد مجانًا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AUTHORIZE_FIRST_TIME_MESSAGE_1</Position>
+      <TranslationSet>
+        <base loc="en">Sign in to apps and websites with the Apple ID you already have.</base>
+        <tran loc="ar">سجّل الدخول إلى التطبيقات والمواقع الإلكترونية باستخدام الـ Apple ID الذي لديك حاليًا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AUTHORIZATION_PRIVACY_FIFTH_BULLET</Position>
+      <TranslationSet>
+        <base loc="en">When you first use an app with Sign in with Apple, Apple uses information about your account and experiences with Apple along with information about your device to help prevent fraud.</base>
+        <tran loc="ar">عندما تستخدم تطبيقًا لأول مرة عبر تسجيل الدخول باستخدام Apple، فإن Apple تستخدم المعلومات المتعلقة بحسابك وخبراتك مع Apple إضافة إلى معلومات حول جهازك للمساعدة في منع الاحتيال.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PASSWORDS_WELCOME_WATCH</Position>
+      <TranslationSet>
+        <base loc="en">Sign in to this app</base>
+        <tran loc="ar">تسجيل الدخول إلى هذا التطبيق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CANT_APPROVE_OUT_OF_DEVICE_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">If you can‘t approve this Mac to use iCloud, your Apple ID will be blocked from signing in for 24 hours.</base>
+        <tran loc="ar">إذا لم تتمكن من الموافقة على هذا الـ Mac لاستخدام iCloud، فسيتم حظر تسجيل دخول Apple ID الخاص بك لمدة ٢٤ ساعة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AUTHORIZATION_PRIVACY_LEARN_HOW_FORMAT</Position>
+      <TranslationSet>
+        <base loc="en">Learn how your data is managed by visiting %@</base>
+        <tran loc="ar">تعرف على كيفية إدارة بيانات بزيارة %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SIGN_IN_MESSAGE_SERVICE_ICLOUD</Position>
+      <TranslationSet>
+        <base loc="en">Sign in to iCloud with your Apple ID. Don’t have an Apple ID? You can create one for free.</base>
+        <tran loc="ar">قم بتسجيل الدخول إلى iCloud باستخدام الـ Apple ID الخاص بك. إذا لم يكن لديك Apple ID، يمكنك إنشاء واحد مجانًا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ENROLL_CURRENT_MACHINE_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">To access your iCloud data, enter the password for user %@.</base>
+        <tran loc="ar">للوصول إلى بيانات iCloud الخاصة بك، قم بإدخال كلمة سر المستخدم %@.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ENROLL_GENERIC_ICSC_LABEL</Position>
+      <TranslationSet>
+        <base loc="en">Your iCloud data is protected by your iCloud Security Code.</base>
+        <tran loc="ar">بيانات iCloud الخاصة بك محمية برمز أمن iCloud الخاص بك.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ENROLL_FORGOT_ALL_DEVICES_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">If you can‘t remember the password or passcode for any of your devices, you can approve this Mac using another device.</base>
+        <tran loc="ar">إذا كنت لا تتذكر كلمة السر أو رمز الدخول لأي من أجهزتك، يمكنك الموافقة على هذا الـ Mac باستخدام جهاز آخر.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CDP_UNLOCKED_DESCRIPTION</Position>
+      <TranslationSet>
+        <base loc="en">Your iCloud keychain has been reset.</base>
+        <tran loc="ar">تمت إعادة تعيين سلسلة مفاتيح iCloud الخاصة بك.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>FORGOT_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Forgot Apple ID or Password?</base>
+        <tran loc="ar">هل نسيت Apple ID أو كلمة السر؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>IFORGOT_BUTTON_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Forgot Apple ID or Password?</base>
+        <tran loc="ar">هل نسيت Apple ID أو كلمة السر؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AUTHORIZATION_PRIVACY_URL</Position>
+      <TranslationSet>
+        <base loc="en">https://www.apple.com/privacy/</base>
+        <tran loc="ar">https://www.apple.com/ae-ar/privacy/</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AUTHORIZE_FORWARDED_TO_FORMAT</Position>
+      <TranslationSet>
+        <base loc="en">Forwarded to: %@</base>
+        <tran loc="ar">تم التحويل إلى: %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> For the OS X Inline Sign-In prompt</Description>
+      <Position>SIGN_IN_INLINE_CREDENTIALS_ERROR</Position>
+      <TranslationSet>
+        <base loc="en">Your Apple ID or password was incorrect.</base>
+        <tran loc="ar">‏Apple ID الخاص بك أو كلمة السر غير صحيحة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SETUP_VALIDATE_LOCAL_PASSWORD_MESSAGE</Position>
+      <TranslationSet>
+        <base loc="en">Enter your password to allow this.</base>
+        <tran loc="ar">أدخل كلمة السر الخاصة بك للسماح بذلك.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>USE_DIFFERENT_APPLE_ID_macOS</Position>
+      <TranslationSet>
+        <base loc="en">Use a different Apple ID</base>
+        <tran loc="ar">استخدام Apple ID مختلف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AUTHORIZE_USE_APPLE_ID_PASSWORD_TO_CONTINUE</Position>
+      <TranslationSet>
+        <base loc="en">Use Apple ID \“%@\”\n password to continue.</base>
+        <tran loc="ar">استخدم كلمة سر Apple ID\n‏\"%@\" للمتابعة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Authorization Email
+ noun indicating that this is a way to contact you by email</Description>
+      <Position>AUTHORIZE_EMAIL_CONTACT</Position>
+      <TranslationSet>
+        <base loc="en">Email</base>
+        <tran loc="ar">البريد الإلكتروني</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>EMAIL_PLACEHOLDER</Position>
+      <TranslationSet>
+        <base loc="en">Email</base>
+        <tran loc="ar">بريد إلكتروني</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> account username (i.e. email most likely)</Description>
+      <Position>AUTHORIZE_USE_DEVICE_INSTRUCTIONS</Position>
+      <TranslationSet>
+        <base loc="en">A notification has been sent to nearby devices that are signed in with Apple ID “%@”.</base>
+        <tran loc="ar">تم إرسال إشعار إلى الأجهزة القريبة التي تم تسجيل الدخول عليها باستخدام الـ Apple ID ‏\"%@\".</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SIGN_IN_HEADER_SERVICE_GAME_CENTER</Position>
+      <TranslationSet>
+        <base loc="en">Sign in to Game Center with your Apple ID.</base>
+        <tran loc="ar">سجّل الدخول إلى Game Center باستخدام Apple ID.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SIGN_IN_HEADER_SERVICE_ICLOUD</Position>
+      <TranslationSet>
+        <base loc="en">Sign in to iCloud with your Apple ID.</base>
+        <tran loc="ar">قم بتسجيل الدخول إلى iCloud باستخدام الـ Apple ID الخاص بك.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SIGN_IN_BUTTON_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Sign In…</base>
+        <tran loc="ar">الدخول…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SIGN_IN_MESSAGE_NO_CREATE_NO_SERVICE</Position>
+      <TranslationSet>
+        <base loc="en">Enter your password to continue using your Apple ID on this Mac.</base>
+        <tran loc="ar">أدخل كلمة السر لمتابعة استخدام Apple ID على هذا الـ Mac.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SIGN_IN_HEADER_SERVICE_FACETIME</Position>
+      <TranslationSet>
+        <base loc="en">Sign in to FaceTime with your Apple ID.</base>
+        <tran loc="ar">سجّل الدخول إلى FaceTime باستخدام Apple ID.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> e.g. e.g. Do you want to sign in to Chroma on the Apple TV “Living Room“ using your Apple ID “john@icloud.com“</Description>
+      <Position>AUTHORIZE_APPLE_ID_WELCOME_PROXIED_FORMAT</Position>
+      <TranslationSet>
+        <base loc="en">Do you want to sign in to %@ on the %@ “%@“ with your Apple ID “%@“?</base>
+        <tran loc="ar">هل ترغب في تسجيل الدخول إلى %@ على %@ ‏\"%@\" بالـ Apple ID ‏\"%@\"؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ENROLL_FORGOT_CODE_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">If you can‘t remember the iCloud Security Code, you can approve this Mac using another device.</base>
+        <tran loc="ar">إذا كنت لا تتذكر رمز أمن iCloud، يمكنك الموافقة على هذا الـ Mac باستخدام جهاز آخر.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>BIO_BUTTON_SELECT_ACCOUNT</Position>
+      <TranslationSet>
+        <base loc="en">Select an account to continue</base>
+        <tran loc="ar">حدد حسابًا للمتابعة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ENROLL_FORGOT_MORE_DEVICES_TITLE_PASSCODE</Position>
+      <TranslationSet>
+        <base loc="en">If you can‘t remember the passcode for %@ “%@”, you can enter the password for one of your other devices.</base>
+        <tran loc="ar">إذا كنت لا تتذكر رمز الدخول لـ %@ \"%@\"، يمكنك إدخال كلمة السر لأحد أجهزتك الأخرى.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>KEEP_USING_ALERT_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Use the Apple ID “%@” for %@?</base>
+        <tran loc="ar">هل تريد استخدام \"%@\" Apple ID لـ %@؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AUTHORIZATION_VIEWCONTROLLER_BACK</Position>
+      <TranslationSet>
+        <base loc="en">Back</base>
+        <tran loc="ar">الخلف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ENROLL_BACK_BUTTON</Position>
+      <TranslationSet>
+        <base loc="en">Back</base>
+        <tran loc="ar">الخلف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>GENERIC_BACK_BUTTON</Position>
+      <TranslationSet>
+        <base loc="en">Back</base>
+        <tran loc="ar">رجوع</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AUTHORIZE_APPLE_ID_WELCOME_APPLEID_FORMAT</Position>
+      <TranslationSet>
+        <base loc="en">Do you want to sign in to this application with your Apple ID “%@“?</base>
+        <tran loc="ar">هل ترغب في تسجيل الدخول إلى هذا التطبيق بالـ Apple ID ‏\"%@\"؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>APPLE_ID_PASSWORD_HEADER</Position>
+      <TranslationSet>
+        <base loc="en">Apple ID Password</base>
+        <tran loc="ar">كلمة سر Apple ID</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CONTINUE_WITH_APPLE</Position>
+      <TranslationSet>
+        <base loc="en">Continue with Apple</base>
+        <tran loc="ar">المتابعة مع Apple</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>FORGOT_DESCRIPTION</Position>
+      <TranslationSet>
+        <base loc="en">You can recover your Apple ID or reset your password.</base>
+        <tran loc="ar">يمكنك استرداد Apple ID الخاص بك أو إعادة تعيين كلمة السر الخاصة بك.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> iForgot</Description>
+      <Position>FORGOT_APPLE_ID</Position>
+      <TranslationSet>
+        <base loc="en">Forgot Apple ID</base>
+        <tran loc="ar">نسيت Apple ID</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PASSWORDS_WELCOME_FORMAT_WATCH</Position>
+      <TranslationSet>
+        <base loc="en">Sign in to %@</base>
+        <tran loc="ar">تسجيل الدخول إلى %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AUTHORIZE_FIRST_TIME_MESSAGE_3</Position>
+      <TranslationSet>
+        <base loc="en">Keep your email address private but still receive messages from the app.</base>
+        <tran loc="ar">حافظ على سرية عنوان بريدك الإلكتروني واستلم رسائل من التطبيق في نفس الوقت.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> local term for given name (same as Contacts)</Description>
+      <Position>AUTHORIZE_GIVEN_NAME</Position>
+      <TranslationSet>
+        <base loc="en">First Name</base>
+        <tran loc="ar">الاسم الأول</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>RECOVERY_FORGOT_ALL_PASSWORDS_ALERT_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Forgot all passwords?</base>
+        <tran loc="ar">هل نسيت كل كلمات السر؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PASSWORD_REQUEST_VIEW_SAVED_FROM_WATCHOS</Position>
+      <TranslationSet>
+        <base loc="en">Saved from\n%@</base>
+        <tran loc="ar">تم الحفظ من\n%@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AUTHORIZE_YOUR_EMAIL_ADDRESSES</Position>
+      <TranslationSet>
+        <base loc="en">Your Email Addresses</base>
+        <tran loc="ar">عناوين بريدك الإلكتروني</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CDP_LOCKED_DESCRIPTION</Position>
+      <TranslationSet>
+        <base loc="en">Try signing in again later.</base>
+        <tran loc="ar">حاول تسجيل الدخول مرة أخرى في وقت لاحق.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AUTHORIZE_WELCOME_WATCH</Position>
+      <TranslationSet>
+        <base loc="en">Use this app with Apple ID</base>
+        <tran loc="ar">استخدام هذا التطبيق بالـ Apple ID</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ENROLL_CANT_APPROVE_BUTTON_QUESTION_MARK</Position>
+      <TranslationSet>
+        <base loc="en">Can‘t Approve?</base>
+        <tran loc="ar">ألا يمكن الموافقة؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>KEEP_USING_ALERT_NO_BUTTON</Position>
+      <TranslationSet>
+        <base loc="en">Use Other Apple ID</base>
+        <tran loc="ar">استخدام Apple ID آخر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AUTHORIZE_FIRST_TIME_TITLE_3</Position>
+      <TranslationSet>
+        <base loc="en">Hide your email</base>
+        <tran loc="ar">إخفاء بريدك الإلكتروني</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AUTHORIZE_PRIVATE_EMAIL_FOOTER</Position>
+      <TranslationSet>
+        <base loc="en">Anonymous email allows this app to contact you without receiving your real email address.</base>
+        <tran loc="ar">يسمح البريد الإلكتروني المجهول لهذا التطبيق بالتواصل معك دون أن يستلم عنوان بريدك الإلكتروني الحقيقي.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ENROLL_FORGOT_MORE_DEVICES_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">If you can‘t remember the password for %@ “%@”, you can enter the password for one of your other devices.</base>
+        <tran loc="ar">إذا كنت لا تتذكر كلمة السر لـ %@ \"%@\"، يمكنك إدخال كلمة السر لأحد أجهزتك الأخرى.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AUTHORIZE_PASSWORD_VALIDATION_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Enter the password for the user “%@” to continue.</base>
+        <tran loc="ar">أدخل كلمة سر المستخدم \"%@\" للمتابعة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CANT_APPROVE_OUT_OF_DEVICE_MSG</Position>
+      <TranslationSet>
+        <base loc="en">Try signing in again after this time.</base>
+        <tran loc="ar">جرِّب تسجيل الدخول مرة أخرى بعد هذا الوقت.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> email address</Description>
+      <Position>AUTHORIZE_FORWARD_TO_FORMAT</Position>
+      <TranslationSet>
+        <base loc="en">Forward To: %@</base>
+        <tran loc="ar">تحويل إلى: %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AUTHORIZE_FIRST_TIME_TITLE_2</Position>
+      <TranslationSet>
+        <base loc="en">Respects your privacy</base>
+        <tran loc="ar">يحترم خصوصيتك</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AUTHORIZATION_IN_PROGRESS</Position>
+      <TranslationSet>
+        <base loc="en">Signing in</base>
+        <tran loc="ar">جاري تسجيل الدخول</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AUTH_PROCESSING_LOADING</Position>
+      <TranslationSet>
+        <base loc="en">Signing in</base>
+        <tran loc="ar">جاري تسجيل الدخول</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ENROLL_PASSCODE_ENTRY_INCORRECT_PASSCODE</Position>
+      <TranslationSet>
+        <base loc="en">Incorrect passcode.</base>
+        <tran loc="ar">رمز الدخول غير صحيح.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>VERIFICATION_HEADER</Position>
+      <TranslationSet>
+        <base loc="en">Apple ID Verification Code</base>
+        <tran loc="ar">رمز تحقق Apple ID</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AUTHORIZE_FIRST_TIME_TITLE_1</Position>
+      <TranslationSet>
+        <base loc="en">Fast and easy</base>
+        <tran loc="ar">سهل وسريع</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>REMOTE_SECRET_ENTRY_DEPLETED_ATTEMPTS_TITLE_PASSCODE</Position>
+      <TranslationSet>
+        <base loc="en">You have entered too many incorrect passcodes.</base>
+        <tran loc="ar">لقد أدخلت رموز دخول غير صحيحة كثيرة جدًا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>RECOVERY_FORGOT_DEVICE_PASSWORDS_ALERT_MSG</Position>
+      <TranslationSet>
+        <base loc="en">If you can’t remember the password for “%@”, you can still regain access to your Apple ID with account recovery.</base>
+        <tran loc="ar">إذا كنت لا تتذكر كلمة السر \"%@\"، فلا يزال بإمكانك استعادة إمكانية الوصول إلى الـ Apple ID الخاص بك من خلال استرداد الحساب.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> app name</Description>
+      <Position>AUTHORIZE_EMAIL_EDIT_INFO_FORMAT</Position>
+      <TranslationSet>
+        <base loc="en">%@ requires an email address for new accounts. You can share your real email or an anonymous version of it.</base>
+        <tran loc="ar">يتطلب تطبيق %@ عنوان بريد إلكتروني للحسابات الجديدة. يمكنك مشاركة بريدك الإلكتروني الحقيقي أو إصدار مجهول من البريد الإلكتروني.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AUTHORIZATION_PRIVACY_LEARN_MORE</Position>
+      <TranslationSet>
+        <base loc="en">See how your data is managed…</base>
+        <tran loc="ar">تعرف على كيفية إدارة بياناتك…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DFR_AUTHENTICATE</Position>
+      <TranslationSet>
+        <base loc="en">Sign In with Touch ID</base>
+        <tran loc="ar">تسجيل الدخول باستخدام Touch ID</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>RECOVERY_FORGOT_DEVICE_PASSWORDS_ALERT_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Forgot device password?</base>
+        <tran loc="ar">نسيت كلمة سر الجهاز؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SIGN_IN_MESSAGE_NO_CREATE_SERVICE_ITUNES</Position>
+      <TranslationSet>
+        <base loc="en">Enter your password to continue using Apple Media Services on this Mac.</base>
+        <tran loc="ar">أدخل كلمة السر لمتابعة استخدام خدمات وسائط Apple على هذا الـ Mac.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ENROLL_FORGOT_NO_DEVICES_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">If you can‘t remember the password for %@ “%@”, you can approve this Mac using another device.</base>
+        <tran loc="ar">إذا كنت لا تتذكر كلمة السر لـ %@ \"%@\"، يمكنك الموافقة على هذا الـ Mac باستخدام جهاز آخر.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AUTHORIZE_EMAIL_CELL_SHARE</Position>
+      <TranslationSet>
+        <base loc="en">Share</base>
+        <tran loc="ar">مشاركة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CAPITALIZED_PASSWORD</Position>
+      <TranslationSet>
+        <base loc="en">Password</base>
+        <tran loc="ar">كلمة السر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PASSWORD_ALERT_PLACEHOLDER</Position>
+      <TranslationSet>
+        <base loc="en">Password</base>
+        <tran loc="ar">كلمة السر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PASSWORD_TEXTFIELD_ACCESSIBILITY_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Password</base>
+        <tran loc="ar">كلمة السر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>BIO_BUTTON_PEARL_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Face ID</base>
+        <tran loc="ar">‏Face ID</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AUTHORIZE_HIDE_MY_EMAIL</Position>
+      <TranslationSet>
+        <base loc="en">Hide My Email</base>
+        <tran loc="ar">إخفاء بريدي الإلكتروني</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description>
+ 
+*
+ 
+* iCloud Enroll Password Sheet
+ 
+*
+ </Description>
+      <Position>ENROLL_PASSWORD_ENTRY_IFORGOT_BUTTON</Position>
+      <TranslationSet>
+        <base loc="en">Forgot?</base>
+        <tran loc="ar">هل نسيت؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ENROLL_DEVICE_WAIT_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Go to one of your other devices signed in to iCloud to approve this Mac.</base>
+        <tran loc="ar">انتقل إلى أحد أجهزتك الأخرى المسجل عليها الدخول إلى iCloud للموافقة على هذا الـ Mac.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ENROLL_GENERIC_MACHINE_MESSAGE_PASSCODE</Position>
+      <TranslationSet>
+        <base loc="en">Your passcode is encrypted and cannot be read by Apple.</base>
+        <tran loc="ar">رمز الدخول الخاص بك مشفر ولا يمكن قراءته من قِبل شركة Apple.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AUTHORIZATION_PRIVACY_FOURTH_BULLET</Position>
+      <TranslationSet>
+        <base loc="en">Sign in with Apple is protected by Touch ID, Face ID, and strong passcode options.</base>
+        <tran loc="ar">تسجيل الدخول باستخدام Apple محمي بـ Touch ID و Face ID وخيارات رمز الدخول القوي.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SIGN_IN_INLINE_GENERIC_ERROR</Position>
+      <TranslationSet>
+        <base loc="en">An error occurred during authentication.</base>
+        <tran loc="ar">حدث خطأ أثناء المصادقة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>REMOTE_SECRET_ENTRY_RECOVERY_ERROR_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Verification Failed</base>
+        <tran loc="ar">فشل التحقق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>VERIFICATION_FAILED</Position>
+      <TranslationSet>
+        <base loc="en">Verification Failed</base>
+        <tran loc="ar">فشل التحقق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ENROLL_FORGOT_NO_DEVICES_TITLE_PASSCODE</Position>
+      <TranslationSet>
+        <base loc="en">If you can‘t remember the passcode for %@ “%@”, you can approve this Mac using another device.</base>
+        <tran loc="ar">إذا كنت لا تتذكر رمز الدخول لـ %@ \"%@\"، يمكنك الموافقة على هذا الـ Mac باستخدام جهاز آخر.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ENROLL_FORGOT_BUTTON_PASSCODE</Position>
+      <TranslationSet>
+        <base loc="en">Forgot %@ passcode?</base>
+        <tran loc="ar">هل نسيت رمز دخول %@؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ENROLL_GENERIC_ICSC_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">To access your iCloud data, enter the iCloud Security Code.</base>
+        <tran loc="ar">للوصول إلى بيانات iCloud الخاصة بك، قم بإدخال رمز أمن iCloud.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AUTHORIZE_NAME_EDIT_INFO</Position>
+      <TranslationSet>
+        <base loc="en">This app is requesting your name to personalize your experience.</base>
+        <tran loc="ar">يطلب هذا التطبيق اسمك لتخصيص تجربتك.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CDP_NEEDS_PASSWORD_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Enter your password to set up iCloud.</base>
+        <tran loc="ar">أدخل كلمة السر الخاصة بك لإعداد iCloud.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DEPLETED_ATTEMPTS_ERROR_MSG_PASSCODE</Position>
+      <TranslationSet>
+        <base loc="en">Choose a device to enter its passcode.</base>
+        <tran loc="ar">اختر جهازًا لإدخال رمز الدخول الخاص به.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AUTHORIZE_APPLEID_CREATE_APPLEID_FORMAT</Position>
+      <TranslationSet>
+        <base loc="en">Create an account using your Apple ID “%@“.</base>
+        <tran loc="ar">قم بإنشاء حساب باستخدام الـ Apple ID ‏\"%@\".</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AUTHORIZATION_PRIVACY_REVIEW_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Sign in with Apple</base>
+        <tran loc="ar">تسجيل الدخول مع Apple</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Tiburon 
+ Authorization First Time</Description>
+      <Position>AUTHORIZE_FIRST_TIME_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Sign in with Apple</base>
+        <tran loc="ar">تسجيل الدخول مع Apple</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Authorization Apple ID button</Description>
+      <Position>SIGN_IN_WITH_APPLE</Position>
+      <TranslationSet>
+        <base loc="en">Sign in with Apple</base>
+        <tran loc="ar">تسجيل الدخول مع Apple</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Authorization Message for 1st party logins
+ protocol-less top level domain, e.g. "www.icloud.com", "www.apple.com"</Description>
+      <Position>AUTHORIZE_APPLE_ID_1ST_PARTY_LOGIN</Position>
+      <TranslationSet>
+        <base loc="en">Do you want to sign in to %@ with your Apple ID “%@”?</base>
+        <tran loc="ar">هل ترغب في تسجيل الدخول إلى %@ بالـ Apple ID ‏\"%@\"؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SAME_PASSCODE_ERROR_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Enter the passcode for “%@”, which is not the password for this %@.</base>
+        <tran loc="ar">أدخل رمز الدخول للـ \"%@\"، والذي يختلف عن كلمة السر لهذا الـ %@.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SIGN_IN_MESSAGE_NO_CREATE_SERVICE_ICLOUD</Position>
+      <TranslationSet>
+        <base loc="en">Enter your password to continue using iCloud on this Mac.</base>
+        <tran loc="ar">أدخل كلمة السر الخاصة بك لمتابعة استخدام iCloud على هذا الـ Mac.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AUTHORIZATION_PRIVACY_REVIEW_MESSAGE</Position>
+      <TranslationSet>
+        <base loc="en">Sign in to apps and websites with the Apple ID you already have. Apps can only ask for name and email. And you can keep your email address private but still receive messages from the app.</base>
+        <tran loc="ar">سجل الدخول إلى التطبيقات ومواقع الويب بالـ Apple ID الحالي. بإمكان التطبيقات سؤالك عن اسمك وبريدك الإلكتروني فقط. ويمكنك الاحتفاظ بسرية عنوان بريدك الإلكتروني وتلقي رسائل من التطبيق في نفس الوقت.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PASSCODE_ALERT_PLACEHOLDER</Position>
+      <TranslationSet>
+        <base loc="en">Passcode</base>
+        <tran loc="ar">رمز الدخول</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ENROLL_FORGOT_NO_DEVICES_USE_OTHER_BUTTON</Position>
+      <TranslationSet>
+        <base loc="en">Use Other Device</base>
+        <tran loc="ar">استخدام جهاز آخر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PASSWORD_REQUEST_VIEW_SAVED_FROM</Position>
+      <TranslationSet>
+        <base loc="en">Saved password from %@</base>
+        <tran loc="ar">كلمة السر المحفوظة من %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Code entry</Description>
+      <Position>DIDNT_GET_A_CODE</Position>
+      <TranslationSet>
+        <base loc="en">Didn’t Get a Code?</base>
+        <tran loc="ar">ألم تحصل على رمز؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ENROLL_CURRENT_MACHINE_LABEL</Position>
+      <TranslationSet>
+        <base loc="en">Your iCloud data is protected by your user password.</base>
+        <tran loc="ar">بيانات iCloud الخاصة بك محمية بكلمة سر المستخدم الخاصة بك.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SIGN_IN_MESSAGE_NO_CREATE_SERVICE_GAME_CENTER</Position>
+      <TranslationSet>
+        <base loc="en">Enter your password to continue using Game Center on this Mac.</base>
+        <tran loc="ar">أدخل كلمة السر لمتابعة استخدام Game Center على هذا الـ Mac.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AUTHORIZE_USE_DEVICE_FOOTER</Position>
+      <TranslationSet>
+        <base loc="en">Didn't get a notification? Make sure your iOS device has Wi-Fi and Bluetooth turned on.\nRequires iOS 13.0 or later.</base>
+        <tran loc="ar">ألم يصلك إشعار؟ تأكد من تشغيل Wi-Fi و Bluetooth على جهاز iOS الخاص بك.\nمطلوب iOS 13.0 أو أحدث.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DEPLETED_ATTEMPTS_ERROR_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">The password for “%@” was entered incorrectly too many times.</base>
+        <tran loc="ar">تم إدخال كلمة السر لـ \"%@\" بشكل غير صحيح عدة مرات.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>FORGOT_PASSWORD</Position>
+      <TranslationSet>
+        <base loc="en">Forgot Password?</base>
+        <tran loc="ar">هل نسيت كلمة السر؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AUTHORIZE_FIRST_TIME_MESSAGE_2</Position>
+      <TranslationSet>
+        <base loc="en">Apps can only ask for name and email. Apple will never track you.</base>
+        <tran loc="ar">بإمكان التطبيقات طلب الاسم والبريد الإلكتروني فقط. ولن تقوم Apple بتتبع نشاطك.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PASSWORD_REQUEST_VIEW_SINGLE_FOR_APP_QUESTION</Position>
+      <TranslationSet>
+        <base loc="en">Do you want to sign in to %@ with your saved password?</base>
+        <tran loc="ar">هل ترغب في تسجيل الدخول إلى %@ بكلمة السر المحفوظة؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ENROLL_FORGOT_MORE_DEVICES_CHOSSE_BUTTON</Position>
+      <TranslationSet>
+        <base loc="en">Choose Device</base>
+        <tran loc="ar">اختيار جهاز</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Watch specific</Description>
+      <Position>AUTHORIZE_WELCOME_FORMAT_WATCH</Position>
+      <TranslationSet>
+        <base loc="en">Use %@ with Apple ID</base>
+        <tran loc="ar">استخدام %@ مع Apple ID</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PASSWORD_REQUEST_VIEW_SIGN_INTO_APP_WITH_APPLE_GENERIC</Position>
+      <TranslationSet>
+        <base loc="en">Do you want to sign in to this app with your Apple ID “%@“?</base>
+        <tran loc="ar">هل ترغب في تسجيل الدخول إلى هذا التطبيق بالـ Apple ID ‏\"%@\"؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AUTHORIZE_APPLE_ID_WELCOME</Position>
+      <TranslationSet>
+        <base loc="en">Do you want to sign in to this application with your Apple ID?</base>
+        <tran loc="ar">هل ترغب في تسجيل الدخول إلى هذا التطبيق بالـ Apple ID؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Authorization/Bio Button Titles</Description>
+      <Position>BIO_BUTTON_CONTINUE_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Continue with Touch ID</base>
+        <tran loc="ar">المتابعة باستخدام Touch ID</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SIGNING_IN_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Signing In…</base>
+        <tran loc="ar">يتم الآن تسجيل الدخول…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>KECHAINBACKUP_RANDOM_SECURITY_CODE_CONFIRM_PROMPT</Position>
+      <TranslationSet>
+        <base loc="en">XXXX-XXXX-XXXX-XXXX-XXXX-XXXX</base>
+        <tran loc="ar">XXXX-XXXX-XXXX-XXXX-XXXX-XXXX</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ENROLL_NEXT_BUTTON</Position>
+      <TranslationSet>
+        <base loc="en">Next</base>
+        <tran loc="ar">التالي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AUTHORIZE_USE_DEVICE_FOOTER_WLAN</Position>
+      <TranslationSet>
+        <base loc="en">Didn't get a notification? Make sure your iOS device has WLAN and Bluetooth turned on.\nRequires iOS 13.0 or later.</base>
+        <tran loc="ar">ألم يصلك إشعار؟ تأكد من تشغيل WLAN و Bluetooth على جهاز iOS الخاص بك.\nمطلوب iOS 13.0 أو أحدث.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AUTHORIZE_APPLE_ID_WELCOME_FORMAT</Position>
+      <TranslationSet>
+        <base loc="en">Do you want to sign in to %@ with your Apple ID “%@“?</base>
+        <tran loc="ar">هل ترغب في تسجيل الدخول إلى %@ بالـ Apple ID ‏\"%@\"؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PASSWORD_REQUEST_VIEW_SIGN_INTO_APP_WITH_APPLE</Position>
+      <TranslationSet>
+        <base loc="en">Do you want to sign in to %@ with your Apple ID “%@“?</base>
+        <tran loc="ar">هل ترغب في تسجيل الدخول إلى %@ بالـ Apple ID ‏\"%@\"؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>TURN_OFF_KEYCHAIN_OLDER_PEERS_MESSAGE</Position>
+      <TranslationSet>
+        <base loc="en">Turning off iCloud Keychain on this device will also turn off iCloud Keychain on other devices running iOS 8 and OS X Yosemite or earlier.</base>
+        <tran loc="ar">سيؤدي إيقاف سلسلة مفاتيح iCloud على هذا الجهاز إلى إيقاف سلسلة مفاتيح iCloud أيضًا على الأجهزة الأخرى التي تستخدم iOS 8 وOS X Yosemite أو أقدم.</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>AuthKitUI/System/Library/PrivateFrameworks/AuthKitUI.framework/Versions/A/Resources/en.lproj/AKiCDPEnrollmentDeviceListView.strings</Filepath>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Choose a device to enter its %@:"; ObjectID = "CZH-1q-50P"; </Description>
+      <Position>CZH-1q-50P.title</Position>
+      <TranslationSet>
+        <base loc="en">Choose a device to enter its %@:</base>
+        <tran loc="ar">اختر جهازًا لإدخال %@ الخاصة به.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Forgot all passwords and passcodes?"; ObjectID = "CJd-nf-Hpg"; </Description>
+      <Position>CJd-nf-Hpg.title</Position>
+      <TranslationSet>
+        <base loc="en">Forgot all passwords and passcodes?</base>
+        <tran loc="ar">هل نسيت كل كلمات السر ورموز الدخول؟</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>AuthKitUI/System/Library/PrivateFrameworks/AuthKitUI.framework/Versions/A/Resources/en.lproj/AKSecondFactorCodeEntry.strings</Filepath>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Cancel"; ObjectID = "DAh-lQ-tFV"; </Description>
+      <Position>DAh-lQ-tFV.title</Position>
+      <TranslationSet>
+        <base loc="en">Cancel</base>
+        <tran loc="ar">إلغاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Continue"; ObjectID = "7xb-Um-Rs9"; </Description>
+      <Position>7xb-Um-Rs9.title</Position>
+      <TranslationSet>
+        <base loc="en">Continue</base>
+        <tran loc="ar">متابعة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Your Apple ID can only be used from devices you approve."; ObjectID = "ReO-2r-o9H"; </Description>
+      <Position>ReO-2r-o9H.title</Position>
+      <TranslationSet>
+        <base loc="en">Your Apple ID can only be used from devices you approve.</base>
+        <tran loc="ar">لا يمكن استخدام Apple ID الخاص بك إلا من الأجهزة التي توافق عليها.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Didn’t receive a verification code?"; ObjectID = "HXD-xP-psd"; </Description>
+      <Position>HXD-xP-psd.title</Position>
+      <TranslationSet>
+        <base loc="en">Didn’t receive a verification code?</base>
+        <tran loc="ar">ألم تستلم رمز تحقق؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "CODE ERROR - DNL"; ObjectID = "smt-ZQ-i1R"; </Description>
+      <Position>smt-ZQ-i1R.title</Position>
+      <TranslationSet>
+        <base loc="en">CODE ERROR - DNL</base>
+        <tran loc="ar">CODE ERROR - DNL</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Enter the verification code sent to your other devices."; ObjectID = "IEN-Ob-nZQ"; </Description>
+      <Position>IEN-Ob-nZQ.title</Position>
+      <TranslationSet>
+        <base loc="en">Enter the verification code sent to your other devices.</base>
+        <tran loc="ar">قم بإدخال رمز التحقق الذي تم إرساله إلى أجهزتك الأخرى.</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>AuthKitUI/System/Library/PrivateFrameworks/AuthKitUI.framework/Versions/A/Resources/en.lproj/AKInlineSignInViewController_OSX.strings</Filepath>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Apple ID"; ObjectID = "NgZ-st-Qtm"; </Description>
+      <Position>NgZ-st-Qtm.title</Position>
+      <TranslationSet>
+        <base loc="en">Apple ID</base>
+        <tran loc="ar">Apple ID</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Forgot Apple ID or password?"; ObjectID = "qcf-vE-rly"; </Description>
+      <Position>qcf-vE-rly.title</Position>
+      <TranslationSet>
+        <base loc="en">Forgot Apple ID or password?</base>
+        <tran loc="ar">هل نسيت Apple ID أو كلمة السر؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSSecureTextFieldCell"; placeholderString = "required"; ObjectID = "ePb-6k-Tsf"; </Description>
+      <Position>ePb-6k-Tsf.placeholderString</Position>
+      <TranslationSet>
+        <base loc="en">required</base>
+        <tran loc="ar">مطلوب</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Password"; ObjectID = "lVJ-Kb-74B"; </Description>
+      <Position>lVJ-Kb-74B.title</Position>
+      <TranslationSet>
+        <base loc="en">Password</base>
+        <tran loc="ar">كلمة السر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; placeholderString = "example@icloud.com"; ObjectID = "Im5-nx-wQB"; </Description>
+      <Position>Im5-nx-wQB.placeholderString</Position>
+      <TranslationSet>
+        <base loc="en">example@icloud.com</base>
+        <tran loc="ar">example@icloud.com</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Create new Apple ID"; ObjectID = "zQh-ig-mG6"; </Description>
+      <Position>zQh-ig-mG6.title</Position>
+      <TranslationSet>
+        <base loc="en">Create new Apple ID</base>
+        <tran loc="ar">إنشاء Apple ID جديد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "&lt;&lt;Do Not Localize&gt;&gt;"; ObjectID = "yge-9N-kct"; </Description>
+      <Position>yge-9N-kct.title</Position>
+      <TranslationSet>
+        <base loc="en">&lt;&lt;Do Not Localize&gt;&gt;</base>
+        <tran loc="ar">&lt;&lt;Do Not Localize&gt;&gt;</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Next"; ObjectID = "zk0-ON-9gP"; </Description>
+      <Position>zk0-ON-9gP.title</Position>
+      <TranslationSet>
+        <base loc="en">Next</base>
+        <tran loc="ar">التالي</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>AuthKitUI/System/Library/PrivateFrameworks/AuthKitUI.framework/Versions/A/XPCServices/AKAuthorizationRemoteViewService.xpc/Contents/Resources/en.lproj/Localizable.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>DNT</Position>
+      <TranslationSet>
+        <base loc="en">&lt;no loc&gt; DNT</base>
+        <tran loc="ar">&lt;no loc&gt; DNT</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>AuthKitUI/System/Library/PrivateFrameworks/AuthKitUI.framework/Versions/A/Resources/en.lproj/AKKeepUsing.strings</Filepath>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "\"example@icloud.com\" is already signed in"; ObjectID = "8be-Cz-uYH"; </Description>
+      <Position>8be-Cz-uYH.title</Position>
+      <TranslationSet>
+        <base loc="en">\"example@icloud.com\" is already signed in</base>
+        <tran loc="ar">تم تسجيل دخول \"example@icloud.com\" بالفعل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Use another account"; ObjectID = "52k-Gj-b4s"; </Description>
+      <Position>52k-Gj-b4s.title</Position>
+      <TranslationSet>
+        <base loc="en">Use another account</base>
+        <tran loc="ar">استخدام حساب آخر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "You can keep using the already logged in iCloud account or use another one."; ObjectID = "V3f-ND-aMz"; </Description>
+      <Position>V3f-ND-aMz.title</Position>
+      <TranslationSet>
+        <base loc="en">You can keep using the already logged in iCloud account or use another one.</base>
+        <tran loc="ar">يمكنك الاستمرار في استخدام حساب iCloud الذي تم تسجيل الدخول إليه بالفعل أو استخدام حساب آخر.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Use \"example@icloud.com\""; ObjectID = "c8m-g6-FTs"; </Description>
+      <Position>c8m-g6-FTs.title</Position>
+      <TranslationSet>
+        <base loc="en">Use \"example@icloud.com\"</base>
+        <tran loc="ar">استخدام \"example@icloud.com\"</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>AuthKitUI/System/Library/PrivateFrameworks/AuthKitUI.framework/Versions/A/Resources/en.lproj/AKTooManyAttempts.strings</Filepath>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Your password was entered incorrectly more than once. For your protection, you will need to retrieve it before continuing."; ObjectID = "E1F-wG-DDV"; </Description>
+      <Position>E1F-wG-DDV.title</Position>
+      <TranslationSet>
+        <base loc="en">Your password was entered incorrectly more than once. For your protection, you will need to retrieve it before continuing.</base>
+        <tran loc="ar">تم إدخال كلمة السر الخاصة بك بشكل غير صحيح لأكثر من مرة. لحمايتك، سيتعين عليك استردادها قبل المتابعة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Did you forget your password?"; ObjectID = "cew-BD-UTw"; </Description>
+      <Position>cew-BD-UTw.title</Position>
+      <TranslationSet>
+        <base loc="en">Did you forget your password?</base>
+        <tran loc="ar">هل نسيت كلمة السر الخاصة بك؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Cancel"; ObjectID = "sGh-Wh-LWp"; </Description>
+      <Position>sGh-Wh-LWp.title</Position>
+      <TranslationSet>
+        <base loc="en">Cancel</base>
+        <tran loc="ar">إلغاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Forgot Password?"; ObjectID = "rd8-fX-Mbx"; </Description>
+      <Position>rd8-fX-Mbx.title</Position>
+      <TranslationSet>
+        <base loc="en">Forgot Password?</base>
+        <tran loc="ar">هل نسيت كلمة السر؟</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>AuthKitUI/System/Library/PrivateFrameworks/AuthKitUI.framework/Versions/A/Resources/en.lproj/AKInAssistantSecondFactorCodeEntry.strings</Filepath>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "CODE ERROR - DNL"; ObjectID = "Wi5-Y4-kcC"; </Description>
+      <Position>Wi5-Y4-kcC.title</Position>
+      <TranslationSet>
+        <base loc="en">CODE ERROR - DNL</base>
+        <tran loc="ar">CODE ERROR - DNL</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Enter the verification code sent to your other devices."; ObjectID = "WNl-1M-CFC"; </Description>
+      <Position>WNl-1M-CFC.title</Position>
+      <TranslationSet>
+        <base loc="en">Enter the verification code sent to your other devices.</base>
+        <tran loc="ar">قم بإدخال رمز التحقق الذي تم إرساله إلى أجهزتك الأخرى.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Didn't get a verification code?"; ObjectID = "jHc-e4-95R"; </Description>
+      <Position>jHc-e4-95R.title</Position>
+      <TranslationSet>
+        <base loc="en">Didn't get a verification code?</base>
+        <tran loc="ar">ألم تحصل على رمز تحقق؟</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+</Proj>

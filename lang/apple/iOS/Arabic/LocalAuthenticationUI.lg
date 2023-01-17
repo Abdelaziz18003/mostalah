@@ -1,0 +1,406 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Proj>
+  <ProjName>LocalAuthenticationUI</ProjName>
+  <File>
+    <Filepath>LocalAuthenticationUI/Applications/CoreAuthUI.app/en.lproj/MobileUI.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>ENTER_PASSCODE_IPAD</Position>
+      <TranslationSet>
+        <base loc="en">Enter iPad passcode</base>
+        <tran loc="ar">أدخل رمز دخول الـ iPad</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PEARL_FAILED</Position>
+      <TranslationSet>
+        <base loc="en">Face Not Recognized</base>
+        <tran loc="ar">لم يتم التعرف على الوجه</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>TOUCH_ID</Position>
+      <TranslationSet>
+        <base loc="en">Touch ID</base>
+        <tran loc="ar">Touch ID</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DEVICE_BLOCKED</Position>
+      <TranslationSet>
+        <base loc="en">Authentication is disabled</base>
+        <tran loc="ar">تم تعطيل المصادقة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Displayed in Face ID prompt when user's face is partially out of the camera view.
+ The goal is to make users to look directly at the device, so that the face can be scanned correctly.</Description>
+      <Position>PEARL_COACHING_LOOK_DOWN</Position>
+      <TranslationSet>
+        <base loc="en">Look down for Face ID</base>
+        <tran loc="ar">انظر للأسفل لاستخدام Face ID</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>TRY_AGAIN</Position>
+      <TranslationSet>
+        <base loc="en">Try Again</base>
+        <tran loc="ar">حاول مرة أخرى</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PEARL_HW_ISSUE_HIGH_TEMPERATURE</Position>
+      <TranslationSet>
+        <base loc="en">Face ID will be available when iPhone cools down</base>
+        <tran loc="ar">سوف يتوفر Face ID عندما يبرد الـ iPhone.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>TRY_AGAIN_OR_ENTER_PASSWORD</Position>
+      <TranslationSet>
+        <base loc="en">Try again or enter your password</base>
+        <tran loc="ar">حاول مرة أخرى أو أدخل كلمة السر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> The variable will be always replaced with number 1, i.e.: Try again in 1 minute</Description>
+      <Position>ONE_MINUTE_TO_UNBLOCK</Position>
+      <TranslationSet>
+        <base loc="en">Try again in %@ minute</base>
+        <tran loc="ar">حاول مجددًا بعد دقيقة %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PEARL_HW_ISSUE_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Face ID Is Not Available</base>
+        <tran loc="ar">‏Face ID غير متوفر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PASSWORD_ALERT_DONE</Position>
+      <TranslationSet>
+        <base loc="en">OK</base>
+        <tran loc="ar">موافق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ENTER_PASSCODE_ONLY</Position>
+      <TranslationSet>
+        <base loc="en">Enter Passcode</base>
+        <tran loc="ar">أدخل رمز الدخول</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ENTER_YOUR_PASSWORD</Position>
+      <TranslationSet>
+        <base loc="en">Enter your password</base>
+        <tran loc="ar">أدخل كلمة السر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CANCEL</Position>
+      <TranslationSet>
+        <base loc="en">Cancel</base>
+        <tran loc="ar">إلغاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PASSWORD_ALERT_CANCEL</Position>
+      <TranslationSet>
+        <base loc="en">Cancel</base>
+        <tran loc="ar">إلغاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PEARL_TRY_AGAIN</Position>
+      <TranslationSet>
+        <base loc="en">Try Face ID Again</base>
+        <tran loc="ar">جرب Face ID مرة أخرى</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> The variable will be replaced with a name of application which started the passcode authentication.
+ Example: Enter iPad passcode for "Settings"</Description>
+      <Position>APP_ASKING_PASSCODE_IPAD</Position>
+      <TranslationSet>
+        <base loc="en">Enter iPad passcode for “%@”</base>
+        <tran loc="ar">أدخل رمز دخول الـ iPad لـ "%@"</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PASSWORD_ALERT_NEXT</Position>
+      <TranslationSet>
+        <base loc="en">Continue</base>
+        <tran loc="ar">متابعة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> The variable will be replaced with a name of application which is trying to store a password protected item.
+ LocalAuthentication will ask user to enter new password, then to re-enter and they must match.
+ Example: Enter New Password for "Notes"</Description>
+      <Position>APP_ASKING_NEW_PASSWORD</Position>
+      <TranslationSet>
+        <base loc="en">Enter New Password for “%@”</base>
+        <tran loc="ar">إدخال كلمة السر الجديدة لـ "%@"</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ENTER_CURRENT_PASSWORD</Position>
+      <TranslationSet>
+        <base loc="en">Enter Password</base>
+        <tran loc="ar">إدخال كلمة السر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ENTER_PASSWORD</Position>
+      <TranslationSet>
+        <base loc="en">Enter Password</base>
+        <tran loc="ar">إدخال كلمة السر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>TRY_AGAIN_OR_ENTER_PASSCODE_IPAD</Position>
+      <TranslationSet>
+        <base loc="en">Try again or enter iPad passcode</base>
+        <tran loc="ar">حاول مرة أخرى أو أدخل رمز دخول الـ iPad</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description>/ This text will show up animating next to the powerbutton to indicate the need for confirmation
+/ by HW button double click. The translation should be consistent with Wallet which is already using
+/ "Double Click|to Pay". It should be split in two lines using '\n' unless the translation is really short.</Description>
+      <Position>PEARL_DOUBLECLICK_TO_CONTINUE</Position>
+      <TranslationSet>
+        <base loc="en">Double Click\nto Continue</base>
+        <tran loc="ar">اضغط مرتين\nللمتابعة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ENTER_PASSCODE_UPDATE</Position>
+      <TranslationSet>
+        <base loc="en">Enter Passcode to Update</base>
+        <tran loc="ar">أدخل رمز الدخول للتحديث</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> The variable will be replaced with a name of application which started the passcode authentication.
+ Example: Enter iPhone passcode for "Settings"</Description>
+      <Position>APP_ASKING_PASSCODE_IPHONE</Position>
+      <TranslationSet>
+        <base loc="en">Enter iPhone passcode for “%@”</base>
+        <tran loc="ar">أدخل رمز دخول الـ iPhone لـ "%@"</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ENTER_PASSCODE_IPOD</Position>
+      <TranslationSet>
+        <base loc="en">Enter iPod passcode</base>
+        <tran loc="ar">أدخل رمز دخول الـ iPod</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> The variable will be replaced with number 5, 15 or 60
+ Example: Try again in 15 minutes</Description>
+      <Position>MULTIPLE_MINUTES_TO_UNBLOCK</Position>
+      <TranslationSet>
+        <base loc="en">Try again in %@ minutes</base>
+        <tran loc="ar">حاول مجددًا بعد %@ من الدقائق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>TRY_AGAIN_OR_ENTER_PASSCODE_IPHONE</Position>
+      <TranslationSet>
+        <base loc="en">Try again or enter iPhone passcode</base>
+        <tran loc="ar">حاول مرة أخرى أو أدخل رمز دخول الـ iPhone</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ENTER_NEW_PASSWORD</Position>
+      <TranslationSet>
+        <base loc="en">Enter New Password</base>
+        <tran loc="ar">إدخال كلمة السر الجديدة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> The variable will be replaced with a name of application which started the password authentication.
+ Example: Enter Password for "Notes"</Description>
+      <Position>APP_ASKING_CURRENT_PASSWORD</Position>
+      <TranslationSet>
+        <base loc="en">Enter Password for “%@”</base>
+        <tran loc="ar">قم بإدخال كلمة السر لـ "%@".</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 
+  MobileUI.strings
+  LocalAuthentication
+
+  Created by Jiri Margaritov on 15/01/14.
+  Copyright (c) 2014 Apple. All rights reserved.
+
+ The variable will be replaced with a name of application which started the Touch ID authentication.
+ Example: Touch ID for "Settings"</Description>
+      <Position>APP_ASKING_TOUCH</Position>
+      <TranslationSet>
+        <base loc="en">Touch ID for “%@”</base>
+        <tran loc="ar">‏Touch ID مع "%@"</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PEARL_HW_ISSUE_LOW_TEMPERATURE</Position>
+      <TranslationSet>
+        <base loc="en">Face ID will be available when iPhone warms up</base>
+        <tran loc="ar">سوف يتوفر Face ID عندما ترتفع حرارة الـ iPhone.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Displayed in Face ID prompt when the camera is covered (e.g. by user's hand).</Description>
+      <Position>PEARL_COACHING_CAMERA_COVERED</Position>
+      <TranslationSet>
+        <base loc="en">Camera covered</base>
+        <tran loc="ar">الكاميرا محجوبة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CONFIRM_NEW_PASSWORD_MISMATCH</Position>
+      <TranslationSet>
+        <base loc="en">The new passwords did not match.</base>
+        <tran loc="ar">كلمتا السر الجديدتان غير متطابقتين.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> The variable will be replaced with a name of application which is trying to store a password protected item.
+ LocalAuthentication will ask user to enter new password, then to re-enter and they must match.
+ Example: Re-enter Password for "Notes"</Description>
+      <Position>APP_ASKING_CONFIRM_PASSWORD</Position>
+      <TranslationSet>
+        <base loc="en">Re-enter Password for “%@”</base>
+        <tran loc="ar">قم بإعادة إدخال كلمة السر لـ "%@".</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PAY</Position>
+      <TranslationSet>
+        <base loc="en">Pay with Passcode</base>
+        <tran loc="ar">دفع باستخدام رمز الدخول</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PASSWORD_PLACEHOLDER</Position>
+      <TranslationSet>
+        <base loc="en">Password</base>
+        <tran loc="ar">كلمة السر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description>/ It will be displayed on single line.</Description>
+      <Position>PEARL</Position>
+      <TranslationSet>
+        <base loc="en">Face ID</base>
+        <tran loc="ar">Face ID</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PEARL_LOCKOUT_DESCRIPTION</Position>
+      <TranslationSet>
+        <base loc="en">Unable to use Face ID.</base>
+        <tran loc="ar">تعذر استخدام Face ID.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PAY_PIN</Position>
+      <TranslationSet>
+        <base loc="en">Enter Payment PIN</base>
+        <tran loc="ar">أدخل رمز PIN للدفع</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> The variable will be replaced with a name of application which started the passcode authentication.
+ Example: Enter iPod passcode for "Settings"</Description>
+      <Position>APP_ASKING_PASSCODE_IPOD</Position>
+      <TranslationSet>
+        <base loc="en">Enter iPod passcode for “%@”</base>
+        <tran loc="ar">أدخل رمز دخول الـ iPod لـ "%@"</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ENTER_PASSCODE_IPHONE</Position>
+      <TranslationSet>
+        <base loc="en">Enter iPhone passcode</base>
+        <tran loc="ar">أدخل رمز دخول الـ iPhone</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>TRY_AGAIN_OR_ENTER_PASSCODE_IPOD</Position>
+      <TranslationSet>
+        <base loc="en">Try again or enter iPod passcode</base>
+        <tran loc="ar">حاول مرة أخرى أو أدخل رمز دخول الـ iPod</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PEARL_LOCKOUT</Position>
+      <TranslationSet>
+        <base loc="en">Face ID attempts exceeded</base>
+        <tran loc="ar">وصلت إلى الحد الأقصى من محاولات Face ID</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CONFIRM_NEW_PASSWORD</Position>
+      <TranslationSet>
+        <base loc="en">Re-enter Password</base>
+        <tran loc="ar">أدخل كلمة السر مرة أخرى</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>LocalAuthenticationUI/Applications/CoreAuthUI.app/en.lproj/InfoPlist.strings</Filepath>
+    <TextItem>
+      <Description> Localized versions of Info.plist keys </Description>
+      <Position>CFBundleDisplayName</Position>
+      <TranslationSet>
+        <base loc="en">User Authentication</base>
+        <tran loc="ar">مصادقة المستخدم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CFBundleName</Position>
+      <TranslationSet>
+        <base loc="en">User Authentication</base>
+        <tran loc="ar">مصادقة المستخدم</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+</Proj>

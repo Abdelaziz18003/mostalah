@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Proj>
+  <ProjName>EjectExtra</ProjName>
+  <File>
+    <Filepath>EjectExtra/System/Library/CoreServices/Menu Extras/Eject.menu/Contents/Resources/en.lproj/Localizable.strings</Filepath>
+    <TextItem>
+      <Description> Used when the drive name cannot be determined </Description>
+      <Position>Unknown Drive</Position>
+      <TranslationSet>
+        <base loc="en">Unknown Drive</base>
+        <tran loc="ar">محرك أقراص غير معروف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Action string used when drive is open and can be closed by software </Description>
+      <Position>Close</Position>
+      <TranslationSet>
+        <base loc="en">Close</base>
+        <tran loc="ar">إغلاق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Menu item title used when no drives are found </Description>
+      <Position>No Drives</Position>
+      <TranslationSet>
+        <base loc="en">No Drives</base>
+        <tran loc="ar">بلا محركات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Format string for single internal device menu title. English would read like 'Eject SuperDrive' (action drive name) </Description>
+      <Position>%@ %@</Position>
+      <TranslationSet>
+        <base loc="en">%1$@ %2$@</base>
+        <tran loc="ar">%1$@ %2$@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Action string used when drive contains media </Description>
+      <Position>Eject</Position>
+      <TranslationSet>
+        <base loc="en">Eject</base>
+        <tran loc="ar">إخراج</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Action string used when drive does not contain media and is closed </Description>
+      <Position>Open</Position>
+      <TranslationSet>
+        <base loc="en">Open</base>
+        <tran loc="ar">فتح</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+</Proj>

@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Proj>
+  <ProjName>SafeEjectGPUExtra</ProjName>
+  <File>
+    <Filepath>SafeEjectGPUExtra/System/Library/CoreServices/Menu Extras/SafeEjectGPUExtra.menu/Contents/XPCServices/SafeEjectGPUService.xpc/Contents/Resources/en.lproj/Localizable.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>FAILED_TO_EJECT_BUSY_FORMAT</Position>
+      <TranslationSet>
+        <base loc="en">Failed to eject “GPU %@”.\nThe GPU is busy.</base>
+        <tran loc="ar">فشل إخراج \"‪GPU %@‬\".\nالـ GPU مشغولة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 
+  Localizable.strings
+  SafeEjectGPUExtra
+
+  Copyright © 2017 Apple. All rights reserved.
+
+ PENDING HI APPROVAL</Description>
+      <Position>FAILED_TO_EJECT_FORMAT</Position>
+      <TranslationSet>
+        <base loc="en">Failed to eject “GPU %@”.</base>
+        <tran loc="ar">فشل إخراج \"‪GPU %@‬\".</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>FAILED_TO_EJECT_MISSING_FORMAT</Position>
+      <TranslationSet>
+        <base loc="en">Failed to eject “GPU %@”.\nNo such GPU.</base>
+        <tran loc="ar">فشل إخراج \"‪GPU %@‬\".\nالـ GPU غير موجودة.</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>SafeEjectGPUExtra/System/Library/CoreServices/Menu Extras/SafeEjectGPUExtra.menu/Contents/Resources/en.lproj/ForceQuitAppAlert.strings</Filepath>
+    <TextItem>
+      <Description> Class = "NSWindow"; title = "Disconnect eGPU"; ObjectID = "SRS-u4-kH9"; </Description>
+      <Position>SRS-u4-kH9.title</Position>
+      <TranslationSet>
+        <base loc="en">Disconnect eGPU</base>
+        <tran loc="ar">قطع اتصال eGPU</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Force Disconnect"; ObjectID = "YaP-cb-bqH"; </Description>
+      <Position>YaP-cb-bqH.title</Position>
+      <TranslationSet>
+        <base loc="en">Force Disconnect</base>
+        <tran loc="ar">فرض قطع الاتصال</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "yZc-UL-1mr"; </Description>
+      <Position>yZc-UL-1mr.title</Position>
+      <TranslationSet>
+        <base loc="en">Table View Cell</base>
+        <tran loc="ar">Table View Cell</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "The following apps are still using the eGPU.  They should be quit before the GPU can be safely disconnected."; ObjectID = "0xV-DQ-5Mh"; </Description>
+      <Position>0xV-DQ-5Mh.title</Position>
+      <TranslationSet>
+        <base loc="en">The following apps are still using the eGPU.  They should be quit before the GPU can be safely disconnected.</base>
+        <tran loc="ar">ما زالت التطبيقات التالية تستخدم eGPU.  ينبغي إنهاؤها أولاً حتى يمكنك قطع اتصال GPU بأمان.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "Ama-1G-RLO"; </Description>
+      <Position>Ama-1G-RLO.title</Position>
+      <TranslationSet>
+        <base loc="en">Text Cell</base>
+        <tran loc="ar">Text Cell</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>SafeEjectGPUExtra/System/Library/CoreServices/Menu Extras/SafeEjectGPUExtra.menu/Contents/Resources/en.lproj/Localizable.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>DISCONNECTING_GPU_ID_FORMAT</Position>
+      <TranslationSet>
+        <base loc="en">Disconnecting %@ (Port %@)</base>
+        <tran loc="ar">جاري قطع اتصال %@ (المنفذ %@)</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UNSAFE_DISCONNECT_WARNING_MESSAGE</Position>
+      <TranslationSet>
+        <base loc="en">Disconnect safely from the menu before unplugging or turning off.</base>
+        <tran loc="ar">يجب فصل الوحدة بصورة آمنة باستخدام القائمة قبل نزع الكبل أو إيقاف التشغيل.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DISCONNECT_GPU_ID_FORMAT</Position>
+      <TranslationSet>
+        <base loc="en">Disconnect %@ (Port %@)</base>
+        <tran loc="ar">قطع اتصال %@ (المنفذ %@)</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>MENU_ITEM_DISCONNECT_ALL</Position>
+      <TranslationSet>
+        <base loc="en">Disconnect All</base>
+        <tran loc="ar">قطع الاتصال عن الكل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DISCONNECT_GPU_ID_NUMBER_FORMAT</Position>
+      <TranslationSet>
+        <base loc="en">Disconnect %@ (Port %@, GPU %@)</base>
+        <tran loc="ar">قطع اتصال %@ (المنفذ %@، ‏GPU ‏%@)</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DISCONNECTING_GPU_FORMAT</Position>
+      <TranslationSet>
+        <base loc="en">Disconnecting %@</base>
+        <tran loc="ar">قطع اتصال %@‎</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 
+  Localizable.strings
+  SafeEjectGPUExtra
+
+  Copyright © 2017 Apple. All rights reserved.
+
+ PENDING HI APPROVAL</Description>
+      <Position>DISCONNECT_GPU_FORMAT</Position>
+      <TranslationSet>
+        <base loc="en">Disconnect %@</base>
+        <tran loc="ar">قطع اتصال %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description>"UNSUPPORTED_GPU_WARNING_TITLE" = "Unsupported GPU Detected";
+"UNSUPPORTED_GPU_WARNING_MESSAGE" = "This GPU will not function properly.";</Description>
+      <Position>UNSAFE_DISCONNECT_WARNING_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">GPU Not Disconnected Properly</base>
+        <tran loc="ar">لم يتم فصل GPU بصورة صحيحة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DISCONNECTING_GPU_ID_NUMBER_FORMAT</Position>
+      <TranslationSet>
+        <base loc="en">Disconnecting %@ (Port %@, GPU %@)</base>
+        <tran loc="ar">جاري قطع اتصال %@ (المنفذ %@، ‏GPU ‏%@)</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>MENU_ITEM_NO_EGPU</Position>
+      <TranslationSet>
+        <base loc="en">No removable GPU</base>
+        <tran loc="ar">لا توجد GPU قابلة للإزالة</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+</Proj>

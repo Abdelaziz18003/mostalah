@@ -1,0 +1,415 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Proj>
+  <ProjName>MobileMusicPlayer</ProjName>
+  <File>
+    <Filepath>MobileMusicPlayer/System/Library/VoiceServices/PlugIns/iPod.vsplugin/English.lproj/InfoPlist.strings</Filepath>
+    <TextItem>
+      <Description> Localized versions of Info.plist keys </Description>
+      <Position>CFBundleName</Position>
+      <TranslationSet>
+        <base loc="en">iPod</base>
+        <tran loc="ar">iPod</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>NSHumanReadableCopyright</Position>
+      <TranslationSet>
+        <base loc="en">© Apple Computer, 2009</base>
+        <tran loc="ar">© Apple Computer, 2009</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>MobileMusicPlayer/System/Library/PrivateFrameworks/MediaControls.framework/en.lproj/MediaControls-b298.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>BLUETOOTH_LISTENING_MODE_REQUIRES_BOTH_BUDS_IN_EAR</Position>
+      <TranslationSet>
+        <base loc="en">Place Both AirPods In Your Ears To Use Noise Cancellation</base>
+        <tran loc="ar">ضع كلتا سماعتي AirPods في أذنيك لاستخدام إلغاء الضجيج</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 
+  MediaControls-b298.strings
+  MediaPlayerFramework
+
+  Created by Jonathan Cools-Lartigue on 6/14/19.
+  Copyright © 2019 Apple Inc. All rights reserved.
+</Description>
+      <Position>BLUETOOTH_LISTENING_MODE_TRANSPARENCY_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Transparency</base>
+        <tran loc="ar">شفافية الصوت</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>MobileMusicPlayer/System/Library/VoiceServices/PlugIns/iPod.vsplugin/English.lproj/Feedback.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>SELECT_ALBUM_SPOKEN_FORMAT</Position>
+      <TranslationSet>
+        <base loc="en">playing album %@</base>
+        <tran loc="ar">تشغيل الألبوم %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>MUSIC_ALREADY_PLAYING</Position>
+      <TranslationSet>
+        <base loc="en">Music is already playing.</base>
+        <tran loc="ar">الموسيقى في وضع التشغيل.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SELECT_PLAYLIST_SPOKEN_FORMAT</Position>
+      <TranslationSet>
+        <base loc="en">playing playlist %@</base>
+        <tran loc="ar">تشغيل قائمة تشغيل الأغاني %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UNKNOWN_ARTIST</Position>
+      <TranslationSet>
+        <base loc="en">unknown artist</base>
+        <tran loc="ar">فنان غير معروف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ENABLING_SHUFFLE</Position>
+      <TranslationSet>
+        <base loc="en">shuffle on</base>
+        <tran loc="ar">تشغيل العشوائي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>GENIUS_NOT_AVAILABLE</Position>
+      <TranslationSet>
+        <base loc="en">genius not available</base>
+        <tran loc="ar">genius غير متوفر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>GENIUS_TITLE_SPOKEN_FORMAT</Position>
+      <TranslationSet>
+        <base loc="en">playing genius playlist based on %@</base>
+        <tran loc="ar">تشغيل قائمة genius بناءًا على %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>GENIUS</Position>
+      <TranslationSet>
+        <base loc="en">playing genius playlist</base>
+        <tran loc="ar">تشغيل قائمة تشغيل genius</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>IDENTIFY_SONG_TITLE_AND_ARTIST</Position>
+      <TranslationSet>
+        <base loc="en">now playing %@ by %@</base>
+        <tran loc="ar">جاري تشغيل %@ من %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>NO_MUSIC_PLAYING</Position>
+      <TranslationSet>
+        <base loc="en">No music is playing.</base>
+        <tran loc="ar">لا توجد موسيقى يتم تشغيلها الآن.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>NO_MUSIC</Position>
+      <TranslationSet>
+        <base loc="en">No music.</base>
+        <tran loc="ar">لا توجد موسيقى.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>GENIUS_TITLE_ARTIST_SPOKEN_FORMAT</Position>
+      <TranslationSet>
+        <base loc="en">playing genius playlist based on %@ by %@</base>
+        <tran loc="ar">تشغيل قائمة genius بناءًا على %@ بواسطة %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UNKNOWN_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">untitled song</base>
+        <tran loc="ar">أغنية بلا عنوان</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SELECT_ALBUM_ARTIST_SPOKEN_FORMAT</Position>
+      <TranslationSet>
+        <base loc="en">playing album %@ by %@</base>
+        <tran loc="ar">تشغيل الألبوم %@ من %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>START_PLAYING_MUSIC_CONFIRMATION</Position>
+      <TranslationSet>
+        <base loc="en">No music is playing.  Do you want to play music now?</base>
+        <tran loc="ar">لا توجد موسيقى يتم تشغيلها الآن.  هل ترغب بتشغيل الموسيقى الآن؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SELECT_ARTIST_SPOKEN_FORMAT</Position>
+      <TranslationSet>
+        <base loc="en">playing songs by %@</base>
+        <tran loc="ar">تشغيل الأغاني من %@</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>MobileMusicPlayer/System/Library/PrivateFrameworks/MediaControls.framework/en.lproj/MediaControls.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>AIRPLAY_VIDEO_PICKER_BUTTON_TITLE_IPOD</Position>
+      <TranslationSet>
+        <base loc="en">Play on iPod</base>
+        <tran loc="ar">تشغيل على الـ iPod</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DISLIKE_TRACK_DEFAULT_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Dislike This Track</base>
+        <tran loc="ar">عدم الإعجاب بهذا المسار</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AIRPLAY_ERROR_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">AirPlay</base>
+        <tran loc="ar">AirPlay</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Typically By &lt;Composer&gt; </Description>
+      <Position>COMPOSED_BY_TITLE_%@</Position>
+      <TranslationSet>
+        <base loc="en">By %@</base>
+        <tran loc="ar">بواسطة %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AIRPLAY_VIDEO_PICKER_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">This app will automatically play on the selected TV.</base>
+        <tran loc="ar">سيُشغِّل هذا التطبيق على التلفاز الذي تم اختياره بشكل تلقائي.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>REMOVE_BOOKMARK_TRACK_DEFAULT_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Remove Bookmark</base>
+        <tran loc="ar">إزالة إشارة مرجعية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>OK_BUTTON_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">OK</base>
+        <tran loc="ar">موافق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>BOOKMARK_TRACK_DEFAULT_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Bookmark This Track</base>
+        <tran loc="ar">إضافة إشارة مرجعية للمسار</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CANCEL</Position>
+      <TranslationSet>
+        <base loc="en">Cancel</base>
+        <tran loc="ar">إلغاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Unable to connect to "DeviceName".</Description>
+      <Position>AIRPLAY_CONNECTION_ERROR_MESSAGE</Position>
+      <TranslationSet>
+        <base loc="en">Unable to connect to “%@”.</base>
+        <tran loc="ar">غير قادر على الاتصال بـ "%@"</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 
+  MediaControls.strings
+  Music
+
+  Created by Noah Hines on 5/2/17.
+  Copyright © 2017 Apple Inc. All rights reserved.
+</Description>
+      <Position>LIKE_TRACK_DEFAULT_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Like This Track</base>
+        <tran loc="ar">الإعجاب بهذا المسار</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>MEDIA_CONTROLS_EMPTY_STATE_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Not Playing</base>
+        <tran loc="ar">لا يتم التشغيل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AIRPLAY_VIDEO_PICKER_BUTTON_TITLE_IPHONE</Position>
+      <TranslationSet>
+        <base loc="en">Play on iPhone</base>
+        <tran loc="ar">تشغيل على الـ iPhone</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ROUTE_NOT_CONNECTED_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Tap to Connect</base>
+        <tran loc="ar">اضغط للاتصال</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>BLUETOOTH_LISTENING_MODE_NOISE_FOCUS_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Focus</base>
+        <tran loc="ar">تركيز</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SCRUBBER_LIVE</Position>
+      <TranslationSet>
+        <base loc="en">LIVE</base>
+        <tran loc="ar">مباشر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>BLUETOOTH_LISTENING_MODE_NOISE_CONTROL_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Noise Control</base>
+        <tran loc="ar">ضبط الضوضاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>BLUETOOTH_LISTENING_MODE_NOISE_CANCELLATION_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Noise Cancellation</base>
+        <tran loc="ar">إلغاء الضجيج</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AIRPLAY_VIDEO_PICKER_BUTTON_TITLE_IPAD</Position>
+      <TranslationSet>
+        <base loc="en">Play on iPad</base>
+        <tran loc="ar">تشغيل على الـ iPad</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>MEDIA_CONTROLS_PLATTER_PLACEHOLDER</Position>
+      <TranslationSet>
+        <base loc="en">Controls unavailable for this device.</base>
+        <tran loc="ar">أدوات التحكم غير متوفرة لهذا الجهاز.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ROUTE_CONNECTING_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Connecting…</base>
+        <tran loc="ar">جاري الاتصال…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>BLUETOOTH_LISTENING_MODE_OFF_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Off</base>
+        <tran loc="ar">متوقف</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>MobileMusicPlayer/System/Library/ControlCenter/Bundles/AirPlayMirroringModule.bundle/en.lproj/Localizable.strings</Filepath>
+    <TextItem>
+      <Description> Screen Mirroring Module Title for compact view</Description>
+      <Position>Screen Mirroring Compact</Position>
+      <TranslationSet>
+        <base loc="en">Screen Mirroring</base>
+        <tran loc="ar">انعكاس الشاشة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 
+  Localizable.strings
+  AirPlayMirroringModule
+
+  Created by Jonathan Long on 5/6/17.
+  Copyright © 2017 Apple Inc. All rights reserved.
+
+ Screen Mirroring Module Title for the expanded view</Description>
+      <Position>Screen Mirroring Expanded</Position>
+      <TranslationSet>
+        <base loc="en">Screen Mirroring</base>
+        <tran loc="ar">انعكاس الشاشة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Stop Mirroring Title </Description>
+      <Position>Stop Mirroring</Position>
+      <TranslationSet>
+        <base loc="en">Stop Mirroring</base>
+        <tran loc="ar">إيقاف الانعكاس</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>MobileMusicPlayer/System/Library/PrivateFrameworks/MediaControls.framework/en.lproj/MediaControls-b419.strings</Filepath>
+    <TextItem>
+      <Description> 
+  MediaControls-b298.strings
+  MediaPlayerFramework
+
+  Created by Jonathan Cools-Lartigue on 6/14/19.
+  Copyright © 2019 Apple Inc. All rights reserved.
+</Description>
+      <Position>BLUETOOTH_LISTENING_MODE_TRANSPARENCY_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Transparency</base>
+        <tran loc="ar">شفافية الصوت</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+</Proj>

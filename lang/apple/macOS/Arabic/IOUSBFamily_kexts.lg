@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Proj>
+  <ProjName>IOUSBFamily_kexts</ProjName>
+  <File>
+    <Filepath>IOUSBFamily_kexts/System/Library/Extensions/IOUSBFamily.kext/Contents/Resources/English.lproj/Localizable.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>kUSBTooManyDevicesHeader</Position>
+      <TranslationSet>
+        <base loc="en">Too many USB Accessories</base>
+        <tran loc="ar">يوجد عدد كبير جدًا من ملحقات USB</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kUSBTooManyHubsNotice</Position>
+      <TranslationSet>
+        <base loc="en">USB only supports 5 chained hubs.</base>
+        <tran loc="ar">يدعم منفذ USB فقط ٥ لوحات وصل متسلسلة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kUSBTDMLowBatteryNotice</Position>
+      <TranslationSet>
+        <base loc="en">The device being used as a disk will sleep soon.</base>
+        <tran loc="ar">الجهاز المستخدم حاليًا كقرص سيتم إسباته قريبًا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kUSBTooManyDevicesNotice</Position>
+      <TranslationSet>
+        <base loc="en">You have exceeded the number of supported USB accessories.</base>
+        <tran loc="ar">لقد تجاوزت عدد ملحقات USB المدعومة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kUSBCNeedsPowerTBNotice</Position>
+      <TranslationSet>
+        <base loc="en">Disconnecting other accessories may allow this to work.</base>
+        <tran loc="ar">قد يؤدي فصل الملحقات الأخرى إلى السماح بتشغيل ذلك.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kUSBLowPowerNotice</Position>
+      <TranslationSet>
+        <base loc="en">Connect “%@” to power or a USB port on this Mac.</base>
+        <tran loc="ar">قم بتوصيل \"%@\" بمصدر طاقة أو منفذ USB في هذا الـ Mac.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kUSBOverCurrentNotice</Position>
+      <TranslationSet>
+        <base loc="en">Unplug the accessory using too much power to re-enable USB devices.</base>
+        <tran loc="ar">افصل الملحق الذي يستهلك قدرًا كبيرًا جدًا من الطاقة لإعادة تمكين أجهزة USB.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kUSBCUnsupportedTBPortNotificationNotice</Position>
+      <TranslationSet>
+        <base loc="en">Connect accessory to a Thunderbolt port on this Mac.</base>
+        <tran loc="ar">قم بتوصيل ملحق بمنفذ Thunderbolt في هذا الـ Mac.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kUSBCUnsupportedAltModeTBHeader</Position>
+      <TranslationSet>
+        <base loc="en">Cannot Use Thunderbolt Accessory</base>
+        <tran loc="ar">لا يمكن استخدام ملحق Thunderbolt</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kUSBCUnsupportedTBCableNotificationHeader</Position>
+      <TranslationSet>
+        <base loc="en">Cannot Use Thunderbolt Accessory</base>
+        <tran loc="ar">لا يمكن استخدام ملحق Thunderbolt</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kUSBCUnsupportedTBPortNotificationHeader</Position>
+      <TranslationSet>
+        <base loc="en">Cannot Use Thunderbolt Accessory</base>
+        <tran loc="ar">لا يمكن استخدام ملحق Thunderbolt</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kUSBTDMLowBatteryHeader</Position>
+      <TranslationSet>
+        <base loc="en">Low Battery on Connected Disk</base>
+        <tran loc="ar">شحن البطارية منخفض على القرص المتصل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kUSBOverCurrentHeader</Position>
+      <TranslationSet>
+        <base loc="en">USB Accessories Disabled</base>
+        <tran loc="ar">تم تعطيل ملحقات USB</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kUSBCNeedsPowerTBHeader</Position>
+      <TranslationSet>
+        <base loc="en">Accessory Needs More Power</base>
+        <tran loc="ar">يحتاج الملحق إلى مزيد من الطاقة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kUSBiOSDeviceNotChargingHeader</Position>
+      <TranslationSet>
+        <base loc="en">%@ Not Charging</base>
+        <tran loc="ar">الـ %@ لا يشحن الآن</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kUSBLowPowerHeader</Position>
+      <TranslationSet>
+        <base loc="en">USB Accessory Needs Power</base>
+        <tran loc="ar">يحتاج ملحق USB إلى طاقة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kUSBLowPowerNoACHeader</Position>
+      <TranslationSet>
+        <base loc="en">USB Accessory Needs Power</base>
+        <tran loc="ar">يحتاج ملحق USB إلى طاقة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kUSBDefaultUSBDeviceName</Position>
+      <TranslationSet>
+        <base loc="en">Unnamed Device</base>
+        <tran loc="ar">جهاز غير مسمّى</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kUSBLowPowerNoACNotice</Position>
+      <TranslationSet>
+        <base loc="en">Connect “%@” to a USB port on this Mac.</base>
+        <tran loc="ar">قم بتوصيل \"%@\" بمنفذ USB في هذا الـ Mac.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kUSBUnsupportedNotice</Position>
+      <TranslationSet>
+        <base loc="en">The “%@” is not supported on this Mac.</base>
+        <tran loc="ar">‏%@\" غير مدعوم على هذا الـ Mac.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kUSBUnsupportedHeader</Position>
+      <TranslationSet>
+        <base loc="en">USB Accessory Not Supported</base>
+        <tran loc="ar">ملحق USB غير مدعوم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kUSBCUnsupportedAltModeTBNotice</Position>
+      <TranslationSet>
+        <base loc="en">Thunderbolt accessories are not supported on this Mac.</base>
+        <tran loc="ar">ملحقات Thunderbolt غير مدعومة على هذا الـ Mac.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kUSBTooManyHubsHeader</Position>
+      <TranslationSet>
+        <base loc="en">Too many USB Hubs</base>
+        <tran loc="ar">يوجد عدد كبير جدًا من لوحات وصل USB</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kUSBCUnsupportedTBCableNotificationNotice</Position>
+      <TranslationSet>
+        <base loc="en">Connect accessory using a Thunderbolt capable cable.</base>
+        <tran loc="ar">قم بتوصيل ملحق باستخدام كبل يدعم Thunderbolt.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>kUSBiOSDeviceNotChargingNotice</Position>
+      <TranslationSet>
+        <base loc="en">Connect to a power adapter or a USB port on this Mac to charge.</base>
+        <tran loc="ar">قم بالتوصيل بمحوّل طاقة أو بمنفذ USB في هذا الـ Mac للشحن.</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>IOUSBFamily_kexts/System/Library/Extensions/IOUSBFamily.kext/Contents/Resources/English.lproj/InfoPlist.strings</Filepath>
+    <TextItem>
+      <Description> Localized versions of Info.plist keys </Description>
+      <Position>CFBundleName</Position>
+      <TranslationSet>
+        <base loc="en">I/O Kit USB Family</base>
+        <tran loc="ar">عائلة طقم الإدخال/الإخراج لأجهزة USB</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>IOUSBFamily_kexts/System/Library/Extensions/IOUSBFamily.kext/Contents/PlugIns/AppleUSBMergeNub.kext/Contents/Resources/English.lproj/InfoPlist.strings</Filepath>
+    <TextItem>
+      <Description> Localized versions of Info.plist keys </Description>
+      <Position>CFBundleName</Position>
+      <TranslationSet>
+        <base loc="en">I/O Kit Driver for USB Devices</base>
+        <tran loc="ar">برنامج تشغيل طقم الإدخال/الإخراج لأجهزة USB</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>IOUSBFamily_kexts/System/Library/Extensions/IOUSBFamily.kext/Contents/PlugIns/AppleUSBMergeNub.kext/Contents/Resources/English.lproj/Localizable.strings</Filepath>
+    <TextItem>
+      <Description> The Audio Device for the 24" LED display  -- used for Sound Input/Output Prefs and AudioMidi Setup and like applications</Description>
+      <Position>Display Audio</Position>
+      <TranslationSet>
+        <base loc="en">Display Audio</base>
+        <tran loc="ar">صوت شاشة العرض</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+</Proj>

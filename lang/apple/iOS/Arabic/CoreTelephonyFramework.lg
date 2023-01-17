@@ -1,0 +1,576 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Proj>
+  <ProjName>CoreTelephonyFramework</ProjName>
+  <File>
+    <Filepath>CoreTelephonyFramework/System/Library/Frameworks/CoreTelephony.framework/en.lproj/InfoPlist~iphone.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>CFBundleName</Position>
+      <TranslationSet>
+        <base loc="en">CoreTelephony</base>
+        <tran loc="ar">CoreTelephony</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 
+  InfoPlist~iphone.strings
+  CFTelephony
+
+  Created by Sirisha Pillalamarri on 8/9/11.
+  Copyright (c) 2011 Apple Inc. All rights reserved.
+</Description>
+      <Position>CFBundleDisplayName</Position>
+      <TranslationSet>
+        <base loc="en">Cell Network Search</base>
+        <tran loc="ar">بحث الشبكة الخلوية</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>CoreTelephonyFramework/System/Library/Frameworks/CoreTelephony.framework/en.lproj/InfoPlist~ipad.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>CFBundleName</Position>
+      <TranslationSet>
+        <base loc="en">CoreTelephony</base>
+        <tran loc="ar">CoreTelephony</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 
+  InfoPlist~ipad.strings
+  CFTelephony
+
+  Created by Sirisha Pillalamarri on 8/9/11.
+  Copyright (c) 2011 Apple Inc. All rights reserved.
+</Description>
+      <Position>CFBundleDisplayName</Position>
+      <TranslationSet>
+        <base loc="en">Cell Network Search</base>
+        <tran loc="ar">بحث الشبكة الخلوية</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>CoreTelephonyFramework/System/Library/Frameworks/CoreTelephony.framework/en.lproj/CBMessage-gemini.strings</Filepath>
+    <TextItem>
+      <Description>
+   CBMessage-gemini.strings - These are the default strings we will use if the individual carrier bundles aren't shipped with custom ones.
+   CFTelephony
+
+   Created by Shuvo Chatterjee on 9/9/10.
+   Copyright 2010 Apple, Inc. All rights reserved.
+
+   Oleg Moskalenko: this file also must carry the localization strings that can be used in an environment where
+   the Carrier Bundle is absent (iPod, Mac, iPad without cellular, etc).
+ 
+ SIM Alerts </Description>
+      <Position>MULTIPLE_SIM_CARDS_LOCKED</Position>
+      <TranslationSet>
+        <base loc="en">SIM cards locked</base>
+        <tran loc="ar">بطاقات SIM مقفلة</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>CoreTelephonyFramework/System/Library/Frameworks/CoreTelephony.framework/en.lproj/InfoPlist~applewatch.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>CFBundleName</Position>
+      <TranslationSet>
+        <base loc="en">CoreTelephony</base>
+        <tran loc="ar">CoreTelephony</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 
+  InfoPlist~applewatch.strings
+  CFTelephony
+
+  Created by Sam Miller 7/3/19.
+  Copyright (c) 2011 Apple Inc. All rights reserved.
+</Description>
+      <Position>CFBundleDisplayName</Position>
+      <TranslationSet>
+        <base loc="en">Cell Network Search</base>
+        <tran loc="ar">بحث الشبكة الخلوية</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>CoreTelephonyFramework/System/Library/Frameworks/CoreTelephony.framework/en.lproj/CBMessage.strings</Filepath>
+    <TextItem>
+      <Description>
+   CBMessage.strings - These are the default strings we will use if the individual carrier bundles aren't shipped with custom ones.
+   CFTelephony
+
+   Created by Shuvo Chatterjee on 9/9/10.
+   Copyright 2010 Apple, Inc. All rights reserved.
+
+   Oleg Moskalenko: this file also must carry the localization strings that can be used in an environment where
+   the Carrier Bundle is absent (iPod, Mac, iPad without cellular, etc).
+ </Description>
+      <Position>CBMessageTitle</Position>
+      <TranslationSet>
+        <base loc="en">Carrier Settings Update</base>
+        <tran loc="ar">تحديث شركة الاتصالات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CTUF_WLANCALL_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">WLAN Calling Enabled</base>
+        <tran loc="ar">تم تمكين مكالمات WLAN</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CONTACT_CARRIER_FOR_DETAILS</Position>
+      <TranslationSet>
+        <base loc="en">Contact your carrier for more details if this problem continues.</base>
+        <tran loc="ar">الرجاء الاتصال بشركة الاتصالات للمزيد من المعلومات إذا استمرت هذه المشكلة بالحدوث.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CTUF_CELLULAR_PLAN_READY_TO_INSTALL_TITLE_@</Position>
+      <TranslationSet>
+        <base loc="en">%@ Cellular Plan Ready to be Installed</base>
+        <tran loc="ar">الخطة الخلوية %@ جاهزة للتثبيت</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CONTACT_CARRIER_TO_ENABLE_WLAN_CALLS_FORMAT</Position>
+      <TranslationSet>
+        <base loc="en">To enable WLAN Calls on this account, contact %s</base>
+        <tran loc="ar">لتمكين مكالمات WLAN على هذا الحساب، قم بالاتصال ب %s</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>TRANSFER_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Cellular Plan Transfer</base>
+        <tran loc="ar">نقل الخطة الخلوية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DONE</Position>
+      <TranslationSet>
+        <base loc="en">Done</base>
+        <tran loc="ar">تم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>TRANSFER_CARRIER</Position>
+      <TranslationSet>
+        <base loc="en">your carrier</base>
+        <tran loc="ar">شركة الاتصالات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> SIM Alerts </Description>
+      <Position>NO_SIM_CARD_INSTALLED</Position>
+      <TranslationSet>
+        <base loc="en">No SIM Card Installed</base>
+        <tran loc="ar">لا توجد بطاقة SIM مثبتة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>OK</Position>
+      <TranslationSet>
+        <base loc="en">OK</base>
+        <tran loc="ar">موافق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CANNOT_ACTIVATE_WLAN_CALLING</Position>
+      <TranslationSet>
+        <base loc="en">Cannot Activate WLAN Calling</base>
+        <tran loc="ar">لا يمكن تنشيط مكالمات WLAN</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>THUMPER_EMERGENCY_ADDRESS_INFO_MESSAGE</Position>
+      <TranslationSet>
+        <base loc="en">Your carrier may route emergency services based on your current location or your address on file. You can update your emergency address information in FaceTime settings.</base>
+        <tran loc="ar">يمكن لشركة الاتصالات الخاصة بك أن تقوم بتوجيه خدمات الطوارئ استنادًا إلى موقعك الحالي أو عنوانك المسجل. يمكنك تحديث عنوان الطوارئ في إعدادات FaceTime.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CTFU_TEXT_WIFICALL_NEED_ACTION</Position>
+      <TranslationSet>
+        <base loc="en">Wi-Fi Calling can’t be turned on due to missing T&amp;C or address on file.</base>
+        <tran loc="ar">لا يمكن تشغيل مكالمات Wi-Fi بسبب عدم وجود الشروط والأحكام أو العنوان المسجل.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>TRANSFER_ORIGINAL_IPHONE</Position>
+      <TranslationSet>
+        <base loc="en">Your original iPhone</base>
+        <tran loc="ar">الـ iPhone الأصلي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>TRANSFER_TARGET_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">To complete this transfer, approve it on the iPhone currently using this cellular plan.</base>
+        <tran loc="ar">لإكمال هذا النقل، وافق عليه على الـ iPhone الذي يستخدم هذه الخطة الخلوية حاليًا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PERMANENTLY_BLOCKED_SIM_MESSAGE</Position>
+      <TranslationSet>
+        <base loc="en">You have exhausted all attempts to unlock your SIM. Please contact your carrier.</base>
+        <tran loc="ar">تم استنفاذ جميع محاولات فتح قفل بطاقة SIM. الرجاء الاتصال بشركة الاتصالات.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CBMessageAcceptButton</Position>
+      <TranslationSet>
+        <base loc="en">Update</base>
+        <tran loc="ar">تحديث</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CTFU_TEXT_WLANCALL_NEED_ACTION</Position>
+      <TranslationSet>
+        <base loc="en">WLAN Calling can’t be turned on due to missing T&amp;C or address on file.</base>
+        <tran loc="ar">لا يمكن تشغيل مكالمات WLAN بسبب عدم وجود الشروط والأحكام أو العنوان المسجل.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CANCEL</Position>
+      <TranslationSet>
+        <base loc="en">Cancel</base>
+        <tran loc="ar">إلغاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>EMERGENCY_ADDRESS_UPDATED</Position>
+      <TranslationSet>
+        <base loc="en">Emergency Address Updated</base>
+        <tran loc="ar">تم تحديث عنوان الطوارئ</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CONTINUE</Position>
+      <TranslationSet>
+        <base loc="en">Continue</base>
+        <tran loc="ar">متابعة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CTUF_WIFICALL_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Wi-Fi Calling Enabled</base>
+        <tran loc="ar">تم تمكين مكالمات Wi-Fi</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CTFU_LABEL_ACTION_DISMISS</Position>
+      <TranslationSet>
+        <base loc="en">Dismiss</base>
+        <tran loc="ar">استبعاد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CTFU_LABEL_ACTION_CELLULAR_PLAN_INSTALL</Position>
+      <TranslationSet>
+        <base loc="en">Install cellular plan</base>
+        <tran loc="ar">تثبيت الخطة الخلوية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PLAN_CHANGE_SUCCESS</Position>
+      <TranslationSet>
+        <base loc="en">The Cellular Plan Change for “%@” was Successful</base>
+        <tran loc="ar">تغيرت الخطة الخلوية إلى "%@" بنجاح</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PLAN_CHANGE_FAILURE</Position>
+      <TranslationSet>
+        <base loc="en">Unable to Change Plan to “%@”</base>
+        <tran loc="ar">غير قادر على الاتصال بـ "%@".</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ESIM_TRANSFER_ALERT_MESSAGE</Position>
+      <TranslationSet>
+        <base loc="en">Confirmation required.</base>
+        <tran loc="ar">مطلوب التأكيد.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>WLAN_CALLING</Position>
+      <TranslationSet>
+        <base loc="en">WLAN Calling</base>
+        <tran loc="ar">مكالمات WLAN</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> FollowUp </Description>
+      <Position>CTFU_TEXT_WIFICALL_ACTIVATED</Position>
+      <TranslationSet>
+        <base loc="en">Address on file is used for Emergency calls over Wi-Fi. You can update it via provided link.</base>
+        <tran loc="ar">يُستخدم العنوان المسجل لمكالمات الطوارئ عبر Wi-Fi. ويمكنك تحديثه من الرابط المتوفر.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PLAN_PURCHASE_CONFIRM</Position>
+      <TranslationSet>
+        <base loc="en">Are you sure you want to use the cellular plan “%@” from %@?</base>
+        <tran loc="ar">هل أنت متأكد من رغبتك في استخدام الخطة الخلوية "%@" من %@؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>TURN_ON</Position>
+      <TranslationSet>
+        <base loc="en">Turn On</base>
+        <tran loc="ar">تشغيل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>TRANSFER_REQUEST_PROMPT</Position>
+      <TranslationSet>
+        <base loc="en">This cellular plan will no longer be available on this iPhone. If you did not request this, don't allow the transfer.</base>
+        <tran loc="ar">لن تكون هذه الخطة الخلوية متوفرة بعد الآن على هذا الـ iPhone. إذا لم تكن قد طلبت ذلك، فلا تسمح بالنقل.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CBMessageDeclineButton</Position>
+      <TranslationSet>
+        <base loc="en">Not Now</base>
+        <tran loc="ar">ليس الآن</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>THUMPER_EMERGENCY_ADDRESS_INFO_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Your Location Will Be Used to Make Emergency Calls</base>
+        <tran loc="ar">سيتم استخدام موقعك لإجراء مكالمات الطوارئ</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CTFU_TEXT_WLANCALL_ACTIVATED</Position>
+      <TranslationSet>
+        <base loc="en">Address on file is used for Emergency calls over WLAN. You can update it via provided link.</base>
+        <tran loc="ar">يُستخدم العنوان المسجل لمكالمات الطوارئ عبر WLAN. ويمكنك تحديثه من الرابط المتوفر.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CTUF_CELLULAR_PLAN_READY_TO_INSTALL_TEXT</Position>
+      <TranslationSet>
+        <base loc="en">Tap this notification to finish your cellular plan set up.</base>
+        <tran loc="ar">اضغط على هذا الإشعار لإنهاء إعداد الخطة الخلوية.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>TRANSFER_SOURCE_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Do you want to transfer %@ to a new iPhone?</base>
+        <tran loc="ar">هل ترغب في نقل %@ إلى iPhone جديد؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SIM_CARD_LOCKED</Position>
+      <TranslationSet>
+        <base loc="en">SIM card locked</base>
+        <tran loc="ar">بطاقة SIM مقفلة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CTFU_LABEL_ACTION_UPDATE_ADDRESS</Position>
+      <TranslationSet>
+        <base loc="en">Update emergency address</base>
+        <tran loc="ar">تحديث عنوان الطوارئ</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CONTACT_CARRIER_TO_ENABLE_WIFI_CALLS_FORMAT</Position>
+      <TranslationSet>
+        <base loc="en">To enable Wi-Fi Calls on this account, contact %s</base>
+        <tran loc="ar">لتمكين مكالمات Wi-Fi على هذا الحساب، قم بالاتصال بـ %s</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PERMANENTLY_BLOCKED_SIM_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">PUK Exhausted</base>
+        <tran loc="ar">تم استنفاذ الـ PUK</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SHORT_CODE_CALLING_WITHOUT_LOCATION</Position>
+      <TranslationSet>
+        <base loc="en">Turn on Location Services for Wi-Fi Calling to Call %@ and other Short Code Numbers</base>
+        <tran loc="ar">شغل خدمات الموقع لمكالمات Wi-Fi حتى تتمكن من مكالمة %@ واستخدام أرقام الرموز القصيرة الأخرى.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>TRANSFER_REQUEST_CONFIRMATION</Position>
+      <TranslationSet>
+        <base loc="en">If you no longer have the other iPhone, contact your carrier to transfer this plan.</base>
+        <tran loc="ar">إذا لم يعد الـ iPhone الآخر معك، فاتصل بشركة الاتصالات لنقل هذه الخطة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>USING_CELLULAR_DATA</Position>
+      <TranslationSet>
+        <base loc="en"> using Cellular Data</base>
+        <tran loc="ar"> يستخدم البيانات الخلوية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CTUF_FINISH_CELLULAR_PLAN_SETTING_UP_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Finish Setting up your Cellular Plan</base>
+        <tran loc="ar">إنهاء إعداد الخطة الخلوية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CBMessageBody</Position>
+      <TranslationSet>
+        <base loc="en">New settings are available. Would you like to update them now?</base>
+        <tran loc="ar">يتوفر الآن إعدادات جديدة. هل ترغب بالتحديث الآن؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> TransferConsent </Description>
+      <Position>DECLINE_TRANSFER</Position>
+      <TranslationSet>
+        <base loc="en">Don't Allow</base>
+        <tran loc="ar">عدم السماح</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>TOUCH_ID_AUTH_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Touch ID to Change this “%@” Plan</base>
+        <tran loc="ar">استخدام Touch ID لتغيير خطة "%@" هذه</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>COUNTRY_DISABLED_WIFI_EMERGENCY_CALL</Position>
+      <TranslationSet>
+        <base loc="en">Emergency Call Not Available in This Location</base>
+        <tran loc="ar">مكالمة الطوارئ غير متاحة في هذا الموقع</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CANNOT_ACTIVATE_WIFI_CALLING</Position>
+      <TranslationSet>
+        <base loc="en">Cannot Activate Wi-Fi Calling</base>
+        <tran loc="ar">لا يمكن تنشيط مكالمات Wi-Fi</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CTUF_FINISH_CELLULAR_PLAN_SETTING_UP_TITLE_@</Position>
+      <TranslationSet>
+        <base loc="en">Finish Setting up your %@ Cellular Plan</base>
+        <tran loc="ar">إنهاء إعداد الخطة الخلوية %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>WIFI_CALLING</Position>
+      <TranslationSet>
+        <base loc="en">Wi-Fi Calling</base>
+        <tran loc="ar">مكالمات Wi-Fi</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CTUF_CELLULAR_PLAN_READY_TO_INSTALL_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Cellular Plan Ready to be Installed</base>
+        <tran loc="ar">الخطة الخلوية جاهزة للتثبيت</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SETTINGS</Position>
+      <TranslationSet>
+        <base loc="en">Settings</base>
+        <tran loc="ar">الإعدادات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SIM_FAILURE</Position>
+      <TranslationSet>
+        <base loc="en">SIM Failure</base>
+        <tran loc="ar">فشل الـ SIM</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SHORT_CODE_CALLING_WITHOUT_LOCATION_WLAN</Position>
+      <TranslationSet>
+        <base loc="en">Turn on Location Services for WLAN Calling to Call %@ and other Short Code Numbers</base>
+        <tran loc="ar">شغل خدمات الموقع لمكالمات WLAN حتى تتمكن من مكالمة %@ وأرقام الرموز القصيرة الأخرى.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>TRANSFER_CELLULAR_PLAN</Position>
+      <TranslationSet>
+        <base loc="en">your cellular plan</base>
+        <tran loc="ar">الخطة الخلوية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>TRANSFER</Position>
+      <TranslationSet>
+        <base loc="en">Transfer</base>
+        <tran loc="ar">نقل</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+</Proj>

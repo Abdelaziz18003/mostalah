@@ -1,0 +1,1837 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Proj>
+  <ProjName>SoftwareUpdate_binaries</ProjName>
+  <File>
+    <Filepath>SoftwareUpdate_binaries/System/Library/CoreServices/Software Update.app/Contents/Resources/en.lproj/Localizable.strings</Filepath>
+    <TextItem>
+      <Description> 
+  Localizable.strings
+  SoftwareUpdate
+
+  Created by Randy Saldinger on 9/6/12.
+  Copyright (c) 2012 Apple Inc. All rights reserved.
+
+ Status messages for predicate install UI</Description>
+      <Position>SCANNING_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Finding software</base>
+        <tran loc="ar">البحث عن برامج</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CONFIRM_POST_LOGOUT_INSTALL_AND_RESTART_BUTTON</Position>
+      <TranslationSet>
+        <base loc="en">Install and Restart</base>
+        <tran loc="ar">التثبيت وإعادة التشغيل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Button titles for predicate install</Description>
+      <Position>OK_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">OK</base>
+        <tran loc="ar">موافق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Default title for predicate install (should really always be overridden)</Description>
+      <Position>UPDATES_AVAILABLE_NO_RESTART_MESSAGE</Position>
+      <TranslationSet>
+        <base loc="en">Software updates are available for your computer. Do you want to install them?</base>
+        <tran loc="ar">تتوفر تحديثات برامج للكمبيوتر الخاص بك. هل ترغب في تثبيتها؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CONFIRM_POST_LOGOUT_RESTART_BUTTON</Position>
+      <TranslationSet>
+        <base loc="en">Restart</base>
+        <tran loc="ar">إعادة التشغيل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Alternate title for predicate install window for non-production server</Description>
+      <Position>NON_PRODUCTION_SERVER_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Software Update (%@)</base>
+        <tran loc="ar">تحديث البرامج (%@)</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>FILE_SIZES_AND_TIME_ESTIMATE_STATUS</Position>
+      <TranslationSet>
+        <base loc="en">%@ of %@ — %@</base>
+        <tran loc="ar">%@ من %@ — %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>INSTALL_DONE</Position>
+      <TranslationSet>
+        <base loc="en">The software was installed.</base>
+        <tran loc="ar">تم تثبيت البرنامج.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Opportunistic confirmation to install updates queued for post-logout</Description>
+      <Position>CONFIRM_POST_LOGOUT_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">There are software updates to install. Do you want to install them before restarting the computer?</base>
+        <tran loc="ar">توجد تحديثات برامج يمكن تثبيتها. هل ترغب في تثبيتها قبل إعادة تشغيل الكمبيوتر؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>STOP_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Stop</base>
+        <tran loc="ar">إيقاف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>FILE_SIZES_STATUS</Position>
+      <TranslationSet>
+        <base loc="en">%@ of %@</base>
+        <tran loc="ar">%@ من %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>INSTALLING_ONE_ITEM</Position>
+      <TranslationSet>
+        <base loc="en">Installing 1 item</base>
+        <tran loc="ar">يتم الآن تثبيت عنصر واحد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CONFIRM_POST_LOGOUT_BODY_FORMAT</Position>
+      <TranslationSet>
+        <base loc="en">If you do nothing, the updates will be installed and your computer will restart automatically in %@.</base>
+        <tran loc="ar">في حال عدم القيام بأي إجراء، سيتم تثبيت التحديثات وإعادة تشغيل الكمبيوتر تلقائيًا خلال %@.</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>SoftwareUpdate_binaries/System/Library/PreferencePanes/SoftwareUpdate.prefPane/Contents/Resources/en.lproj/SUOSUUpToDateViewController.strings</Filepath>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "&lt;&lt;do not localize&gt;&gt;"; ObjectID = "CUR-e0-9ct"; </Description>
+      <Position>CUR-e0-9ct.title</Position>
+      <TranslationSet>
+        <base loc="en">&lt;&lt;do not localize&gt;&gt;</base>
+        <tran loc="ar">&lt;&lt;do not localize&gt;&gt;</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "&lt;&lt;do not localize&gt;&gt;"; ObjectID = "Pmj-iM-5Gb"; </Description>
+      <Position>Pmj-iM-5Gb.title</Position>
+      <TranslationSet>
+        <base loc="en">&lt;&lt;do not localize&gt;&gt;</base>
+        <tran loc="ar">&lt;&lt;do not localize&gt;&gt;</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>SoftwareUpdate_binaries/System/Library/PreferencePanes/SoftwareUpdate.prefPane/Contents/Resources/en.lproj/SUOSUPreferencePane.strings</Filepath>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Advanced…"; ObjectID = "W1Q-Xw-G5D"; </Description>
+      <Position>W1Q-Xw-G5D.title</Position>
+      <TranslationSet>
+        <base loc="en">Advanced…</base>
+        <tran loc="ar">متقدم…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSWindow"; title = "≪ do not localize ≫"; ObjectID = "F0z-JX-Cv5"; </Description>
+      <Position>F0z-JX-Cv5.title</Position>
+      <TranslationSet>
+        <base loc="en">≪ do not localize ≫</base>
+        <tran loc="ar">≪ do not localize ≫</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Software Update"; ObjectID = "znB-QI-P5j"; </Description>
+      <Position>znB-QI-P5j.title</Position>
+      <TranslationSet>
+        <base loc="en">Software Update</base>
+        <tran loc="ar">تحديث البرامج</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Automatically keep my Mac up to date"; ObjectID = "Rqz-kQ-rbd"; </Description>
+      <Position>Rqz-kQ-rbd.title</Position>
+      <TranslationSet>
+        <base loc="en">Automatically keep my Mac up to date</base>
+        <tran loc="ar">تحديث الـ Mac أولاً بأول</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>SoftwareUpdate_binaries/System/Library/PreferencePanes/SoftwareUpdate.prefPane/Contents/Resources/en.lproj/SUOSUScanningViewController.strings</Filepath>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Checking for updates…"; ObjectID = "TPR-3d-FU6"; </Description>
+      <Position>TPR-3d-FU6.title</Position>
+      <TranslationSet>
+        <base loc="en">Checking for updates…</base>
+        <tran loc="ar">جاري التحقق من وجود تحديثات…</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>SoftwareUpdate_binaries/System/Library/CoreServices/Software Update.app/Contents/Resources/en.lproj/InfoPlist.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>CFBundleDisplayName</Position>
+      <TranslationSet>
+        <base loc="en">Software Update</base>
+        <tran loc="ar">تحديث البرامج</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Localized versions of Info.plist keys </Description>
+      <Position>CFBundleName</Position>
+      <TranslationSet>
+        <base loc="en">Software Update</base>
+        <tran loc="ar">تحديث البرامج</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>SoftwareUpdate_binaries/System/Library/UserNotifications/Bundles/com.apple.SoftwareUpdateNotification.bundle/Contents/Resources/en.lproj/InfoPlist.strings</Filepath>
+    <TextItem>
+      <Description> 
+  InfoPlist.strings
+  SoftwareUpdate
+
+  Created by Lucy Zhang on 9/28/18.
+  Copyright © 2018 Apple Inc. All rights reserved.
+</Description>
+      <Position>CFBundleDisplayName</Position>
+      <TranslationSet>
+        <base loc="en">Software Update</base>
+        <tran loc="ar">تحديث البرامج</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>SoftwareUpdate_binaries/System/Library/CoreServices/Software Update.app/Contents/Resources/en.lproj/LegalTextUpdate.rtf</Filepath>
+  </File>
+  <File>
+    <Filepath>SoftwareUpdate_binaries/System/Library/PrivateFrameworks/SoftwareUpdate.framework/Versions/A/Resources/SoftwareUpdateNotificationManager.app/Contents/Resources/en.lproj/Localizable.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>RESTART_COUNTDOWN_DOWNLOAD_ERROR_MESSAGE</Position>
+      <TranslationSet>
+        <base loc="en">Some updates could not be downloaded.</base>
+        <tran loc="ar">تعذر تنزيل بعض التحديثات.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>RESTART_COUNTDOWN_NOTIFICATION_TEXT_FORMAT</Position>
+      <TranslationSet>
+        <base loc="en">Your computer will restart in %@\U00A0%@ to install updates.</base>
+        <tran loc="ar">ستتم إعادة تشغيل الكمبيوتر خلال %@\U00A0%@ لتثبيت التحديثات.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CODE_RED_UPDATES_NOTIFICATION_TEXT</Position>
+      <TranslationSet>
+        <base loc="en">These updates should be installed as soon as possible.</base>
+        <tran loc="ar">يجب تثبيت هذه التحديثات في أسرع وقت ممكن.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> HI Reviewed 4/16</Description>
+      <Position>UPDATE_NOTIFICATION_LATER_OPTION_NOW</Position>
+      <TranslationSet>
+        <base loc="en">Install</base>
+        <tran loc="ar">تثبيت</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>RESTART_COUNTDOWN_DOWNLOAD_ERROR_DETAILS_BUTTON</Position>
+      <TranslationSet>
+        <base loc="en">Details</base>
+        <tran loc="ar">التفاصيل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>RESTART_COUNTDOWN_QUEUE_FOR_POST_LOGOUT_ERROR_DETAILS_BUTTON</Position>
+      <TranslationSet>
+        <base loc="en">Details</base>
+        <tran loc="ar">التفاصيل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UPDATE_NOTIFICATION_LATER_OPTION_DETAILS</Position>
+      <TranslationSet>
+        <base loc="en">Details</base>
+        <tran loc="ar">التفاصيل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CODE_RED_UPDATE_RESTART_NOTIFICATION_TEXT</Position>
+      <TranslationSet>
+        <base loc="en">Your computer will restart to complete this update.</base>
+        <tran loc="ar">سيقوم الكمبيوتر الخاص بك بإعادة التشغيل لإكمال هذا التحديث.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CODE_RED_UPDATE_ULTIMATUM_RESTART_NOTIFICATION_TEXT</Position>
+      <TranslationSet>
+        <base loc="en">Your computer will restart to complete this update.</base>
+        <tran loc="ar">سيقوم الكمبيوتر الخاص بك بإعادة التشغيل لإكمال هذا التحديث.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> HI Reviewed 4/16</Description>
+      <Position>UPDATES_AVAILABLE_AUTOUPDATE_FAILED_NOTIFICATION_TEXT_APP_RUNNING</Position>
+      <TranslationSet>
+        <base loc="en">Some apps currently in use are preventing automatic updates.</base>
+        <tran loc="ar">بعض التطبيقات قيد الاستخدام حاليًا وتمنع التحديثات التلقائية.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> HI Reviewed 4/16</Description>
+      <Position>UPDATES_AVAILABLE_LATER_FAILED_NOTIFICATION_TEXT</Position>
+      <TranslationSet>
+        <base loc="en">Some updates could not be installed automatically.</base>
+        <tran loc="ar">تعذر تثبيت بعض التحديثات تلقائيًا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AUTOUPDATE_SCHEDULED_NOTIFICATION_TEXT_MULTIPLE</Position>
+      <TranslationSet>
+        <base loc="en">%@ updates are available and will be installed later tonight.</base>
+        <tran loc="ar">هناك %@ تحديث متوفر وسيتم التثبيت لاحقًا الليلة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> HI Reviewed 4/16</Description>
+      <Position>DOITLATER_HELPER_POWER_TEXT</Position>
+      <TranslationSet>
+        <base loc="en">Your computer must be connected to power to install updates later.</base>
+        <tran loc="ar">يجب أن يكون الكمبيوتر متصلاً بمصدر طاقة لتثبيت التحديثات في وقت لاحق.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ADMIN_INSTALLED_UPDATE_POSTINSTALL_NOTIFICATION_TEXT</Position>
+      <TranslationSet>
+        <base loc="en">A new update was installed on your Mac by an administrator.</base>
+        <tran loc="ar">تم تثبيت تحديث جديد على الـ Mac الخاص بك بواسطة مسؤول.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CODE_RED_UPDATE_NOTIFICATION_TEXT</Position>
+      <TranslationSet>
+        <base loc="en">This update should be installed as soon as possible.</base>
+        <tran loc="ar">يجب تثبيت هذا التحديث في أسرع وقت ممكن.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>RESTART_COUNTDOWN_NOTIFICATION_TEXT_SECONDS_PLURAL</Position>
+      <TranslationSet>
+        <base loc="en">seconds</base>
+        <tran loc="ar">ثوانٍ</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> HI Reviewed 4/16</Description>
+      <Position>DOITLATER_HELPER_OTHER_USERS_TEXT</Position>
+      <TranslationSet>
+        <base loc="en">Log out of other user accounts so updates can install later.</base>
+        <tran loc="ar">سجّل الخروج من حسابات المستخدمين الأخرى حتى يمكن تثبيت التحديثات لاحقًا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AUTOENROLL_AUTOUPDATE_NOTIFICATION_DISMISS</Position>
+      <TranslationSet>
+        <base loc="en">OK</base>
+        <tran loc="ar">موافق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Restart countdown</Description>
+      <Position>RESTART_COUNTDOWN_NOTIFICATION_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Restarting Your Computer</base>
+        <tran loc="ar">تتم الآن إعادة تشغيل الكمبيوتر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ADMIN_INSTALLED_POST_LOGOUT_UPDATE_POSTINSTALL_NOTIFICATION_TEXT</Position>
+      <TranslationSet>
+        <base loc="en">A new update was requested to be installed by an administrator.</base>
+        <tran loc="ar">قام مسؤول بطلب تثبيت تحديث جديد.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> HI Reviewed 4/16</Description>
+      <Position>DOITLATER_HELPER_POWER_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Not Connected to Power</base>
+        <tran loc="ar">غير متصل بالطاقة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CODE_RED_UPDATES_ULTIMATUM_NOTIFICATION_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Security Updates Required</base>
+        <tran loc="ar">مطلوب تحديثات الأمن</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>RESTART_COUNTDOWN_NOTIFICATION_BUTTON_RESTART</Position>
+      <TranslationSet>
+        <base loc="en">Restart</base>
+        <tran loc="ar">إعادة التشغيل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> HI Reviewed 4/16</Description>
+      <Position>UPDATE_NOTIFICATION_LATER_OPTION_RESTART_NOW</Position>
+      <TranslationSet>
+        <base loc="en">Restart</base>
+        <tran loc="ar">إعادة التشغيل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CODE_RED_UPDATES_RESTART_NOTIFICATION_TEXT</Position>
+      <TranslationSet>
+        <base loc="en">Your computer will restart to complete these updates.</base>
+        <tran loc="ar">سيقوم الكمبيوتر الخاص بك بإعادة التشغيل لإكمال هذه التحديثات.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CODE_RED_UPDATES_ULTIMATUM_RESTART_NOTIFICATION_TEXT</Position>
+      <TranslationSet>
+        <base loc="en">Your computer will restart to complete these updates.</base>
+        <tran loc="ar">سيقوم الكمبيوتر الخاص بك بإعادة التشغيل لإكمال هذه التحديثات.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UPDATES_AVAILABLE_NOTIFICATION_LATER_NOT_OFFERED_RESTART_TEXT</Position>
+      <TranslationSet>
+        <base loc="en">Your computer will restart to complete these updates.</base>
+        <tran loc="ar">سيقوم الكمبيوتر الخاص بك بإعادة التشغيل لإكمال هذه التحديثات.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Available Updates Notification Buttons </Description>
+      <Position>UPDATE_NOTIFICATION_LATER_OPTION_UPDATE</Position>
+      <TranslationSet>
+        <base loc="en">Update</base>
+        <tran loc="ar">تحديث</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> HI Reviewed 4/16</Description>
+      <Position>UPDATE_NOTIFICATION_LATER_OPTION_1HOUR</Position>
+      <TranslationSet>
+        <base loc="en">Try in an Hour</base>
+        <tran loc="ar">المحاولة خلال ساعة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Do It Later Helpers 
+ HI Reviewed 4/16</Description>
+      <Position>DOITLATER_HELPER_OTHER_USERS_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Other Users Are Logged In</base>
+        <tran loc="ar">تم تسجيل دخول المستخدمين الآخرين</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> HI Reviewed 4/16</Description>
+      <Position>UPDATE_NOTIFICATION_LATER_OPTION_TONIGHT</Position>
+      <TranslationSet>
+        <base loc="en">Try Tonight</base>
+        <tran loc="ar">المحاولة الليلة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 
+  Localizable.strings
+  SoftwareUpdate
+
+  Created by Zeke Runyon on 4/3/18.
+  Copyright © 2018 Apple Inc. All rights reserved.
+
+ Needs HI review</Description>
+      <Position>RESTART_COUNTDOWN_DOWNLOAD_ERROR_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Updates Not Installed</base>
+        <tran loc="ar">لم يتم تثبيت التحديثات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Needs HI review</Description>
+      <Position>RESTART_COUNTDOWN_QUEUE_FOR_POST_LOGOUT_ERROR_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Updates Not Installed</base>
+        <tran loc="ar">لم يتم تثبيت التحديثات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Available Updates (Do it Later &amp; Post logout Failed) 
+ HI Reviewed 4/16</Description>
+      <Position>UPDATES_AVAILABLE_LATER_FAILED_NOTIFICATION_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Updates Not Installed</base>
+        <tran loc="ar">لم يتم تثبيت التحديثات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CRITICAL_UPDATES_POSTINSTALL_NOTIFICATION_TEXT</Position>
+      <TranslationSet>
+        <base loc="en">New security updates were installed on your Mac.</base>
+        <tran loc="ar">تم تثبيت تحديثات أمن جديدة على الـ Mac الخاص بك.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>RESTART_COUNTDOWN_NOTIFICATION_MENU_TONIGHT</Position>
+      <TranslationSet>
+        <base loc="en">Install Tonight</base>
+        <tran loc="ar">التثبيت الليلة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AUTOENROLL_AUTOUPDATE_NOTIFICATION_SETTINGS</Position>
+      <TranslationSet>
+        <base loc="en">Turn Off</base>
+        <tran loc="ar">إيقاف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>RESTART_COUNTDOWN_NOTIFICATION_TEXT_NOW</Position>
+      <TranslationSet>
+        <base loc="en">Your computer will restart now to install updates.</base>
+        <tran loc="ar">ستتم إعادة تشغيل الكمبيوتر الآن لتثبيت التحديثات.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Admin installed restart-required updates strings (MDM!) </Description>
+      <Position>ADMIN_INSTALLED_POST_LOGOUT_UPDATE_POSTINSTALL_NOTIFICATION_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Update Requested</base>
+        <tran loc="ar">تم طلب تحديث</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Available Updates (Later Not Offered) </Description>
+      <Position>UPDATES_AVAILABLE_NOTIFICATION_LATER_NOT_OFFERED_TEXT</Position>
+      <TranslationSet>
+        <base loc="en">New software is ready to be installed.</base>
+        <tran loc="ar">لا توجد برامج جاهزة للتثبيت.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Admin installed non-restart-required updates strings </Description>
+      <Position>ADMIN_INSTALLED_UPDATE_POSTINSTALL_NOTIFICATION_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Update Installed</base>
+        <tran loc="ar">تم تثبيت تحديث</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> HI Reviewed 4/16</Description>
+      <Position>UPDATES_AVAILABLE_AUTOUPDATE_FAILED_NOTIFICATION_TEXT_GENERIC</Position>
+      <TranslationSet>
+        <base loc="en">Some apps could not be updated automatically.</base>
+        <tran loc="ar">تعذر تحديث بعض التطبيقات تلقائيًا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CODE_RED_UPDATE_ULTIMATUM_NOTIFICATION_TEXT</Position>
+      <TranslationSet>
+        <base loc="en">This update must be completed.</base>
+        <tran loc="ar">يجب إكمال هذا التحديث.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>RESTART_COUNTDOWN_NOTIFICATION_MENU_REMIND</Position>
+      <TranslationSet>
+        <base loc="en">Remind Me Tomorrow</base>
+        <tran loc="ar">تذكيري غدًا</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> HI Reviewed 4/16</Description>
+      <Position>UPDATE_NOTIFICATION_LATER_OPTION_REMIND</Position>
+      <TranslationSet>
+        <base loc="en">Remind Me Tomorrow</base>
+        <tran loc="ar">تذكيري غدًا</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>RESTART_COUNTDOWN_NOTIFICATION_BUTTON_NOT_NOW</Position>
+      <TranslationSet>
+        <base loc="en">Not Now</base>
+        <tran loc="ar">ليس الآن</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> HI Reviewed 4/16</Description>
+      <Position>DOITLATER_POSTLOGOUTINSTALLED_NOTIFICATION_TEXT</Position>
+      <TranslationSet>
+        <base loc="en">Your computer restarted to install these updates.</base>
+        <tran loc="ar">تمت إعادة تشغيل الكمبيوتر الخاص بك لتثبيت هذه التحديثات.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Auto Enroll in Auto-Update for SU Notification </Description>
+      <Position>AUTOENROLL_AUTOUPDATE_NOTIFICATION_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Automatic Updates Turned On</base>
+        <tran loc="ar">تم تشغيل التحديثات التلقائية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Do It Later Installed Updates After Logout/Restart 
+ HI Reviewed 4/16</Description>
+      <Position>DOITLATER_POSTLOGOUTINSTALLED_NOTIFICATION_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">macOS Updates Installed</base>
+        <tran loc="ar">تم تثبيت تحديثات macOS</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> HI Reviewed 4/16</Description>
+      <Position>UPDATES_AVAILABLE_AUTOUPDATE_FAILED_NOTIFICATION_TEXT_RESTART</Position>
+      <TranslationSet>
+        <base loc="en">Do you want to restart to install these updates now or try tonight?</base>
+        <tran loc="ar">هل ترغب في إعادة التشغيل لتثبيت هذه التحديثات الآن أم محاولة ذلك الليلة؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> HI Reviewed 4/16</Description>
+      <Position>UPDATES_AVAILABLE_NOTIFICATION_TEXT_RESTART</Position>
+      <TranslationSet>
+        <base loc="en">Do you want to restart to install these updates now or try tonight?</base>
+        <tran loc="ar">هل ترغب في إعادة التشغيل لتثبيت هذه التحديثات الآن أم محاولة ذلك الليلة؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> HI Reviewed 4/16</Description>
+      <Position>UPDATES_AVAILABLE_NOTIFICATION_TEXT</Position>
+      <TranslationSet>
+        <base loc="en">Do you want to install the updates now or try tonight?</base>
+        <tran loc="ar">هل ترغب في تثبيت التحديثات الآن أم محاولة ذلك الليلة؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>RESTART_COUNTDOWN_NOTIFICATION_TEXT_SECONDS_SINGULAR</Position>
+      <TranslationSet>
+        <base loc="en">second</base>
+        <tran loc="ar">ثانية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Lucy Reviewed 8/9 :P</Description>
+      <Position>UPDATE_NOTIFICATION_LATER_OPTION_CUSTOM</Position>
+      <TranslationSet>
+        <base loc="en">Custom time</base>
+        <tran loc="ar">وقت مخصص</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Ultimatum</Description>
+      <Position>CODE_RED_UPDATE_ULTIMATUM_NOTIFICATION_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Security Update Required</base>
+        <tran loc="ar">مطلوب تحديث الأمن</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Available Updates (Auto Update On and Failed) 
+ HI Reviewed 4/16</Description>
+      <Position>UPDATES_AVAILABLE_AUTOUPDATE_FAILED_NOTIFICATION_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Updates Ready to Install</base>
+        <tran loc="ar">التحديثات جاهزة للتثبيت</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Auto Scheduled OS Update Notification </Description>
+      <Position>AUTOUPDATE_SCHEDULED_NOTIFICATION_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Software Update</base>
+        <tran loc="ar">تحديث البرامج</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CRITICAL_UPDATE_POSTINSTALL_NOTIFICATION_TEXT</Position>
+      <TranslationSet>
+        <base loc="en">A new security update was installed on your Mac.</base>
+        <tran loc="ar">تم تثبيت تحديث أمن جديد على الـ Mac الخاص بك.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Post Install</Description>
+      <Position>CRITICAL_UPDATE_POSTINSTALL_NOTIFICATION_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Security Update Installed</base>
+        <tran loc="ar">تم تثبيت تحديث الأمن</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CODE_RED_UPDATES_ULTIMATUM_NOTIFICATION_TEXT</Position>
+      <TranslationSet>
+        <base loc="en">These updates must be completed.</base>
+        <tran loc="ar">يجب إكمال هذه التحديثات.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ADMIN_INSTALLED_POST_LOGOUT_UPDATES_POSTINSTALL_NOTIFICATION_TEXT</Position>
+      <TranslationSet>
+        <base loc="en">New updates were requested to be installed by an administrator.</base>
+        <tran loc="ar">قام مسؤول بطلب تثبيت تحديثات جديدة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Critical Update Strings 
+ Gentle reminder</Description>
+      <Position>CODE_RED_UPDATE_NOTIFICATION_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Security Update Available</base>
+        <tran loc="ar">يوجد تحديث أمن</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>RESTART_COUNTDOWN_NOTIFICATION_BUTTON_LATER</Position>
+      <TranslationSet>
+        <base loc="en">Later</base>
+        <tran loc="ar">لاحقًا</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Available Updates (Auto Update Off) </Description>
+      <Position>UPDATE_NOTIFICATION_LATER_OPTIONS</Position>
+      <TranslationSet>
+        <base loc="en">Later</base>
+        <tran loc="ar">لاحقًا</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CODE_RED_UPDATES_NOTIFICATION_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Security Updates Available</base>
+        <tran loc="ar">يوجد تحديثات أمن</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CRITICAL_UPDATES_POSTINSTALL_NOTIFICATION_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Security Updates Installed</base>
+        <tran loc="ar">تم تثبيت تحديثات الأمن</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>RESTART_COUNTDOWN_QUEUE_FOR_POST_LOGOUT_ERROR_MESSAGE</Position>
+      <TranslationSet>
+        <base loc="en">Some updates could not be installed.</base>
+        <tran loc="ar">تعذر تثبيت بعض التحديثات.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>RESTART_COUNTDOWN_NOTIFICATION_MENU_1HR</Position>
+      <TranslationSet>
+        <base loc="en">Install in an Hour</base>
+        <tran loc="ar">التثبيت خلال ساعة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> HI Reviewed 4/16</Description>
+      <Position>UPDATES_AVAILABLE_NOTIFICATION_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Updates Available</base>
+        <tran loc="ar">التحديثات المتاحة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ADMIN_INSTALLED_UPDATES_POSTINSTALL_NOTIFICATION_TEXT</Position>
+      <TranslationSet>
+        <base loc="en">New updates were installed on your Mac by an administrator.</base>
+        <tran loc="ar">تم تثبيت تحديثات جديدة على الـ Mac الخاص بك بواسطة مسؤول.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ADMIN_INSTALLED_POST_LOGOUT_UPDATES_POSTINSTALL_NOTIFICATION_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Updates Requested</base>
+        <tran loc="ar">تم طلب تحديثات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AUTOENROLL_AUTOUPDATE_NOTIFICATION_BODY</Position>
+      <TranslationSet>
+        <base loc="en">Your Mac stays up to date with the latest features, security, and improvements.</base>
+        <tran loc="ar">سيظل الـ Mac محدثًا باستمرار بأحدث الميزات وإجراءات الأمن والتحسينات.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ADMIN_INSTALLED_UPDATES_POSTINSTALL_NOTIFICATION_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Updates Installed</base>
+        <tran loc="ar">تم تثبيت تحديثات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AUTOUPDATE_SCHEDULED_NOTIFICATION_TEXT_SINGLE</Position>
+      <TranslationSet>
+        <base loc="en">%@ is available and will be installed later tonight.</base>
+        <tran loc="ar">هناك %@ متوفر وسيتم تثبيته لاحقًا الليلة.</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>SoftwareUpdate_binaries/System/Library/CoreServices/Software Update.app/Contents/Resources/en.lproj/Localizable.stringsdict</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>/SECONDS_REMAINING:dict/NSStringLocalizedFormatKey:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%#@secondsremaining@</base>
+        <tran loc="ar">%#@secondsremaining@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/SECONDS_REMAINING:dict/secondsremaining:dict/one:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">seconds</base>
+        <tran loc="ar">ثانية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/SECONDS_REMAINING:dict/secondsremaining:dict/few:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%lu seconds</base>
+        <tran loc="ar">‏%lu ثوانٍ</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/SECONDS_REMAINING:dict/secondsremaining:dict/many:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%lu seconds</base>
+        <tran loc="ar">‏%lu ثانية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/SECONDS_REMAINING:dict/secondsremaining:dict/other:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%lu seconds</base>
+        <tran loc="ar">‏%lu ثانية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/SECONDS_REMAINING:dict/secondsremaining:dict/two:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%lu seconds</base>
+        <tran loc="ar">ثانيتان</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/SECONDS_REMAINING:dict/secondsremaining:dict/zero:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%lu seconds</base>
+        <tran loc="ar">‏%lu ثانية</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>SoftwareUpdate_binaries/System/Library/CoreServices/Software Update.app/Contents/Resources/en.lproj/LegalTextGeneric.rtf</Filepath>
+  </File>
+  <File>
+    <Filepath>SoftwareUpdate_binaries/System/Library/PreferencePanes/SoftwareUpdate.prefPane/Contents/Resources/en.lproj/SUOSUUpdatesAvailableContentWithBannerViewController.strings</Filepath>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "More info…"; ObjectID = "VKc-xM-ERG"; </Description>
+      <Position>VKc-xM-ERG.title</Position>
+      <TranslationSet>
+        <base loc="en">More info…</base>
+        <tran loc="ar">مزيد من المعلومات…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "&lt;&lt;do not localize&gt;&gt;"; ObjectID = "C1j-2b-En7"; </Description>
+      <Position>C1j-2b-En7.title</Position>
+      <TranslationSet>
+        <base loc="en">&lt;&lt;do not localize&gt;&gt;</base>
+        <tran loc="ar">&lt;&lt;do not localize&gt;&gt;</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>SoftwareUpdate_binaries/System/Library/PreferencePanes/SoftwareUpdate.prefPane/Contents/Resources/en.lproj/SUOSUCriticalUpdatesBannerViewController.strings</Filepath>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Update Now"; ObjectID = "d6Q-cK-G5s"; </Description>
+      <Position>d6Q-cK-G5s.title</Position>
+      <TranslationSet>
+        <base loc="en">Update Now</base>
+        <tran loc="ar">التحديث الآن</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "More info…"; ObjectID = "HCa-X9-ARg"; </Description>
+      <Position>HCa-X9-ARg.title</Position>
+      <TranslationSet>
+        <base loc="en">More info…</base>
+        <tran loc="ar">مزيد من المعلومات…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "&lt;Do Not Localize&gt;"; ObjectID = "sP2-t2-TP1"; </Description>
+      <Position>sP2-t2-TP1.title</Position>
+      <TranslationSet>
+        <base loc="en">&lt;Do Not Localize&gt;</base>
+        <tran loc="ar">&lt;Do Not Localize&gt;</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "&lt;Do Not Localize&gt;"; ObjectID = "yj8-St-sxF"; </Description>
+      <Position>yj8-St-sxF.title</Position>
+      <TranslationSet>
+        <base loc="en">&lt;Do Not Localize&gt;</base>
+        <tran loc="ar">&lt;Do Not Localize&gt;</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>SoftwareUpdate_binaries/System/Library/CoreServices/Software Update.app/Contents/Resources/en.lproj/MainMenu.strings</Filepath>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "About Software Update"; ObjectID = "58"; </Description>
+      <Position>58.title</Position>
+      <TranslationSet>
+        <base loc="en">About Software Update</base>
+        <tran loc="ar">حول تحديث البرامج</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Hide Software Update"; ObjectID = "134"; </Description>
+      <Position>134.title</Position>
+      <TranslationSet>
+        <base loc="en">Hide Software Update</base>
+        <tran loc="ar">إخفاء تحديث البرامج</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Edit"; ObjectID = "163"; </Description>
+      <Position>163.title</Position>
+      <TranslationSet>
+        <base loc="en">Edit</base>
+        <tran loc="ar">تحرير</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenu"; title = "Edit"; ObjectID = "169"; </Description>
+      <Position>169.title</Position>
+      <TranslationSet>
+        <base loc="en">Edit</base>
+        <tran loc="ar">تحرير</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenu"; title = "Services"; ObjectID = "130"; </Description>
+      <Position>130.title</Position>
+      <TranslationSet>
+        <base loc="en">Services</base>
+        <tran loc="ar">خدمات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Services"; ObjectID = "131"; </Description>
+      <Position>131.title</Position>
+      <TranslationSet>
+        <base loc="en">Services</base>
+        <tran loc="ar">خدمات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Show All"; ObjectID = "150"; </Description>
+      <Position>150.title</Position>
+      <TranslationSet>
+        <base loc="en">Show All</base>
+        <tran loc="ar">إظهار الكل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Paste"; ObjectID = "171"; </Description>
+      <Position>171.title</Position>
+      <TranslationSet>
+        <base loc="en">Paste</base>
+        <tran loc="ar">لصق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Close"; ObjectID = "450"; </Description>
+      <Position>450.title</Position>
+      <TranslationSet>
+        <base loc="en">Close</base>
+        <tran loc="ar">إغلاق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Zoom"; ObjectID = "415"; </Description>
+      <Position>415.title</Position>
+      <TranslationSet>
+        <base loc="en">Zoom</base>
+        <tran loc="ar">تكبير/تصغير</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Undo"; ObjectID = "158"; </Description>
+      <Position>158.title</Position>
+      <TranslationSet>
+        <base loc="en">Undo</base>
+        <tran loc="ar">تراجع</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Minimize"; ObjectID = "23"; </Description>
+      <Position>23.title</Position>
+      <TranslationSet>
+        <base loc="en">Minimize</base>
+        <tran loc="ar">تصغير</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Hide Others"; ObjectID = "145"; </Description>
+      <Position>145.title</Position>
+      <TranslationSet>
+        <base loc="en">Hide Others</base>
+        <tran loc="ar">إخفاء الأخرى</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Redo"; ObjectID = "173"; </Description>
+      <Position>173.title</Position>
+      <TranslationSet>
+        <base loc="en">Redo</base>
+        <tran loc="ar">إعادة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Copy"; ObjectID = "157"; </Description>
+      <Position>157.title</Position>
+      <TranslationSet>
+        <base loc="en">Copy</base>
+        <tran loc="ar">نسخ</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenu"; title = "MainMenu"; ObjectID = "29"; </Description>
+      <Position>29.title</Position>
+      <TranslationSet>
+        <base loc="en">MainMenu</base>
+        <tran loc="ar">MainMenu</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Software Update"; ObjectID = "56"; </Description>
+      <Position>56.title</Position>
+      <TranslationSet>
+        <base loc="en">Software Update</base>
+        <tran loc="ar">تحديث البرامج</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenu"; title = "Software Update"; ObjectID = "57"; </Description>
+      <Position>57.title</Position>
+      <TranslationSet>
+        <base loc="en">Software Update</base>
+        <tran loc="ar">تحديث البرامج</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Window"; ObjectID = "19"; </Description>
+      <Position>19.title</Position>
+      <TranslationSet>
+        <base loc="en">Window</base>
+        <tran loc="ar">نافذة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenu"; title = "Window"; ObjectID = "24"; </Description>
+      <Position>24.title</Position>
+      <TranslationSet>
+        <base loc="en">Window</base>
+        <tran loc="ar">نافذة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Select All"; ObjectID = "172"; </Description>
+      <Position>172.title</Position>
+      <TranslationSet>
+        <base loc="en">Select All</base>
+        <tran loc="ar">تحديد الكل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Help"; ObjectID = "103"; </Description>
+      <Position>103.title</Position>
+      <TranslationSet>
+        <base loc="en">Help</base>
+        <tran loc="ar">مساعدة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenu"; title = "Help"; ObjectID = "106"; </Description>
+      <Position>106.title</Position>
+      <TranslationSet>
+        <base loc="en">Help</base>
+        <tran loc="ar">مساعدة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Cut"; ObjectID = "160"; </Description>
+      <Position>160.title</Position>
+      <TranslationSet>
+        <base loc="en">Cut</base>
+        <tran loc="ar">قص</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Quit Software Update"; ObjectID = "136"; </Description>
+      <Position>136.title</Position>
+      <TranslationSet>
+        <base loc="en">Quit Software Update</base>
+        <tran loc="ar">إنهاء تحديث البرامج</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Software Update Help"; ObjectID = "111"; </Description>
+      <Position>111.title</Position>
+      <TranslationSet>
+        <base loc="en">Software Update Help</base>
+        <tran loc="ar">مساعدة تحديث البرامج</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Bring All to Front"; ObjectID = "5"; </Description>
+      <Position>5.title</Position>
+      <TranslationSet>
+        <base loc="en">Bring All to Front</base>
+        <tran loc="ar">إحضار الكل إلى الأمام</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>SoftwareUpdate_binaries/System/Library/PrivateFrameworks/SoftwareUpdate.framework/Versions/A/Resources/SoftwareUpdateNotificationManager.app/Contents/Resources/en.lproj/MainMenu.strings</Filepath>
+    <TextItem>
+      <Description> Class = "NSMenu"; title = "Main Menu"; ObjectID = "AYu-sK-qS6"; </Description>
+      <Position>AYu-sK-qS6.title</Position>
+      <TranslationSet>
+        <base loc="en">Main Menu</base>
+        <tran loc="ar">القائمة الرئيسية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Edit"; ObjectID = "5QF-Oa-p0T"; </Description>
+      <Position>5QF-Oa-p0T.title</Position>
+      <TranslationSet>
+        <base loc="en">Edit</base>
+        <tran loc="ar">تحرير</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Services"; ObjectID = "NMo-om-nkz"; </Description>
+      <Position>NMo-om-nkz.title</Position>
+      <TranslationSet>
+        <base loc="en">Services</base>
+        <tran loc="ar">خدمات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenu"; title = "Services"; ObjectID = "hz9-B4-Xy5"; </Description>
+      <Position>hz9-B4-Xy5.title</Position>
+      <TranslationSet>
+        <base loc="en">Services</base>
+        <tran loc="ar">خدمات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Show All"; ObjectID = "Kd2-mp-pUS"; </Description>
+      <Position>Kd2-mp-pUS.title</Position>
+      <TranslationSet>
+        <base loc="en">Show All</base>
+        <tran loc="ar">إظهار الكل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "File"; ObjectID = "dMs-cI-mzQ"; </Description>
+      <Position>dMs-cI-mzQ.title</Position>
+      <TranslationSet>
+        <base loc="en">File</base>
+        <tran loc="ar">ملف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Quit SoftwareUpdateNotificationManager"; ObjectID = "4sb-4s-VLi"; </Description>
+      <Position>4sb-4s-VLi.title</Position>
+      <TranslationSet>
+        <base loc="en">Quit SoftwareUpdateNotificationManager</base>
+        <tran loc="ar">إنهاء SoftwareUpdateNotificationManager</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Preferences…"; ObjectID = "BOF-NM-1cW"; </Description>
+      <Position>BOF-NM-1cW.title</Position>
+      <TranslationSet>
+        <base loc="en">Preferences…</base>
+        <tran loc="ar">تفضيلات…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Hide Others"; ObjectID = "Vdr-fp-XzO"; </Description>
+      <Position>Vdr-fp-XzO.title</Position>
+      <TranslationSet>
+        <base loc="en">Hide Others</base>
+        <tran loc="ar">إخفاء الأخرى</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Hide SoftwareUpdateNotificationManager"; ObjectID = "Olw-nP-bQN"; </Description>
+      <Position>Olw-nP-bQN.title</Position>
+      <TranslationSet>
+        <base loc="en">Hide SoftwareUpdateNotificationManager</base>
+        <tran loc="ar">إخفاء SoftwareUpdateNotificationManager</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Format"; ObjectID = "jxT-CU-nIS"; </Description>
+      <Position>jxT-CU-nIS.title</Position>
+      <TranslationSet>
+        <base loc="en">Format</base>
+        <tran loc="ar">التنسيق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "SoftwareUpdateNotificationManager"; ObjectID = "1Xt-HY-uBw"; </Description>
+      <Position>1Xt-HY-uBw.title</Position>
+      <TranslationSet>
+        <base loc="en">SoftwareUpdateNotificationManager</base>
+        <tran loc="ar">‏SoftwareUpdateNotificationManager</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenu"; title = "SoftwareUpdateNotificationManager"; ObjectID = "uQy-DD-JDr"; </Description>
+      <Position>uQy-DD-JDr.title</Position>
+      <TranslationSet>
+        <base loc="en">SoftwareUpdateNotificationManager</base>
+        <tran loc="ar">‏SoftwareUpdateNotificationManager</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Window"; ObjectID = "aUF-d1-5bR"; </Description>
+      <Position>aUF-d1-5bR.title</Position>
+      <TranslationSet>
+        <base loc="en">Window</base>
+        <tran loc="ar">نافذة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Help"; ObjectID = "wpr-3q-Mcd"; </Description>
+      <Position>wpr-3q-Mcd.title</Position>
+      <TranslationSet>
+        <base loc="en">Help</base>
+        <tran loc="ar">مساعدة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "About SoftwareUpdateNotificationManager"; ObjectID = "5kV-Vb-QxS"; </Description>
+      <Position>5kV-Vb-QxS.title</Position>
+      <TranslationSet>
+        <base loc="en">About SoftwareUpdateNotificationManager</base>
+        <tran loc="ar">نبذة عن SoftwareUpdateNotificationManager</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>SoftwareUpdate_binaries/System/Library/PreferencePanes/SoftwareUpdate.prefPane/Contents/Resources/en.lproj/SoftwareUpdate.searchTerms</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>/SoftwareUpdate:dict/localizableStrings:dict/0:array/index:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">software, updates, install, seed, beta, updated, updating, downloaded, downloading, installed, installing, automated, automating, automatically, scheduling, upgrade, upgrading, system</base>
+        <tran loc="ar">سوفتوير، سوفت وير، برامج، تحديثات، أبديت، بيتا، seed، beta، تثبيت، التثبيت، تنزيل، التنزيل، تلقائي، التلقائي، مجدول، المجدول، تطبيقات، التطبيقات، برامج، البرامج، محدّث، محدث، المحدث، تحديث، التحديث، تم التنزيل، تنزيل، التنزيل، مثبّت، مثبت، المثبت، تثبيت، التثبيت، تلقائي، التلقائي، مؤتمت، المؤتمت تشغيل تلقائي، التشغيل التلقائي، أتمتة، الأتمتة، تلقائيًا، جدولة، الجدولة، ترقية، نظام software, updates, install, seed, beta, updated, updating, downloaded, downloading, installed, installing, automated, automating, automatically, scheduling, upgrade, upgrading, system</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/SoftwareUpdate:dict/localizableStrings:dict/0:array/title:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Check for Software Updates</base>
+        <tran loc="ar">التحقق من وجود تحديثات برامج</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/SoftwareUpdate:dict/localizableStrings:dict/0:array/comments:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Localizable index words</base>
+        <tran loc="ar">كلمات الفهرس القابلة للترجمة، كلمات فهرس قابلة للترجمة، كلمة الفهرس القابلة للترجمة، كلمة فهرس قابلة للترجمة</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>SoftwareUpdate_binaries/System/Library/PreferencePanes/SoftwareUpdate.prefPane/Contents/Resources/en.lproj/SUOSUAdvancedPreferencesWindowController.strings</Filepath>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Automatically:"; ObjectID = "z9L-Wa-WKM"; </Description>
+      <Position>z9L-Wa-WKM.title</Position>
+      <TranslationSet>
+        <base loc="en">Automatically:</base>
+        <tran loc="ar">تلقائيًا:</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Download new updates when available"; ObjectID = "4Nu-J1-oYh"; </Description>
+      <Position>4Nu-J1-oYh.title</Position>
+      <TranslationSet>
+        <base loc="en">Download new updates when available</base>
+        <tran loc="ar">تنزيل التحديثات الجديدة عند توفرها</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "OK"; ObjectID = "WDz-Cx-vxy"; </Description>
+      <Position>WDz-Cx-vxy.title</Position>
+      <TranslationSet>
+        <base loc="en">OK</base>
+        <tran loc="ar">موافق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Install app updates from the App Store"; ObjectID = "vZQ-uT-HI9"; </Description>
+      <Position>vZQ-uT-HI9.title</Position>
+      <TranslationSet>
+        <base loc="en">Install app updates from the App Store</base>
+        <tran loc="ar">تثبيت تحديثات التطبيقات من App Store</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Install system data files and security updates "; ObjectID = "TSK-41-ZJY"; </Description>
+      <Position>TSK-41-ZJY.title</Position>
+      <TranslationSet>
+        <base loc="en">Install system data files and security updates </base>
+        <tran loc="ar">تثبيت ملفات بيانات النظام وتحديثات الأمن </tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Check for updates"; ObjectID = "YEQ-JC-NJc"; </Description>
+      <Position>YEQ-JC-NJc.title</Position>
+      <TranslationSet>
+        <base loc="en">Check for updates</base>
+        <tran loc="ar">التحقق من وجود تحديثات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSWindow"; title = "Window"; ObjectID = "F0z-JX-Cv5"; </Description>
+      <Position>F0z-JX-Cv5.title</Position>
+      <TranslationSet>
+        <base loc="en">Window</base>
+        <tran loc="ar">Window</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Install macOS updates"; ObjectID = "z4x-H6-Tqr"; </Description>
+      <Position>z4x-H6-Tqr.title</Position>
+      <TranslationSet>
+        <base loc="en">Install macOS updates</base>
+        <tran loc="ar">تثبيت تحديثات macOS</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>SoftwareUpdate_binaries/System/Library/PreferencePanes/SoftwareUpdate.prefPane/Contents/Resources/en.lproj/SUOSUWarningAgreementWindowController.strings</Filepath>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Cancel"; ObjectID = "F5W-R1-H4p"; </Description>
+      <Position>F5W-R1-H4p.title</Position>
+      <TranslationSet>
+        <base loc="en">Cancel</base>
+        <tran loc="ar">إلغاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Continue"; ObjectID = "sua-z4-jNg"; </Description>
+      <Position>sua-z4-jNg.title</Position>
+      <TranslationSet>
+        <base loc="en">Continue</base>
+        <tran loc="ar">متابعة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "&lt;&lt;do not localize&gt;&gt;"; ObjectID = "SNX-qp-vmq"; </Description>
+      <Position>SNX-qp-vmq.title</Position>
+      <TranslationSet>
+        <base loc="en">&lt;&lt;do not localize&gt;&gt;</base>
+        <tran loc="ar">&lt;&lt;do not localize&gt;&gt;</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSWindow"; title = "Window"; ObjectID = "F0z-JX-Cv5"; </Description>
+      <Position>F0z-JX-Cv5.title</Position>
+      <TranslationSet>
+        <base loc="en">Window</base>
+        <tran loc="ar">Window</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>SoftwareUpdate_binaries/System/Library/PreferencePanes/SoftwareUpdate.prefPane/Contents/Resources/en.lproj/SUOSULicenseAgreementWindowController.strings</Filepath>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Disagree"; ObjectID = "T6x-30-Ipk"; </Description>
+      <Position>T6x-30-Ipk.title</Position>
+      <TranslationSet>
+        <base loc="en">Disagree</base>
+        <tran loc="ar">عدم الموافقة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSWindow"; title = "Window"; ObjectID = "F0z-JX-Cv5"; </Description>
+      <Position>F0z-JX-Cv5.title</Position>
+      <TranslationSet>
+        <base loc="en">Window</base>
+        <tran loc="ar">Window</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Agree"; ObjectID = "sua-z4-jNg"; </Description>
+      <Position>sua-z4-jNg.title</Position>
+      <TranslationSet>
+        <base loc="en">Agree</base>
+        <tran loc="ar">موافقة</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>SoftwareUpdate_binaries/System/Library/PreferencePanes/SoftwareUpdate.prefPane/Contents/Resources/en.lproj/SUOSUInstallingViewController.strings</Filepath>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "&lt;&lt;do not localize&gt;&gt;"; ObjectID = "6bQ-Yl-I0w"; </Description>
+      <Position>6bQ-Yl-I0w.title</Position>
+      <TranslationSet>
+        <base loc="en">&lt;&lt;do not localize&gt;&gt;</base>
+        <tran loc="ar">&lt;&lt;do not localize&gt;&gt;</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "&lt;&lt;do not localize&gt;&gt;"; ObjectID = "TPR-3d-FU6"; </Description>
+      <Position>TPR-3d-FU6.title</Position>
+      <TranslationSet>
+        <base loc="en">&lt;&lt;do not localize&gt;&gt;</base>
+        <tran loc="ar">&lt;&lt;do not localize&gt;&gt;</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>SoftwareUpdate_binaries/System/Library/PreferencePanes/SoftwareUpdate.prefPane/Contents/XPCServices/com.apple.preferences.softwareupdate.remoteservice.xpc/Contents/Resources/en.lproj/InfoPlist.strings</Filepath>
+    <TextItem>
+      <Description> 
+  InfoPlist.strings
+  SoftwareUpdate
+
+  Created by Zeke Runyon on 4/23/18.
+  Copyright © 2018 Apple Inc. All rights reserved.
+</Description>
+      <Position>CFBundleVisibleComponentName</Position>
+      <TranslationSet>
+        <base loc="en">System Preferences</base>
+        <tran loc="ar">تفضيلات النظام</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>SoftwareUpdate_binaries/System/Library/PreferencePanes/SoftwareUpdate.prefPane/Contents/Resources/en.lproj/SUOSUUpdatesAvailableContentWithoutBannerViewController.strings</Filepath>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Update Now"; ObjectID = "k8C-Ht-Suu"; </Description>
+      <Position>k8C-Ht-Suu.title</Position>
+      <TranslationSet>
+        <base loc="en">Update Now</base>
+        <tran loc="ar">التحديث الآن</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "More info…"; ObjectID = "FgN-Ay-cGC"; </Description>
+      <Position>FgN-Ay-cGC.title</Position>
+      <TranslationSet>
+        <base loc="en">More info…</base>
+        <tran loc="ar">مزيد من المعلومات…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "&lt;&lt; Do not localize title &gt;&gt;"; ObjectID = "c8i-t4-0D3"; </Description>
+      <Position>c8i-t4-0D3.title</Position>
+      <TranslationSet>
+        <base loc="en">&lt;&lt; Do not localize title &gt;&gt;</base>
+        <tran loc="ar">&lt;&lt; Do not localize title &gt;&gt;</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>SoftwareUpdate_binaries/System/Library/PreferencePanes/SoftwareUpdate.prefPane/Contents/Resources/en.lproj/SUOSUCatalogConfigurationViewController.strings</Filepath>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Details…"; ObjectID = "cFz-r1-yTQ"; </Description>
+      <Position>cFz-r1-yTQ.title</Position>
+      <TranslationSet>
+        <base loc="en">Details…</base>
+        <tran loc="ar">التفاصيل…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Your settings are managed externally."; ObjectID = "V4K-VL-uV8"; </Description>
+      <Position>V4K-VL-uV8.title</Position>
+      <TranslationSet>
+        <base loc="en">Your settings are managed externally.</base>
+        <tran loc="ar">تتم إدارة إعداداتك خارجيًا.</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>SoftwareUpdate_binaries/System/Library/CoreServices/Software Update.app/Contents/Resources/en.lproj/LegalTextMacOSX.rtf</Filepath>
+  </File>
+  <File>
+    <Filepath>SoftwareUpdate_binaries/System/Library/PreferencePanes/SoftwareUpdate.prefPane/Contents/Resources/en.lproj/SUOSUMoreInformationOnUpdatesWindowController.strings</Filepath>
+    <TextItem>
+      <Description> Class = "NSTableColumn"; headerCell.title = "Version"; ObjectID = "zM5-nq-BUq"; </Description>
+      <Position>zM5-nq-BUq.headerCell.title</Position>
+      <TranslationSet>
+        <base loc="en">Version</base>
+        <tran loc="ar">الإصدار</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTableColumn"; headerCell.title = "Name"; ObjectID = "GWK-xx-OxG"; </Description>
+      <Position>GWK-xx-OxG.headerCell.title</Position>
+      <TranslationSet>
+        <base loc="en">Name</base>
+        <tran loc="ar">الاسم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTableColumn"; headerCell.title = "Install"; ObjectID = "VUN-aW-seM"; </Description>
+      <Position>VUN-aW-seM.headerCell.title</Position>
+      <TranslationSet>
+        <base loc="en">Install</base>
+        <tran loc="ar">تثبيت</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "&lt;&lt;do not localize&gt;&gt;"; ObjectID = "DvD-Yy-Ewh"; </Description>
+      <Position>DvD-Yy-Ewh.title</Position>
+      <TranslationSet>
+        <base loc="en">&lt;&lt;do not localize&gt;&gt;</base>
+        <tran loc="ar">&lt;&lt;do not localize&gt;&gt;</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "&lt;&lt;do not localize&gt;&gt;"; ObjectID = "JPW-6m-Eg3"; </Description>
+      <Position>JPW-6m-Eg3.title</Position>
+      <TranslationSet>
+        <base loc="en">&lt;&lt;do not localize&gt;&gt;</base>
+        <tran loc="ar">&lt;&lt;do not localize&gt;&gt;</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "&lt;&lt;do not localize&gt;&gt;"; ObjectID = "v0r-o9-6V9"; </Description>
+      <Position>v0r-o9-6V9.title</Position>
+      <TranslationSet>
+        <base loc="en">&lt;&lt;do not localize&gt;&gt;</base>
+        <tran loc="ar">&lt;&lt;do not localize&gt;&gt;</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Close"; ObjectID = "l9t-3e-vjc"; </Description>
+      <Position>l9t-3e-vjc.title</Position>
+      <TranslationSet>
+        <base loc="en">Close</base>
+        <tran loc="ar">إغلاق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Install Now"; ObjectID = "HYb-TC-vEO"; </Description>
+      <Position>HYb-TC-vEO.title</Position>
+      <TranslationSet>
+        <base loc="en">Install Now</base>
+        <tran loc="ar">تثبيت الآن</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "&lt;&lt;dnl&gt;&gt;"; ObjectID = "43w-vW-p7C"; </Description>
+      <Position>43w-vW-p7C.title</Position>
+      <TranslationSet>
+        <base loc="en">&lt;&lt;dnl&gt;&gt;</base>
+        <tran loc="ar">&lt;&lt;dnl&gt;&gt;</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "&lt;&lt;dnl&gt;&gt;"; ObjectID = "aR2-Ey-xcw"; </Description>
+      <Position>aR2-Ey-xcw.title</Position>
+      <TranslationSet>
+        <base loc="en">&lt;&lt;dnl&gt;&gt;</base>
+        <tran loc="ar">&lt;&lt;dnl&gt;&gt;</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSWindow"; title = "Window"; ObjectID = "QvC-M9-y7g"; </Description>
+      <Position>QvC-M9-y7g.title</Position>
+      <TranslationSet>
+        <base loc="en">Window</base>
+        <tran loc="ar">Window</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "F5T-Aa-Vji"; </Description>
+      <Position>F5T-Aa-Vji.title</Position>
+      <TranslationSet>
+        <base loc="en">Text Cell</base>
+        <tran loc="ar">Text Cell</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "QuZ-2p-Gyp"; </Description>
+      <Position>QuZ-2p-Gyp.title</Position>
+      <TranslationSet>
+        <base loc="en">Text Cell</base>
+        <tran loc="ar">Text Cell</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "SrA-gO-cly"; </Description>
+      <Position>SrA-gO-cly.title</Position>
+      <TranslationSet>
+        <base loc="en">Text Cell</base>
+        <tran loc="ar">Text Cell</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "gHX-8D-icY"; </Description>
+      <Position>gHX-8D-icY.title</Position>
+      <TranslationSet>
+        <base loc="en">Text Cell</base>
+        <tran loc="ar">Text Cell</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTableColumn"; headerCell.title = "Size"; ObjectID = "WtK-pN-Z2t"; </Description>
+      <Position>WtK-pN-Z2t.headerCell.title</Position>
+      <TranslationSet>
+        <base loc="en">Size</base>
+        <tran loc="ar">الحجم</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>SoftwareUpdate_binaries/System/Library/CoreServices/Software Update.app/Contents/Resources/en.lproj/SUAppPredicateModeWindow.strings</Filepath>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Install"; ObjectID = "168"; </Description>
+      <Position>168.title</Position>
+      <TranslationSet>
+        <base loc="en">Install</base>
+        <tran loc="ar">تثبيت</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "&lt;&lt;title&gt;&gt;"; ObjectID = "149"; </Description>
+      <Position>149.title</Position>
+      <TranslationSet>
+        <base loc="en">&lt;&lt;title&gt;&gt;</base>
+        <tran loc="ar">&lt;&lt;عنوان&gt;&gt;</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Multiline Label"; ObjectID = "288"; </Description>
+      <Position>288.title</Position>
+      <TranslationSet>
+        <base loc="en">Multiline Label</base>
+        <tran loc="ar">عنوان متعدد الأسطر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Not Now"; ObjectID = "176"; </Description>
+      <Position>176.title</Position>
+      <TranslationSet>
+        <base loc="en">Not Now</base>
+        <tran loc="ar">ليس الآن</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSWindow"; title = "Software Update"; ObjectID = "1"; </Description>
+      <Position>1.title</Position>
+      <TranslationSet>
+        <base loc="en">Software Update</base>
+        <tran loc="ar">تحديث البرامج</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "&lt;&lt;don't localize&gt;&gt;"; ObjectID = "90"; </Description>
+      <Position>90.title</Position>
+      <TranslationSet>
+        <base loc="en">&lt;&lt;don't localize&gt;&gt;</base>
+        <tran loc="ar">&lt;&lt;don't localize&gt;&gt;</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "&lt;&lt;don't localize&gt;&gt;"; ObjectID = "91"; </Description>
+      <Position>91.title</Position>
+      <TranslationSet>
+        <base loc="en">&lt;&lt;don't localize&gt;&gt;</base>
+        <tran loc="ar">&lt;&lt;don't localize&gt;&gt;</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>SoftwareUpdate_binaries/System/Library/PreferencePanes/SoftwareUpdate.prefPane/Contents/Resources/en.lproj/InfoPlist.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>NSHumanReadableCopyright</Position>
+      <TranslationSet>
+        <base loc="en">Copyright © 2018 Apple Inc. All rights reserved.</base>
+        <tran loc="ar">‏Copyright © 2018 Apple Inc.‎ كافة الحقوق محفوظة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>NSPrefPaneIconLabel</Position>
+      <TranslationSet>
+        <base loc="en">Software\nUpdate</base>
+        <tran loc="ar">تحديث\nالبرامج</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 
+  InfoPlist.strings
+  SoftwareUpdate
+
+  Created by Zeke Runyon on 4/5/18.
+  Copyright © 2018 Apple Inc. All rights reserved.
+</Description>
+      <Position>CFBundleName</Position>
+      <TranslationSet>
+        <base loc="en">Software Update</base>
+        <tran loc="ar">تحديث البرامج</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>SoftwareUpdate_binaries/System/Library/PreferencePanes/SoftwareUpdate.prefPane/Contents/Resources/en.lproj/SUOSUMajorOSBannerViewController.strings</Filepath>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Upgrade Now"; ObjectID = "Zsd-3m-Yrm"; </Description>
+      <Position>Zsd-3m-Yrm.title</Position>
+      <TranslationSet>
+        <base loc="en">Upgrade Now</base>
+        <tran loc="ar">الترقية الآن</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "&lt;DNL&gt;"; ObjectID = "cLV-Sd-HiE"; </Description>
+      <Position>cLV-Sd-HiE.title</Position>
+      <TranslationSet>
+        <base loc="en">&lt;DNL&gt;</base>
+        <tran loc="ar">&lt;DNL&gt;</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "&lt;DNL&gt;"; ObjectID = "saJ-22-erL"; </Description>
+      <Position>saJ-22-erL.title</Position>
+      <TranslationSet>
+        <base loc="en">&lt;DNL&gt;</base>
+        <tran loc="ar">&lt;DNL&gt;</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "More Info..."; ObjectID = "1fw-Bq-2Gq"; </Description>
+      <Position>1fw-Bq-2Gq.title</Position>
+      <TranslationSet>
+        <base loc="en">More Info...</base>
+        <tran loc="ar">مزيد من المعلومات...</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>SoftwareUpdate_binaries/System/Library/PreferencePanes/SoftwareUpdate.prefPane/Contents/Resources/en.lproj/SUOSUUpdatesAvailableController.strings</Filepath>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Update Now"; ObjectID = "uBb-7j-afZ"; </Description>
+      <Position>uBb-7j-afZ.title</Position>
+      <TranslationSet>
+        <base loc="en">Update Now</base>
+        <tran loc="ar">التحديث الآن</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "More info…"; ObjectID = "MEb-LO-Mvm"; </Description>
+      <Position>MEb-LO-Mvm.title</Position>
+      <TranslationSet>
+        <base loc="en">More info…</base>
+        <tran loc="ar">مزيد من المعلومات…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "&lt;&lt;do not localize&gt;&gt;"; ObjectID = "Po5-wk-Hc6"; </Description>
+      <Position>Po5-wk-Hc6.title</Position>
+      <TranslationSet>
+        <base loc="en">&lt;&lt;do not localize&gt;&gt;</base>
+        <tran loc="ar">&lt;&lt;do not localize&gt;&gt;</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "&lt;&lt;do not localize&gt;&gt;"; ObjectID = "kri-kk-bcT"; </Description>
+      <Position>kri-kk-bcT.title</Position>
+      <TranslationSet>
+        <base loc="en">&lt;&lt;do not localize&gt;&gt;</base>
+        <tran loc="ar">&lt;&lt;do not localize&gt;&gt;</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "&lt;&lt;do not localize&gt;&gt;"; ObjectID = "vSP-L6-nWC"; </Description>
+      <Position>vSP-L6-nWC.title</Position>
+      <TranslationSet>
+        <base loc="en">&lt;&lt;do not localize&gt;&gt;</base>
+        <tran loc="ar">&lt;&lt;do not localize&gt;&gt;</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+</Proj>

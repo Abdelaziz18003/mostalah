@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Proj>
+  <ProjName>AppleCameraInterface</ProjName>
+  <File>
+    <Filepath>AppleCameraInterface/System/Library/Frameworks/CoreMediaIO.framework/Versions/A/Resources/AppleCamera.plugin/Contents/Resources/English.lproj/CameraNames.strings</Filepath>
+    <TextItem>
+      <Description> 
+ This is the localization file for the Apple Camera Plugin.
+ Strings can be translated here.
+ 
+ Key = Value
+ </Description>
+      <Position>AppleCamera</Position>
+      <TranslationSet>
+        <base loc="en">FaceTime HD Camera</base>
+        <tran loc="ar">كاميرا FaceTime HD</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AppleCameraNE</Position>
+      <TranslationSet>
+        <base loc="en">FaceTime Camera</base>
+        <tran loc="ar">كاميرا FaceTime</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+</Proj>

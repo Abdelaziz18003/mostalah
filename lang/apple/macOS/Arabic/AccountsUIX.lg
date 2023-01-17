@@ -1,0 +1,2358 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Proj>
+  <ProjName>AccountsUIX</ProjName>
+  <File>
+    <Filepath>AccountsUIX/System/Library/PrivateFrameworks/AccountsUI.framework/Versions/A/Resources/en.lproj/ACUIAccountsTableViewController.strings</Filepath>
+    <TextItem>
+      <Description> Class = "NSImageView"; ibExternalAccessibilityDescription = "Icon"; ObjectID = "M8o-7b-CON"; </Description>
+      <Position>M8o-7b-CON.ibExternalAccessibilityDescription</Position>
+      <TranslationSet>
+        <base loc="en">Icon</base>
+        <tran loc="ar">أيقونة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Services"; ObjectID = "ywz-By-ajg"; </Description>
+      <Position>ywz-By-ajg.title</Position>
+      <TranslationSet>
+        <base loc="en">Services</base>
+        <tran loc="ar">خدمات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTableView"; ibExternalAccessibilityDescription = "Internet accounts"; ObjectID = "95W-6m-fMP"; </Description>
+      <Position>95W-6m-fMP.ibExternalAccessibilityDescription</Position>
+      <TranslationSet>
+        <base loc="en">Internet accounts</base>
+        <tran loc="ar">حسابات الإنترنت</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; placeholderString = "TAAAA"; ObjectID = "7eb-eb-9OZ"; </Description>
+      <Position>7eb-eb-9OZ.placeholderString</Position>
+      <TranslationSet>
+        <base loc="en">TAAAA</base>
+        <tran loc="ar">TAAAA</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Description"; ObjectID = "6vw-di-dDs"; </Description>
+      <Position>6vw-di-dDs.title</Position>
+      <TranslationSet>
+        <base loc="en">Description</base>
+        <tran loc="ar">الوصف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "No accounts"; ObjectID = "gkF-xB-0sr"; </Description>
+      <Position>gkF-xB-0sr.title</Position>
+      <TranslationSet>
+        <base loc="en">No accounts</base>
+        <tran loc="ar">بلا حسابات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "7eb-eb-9OZ"; </Description>
+      <Position>7eb-eb-9OZ.title</Position>
+      <TranslationSet>
+        <base loc="en">Text Cell</base>
+        <tran loc="ar">خلية نصية</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>AccountsUIX/System/Library/PreferencePanes/InternetAccounts.prefPane/Contents/Resources/en.lproj/Localizable.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>DISABLE_LOCALLY</Position>
+      <TranslationSet>
+        <base loc="en">Turn Off Account</base>
+        <tran loc="ar">إيقاف تشغيل الحساب</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DELETE_ACCOUNT_WARNING_MESSAGE_SYNC_THREE_DEVICES</Position>
+      <TranslationSet>
+        <base loc="en">Removing from all computers using iCloud Keychain will remove it from this Mac, “%1$@”, and “%2$@”.</base>
+        <tran loc="ar">ستؤدي الإزالة من كل أجهزة الكمبيوتر التي تستخدم سلسلة مفاتيح iCloud إلى إزالته من هذا الـ Mac، و\"%1$@\"، و\"%2$@\".</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DELETE_ACCOUNT_SYNC_TITLE_INACTIVE</Position>
+      <TranslationSet>
+        <base loc="en">Do you want to remove the %1$@ account “%2$@” from all your computers using iCloud Keychain?</base>
+        <tran loc="ar">هل ترغب في إزالة حساب %1$@ ‏\"%2$@\" من كل أجهزة الكمبيوتر التي تستخدم سلسلة مفاتيح iCloud؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DELETE_ACCOUNT_SYNC_TITLE_ACTIVE</Position>
+      <TranslationSet>
+        <base loc="en">Do you want to remove the %1$@ account “%2$@” from all your computers using iCloud Keychain or turn it off on only this Mac?</base>
+        <tran loc="ar">هل ترغب في إزالة حساب %1$@ ‏\"%2$@\" من كل أجهزة الكمبيوتر التي تستخدم سلسلة مفاتيح iCloud أم إيقافه على هذا الـ Mac فقط؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DELETE_EVERYWHERE</Position>
+      <TranslationSet>
+        <base loc="en">Remove From All</base>
+        <tran loc="ar">إزالة من الكل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>MERGE_CONTACTS_LOCALLY_INFORMATIVE_TEXT</Position>
+      <TranslationSet>
+        <base loc="en">If you don’t keep a copy, %@ contacts will be removed from this Mac but will still be available from %@.</base>
+        <tran loc="ar">إذا لم تحتفظ بنسخة، فستتم إزالة جهات اتصال %@ من هذا الـ Mac ولكنها ستظل متوفرة في %@.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>OK</Position>
+      <TranslationSet>
+        <base loc="en">OK</base>
+        <tran loc="ar">موافق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>MERGE_CONTACTS_LOCALLY_DELETE</Position>
+      <TranslationSet>
+        <base loc="en">Delete from Mac</base>
+        <tran loc="ar">حذف من الـ Mac</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DELETE_ACCOUNT_WARNING_MESSAGE_SYNC_FOUR_AND_MORE_DEVICES</Position>
+      <TranslationSet>
+        <base loc="en">Removing from all computers using iCloud Keychain will remove it from this Mac, “%1$@”, “%2$@”, and more.</base>
+        <tran loc="ar">ستؤدي الإزالة من كل أجهزة الكمبيوتر التي تستخدم سلسلة مفاتيح iCloud إلى إزالته من هذا الـ Mac، و\"%1$@\"، و\"%2$@\"، والمزيد.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DELETE_ACCOUNT_WARNING_MESSAGE</Position>
+      <TranslationSet>
+        <base loc="en">Deleting this account will remove its data from %@.</base>
+        <tran loc="ar">حذف هذا الحساب سيؤدي إلى إزالة بياناته من %@.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CANCEL</Position>
+      <TranslationSet>
+        <base loc="en">Cancel</base>
+        <tran loc="ar">إلغاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>MERGE_CONTACTS_LOCALLY_MESSAGE</Position>
+      <TranslationSet>
+        <base loc="en">Do you want to keep a copy of your %@ contacts on this Mac?</base>
+        <tran loc="ar">هل ترغب في الاحتفاظ بنسخة من جهات اتصال %@ على هذا الـ Mac؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>MERGE_CONTACTS_LOCALLY_MESSAGE_SYNC</Position>
+      <TranslationSet>
+        <base loc="en">Do you want to keep a copy of your %@ contacts on your Macs?</base>
+        <tran loc="ar">هل ترغب في الاحتفاظ بنسخة من جهات اتصال %@ على أجهزة الـ Mac الخاصة بك؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>MERGE_CONTACTS_LOCALLY_DELETE_SYNC</Position>
+      <TranslationSet>
+        <base loc="en">Delete from All Macs</base>
+        <tran loc="ar">حذف من كل أجهزة الـ Mac</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>MERGE_CONTACTS_LOCALLY_INFORMATIVE_TEXT_SYNC</Position>
+      <TranslationSet>
+        <base loc="en">If you don’t keep a copy, %@ contacts will be removed from your Macs but will still be available from %@.</base>
+        <tran loc="ar">إذا لم تحتفظ بنسخة، فستتم إزالة جهات اتصال %@ من أجهزة الـ Mac الخاصة بك ولكنها ستظل متوفرة في %@.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>COMMA_AND_SPACE</Position>
+      <TranslationSet>
+        <base loc="en">, </base>
+        <tran loc="ar">‏، ‏</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DELETE_ACCOUNT_WARNING_MESSAGE_SYNC_TWO_DEVICES</Position>
+      <TranslationSet>
+        <base loc="en">Removing from all computers using iCloud Keychain will remove it from this Mac and “%@”.</base>
+        <tran loc="ar">ستؤدي الإزالة من كل أجهزة الكمبيوتر التي تستخدم سلسلة مفاتيح iCloud إلى إزالته من هذا الـ Mac و\"%@\".</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 
+  Localizable.strings
+  AccountsUI
+
+  Created by Arnaud Douceur on 9/10/14.
+  Copyright (c) 2014 Apple Inc. All rights reserved.
+</Description>
+      <Position>DELETE_ACCOUNT_WARNING_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Are you sure you want to delete the account “%@”?</base>
+        <tran loc="ar">هل أنت متأكد من رغبتك في حذف الحساب \"%@\"؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DELETE_ACCOUNT_WARNING_TITLE_APPLE_SYNC</Position>
+      <TranslationSet>
+        <base loc="en">Are you sure you want to delete your Apple Mail account everywhere?</base>
+        <tran loc="ar">هل ترغب بالتأكيد في حذف معلومات بريد Apple من كل مكان؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>MERGE_CONTACTS_LOCALLY_KEEP</Position>
+      <TranslationSet>
+        <base loc="en">Keep Contacts</base>
+        <tran loc="ar">الاحتفاظ بجهات الاتصال</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DELETE_ACCOUNT_WARNING_TITLE_SYNC</Position>
+      <TranslationSet>
+        <base loc="en">Are you sure you want to delete the account “%@” from all of your devices?</base>
+        <tran loc="ar">هل أنت متأكد من رغبتك في حذف الحساب \"%@\" من جميع أجهزتك؟</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>AccountsUIX/System/Library/PreferencePanes/InternetAccounts.prefPane/Contents/XPCServices/com.apple.preferences.internetaccounts.remoteservice.xpc/Contents/Resources/en.lproj/InfoPlist.strings</Filepath>
+    <TextItem>
+      <Description> 
+  Infoplist.strings
+  AccountsUI
+
+  Created by Arnaud Douceur on 9/19/14.
+  Copyright (c) 2014 Apple Inc. All rights reserved.
+</Description>
+      <Position>CFBundleVisibleComponentName</Position>
+      <TranslationSet>
+        <base loc="en">System Preferences</base>
+        <tran loc="ar">تفضيلات النظام</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CFBundleName</Position>
+      <TranslationSet>
+        <base loc="en">Internet Accounts</base>
+        <tran loc="ar">حسابات الإنترنت</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>AccountsUIX/System/Library/PrivateFrameworks/AccountsUI.framework/Versions/A/Resources/en.lproj/ACUIWebLoginViewController.strings</Filepath>
+    <TextItem>
+      <Description> Class = "NSBox"; title = "Box"; ObjectID = "BLs-wo-1Ct"; </Description>
+      <Position>BLs-wo-1Ct.title</Position>
+      <TranslationSet>
+        <base loc="en">Box</base>
+        <tran loc="ar">Box</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>AccountsUIX/System/Library/PreferencePanes/InternetAccounts.prefPane/Contents/Resources/en.lproj/InternetAccountsPref.strings</Filepath>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Notes accounts"; ObjectID = "h6R-Ye-trb"; </Description>
+      <Position>h6R-Ye-trb.title</Position>
+      <TranslationSet>
+        <base loc="en">Notes accounts</base>
+        <tran loc="ar">حسابات الملاحظات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Reminders accounts"; ObjectID = "Sm7-ow-dVT"; </Description>
+      <Position>Sm7-ow-dVT.title</Position>
+      <TranslationSet>
+        <base loc="en">Reminders accounts</base>
+        <tran loc="ar">حسابات التذكيرات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "All accounts"; ObjectID = "7rR-m1-pkf"; </Description>
+      <Position>7rR-m1-pkf.title</Position>
+      <TranslationSet>
+        <base loc="en">All accounts</base>
+        <tran loc="ar">كل الحسابات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Calendar accounts"; ObjectID = "Cdw-eh-MkJ"; </Description>
+      <Position>Cdw-eh-MkJ.title</Position>
+      <TranslationSet>
+        <base loc="en">Calendar accounts</base>
+        <tran loc="ar">حسابات التقويم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Internet Accounts sets up your accounts to use with Mail, Contacts, Calendar, Messages, and other apps."; ObjectID = "YFK-Mk-oKy"; </Description>
+      <Position>YFK-Mk-oKy.title</Position>
+      <TranslationSet>
+        <base loc="en">Internet Accounts sets up your accounts to use with Mail, Contacts, Calendar, Messages, and other apps.</base>
+        <tran loc="ar">تقوم حسابات الإنترنت بإعداد الحسابات التي ستستخدمها مع البريد، جهات الاتصال، التقويم، الرسائل، والتطبيقات الأخرى.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSSegmentedCell"; bnm-a6-oSN.ibShadowedToolTips[0] = "Add an account"; ObjectID = "bnm-a6-oSN"; </Description>
+      <Position>bnm-a6-oSN.ibShadowedToolTips[0]</Position>
+      <TranslationSet>
+        <base loc="en">Add an account</base>
+        <tran loc="ar">إضافة حساب</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Messages accounts"; ObjectID = "iP0-9f-jF6"; </Description>
+      <Position>iP0-9f-jF6.title</Position>
+      <TranslationSet>
+        <base loc="en">Messages accounts</base>
+        <tran loc="ar">حسابات الرسائل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Mail accounts"; ObjectID = "86b-M3-U7q"; </Description>
+      <Position>86b-M3-U7q.title</Position>
+      <TranslationSet>
+        <base loc="en">Mail accounts</base>
+        <tran loc="ar">حسابات البريد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Show:"; ObjectID = "LqR-vg-6rG"; </Description>
+      <Position>LqR-vg-6rG.title</Position>
+      <TranslationSet>
+        <base loc="en">Show:</base>
+        <tran loc="ar">إظهار:</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSSegmentedCell"; bnm-a6-oSN.ibShadowedToolTips[1] = "Delete the selected account"; ObjectID = "bnm-a6-oSN"; </Description>
+      <Position>bnm-a6-oSN.ibShadowedToolTips[1]</Position>
+      <TranslationSet>
+        <base loc="en">Delete the selected account</base>
+        <tran loc="ar">حذف الحساب المحدد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSMenuItem"; title = "Contacts accounts"; ObjectID = "kfc-WS-rcR"; </Description>
+      <Position>kfc-WS-rcR.title</Position>
+      <TranslationSet>
+        <base loc="en">Contacts accounts</base>
+        <tran loc="ar">حسابات جهات الاتصال</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSBox"; title = "Box"; ObjectID = "caZ-La-MC5"; </Description>
+      <Position>caZ-La-MC5.title</Position>
+      <TranslationSet>
+        <base loc="en">Box</base>
+        <tran loc="ar">Box</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>AccountsUIX/System/Library/PrivateFrameworks/AccountsUI.framework/Versions/A/Resources/en.lproj/Localizable.strings</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>UPDATED_CONTACTS_SINGULAR</Position>
+      <TranslationSet>
+        <base loc="en">Updated 1 contact</base>
+        <tran loc="ar">تم تحديث جهة اتصال واحدة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ACCOUNT_TYPE_CALDAV</Position>
+      <TranslationSet>
+        <base loc="en">CalDAV</base>
+        <tran loc="ar">CalDAV</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ACCOUNT_TYPE_YAHOO</Position>
+      <TranslationSet>
+        <base loc="en">Yahoo!</base>
+        <tran loc="ar">Yahoo!‎‏</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>NO_INTERNET_ALERT_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">You are not connected to the Internet</base>
+        <tran loc="ar">لست متصلاً بالإنترنت</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SINGLETON_ACCOUNT_ERROR_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Only one %@ account can be used at a time.</base>
+        <tran loc="ar">لا يمكن استخدام أكثر من حساب %@ واحد في نفس الوقت.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>USERNAME_FIELD_PLACEHOLDER_EMAIL</Position>
+      <TranslationSet>
+        <base loc="en">name@example.com</base>
+        <tran loc="ar">name@example.com</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ADD_OTHER_ACCOUNT_IMAP</Position>
+      <TranslationSet>
+        <base loc="en">Mail account</base>
+        <tran loc="ar">حساب البريد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SMS_RECEIVED_CODE_NEEDED</Position>
+      <TranslationSet>
+        <base loc="en">You will receive a text message containing a temporary code. Please use this code instead of your password to sign in.</base>
+        <tran loc="ar">ستصلك رسالة نصية تحتوي على رمز مؤقت. الرجاء استخدام هذا الرمز بدلًا من كلمة السر لتسجيل الدخول.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CERT_BAD_DATE_ERROR</Position>
+      <TranslationSet>
+        <base loc="en">The certificate for this server has expired. You might be connecting to a server that is pretending to be “%@” which could put your confidential information at risk. Would you like to connect to the server anyway?</base>
+        <tran loc="ar">انتهت مدة صلاحية الشهادة الخاصة بهذا الخادم. قد تكون متصلاً بخادم يدعي أنه \"%@\"، مما قد يعرض المعلومات السرية الخاصة بك للخطر. هل ترغب في الاتصال بالخادم على أي حال؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>NAME</Position>
+      <TranslationSet>
+        <base loc="en">name</base>
+        <tran loc="ar">name</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>NO_INTERNET_ALERT_MESSAGE</Position>
+      <TranslationSet>
+        <base loc="en">An Internet connection is required for this operation. Please try again later.</base>
+        <tran loc="ar">يلزم الاتصال بالإنترنت لإجراء هذه العملية. الرجاء المحاولة مرة أخرى لاحقًا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ACCOUNT_TYPE_IMAP</Position>
+      <TranslationSet>
+        <base loc="en">Mail</base>
+        <tran loc="ar">البريد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ACCOUNT_TYPE_POP</Position>
+      <TranslationSet>
+        <base loc="en">Mail</base>
+        <tran loc="ar">البريد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> 
+  Localizable.strings
+  AccountsUI
+
+  Created by Arnaud Douceur on 8/26/14.
+  Copyright (c) 2014 Apple Inc. All rights reserved.
+</Description>
+      <Position>DATACLASS_MAIL</Position>
+      <TranslationSet>
+        <base loc="en">Mail</base>
+        <tran loc="ar">البريد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>REMOVE_ACCOUNT_BUTTON_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Remove Account</base>
+        <tran loc="ar">إزالة الحساب</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ACCOUNT_DELETE_TEXT_SHARED</Position>
+      <TranslationSet>
+        <base loc="en">You can remove this account in Internet Accounts.</base>
+        <tran loc="ar">يمكنك إزالة هذا الحساب في حسابات الإنترنت</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>EMAIL_LABEL</Position>
+      <TranslationSet>
+        <base loc="en">Email Address:</base>
+        <tran loc="ar">عنوان البريد الإلكتروني:</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>GOOGLE_RENEWAL_MESSAGE_TEXT</Position>
+      <TranslationSet>
+        <base loc="en">Enter the password for the account “%@”.</base>
+        <tran loc="ar">أدخل كلمة السر لحساب \"%@‎\".</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>INACTIVE</Position>
+      <TranslationSet>
+        <base loc="en">Inactive</base>
+        <tran loc="ar">غير نشط</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ERROR_AUTH_FAILED</Position>
+      <TranslationSet>
+        <base loc="en">Authentication Failed</base>
+        <tran loc="ar">فشلت المصادقة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CONNECTION_INSECURE_ERROR_MESSAGE</Position>
+      <TranslationSet>
+        <base loc="en">Connection Insecure</base>
+        <tran loc="ar">الاتصال غير آمن</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>QUIT</Position>
+      <TranslationSet>
+        <base loc="en">Quit</base>
+        <tran loc="ar">إنهاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SIGN_IN</Position>
+      <TranslationSet>
+        <base loc="en">Sign In</base>
+        <tran loc="ar">تسجيل الدخول</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DONE</Position>
+      <TranslationSet>
+        <base loc="en">Done</base>
+        <tran loc="ar">تم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>GOOGLE_AUTHENTICATION_REQUIRES_BROWSER</Position>
+      <TranslationSet>
+        <base loc="en">Google requires completing authentication in your web browser.</base>
+        <tran loc="ar">يتطلب Google إكمال المصادقة في متصفح الإنترنت لديك.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>GOOGLE_RENEWAL_INFORMATIVE_TEXT</Position>
+      <TranslationSet>
+        <base loc="en">Google requires completing authentication in your web browser.</base>
+        <tran loc="ar">يتطلب Google إكمال المصادقة في متصفح الإنترنت لديك.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>GOOGLE_AUTHENTICATION_AFTER_AUTHENTICATION</Position>
+      <TranslationSet>
+        <base loc="en">After authentication, setup will continue in Internet Accounts.</base>
+        <tran loc="ar">بعد المصادقة، ستتم متابعة الإعداد في حسابات الإنترنت.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>GOOGLE_AUTHENTICATION_OPEN_BROWSER</Position>
+      <TranslationSet>
+        <base loc="en">Open Browser</base>
+        <tran loc="ar">فتح المتصفح</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DATACLASS_NOTIFICATIONS</Position>
+      <TranslationSet>
+        <base loc="en">Notifications</base>
+        <tran loc="ar">الإشعارات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AUTHENTICATION_FAILED</Position>
+      <TranslationSet>
+        <base loc="en">Unable to verify account name or password.</base>
+        <tran loc="ar">تعذر التحقق من اسم الحساب أو كلمة السر.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>NEW_MULTIPLE_ADD_MESSAGE</Position>
+      <TranslationSet>
+        <base loc="en">You can configure new accounts in Internet Accounts.</base>
+        <tran loc="ar">يمكنك تكوين حسابات جديدة في حسابات الإنترنت.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>OTHER_ACCOUNT_TYPE_JABBER</Position>
+      <TranslationSet>
+        <base loc="en">Other Messages Account…</base>
+        <tran loc="ar">حساب رسائل آخر…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PASSWORD_LABEL</Position>
+      <TranslationSet>
+        <base loc="en">Password:</base>
+        <tran loc="ar">كلمة السر:</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CONNECTION_INSECURE_ALERT_MESSAGE</Position>
+      <TranslationSet>
+        <base loc="en">%@ cannot send your password securely to the server. You can continue without a secured password, which could put your password at risk.\n\nDo you want to continue without a secured password?</base>
+        <tran loc="ar">لا يمكن لـ %@ إرسال كلمة السر الخاصة بك بشكل آمن إلى الخادم. يمكنك المتابعة بدون كلمة سر آمنة، وقد يعرض ذلك كلمة السر الخاصة بك للخطر.\n\nهل ترغب في المتابعة بدون كلمة سر آمنة؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>KEEP_LOCAL_COPY</Position>
+      <TranslationSet>
+        <base loc="en">Keep Local Copy</base>
+        <tran loc="ar">الاحتفاظ بالنسخة المحلية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>NEW_MULTIPLE_ADD_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">New Accounts Added</base>
+        <tran loc="ar">تمت إضافة حسابات جديدة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DATACLASS_STRING_AND_X_MORE_ONLY_ONE_IN_LIST</Position>
+      <TranslationSet>
+        <base loc="en">%@ and %d more…</base>
+        <tran loc="ar">‏%@ و%d إضافية…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DATACLASS_UBIQUITY</Position>
+      <TranslationSet>
+        <base loc="en">iCloud Drive</base>
+        <tran loc="ar">iCloud Drive</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CONNECTION_INSECURE_ALERT_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Password could not be sent to “%1$@” securely</base>
+        <tran loc="ar">تعذر إرسال كلمة السر إلى \"%1$@\" بأمان</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CERT_NOT_YET_VALID_ERROR</Position>
+      <TranslationSet>
+        <base loc="en">The certificate for this server is not yet valid. You might be connecting to a server that is pretending to be “%@” which could put your confidential information at risk. Would you like to connect to the server anyway?</base>
+        <tran loc="ar">الشهادة الخاصة بهذا الخادم ليست صالحة بعد. قد تكون متصلاً بخادم يدعي أنه \"%@\"، مما قد يعرض المعلومات السرية الخاصة بك للخطر. هل ترغب في الاتصال بالخادم على أي حال؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ACCOUNT_TYPE_QQ</Position>
+      <TranslationSet>
+        <base loc="en">QQ</base>
+        <tran loc="ar">QQ</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ACCOUNT_TYPE_AOL</Position>
+      <TranslationSet>
+        <base loc="en">AOL</base>
+        <tran loc="ar">AOL</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AUTH_NOTIF_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">%@ Password Required</base>
+        <tran loc="ar">يلزم إدخال كلمة سر %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>OK</Position>
+      <TranslationSet>
+        <base loc="en">OK</base>
+        <tran loc="ar">موافق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ADD_OTHER_ACCOUNT_LDAP</Position>
+      <TranslationSet>
+        <base loc="en">LDAP account</base>
+        <tran loc="ar">حساب LDAP</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>APP_SPECIFIC_PASSWORD_NEEDED</Position>
+      <TranslationSet>
+        <base loc="en">You must obtain an application-specific password from %@.</base>
+        <tran loc="ar">يتعين عليك الحصول على كلمة سر خاصة بالتطبيق من %@.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SINGLETON_ACCOUNT_ERROR_MESSAGE</Position>
+      <TranslationSet>
+        <base loc="en">You are already signed into the %1$@ account “%2$@”. To use a different account, first delete or disable the existing one.</base>
+        <tran loc="ar">لقد قمت بالفعل بتسجيل الدخول إلى حساب %1$@ ‏\"%2$@\". لاستخدام حساب مختلف، قم أولًا بحذف الحساب الموجود أو تعطيله.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CERT_NOT_YET_VALID_ERROR_CANNOT_CONTINUE</Position>
+      <TranslationSet>
+        <base loc="en">The certificate for this server is not yet valid. You might be connecting to a server that is pretending to be “%@” which could put your confidential information at risk.</base>
+        <tran loc="ar">الشهادة لهذا الخادم غير صالحة بعد. يمكن أن تكون على اتصال بخادم مدّعى أنه \"%@\" الذي يمكن أن يعرّض معلوماتك السرية للخطر.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CERT_UNTRUSTED_ERROR_CANNOT_CONTINUE</Position>
+      <TranslationSet>
+        <base loc="en">The certificate for this server is invalid. You might be connecting to a server that is pretending to be “%@” which could put your confidential information at risk.</base>
+        <tran loc="ar">الشهادة لهذا الخادم غير صالحة. يمكن أن تكون على اتصال بخادم مدّعى أنه \"%@\" الذي يمكن أن يعرّض معلوماتك السرية للخطر.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PASSWORD_FOLLOWED_BY_SMS_RECEIVED_CODE_NEEDED</Position>
+      <TranslationSet>
+        <base loc="en">You will receive a text message containing a temporary code. Please use your password followed by this code to sign in.</base>
+        <tran loc="ar">سوف تستلم رسالة نصية تحتوي على رمز مؤقت. الرجاء استخدام كلمة السر هذه متبوعة بهذا الرمز لتسجيل الدخول.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SHOW_EXISTING_ACCOUNT</Position>
+      <TranslationSet>
+        <base loc="en">Show Existing Account</base>
+        <tran loc="ar">إظهار الحساب الموجود</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>OTHER_ACCOUNT_TYPE_CALDAV</Position>
+      <TranslationSet>
+        <base loc="en">Other CalDAV Account…</base>
+        <tran loc="ar">حساب CalDAV آخر…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ACCOUNT_TYPE_126</Position>
+      <TranslationSet>
+        <base loc="en">126</base>
+        <tran loc="ar">126</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CERT_ERROR_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">%@ can’t verify the identity of the server “%@”.</base>
+        <tran loc="ar">لا يمكن لـ \"%@\" التحقق من هوية الخادم \"%@\".</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ACCOUNT_DELETE_TITLE_SHARED</Position>
+      <TranslationSet>
+        <base loc="en">The %1$@ account “%2$@” is shared by other applications on this Mac.</base>
+        <tran loc="ar">تمت مشاركة حساب ‏%1$@ ‏\"%2$@\" بواسطة تطبيقات أخرى على هذا الـ Mac.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CANCEL</Position>
+      <TranslationSet>
+        <base loc="en">Cancel</base>
+        <tran loc="ar">إلغاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>NEW_ADD_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">%@ Account Added</base>
+        <tran loc="ar">تمت إضافة الحساب %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AND_PAIR</Position>
+      <TranslationSet>
+        <base loc="en">%@ and %@</base>
+        <tran loc="ar">%@ و %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DATACLASS_REMINDERS</Position>
+      <TranslationSet>
+        <base loc="en">Reminders</base>
+        <tran loc="ar">التذكيرات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ERROR_AUTH_FAILED_MESSAGE</Position>
+      <TranslationSet>
+        <base loc="en">Failed to authenticate with %@, please try again later</base>
+        <tran loc="ar">فشلت المصادقة مع %@، الرجاء المحاولة مرة أخرى لاحقًا</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CONTINUE</Position>
+      <TranslationSet>
+        <base loc="en">Continue</base>
+        <tran loc="ar">متابعة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>USE_WITH_LABEL</Position>
+      <TranslationSet>
+        <base loc="en">Use With:</base>
+        <tran loc="ar">استخدام مع:</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ACCOUNT_TYPE_163</Position>
+      <TranslationSet>
+        <base loc="en">163</base>
+        <tran loc="ar">163</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ACCOUNT_DELETE_TITLE_SIMPLE</Position>
+      <TranslationSet>
+        <base loc="en">Are you sure you want to remove the %1$@ account “%2$@”?</base>
+        <tran loc="ar">هل أنت متأكد من رغبتك في إزالة حساب %1$@‏ \"%2$@\"؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ACCOUNT_TYPE_SMTP</Position>
+      <TranslationSet>
+        <base loc="en">SMTP</base>
+        <tran loc="ar">SMTP</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>OTHER_ACCOUNT_TYPE_IMAP</Position>
+      <TranslationSet>
+        <base loc="en">Other Mail Account…</base>
+        <tran loc="ar">حساب بريد آخر…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>REQUIRED</Position>
+      <TranslationSet>
+        <base loc="en">Required</base>
+        <tran loc="ar">مطلوب</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>USERNAME_LABEL</Position>
+      <TranslationSet>
+        <base loc="en">User Name:</base>
+        <tran loc="ar">اسم المستخدم:</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ACCOUNT_TYPE_EXCHANGE</Position>
+      <TranslationSet>
+        <base loc="en">Exchange</base>
+        <tran loc="ar">Exchange</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DATACLASS_BOOKMARKS</Position>
+      <TranslationSet>
+        <base loc="en">Safari Bookmarks</base>
+        <tran loc="ar">إشارات Safari المرجعية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DELETE_LOCAL_COPY</Position>
+      <TranslationSet>
+        <base loc="en">Remove</base>
+        <tran loc="ar">إزالة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ACCOUNT_ALREADY_EXISTS</Position>
+      <TranslationSet>
+        <base loc="en">This account already exists.</base>
+        <tran loc="ar">هذا الحساب موجود بالفعل.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ADD_OTHER_ACCOUNT_GAMECENTER</Position>
+      <TranslationSet>
+        <base loc="en">Game Center account</base>
+        <tran loc="ar">حساب Game Center</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>TURN_ON</Position>
+      <TranslationSet>
+        <base loc="en">Turn On</base>
+        <tran loc="ar">تشغيل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CERT_BAD_DATE_ERROR_CANNOT_CONTINUE</Position>
+      <TranslationSet>
+        <base loc="en">The certificate for this server has expired. You might be connecting to a server that is pretending to be “%@” which could put your confidential information at risk.</base>
+        <tran loc="ar">الشهادة لهذا الخادم قد انتهت صلاحيتها. يمكن أن تكون على اتصال بخادم مدّعى أنه \"%@\" الذي يمكن أن يعرّض معلوماتك السرية للخطر.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>NOT_NOW</Position>
+      <TranslationSet>
+        <base loc="en">Not Now</base>
+        <tran loc="ar">ليس الآن</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DATACLASS_CALENDARS</Position>
+      <TranslationSet>
+        <base loc="en">Calendars</base>
+        <tran loc="ar">التقويمات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ACCOUNT_DELETE_TEXT_SYNC</Position>
+      <TranslationSet>
+        <base loc="en">You can remove this account from iCloud in Internet Accounts.</base>
+        <tran loc="ar">يمكنك إزالة هذا الحساب من iCloud في حسابات الإنترنت</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>INTERNET_ACCOUNTS</Position>
+      <TranslationSet>
+        <base loc="en">Internet Accounts</base>
+        <tran loc="ar">حسابات الإنترنت</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ACCOUNT_DELETE_TEXT_SIMPLE</Position>
+      <TranslationSet>
+        <base loc="en">Deleting the account will remove all of its data from %@. This action cannot be undone.</base>
+        <tran loc="ar">سيؤدي حذف الحساب إلى إزالة كافة بياناته من %@. لا يمكن التراجع عن هذا الإجراء.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>MAIL_DELETE_LOCAL_DESCRIPTION</Position>
+      <TranslationSet>
+        <base loc="en">If you remove the local copy and enable Mail later on, Mail will need to download your mail from the server again.</base>
+        <tran loc="ar">إذا قمت بإزالة النسخة المحلية وتمكين البريد فيما بعد، فسيتعين على تطبيق البريد تنزيل بريدك من الخادم مرة أخرى.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>FULLNAME_LABEL</Position>
+      <TranslationSet>
+        <base loc="en">Name:</base>
+        <tran loc="ar">الاسم:</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ADD_OTHER_ACCOUNT_CALDAV</Position>
+      <TranslationSet>
+        <base loc="en">CalDAV account</base>
+        <tran loc="ar">حساب CalDAV</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DATACLASS_SHAREMENU</Position>
+      <TranslationSet>
+        <base loc="en">Share Menu</base>
+        <tran loc="ar">قائمة المشاركة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>MAIL_DELETE_LOCAL_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Do you want to keep a local copy of your mail for “%@”?</base>
+        <tran loc="ar">هل ترغب في الاحتفاظ بنسخة محلية من بريدك لـ \"%@\"؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PASSWORD_FOLLOWED_BY_EMAIL_RECEIVED_CODE_NEEDED</Position>
+      <TranslationSet>
+        <base loc="en">You will receive an email containing a temporary code. Please use your password followed by this code to sign in.</base>
+        <tran loc="ar">سوف تستلم رسالة بريد إلكتروني تحتوي على رمز مؤقت. الرجاء استخدام كلمة السر هذه متبوعة بهذا الرمز لتسجيل الدخول.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>COMMA_AND_SPACE</Position>
+      <TranslationSet>
+        <base loc="en">, </base>
+        <tran loc="ar">‏، ‏</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UPDATE_CONTACTS_CANCEL</Position>
+      <TranslationSet>
+        <base loc="en">Cancel Update</base>
+        <tran loc="ar">إلغاء التحديث</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>NEED_TO_VISIT_WEBSITE</Position>
+      <TranslationSet>
+        <base loc="en">Please visit %@ and try signing in again.</base>
+        <tran loc="ar">الرجاء زيارة %@ ومحاولة تسجيل الدخول مرة أخرى.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CERT_UNKNOWN_ROOT_ERROR</Position>
+      <TranslationSet>
+        <base loc="en">The certificate for this server was signed by an unknown certifying authority. You might be connecting to a server that is pretending to be “%@” which could put your confidential information at risk. Would you like to connect to the server anyway?</base>
+        <tran loc="ar">الشهادة الخاصة بهذا الخادم موقّعة من قِبل جهة موثقة غير معروفة. قد تكون متصلاً بخادم يدعي أنه \"%@\"، مما قد يعرض المعلومات السرية الخاصة بك للخطر. هل ترغب في الاتصال بالخادم على أي حال؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UPDATED_CONTACTS</Position>
+      <TranslationSet>
+        <base loc="en">Updated %@ contacts</base>
+        <tran loc="ar">‏%@ من جهات الاتصال تم تحديثها</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UNKNOWN</Position>
+      <TranslationSet>
+        <base loc="en">Unknown</base>
+        <tran loc="ar">غير معروف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ACCOUNT_TYPE_ONMYDEVICE</Position>
+      <TranslationSet>
+        <base loc="en">On My Mac</base>
+        <tran loc="ar">على Mac الخاص بي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CERT_UNTRUSTED_ERROR</Position>
+      <TranslationSet>
+        <base loc="en">The certificate for this server is invalid. You might be connecting to a server that is pretending to be “%@” which could put your confidential information at risk. Would you like to connect to the server anyway?</base>
+        <tran loc="ar">الشهادة الخاصة بهذا الخادم غير صالحة. قد تكون متصلاً بخادم يدعي أنه \"%@\"، مما قد يعرض المعلومات السرية الخاصة بك للخطر. هل ترغب في الاتصال بالخادم على أي حال؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ADD_OTHER_ACCOUNT_JABBER</Position>
+      <TranslationSet>
+        <base loc="en">Messages account</base>
+        <tran loc="ar">حساب الرسائل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ACCOUNT_TYPE_APPLEACCOUNT</Position>
+      <TranslationSet>
+        <base loc="en">iCloud</base>
+        <tran loc="ar">iCloud</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DATACLASS_STRING_AND_X_MORE</Position>
+      <TranslationSet>
+        <base loc="en">%@, and %d more…</base>
+        <tran loc="ar">‏%@، و%d إضافية…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ADD_OTHER_ACCOUNT_CARDDAV</Position>
+      <TranslationSet>
+        <base loc="en">CardDAV account</base>
+        <tran loc="ar">حساب CardDAV</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>LATER</Position>
+      <TranslationSet>
+        <base loc="en">Later</base>
+        <tran loc="ar">لاحقًا</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ACCOUNT_DELETE_TITLE_SYNC</Position>
+      <TranslationSet>
+        <base loc="en">The %1$@ account “%2$@” is shared using iCloud Keychain.</base>
+        <tran loc="ar">تمت مشاركة حساب ‏%1$@ ‏\"%2$@\" باستخدام سلسلة مفاتيح iCloud.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>NEW_ADD_MESSAGE</Position>
+      <TranslationSet>
+        <base loc="en">%@</base>
+        <tran loc="ar">%@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ERROR_COULD_NOT_VERIFY_CERT</Position>
+      <TranslationSet>
+        <base loc="en">Failed to verify the server certificate. This could be because of your network configuration or your proxy settings.</base>
+        <tran loc="ar">فشل التحقق من شهادة الخادم. قد يكون ذلك بسبب تكوين الشبكة أو إعدادات الملقم لديك.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ACCOUNT_TYPE_AIM</Position>
+      <TranslationSet>
+        <base loc="en">Messages</base>
+        <tran loc="ar">الرسائل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ACCOUNT_TYPE_JABBER</Position>
+      <TranslationSet>
+        <base loc="en">Messages</base>
+        <tran loc="ar">الرسائل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ACCOUNT_TYPE_YAHOOIM</Position>
+      <TranslationSet>
+        <base loc="en">Messages</base>
+        <tran loc="ar">الرسائل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DATACLASS_MESSAGES</Position>
+      <TranslationSet>
+        <base loc="en">Messages</base>
+        <tran loc="ar">الرسائل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DATACLASS_NOTES</Position>
+      <TranslationSet>
+        <base loc="en">Notes</base>
+        <tran loc="ar">الملاحظات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UPDATE_CONTACTS_FAIL</Position>
+      <TranslationSet>
+        <base loc="en">Updating contacts failed</base>
+        <tran loc="ar">فشل تحديث جهات الاتصال</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ACCOUNT_TYPE_GOOGLE</Position>
+      <TranslationSet>
+        <base loc="en">Google</base>
+        <tran loc="ar">Google</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DESCRIPTION_LABEL</Position>
+      <TranslationSet>
+        <base loc="en">Description:</base>
+        <tran loc="ar">الوصف:</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ERROR_ACCOUNT_EXISTS_MESSAGE</Position>
+      <TranslationSet>
+        <base loc="en">You are already signed-in to the account %@.</base>
+        <tran loc="ar">لقد قمت بالفعل بتسجيل الدخول إلى الحساب %@.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DATACLASS_KEYCHAINSYNC</Position>
+      <TranslationSet>
+        <base loc="en">iCloud Keychain</base>
+        <tran loc="ar">سلسلة مفاتيح iCloud</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ACCOUNT_TYPE_GAMECENTER</Position>
+      <TranslationSet>
+        <base loc="en">Game Center</base>
+        <tran loc="ar">Game Center</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ACCOUNT_TYPE_CARDDAV</Position>
+      <TranslationSet>
+        <base loc="en">Contacts</base>
+        <tran loc="ar">جهات الاتصال</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>ACCOUNT_TYPE_LDAP</Position>
+      <TranslationSet>
+        <base loc="en">Contacts</base>
+        <tran loc="ar">جهات الاتصال</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DATACLASS_CONTACTS</Position>
+      <TranslationSet>
+        <base loc="en">Contacts</base>
+        <tran loc="ar">جهات الاتصال</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DATACLASS_CONTACTSSEARCH</Position>
+      <TranslationSet>
+        <base loc="en">Contacts</base>
+        <tran loc="ar">جهات الاتصال</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CERT_UNKNOWN_ROOT_ERROR_CANNOT_CONTINUE</Position>
+      <TranslationSet>
+        <base loc="en">The certificate for this server was signed by an unknown certifying authority. You might be connecting to a server that is pretending to be “%@” which could put your confidential information at risk.</base>
+        <tran loc="ar">الشهادة لهذا الخادم موقعة من قبل جهة موثقة غير معروفة. يمكن أن تكون على اتصال بخادم مدّعى أنه \"%@\" الذي يمكن أن يعرّض معلوماتك السرية للخطر.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>UPDATING_CONTACTS</Position>
+      <TranslationSet>
+        <base loc="en">Updating contacts…</base>
+        <tran loc="ar">يتم الآن تحديث جهات الاتصال...</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AMPERSAND_PAIR</Position>
+      <TranslationSet>
+        <base loc="en">%@ &amp; %@</base>
+        <tran loc="ar">%@ و %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>NEXT</Position>
+      <TranslationSet>
+        <base loc="en">Next</base>
+        <tran loc="ar">التالي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>AUTH_NOTIF_MESSAGE</Position>
+      <TranslationSet>
+        <base loc="en">Enter your password for “%@” in Internet Accounts.</base>
+        <tran loc="ar">قم بإدخال كلمة السر الخاصة بك لـ \"%@\" في حسابات الإنترنت.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>OTHER_ACCOUNT_TYPE_CARDDAV</Position>
+      <TranslationSet>
+        <base loc="en">Other Contacts Account…</base>
+        <tran loc="ar">حساب جهات اتصال آخر…</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>AccountsUIX/System/Library/PrivateFrameworks/AccountsUI.framework/Versions/A/Resources/en.lproj/ACUIAccountInfoViewController.strings</Filepath>
+    <TextItem>
+      <Description> Class = "NSImageView"; ibExternalAccessibilityDescription = "Icon"; ObjectID = "eIF-Iz-18c"; </Description>
+      <Position>eIF-Iz-18c.ibExternalAccessibilityDescription</Position>
+      <TranslationSet>
+        <base loc="en">Icon</base>
+        <tran loc="ar">أيقونة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSImageView"; ibExternalAccessibilityDescription = "Icon"; ObjectID = "l1l-9a-6aJ"; </Description>
+      <Position>l1l-9a-6aJ.ibExternalAccessibilityDescription</Position>
+      <TranslationSet>
+        <base loc="en">Icon</base>
+        <tran loc="ar">أيقونة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Details…"; ObjectID = "KLT-qN-uQW"; </Description>
+      <Position>KLT-qN-uQW.title</Position>
+      <TranslationSet>
+        <base loc="en">Details…</base>
+        <tran loc="ar">التفاصيل...</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Details…"; ObjectID = "TrZ-X0-QSa"; </Description>
+      <Position>TrZ-X0-QSa.title</Position>
+      <TranslationSet>
+        <base loc="en">Details…</base>
+        <tran loc="ar">التفاصيل...</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Service Status"; ObjectID = "Vry-pd-CLr"; </Description>
+      <Position>Vry-pd-CLr.title</Position>
+      <TranslationSet>
+        <base loc="en">Service Status</base>
+        <tran loc="ar">حالة الخدمة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Label"; ObjectID = "YeN-kV-BPE"; </Description>
+      <Position>YeN-kV-BPE.title</Position>
+      <TranslationSet>
+        <base loc="en">Label</base>
+        <tran loc="ar">العنوان</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Label"; ObjectID = "w54-GZ-EBI"; </Description>
+      <Position>w54-GZ-EBI.title</Position>
+      <TranslationSet>
+        <base loc="en">Label</base>
+        <tran loc="ar">العنوان</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Johnny Appleseed"; ObjectID = "8h5-ro-9sh"; </Description>
+      <Position>8h5-ro-9sh.title</Position>
+      <TranslationSet>
+        <base loc="en">Johnny Appleseed</base>
+        <tran loc="ar">باسل أسعد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "&lt;&lt;&gt;&gt;"; ObjectID = "EG6-It-TEC"; </Description>
+      <Position>EG6-It-TEC.title</Position>
+      <TranslationSet>
+        <base loc="en">&lt;&lt;&gt;&gt;</base>
+        <tran loc="ar">&lt;&lt;&gt;&gt;</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSImageView"; ibExternalAccessibilityDescription = "Logo"; ObjectID = "7ni-7Z-3xP"; </Description>
+      <Position>7ni-7Z-3xP.ibExternalAccessibilityDescription</Position>
+      <TranslationSet>
+        <base loc="en">Logo</base>
+        <tran loc="ar">الشعار</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSImageView"; ibExternalAccessibilityDescription = "Logo"; ObjectID = "jA1-kL-sWi"; </Description>
+      <Position>jA1-kL-sWi.ibExternalAccessibilityDescription</Position>
+      <TranslationSet>
+        <base loc="en">Logo</base>
+        <tran loc="ar">الشعار</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSImageView"; ibExternalAccessibilityDescription = "Logo"; ObjectID = "kFd-au-Onu"; </Description>
+      <Position>kFd-au-Onu.ibExternalAccessibilityDescription</Position>
+      <TranslationSet>
+        <base loc="en">Logo</base>
+        <tran loc="ar">الشعار</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "appleseed@xyz.com"; ObjectID = "qCu-Ft-yt2"; </Description>
+      <Position>qCu-Ft-yt2.title</Position>
+      <TranslationSet>
+        <base loc="en">appleseed@xyz.com</base>
+        <tran loc="ar">asaad@xyz.com</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "appleseed@xyz.com"; ObjectID = "sSf-YZ-7Nh"; </Description>
+      <Position>sSf-YZ-7Nh.title</Position>
+      <TranslationSet>
+        <base loc="en">appleseed@xyz.com</base>
+        <tran loc="ar">asaad@xyz.com</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextField"; ibExternalAccessibilityDescription = "Description"; ObjectID = "MqB-bD-x3g"; </Description>
+      <Position>MqB-bD-x3g.ibExternalAccessibilityDescription</Position>
+      <TranslationSet>
+        <base loc="en">Description</base>
+        <tran loc="ar">الوصف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextField"; ibExternalAccessibilityDescription = "Description"; ObjectID = "hyc-K9-QyT"; </Description>
+      <Position>hyc-K9-QyT.ibExternalAccessibilityDescription</Position>
+      <TranslationSet>
+        <base loc="en">Description</base>
+        <tran loc="ar">الوصف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSSecureTextField"; ibExternalAccessibilityDescription = "Password"; ObjectID = "Y7Q-9p-aAu"; </Description>
+      <Position>Y7Q-9p-aAu.ibExternalAccessibilityDescription</Position>
+      <TranslationSet>
+        <base loc="en">Password</base>
+        <tran loc="ar">كلمة السر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Setting up..."; ObjectID = "C1a-5n-Ih6"; </Description>
+      <Position>C1a-5n-Ih6.title</Position>
+      <TranslationSet>
+        <base loc="en">Setting up...</base>
+        <tran loc="ar">يتم الآن الإعداد...</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Options…"; ObjectID = "gjy-qE-nP4"; </Description>
+      <Position>gjy-qE-nP4.title</Position>
+      <TranslationSet>
+        <base loc="en">Options…</base>
+        <tran loc="ar">خيارات...</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Enable this account"; ObjectID = "ih5-ol-Rrv"; </Description>
+      <Position>ih5-ol-Rrv.title</Position>
+      <TranslationSet>
+        <base loc="en">Enable this account</base>
+        <tran loc="ar">تمكين هذا الحساب</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "D5p-He-Ap1"; </Description>
+      <Position>D5p-He-Ap1.title</Position>
+      <TranslationSet>
+        <base loc="en">Text Cell</base>
+        <tran loc="ar">خلية نصية</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>AccountsUIX/System/Library/PrivateFrameworks/AccountsUI.framework/Versions/A/Resources/en.lproj/ACUICredentialPromptViewController.strings</Filepath>
+    <TextItem>
+      <Description> Class = "CocoaBindingsConnection"; ibShadowedDisplayPattern = "Can’t connect to the account “%{value1}@”."; ObjectID = "9Th-xD-uKE"; </Description>
+      <Position>9Th-xD-uKE.ibShadowedDisplayPattern</Position>
+      <TranslationSet>
+        <base loc="en">Can’t connect to the account “%{value1}@”.</base>
+        <tran loc="ar">لا يمكن الاتصال بحساب \"%{value1}@\".</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "CocoaBindingsConnection"; ibShadowedDisplayPattern = "Enter the password for the account “%{value1}@”."; ObjectID = "UiX-5z-mMR"; </Description>
+      <Position>UiX-5z-mMR.ibShadowedDisplayPattern</Position>
+      <TranslationSet>
+        <base loc="en">Enter the password for the account “%{value1}@”.</base>
+        <tran loc="ar">أدخل كلمة السر لحساب \"%{value1}@\".</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSImageView"; ibExternalAccessibilityDescription = "Internet Accounts Icon"; ObjectID = "U2t-jU-0vL"; </Description>
+      <Position>U2t-jU-0vL.ibExternalAccessibilityDescription</Position>
+      <TranslationSet>
+        <base loc="en">Internet Accounts Icon</base>
+        <tran loc="ar">أيقونة حسابات الإنترنت</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Password:"; ObjectID = "mYz-X5-HMz"; </Description>
+      <Position>mYz-X5-HMz.title</Position>
+      <TranslationSet>
+        <base loc="en">Password:</base>
+        <tran loc="ar">كلمة السر:</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "OK"; ObjectID = "IeO-zX-LgD"; </Description>
+      <Position>IeO-zX-LgD.title</Position>
+      <TranslationSet>
+        <base loc="en">OK</base>
+        <tran loc="ar">موافق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Enter the password for the account “Google”."; ObjectID = "f5d-DM-ezU"; </Description>
+      <Position>f5d-DM-ezU.title</Position>
+      <TranslationSet>
+        <base loc="en">Enter the password for the account “Google”.</base>
+        <tran loc="ar">أدخل كلمة السر لحساب \"Google\".</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Verifying password…"; ObjectID = "fH3-qn-qyM"; </Description>
+      <Position>fH3-qn-qyM.title</Position>
+      <TranslationSet>
+        <base loc="en">Verifying password…</base>
+        <tran loc="ar">يتم الآن التحقق من كلمة السر…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Cancel"; ObjectID = "Mbo-ec-hQg"; </Description>
+      <Position>Mbo-ec-hQg.title</Position>
+      <TranslationSet>
+        <base loc="en">Cancel</base>
+        <tran loc="ar">إلغاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Cancel"; ObjectID = "QGt-7a-peO"; </Description>
+      <Position>QGt-7a-peO.title</Position>
+      <TranslationSet>
+        <base loc="en">Cancel</base>
+        <tran loc="ar">إلغاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Cancel"; ObjectID = "il1-SU-vZN"; </Description>
+      <Position>il1-SU-vZN.title</Position>
+      <TranslationSet>
+        <base loc="en">Cancel</base>
+        <tran loc="ar">إلغاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Can't connect to the account “iCloud”."; ObjectID = "g4L-g8-Xta"; </Description>
+      <Position>g4L-g8-Xta.title</Position>
+      <TranslationSet>
+        <base loc="en">Can't connect to the account “iCloud”.</base>
+        <tran loc="ar">لا يمكن الاتصال بحساب \"iCloud\".</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "CocoaBindingsConnection"; ibShadowedDisplayPattern = "Enter the password for user “%{value1}@”."; ObjectID = "ucz-28-Cf6"; </Description>
+      <Position>ucz-28-Cf6.ibShadowedDisplayPattern</Position>
+      <TranslationSet>
+        <base loc="en">Enter the password for user “%{value1}@”.</base>
+        <tran loc="ar">قم بإدخال كلمة السر للمستخدم \"%{value1}@\".</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Open Safari"; ObjectID = "lNZ-wI-dJl"; </Description>
+      <Position>lNZ-wI-dJl.title</Position>
+      <TranslationSet>
+        <base loc="en">Open Safari</base>
+        <tran loc="ar">فتح Safari</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Enter the password for user “john.appleseed”."; ObjectID = "k8r-T7-AAh"; </Description>
+      <Position>k8r-T7-AAh.title</Position>
+      <TranslationSet>
+        <base loc="en">Enter the password for user “john.appleseed”.</base>
+        <tran loc="ar">قم بإدخال كلمة السر للمستخدم \"basel.asaad\".</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>AccountsUIX/System/Library/PrivateFrameworks/AccountsUI.framework/Versions/A/Resources/en.lproj/ACUIAccountDetailsViewController.strings</Filepath>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "OK"; ObjectID = "mlt-bE-F8i"; </Description>
+      <Position>mlt-bE-F8i.title</Position>
+      <TranslationSet>
+        <base loc="en">OK</base>
+        <tran loc="ar">موافق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Cancel"; ObjectID = "FhW-SR-wHn"; </Description>
+      <Position>FhW-SR-wHn.title</Position>
+      <TranslationSet>
+        <base loc="en">Cancel</base>
+        <tran loc="ar">إلغاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSImageView"; ibExternalAccessibilityDescription = "Logo"; ObjectID = "rhg-VT-FwX"; </Description>
+      <Position>rhg-VT-FwX.ibExternalAccessibilityDescription</Position>
+      <TranslationSet>
+        <base loc="en">Logo</base>
+        <tran loc="ar">الشعار</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>AccountsUIX/System/Library/PrivateFrameworks/AccountsUI.framework/Versions/A/Resources/en.lproj/ACUISetupManagerViewController.strings</Filepath>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "&lt;&lt; DO NOT LOCALIZE &gt;&gt;"; ObjectID = "fUf-s3-I5T"; </Description>
+      <Position>fUf-s3-I5T.title</Position>
+      <TranslationSet>
+        <base loc="en">&lt;&lt; DO NOT LOCALIZE &gt;&gt;</base>
+        <tran loc="ar">&lt;&lt; DO NOT LOCALIZE &gt;&gt;</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Allow"; ObjectID = "2PC-lW-aQ5"; </Description>
+      <Position>2PC-lW-aQ5.title</Position>
+      <TranslationSet>
+        <base loc="en">Allow</base>
+        <tran loc="ar">السماح</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Cancel"; ObjectID = "ial-Qa-epJ"; </Description>
+      <Position>ial-Qa-epJ.title</Position>
+      <TranslationSet>
+        <base loc="en">Cancel</base>
+        <tran loc="ar">إلغاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "CocoaBindingsConnection"; ibShadowedDisplayPattern = "Choose a %{value1}@ account provider..."; ObjectID = "6GB-cK-slL"; </Description>
+      <Position>6GB-cK-slL.ibShadowedDisplayPattern</Position>
+      <TranslationSet>
+        <base loc="en">Choose a %{value1}@ account provider...</base>
+        <tran loc="ar">اختيار موفر حساب %{value1}@...</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "&lt;&lt; DO NO LOCALIZE &gt;&gt;"; ObjectID = "H5i-U6-IVh"; </Description>
+      <Position>H5i-U6-IVh.title</Position>
+      <TranslationSet>
+        <base loc="en">&lt;&lt; DO NO LOCALIZE &gt;&gt;</base>
+        <tran loc="ar">&lt;&lt; DO NO LOCALIZE &gt;&gt;</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Continue"; ObjectID = "4pW-lm-hzm"; </Description>
+      <Position>4pW-lm-hzm.title</Position>
+      <TranslationSet>
+        <base loc="en">Continue</base>
+        <tran loc="ar">متابعة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "You can allow or disallow the use of this account later in System Preferences &gt; Internet Accounts."; ObjectID = "6a0-0U-YAb"; </Description>
+      <Position>6a0-0U-YAb.title</Position>
+      <TranslationSet>
+        <base loc="en">You can allow or disallow the use of this account later in System Preferences &gt; Internet Accounts.</base>
+        <tran loc="ar">يمكنك السماح أو عدم السماح باستخدام هذا الحساب لاحقًا في تفضيلات النظام &gt; حسابات الإنترنت.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "CocoaBindingsConnection"; ibShadowedDisplayPattern = "Would you like to allow other macOS applications to use this %{value1}@ account?"; ObjectID = "v8H-Mv-Ojt"; </Description>
+      <Position>v8H-Mv-Ojt.ibShadowedDisplayPattern</Position>
+      <TranslationSet>
+        <base loc="en">Would you like to allow other macOS applications to use this %{value1}@ account?</base>
+        <tran loc="ar">هل ترغب في السماح لتطبيقات macOS أخرى باستخدام حساب %{value1}@ هذا؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButton"; ibExternalAccessibilityDescription = "Other Account"; ObjectID = "bQq-xJ-vZJ"; </Description>
+      <Position>bQq-xJ-vZJ.ibExternalAccessibilityDescription</Position>
+      <TranslationSet>
+        <base loc="en">Other Account</base>
+        <tran loc="ar">حساب آخر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSImageView"; ibExternalAccessibilityDescription = "Logo"; ObjectID = "tbf-oS-0ft"; </Description>
+      <Position>tbf-oS-0ft.ibExternalAccessibilityDescription</Position>
+      <TranslationSet>
+        <base loc="en">Logo</base>
+        <tran loc="ar">الشعار</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Not Now"; ObjectID = "Mn7-9X-L2e"; </Description>
+      <Position>Mn7-9X-L2e.title</Position>
+      <TranslationSet>
+        <base loc="en">Not Now</base>
+        <tran loc="ar">ليس الآن</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSWindow"; title = "Window"; ObjectID = "CjS-3k-Mg4"; </Description>
+      <Position>CjS-3k-Mg4.title</Position>
+      <TranslationSet>
+        <base loc="en">Window</base>
+        <tran loc="ar">Window</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "CocoaBindingsConnection"; ibShadowedDisplayPattern = "%{value1}@"; ObjectID = "I5A-x8-O4x"; </Description>
+      <Position>I5A-x8-O4x.ibShadowedDisplayPattern</Position>
+      <TranslationSet>
+        <base loc="en">%{value1}@</base>
+        <tran loc="ar">%{value1}@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "usp-zk-M4B"; </Description>
+      <Position>usp-zk-M4B.title</Position>
+      <TranslationSet>
+        <base loc="en">Text Cell</base>
+        <tran loc="ar">خلية نصية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Would you like to allow other macOS applications to use this %@ account?"; ObjectID = "hbI-oB-m1z"; </Description>
+      <Position>hbI-oB-m1z.title</Position>
+      <TranslationSet>
+        <base loc="en">Would you like to allow other macOS applications to use this %@ account?</base>
+        <tran loc="ar">هل ترغب في السماح لتطبيقات macOS أخرى باستخدام حساب %@ هذا؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTableView"; ibExternalAccessibilityDescription = "New account types"; ObjectID = "Nmm-fc-7WU"; </Description>
+      <Position>Nmm-fc-7WU.ibExternalAccessibilityDescription</Position>
+      <TranslationSet>
+        <base loc="en">New account types</base>
+        <tran loc="ar">أنواع حسابات جديدة</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>AccountsUIX/System/Library/PrivateFrameworks/AccountsUI.framework/Versions/A/Resources/en.lproj/ACUIAccountTypesViewController.strings</Filepath>
+    <TextItem>
+      <Description> Class = "NSImageView"; ibExternalAccessibilityDescription = "Icon"; ObjectID = "Mv9-E7-aMA"; </Description>
+      <Position>Mv9-E7-aMA.ibExternalAccessibilityDescription</Position>
+      <TranslationSet>
+        <base loc="en">Icon</base>
+        <tran loc="ar">أيقونة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Add Other Account…"; ObjectID = "NJt-BU-s26"; </Description>
+      <Position>NJt-BU-s26.title</Position>
+      <TranslationSet>
+        <base loc="en">Add Other Account…</base>
+        <tran loc="ar">إضافة حساب آخر…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Add Other Account…"; ObjectID = "PUM-ED-QNM"; </Description>
+      <Position>PUM-ED-QNM.title</Position>
+      <TranslationSet>
+        <base loc="en">Add Other Account…</base>
+        <tran loc="ar">إضافة حساب آخر…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Add Account"; ObjectID = "NrV-9F-AlK"; </Description>
+      <Position>NrV-9F-AlK.title</Position>
+      <TranslationSet>
+        <base loc="en">Add Account</base>
+        <tran loc="ar">إضافة حساب</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "CalDAV account"; ObjectID = "aOe-uH-yVD"; </Description>
+      <Position>aOe-uH-yVD.title</Position>
+      <TranslationSet>
+        <base loc="en">CalDAV account</base>
+        <tran loc="ar">حساب CalDAV</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "hqQ-7Q-bLd"; </Description>
+      <Position>hqQ-7Q-bLd.title</Position>
+      <TranslationSet>
+        <base loc="en">Text Cell</base>
+        <tran loc="ar">خلية نصية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSImageView"; ibExternalAccessibilityDescription = "Provider Logo"; ObjectID = "YvD-LR-cgI"; </Description>
+      <Position>YvD-LR-cgI.ibExternalAccessibilityDescription</Position>
+      <TranslationSet>
+        <base loc="en">Provider Logo</base>
+        <tran loc="ar">شعار الموفر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTableView"; ibExternalAccessibilityDescription = "New account types"; ObjectID = "kY4-F5-NaY"; </Description>
+      <Position>kY4-F5-NaY.ibExternalAccessibilityDescription</Position>
+      <TranslationSet>
+        <base loc="en">New account types</base>
+        <tran loc="ar">أنواع حسابات جديدة</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>AccountsUIX/System/Library/PrivateFrameworks/AccountsUI.framework/Versions/A/Resources/en.lproj/ACUIAccountSetupViewController.strings</Filepath>
+    <TextItem>
+      <Description> Class = "NSImageView"; ibExternalAccessibilityDescription = "Icon"; ObjectID = "LKg-Y8-tV8"; </Description>
+      <Position>LKg-Y8-tV8.ibExternalAccessibilityDescription</Position>
+      <TranslationSet>
+        <base loc="en">Icon</base>
+        <tran loc="ar">أيقونة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSImageView"; ibExternalAccessibilityDescription = "Icon"; ObjectID = "Nbd-nX-KVq"; </Description>
+      <Position>Nbd-nX-KVq.ibExternalAccessibilityDescription</Position>
+      <TranslationSet>
+        <base loc="en">Icon</base>
+        <tran loc="ar">أيقونة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "name@example.com"; ObjectID = "8bn-Y9-kdl"; </Description>
+      <Position>8bn-Y9-kdl.ibShadowedIsNilPlaceholder</Position>
+      <TranslationSet>
+        <base loc="en">name@example.com</base>
+        <tran loc="ar">name@example.com</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; placeholderString = "name@example.com"; ObjectID = "S2z-7B-thT"; </Description>
+      <Position>S2z-7B-thT.placeholderString</Position>
+      <TranslationSet>
+        <base loc="en">name@example.com</base>
+        <tran loc="ar">name@example.com</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "name@example.com"; ObjectID = "Wrk-FJ-Cjx"; </Description>
+      <Position>Wrk-FJ-Cjx.ibShadowedIsNilPlaceholder</Position>
+      <TranslationSet>
+        <base loc="en">name@example.com</base>
+        <tran loc="ar">name@example.com</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; placeholderString = "name@example.com"; ObjectID = "YGP-fE-WCV"; </Description>
+      <Position>YGP-fE-WCV.placeholderString</Position>
+      <TranslationSet>
+        <base loc="en">name@example.com</base>
+        <tran loc="ar">name@example.com</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "By clicking “Next”, you agree that you will only upload content you are legally permitted to upload, and that the content does not violate (network)'s Terms of Use."; ObjectID = "srm-p0-gkJ"; </Description>
+      <Position>srm-p0-gkJ.title</Position>
+      <TranslationSet>
+        <base loc="en">By clicking “Next”, you agree that you will only upload content you are legally permitted to upload, and that the content does not violate (network)'s Terms of Use.</base>
+        <tran loc="ar">بالنقر على \"التالي\"، فأنت توافق على أنك لن تقوم بتحميل سوى المحتوى المصرح لك من الناحية القانونية تحميله، وأن المحتوى لا ينتهك شروط استخدام (الشبكة).</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextField"; ibExternalAccessibilityDescription = "Username:"; ObjectID = "6sB-lO-dek"; </Description>
+      <Position>6sB-lO-dek.ibExternalAccessibilityDescription</Position>
+      <TranslationSet>
+        <base loc="en">Username:</base>
+        <tran loc="ar">اسم المستخدم:</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextField"; ibExternalAccessibilityDescription = "Email Address:"; ObjectID = "hjw-VQ-Y7b"; </Description>
+      <Position>hjw-VQ-Y7b.ibExternalAccessibilityDescription</Position>
+      <TranslationSet>
+        <base loc="en">Email Address:</base>
+        <tran loc="ar">عنوان البريد الإلكتروني:</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "To get started, fill out the following information:"; ObjectID = "iue-h9-mcK"; </Description>
+      <Position>iue-h9-mcK.title</Position>
+      <TranslationSet>
+        <base loc="en">To get started, fill out the following information:</base>
+        <tran loc="ar">للبدء، قم بتعبئة المعلومات التالية:</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Sign In"; ObjectID = "WPS-1H-A0g"; </Description>
+      <Position>WPS-1H-A0g.title</Position>
+      <TranslationSet>
+        <base loc="en">Sign In</base>
+        <tran loc="ar">تسجيل الدخول</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSSecureTextField"; ibExternalAccessibilityDescription = "Password:"; ObjectID = "LUX-sH-DoE"; </Description>
+      <Position>LUX-sH-DoE.ibExternalAccessibilityDescription</Position>
+      <TranslationSet>
+        <base loc="en">Password:</base>
+        <tran loc="ar">كلمة السر:</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Add a Mail account"; ObjectID = "Ozk-on-xz8"; </Description>
+      <Position>Ozk-on-xz8.title</Position>
+      <TranslationSet>
+        <base loc="en">Add a Mail account</base>
+        <tran loc="ar">إضافة حساب بريد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "CocoaBindingsConnection"; ibShadowedDisplayPattern = "By clicking “%{value1}@”, you agree that you will only upload content you are legally permitted to upload, and that the content does not violate %{value2}@'s Terms of Use."; ObjectID = "3m0-r4-hR8"; </Description>
+      <Position>3m0-r4-hR8.ibShadowedDisplayPattern</Position>
+      <TranslationSet>
+        <base loc="en">By clicking “%{value1}@”, you agree that you will only upload content you are legally permitted to upload, and that the content does not violate %{value2}@'s Terms of Use.</base>
+        <tran loc="ar">بالنقر على \"%{value1}@\"، فأنت توافق على أنك لن تقوم بتحميل سوى المحتوى المصرح لك من الناحية القانونية تحميله، وأن المحتوى لا ينتهك شروط استخدام %{value2}@.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "CocoaBindingsConnection"; ibShadowedDisplayPattern = "By clicking “%{value1}@”, you agree that you will only upload content you are legally permitted to upload, and that the content does not violate %{value2}@'s Terms of Use."; ObjectID = "YjQ-1G-boy"; </Description>
+      <Position>YjQ-1G-boy.ibShadowedDisplayPattern</Position>
+      <TranslationSet>
+        <base loc="en">By clicking “%{value1}@”, you agree that you will only upload content you are legally permitted to upload, and that the content does not violate %{value2}@'s Terms of Use.</base>
+        <tran loc="ar">بالنقر على \"%{value1}@\"، فأنت توافق على أنك لن تقوم بتحميل سوى المحتوى المصرح لك من الناحية القانونية تحميله، وأن المحتوى لا ينتهك شروط استخدام %{value2}@.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Label"; ObjectID = "hTM-qH-0gc"; </Description>
+      <Position>hTM-qH-0gc.title</Position>
+      <TranslationSet>
+        <base loc="en">Label</base>
+        <tran loc="ar">العنوان</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Cancel"; ObjectID = "Svo-A4-LmU"; </Description>
+      <Position>Svo-A4-LmU.title</Position>
+      <TranslationSet>
+        <base loc="en">Cancel</base>
+        <tran loc="ar">إلغاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSSecureTextFieldCell"; placeholderString = "Required"; ObjectID = "hzH-jT-xfE"; </Description>
+      <Position>hzH-jT-xfE.placeholderString</Position>
+      <TranslationSet>
+        <base loc="en">Required</base>
+        <tran loc="ar">مطلوب</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSButtonCell"; title = "Back"; ObjectID = "MgR-dn-8Hu"; </Description>
+      <Position>MgR-dn-8Hu.title</Position>
+      <TranslationSet>
+        <base loc="en">Back</base>
+        <tran loc="ar">الخلف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextField"; ibExternalAccessibilityDescription = "Name:"; ObjectID = "sdn-kg-dAy"; </Description>
+      <Position>sdn-kg-dAy.ibExternalAccessibilityDescription</Position>
+      <TranslationSet>
+        <base loc="en">Name:</base>
+        <tran loc="ar">الاسم:</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "John Appleseed"; ObjectID = "w9H-57-QDD"; </Description>
+      <Position>w9H-57-QDD.ibShadowedIsNilPlaceholder</Position>
+      <TranslationSet>
+        <base loc="en">John Appleseed</base>
+        <tran loc="ar">باسل أسعد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; placeholderString = "John Appleseed"; ObjectID = "yKb-8R-cgB"; </Description>
+      <Position>yKb-8R-cgB.placeholderString</Position>
+      <TranslationSet>
+        <base loc="en">John Appleseed</base>
+        <tran loc="ar">باسل أسعد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "CocoaBindingsConnection"; ibShadowedDisplayPattern = "Add a %{value1}@ account"; ObjectID = "8kE-jp-gUO"; </Description>
+      <Position>8kE-jp-gUO.ibShadowedDisplayPattern</Position>
+      <TranslationSet>
+        <base loc="en">Add a %{value1}@ account</base>
+        <tran loc="ar">إضافة حساب %{value1}@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "Rc3-DK-c8k"; </Description>
+      <Position>Rc3-DK-c8k.title</Position>
+      <TranslationSet>
+        <base loc="en">Text Cell</base>
+        <tran loc="ar">خلية نصية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Class = "NSTextFieldCell"; title = "Select the apps you want to use with this account:"; ObjectID = "ERi-3n-YBe"; </Description>
+      <Position>ERi-3n-YBe.title</Position>
+      <TranslationSet>
+        <base loc="en">Select the apps you want to use with this account:</base>
+        <tran loc="ar">قم بتحديد التطبيقات التي ترغب في استخدامها لهذا الحساب:</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>AccountsUIX/System/Library/PreferencePanes/InternetAccounts.prefPane/Contents/Resources/en.lproj/InternetAccounts.searchTerms</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>/com.apple.account.qq:dict/localizableStrings:dict/0:array/title:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Set up a QQ.com account</base>
+        <tran loc="ar">إعداد حساب QQ.com</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/InternetAccounts:dict/localizableStrings:dict/1:array/index:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">photo stream</base>
+        <tran loc="ar">تدفق الصور</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/InternetAccounts:dict/localizableStrings:dict/2:array/index:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">find my mac</base>
+        <tran loc="ar">البحث عن الـ mac الخاص بي، العثور على الـ Mac، العثور على الـ Mac الخاص بي، find my mac</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/InternetAccounts:dict/localizableStrings:dict/2:array/title:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Find My Mac</base>
+        <tran loc="ar">العثور على الـ Mac</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/InternetAccounts:dict/localizableStrings:dict/0:array/index:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">account, accounts, user, users, name, names, user name, username, log, logging, sign, signing, log in, log on, sign in, sign on, login, logon, signin, signon, log out, log off, sign out, sign off, logout, logoff, signout, signoff, password, passwords, pass, word, words, authenticate, authenticating, authentication, iCloud, Apple ID, subscriber, subscription, member, Mail, iCal, calendar, Address Book, addressbook, contacts, iChat, messages, email, CalDAV, CardDAV, LDAP, IMAP, notes, reminders</base>
+        <tran loc="ar">حساب، الحساب، حسابات، الحسابات، مستخدم، المستخدم، المستخدم الضيف، مستخدم ضيف، مستخدمون، مستخدمين، المستخدمون، المستخدمين، اسم، الاسم، أسماء، الأسماء، اسم المستخدم، اسم مستخدم، تسجيل، التسجيل، تسجيل الدخول، تسجيل دخول، دخول، الدخول، تسجيل الخروج، تسجيل خروج، الخروج، خروج، كلمة السر، كلمة سر، كلمات سر، كلمات السر، مرور، سر، المرور، السر، كلمة، الكلمة، كلمات، الكلمات، مصادقة، المصادقة، iCloud،‏ Apple ID، مشترك، المشترك، اشتراك، الاشتراك، عضو، العضو، البريد، بريد، iCal، تقويم، التقويم، دفتر عناوين، دفتر العناوين، جهات الاتصال، جهات اتصال، iChat، الرسائل، رسائل، بريد إلكتروني، البريد الإلكتروني، CalDAV،‏ CardDAV،‏ LDAP،‏ IMAP، ملاحظات، الملاحظات، تذكيرات، التذكيرات، account, accounts, user, users, name, names, user name, username, log, logging, sign, signing, log in, log on, sign in, sign on, login, logon, signin, signon, log out, log off, sign out, sign off, logout, logoff, signout, signoff, password, passwords, pass, word, words, authenticate, authenticating, authentication, iCloud, Apple ID, subscriber, subscription, member, Mail, iCal, calendar, Address Book, addressbook, contacts, iChat, messages, email, CalDAV, CardDAV, LDAP, IMAP, notes, reminders</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/com.apple.account.Exchange:dict/localizableStrings:dict/0:array/title:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Set up an Exchange account</base>
+        <tran loc="ar">إعداد حساب Exchange</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/com.apple.account.163:dict/localizableStrings:dict/0:array/title:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Set up a 163.com account</base>
+        <tran loc="ar">إعداد حساب ‎163.com</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/com.apple.account.Google:dict/localizableStrings:dict/0:array/title:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Set up a Google account</base>
+        <tran loc="ar">إعداد حساب Google</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/com.apple.account.126:dict/localizableStrings:dict/0:array/index:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">126</base>
+        <tran loc="ar">126</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/com.apple.account.163:dict/localizableStrings:dict/0:array/index:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">163</base>
+        <tran loc="ar">163</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/com.apple.account.qq:dict/localizableStrings:dict/0:array/index:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">qq</base>
+        <tran loc="ar">qq</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/InternetAccounts:dict/localizableStrings:dict/1:array/title:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Photo Stream</base>
+        <tran loc="ar">تدفق الصور</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/com.apple.account.Yahoo:dict/localizableStrings:dict/0:array/title:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Set up a Yahoo! account</base>
+        <tran loc="ar">إعداد حساب Yahoo!‎</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/com.apple.account.Google:dict/localizableStrings:dict/0:array/index:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">google, gmail, googlemail</base>
+        <tran loc="ar">google, gmail, googlemail</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/InternetAccounts:dict/localizableStrings:dict/0:array/title:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Internet Accounts</base>
+        <tran loc="ar">حسابات الإنترنت</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/com.apple.account.Exchange:dict/localizableStrings:dict/0:array/index:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">exchange</base>
+        <tran loc="ar">exchange</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/com.apple.account.aol:dict/localizableStrings:dict/0:array/index:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">aol, aim</base>
+        <tran loc="ar">aol, aim</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/com.apple.account.126:dict/localizableStrings:dict/0:array/title:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Set up a 126.com account</base>
+        <tran loc="ar">إعداد حساب ‎126.com</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/com.apple.account.aol:dict/localizableStrings:dict/0:array/title:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Set up an AOL account</base>
+        <tran loc="ar">إعداد حساب AOL</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/InternetAccounts:dict/localizableStrings:dict/0:array/comments:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Localizable index words</base>
+        <tran loc="ar">كلمات الفهرس القابلة للترجمة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/InternetAccounts:dict/localizableStrings:dict/1:array/comments:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Localizable index words</base>
+        <tran loc="ar">كلمات الفهرس القابلة للترجمة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/InternetAccounts:dict/localizableStrings:dict/2:array/comments:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Localizable index words</base>
+        <tran loc="ar">كلمات الفهرس القابلة للترجمة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/com.apple.account.126:dict/localizableStrings:dict/0:array/comments:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Localizable index words</base>
+        <tran loc="ar">كلمات الفهرس القابلة للترجمة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/com.apple.account.163:dict/localizableStrings:dict/0:array/comments:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Localizable index words</base>
+        <tran loc="ar">كلمات الفهرس القابلة للترجمة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/com.apple.account.Exchange:dict/localizableStrings:dict/0:array/comments:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Localizable index words</base>
+        <tran loc="ar">كلمات الفهرس القابلة للترجمة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/com.apple.account.Google:dict/localizableStrings:dict/0:array/comments:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Localizable index words</base>
+        <tran loc="ar">كلمات الفهرس القابلة للترجمة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/com.apple.account.Yahoo:dict/localizableStrings:dict/0:array/comments:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Localizable index words</base>
+        <tran loc="ar">كلمات الفهرس القابلة للترجمة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/com.apple.account.aol:dict/localizableStrings:dict/0:array/comments:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Localizable index words</base>
+        <tran loc="ar">كلمات الفهرس القابلة للترجمة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/com.apple.account.qq:dict/localizableStrings:dict/0:array/comments:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Localizable index words</base>
+        <tran loc="ar">كلمات الفهرس القابلة للترجمة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/com.apple.account.Yahoo:dict/localizableStrings:dict/0:array/index:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">yahoo, ymail</base>
+        <tran loc="ar">بريد yahoo،‏ yahoo, ymail</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>AccountsUIX/System/Library/PreferencePanes/InternetAccounts.prefPane/Contents/Resources/en.lproj/InfoPlist.strings</Filepath>
+    <TextItem>
+      <Description> 
+  Infoplist.strings
+  AccountsUI
+
+  Created by Arnaud Douceur on 9/19/14.
+  Copyright (c) 2014 Apple Inc. All rights reserved.
+</Description>
+      <Position>NSHumanReadableCopyright</Position>
+      <TranslationSet>
+        <base loc="en">Copyright 2010-2013, Apple Inc.</base>
+        <tran loc="ar">Copyright 2010-2013, Apple Inc.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>CFBundleName</Position>
+      <TranslationSet>
+        <base loc="en">Internet Accounts</base>
+        <tran loc="ar">حسابات الإنترنت</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>NSPrefPaneIconLabel</Position>
+      <TranslationSet>
+        <base loc="en">Internet\nAccounts</base>
+        <tran loc="ar">حسابات\nالإنترنت</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+</Proj>

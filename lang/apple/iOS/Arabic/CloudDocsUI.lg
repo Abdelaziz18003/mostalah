@@ -1,0 +1,2776 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Proj>
+  <ProjName>CloudDocsUI</ProjName>
+  <File>
+    <Filepath>CloudDocsUI/System/Library/PrivateFrameworks/CloudDocsUI.framework/PlugIns/com.apple.CloudDocsUI.CloudSharing.appex/en.lproj/Localizable.strings</Filepath>
+    <TextItem>
+      <Description> 
+  Localizable.strings
+  UIKit
+
+  Please do not remove this file. It is needed for proper RTL layout.
+ 
+  Created by Paul Borokhov on 08.07.15.
+  Copyright © 2015 Apple Inc. All rights reserved.
+</Description>
+      <Position>DNT</Position>
+      <TranslationSet>
+        <base loc="en">DNT</base>
+        <tran loc="ar">DNT</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>CloudDocsUI/System/Library/PrivateFrameworks/CloudDocsUI.framework/PlugIns/com.apple.CloudDocsUI.DocumentPicker.appex/en.lproj/Localizable.strings</Filepath>
+    <TextItem>
+      <Description> 
+  Localizable.strings
+  UIKit
+
+  Please do not remove this file. It is needed for proper RTL layout.
+ 
+  Created by Paul Borokhov on 08.07.15.
+  Copyright © 2015 Apple Inc. All rights reserved.
+</Description>
+      <Position>DNT</Position>
+      <TranslationSet>
+        <base loc="en">DNT</base>
+        <tran loc="ar">DNT</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>CloudDocsUI/System/Library/PrivateFrameworks/CloudDocsUI.framework/English.lproj/Localizable.strings</Filepath>
+    <TextItem>
+      <Description> iCloud sharing stop sharing as owner title </Description>
+      <Position>STOP_SHARING_MESSAGE_TEXT_NOTE</Position>
+      <TranslationSet>
+        <base loc="en">If you stop sharing, other people will no longer have access to this note and it will be deleted from all of their devices.</base>
+        <tran loc="ar">إذا قمت بإيقاف المشاركة، فلن يتمكن الأشخاص الآخرون من الوصول إلى هذه الملاحظة مجددًا، وسيتم حذفها من جميع الأجهزة الخاصة بهم.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Document picker menu Browse menu item </Description>
+      <Position>Browse</Position>
+      <TranslationSet>
+        <base loc="en">Browse</base>
+        <tran loc="ar">تصفح</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> iCloud sharing information text for document within a shared folder hierarchy </Description>
+      <Position>NON_ROOT_ITEM_INFORMATION_TEXT_PRESENTATION</Position>
+      <TranslationSet>
+        <base loc="en">This presentation is in a shared folder. %@</base>
+        <tran loc="ar">هذا العرض التقديمي موجود في مجلد مشترك. ‏%@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> copy link action for collab subshare (1st parameter is owner name, 2nd parameter is always the folder name) </Description>
+      <Position>SETTINGS_COPY_LINK_SUBFOLDERTITLE_COLLAB_PRIVATE_FOLDER</Position>
+      <TranslationSet>
+        <base loc="en">Only people %@ invited to the shared folder “%@” can use the link to access this folder.</base>
+        <tran loc="ar">الأشخاص المدعوون إلى المجلد المشترك "%2$@" بواسطة %1$@ هم فقط الذين يمكنهم استخدام الرابط للوصول إلى هذا المجلد.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> iCloud sharing initial info label </Description>
+      <Position>SHARE_INITIAL_INFO_LABEL_NOTE</Position>
+      <TranslationSet>
+        <base loc="en">Add people to this note and everyone will see the latest changes.</base>
+        <tran loc="ar">قم بإضافة الأشخاص إلى هذه الملاحظة، وسيتمكن الجميع من رؤية آخر التغييرات.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> iCloud sharing settings detail text for mixed permissions </Description>
+      <Position>SETTINGS_DETAIL_ACL_MIXED_SUMMARY_TEXT</Position>
+      <TranslationSet>
+        <base loc="en">Only people you invite can open.</base>
+        <tran loc="ar">من تدعوهم فقط هم الذين يمكنهم الفتح.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> iCloud sharing copy link action item </Description>
+      <Position>COPY_LINK_ACTION_TEXT</Position>
+      <TranslationSet>
+        <base loc="en">Copy Link</base>
+        <tran loc="ar">نسخ الرابط</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> iCloud sharing copy link activity </Description>
+      <Position>COPY_LINK_ACTIVITY_TEXT</Position>
+      <TranslationSet>
+        <base loc="en">Copy Link</base>
+        <tran loc="ar">نسخ الرابط</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Title for icon badge in Mail </Description>
+      <Position>Shared from %@</Position>
+      <TranslationSet>
+        <base loc="en">Shared from %@</base>
+        <tran loc="ar">تمت المشاركة من %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Document picker failed to launch 3rd party doc picker error message w/ picker name and error code </Description>
+      <Position>The document picker “%@” failed to launch (%i).</Position>
+      <TranslationSet>
+        <base loc="en">The document picker “%1$@” failed to launch (%2$i).</base>
+        <tran loc="ar">فشل منتقي المستندات "%1$@" في بدء تشغيل ‏(%2$i).</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> iCloud sharing error message </Description>
+      <Position>ERROR_MESSAGE_FILE_ALREADY_SHARED</Position>
+      <TranslationSet>
+        <base loc="en">This file is inside a shared folder and cannot be shared on its own.</base>
+        <tran loc="ar">هذا الملف موجود داخل مجلد مشترك ولا يمكن مشاركته بشكل مستقل.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Share invitation mail body template </Description>
+      <Position>MAIL_TEMPLATE_BODY_DOCUMENT</Position>
+      <TranslationSet>
+        <base loc="en">&lt;br&gt;&lt;br&gt;Open my shared document:&lt;br&gt;&lt;br&gt;#LINK_FRAGMENT#</base>
+        <tran loc="ar">‏&lt;br&gt;&lt;br&gt;افتح المستند المشترك:&lt;br&gt;&lt;br&gt;#LINK_FRAGMENT#</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> iCloud sharing pre-invite info text </Description>
+      <Position>SHARE_INVITE_INFO_LABEL_TEXT</Position>
+      <TranslationSet>
+        <base loc="en">Choose how you’d like to send your invitation:</base>
+        <tran loc="ar">اختر الطريقة التي تريد إرسال دعوتك بها:</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Document iCloud not migrated button </Description>
+      <Position>Upgrade</Position>
+      <TranslationSet>
+        <base loc="en">Upgrade</base>
+        <tran loc="ar">ترقية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> section title settings </Description>
+      <Position>Who can access</Position>
+      <TranslationSet>
+        <base loc="en">Who can access</base>
+        <tran loc="ar">من يمكنه الوصول</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Debug message when ¯\\_(ツ)_/¯ </Description>
+      <Position>Bummer</Position>
+      <TranslationSet>
+        <base loc="en">Bummer</base>
+        <tran loc="ar">فشل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Additional actions for iCloud items </Description>
+      <Position>Delete</Position>
+      <TranslationSet>
+        <base loc="en">Delete</base>
+        <tran loc="ar">حذف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> UI value for modified date minutes </Description>
+      <Position>modified %lu minutes ago</Position>
+      <TranslationSet>
+        <base loc="en">modified %lu minutes ago</base>
+        <tran loc="ar">تم التعديل منذ %lu من الدقائق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Document picker target selection title. </Description>
+      <Position>Choose a location to add these items.</Position>
+      <TranslationSet>
+        <base loc="en">Choose a location to add these items.</base>
+        <tran loc="ar">اختر موقعًا لإضافة هذه العناصر فيه.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> icloud sharing settings header (parameter is always the owner's name) </Description>
+      <Position>SETTINGS_ONLY_PEOPLE_INVITED_CAN_ACCESS_PRESENTATION</Position>
+      <TranslationSet>
+        <base loc="en">Only people %@ invited will have access to this presentation.</base>
+        <tran loc="ar">الأشخاص الذين يدعوهم %@ فقط سيمكنهم الوصول إلى هذا العرض التقديمي.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Document iCloud not migrated (refused or unknown) first paragraph </Description>
+      <Position>NO_ICLOUD_MIGRATION_TEXT</Position>
+      <TranslationSet>
+        <base loc="en">Store your files in iCloud and access them anytime on all your devices.</base>
+        <tran loc="ar">قم بتخزين ملفاتك في iCloud والوصول إليها في أي وقت على جميع أجهزتك.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> iCloud sharing remove access from participant action item </Description>
+      <Position>REMOVE_ACCESS_ACTION_TEXT</Position>
+      <TranslationSet>
+        <base loc="en">Remove Access</base>
+        <tran loc="ar">إزالة حق الوصول</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Document picker management table title </Description>
+      <Position>Manage Locations</Position>
+      <TranslationSet>
+        <base loc="en">Manage Locations</base>
+        <tran loc="ar">إدارة المواقع</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> iCloud sharing give access info label for Notes </Description>
+      <Position>GIVE_ACCESS_INFO_LABEL_NOTE</Position>
+      <TranslationSet>
+        <base loc="en">Only people you add will be able to access this note.</base>
+        <tran loc="ar">الأشخاص الذين تقوم بإضافتهم فقط سيتمكنون من الوصول إلى هذه الملاحظة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> iCloud File Action </Description>
+      <Position>Rename...</Position>
+      <TranslationSet>
+        <base loc="en">Rename…</base>
+        <tran loc="ar">إعادة تسمية…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> copy link action for collab subshare (1st parameter is owner name, 2nd parameter is always the folder name) </Description>
+      <Position>SETTINGS_COPY_LINK_SUBFOLDERTITLE_COLLAB_PRIVATE_PRESENTATION</Position>
+      <TranslationSet>
+        <base loc="en">Only people %@ invited to the shared folder “%@” can use the link to access this presentation.</base>
+        <tran loc="ar">الأشخاص المدعوون إلى المجلد المشترك "%2$@" بواسطة %1$@ هم فقط الذين يمكنهم استخدام الرابط للوصول إلى هذا العرض التقديمي.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Name sort segment in doc picker </Description>
+      <Position>Name[sort option]</Position>
+      <TranslationSet>
+        <base loc="en">Name</base>
+        <tran loc="ar">الاسم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Goes between first and second subtitle in table view mode </Description>
+      <Position>SUBTITLE_JOINER</Position>
+      <TranslationSet>
+        <base loc="en">–</base>
+        <tran loc="ar">–</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> icloud sharing settings header (parameter is always the owner's name) </Description>
+      <Position>SETTINGS_ONLY_PEOPLE_INVITED_CAN_ACCESS</Position>
+      <TranslationSet>
+        <base loc="en">Only people %@ invited will have access.</base>
+        <tran loc="ar">الأشخاص الذين يدعوهم %@ فقط سيمكنهم الوصول.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> iCloud sharing couldn't copy link as participant message message </Description>
+      <Position>COULD_NOT_COPY_LINK_MESSAGE_TEXT_SPREADSHEET</Position>
+      <TranslationSet>
+        <base loc="en">Sorry, the spreadsheet link couldn’t be copied.</base>
+        <tran loc="ar">عذرًا، تعذر نسخ رابط جدول البيانات.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Title for remove last participant alert </Description>
+      <Position>Remove “%@”?</Position>
+      <TranslationSet>
+        <base loc="en">Remove “%@”?</base>
+        <tran loc="ar">هل تريد إزالة "%@"؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> iCloud File Action </Description>
+      <Position>More...</Position>
+      <TranslationSet>
+        <base loc="en">More…</base>
+        <tran loc="ar">المزيد…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Last line of status text in Folder Sharing header--sharing status </Description>
+      <Position>MODIFIED_BY_OTHER_TEXT</Position>
+      <TranslationSet>
+        <base loc="en">Modified by %@</base>
+        <tran loc="ar">تم التعديل بواسطة %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> iCloud sharing give access info label for Numbers </Description>
+      <Position>GIVE_ACCESS_INFO_LABEL_SPREADSHEET</Position>
+      <TranslationSet>
+        <base loc="en">Only people you add will be able to access this spreadsheet.</base>
+        <tran loc="ar">الأشخاص الذين تقوم بإضافتهم فقط سيتمكنون من الوصول إلى جدول البيانات هذا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> iCloud sharing information text for document within a shared folder hierarchy </Description>
+      <Position>NON_ROOT_ITEM_PARTICIPANT_INFORMATION_TEXT_PRESENTATION</Position>
+      <TranslationSet>
+        <base loc="en">This presentation is in a shared folder.</base>
+        <tran loc="ar">هذا العرض التقديمي موجود في مجلد مشترك.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Document picker target selection items </Description>
+      <Position>%@, %@</Position>
+      <TranslationSet>
+        <base loc="en">%1$@, %2$@</base>
+        <tran loc="ar">‏%1$@، %2$@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> iCloud sharing information text for document within a shared folder hierarchy </Description>
+      <Position>NON_ROOT_ITEM_INSTRUCTIONS_PRIVATE</Position>
+      <TranslationSet>
+        <base loc="en">Go to the folder’s share options to add people or change editing permissions.</base>
+        <tran loc="ar">انتقل إلى خيارات المشاركة الخاصة بالمجلد لإضافة أشخاص أو تغيير أذون التحرير.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> iCloud sharing error title </Description>
+      <Position>ERROR_TITLE_TOO_MANY_PARTICIPANTS</Position>
+      <TranslationSet>
+        <base loc="en">Maximum Invites Reached</base>
+        <tran loc="ar">تم الوصول إلى أقصى عدد للدعوات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> copy link action subtitle </Description>
+      <Position>SETTINGS_COPY_LINK_SUBTITLE_PRESENTATION</Position>
+      <TranslationSet>
+        <base loc="en">Only people you invited will be able to access your presentation.</base>
+        <tran loc="ar">الأشخاص الذين قمت بدعوتهم فقط سيتمكنون من الوصول إلى العرض التقديمي الخاص بك.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> document picker search results title </Description>
+      <Position>Search Results</Position>
+      <TranslationSet>
+        <base loc="en">Search Results</base>
+        <tran loc="ar">نتائج البحث</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> iCloud sharing error title </Description>
+      <Position>ERROR_TITLE_FILE_ALREADY_SHARED</Position>
+      <TranslationSet>
+        <base loc="en">Can’t Share Document</base>
+        <tran loc="ar">لا يمكن مشاركة المستند</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> iCloud sharing alert message when attempting to share a folder with a shared item inside </Description>
+      <Position>ALERT_EXISTING_SHARED_ITEMS_MESSAGE_ONE_ITEM</Position>
+      <TranslationSet>
+        <base loc="en">This folder already contains a shared item “%@”. People who currently have access to this item may lose it.</base>
+        <tran loc="ar">يحتوي هذا المجلد على العنصر المشترك "%@" بالفعل. قد يفقد الأشخاص الذين لديهم حق الوصول إلى هذا العنصر هذا الحق.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> File copy failed in move to flow title </Description>
+      <Position>Copying file failed</Position>
+      <TranslationSet>
+        <base loc="en">Copying file failed</base>
+        <tran loc="ar">فشل نسخ الملف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> iCloud sharing leave share as participant message </Description>
+      <Position>LEAVE_SHARE_MESSAGE_TEXT</Position>
+      <TranslationSet>
+        <base loc="en">Removing yourself will delete “%@” from all your devices.</base>
+        <tran loc="ar">إزالة نفسك ستؤدي إلى حذف "%@" من جميع أجهزتك.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> iCloud sharing error message </Description>
+      <Position>ERROR_MESSAGE_MAID_DOCUMENT</Position>
+      <TranslationSet>
+        <base loc="en">This account has restrictions on the people you can share documents with.</base>
+        <tran loc="ar">يشتمل هذا الحساب على قيود بشأن الأشخاص الذين يمكنك مشاركة المستندات معهم.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> message change from public to acl </Description>
+      <Position>SETTINGS_SWITCH_TO_ACL_MESSAGE_DOCUMENT</Position>
+      <TranslationSet>
+        <base loc="en">Everyone will be removed from this document and it will be deleted from iCloud Drive on all of their devices.</base>
+        <tran loc="ar">ستتم إزالة الجميع من هذا المستند، وسيتم حذفه من iCloud Drive على جميع الأجهزة الخاصة بهم.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> iCloud sharing alert message when attempting to share a folder with shared items inside </Description>
+      <Position>ALERT_EXISTING_SHARED_ITEMS_MESSAGE</Position>
+      <TranslationSet>
+        <base loc="en">This folder already contains shared items, including “%1$@” and %2$lu others. People who currently have access to these items may lose it.</base>
+        <tran loc="ar">يحتوي هذا المجلد على عناصر مشتركة من ضمنها "%1$@" و "%2$lu" أخرى بالفعل. قد يفقد الأشخاص الذين لديهم حق الوصول إلى هذين العنصرين هذا الحق.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> iCloud sharing error message </Description>
+      <Position>ERROR_MESSAGE_INITIAL_NETWORK_FAILURE</Position>
+      <TranslationSet>
+        <base loc="en">%@ couldn’t connect to iCloud. There may be a problem with the server or network. Please try again later.</base>
+        <tran loc="ar">تعذر على %@ الاتصال بـ iCloud. ربما تكون هناك مشكلة في الخادم أو الشبكة. الرجاء المحاولة مرة أخرى لاحقًا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> iCloud sharing error message </Description>
+      <Position>ERROR_MESSAGE_INITIAL_NETWORK_UNAVAILABLE</Position>
+      <TranslationSet>
+        <base loc="en">%@ couldn’t connect to iCloud. There may be a problem with the server or network. Please try again later.</base>
+        <tran loc="ar">تعذر على %@ الاتصال بـ iCloud. ربما تكون هناك مشكلة في الخادم أو الشبكة. الرجاء المحاولة مرة أخرى لاحقًا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> iCloud sharing settings detail text for public sharing </Description>
+      <Position>SETTINGS_DETAIL_PUBLIC_RO_TEXT</Position>
+      <TranslationSet>
+        <base loc="en">Anyone with the link can view.</base>
+        <tran loc="ar">أي شخص لديه الرابط يمكنه المشاهدة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> iCloud sharing error message </Description>
+      <Position>ERROR_MESSAGE_COULD_NOT_ADD_PARTICIPANTS_WITH_ADDRESSES</Position>
+      <TranslationSet>
+        <base loc="en">Some email addresses or phone numbers you entered are not valid. Please enter valid email addresses or phone numbers, then try sharing again.</base>
+        <tran loc="ar">بعض عناوين البريد الإلكتروني أو أرقام الهواتف التي أدخلتها غير صالحة. الرجاء إدخال عناوين بريد إلكتروني أو أرقام هواتف صالحة، ثم حاول المشاركة مرة أخرى.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> iCloud sharing error title </Description>
+      <Position>ERROR_TITLE_INITIAL_NETWORK_FAILURE</Position>
+      <TranslationSet>
+        <base loc="en">Couldn’t Connect</base>
+        <tran loc="ar">تعذر الاتصال</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> iCloud sharing error title </Description>
+      <Position>ERROR_TITLE_INITIAL_NETWORK_UNAVAILABLE</Position>
+      <TranslationSet>
+        <base loc="en">Couldn’t Connect</base>
+        <tran loc="ar">تعذر الاتصال</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> iCloud sharing error title </Description>
+      <Position>ERROR_TITLE_NETWORK_FAILURE</Position>
+      <TranslationSet>
+        <base loc="en">Couldn’t Connect</base>
+        <tran loc="ar">تعذر الاتصال</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> iCloud sharing error title </Description>
+      <Position>ERROR_TITLE_NETWORK_UNAVAILABLE</Position>
+      <TranslationSet>
+        <base loc="en">Couldn’t Connect</base>
+        <tran loc="ar">تعذر الاتصال</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> section title settings </Description>
+      <Position>Permission</Position>
+      <TranslationSet>
+        <base loc="en">Permission</base>
+        <tran loc="ar">إذن</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> iCloud sharing add participant action item </Description>
+      <Position>ADD_PEOPLE_ACTION_TEXT</Position>
+      <TranslationSet>
+        <base loc="en">Add People</base>
+        <tran loc="ar">إضافة أشخاص</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> iCloud sharing give access title </Description>
+      <Position>GIVE_ACCESS_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Add People</base>
+        <tran loc="ar">إضافة أشخاص</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> iCloud sharing initial title </Description>
+      <Position>SHARE_INITIAL_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Add People</base>
+        <tran loc="ar">إضافة أشخاص</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Document picker failed to extend sandbox error message </Description>
+      <Position>The file could not be made available to the application. (%@)</Position>
+      <TranslationSet>
+        <base loc="en">The file could not be made available to the application. (%@)</base>
+        <tran loc="ar">تعذر جعل الملف متوفرًا للتطبيق. ‏(%@)</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> iCloud sharing error message </Description>
+      <Position>ERROR_MESSAGE_MAID_PRESENTATION</Position>
+      <TranslationSet>
+        <base loc="en">This account has restrictions on the people you can share presentations with.</base>
+        <tran loc="ar">يشتمل هذا الحساب على قيود بشأن الأشخاص الذين يمكنك مشاركة العروض التقديمية معهم.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> copy link action for collab subshare (1st parameter is owner name, 2nd parameter is always the folder name) </Description>
+      <Position>SETTINGS_COPY_LINK_SUBFOLDERTITLE_COLLAB_PRIVATE_DOCUMENT</Position>
+      <TranslationSet>
+        <base loc="en">Only people %@ invited to the shared folder “%@” can use the link to access this document.</base>
+        <tran loc="ar">الأشخاص المدعوون إلى المجلد المشترك "%2$@" بواسطة %1$@ هم فقط الذين يمكنهم استخدام الرابط للوصول إلى هذا المستند.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> iCloud sharing information text for document within a shared folder hierarchy </Description>
+      <Position>NON_ROOT_ITEM_PARTICIPANT_INFORMATION_TEXT_DOCUMENT</Position>
+      <TranslationSet>
+        <base loc="en">This document is in a shared folder.</base>
+        <tran loc="ar">هذا المستند موجود في مجلد مشترك.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> iCloud sharing error message </Description>
+      <Position>ERROR_MESSAGE_COULD_NOT_ADD_PARTICIPANTS</Position>
+      <TranslationSet>
+        <base loc="en">Your invitations weren’t sent.</base>
+        <tran loc="ar">لم يتم إرسال دعواتك.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> iCloud sharing error title </Description>
+      <Position>ERROR_TITLE_DEFAULT</Position>
+      <TranslationSet>
+        <base loc="en">Sorry, you can’t manage settings right now</base>
+        <tran loc="ar">عذرًا، لا يمكنك إدارة الإعدادات الآن.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> iCloud sharing error message </Description>
+      <Position>ERROR_MESSAGE_MAID</Position>
+      <TranslationSet>
+        <base loc="en">This account has restrictions on the people you can share with.</base>
+        <tran loc="ar">يشتمل هذا الحساب على قيود بشأن الأشخاص الذين يمكنك المشاركة معهم.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> iCloud sharing participant (owner); parameter is localized name </Description>
+      <Position>PARTICIPANT_OWNER_TEXT</Position>
+      <TranslationSet>
+        <base loc="en">%@ (Owner)</base>
+        <tran loc="ar">‏%@ (المالك)</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Share invitation mail subject template </Description>
+      <Position>MAIL_TEMPLATE_SUBJECT</Position>
+      <TranslationSet>
+        <base loc="en">“#ITEM_NAME#”</base>
+        <tran loc="ar">‏"#ITEM_NAME#"</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> participant info title </Description>
+      <Position>email</Position>
+      <TranslationSet>
+        <base loc="en">email</base>
+        <tran loc="ar">البريد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> document picker title </Description>
+      <Position>iCloud Drive</Position>
+      <TranslationSet>
+        <base loc="en">iCloud Drive</base>
+        <tran loc="ar">‏iCloud Drive</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Document pickers icloud drive not available title in nav bar </Description>
+      <Position>iCloud Drive[unavailable nav title]</Position>
+      <TranslationSet>
+        <base loc="en">iCloud Drive</base>
+        <tran loc="ar">‏iCloud Drive</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Document pickers icloud drive not available title in view </Description>
+      <Position>iCloud Drive[unavailable view title]</Position>
+      <TranslationSet>
+        <base loc="en">iCloud Drive</base>
+        <tran loc="ar">‏iCloud Drive</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> copy link action for owner subshare (parameter is always the folder name) </Description>
+      <Position>SETTINGS_COPY_LINK_SUBFOLDERTITLE_PUBLIC_FOLDER</Position>
+      <TranslationSet>
+        <base loc="en">Only people in the shared folder “%@” can use the link to access this folder.</base>
+        <tran loc="ar">الأشخاص المدعوون في المجلد المشترك "%@" هم فقط الذين يمكنهم استخدام الرابط للوصول إلى هذا المجلد.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> iCloud sharing leave share as participant message </Description>
+      <Position>LEAVE_SHARE_MESSAGE_TEXT_PRESENTATION</Position>
+      <TranslationSet>
+        <base loc="en">Removing yourself from this shared presentation will delete the document from iCloud Drive on all your devices.</base>
+        <tran loc="ar">إزالة نفسك من هذا العرض التقديمي المشترك ستؤدي إلى حذف المستند من iCloud Drive على جميع أجهزتك.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> iCloud sharing error message </Description>
+      <Position>ERROR_MESSAGE_NETWORK_FAILURE</Position>
+      <TranslationSet>
+        <base loc="en">You can’t manage settings offline. There may be a problem with the server or network. Please try again later.</base>
+        <tran loc="ar">لا يمكنك إدارة الإعدادات دون الاتصال بالإنترنت. قد تكون هناك مشكلة في الخادم أو الشبكة. الرجاء المحاولة مرة أخرى لاحقًا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> copy link action for owner subshare (parameter is always the folder name) </Description>
+      <Position>SETTINGS_COPY_LINK_SUBFOLDERTITLE_PRIVATE_SPREADSHEET</Position>
+      <TranslationSet>
+        <base loc="en">Only people you invited to the shared folder “%@” can use the link to access this spreadsheet.</base>
+        <tran loc="ar">الأشخاص الذين دعوتهم إلى المجلد المشترك "%@" هم فقط الذين يمكنهم استخدام الرابط للوصول إلى جدول البيانات هذا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> iCloud sharing give access info label </Description>
+      <Position>GIVE_ACCESS_INFO_LABEL</Position>
+      <TranslationSet>
+        <base loc="en">Only people you add will have access.</base>
+        <tran loc="ar">الأشخاص الذين تقوم بإضافتهم فقط يمكنهم الوصول.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> iCloud sharing give access placeholder </Description>
+      <Position>GIVE_ACCESS_PLACEHOLDER</Position>
+      <TranslationSet>
+        <base loc="en">Email addresses or phone numbers</base>
+        <tran loc="ar">عناوين البريد الإلكتروني أو أرقام الهاتف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Document picker container subtitle; parameter is container display name </Description>
+      <Position>in ContainerDisplayName</Position>
+      <TranslationSet>
+        <base loc="en">in %@</base>
+        <tran loc="ar">في %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> UI value for modified date hours </Description>
+      <Position>modified %lu hours ago</Position>
+      <TranslationSet>
+        <base loc="en">modified %lu hours ago</base>
+        <tran loc="ar">تم التعديل منذ %lu من الساعات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Sync blocked warning title </Description>
+      <Position>A Newer Version of iOS is Needed to Edit this File</Position>
+      <TranslationSet>
+        <base loc="en">A Newer Version of iOS is Needed to Edit this File</base>
+        <tran loc="ar">تحتاج إلى إصدار أحدث من iOS لتحرير هذا الملف.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Last line of status text in Folder Sharing header--sharing status </Description>
+      <Position>SHARED_BY_ME_TEXT</Position>
+      <TranslationSet>
+        <base loc="en">Shared by Me</base>
+        <tran loc="ar">تمت المشاركة بواسطتي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Document picker share owner subtitle for own (outgoing) shares </Description>
+      <Position>Shared by Me</Position>
+      <TranslationSet>
+        <base loc="en">Shared by Me</base>
+        <tran loc="ar">تمت المشاركة بواسطتي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> iCloud File Action </Description>
+      <Position>Delete...</Position>
+      <TranslationSet>
+        <base loc="en">Delete…</base>
+        <tran loc="ar">حذف…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Document pickers unavailable text first paragraph </Description>
+      <Position>NO_ICLOUD_DISABLED_TEXT</Position>
+      <TranslationSet>
+        <base loc="en">Documents in iCloud Drive are not available because the iCloud Drive setting is disabled.</base>
+        <tran loc="ar">المستندات في iCloud Drive غير متوفرة لأن إعداد iCloud Drive تم تعطيله.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> message change from public to acl </Description>
+      <Position>SETTINGS_SWITCH_TO_ACL_MESSAGE_NOTE</Position>
+      <TranslationSet>
+        <base loc="en">Everyone will be removed from this note and it will be deleted from all of their devices.</base>
+        <tran loc="ar">ستتم إزالة الجميع من هذه الملاحظة، وسيتم حذفها من جميع الأجهزة الخاصة بهم.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> iCloud sharing error action </Description>
+      <Position>ERROR_ACTION_DEFAULT</Position>
+      <TranslationSet>
+        <base loc="en">OK</base>
+        <tran loc="ar">موافق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> ok button title </Description>
+      <Position>OK</Position>
+      <TranslationSet>
+        <base loc="en">OK</base>
+        <tran loc="ar">موافق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> iCloud sharing stop sharing as owner action </Description>
+      <Position>STOP_SHARING_OK_TEXT</Position>
+      <TranslationSet>
+        <base loc="en">OK</base>
+        <tran loc="ar">موافق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Message for remove last participant alert </Description>
+      <Position>Removing the only invited participant will stop sharing.</Position>
+      <TranslationSet>
+        <base loc="en">Removing the only invited participant will stop sharing.</base>
+        <tran loc="ar">ستؤدي إزالة المشارك الوحيد المدعو إلى إيقاف المشاركة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> settings title </Description>
+      <Position>Anyone with the link</Position>
+      <TranslationSet>
+        <base loc="en">Anyone with the link</base>
+        <tran loc="ar">أي شخص لديه الرابط</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Document pickers unavailable button </Description>
+      <Position>Enable iCloud Drive</Position>
+      <TranslationSet>
+        <base loc="en">Enable iCloud Drive</base>
+        <tran loc="ar">تمكين iCloud Drive</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Rename in move to flow action </Description>
+      <Position>Rename</Position>
+      <TranslationSet>
+        <base loc="en">Rename</base>
+        <tran loc="ar">إعادة تسمية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> iCloud sharing error message </Description>
+      <Position>ERROR_MESSAGE_MAID_NOTE</Position>
+      <TranslationSet>
+        <base loc="en">This account has restrictions on the people you can share notes with.</base>
+        <tran loc="ar">يشتمل هذا الحساب على قيود بشأن الأشخاص الذين يمكنك مشاركة الملاحظات معهم.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> message change from public to acl </Description>
+      <Position>SETTINGS_SWITCH_TO_ACL_MESSAGE</Position>
+      <TranslationSet>
+        <base loc="en">Only you will have access to “%@” until you invite people.</base>
+        <tran loc="ar">أنت فقط سيمكنك الوصول إلى "%@" حتى تقوم بدعوة أشخاص.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> copy link action for owner subshare (parameter is always the folder name) </Description>
+      <Position>SETTINGS_COPY_LINK_SUBFOLDERTITLE_PUBLIC</Position>
+      <TranslationSet>
+        <base loc="en">Only people in the shared folder “%@” can use the link to access this item.</base>
+        <tran loc="ar">الأشخاص المدعوون في المجلد المشترك "%@" هم فقط الذين يمكنهم استخدام الرابط للوصول إلى هذا العنصر.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Document picker target selection title. </Description>
+      <Position>Choose a new location to move these items.</Position>
+      <TranslationSet>
+        <base loc="en">Choose a new location to move these items.</base>
+        <tran loc="ar">اختر موقعًا جديدًا لنقل هذه العناصر إليه.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Additional actions for iCloud items </Description>
+      <Position>More</Position>
+      <TranslationSet>
+        <base loc="en">More</base>
+        <tran loc="ar">المزيد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> iCloud sharing information text for document within a shared folder hierarchy </Description>
+      <Position>NON_ROOT_ITEM_INSTRUCTIONS_PUBLIC</Position>
+      <TranslationSet>
+        <base loc="en">Go to the folder’s share options to change access or editing permissions.</base>
+        <tran loc="ar">انتقل إلى خيارات المشاركة الخاصة بالمجلد لتغيير أذون الوصول أو التحرير.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> iCloud sharing stop sharing as owner title </Description>
+      <Position>STOP_SHARING_MESSAGE_TEXT_SPREADSHEET</Position>
+      <TranslationSet>
+        <base loc="en">If you stop sharing, other people will no longer have access to this spreadsheet and it will be deleted from iCloud Drive on all of their devices.</base>
+        <tran loc="ar">إذا قمت بإيقاف المشاركة، فلن يتمكن الأشخاص الآخرون من الوصول إلى جدول البيانات هذا مجددًا وسيتم حذفه من iCloud Drive على جميع الأجهزة الخاصة بهم.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> iCloud sharing uploading status text </Description>
+      <Position>PROGRESS_UPLOADING_TEXT</Position>
+      <TranslationSet>
+        <base loc="en">Uploading</base>
+        <tran loc="ar">جاري التحميل</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> iCloud sharing settings detail text for ACL </Description>
+      <Position>SETTINGS_DETAIL_ACL_RO_SUMMARY_TEXT</Position>
+      <TranslationSet>
+        <base loc="en">Only people you invite can view.</base>
+        <tran loc="ar">الأشخاص الذين تدعوهم فقط يمكنهم المشاهدة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> icloud sharing settings header (parameter is always the owner's name) </Description>
+      <Position>SETTINGS_ONLY_PEOPLE_INVITED_CAN_ACCESS_DOCUMENT</Position>
+      <TranslationSet>
+        <base loc="en">Only people %@ invited will have access to this document.</base>
+        <tran loc="ar">الأشخاص الذين يدعوهم %@ فقط سيمكنهم الوصول إلى هذا المستند.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Upload error on doc picker file </Description>
+      <Position>Error</Position>
+      <TranslationSet>
+        <base loc="en">Error</base>
+        <tran loc="ar">خطأ</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> iCloud sharing cancel button in alerts </Description>
+      <Position>ALERT_CANCEL_BUTTON_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Cancel</base>
+        <tran loc="ar">إلغاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Alert button title
+   cancel button title
+   Cancel in move to flow action
+   Cancel showing Locations menu
+   Document picker moving shared file as owner action
+   iCloud File Action
+   Sync blocked warning action </Description>
+      <Position>Cancel</Position>
+      <TranslationSet>
+        <base loc="en">Cancel</base>
+        <tran loc="ar">إلغاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> iCloud sharing leave share as participant action </Description>
+      <Position>LEAVE_SHARE_CANCEL_TEXT</Position>
+      <TranslationSet>
+        <base loc="en">Cancel</base>
+        <tran loc="ar">إلغاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> iCloud sharing stop sharing as owner action </Description>
+      <Position>STOP_SHARING_CANCEL_TEXT</Position>
+      <TranslationSet>
+        <base loc="en">Cancel</base>
+        <tran loc="ar">إلغاء</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> UI value for modified date &lt; 1 minute </Description>
+      <Position>modified less than a minute ago</Position>
+      <TranslationSet>
+        <base loc="en">modified less than a minute ago</base>
+        <tran loc="ar">تم التعديل منذ أقل من دقيقة واحدة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> message change from public to acl </Description>
+      <Position>SETTINGS_SWITCH_TO_ACL_MESSAGE_SPREADSHEET</Position>
+      <TranslationSet>
+        <base loc="en">Everyone will be removed from this spreadsheet and it will be deleted from iCloud Drive on all of their devices.</base>
+        <tran loc="ar">ستتم إزالة الجميع من جدول البيانات هذا، وسيتم حذفه من iCloud Drive على جميع الأجهزة الخاصة بهم.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> copy link action for collab subshare (1st parameter is owner name, 2nd parameter is always the folder name) </Description>
+      <Position>SETTINGS_COPY_LINK_SUBFOLDERTITLE_COLLAB_PRIVATE_SPREADSHEET</Position>
+      <TranslationSet>
+        <base loc="en">Only people %@ invited to the shared folder “%@” can use the link to access this spreadsheet.</base>
+        <tran loc="ar">الأشخاص المدعوون إلى المجلد المشترك "%2$@" بواسطة %1$@ هم فقط الذين يمكنهم استخدام الرابط للوصول إلى جدول البيانات هذا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> icloud sharing settings header (parameter is always the owner's name) </Description>
+      <Position>SETTINGS_ONLY_OWNER_CAN_CHANGE</Position>
+      <TranslationSet>
+        <base loc="en">Only %@ can invite people.</base>
+        <tran loc="ar">بإمكان %@ فقط دعوة الأشخاص.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> iCloud sharing error title </Description>
+      <Position>ERROR_TITLE_COULD_NOT_ADD_PARTICIPANTS</Position>
+      <TranslationSet>
+        <base loc="en">Couldn’t Add People</base>
+        <tran loc="ar">تعذرت إضافة أشخاص</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> icloud sharing settings header (parameter is always the owner's name) </Description>
+      <Position>SETTINGS_ONLY_PEOPLE_INVITED_CAN_ACCESS_SPREADSHEET</Position>
+      <TranslationSet>
+        <base loc="en">Only people %@ invited will have access to this spreadsheet.</base>
+        <tran loc="ar">الأشخاص الذين يدعوهم %@ فقط سيمكنهم الوصول إلى جدول البيانات هذا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> UI value for modified date years </Description>
+      <Position>modified %lu years ago</Position>
+      <TranslationSet>
+        <base loc="en">modified %lu years ago</base>
+        <tran loc="ar">تم التعديل منذ %lu من السنوات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> iCloud sharing participant (anyone else if there are participants) </Description>
+      <Position>PARTICIPANT_ANYONE_ELSE_TEXT</Position>
+      <TranslationSet>
+        <base loc="en">Anyone else</base>
+        <tran loc="ar">أي شخص آخر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Doc picker disabled description Open mode </Description>
+      <Position>Doesn’t support opening files</Position>
+      <TranslationSet>
+        <base loc="en">Doesn’t support opening files</base>
+        <tran loc="ar">لا يدعم فتح الملفات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> iCloud sharing information text for document within a shared folder hierarchy </Description>
+      <Position>NON_ROOT_ITEM_PARTICIPANT_INFORMATION_TEXT</Position>
+      <TranslationSet>
+        <base loc="en">This item is in a shared folder.</base>
+        <tran loc="ar">هذا العنصر موجود في مجلد مشترك.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Documents folder name </Description>
+      <Position>Documents</Position>
+      <TranslationSet>
+        <base loc="en">Documents</base>
+        <tran loc="ar">المستندات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Local documents container title </Description>
+      <Position>Local documents</Position>
+      <TranslationSet>
+        <base loc="en">Local documents</base>
+        <tran loc="ar">مستندات محلية</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Document picker failed to launch 3rd party doc picker error title w/ picker name </Description>
+      <Position>Failed to launch “%@”</Position>
+      <TranslationSet>
+        <base loc="en">Failed to launch “%@”</base>
+        <tran loc="ar">فشل بدء تشغيل "%@"</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> iCloud File Action </Description>
+      <Position>Move...</Position>
+      <TranslationSet>
+        <base loc="en">Move…</base>
+        <tran loc="ar">نقل…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Bar button item for 3rd party activity Add Participant
+   button title for switch to acl </Description>
+      <Position>Continue</Position>
+      <TranslationSet>
+        <base loc="en">Continue</base>
+        <tran loc="ar">متابعة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> iCloud sharing leave share as participant action </Description>
+      <Position>LEAVE_SHARE_CONTINUE_TEXT</Position>
+      <TranslationSet>
+        <base loc="en">Continue</base>
+        <tran loc="ar">متابعة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Document picker moving shared file as recipient title </Description>
+      <Position>You cannot move this document</Position>
+      <TranslationSet>
+        <base loc="en">You cannot move this document</base>
+        <tran loc="ar">لا يمكنك نقل هذا المستند</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> UI value for modified date days </Description>
+      <Position>modified %lu days ago</Position>
+      <TranslationSet>
+        <base loc="en">modified %lu days ago</base>
+        <tran loc="ar">تم التعديل منذ %lu من الأيام</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> iCloud sharing participant (orgAdmin user) </Description>
+      <Position>PARTICIPANT_ORG_ADMIN_TEXT</Position>
+      <TranslationSet>
+        <base loc="en">Your Organization</base>
+        <tran loc="ar">مؤسستك</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> copy link action subtitle </Description>
+      <Position>SETTINGS_COPY_LINK_SUBTITLE_NOTE</Position>
+      <TranslationSet>
+        <base loc="en">Only people you invited will be able to access your note.</base>
+        <tran loc="ar">الأشخاص الذين قمت بدعوتهم فقط سيتمكنون من الوصول إلى الملاحظة الخاصة بك.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> iCloud sharing participant status </Description>
+      <Position>PARTICIPANT_STATUS_TEXT_WAITING</Position>
+      <TranslationSet>
+        <base loc="en">Invited</base>
+        <tran loc="ar">تمت الدعوة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> iCloud sharing copy link action item </Description>
+      <Position>SEND_LINK_ACTION_TEXT</Position>
+      <TranslationSet>
+        <base loc="en">Send Link</base>
+        <tran loc="ar">إرسال الرابط</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> iCloud sharing title for resend if public </Description>
+      <Position>SHARE_RESEND_PUBLIC_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Send Link</base>
+        <tran loc="ar">إرسال الرابط</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> iCloud sharing scouldn't copy link as participant message </Description>
+      <Position>COULD_NOT_COPY_LINK_MESSAGE_TEXT_DOCUMENT</Position>
+      <TranslationSet>
+        <base loc="en">Sorry, the document link couldn’t be copied.</base>
+        <tran loc="ar">عذرًا، تعذر نسخ رابط المستند.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Blocking download alert message; placeholders are file sizes </Description>
+      <Position>%@ of %@ downloaded</Position>
+      <TranslationSet>
+        <base loc="en">%1$@ of %2$@ downloaded</base>
+        <tran loc="ar">تم تنزيل %1$@ من %2$@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> iCloud File Action </Description>
+      <Position>Info</Position>
+      <TranslationSet>
+        <base loc="en">Info</base>
+        <tran loc="ar">معلومات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> iCloud sharing title for participant info </Description>
+      <Position>PARTICIPANT_INFO_TITLE_TEXT</Position>
+      <TranslationSet>
+        <base loc="en">Info</base>
+        <tran loc="ar">معلومات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> iCloud sharing saving share after mail/message text </Description>
+      <Position>PROGRESS_FINISHING_TEXT</Position>
+      <TranslationSet>
+        <base loc="en">Finishing up…</base>
+        <tran loc="ar">جاري الإنهاء…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> iCloud sharing stop sharing as owner title </Description>
+      <Position>STOP_SHARING_TITLE_TEXT</Position>
+      <TranslationSet>
+        <base loc="en">Stop Sharing?</base>
+        <tran loc="ar">إيقاف المشاركة؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Document picker failed to extend sandbox error action
+   Document picker failed to launch 3rd party doc picker error action
+   File copy failed in move to flow action </Description>
+      <Position>Dismiss</Position>
+      <TranslationSet>
+        <base loc="en">Dismiss</base>
+        <tran loc="ar">استبعاد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> iCloud sharing on old Pages text </Description>
+      <Position>IWORK_LEGACY_TEXT_NUMBERS</Position>
+      <TranslationSet>
+        <base loc="en">To share this spreadsheet, get the latest version of Numbers from the App Store.</base>
+        <tran loc="ar">لمشاركة جدول البيانات هذا، يجب الحصول على أحدث إصدارات Numbers من الـ App Store.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> copy link action for owner subshare (parameter is always the folder name) </Description>
+      <Position>SETTINGS_COPY_LINK_SUBFOLDERTITLE_PUBLIC_NOTE</Position>
+      <TranslationSet>
+        <base loc="en">Only people in the shared folder “%@” can use the link to access this note.</base>
+        <tran loc="ar">الأشخاص المدعوون في المجلد المشترك "%@" هم فقط الذين يمكنهم استخدام الرابط للوصول إلى هذه الملاحظة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> iCloud sharing copy link action footer </Description>
+      <Position>COPY_LINK_FOOTER_ACL_TEXT</Position>
+      <TranslationSet>
+        <base loc="en">Anyone with the link will be able to access.</base>
+        <tran loc="ar">أي شخص لديه الرابط سيكون قادرًا على الوصول.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Document picker selection popover button </Description>
+      <Position>Locations</Position>
+      <TranslationSet>
+        <base loc="en">Locations</base>
+        <tran loc="ar">المواقع</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> iCloud sharing on old applications text </Description>
+      <Position>LEGACY_TEXT_OTHER</Position>
+      <TranslationSet>
+        <base loc="en">This application is too old and does not support this type of sharing. An update may be available.</base>
+        <tran loc="ar">هذا التطبيق قديم جدًا ولا يدعم مثل هذه المشاركة. قد يتوفر تحديث للتطبيق.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> iCloud sharing couldn't copy link as participant message </Description>
+      <Position>COULD_NOT_COPY_LINK_MESSAGE_TEXT_FOLDER</Position>
+      <TranslationSet>
+        <base loc="en">Sorry, the folder link couldn’t be copied.</base>
+        <tran loc="ar">عذرًا، تعذر نسخ رابط المجلد.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> iCloud sharing information text for document within a shared folder hierarchy </Description>
+      <Position>NON_ROOT_ITEM_INFORMATION_TEXT</Position>
+      <TranslationSet>
+        <base loc="en">This item is in a shared folder. %@</base>
+        <tran loc="ar">هذا العنصر موجود في مجلد مشترك. ‏%@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> copy link action subtitle </Description>
+      <Position>SETTINGS_COPY_LINK_SUBTITLE_DOCUMENT</Position>
+      <TranslationSet>
+        <base loc="en">Only people you invited will be able to access your document.</base>
+        <tran loc="ar">الأشخاص الذين قمت بدعوتهم فقط سيتمكنون من الوصول إلى المستند الخاص بك.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Document iCloud not migrated (refused or unknown) second paragraph </Description>
+      <Position>NO_ICLOUD_MIGRATION_TEXT2</Position>
+      <TranslationSet>
+        <base loc="en">Make edits on any device or any app, the most up-to-date version of your document is available everywhere.</base>
+        <tran loc="ar">يمكنك إجراء تعديلات على أي جهاز أو أي تطبيق، حيث سيتوفر أحدث إصدار من المستند الخاص بك في كل مكان.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Sync blocked warning message </Description>
+      <Position>Changes made to this document will not be available on any other devices. Open this document anyway?</Position>
+      <TranslationSet>
+        <base loc="en">Changes made to this document will not be available on any other devices. Open this document anyway?</base>
+        <tran loc="ar">لن تتوفر التغييرات التي تمت في هذا المستد على أية أجهزة أخرى. فتح هذا المستند على أي حال؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> iCloud File Action </Description>
+      <Position>Share...</Position>
+      <TranslationSet>
+        <base loc="en">Share…</base>
+        <tran loc="ar">مشاركة…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> iCloud sharing information text for document within a shared folder hierarchy </Description>
+      <Position>NON_ROOT_ITEM_INFORMATION_TEXT_FOLDER</Position>
+      <TranslationSet>
+        <base loc="en">This folder is in a shared folder. %@</base>
+        <tran loc="ar">هذا المجلد موجود في مجلد مشترك. ‏%@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> iCloud sharing settings detail text for ACL </Description>
+      <Position>SETTINGS_DETAIL_ACL_RO_TEXT</Position>
+      <TranslationSet>
+        <base loc="en">People you invite can view.</base>
+        <tran loc="ar">الأشخاص الذين تدعوهم يمكنهم المشاهدة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> iCloud sharing leave share as participant message </Description>
+      <Position>LEAVE_SHARE_MESSAGE_TEXT_DOCUMENT</Position>
+      <TranslationSet>
+        <base loc="en">Removing yourself from this shared document will delete the document from iCloud Drive on all your devices.</base>
+        <tran loc="ar">إزالة نفسك من هذا المستند المشترك ستؤدي إلى حذف المستند من iCloud Drive على جميع أجهزتك.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> iCloud sharing initial info label </Description>
+      <Position>SHARE_INITIAL_INFO_LABEL_FOLDER</Position>
+      <TranslationSet>
+        <base loc="en">Add people to this folder and everyone will see the latest changes.</base>
+        <tran loc="ar">أضِف أشخاصًا إلى هذا المجلد، وسيتمكن الجميع من رؤية آخر التغييرات.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> iCloud sharing initial info label </Description>
+      <Position>SHARE_INITIAL_INFO_LABEL_NOTES_FOLDER</Position>
+      <TranslationSet>
+        <base loc="en">Add people to this folder and everyone will see the latest changes.</base>
+        <tran loc="ar">أضِف أشخاصًا إلى هذا المجلد، وسيتمكن الجميع من رؤية آخر التغييرات.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Remove participant from share </Description>
+      <Position>Remove</Position>
+      <TranslationSet>
+        <base loc="en">Remove</base>
+        <tran loc="ar">إزالة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> THIS IS AN AUTOGENERATED FILE! DO NOT EDIT IT! RUN THE tools/generate_strings_file.sh SCRIPT INSTEAD! 
+ Document picker target selection items </Description>
+      <Position>%@ &amp; %lu more…</Position>
+      <TranslationSet>
+        <base loc="en">%1$@ &amp; %2$lu more…</base>
+        <tran loc="ar">‏%1$@ و %2$lu إضافية…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Last line of status text in Folder Sharing header--sharing status </Description>
+      <Position>SHARED_BY_UNKNOWN_OTHER_TEXT</Position>
+      <TranslationSet>
+        <base loc="en">Shared</base>
+        <tran loc="ar">مشترك</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> copy link action for owner subshare (parameter is always the folder name) </Description>
+      <Position>SETTINGS_COPY_LINK_SUBFOLDERTITLE_PRIVATE</Position>
+      <TranslationSet>
+        <base loc="en">Only people you invited to the shared folder “%@” can use the link to access this item.</base>
+        <tran loc="ar">الأشخاص الذين دعوتهم إلى المجلد المشترك "%@" هم فقط الذين يمكنهم استخدام الرابط للوصول إلى هذا العنصر.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> iCloud sharing error message </Description>
+      <Position>ERROR_MESSAGE_TOO_MANY_PARTICIPANTS</Position>
+      <TranslationSet>
+        <base loc="en">New invitations can’t be sent. Reduce the number of people you’re inviting or have previously invited, then try again.</base>
+        <tran loc="ar">لا يمكن إرسال الدعوات الجديدة. قم بتقليل عدد الأشخاص الذين تدعوهم أو دعوتهم سابقًا، ثم حاول مرة أخرى.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> iCloud sharing leave share as participant message </Description>
+      <Position>LEAVE_SHARE_MESSAGE_TEXT_SPREADSHEET</Position>
+      <TranslationSet>
+        <base loc="en">Removing yourself from this shared spreadsheet will delete the document from iCloud Drive on all your devices.</base>
+        <tran loc="ar">إزالة نفسك من جدول البيانات المشترك هذا ستؤدي إلى حذف المستند من iCloud Drive على جميع أجهزتك.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> iCloud sharing network unreachable subtitle before sharing </Description>
+      <Position>NETWORK_UNREACHABLE_INITIAL_SUBTITLE</Position>
+      <TranslationSet>
+        <base loc="en">Check your Internet connection.</base>
+        <tran loc="ar">تحقق من الاتصال بالإنترنت لديك.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> iCloud sharing network unreachable subtitle after sharing </Description>
+      <Position>NETWORK_UNREACHABLE_SUBTITLE</Position>
+      <TranslationSet>
+        <base loc="en">Check your Internet connection.</base>
+        <tran loc="ar">تحقق من الاتصال بالإنترنت لديك.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Date sort segment in doc picker </Description>
+      <Position>Date[sort option]</Position>
+      <TranslationSet>
+        <base loc="en">Date</base>
+        <tran loc="ar">التاريخ</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> iCloud sharing on old iWork title </Description>
+      <Position>IWORK_LEGACY_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Time to Update</base>
+        <tran loc="ar">حان وقت التحديث</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> copy link action for collab subshare (1st parameter is owner name, 2nd parameter is always the folder name) </Description>
+      <Position>SETTINGS_COPY_LINK_SUBFOLDERTITLE_COLLAB_PRIVATE_NOTE</Position>
+      <TranslationSet>
+        <base loc="en">Only people %@ invited to the shared folder “%@” can use the link to access this note.</base>
+        <tran loc="ar">الأشخاص المدعوون إلى المجلد المشترك "%2$@" بواسطة %1$@ هم فقط الذين يمكنهم استخدام الرابط للوصول إلى هذه الملاحظة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> iCloud sharing stop sharing action item </Description>
+      <Position>STOP_SHARING_ACTION_TEXT</Position>
+      <TranslationSet>
+        <base loc="en">Stop Sharing</base>
+        <tran loc="ar">إيقاف المشاركة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Share invitation mail body template </Description>
+      <Position>MAIL_TEMPLATE_BODY_NOTE</Position>
+      <TranslationSet>
+        <base loc="en">&lt;br&gt;&lt;br&gt;Open my shared note:&lt;br&gt;&lt;br&gt;#LINK_FRAGMENT#</base>
+        <tran loc="ar">‏&lt;br&gt;&lt;br&gt;افتح ملاحظتي المشتركة:&lt;br&gt;&lt;br&gt;#LINK_FRAGMENT#</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> iCloud sharing stop sharing as owner title </Description>
+      <Position>STOP_SHARING_MESSAGE_TEXT_NOTES_FOLDER</Position>
+      <TranslationSet>
+        <base loc="en">If you stop sharing, other people will no longer have access to this folder or any notes within it. It will be deleted from all of their devices.</base>
+        <tran loc="ar">إذا أوقفت المشاركة، فلن يتمكن الأشخاص الآخرون من الوصول إلى هذا المجلد أو أية ملاحظات بداخله، وسيتم حذفها من جميع أجهزتهم.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Middle line of status text in Folder Sharing header--only appears for sub-items inside a folder share </Description>
+      <Position>SHARED_WITHIN_TEXT</Position>
+      <TranslationSet>
+        <base loc="en">Shared Folder: %@</base>
+        <tran loc="ar">المجلد المشترك: %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Desktop folder name </Description>
+      <Position>Desktop</Position>
+      <TranslationSet>
+        <base loc="en">Desktop</base>
+        <tran loc="ar">سطح المكتب</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> iCloud sharing network unreachable title before sharing </Description>
+      <Position>NETWORK_UNREACHABLE_INITIAL_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">You’re Offline</base>
+        <tran loc="ar">أنت غير متصل بالإنترنت</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> iCloud sharing network unreachable title after sharing </Description>
+      <Position>NETWORK_UNREACHABLE_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">You’re Offline</base>
+        <tran loc="ar">أنت غير متصل بالإنترنت</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> iCloud sharing leave share as participant message </Description>
+      <Position>LEAVE_SHARE_MESSAGE_TEXT_CLOUDKIT</Position>
+      <TranslationSet>
+        <base loc="en">This will remove you from “%@”.</base>
+        <tran loc="ar">سيؤدي هذا إلى إزالتك من "%@".</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> iCloud sharing public permission </Description>
+      <Position>PUBLIC_PERMISSION_RO_TEXT</Position>
+      <TranslationSet>
+        <base loc="en">Can view</base>
+        <tran loc="ar">بإمكانه المشاهدة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Document picker moving shared file as owner text </Description>
+      <Position>This document is shared. Moving it to a different location will stop sharing the document. You can share again from the new location.</Position>
+      <TranslationSet>
+        <base loc="en">This document is shared. Moving it to a different location will stop sharing the document. You can share again from the new location.</base>
+        <tran loc="ar">هذا الملف مشترك. سيؤدي نقله إلى موقع مختلف إلى إيقاف مشاركة المستند. يمكنك مشاركته مرة أخرى من الموقع الجديد.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> copy link action subtitle </Description>
+      <Position>SETTINGS_COPY_LINK_SUBTITLE</Position>
+      <TranslationSet>
+        <base loc="en">Only people you invited will have access.</base>
+        <tran loc="ar">الأشخاص الذين تدعوهم فقط سيمكنهم الوصول.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Document picker share owner subtitle; unknown user (bug) </Description>
+      <Position>Shared by unknown user</Position>
+      <TranslationSet>
+        <base loc="en">Shared by unknown user</base>
+        <tran loc="ar">تمت المشاركة بواسطة مستخدم غير معروف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Debug File Action </Description>
+      <Position>Debug...</Position>
+      <TranslationSet>
+        <base loc="en">Debug…</base>
+        <tran loc="ar">تصحيح الأخطاء…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> iCloud sharing error title </Description>
+      <Position>ERROR_TITLE_INITIAL_DEFAULT</Position>
+      <TranslationSet>
+        <base loc="en">Sorry, this document can’t be shared right now.</base>
+        <tran loc="ar">عذرًا، لا يمكن مشاركة هذا المستند الآن.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> iCloud sharing on old Pages text </Description>
+      <Position>IWORK_LEGACY_TEXT_PAGES</Position>
+      <TranslationSet>
+        <base loc="en">To share this document, get the latest version of Pages from the App Store.</base>
+        <tran loc="ar">لمشاركة هذا المستند، يجب الحصول على أحدث إصدارات Pages من الـ App Store.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> iCloud sharing participant status </Description>
+      <Position>PARTICIPANT_STATUS_TEXT_VIEW_ONLY</Position>
+      <TranslationSet>
+        <base loc="en">View only</base>
+        <tran loc="ar">عرض فقط</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> settings title </Description>
+      <Position>View only</Position>
+      <TranslationSet>
+        <base loc="en">View only</base>
+        <tran loc="ar">عرض فقط</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> iCloud sharing alert message when attempting to share a folder that contains unidentified shared items </Description>
+      <Position>ALERT_EXISTING_SHARED_ITEMS_MESSAGE_UNKNOWN_ITEMS</Position>
+      <TranslationSet>
+        <base loc="en">This folder already contains shared items. People who currently have access to these items may lose it.</base>
+        <tran loc="ar">يحتوي هذا المجلد على عناصر مشتركة بالفعل. قد يفقد الأشخاص الذين لديهم حق الوصول إلى هذه العناصر هذا الحق.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> copy link action for owner subshare (parameter is always the folder name) </Description>
+      <Position>SETTINGS_COPY_LINK_SUBFOLDERTITLE_PUBLIC_SPREADSHEET</Position>
+      <TranslationSet>
+        <base loc="en">Only people in the shared folder “%@” can use the link to access this spreadsheet.</base>
+        <tran loc="ar">الأشخاص المدعوون في المجلد المشترك "%@" هم فقط الذين يمكنهم استخدام الرابط للوصول إلى جدول البيانات هذا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> iCloud sharing leave share as participant title </Description>
+      <Position>LEAVE_SHARE_TITLE_TEXT</Position>
+      <TranslationSet>
+        <base loc="en">Remove Yourself?</base>
+        <tran loc="ar">هل تريد إزالة نفسك؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> iCloud sharing initial info label </Description>
+      <Position>SHARE_INITIAL_INFO_LABEL</Position>
+      <TranslationSet>
+        <base loc="en">Invite people to collaborate with you. Everyone will see the latest changes.</base>
+        <tran loc="ar">قم بدعوة الأشخاص للتعاون معك، وسيتمكن الجميع من رؤية آخر التغييرات.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> untitled CKShare item title </Description>
+      <Position>Untitled</Position>
+      <TranslationSet>
+        <base loc="en">Untitled</base>
+        <tran loc="ar">بلا عنوان</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> iCloud sharing copy link action footer </Description>
+      <Position>COPY_LINK_FOOTER_PUBLIC_TEXT</Position>
+      <TranslationSet>
+        <base loc="en">Only people you invited will be able to access.</base>
+        <tran loc="ar">من دعوتهم هم فقط الذين سيتمكنون من الوصول.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> iCloud sharing couldn't copy link as participant title </Description>
+      <Position>COULD_NOT_COPY_LINK_TITLE_TEXT</Position>
+      <TranslationSet>
+        <base loc="en">Couldn’t Copy Link</base>
+        <tran loc="ar">تعذر نسخ الرابط</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> iCloud sharing information text for document within a shared folder hierarchy </Description>
+      <Position>NON_ROOT_ITEM_PARTICIPANT_INFORMATION_TEXT_SPREADSHEET</Position>
+      <TranslationSet>
+        <base loc="en">This spreadsheet is in a shared folder.</base>
+        <tran loc="ar">جدول البيانات هذا موجود في مجلد مشترك.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Document pickers unavailable MDM text first paragraph </Description>
+      <Position>NO_ICLOUD_MDM_TEXT</Position>
+      <TranslationSet>
+        <base loc="en">Access to iCloud documents has been disabled by a device management profile.</base>
+        <tran loc="ar">تم تعطيل الوصول إلى مستندات iCloud بواسطة ملف تعريف إدارة الجهاز.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> iCloud sharing public permission </Description>
+      <Position>PUBLIC_PERMISSION_RW_TEXT</Position>
+      <TranslationSet>
+        <base loc="en">Can edit</base>
+        <tran loc="ar">بإمكانه التحرير</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> iCloud sharing show shared folder action item </Description>
+      <Position>SHOW_FOLDER_ACTION_TEXT</Position>
+      <TranslationSet>
+        <base loc="en">Show Shared Folder</base>
+        <tran loc="ar">عرض المجلّد المشترك</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Document picker moving shared file as owner action </Description>
+      <Position>Move and stop sharing</Position>
+      <TranslationSet>
+        <base loc="en">Move and stop sharing</base>
+        <tran loc="ar">نقل وإيقاف المشاركة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Document picker file with same name exists </Description>
+      <Position>This location already contains a file named %@</Position>
+      <TranslationSet>
+        <base loc="en">This location already contains a file named %@</base>
+        <tran loc="ar">هذا الموقع يحتوي بالفعل على ملف باسم %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> copy link action for owner subshare (parameter is always the folder name) </Description>
+      <Position>SETTINGS_COPY_LINK_SUBFOLDERTITLE_PUBLIC_DOCUMENT</Position>
+      <TranslationSet>
+        <base loc="en">Only people in the shared folder “%@” can use the link to access this document.</base>
+        <tran loc="ar">الأشخاص المدعوون في المجلد المشترك "%@" هم فقط الذين يمكنهم استخدام الرابط للوصول إلى هذا المستند.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> iCloud sharing couldn't copy link as participant message </Description>
+      <Position>COULD_NOT_COPY_LINK_MESSAGE_TEXT</Position>
+      <TranslationSet>
+        <base loc="en">Sorry, the item link couldn’t be copied.</base>
+        <tran loc="ar">عذرًا، تعذر نسخ رابط العنصر.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> iCloud sharing information text for document within a shared folder hierarchy </Description>
+      <Position>NON_ROOT_ITEM_INFORMATION_TEXT_SPREADSHEET</Position>
+      <TranslationSet>
+        <base loc="en">This spreadsheet is in a shared folder. %@</base>
+        <tran loc="ar">جدول البيانات هذا موجود في مجلد مشترك. ‏%@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Share invitation mail body template </Description>
+      <Position>MAIL_TEMPLATE_BODY_PRESENTATION</Position>
+      <TranslationSet>
+        <base loc="en">&lt;br&gt;&lt;br&gt;Open my shared presentation:&lt;br&gt;&lt;br&gt;#LINK_FRAGMENT#</base>
+        <tran loc="ar">‏&lt;br&gt;&lt;br&gt;افتح العرض التقديمي المشترك:&lt;br&gt;&lt;br&gt;#LINK_FRAGMENT#</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> iCloud sharing information text for document within a shared folder hierarchy </Description>
+      <Position>NON_ROOT_ITEM_INFORMATION_TEXT_DOCUMENT</Position>
+      <TranslationSet>
+        <base loc="en">This document is in a shared folder. %@</base>
+        <tran loc="ar">هذا المستند موجود في مجلد مشترك. ‏%@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> copy link action for collab subshare (1st parameter is owner name, 2nd parameter is always the folder name) </Description>
+      <Position>SETTINGS_COPY_LINK_SUBFOLDERTITLE_COLLAB_PRIVATE</Position>
+      <TranslationSet>
+        <base loc="en">Only people %@ invited to the shared folder “%@” can use the link to access this item.</base>
+        <tran loc="ar">الأشخاص المدعوون إلى المجلد المشترك "%2$@" بواسطة %1$@ هم فقط الذين يمكنهم استخدام الرابط للوصول إلى هذا العنصر.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> iCloud sharing error message </Description>
+      <Position>ERROR_MESSAGE_NETWORK_UNAVAILABLE</Position>
+      <TranslationSet>
+        <base loc="en">You can’t manage settings offline. There may be a problem with the server or network. Please try again later. </base>
+        <tran loc="ar">لا يمكنك إدارة الإعدادات دون الاتصال بالإنترنت. قد تكون هناك مشكلة في الخادم أو الشبكة. الرجاء المحاولة مرة أخرى لاحقًا. </tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> iCloud sharing alert message when attempting to share a folder with two shared items inside </Description>
+      <Position>ALERT_EXISTING_SHARED_ITEMS_MESSAGE_TWO_ITEMS</Position>
+      <TranslationSet>
+        <base loc="en">This folder already contains shared items “%1$@” and “%2$@”. People who currently have access to these items may lose it.</base>
+        <tran loc="ar">يحتوي هذا المجلد على العنصرين المشتركين "%1$@" و "%2$@" بالفعل. قد يفقد الأشخاص الذين لديهم حق الوصول إلى هذه العناصر هذا الحق.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> copy link action for owner subshare (parameter is always the folder name) </Description>
+      <Position>SETTINGS_COPY_LINK_SUBFOLDERTITLE_PRIVATE_FOLDER</Position>
+      <TranslationSet>
+        <base loc="en">Only people you invited to the shared folder “%@” can use the link to access this folder.</base>
+        <tran loc="ar">الأشخاص الذين دعوتهم إلى المجلد المشترك "%@" هم فقط الذين يمكنهم استخدام الرابط للوصول إلى هذا المجلد.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> icloud sharing settings header (parameter is always the owner's name) </Description>
+      <Position>SETTINGS_ONLY_PEOPLE_INVITED_CAN_ACCESS_NOTE</Position>
+      <TranslationSet>
+        <base loc="en">Only people %@ invited will have access to this note.</base>
+        <tran loc="ar">الأشخاص الذين يدعوهم %@ فقط سيمكنهم الوصول إلى هذه الملاحظة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> iCloud sharing initial info label </Description>
+      <Position>SHARE_INITIAL_INFO_LABEL_CLOUDKIT</Position>
+      <TranslationSet>
+        <base loc="en">Share this with others and everyone will see the latest changes.</base>
+        <tran loc="ar">قم بمشاركة هذا العنصر مع الآخرين وسيتمكن الجميع من رؤية آخر التغييرات.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Document pickers icloud drive not available title in view </Description>
+      <Position>No Documents[unavailable view title]</Position>
+      <TranslationSet>
+        <base loc="en">No Documents</base>
+        <tran loc="ar">لا توجد مستندات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> iCloud sharing error title </Description>
+      <Position>ERROR_TITLE_MAID</Position>
+      <TranslationSet>
+        <base loc="en">Couldn’t Complete Request</base>
+        <tran loc="ar">تعذر إكمال الطلب</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> settings title </Description>
+      <Position>Can make changes</Position>
+      <TranslationSet>
+        <base loc="en">Can make changes</base>
+        <tran loc="ar">يمكن إجراء تغييرات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Last line of status text in Folder Sharing header--sharing status </Description>
+      <Position>MODIFIED_BY_ME_TEXT</Position>
+      <TranslationSet>
+        <base loc="en">Modified by Me</base>
+        <tran loc="ar">تم التعديل بواسطتي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> iCloud sharing error message </Description>
+      <Position>ERROR_MESSAGE_MAID_SPREADSHEET</Position>
+      <TranslationSet>
+        <base loc="en">This account has restrictions on the people you can share spreadsheets with.</base>
+        <tran loc="ar">يشتمل هذا الحساب على قيود بشأن الأشخاص الذين يمكنك مشاركة جداول البيانات معهم.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> copy link action for owner subshare (parameter is always the folder name) </Description>
+      <Position>SETTINGS_COPY_LINK_SUBFOLDERTITLE_PRIVATE_NOTE</Position>
+      <TranslationSet>
+        <base loc="en">Only people you invited to the shared folder “%@” can use the link to access this note.</base>
+        <tran loc="ar">الأشخاص الذين دعوتهم إلى المجلد المشترك "%@" هم فقط الذين يمكنهم استخدام الرابط للوصول إلى هذه الملاحظة.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Doc picker disabled description Move mode </Description>
+      <Position>Doesn’t support moving files</Position>
+      <TranslationSet>
+        <base loc="en">Doesn’t support moving files</base>
+        <tran loc="ar">لا يدعم نقل الملفات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Share invitation mail grey text below the brick 
+ Note "iCloud Drive" has a non-breaking space here due to &lt;rdar://problem/51957731&gt; UIMailActivity overrides "iCloud Drive" to be just "iCloud"
+ </Description>
+      <Position>MAIL_TEMPLATE_BRICK_ICLOUD_DRIVE</Position>
+      <TranslationSet>
+        <base loc="en">iCloud Drive</base>
+        <tran loc="ar">iCloud Drive</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> copy link action subtitle </Description>
+      <Position>SETTINGS_COPY_LINK_SUBTITLE_SPREADSHEET</Position>
+      <TranslationSet>
+        <base loc="en">Only people you invited will be able to access your spreadsheet.</base>
+        <tran loc="ar">الأشخاص الذين قمت بدعوتهم فقط سيتمكنون من الوصول إلى جدول البيانات الخاص بك.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> iCloud sharing information text for document within a shared folder hierarchy </Description>
+      <Position>NON_ROOT_ITEM_INFORMATION_TEXT_NOTE</Position>
+      <TranslationSet>
+        <base loc="en">This note is in a shared folder. %@</base>
+        <tran loc="ar">هذه الملاحظة موجودة في مجلد مشترك. ‏%@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> iCloud sharing share button in alerts </Description>
+      <Position>ALERT_SHARE_BUTTON_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Share</base>
+        <tran loc="ar">مشاركة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> copy link action for owner subshare (parameter is always the folder name) </Description>
+      <Position>SETTINGS_COPY_LINK_SUBFOLDERTITLE_PRIVATE_DOCUMENT</Position>
+      <TranslationSet>
+        <base loc="en">Only people you invited to the shared folder “%@” can use the link to access this document.</base>
+        <tran loc="ar">الأشخاص الذين دعوتهم إلى المجلد المشترك "%@" هم فقط الذين يمكنهم استخدام الرابط للوصول إلى هذا المستند.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> iCloud sharing information text for document within a shared folder hierarchy </Description>
+      <Position>NON_ROOT_ITEM_PARTICIPANT_INFORMATION_TEXT_NOTE</Position>
+      <TranslationSet>
+        <base loc="en">This note is in a shared folder.</base>
+        <tran loc="ar">هذه الملاحظة موجودة في مجلد مشترك.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> iCloud sharing settings action item </Description>
+      <Position>SETTINGS_ACTION_TEXT</Position>
+      <TranslationSet>
+        <base loc="en">Share Options</base>
+        <tran loc="ar">خيارات المشاركة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> iCloud sharing overview title, modern, pre- and post-share </Description>
+      <Position>SETTINGS_TITLE_TEXT</Position>
+      <TranslationSet>
+        <base loc="en">Share Options</base>
+        <tran loc="ar">خيارات المشاركة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Document picker failed to find file provider component error description </Description>
+      <Position>File provider component not found</Position>
+      <TranslationSet>
+        <base loc="en">File provider component not found</base>
+        <tran loc="ar">لم يتم العثور على مكون موفر الملف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> iCloud sharing alert title when attempting to share a folder with shared items inside </Description>
+      <Position>ALERT_EXISTING_SHARED_ITEMS_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Sharing this folder will change who can read and edit all items within it.</base>
+        <tran loc="ar">سيؤدي مشاركة هذا المجلد لتغيير الأشخاص الذين يستطيعون قراءة وتحرير جميع العناصر في المجلد.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> iCloud sharing participant (current user); parameter is localized name </Description>
+      <Position>PARTICIPANT_ME_TEXT</Position>
+      <TranslationSet>
+        <base loc="en">%@ (Me)</base>
+        <tran loc="ar">‏%@ (أنا)</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Doc picker disabled description Export mode </Description>
+      <Position>Doesn’t support exporting files</Position>
+      <TranslationSet>
+        <base loc="en">Doesn’t support exporting files</base>
+        <tran loc="ar">لا يدعم تصدير الملفات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Document picker target selection items </Description>
+      <Position>%@, %@ &amp; %lu more…</Position>
+      <TranslationSet>
+        <base loc="en">%1$@, %2$@ &amp; %3$lu more…</base>
+        <tran loc="ar">‏%1$@، و%2$@، و%3$lu إضافية…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Share invitation mail body template </Description>
+      <Position>MAIL_TEMPLATE_BODY_SPREADSHEET</Position>
+      <TranslationSet>
+        <base loc="en">&lt;br&gt;&lt;br&gt;Open my shared spreadsheet:&lt;br&gt;&lt;br&gt;#LINK_FRAGMENT#</base>
+        <tran loc="ar">‏&lt;br&gt;&lt;br&gt;افتح جدول البيانات المشترك:&lt;br&gt;&lt;br&gt;#LINK_FRAGMENT#</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> iCloud sharing settings detail text for public sharing </Description>
+      <Position>SETTINGS_DETAIL_PUBLIC_RW_TEXT</Position>
+      <TranslationSet>
+        <base loc="en">Anyone with the link can make changes.</base>
+        <tran loc="ar">أي شخص لديه الرابط يمكنه إجراء تغييرات.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> status text mixed state </Description>
+      <Position>Some people can make changes, others can only view.</Position>
+      <TranslationSet>
+        <base loc="en">Some people can make changes, others can only view.</base>
+        <tran loc="ar">بعض الأشخاص يمكنهم إجراء تغييرات، والبعض الآخر يمكنهم المشاهدة فقط.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> iCloud sharing on old Pages text </Description>
+      <Position>IWORK_LEGACY_TEXT_KEYNOTE</Position>
+      <TranslationSet>
+        <base loc="en">To share this presentation, get the latest version of Keynote from the App Store.</base>
+        <tran loc="ar">لمشاركة هذا العرض التقديمي، يجب الحصول على أحدث إصدارات Keynote من الـ App Store.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Document picker file exists export message </Description>
+      <Position>Would you like to rename the file you are about to export?</Position>
+      <TranslationSet>
+        <base loc="en">Would you like to rename the file you are about to export?</base>
+        <tran loc="ar">هل ترغب في إعادة تسمية الملف الذي أنت بصدد تصديره؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> title change from public to acl </Description>
+      <Position>SETTINGS_SWITCH_TO_ACL_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">Change to Invite Only?</base>
+        <tran loc="ar">تغيير إلى دعوة فقط؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> copy link action for owner subshare (parameter is always the folder name) </Description>
+      <Position>SETTINGS_COPY_LINK_SUBFOLDERTITLE_PUBLIC_PRESENTATION</Position>
+      <TranslationSet>
+        <base loc="en">Only people in the shared folder “%@” can use the link to access this presentation.</base>
+        <tran loc="ar">الأشخاص المدعوون في المجلد المشترك "%@" هم فقط الذين يمكنهم استخدام الرابط للوصول إلى هذا العرض التقديمي.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> settings title </Description>
+      <Position>Only people you invite</Position>
+      <TranslationSet>
+        <base loc="en">Only people you invite</base>
+        <tran loc="ar">الأشخاص الذين تدعوهم فقط</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Last line of status text in Folder Sharing header--sharing status </Description>
+      <Position>SHARED_BY_OTHER_TEXT</Position>
+      <TranslationSet>
+        <base loc="en">Shared by %@</base>
+        <tran loc="ar">تمت المشاركة من قِبل %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Document picker share owner subtitle; parameter is owner name </Description>
+      <Position>Shared by SomeoneElseThanMe</Position>
+      <TranslationSet>
+        <base loc="en">Shared by %@</base>
+        <tran loc="ar">تمت المشاركة من قِبل %@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Blocking download alert </Description>
+      <Position>Downloading \"%@\"</Position>
+      <TranslationSet>
+        <base loc="en">Downloading a Copy of “%@”</base>
+        <tran loc="ar">جاري تنزيل نسخة من "%@"</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> iCloud sharing settings detail text for ACL </Description>
+      <Position>SETTINGS_DETAIL_ACL_RW_TEXT</Position>
+      <TranslationSet>
+        <base loc="en">People you invite can make changes.</base>
+        <tran loc="ar">الأشخاص الذين تدعوهم يمكنهم إجراء تغييرات.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> iCloud sharing give access info label for Pages </Description>
+      <Position>GIVE_ACCESS_INFO_LABEL_DOCUMENT</Position>
+      <TranslationSet>
+        <base loc="en">Only people you add will be able to access this document.</base>
+        <tran loc="ar">الأشخاص الذين تقوم بإضافتهم فقط سيتمكنون من الوصول إلى هذا المستند.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Doc picker disabled description Import mode </Description>
+      <Position>Doesn’t support importing files</Position>
+      <TranslationSet>
+        <base loc="en">Doesn’t support importing files</base>
+        <tran loc="ar">لا يدعم استيراد الملفات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> iCloud couldn't copy link as participant message </Description>
+      <Position>COULD_NOT_COPY_LINK_MESSAGE_TEXT_PRESENTATION</Position>
+      <TranslationSet>
+        <base loc="en">Sorry, the presentation link couldn’t be copied.</base>
+        <tran loc="ar">عذرًا، تعذر نسخ رابط العرض التقديمي.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Share invitation mail body template </Description>
+      <Position>MAIL_TEMPLATE_BODY_FOLDER</Position>
+      <TranslationSet>
+        <base loc="en">&lt;br&gt;&lt;br&gt;Open my shared folder:&lt;br&gt;&lt;br&gt;#LINK_FRAGMENT#</base>
+        <tran loc="ar">‏&lt;br&gt;&lt;br&gt;افتح المجلد المشترك:&lt;br&gt;&lt;br&gt;#LINK_FRAGMENT#</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Share invitation mail body template </Description>
+      <Position>MAIL_TEMPLATE_BODY_NOTES_FOLDER</Position>
+      <TranslationSet>
+        <base loc="en">&lt;br&gt;&lt;br&gt;Open my shared folder:&lt;br&gt;&lt;br&gt;#LINK_FRAGMENT#</base>
+        <tran loc="ar">‏&lt;br&gt;&lt;br&gt;افتح المجلد المشترك:&lt;br&gt;&lt;br&gt;#LINK_FRAGMENT#</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> iCloud sharing stop sharing as owner title </Description>
+      <Position>STOP_SHARING_MESSAGE_TEXT_FOLDER</Position>
+      <TranslationSet>
+        <base loc="en">If you stop sharing, other people will no longer have access to this folder or any items within it. It will be deleted from iCloud Drive on all of their devices.</base>
+        <tran loc="ar">إذا أوقفت المشاركة، فلن يتمكن الأشخاص الآخرون من الوصول إلى هذا المجلد أو أية عناصر بداخله مجددًا، وسيتم حذفه من iCloud Drive على جميع أجهزتهم.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Document export filename text field placeholder </Description>
+      <Position>New filename</Position>
+      <TranslationSet>
+        <base loc="en">New filename</base>
+        <tran loc="ar">اسم ملف جديد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Tags sort segment in doc picker </Description>
+      <Position>Tags[sort option]</Position>
+      <TranslationSet>
+        <base loc="en">Tags</base>
+        <tran loc="ar">علامات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> iCloud sharing pre-invite info subtitle; localized owner name, owner display handle (email address or phone number) </Description>
+      <Position>SHARE_INVITE_SHARE_AS_OWNER_TEXT</Position>
+      <TranslationSet>
+        <base loc="en">%1$@ (%2$@)</base>
+        <tran loc="ar">‏%1$@ ‏(%2$@)</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> iCloud sharing participant (everyone) </Description>
+      <Position>PARTICIPANT_EVERYONE_TEXT</Position>
+      <TranslationSet>
+        <base loc="en">Everyone</base>
+        <tran loc="ar">الجميع</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> iCloud sharing give access label To: </Description>
+      <Position>GIVE_ACCESS_TO_LABEL</Position>
+      <TranslationSet>
+        <base loc="en">To:</base>
+        <tran loc="ar">إلى:</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> iCloud sharing stop sharing as owner title </Description>
+      <Position>STOP_SHARING_MESSAGE_TEXT_DOCUMENT</Position>
+      <TranslationSet>
+        <base loc="en">If you stop sharing, other people will no longer have access to this document and it will be deleted from iCloud Drive on all of their devices.</base>
+        <tran loc="ar">إذا قمت بإيقاف المشاركة، فلن يتمكن الأشخاص الآخرون من الوصول إلى هذا المستند مجددًا وسيتم حذفه من iCloud Drive على جميع الأجهزة الخاصة بهم.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> iCloud sharing settings detail text for ACL </Description>
+      <Position>SETTINGS_DETAIL_ACL_RW_SUMMARY_TEXT</Position>
+      <TranslationSet>
+        <base loc="en">Only people you invite can make changes.</base>
+        <tran loc="ar">الأشخاص الذين تدعوهم فقط يمكنهم إجراء تغييرات.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Doc picker number of items subtitle
+   Document picker target selection items </Description>
+      <Position>%lu items</Position>
+      <TranslationSet>
+        <base loc="en">%lu items</base>
+        <tran loc="ar">‏%lu من العناصر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> iCloud sharing stop sharing as owner title </Description>
+      <Position>STOP_SHARING_MESSAGE_TEXT_PRESENTATION</Position>
+      <TranslationSet>
+        <base loc="en">If you stop sharing, other people will no longer have access to this presentation and it will be deleted from iCloud Drive on all of their devices.</base>
+        <tran loc="ar">إذا قمت بإيقاف المشاركة، فلن يتمكن الأشخاص الآخرون من الوصول إلى هذا العرض التقديمي مجددًا وسيتم حذفه من iCloud Drive على جميع الأجهزة الخاصة بهم.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> iCloud sharing give access info label for Keynote </Description>
+      <Position>GIVE_ACCESS_INFO_LABEL_PRESENTATION</Position>
+      <TranslationSet>
+        <base loc="en">Only people you add will be able to access this presentation.</base>
+        <tran loc="ar">الأشخاص الذين تقوم بإضافتهم فقط سيتمكنون من الوصول إلى هذا العرض التقديمي.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Doc picker disabled description type mismatch </Description>
+      <Position>Doesn’t support the file type</Position>
+      <TranslationSet>
+        <base loc="en">Doesn’t support the file type</base>
+        <tran loc="ar">لا يدعم نوع الملف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Document picker moving shared file as recipient text </Description>
+      <Position>This document has been shared to you. You cannot move it to a different location.</Position>
+      <TranslationSet>
+        <base loc="en">This document has been shared to you. You cannot move it to a different location.</base>
+        <tran loc="ar">تمت مشاركة هذا المستند معك. لا يمكنك نقله إلى موقع مختلف.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> message change from public to acl </Description>
+      <Position>SETTINGS_SWITCH_TO_ACL_MESSAGE_PRESENTATION</Position>
+      <TranslationSet>
+        <base loc="en">Everyone will be removed from this presentation and it will be deleted from iCloud Drive on all of their devices.</base>
+        <tran loc="ar">ستتم إزالة الجميع من هذا العرض التقديمي، وسيتم حذفه من iCloud Drive على جميع الأجهزة الخاصة بهم.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> UI value for modified date months </Description>
+      <Position>modified %lu months ago</Position>
+      <TranslationSet>
+        <base loc="en">modified %lu months ago</base>
+        <tran loc="ar">تم التعديل منذ %lu من الشهور</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> iCloud sharing error message </Description>
+      <Position>ERROR_MESSAGE_COULD_NOT_ADD_PARTICIPANTS_WITH_SINGLE_ADDRESS</Position>
+      <TranslationSet>
+        <base loc="en">“%@” is not valid. Please enter a valid email address or phone number, then try sharing again.</base>
+        <tran loc="ar">‏"‪%@‬" غير صالح. الرجاء إدخال عنوان بريد إلكتروني أو رقم هاتف صالح، ثم حاول المشاركة مرة أخرى.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> iCloud sharing settings detail text for ACL </Description>
+      <Position>SETTINGS_DETAIL_ACL_MIXED_TEXT</Position>
+      <TranslationSet>
+        <base loc="en">People you invite can open.</base>
+        <tran loc="ar">الأشخاص الذين تدعوهم يمكنهم الفتح.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Document picker file exists move message </Description>
+      <Position>Would you like to rename the file you are about to move?</Position>
+      <TranslationSet>
+        <base loc="en">Would you like to rename the file you are about to move?</base>
+        <tran loc="ar">هل ترغب في إعادة تسمية الملف الذي أنت بصدد نقله؟</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> iCloud sharing stop sharing action item </Description>
+      <Position>LEAVE_SHARE_ACTION_TEXT</Position>
+      <TranslationSet>
+        <base loc="en">Remove Me</base>
+        <tran loc="ar">إزالتي</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> copy link action for owner subshare (parameter is always the folder name) </Description>
+      <Position>SETTINGS_COPY_LINK_SUBFOLDERTITLE_PRIVATE_PRESENTATION</Position>
+      <TranslationSet>
+        <base loc="en">Only people you invited to the shared folder “%@” can use the link to access this presentation.</base>
+        <tran loc="ar">الأشخاص الذين دعوتهم إلى المجلد المشترك "%@" هم فقط الذين يمكنهم استخدام الرابط للوصول إلى هذا العرض التقديمي.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> iCloud sharing error message </Description>
+      <Position>ERROR_MESSAGE_DEFAULT</Position>
+      <TranslationSet>
+        <base loc="en">Please try again later.</base>
+        <tran loc="ar">الرجاء المحاولة لاحقًا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> iCloud sharing error message </Description>
+      <Position>ERROR_MESSAGE_INITIAL_DEFAULT</Position>
+      <TranslationSet>
+        <base loc="en">Please try again later.</base>
+        <tran loc="ar">الرجاء المحاولة لاحقًا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Share invitation mail body template </Description>
+      <Position>MAIL_TEMPLATE_BODY</Position>
+      <TranslationSet>
+        <base loc="en">&lt;br&gt;&lt;br&gt;#LINK_FRAGMENT#</base>
+        <tran loc="ar">‏&lt;br&gt;&lt;br&gt;#LINK_FRAGMENT#</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> participant info title </Description>
+      <Position>Phone number</Position>
+      <TranslationSet>
+        <base loc="en">Phone number</base>
+        <tran loc="ar">رقم الهاتف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Document picker moving shared file as owner title </Description>
+      <Position>Moving this document will unshare it</Position>
+      <TranslationSet>
+        <base loc="en">Moving this document will unshare it</base>
+        <tran loc="ar">سيؤدي نقل هذا المستند إلى إلغاء مشاركته</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> iCloud sharing stop sharing as owner title </Description>
+      <Position>STOP_SHARING_MESSAGE_TEXT</Position>
+      <TranslationSet>
+        <base loc="en">If you stop sharing, other people will no longer have access to “%@”.</base>
+        <tran loc="ar">إذا قمت بإيقاف المشاركة، فلن يتمكن الآخرون من الوصول إلى "%@" مجددًا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> iCloud sharing stop sharing as owner title </Description>
+      <Position>STOP_SHARING_MESSAGE_TEXT_CLOUDKIT</Position>
+      <TranslationSet>
+        <base loc="en">If you stop sharing, other people will no longer have access to “%@”.</base>
+        <tran loc="ar">إذا قمت بإيقاف المشاركة، فلن يتمكن الآخرون من الوصول إلى "%@" مجددًا.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Document picker failed to extend sandbox error title </Description>
+      <Position>Failed to make file available</Position>
+      <TranslationSet>
+        <base loc="en">Failed to make file available</base>
+        <tran loc="ar">فشل جعل الملف متوفرًا</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> iCloud sharing overview title for back button, modern, post-share </Description>
+      <Position>POST_SHARE_LIST_TITLE_BACK_BUTTON_TEXT</Position>
+      <TranslationSet>
+        <base loc="en">People</base>
+        <tran loc="ar">الأشخاص</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> iCloud sharing overview title, modern, post-share </Description>
+      <Position>POST_SHARE_LIST_TITLE_TEXT</Position>
+      <TranslationSet>
+        <base loc="en">People</base>
+        <tran loc="ar">الأشخاص</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> Sync blocked warning action </Description>
+      <Position>Open</Position>
+      <TranslationSet>
+        <base loc="en">Open</base>
+        <tran loc="ar">فتح</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> iCloud sharing leave share as participant message </Description>
+      <Position>LEAVE_SHARE_MESSAGE_TEXT_NOTE</Position>
+      <TranslationSet>
+        <base loc="en">Removing yourself from this shared note will delete the note from all your devices.</base>
+        <tran loc="ar">إزالة نفسك من هذه الملاحظة المشتركة ستؤدي إلى حذف الملاحظة من جميع أجهزتك.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> iCloud sharing information text for document within a shared folder hierarchy </Description>
+      <Position>NON_ROOT_ITEM_PARTICIPANT_INFORMATION_TEXT_FOLDER</Position>
+      <TranslationSet>
+        <base loc="en">This folder is in a shared folder.</base>
+        <tran loc="ar">هذا المجلد موجود في مجلد مشترك.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> iCloud sharing App Store button in alerts </Description>
+      <Position>ALERT_APPSTORE_BUTTON_TITLE</Position>
+      <TranslationSet>
+        <base loc="en">App Store</base>
+        <tran loc="ar">‏App Store</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description> iCloud sharing participant without mail address </Description>
+      <Position>Unknown participant</Position>
+      <TranslationSet>
+        <base loc="en">Unknown participant</base>
+        <tran loc="ar">مشارك غير معروف</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>CloudDocsUI/System/Library/PrivateFrameworks/CloudDocsUI.framework/PlugIns/com.apple.CloudDocsUI.AddToiCloudDrive.appex/en.lproj/InfoPlist.strings</Filepath>
+    <TextItem>
+      <Description> Extension's name </Description>
+      <Position>CFBundleDisplayName</Position>
+      <TranslationSet>
+        <base loc="en">Save to Files</base>
+        <tran loc="ar">حفظ في الملفات</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>CloudDocsUI/System/Library/PrivateFrameworks/CloudDocsUI.framework/English.lproj/Localizable.stringsdict</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>/NAV_TITLE_TEXT:dict/NSStringVariableWidthRuleType:dict/1:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Share via iCloud</base>
+        <tran loc="ar">مشاركة عبر iCloud</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/modified %lu minutes ago:dict/items:dict/few:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">modified %lu minutes ago</base>
+        <tran loc="ar">تم التعديل منذ %lu دقائق</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/modified %lu minutes ago:dict/items:dict/many:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">modified %lu minutes ago</base>
+        <tran loc="ar">تم التعديل منذ %lu دقيقة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/modified %lu minutes ago:dict/items:dict/other:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">modified %lu minutes ago</base>
+        <tran loc="ar">تم التعديل منذ %lu دقيقة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/modified %lu minutes ago:dict/items:dict/two:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">modified %lu minutes ago</base>
+        <tran loc="ar">تم التعديل منذ دقيقتين</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/modified %lu minutes ago:dict/items:dict/zero:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">modified %lu minutes ago</base>
+        <tran loc="ar">تم التعديل منذ %lu دقيقة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/Choose a location to add these items.:dict/items:dict/few:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Choose a location to add these items.</base>
+        <tran loc="ar">اختر موقعًا لإضافة هذه العناصر فيه.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/Choose a location to add these items.:dict/items:dict/many:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Choose a location to add these items.</base>
+        <tran loc="ar">اختر موقعًا لإضافة هذه العناصر فيه.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/Choose a location to add these items.:dict/items:dict/other:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Choose a location to add these items.</base>
+        <tran loc="ar">اختر موقعًا لإضافة هذه العناصر فيه.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/Choose a location to add these items.:dict/items:dict/two:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Choose a location to add these items.</base>
+        <tran loc="ar">اختر موقعًا لإضافة هذين العنصرين فيه.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/Choose a location to add these items.:dict/items:dict/zero:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Choose a location to add these items.</base>
+        <tran loc="ar">اختر موقعًا لإضافة هذه العناصر فيه.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/modified %lu days ago:dict/items:dict/one:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">modified one day ago</base>
+        <tran loc="ar">تم التعديل منذ يوم واحد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/TITLE_CREATE_SHARE_TEXT:dict/NSStringVariableWidthRuleType:dict/1:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Preparing…</base>
+        <tran loc="ar">جاري الإعداد…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/modified %lu hours ago:dict/items:dict/few:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">modified %lu hours ago</base>
+        <tran loc="ar">تم التعديل منذ %lu ساعات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/modified %lu hours ago:dict/items:dict/many:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">modified %lu hours ago</base>
+        <tran loc="ar">تم التعديل منذ %lu ساعة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/modified %lu hours ago:dict/items:dict/other:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">modified %lu hours ago</base>
+        <tran loc="ar">تم التعديل منذ %lu ساعة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/modified %lu hours ago:dict/items:dict/two:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">modified %lu hours ago</base>
+        <tran loc="ar">تم التعديل منذ ساعتين</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/modified %lu hours ago:dict/items:dict/zero:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">modified %lu hours ago</base>
+        <tran loc="ar">تم التعديل منذ %lu ساعة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/modified %lu years ago:dict/items:dict/one:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">modified one year ago</base>
+        <tran loc="ar">تم التعديل منذ سنة واحدة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/GIVE_ACCESS_PLACEHOLDER:dict/NSStringVariableWidthRuleType:dict/1:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Emails or phone numbers</base>
+        <tran loc="ar">عناوين البريد الإلكتروني أو أرقام الهاتف</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/Choose a new location to move these items.:dict/items:dict/few:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Choose a new location to move these items.</base>
+        <tran loc="ar">اختر موقعًا جديدًا لنقل هذه العناصر إليه.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/Choose a new location to move these items.:dict/items:dict/many:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Choose a new location to move these items.</base>
+        <tran loc="ar">اختر موقعًا جديدًا لنقل هذه العناصر إليه.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/Choose a new location to move these items.:dict/items:dict/other:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Choose a new location to move these items.</base>
+        <tran loc="ar">اختر موقعًا جديدًا لنقل هذه العناصر إليه.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/Choose a new location to move these items.:dict/items:dict/two:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Choose a new location to move these items.</base>
+        <tran loc="ar">اختر موقعًا جديدًا لنقل هذين العنصرين إليه.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/Choose a new location to move these items.:dict/items:dict/zero:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Choose a new location to move these items.</base>
+        <tran loc="ar">اختر موقعًا جديدًا لنقل هذه العناصر إليه.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/modified %lu years ago:dict/items:dict/few:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">modified %lu years ago</base>
+        <tran loc="ar">تم التعديل منذ %lu سنوات</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/modified %lu years ago:dict/items:dict/many:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">modified %lu years ago</base>
+        <tran loc="ar">تم التعديل منذ %lu سنة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/modified %lu years ago:dict/items:dict/other:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">modified %lu years ago</base>
+        <tran loc="ar">تم التعديل منذ %lu سنة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/modified %lu years ago:dict/items:dict/two:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">modified %lu years ago</base>
+        <tran loc="ar">تم التعديل منذ سنتين</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/modified %lu years ago:dict/items:dict/zero:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">modified %lu years ago</base>
+        <tran loc="ar">تم التعديل منذ %lu سنة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/Choose a new location to move these items.:dict/items:dict/one:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Choose a new location to move this item.</base>
+        <tran loc="ar">اختر موقعًا جديدًا لنقل هذا العنصر إليه.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/modified %lu days ago:dict/items:dict/few:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">modified %lu days ago</base>
+        <tran loc="ar">تم التعديل منذ %lu أيام</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/modified %lu days ago:dict/items:dict/many:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">modified %lu days ago</base>
+        <tran loc="ar">تم التعديل منذ %lu يومًا</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/modified %lu days ago:dict/items:dict/other:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">modified %lu days ago</base>
+        <tran loc="ar">تم التعديل منذ %lu يوم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/modified %lu days ago:dict/items:dict/two:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">modified %lu days ago</base>
+        <tran loc="ar">تم التعديل منذ يومين</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/modified %lu days ago:dict/items:dict/zero:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">modified %lu days ago</base>
+        <tran loc="ar">تم التعديل منذ %lu يوم</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/%lu items:dict/items:dict/one:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%lu item</base>
+        <tran loc="ar">عنصر واحد</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/modified %lu hours ago:dict/items:dict/one:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">modified an hour ago</base>
+        <tran loc="ar">تم التعديل منذ ساعة واحدة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/modified %lu minutes ago:dict/items:dict/one:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">modified a minute ago</base>
+        <tran loc="ar">تم التعديل منذ دقيقة واحدة</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/Choose a location to add these items.:dict/items:dict/one:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Choose a location to add this item.</base>
+        <tran loc="ar">اختر موقعًا لإضافة هذا العنصر فيه.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/NAV_TITLE_TEXT_IWORK:dict/NSStringVariableWidthRuleType:dict/1:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Collaborate</base>
+        <tran loc="ar">التعاون</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/%lu items:dict/NSStringLocalizedFormatKey:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%#@items@</base>
+        <tran loc="ar">%#@items@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/Choose a location to add these items.:dict/NSStringLocalizedFormatKey:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%#@items@</base>
+        <tran loc="ar">%#@items@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/Choose a new location to move these items.:dict/NSStringLocalizedFormatKey:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%#@items@</base>
+        <tran loc="ar">%#@items@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/modified %lu days ago:dict/NSStringLocalizedFormatKey:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%#@items@</base>
+        <tran loc="ar">%#@items@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/modified %lu hours ago:dict/NSStringLocalizedFormatKey:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%#@items@</base>
+        <tran loc="ar">%#@items@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/modified %lu minutes ago:dict/NSStringLocalizedFormatKey:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%#@items@</base>
+        <tran loc="ar">%#@items@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/modified %lu months ago:dict/NSStringLocalizedFormatKey:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%#@items@</base>
+        <tran loc="ar">%#@items@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/modified %lu years ago:dict/NSStringLocalizedFormatKey:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%#@items@</base>
+        <tran loc="ar">%#@items@</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/%lu items:dict/items:dict/few:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%lu items</base>
+        <tran loc="ar">‏%lu عناصر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/%lu items:dict/items:dict/many:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%lu items</base>
+        <tran loc="ar">‏%lu عنصرًا</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/%lu items:dict/items:dict/other:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%lu items</base>
+        <tran loc="ar">‏%lu عنصر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/%lu items:dict/items:dict/two:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%lu items</base>
+        <tran loc="ar">عنصران</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/%lu items:dict/items:dict/zero:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%lu items</base>
+        <tran loc="ar">‏%lu عنصر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/modified %lu months ago:dict/items:dict/few:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">modified %lu months ago</base>
+        <tran loc="ar">تم التعديل منذ %lu أشهر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/modified %lu months ago:dict/items:dict/many:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">modified %lu months ago</base>
+        <tran loc="ar">تم التعديل منذ %lu شهرًا</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/modified %lu months ago:dict/items:dict/other:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">modified %lu months ago</base>
+        <tran loc="ar">تم التعديل منذ %lu شهر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/modified %lu months ago:dict/items:dict/two:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">modified %lu months ago</base>
+        <tran loc="ar">تم التعديل منذ شهرين</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/modified %lu months ago:dict/items:dict/zero:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">modified %lu months ago</base>
+        <tran loc="ar">تم التعديل منذ %lu شهر</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/modified %lu months ago:dict/items:dict/one:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">modified one month ago</base>
+        <tran loc="ar">تم التعديل منذ شهر واحد</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+</Proj>
