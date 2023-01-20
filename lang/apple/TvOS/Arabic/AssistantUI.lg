@@ -1,1110 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<Proj>
-  <ProjName>AssistantUI</ProjName>
-  <File>
-    <Filepath>AssistantUI/System/Library/PrivateFrameworks/SiriUI.framework/en.lproj/Localizable.stringsdict</Filepath>
-    <TextItem>
-      <Description/>
-      <Position>/EMERGENCY_CALL_COUNTDOWN_FORMAT:dict/NSStringLocalizedFormatKey:dict/:string</Position>
-      <TranslationSet>
-        <base loc="en">%#@secondsRemaining@</base>
-        <tran loc="ar">%#@secondsRemaining@</tran>
-      </TranslationSet>
-    </TextItem>
-    <TextItem>
-      <Description/>
-      <Position>/EMERGENCY_CALL_COUNTDOWN_FORMAT:dict/secondsRemaining:dict/few:dict/:string</Position>
-      <TranslationSet>
-        <base loc="en">Automatically calling in %d seconds…</base>
-        <tran loc="ar">يتم الاتصال تلقائيًا خلال %d ثوان…</tran>
-      </TranslationSet>
-    </TextItem>
-    <TextItem>
-      <Description/>
-      <Position>/EMERGENCY_CALL_COUNTDOWN_FORMAT:dict/secondsRemaining:dict/many:dict/:string</Position>
-      <TranslationSet>
-        <base loc="en">Automatically calling in %d seconds…</base>
-        <tran loc="ar">يتم الاتصال تلقائيًا خلال %d ثانية…</tran>
-      </TranslationSet>
-    </TextItem>
-    <TextItem>
-      <Description/>
-      <Position>/EMERGENCY_CALL_COUNTDOWN_FORMAT:dict/secondsRemaining:dict/other:dict/:string</Position>
-      <TranslationSet>
-        <base loc="en">Automatically calling in %d seconds…</base>
-        <tran loc="ar">يتم الاتصال تلقائيًا خلال %d ثانية…</tran>
-      </TranslationSet>
-    </TextItem>
-    <TextItem>
-      <Description/>
-      <Position>/EMERGENCY_CALL_COUNTDOWN_FORMAT:dict/secondsRemaining:dict/two:dict/:string</Position>
-      <TranslationSet>
-        <base loc="en">Automatically calling in %d seconds…</base>
-        <tran loc="ar">يتم الاتصال تلقائيًا خلال ثانيتين…</tran>
-      </TranslationSet>
-    </TextItem>
-    <TextItem>
-      <Description/>
-      <Position>/EMERGENCY_CALL_COUNTDOWN_FORMAT:dict/secondsRemaining:dict/zero:dict/:string</Position>
-      <TranslationSet>
-        <base loc="en">Automatically calling in %d seconds…</base>
-        <tran loc="ar">يتم الاتصال تلقائيًا خلال %d ثانية…</tran>
-      </TranslationSet>
-    </TextItem>
-    <TextItem>
-      <Description/>
-      <Position>/EMERGENCY_CALL_COUNTDOWN_FORMAT:dict/secondsRemaining:dict/one:dict/:string</Position>
-      <TranslationSet>
-        <base loc="en">Automatically calling in %d second…</base>
-        <tran loc="ar">يتم الاتصال تلقائيًا خلال ثانية واحدة…</tran>
-      </TranslationSet>
-    </TextItem>
-  </File>
-  <File>
-    <Filepath>AssistantUI/System/Library/PrivateFrameworks/AssistantUI.framework/en.lproj/Localizable-D22.strings</Filepath>
-    <TextItem>
-      <Description> 
-  Localizable.strings
-  AssistantUI
-
-  Created by Sonny Fazio on 8/8/17.
-  Copyright (c) 2012 Apple Inc. All rights reserved.
-
-
- 🚨IMPORTANT!🚨
- If your string has any feature-sensitive information, or anything that may need to be hidden from seed releases, you must properly hide it.
- Check out this documentation for more information: https://quip-apple.com/sPruAlz48x9Q
- 🚨IMPORTANT!🚨
- 
- Version of the about text that includes information about the Side Button instead of Home Button</Description>
-      <Position>ASSISTANT_ABOUT_TEXT_SIDE_BUTTON</Position>
-      <TranslationSet>
-        <base loc="en">When you use Ask Siri and Dictation the things you say and dictate will be recorded and sent to Apple to process your requests. Your device will also send Apple other information, such as your name and nickname; the names, nicknames, and relationship with you (e.g., “my dad”) of your contacts, music you enjoy, HomeKit-enabled devices in your home (e.g., “living room lights”), the names of your photo albums, the names of Apps installed on your device (collectively, your “User Data”). All of this data is used to help Ask Siri and Dictation on your iOS device and any paired Apple Watch understand you better and recognize what you say. It is not linked to other data that Apple may have from your use of other Apple services.\n\nIf you have Location Services turned on, the location of your device at the time you make a request will also be sent to Apple to help Ask Siri and Dictation improve the accuracy of its response to your requests. You may choose to turn off Location Services for Ask Siri. To do so, open Settings on your iOS device, tap Privacy, tap Location Services, tap Siri &amp; Dictation and select “Never”.\n\nIf you choose to allow third party Apps to integrate with Ask Siri, some data from these Apps may be sent to Apple to help Ask Siri understand your request, and portions of your request will be shared with the App to help provide a response or take an action (e.g., make a reservation at a restaurant or book a ride).  If you choose to allow Apps to use Ask Siri for transcription, the voice data to be transcribed may be sent to Apple.  You may control which Apps can integrate with Ask Siri at any time under Siri Settings.\n\nYou may choose to turn off Ask Siri or Dictation at any time. To turn off Ask Siri, open Settings on your iOS device, tap Siri &amp; Search, and slide the Listen for “Hey Siri” and Press Side Button for Siri switches to “off”. To turn off Dictation, open Settings, tap General, tap Keyboard, and slide the Enable Dictation switch to “off”.  If you turn off both Ask Siri and Dictation, Apple will delete your User Data, as well as your recent voice input data. Older voice input data that has been disassociated from you may be retained for a period of time to generally improve Ask Siri, Dictation and dictation functionality in other Apple products and services. This voice input data may include audio files and transcripts of what you said, related diagnostic data, such as hardware and operating system specifications and performance statistics, and the approximate location of your device at the time the request was made.\n\nYou can also restrict the ability to use Ask Siri &amp; Dictation altogether under the Restrictions Setting.\n\nBy using Ask Siri or Dictation, you agree and consent to Apple’s and its subsidiaries’ and agents’ transmission, collection, maintenance, processing, and use of this information, including your voice input, User Data, and other data that may be sent to Apple by Apps that integrate with Siri, to provide and improve Siri, Dictation, and dictation functionality in other Apple products and services.\n\nAt all times, information collected by Apple will be treated in accordance with Apple’s Privacy Policy, which can be found at www.apple.com/privacy.</base>
-        <tran loc="ar">عند استخدام "اسأل Siri" و"الإملاء"، سيتم حينئذٍ إملاء وتسجيل كل ما تقوله وإرساله إلى Apple بهدف معالجة طلباتك. كما سيتم إرسال معلومات أخرى من جهازك مثل اسمك ولقبك، وأسماء جهات الاتصال في دفتر العناوين لديك وألقابها وصلتها بك ("أبي" مثلًا)، والموسيقى التي تفضلها، والأجهزة التي تدعم HomeKit في منزلك (مثل "أضواء غرفة المعيشة")، وأسماء ألبومات الصور الخاصة بك، وأسماء التطبيقات المثبتة على جهازك (ويشار إلى ذلك إجمالًا باسم "بيانات المستخدم" الخاصة بك). تُستخدم كل هذه البيانات لمساعدة "اسأل Siri" و"الإملاء"، على جهاز iOS الخاص بك وأي Apple Watch مقترنة به، على فهم ما تقوله والتعرف عليه بصورة أفضل. وهذه البيانات غير مرتبطة بأي بيانات أخرى قد تكون لدى Apple نتيجة استخدامك خدمات أخرى من Apple.\n\nإذا كانت خدمات الموقع قيد التشغيل، فسيتم إرسال موقع جهازك وقت إجراء الطلب أيضًا إلى Apple لمساعدة "اسأل Siri" و"الإملاء" على تحسين دقة الاستجابة لطلباتك. ويمكنك إيقاف خدمات الموقع لـ "اسأل Siri"، وذلك من خلال فتح الإعدادات على جهاز iOS، والضغط على "الخصوصية"، ثم الضغط على "خدمات الموقع"، ثم الضغط على "Siri والإملاء" وتحديد "مطلقًا".\n\nإذا اخترت السماح لتطبيقات الجهات الخارجية بالاندماج بـ "اسأل Siri"، فقد يتم إرسال بعض البيانات من هذه التطبيقات إلى Apple بهدف مساعدة "اسأل Siri" في فهم طلبك، وستتم مشاركة جزء من طلبك مع التطبيق للمساعدة في تقديم إجابة أو اتخاذ إجراء (مثل إجراء حجز في مطعم أو حجز تاكسي).  إذا اخترت السماح للتطبيقات باستخدام "اسأل Siri" في إنشاء نصوص المحادثات، فقد يتم إرسال بيانات الصوت المطلوب إنشاء نص لها إلى Apple.  ويمكنك التحكم في التطبيقات التي يمكنها الاندماج بـ "اسأل Siri" في أي وقت من إعدادات Siri.\n\nيمكنك إيقاف "اسأل Siri" أو "الإملاء" في أي وقت. لإيقاف "اسأل Siri"، افتح الإعدادات على جهاز iOS، واضغط على "Siri والبحث"، ثم حرك مفتاحي تبديل "استماع إلى "يا Siri" و"اضغط على الزر الجانبي لبدء Siri" إلى وضع الإيقاف. ولإيقاف الإملاء، افتح الإعدادات، واضغط على "عام"، ثم اضغط على "لوحة المفاتيح"، وحرك مفتاح تبديل تمكين الإملاء إلى وضع "إيقاف". إذا أوقفت كل من "اسأل Siri" و"الإملاء"، فستحذف Apple بيانات المستخدم الخاصة بك، وبيانات إدخال الصوت الحالية. أما بيانات إدخال الصوت القديمة التي لم تعد مرتبطة بك، فقد يتم الاحتفاظ بها لبعض الوقت بهدف تحسين "اسأل Siri" والإملاء ووظائف الإملاء في منتجات Apple وخدماتها. وقد تتضمن بيانات إدخال الصوت هذه ملفات صوتية ونصوص لما قلته، وبيانات تشخيص ذات صلة، مثل مواصفات الأجهزة ونظام التشغيل وإحصائيات خاصة بالأداء، والموقع التقريبي لجهازك في الوقت الذي تم تقديم الطلب فيه.\n\nيمكنك أيضًا تقييد القدرة على استخدام "اسأل Siri" و"الإملاء" معًا من إعداد القيود.\n\nباستخدامك "اسأل Siri" و"الإملاء"، أنت توافق على قيام Apple وشركاتها الفرعية ووكلائها بنقل هذه المعلومات وجمعها والاحتفاظ بها ومعالجتها واستخدامها - بما في ذلك إدخال الصوت، وبيانات المستخدم الخاصة بك، وغيرها من البيانات التي قد يتم إرسالها إلى Apple بواسطة التطبيقات التي تندمج بـ Siri - بهدف توفير وتحسين Siri والإملاء ووظائف الإملاء في منتجات وخدمات Apple الأخرى.\n\nسيتم في جميع الأوقات التعامل مع المعلومات التي تم جمعها بواسطة Apple وفقًا لسياسة خصوصية Apple، والتي يمكنك الحصول عليها على الموقع: www.apple.com/ae-ar/privacy.</tran>
-      </TranslationSet>
-    </TextItem>
-  </File>
-  <File>
-    <Filepath>AssistantUI/System/Library/PrivateFrameworks/AssistantCardServiceSupport.framework/en.lproj/Localizable.strings</Filepath>
-    <TextItem>
-      <Description> Ride Option type (e.g. "UberX") </Description>
-      <Position>RIDE_TYPE</Position>
-      <TranslationSet>
-        <base loc="en">Type</base>
-        <tran loc="ar">النوع</tran>
-      </TranslationSet>
-    </TextItem>
-    <TextItem>
-      <Description/>
-      <Position>FARE</Position>
-      <TranslationSet>
-        <base loc="en">Fare</base>
-        <tran loc="ar">الأجرة</tran>
-      </TranslationSet>
-    </TextItem>
-    <TextItem>
-      <Description/>
-      <Position>DROP_OFF_LOCATION</Position>
-      <TranslationSet>
-        <base loc="en">To</base>
-        <tran loc="ar">إلى</tran>
-      </TranslationSet>
-    </TextItem>
-    <TextItem>
-      <Description/>
-      <Position>TO</Position>
-      <TranslationSet>
-        <base loc="en">To</base>
-        <tran loc="ar">إلى</tran>
-      </TranslationSet>
-    </TextItem>
-    <TextItem>
-      <Description/>
-      <Position>CAR_SCHEDULED</Position>
-      <TranslationSet>
-        <base loc="en">Car Scheduled</base>
-        <tran loc="ar">تم جدولة السيارة</tran>
-      </TranslationSet>
-    </TextItem>
-    <TextItem>
-      <Description> Request Money intent titles </Description>
-      <Position>REQUEST_MONEY</Position>
-      <TranslationSet>
-        <base loc="en">Request Money</base>
-        <tran loc="ar">طلب المال</tran>
-      </TranslationSet>
-    </TextItem>
-    <TextItem>
-      <Description/>
-      <Position>MONEY_REQUESTED</Position>
-      <TranslationSet>
-        <base loc="en">Money Requested</base>
-        <tran loc="ar">تم طلب المال</tran>
-      </TranslationSet>
-    </TextItem>
-    <TextItem>
-      <Description> Start Workout intent titles - Failure Starting (Workout Name) </Description>
-      <Position>FAILURE_STARTING_WORKOUT_WITH_NAME%@</Position>
-      <TranslationSet>
-        <base loc="en">Failure Starting %@</base>
-        <tran loc="ar">فشل بدء %@</tran>
-      </TranslationSet>
-    </TextItem>
-    <TextItem>
-      <Description> Transfer Money intent title </Description>
-      <Position>TRANSFER_MONEY</Position>
-      <TranslationSet>
-        <base loc="en">Transfer Money</base>
-        <tran loc="ar">المبلغ المراد تحويله</tran>
-      </TranslationSet>
-    </TextItem>
-    <TextItem>
-      <Description/>
-      <Position>RATE_ADJUSTMENT</Position>
-      <TranslationSet>
-        <base loc="en">Rate Adjustment</base>
-        <tran loc="ar">ضبط المعدل</tran>
-      </TranslationSet>
-    </TextItem>
-    <TextItem>
-      <Description/>
-      <Position>TRANSFER_DATE</Position>
-      <TranslationSet>
-        <base loc="en">Transfer Date</base>
-        <tran loc="ar">تاريخ التحويل</tran>
-      </TranslationSet>
-    </TextItem>
-    <TextItem>
-      <Description> Start Workout intent title - Start a (Workout Name) </Description>
-      <Position>START_A_WORKOUT_WITH_NAME_%@</Position>
-      <TranslationSet>
-        <base loc="en">Start a %@</base>
-        <tran loc="ar">بدء %@</tran>
-      </TranslationSet>
-    </TextItem>
-    <TextItem>
-      <Description/>
-      <Position>MONEY_SENT</Position>
-      <TranslationSet>
-        <base loc="en">Money Sent</base>
-        <tran loc="ar">تم إرسال المال</tran>
-      </TranslationSet>
-    </TextItem>
-    <TextItem>
-      <Description/>
-      <Position>AMOUNT</Position>
-      <TranslationSet>
-        <base loc="en">Amount</base>
-        <tran loc="ar">المبلغ</tran>
-      </TranslationSet>
-    </TextItem>
-    <TextItem>
-      <Description/>
-      <Position>FEE</Position>
-      <TranslationSet>
-        <base loc="en">Fee</base>
-        <tran loc="ar">الرسوم</tran>
-      </TranslationSet>
-    </TextItem>
-    <TextItem>
-      <Description/>
-      <Position>LICENSE_PLATE</Position>
-      <TranslationSet>
-        <base loc="en">Lic. Plate:</base>
-        <tran loc="ar">رقم اللوحة:</tran>
-      </TranslationSet>
-    </TextItem>
-    <TextItem>
-      <Description> 
-  Localizable.strings
-  AssistantUI
-
-  Created by Scott Andrus on 4/9/18.
-  Copyright © 2018 Apple Inc. All rights reserved.
-
-
- 🚨IMPORTANT!🚨
- If your string has any feature-sensitive information, or anything that may need to be hidden from seed releases, you must properly hide it.
- Check out this documentation for more information: https://quip-apple.com/sPruAlz48x9Q
- 🚨IMPORTANT!🚨
- 
- Format strings for making an utterance to the server
- Example: "&lt;Send a message to Scott saying What's Up&gt; &lt;using&gt; &lt;WhatsApp&gt;"</Description>
-      <Position>SIRI_USING_APP_UTTERANCE_FORMAT</Position>
-      <TranslationSet>
-        <base loc="en">%@%@%@</base>
-        <tran loc="ar">‏%@‏%@‏%@</tran>
-      </TranslationSet>
-    </TextItem>
-    <TextItem>
-      <Description/>
-      <Position>NOTE</Position>
-      <TranslationSet>
-        <base loc="en">Note</base>
-        <tran loc="ar">ملاحظة</tran>
-      </TranslationSet>
-    </TextItem>
-    <TextItem>
-      <Description/>
-      <Position>RATING</Position>
-      <TranslationSet>
-        <base loc="en">Rating:</base>
-        <tran loc="ar">التقييم:</tran>
-      </TranslationSet>
-    </TextItem>
-    <TextItem>
-      <Description> Request Ride intent titles </Description>
-      <Position>GET_A_RIDE</Position>
-      <TranslationSet>
-        <base loc="en">Get a Ride</base>
-        <tran loc="ar">حجز تاكسي</tran>
-      </TranslationSet>
-    </TextItem>
-    <TextItem>
-      <Description> Start Workout intent titles - (Workout Name) started. </Description>
-      <Position>%@_WORKOUT_WITH_NAME_STARTED</Position>
-      <TranslationSet>
-        <base loc="en">%@ Started</base>
-        <tran loc="ar">بدء %@.</tran>
-      </TranslationSet>
-    </TextItem>
-    <TextItem>
-      <Description/>
-      <Position>PICK_UP_DATE_AND_TIME</Position>
-      <TranslationSet>
-        <base loc="en">Pickup Date and Time</base>
-        <tran loc="ar">تاريخ ووقت الإقلال</tran>
-      </TranslationSet>
-    </TextItem>
-    <TextItem>
-      <Description> Send Money intent titles </Description>
-      <Position>SEND_MONEY</Position>
-      <TranslationSet>
-        <base loc="en">Send Money</base>
-        <tran loc="ar">إرسال المال</tran>
-      </TranslationSet>
-    </TextItem>
-    <TextItem>
-      <Description> Request Ride intent details </Description>
-      <Position>CAR_MODEL</Position>
-      <TranslationSet>
-        <base loc="en">Car:</base>
-        <tran loc="ar">سيارة:</tran>
-      </TranslationSet>
-    </TextItem>
-    <TextItem>
-      <Description> Used in the above format string as the middle token</Description>
-      <Position>SIRI_USING_CONJOINER</Position>
-      <TranslationSet>
-        <base loc="en"> using </base>
-        <tran loc="ar"> باستخدام </tran>
-      </TranslationSet>
-    </TextItem>
-    <TextItem>
-      <Description> Payment recipients and payee </Description>
-      <Position>FROM</Position>
-      <TranslationSet>
-        <base loc="en">From</base>
-        <tran loc="ar">من</tran>
-      </TranslationSet>
-    </TextItem>
-    <TextItem>
-      <Description/>
-      <Position>PICK_UP_LOCATION</Position>
-      <TranslationSet>
-        <base loc="en">From</base>
-        <tran loc="ar">من</tran>
-      </TranslationSet>
-    </TextItem>
-  </File>
-  <File>
-    <Filepath>AssistantUI/System/Library/PrivateFrameworks/AssistantUI.framework/en.lproj/Localizable.strings</Filepath>
-    <TextItem>
-      <Description> The first %@ will be replaced with "@{tts#\033\\pause=500\\}" which inserts a pause for the text to speech engine. Localizations should remove or adjust this value as appropriate for the langauge.</Description>
-      <Position>SPEAKABLE_PUNCHOUT_FAILURE_FOR_APP</Position>
-      <TranslationSet>
-        <base loc="en">I can’t do that…%@ you don’t have the %@ app installed.</base>
-        <tran loc="ar">لا أستطيع عمل ذلك…%@لا يوجد لديك تطبيق %@ مثبت.</tran>
-      </TranslationSet>
-    </TextItem>
-    <TextItem>
-      <Description/>
-      <Position>MILES_ABBREVIATION</Position>
-      <TranslationSet>
-        <base loc="en">mi</base>
-        <tran loc="ar">ميل</tran>
-      </TranslationSet>
-    </TextItem>
-    <TextItem>
-      <Description/>
-      <Position>ASSISTANT_ABOUT_DONE</Position>
-      <TranslationSet>
-        <base loc="en">Done</base>
-        <tran loc="ar">تم</tran>
-      </TranslationSet>
-    </TextItem>
-    <TextItem>
-      <Description> 
-  Localizable.strings
-  AssistantUI
-
-  Created by Benjamin Phipps on 3/16/12.
-  Copyright (c) 2012 Apple Inc. All rights reserved.
-
-
- 🚨IMPORTANT!🚨
- If your string has any feature-sensitive information, or anything that may need to be hidden from seed releases, you must properly hide it.
- Check out this documentation for more information: https://quip-apple.com/sPruAlz48x9Q
- 🚨IMPORTANT!🚨
- 
- Unit abbreviations</Description>
-      <Position>FEET_ABBREVIATION</Position>
-      <TranslationSet>
-        <base loc="en">ft</base>
-        <tran loc="ar">قدم</tran>
-      </TranslationSet>
-    </TextItem>
-    <TextItem>
-      <Description/>
-      <Position>ASSISTANT_ALERT_TITLE</Position>
-      <TranslationSet>
-        <base loc="en">Siri not enabled</base>
-        <tran loc="ar">لم يتم تمكين Siri</tran>
-      </TranslationSet>
-    </TextItem>
-    <TextItem>
-      <Description/>
-      <Position>INSTALL_APP_BUTTON_TITLE</Position>
-      <TranslationSet>
-        <base loc="en">Install %@</base>
-        <tran loc="ar">تثبيت %@‎</tran>
-      </TranslationSet>
-    </TextItem>
-    <TextItem>
-      <Description/>
-      <Position>ASSISTANT_REMOTE_AUTHENTICATION_TITLE</Position>
-      <TranslationSet>
-        <base loc="en">Enter Passcode</base>
-        <tran loc="ar">أدخل رمز الدخول</tran>
-      </TranslationSet>
-    </TextItem>
-    <TextItem>
-      <Description> The first %@ will be replaced with "@{tts#\033\\pause=500\\}" which inserts a pause for the text to speech engine. Localizations should remove or adjust this value as appropriate for the langauge.</Description>
-      <Position>SPEAKABLE_PUNCHOUT_APP_NOT_AVAILABLE_IN_STOREFRONT</Position>
-      <TranslationSet>
-        <base loc="en">I’m sorry…%@ the %@ app isn’t available in your local App Store.</base>
-        <tran loc="ar">عذرًا…%@ التطبيق %@ غير متوفر في الـ App Store المحلي لديك.</tran>
-      </TranslationSet>
-    </TextItem>
-    <TextItem>
-      <Description/>
-      <Position>PUNCHOUT_FAILURE_GENERIC</Position>
-      <TranslationSet>
-        <base loc="en">I’m sorry, I can’t complete your request.</base>
-        <tran loc="ar">للأسف، لا يمكنني إكمال طلبك.</tran>
-      </TranslationSet>
-    </TextItem>
-    <TextItem>
-      <Description/>
-      <Position>ASSISTANT_ABOUT_TEXT</Position>
-      <TranslationSet>
-        <base loc="en">When you use Ask Siri and Dictation the things you say and dictate will be recorded and sent to Apple to process your requests. Your device will also send Apple other information, such as your name and nickname; the names, nicknames, and relationship with you (e.g., “my dad”) of your contacts, music you enjoy, HomeKit-enabled devices in your home (e.g., “living room lights”), the names of your photo albums, the names of Apps installed on your device (collectively, your “User Data”). All of this data is used to help Ask Siri and Dictation on your iOS device and any paired Apple Watch understand you better and recognize what you say. It is not linked to other data that Apple may have from your use of other Apple services.\n\nIf you have Location Services turned on, the location of your device at the time you make a request will also be sent to Apple to help Ask Siri and Dictation improve the accuracy of its response to your requests. You may choose to turn off Location Services for Ask Siri. To do so, open Settings on your iOS device, tap Privacy, tap Location Services, tap Siri &amp; Dictation and select “Never”.\n\nIf you choose to allow third party Apps to integrate with Ask Siri, some data from these Apps may be sent to Apple to help Ask Siri understand your request, and portions of your request will be shared with the App to help provide a response or take an action (e.g., make a reservation at a restaurant or book a ride).  If you choose to allow Apps to use Ask Siri for transcription, the voice data to be transcribed may be sent to Apple.  You may control which Apps can integrate with Ask Siri at any time under Siri Settings.\n\nYou may choose to turn off Ask Siri or Dictation at any time. To turn off Ask Siri, open Settings on your iOS device, tap Siri &amp; Search, and slide the Listen for “Hey Siri” and Press Home for Siri switches to “off”. To turn off Dictation, open Settings, tap General, tap Keyboard, and slide the Enable Dictation switch to “off”.  If you turn off both Ask Siri and Dictation, Apple will delete your User Data, as well as your recent voice input data. Older voice input data that has been disassociated from you may be retained for a period of time to generally improve Ask Siri, Dictation and dictation functionality in other Apple products and services. This voice input data may include audio files and transcripts of what you said, related diagnostic data, such as hardware and operating system specifications and performance statistics, and the approximate location of your device at the time the request was made.\n\nYou can also restrict the ability to use Ask Siri &amp; Dictation altogether under the Restrictions Setting.\n\nBy using Ask Siri or Dictation, you agree and consent to Apple’s and its subsidiaries’ and agents’ transmission, collection, maintenance, processing, and use of this information, including your voice input, User Data, and other data that may be sent to Apple by Apps that integrate with Siri, to provide and improve Siri, Dictation, and dictation functionality in other Apple products and services.\n\nAt all times, information collected by Apple will be treated in accordance with Apple’s Privacy Policy, which can be found at www.apple.com/privacy.</base>
-        <tran loc="ar">عند استخدام "اسأل Siri" و"الإملاء"، سيتم حينئذٍ إملاء وتسجيل كل ما تقوله وإرساله إلى Apple بهدف معالجة طلباتك. كما سيتم إرسال معلومات أخرى من جهازك مثل اسمك ولقبك، وأسماء جهات الاتصال في دفتر العناوين لديك وألقابها وصلتها بك ("أبي" مثلًا)، والموسيقى التي تفضلها، والأجهزة التي تدعم HomeKit في منزلك (مثل "أضواء غرفة المعيشة")، وأسماء ألبومات الصور الخاصة بك، وأسماء التطبيقات المثبتة على جهازك (ويشار إلى ذلك إجمالًا باسم "بيانات المستخدم" الخاصة بك). تُستخدم كل هذه البيانات لمساعدة "اسأل Siri" و"الإملاء"، على جهاز iOS الخاص بك وأي Apple Watch مقترنة به، على فهم ما تقوله والتعرف عليه بصورة أفضل. وهذه البيانات غير مرتبطة بأي بيانات أخرى قد تكون لدى Apple نتيجة استخدامك خدمات أخرى من Apple.\n\nإذا كانت خدمات الموقع قيد التشغيل، فسيتم إرسال موقع جهازك وقت إجراء الطلب أيضًا إلى Apple لمساعدة "اسأل Siri" و"الإملاء" على تحسين دقة الاستجابة لطلباتك. ويمكنك إيقاف خدمات الموقع لـ "اسأل Siri"، وذلك من خلال فتح الإعدادات على جهاز iOS، والضغط على "الخصوصية"، ثم الضغط على "خدمات الموقع"، ثم الضغط على "Siri والإملاء" وتحديد "مطلقًا".\n\nإذا اخترت السماح لتطبيقات الجهات الخارجية بالاندماج بـ "اسأل Siri"، فقد يتم إرسال بعض البيانات من هذه التطبيقات إلى Apple بهدف مساعدة "اسأل Siri" في فهم طلبك، وستتم مشاركة جزء من طلبك مع التطبيق للمساعدة في تقديم إجابة أو اتخاذ إجراء (مثل إجراء حجز في مطعم أو حجز تاكسي).  إذا اخترت السماح للتطبيقات باستخدام "اسأل Siri" في إنشاء نصوص المحادثات، فقد يتم إرسال بيانات الصوت المطلوب إنشاء نص لها إلى Apple.  ويمكنك التحكم في التطبيقات التي يمكنها الاندماج بـ "اسأل Siri" في أي وقت من إعدادات Siri.\n\nيمكنك إيقاف "اسأل Siri" أو "الإملاء" في أي وقت. لإيقاف "اسأل Siri"، افتح الإعدادات على جهاز iOS، واضغط على "Siri والبحث"، ثم حرك مفتاحي تبديل "استمع إلى "يا Siri" و"اضغط زر الشاشة الرئيسية لبدء Siri" إلى وضع الإيقاف. ولإيقاف الإملاء، افتح الإعدادات، واضغط على "عام"، ثم اضغط على "لوحة المفاتيح"، وحرك مفتاح تبديل تمكين الإملاء إلى وضع "إيقاف". إذا قمت بإيقاف كل من "اسأل Siri" و"الإملاء"، فستقوم Apple بحذف بيانات المستخدم الخاصة بك، وبيانات إدخال الصوت الحالية. أما بيانات إدخال الصوت القديمة التي لم تعد مرتبطة بك، فقد يتم الاحتفاظ بها لبعض الوقت بهدف تحسين "اسأل Siri" والإملاء ووظائف الإملاء في منتجات Apple وخدماتها. وقد تتضمن بيانات إدخال الصوت هذه ملفات صوتية ونصوص لما قلته، وبيانات تشخيص ذات صلة، مثل مواصفات الأجهزة ونظام التشغيل وإحصائيات خاصة بالأداء، والموقع التقريبي لجهازك في الوقت الذي تم تقديم الطلب فيه.\n\nيمكنك أيضًا تقييد القدرة على استخدام "اسأل Siri" و"الإملاء" معًا من إعداد القيود.\n\nباستخدامك Siri والإملاء، أنت توافق على قيام Apple وشركاتها الفرعية ووكلائها بنقل هذه المعلومات وجمعها والاحتفاظ بها ومعالجتها واستخدامها - بما في ذلك إدخال الصوت، وبيانات المستخدم الخاصة بك، وغيرها من البيانات التي قد يتم إرسالها إلى Apple بواسطة التطبيقات التي تندمج بـ Siri - بهدف توفير وتحسين Siri والإملاء ووظائف الإملاء في منتجات وخدمات Apple الأخرى.\n\nسيتم في جميع الأوقات التعامل مع المعلومات التي تم جمعها بواسطة Apple وفقًا لسياسة خصوصية Apple، والتي يمكنك الحصول عليها على الموقع: www.apple.com/ae-ar/privacy.</tran>
-      </TranslationSet>
-    </TextItem>
-    <TextItem>
-      <Description/>
-      <Position>ASSISTANT_ALERT_TEXT</Position>
-      <TranslationSet>
-        <base loc="en">To use Siri, please enable Siri in Settings</base>
-        <tran loc="ar">لاستخدام Siri، الرجاء تمكين Siri في الإعدادات</tran>
-      </TranslationSet>
-    </TextItem>
-    <TextItem>
-      <Description/>
-      <Position>ASSISTANT_ALERT_DISMISS</Position>
-      <TranslationSet>
-        <base loc="en">Dismiss</base>
-        <tran loc="ar">استبعاد</tran>
-      </TranslationSet>
-    </TextItem>
-    <TextItem>
-      <Description/>
-      <Position>ASSISTANT_REMOTE_AUTHENTICATION_SUBTITLE</Position>
-      <TranslationSet>
-        <base loc="en">HomePod wants to complete a Siri request</base>
-        <tran loc="ar">تود HomePod أن تكمل طلبًا من Siri.</tran>
-      </TranslationSet>
-    </TextItem>
-    <TextItem>
-      <Description/>
-      <Position>METERS_ABBREVIATION</Position>
-      <TranslationSet>
-        <base loc="en">m</base>
-        <tran loc="ar">م</tran>
-      </TranslationSet>
-    </TextItem>
-    <TextItem>
-      <Description/>
-      <Position>ASSISTANT_ABOUT_TITLE</Position>
-      <TranslationSet>
-        <base loc="en">About Siri</base>
-        <tran loc="ar">حول Siri</tran>
-      </TranslationSet>
-    </TextItem>
-    <TextItem>
-      <Description/>
-      <Position>ASSISTANT_FIRST_UNLOCK_TITLE</Position>
-      <TranslationSet>
-        <base loc="en">Enter Passcode to Use Siri</base>
-        <tran loc="ar">أدخل رمز الدخول لاستخدام Siri</tran>
-      </TranslationSet>
-    </TextItem>
-    <TextItem>
-      <Description/>
-      <Position>KILOMETERS_ABBREVIATION</Position>
-      <TranslationSet>
-        <base loc="en">km</base>
-        <tran loc="ar">كم</tran>
-      </TranslationSet>
-    </TextItem>
-    <TextItem>
-      <Description/>
-      <Position>PUNCHOUT_APP_NOT_AVAILABLE_IN_STOREFRONT</Position>
-      <TranslationSet>
-        <base loc="en">I’m sorry… the %@ app isn’t available in your local App Store.</base>
-        <tran loc="ar">عذرًا… التطبيق %@ غير متوفر في الـ App Store المحلي لديك.</tran>
-      </TranslationSet>
-    </TextItem>
-    <TextItem>
-      <Description/>
-      <Position>ASSISTANT_UNLOCK_TITLE</Position>
-      <TranslationSet>
-        <base loc="en">Unlock to continue with the Siri request</base>
-        <tran loc="ar">فتح القفل لمتابعة طلب Siri</tran>
-      </TranslationSet>
-    </TextItem>
-    <TextItem>
-      <Description/>
-      <Position>PUNCHOUT_FAILURE_FOR_APP</Position>
-      <TranslationSet>
-        <base loc="en">I can’t do that… you don’t have the %@ app installed.</base>
-        <tran loc="ar">لا أستطيع عمل ذلك…لا يوجد لديك تطبيق %@ مثبت.</tran>
-      </TranslationSet>
-    </TextItem>
-  </File>
-  <File>
-    <Filepath>AssistantUI/System/Library/PrivateFrameworks/SiriUI.framework/en.lproj/Localizable.strings</Filepath>
-    <TextItem>
-      <Description/>
-      <Position>LESS_THAN_ONE_HOUR_MINUTES_FORMAT</Position>
-      <TranslationSet>
-        <base loc="en">%@ minutes ago</base>
-        <tran loc="ar">منذ %@ من الدقائق</tran>
-      </TranslationSet>
-    </TextItem>
-    <TextItem>
-      <Description> Win percentage</Description>
-      <Position>PCT</Position>
-      <TranslationSet>
-        <base loc="en">PCT</base>
-        <tran loc="ar">‏٪</tran>
-      </TranslationSet>
-    </TextItem>
-    <TextItem>
-      <Description> Title for button that brings up the people picker</Description>
-      <Position>CHOOSE_CONTACT_BUTTON_TITLE</Position>
-      <TranslationSet>
-        <base loc="en">Other…</base>
-        <tran loc="ar">أخرى…</tran>
-      </TranslationSet>
-    </TextItem>
-    <TextItem>
-      <Description> Player stats</Description>
-      <Position>METADATA_VALUE_NAME_PAIR %@ %@</Position>
-      <TranslationSet>
-        <base loc="en">%@ %@</base>
-        <tran loc="ar">%@ %@</tran>
-      </TranslationSet>
-    </TextItem>
-    <TextItem>
-      <Description> SASports Additions
- Player</Description>
-      <Position>ROSTER_NAME_AND_LOCATION_FORMAT %@ %@</Position>
-      <TranslationSet>
-        <base loc="en">%@ %@</base>
-        <tran loc="ar">%@ %@</tran>
-      </TranslationSet>
-    </TextItem>
-    <TextItem>
-      <Description> Points Against</Description>
-      <Position>GA</Position>
-      <TranslationSet>
-        <base loc="en">GA</base>
-        <tran loc="ar">GA</tran>
-      </TranslationSet>
-    </TextItem>
-    <TextItem>
-      <Description/>
-      <Position>LESS_THAN_ONE_MINUTE_AGO_FORMAT</Position>
-      <TranslationSet>
-        <base loc="en">Less than %@ minute ago</base>
-        <tran loc="ar">منذ أقل من %@ من الدقائق</tran>
-      </TranslationSet>
-    </TextItem>
-    <TextItem>
-      <Description> Wins</Description>
-      <Position>W</Position>
-      <TranslationSet>
-        <base loc="en">W</base>
-        <tran loc="ar">الفوز</tran>
-      </TranslationSet>
-    </TextItem>
-    <TextItem>
-      <Description/>
-      <Position>CARDND_USE_SIRI_SUBTITLE</Position>
-      <TranslationSet>
-        <base loc="en">if you need something while driving</base>
-        <tran loc="ar">إذا كنت بحاجة لشيء أثناء القيادة</tran>
-      </TranslationSet>
-    </TextItem>
-    <TextItem>
-      <Description> Draws (British synonym for tie)</Description>
-      <Position>D</Position>
-      <TranslationSet>
-        <base loc="en">D</base>
-        <tran loc="ar">D</tran>
-      </TranslationSet>
-    </TextItem>
-    <TextItem>
-      <Description> Date displayed in schedule view</Description>
-      <Position>SCHEDULE_DATE_FORMAT_TEMPLATE</Position>
-      <TranslationSet>
-        <base loc="en">jmz</base>
-        <tran loc="ar">zjm</tran>
-      </TranslationSet>
-    </TextItem>
-    <TextItem>
-      <Description> Snippet Cancelation overlay text</Description>
-      <Position>CANCELED</Position>
-      <TranslationSet>
-        <base loc="en">Canceled</base>
-        <tran loc="ar">تم الإلغاء</tran>
-      </TranslationSet>
-    </TextItem>
-    <TextItem>
-      <Description/>
-      <Position>EMERGENCY_CALL_COUNTDOWN_CANCELED</Position>
-      <TranslationSet>
-        <base loc="en">Canceled</base>
-        <tran loc="ar">تم الإلغاء</tran>
-      </TranslationSet>
-    </TextItem>
-    <TextItem>
-      <Description/>
-      <Position>QUALIFICATION_POSITION_FORMAT_CONFERENCE</Position>
-      <TranslationSet>
-        <base loc="en">z - %@</base>
-        <tran loc="ar">ع - ‏%@</tran>
-      </TranslationSet>
-    </TextItem>
-    <TextItem>
-      <Description> These strings are used when we have a provider string.
- Argument is name of provider (e.g. Yelp!)</Description>
-      <Position>REVIEW_SINGULAR_ON_PROVIDER_FORMAT</Position>
-      <TranslationSet>
-        <base loc="en">%1$@ review on %2$@</base>
-        <tran loc="ar">‏%1$@ من المراجعات على %2$@</tran>
-      </TranslationSet>
-    </TextItem>
-    <TextItem>
-      <Description/>
-      <Position>DELAYED_SCHEDULE_FORMAT</Position>
-      <TranslationSet>
-        <base loc="en">Delayed – %@</base>
-        <tran loc="ar">تم التأخير – %@</tran>
-      </TranslationSet>
-    </TextItem>
-    <TextItem>
-      <Description/>
-      <Position>HITS_SHORT_HEADER</Position>
-      <TranslationSet>
-        <base loc="en">H</base>
-        <tran loc="ar">الضربات</tran>
-      </TranslationSet>
-    </TextItem>
-    <TextItem>
-      <Description/>
-      <Position>REVIEWS_PLURAL_FORMAT</Position>
-      <TranslationSet>
-        <base loc="en">%@ reviews</base>
-        <tran loc="ar">%@ من المراجعات</tran>
-      </TranslationSet>
-    </TextItem>
-    <TextItem>
-      <Description> Type to Siri strings</Description>
-      <Position>SIRI_TEXTINPUT_CLEARTEXTBUTTON_TITLE</Position>
-      <TranslationSet>
-        <base loc="en">Clear</base>
-        <tran loc="ar">مسح</tran>
-      </TranslationSet>
-    </TextItem>
-    <TextItem>
-      <Description/>
-      <Position>QUALIFICATION_POSITION_FORMAT_DIVISION</Position>
-      <TranslationSet>
-        <base loc="en">y - %@</base>
-        <tran loc="ar">ص - ‏%@</tran>
-      </TranslationSet>
-    </TextItem>
-    <TextItem>
-      <Description> Points</Description>
-      <Position>PTS</Position>
-      <TranslationSet>
-        <base loc="en">PTS</base>
-        <tran loc="ar">النقاط</tran>
-      </TranslationSet>
-    </TextItem>
-    <TextItem>
-      <Description> 
-  Localizable.strings
-  AssistantUI
-
-  Created by Ben Phipps on 3/27/13.
-  Copyright (c) 2013 Apple Inc. All rights reserved.
-
-
- 🚨IMPORTANT!🚨
- If your string has any feature-sensitive information, or anything that may need to be hidden from seed releases, you must properly hide it.
- Check out this documentation for more information: https://quip-apple.com/sPruAlz48x9Q
- 🚨IMPORTANT!🚨
- 
- These strings are used when the provider name or logo is missing.</Description>
-      <Position>REVIEW_SINGULAR_FORMAT</Position>
-      <TranslationSet>
-        <base loc="en">%@ review</base>
-        <tran loc="ar">%@ من المراجعات</tran>
-      </TranslationSet>
-    </TextItem>
-    <TextItem>
-      <Description/>
-      <Position>SIRI_ROUTE_PICKER_CANCEL_BUTTON_TITLE</Position>
-      <TranslationSet>
-        <base loc="en">Cancel</base>
-        <tran loc="ar">إلغاء</tran>
-      </TranslationSet>
-    </TextItem>
-    <TextItem>
-      <Description> Emergency call strings</Description>
-      <Position>EMERGENCY_CALL_HEADER</Position>
-      <TranslationSet>
-        <base loc="en">Emergency Services</base>
-        <tran loc="ar">خدمات الطوارئ</tran>
-      </TranslationSet>
-    </TextItem>
-    <TextItem>
-      <Description> Cardinal ranking position. Example: "4 - Bayern Munich"</Description>
-      <Position>CARDINAL_POSITION_FORMAT %@ %@</Position>
-      <TranslationSet>
-        <base loc="en">%@ - %@</base>
-        <tran loc="ar">%@ - %@</tran>
-      </TranslationSet>
-    </TextItem>
-    <TextItem>
-      <Description> Losses</Description>
-      <Position>L</Position>
-      <TranslationSet>
-        <base loc="en">L</base>
-        <tran loc="ar">L</tran>
-      </TranslationSet>
-    </TextItem>
-    <TextItem>
-      <Description> Period plus time remaining. Example: "Quarter 3, 12:30"</Description>
-      <Position>PERIOD_TIME_REMAINING_PAIR %@, %@</Position>
-      <TranslationSet>
-        <base loc="en">%@, %@</base>
-        <tran loc="ar">‏%@، %@</tran>
-      </TranslationSet>
-    </TextItem>
-    <TextItem>
-      <Description>Format for channels string, ex - "TV: NBA, FOX"</Description>
-      <Position>TV_SCHEDULE_FORMAT %@</Position>
-      <TranslationSet>
-        <base loc="en">TV: %@</base>
-        <tran loc="ar">تلفاز: %@</tran>
-      </TranslationSet>
-    </TextItem>
-    <TextItem>
-      <Description> Column header for player/team statistics</Description>
-      <Position>STANDINGS_PLAYER</Position>
-      <TranslationSet>
-        <base loc="en">Player</base>
-        <tran loc="ar">اللاعب</tran>
-      </TranslationSet>
-    </TextItem>
-    <TextItem>
-      <Description> First argument is number of reviews. Second argument is provider of the reviews (e.g. Yelp!)</Description>
-      <Position>REVIEWS_PLURAL_ON_PROVIDER_FORMAT</Position>
-      <TranslationSet>
-        <base loc="en">%1$@ reviews on %2$@</base>
-        <tran loc="ar">‏%1$@ من المراجعات على %2$@</tran>
-      </TranslationSet>
-    </TextItem>
-    <TextItem>
-      <Description> Location</Description>
-      <Position>LOC</Position>
-      <TranslationSet>
-        <base loc="en">Location</base>
-        <tran loc="ar">الموقع</tran>
-      </TranslationSet>
-    </TextItem>
-    <TextItem>
-      <Description> Displayed in the map template next to the location name such that the user knows it's a location</Description>
-      <Position>MAP_TEMPLATE_LOCATION_DESCRIPTOR</Position>
-      <TranslationSet>
-        <base loc="en">Location</base>
-        <tran loc="ar">الموقع</tran>
-      </TranslationSet>
-    </TextItem>
-    <TextItem>
-      <Description> Matchups
- Matchups
- Warriors at Rockets</Description>
-      <Position>MATCHUP_AT_TITLE_FORMAT %1$@ %2$@</Position>
-      <TranslationSet>
-        <base loc="en">%1$@ at %2$@</base>
-        <tran loc="ar">‏%1$@ عند %2$@</tran>
-      </TranslationSet>
-    </TextItem>
-    <TextItem>
-      <Description/>
-      <Position>SIRI_TEXTINPUT_REPORTBUGBUTTON_TITLE</Position>
-      <TranslationSet>
-        <base loc="en">Report</base>
-        <tran loc="ar">إبلاغ</tran>
-      </TranslationSet>
-    </TextItem>
-    <TextItem>
-      <Description/>
-      <Position>REVIEWS_PLURAL_ON_PROVIDER_LOGO_FORMAT</Position>
-      <TranslationSet>
-        <base loc="en">%@ reviews on </base>
-        <tran loc="ar">‏%@ من المراجعات على </tran>
-      </TranslationSet>
-    </TextItem>
-    <TextItem>
-      <Description/>
-      <Position>ERROR_SNIPPET_TITLE_GENERIC</Position>
-      <TranslationSet>
-        <base loc="en">Content Not Available</base>
-        <tran loc="ar">المحتوى غير متوفر</tran>
-      </TranslationSet>
-    </TextItem>
-    <TextItem>
-      <Description> Standings playoff qualifications. Example: "x - Bulls"</Description>
-      <Position>QUALIFICATION_POSITION_FORMAT_PLAYOFFS</Position>
-      <TranslationSet>
-        <base loc="en">x - %@</base>
-        <tran loc="ar">‏x - ‏%@</tran>
-      </TranslationSet>
-    </TextItem>
-    <TextItem>
-      <Description> Headers for totals in baseball scoreboard view</Description>
-      <Position>RUNS_SHORT_HEADER</Position>
-      <TranslationSet>
-        <base loc="en">R</base>
-        <tran loc="ar">الركضات</tran>
-      </TranslationSet>
-    </TextItem>
-    <TextItem>
-      <Description/>
-      <Position>MAP_TEMPLATE_ADDRESS_DESCRIPTOR</Position>
-      <TranslationSet>
-        <base loc="en">Address</base>
-        <tran loc="ar">العنوان</tran>
-      </TranslationSet>
-    </TextItem>
-    <TextItem>
-      <Description> Games behind</Description>
-      <Position>GB</Position>
-      <TranslationSet>
-        <base loc="en">GB</base>
-        <tran loc="ar">الفارق</tran>
-      </TranslationSet>
-    </TextItem>
-    <TextItem>
-      <Description/>
-      <Position>EMERGENCY_CALL_COUNTDOWN_WILL_CANCEL</Position>
-      <TranslationSet>
-        <base loc="en">Canceling</base>
-        <tran loc="ar">جاري الإلغاء</tran>
-      </TranslationSet>
-    </TextItem>
-    <TextItem>
-      <Description/>
-      <Position>POSTPONED_SCHEDULE_FORMAT</Position>
-      <TranslationSet>
-        <base loc="en">Postponed – %@</base>
-        <tran loc="ar">تم التأجيل – %@</tran>
-      </TranslationSet>
-    </TextItem>
-    <TextItem>
-      <Description> Status for games in schedule</Description>
-      <Position>FINAL_SCHEDULE_FORMAT</Position>
-      <TranslationSet>
-        <base loc="en">Final – %@</base>
-        <tran loc="ar">النهائي – %@</tran>
-      </TranslationSet>
-    </TextItem>
-    <TextItem>
-      <Description/>
-      <Position>CANCELED_SCHEDULE_FORMAT</Position>
-      <TranslationSet>
-        <base loc="en">Canceled – %@</base>
-        <tran loc="ar">تم الإلغاء – %@</tran>
-      </TranslationSet>
-    </TextItem>
-    <TextItem>
-      <Description> Ties</Description>
-      <Position>T</Position>
-      <TranslationSet>
-        <base loc="en">T</base>
-        <tran loc="ar">المجموع</tran>
-      </TranslationSet>
-    </TextItem>
-    <TextItem>
-      <Description> Header for total/runs score in schedule view</Description>
-      <Position>TOTAL_SHORT_HEADER</Position>
-      <TranslationSet>
-        <base loc="en">T</base>
-        <tran loc="ar">المجموع</tran>
-      </TranslationSet>
-    </TextItem>
-    <TextItem>
-      <Description/>
-      <Position>STANDINGS_TEAM</Position>
-      <TranslationSet>
-        <base loc="en">Team</base>
-        <tran loc="ar">الفريق</tran>
-      </TranslationSet>
-    </TextItem>
-    <TextItem>
-      <Description>Separator for channels string, ',' in "TV: NBA, FOX, ESPN"</Description>
-      <Position>TV_SCHEDULE_LIST_JOINER</Position>
-      <TranslationSet>
-        <base loc="en">, </base>
-        <tran loc="ar">‏، </tran>
-      </TranslationSet>
-    </TextItem>
-    <TextItem>
-      <Description> Format for venue + location, e.g. "United Center – Chicago, IL"</Description>
-      <Position>VENUE_LOCATION_FORMAT %@ %@</Position>
-      <TranslationSet>
-        <base loc="en">%@ – %@</base>
-        <tran loc="ar">%@ – %@</tran>
-      </TranslationSet>
-    </TextItem>
-    <TextItem>
-      <Description> Points For</Description>
-      <Position>GF</Position>
-      <TranslationSet>
-        <base loc="en">GF</base>
-        <tran loc="ar">GF</tran>
-      </TranslationSet>
-    </TextItem>
-    <TextItem>
-      <Description/>
-      <Position>ERRORS_SHORT_HEADER</Position>
-      <TranslationSet>
-        <base loc="en">E</base>
-        <tran loc="ar">أخطاء</tran>
-      </TranslationSet>
-    </TextItem>
-    <TextItem>
-      <Description> Put “1” if localization requires the placement of CARDND_USE_SIRI_SUBTITLE to be before CARDND_USE_SIRI_TITLE. Otherwise, leave it to “0”.</Description>
-      <Position>CARDND_USE_SIRI_TITLE_SUBTITLE_SWAP_ORDER</Position>
-      <TranslationSet>
-        <base loc="en">0</base>
-        <tran loc="ar">0</tran>
-      </TranslationSet>
-    </TextItem>
-    <TextItem>
-      <Description> Format for Scoreboard header score</Description>
-      <Position>SCOREBOARD_SCORE_TITLE %@ %@</Position>
-      <TranslationSet>
-        <base loc="en">%@-%@</base>
-        <tran loc="ar">%@-%@</tran>
-      </TranslationSet>
-    </TextItem>
-    <TextItem>
-      <Description/>
-      <Position>EMERGENCY_CALL_COUNTDOWN_WILL_CONFIRM</Position>
-      <TranslationSet>
-        <base loc="en">Calling…</base>
-        <tran loc="ar">جاري الاتصال…</tran>
-      </TranslationSet>
-    </TextItem>
-    <TextItem>
-      <Description> Overtime losses</Description>
-      <Position>OTL</Position>
-      <TranslationSet>
-        <base loc="en">OTL</base>
-        <tran loc="ar">OTL</tran>
-      </TranslationSet>
-    </TextItem>
-    <TextItem>
-      <Description>Concatenation of height and weight for an athlete
-Example: "5'7" 130lb".   %1$@ is the height, and $2$@ is the weight</Description>
-      <Position>HEIGHT_AND_WEIGHT_FORMAT</Position>
-      <TranslationSet>
-        <base loc="en">%1$@ %2$@</base>
-        <tran loc="ar">‏%1$@ %2$@</tran>
-      </TranslationSet>
-    </TextItem>
-    <TextItem>
-      <Description> Review dates</Description>
-      <Position>LESS_THAN_ONE_DAY_HOURS_FORMAT</Position>
-      <TranslationSet>
-        <base loc="en">%@ hours ago</base>
-        <tran loc="ar">منذ %@ من الساعات</tran>
-      </TranslationSet>
-    </TextItem>
-    <TextItem>
-      <Description> Time displayed for games that day with an unscheduled time</Description>
-      <Position>TO_BE_DETERMINED</Position>
-      <TranslationSet>
-        <base loc="en">TBD</base>
-        <tran loc="ar">سيتم تحديده</tran>
-      </TranslationSet>
-    </TextItem>
-    <TextItem>
-      <Description> Sounders vs Galaxy</Description>
-      <Position>MATCHUP_VS_TITLE_FORMAT %1$@ %2$@</Position>
-      <TranslationSet>
-        <base loc="en">%1$@ vs %2$@</base>
-        <tran loc="ar">‏%1$@ ضد %2$@</tran>
-      </TranslationSet>
-    </TextItem>
-    <TextItem>
-      <Description> These strings are to be used when the provider is an image rather than a string.</Description>
-      <Position>REVIEW_SINGULAR_ON_PROVIDER_LOGO_FORMAT</Position>
-      <TranslationSet>
-        <base loc="en">%@ review on </base>
-        <tran loc="ar">%@ من المراجعات على </tran>
-      </TranslationSet>
-    </TextItem>
-    <TextItem>
-      <Description/>
-      <Position>SIRI_TEXTINPUT_PLACEHOLDER</Position>
-      <TranslationSet>
-        <base loc="en">Type to Siri</base>
-        <tran loc="ar">الكتابة إلى Siri</tran>
-      </TranslationSet>
-    </TextItem>
-    <TextItem>
-      <Description>Do Not Disturb While Driving strings. This is concatenated with CARDND_USE_SIRI_SUBTITLE in runtime. The placement of CARDND_USE_SIRI_SUBTITLE can be controlled by CARDND_USE_SIRI_TITLE_SUBTITLE_SWAP_ORDER.</Description>
-      <Position>CARDND_USE_SIRI_TITLE</Position>
-      <TranslationSet>
-        <base loc="en">Say “%@”</base>
-        <tran loc="ar">قل "%@"</tran>
-      </TranslationSet>
-    </TextItem>
-    <TextItem>
-      <Description> Review text, surrounded by quotes</Description>
-      <Position>REVIEW_TEXT_FORMAT</Position>
-      <TranslationSet>
-        <base loc="en">“%@”</base>
-        <tran loc="ar">‏"%@"</tran>
-      </TranslationSet>
-    </TextItem>
-    <TextItem>
-      <Description/>
-      <Position>EMERGENCY_CALL_COUNTDOWN_CONFIRMED</Position>
-      <TranslationSet>
-        <base loc="en">Call placed</base>
-        <tran loc="ar">تم إجراء المكالمة</tran>
-      </TranslationSet>
-    </TextItem>
-  </File>
-  <File>
-    <Filepath>AssistantUI/System/Library/PrivateFrameworks/AssistantUI.framework/en.lproj/Disable.strings</Filepath>
-    <TextItem>
-      <Description/>
-      <Position>DISABLE_AND_DELETE_PROMPT_MULTI_USER</Position>
-      <TranslationSet>
-        <base loc="en">If you stop using Siri with iCloud, your Siri settings will no longer sync between your devices and HomePod speakers in homes you are a member of will no longer be able to recognize your voice or respond to personal requests.</base>
-        <tran loc="ar">في حال التوقف عن استخدام Siri مع iCloud، فلن تتزامن إعدادات Siri بين أجهزتك، ولن يعود بإمكان سماعات HomePod في المنازل التي أنت عضو فيها التعرف على صوتك أو الاستجابة للطلبات الشخصية.</tran>
-      </TranslationSet>
-    </TextItem>
-    <TextItem>
-      <Description/>
-      <Position>DISABLE_AND_DELETE_PROMPT_TITLE_MULTI_USER</Position>
-      <TranslationSet>
-        <base loc="en">Stop Using Siri with iCloud</base>
-        <tran loc="ar">التوقف عن استخدام Siri مع iCloud</tran>
-      </TranslationSet>
-    </TextItem>
-    <TextItem>
-      <Description> 
-  Disable.strings
-  Assistant
-
-  Created by Ben Phipps on 4/27/17.
-  Copyright © 2017 Apple Inc. All rights reserved.
-</Description>
-      <Position>DISABLE_AND_DELETE</Position>
-      <TranslationSet>
-        <base loc="en">Disable &amp; Delete</base>
-        <tran loc="ar">تعطيل وحذف</tran>
-      </TranslationSet>
-    </TextItem>
-    <TextItem>
-      <Description/>
-      <Position>DISABLE_AND_DELETE_PROMPT_OK</Position>
-      <TranslationSet>
-        <base loc="en">Disable &amp; Delete</base>
-        <tran loc="ar">تعطيل وحذف</tran>
-      </TranslationSet>
-    </TextItem>
-    <TextItem>
-      <Description/>
-      <Position>DISABLE_AND_DELETE_PROMPT_TITLE</Position>
-      <TranslationSet>
-        <base loc="en">Disable &amp; Delete</base>
-        <tran loc="ar">تعطيل وحذف</tran>
-      </TranslationSet>
-    </TextItem>
-    <TextItem>
-      <Description/>
-      <Position>DISABLE_AND_DELETE_PROMPT_CANCEL</Position>
-      <TranslationSet>
-        <base loc="en">Cancel</base>
-        <tran loc="ar">إلغاء</tran>
-      </TranslationSet>
-    </TextItem>
-    <TextItem>
-      <Description/>
-      <Position>DISABLE_AND_DELETE_PROMPT_CANCEL_MULTI_USER</Position>
-      <TranslationSet>
-        <base loc="en">Cancel</base>
-        <tran loc="ar">إلغاء</tran>
-      </TranslationSet>
-    </TextItem>
-    <TextItem>
-      <Description/>
-      <Position>DISABLE_AND_DELETE_PROMPT</Position>
-      <TranslationSet>
-        <base loc="en">This will not turn off Siri, but learning will be limited to individual devices.</base>
-        <tran loc="ar">لن يؤدي هذا إلى إيقاف تشغيل Siri، إلا أن التعلم سيكون محصورًا في الأجهزة الفردية.</tran>
-      </TranslationSet>
-    </TextItem>
-    <TextItem>
-      <Description/>
-      <Position>DISABLE_AND_DELETE_FOOTER</Position>
-      <TranslationSet>
-        <base loc="en">Turn off Siri in iCloud and delete what Siri has learned. This will not turn off Siri, but learning will be limited to individual devices.</base>
-        <tran loc="ar">أوقف Siri في iCloud وامسح ما تعلمته Siri. لن يؤدي هذا إلى إيقاف تشغيل Siri، إلا أن التعلم سيكون محصورًا في الأجهزة الفردية.</tran>
-      </TranslationSet>
-    </TextItem>
-  </File>
-</Proj>
