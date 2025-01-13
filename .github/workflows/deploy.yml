@@ -1,0 +1,39 @@
+name: Deploy
+
+on:
+  push:
+    branches:
+      - main
+jobs:
+  deploy:
+    name: Deploy to VPS
+    runs-on: ubuntu-latest
+
+    steps:
+      # Step 1: Check out the repository
+      - name: Checkout Code
+        uses: actions/checkout@v3
+
+      # Step 2: Deploy via SSH
+      - name: Deploy via SSH
+        env:
+          SSH_PRIVATE_KEY: ${{ secrets.SSH_PRIVATE_KEY }}
+          VPS_USER: ${{ secrets.VPS_USER }}
+          VPS_HOST: ${{ secrets.VPS_HOST }}
+          APP_PATH: ${{ secrets.APP_PATH }}
+        run: |
+          # Set up SSH
+          mkdir -p ~/.ssh
+          echo "$SSH_PRIVATE_KEY" > ~/.ssh/id_rsa
+          chmod 600 ~/.ssh/id_rsa
+          ssh-keyscan -H $VPS_HOST >> ~/.ssh/known_hosts
+
+          # Restart the app using PM2
+          ssh $VPS_USER@$VPS_HOST "
+              . ~/.nvm/nvm.sh &&
+              cd $APP_PATH &&
+              pm2 stop mostalah || echo 'mostalah process is not running' &&
+              git pull origin main &&
+              npm install --save=false &&
+              pm2 restart mostalah || pm2 start ./index.js --name mostalah -- --port=4000
+          "
